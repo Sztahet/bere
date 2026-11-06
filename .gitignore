@@ -1,0 +1,18 @@
+# Lokalne archiwum i nieużywane warianty grafik.
+/archive/
+/assets/heroes/portraits/originals/
+/assets/heroes/portraits/candidates/thora-nature-tank-v2.png
+/assets/heroes/portraits/upcoming/adrien-light-specialist.png
+/assets/heroes/portraits/upcoming/adrien-light-specialist-v2.png
+/assets/heroes/portraits/upcoming/adrien-light-specialist-v3.png
+/assets/heroes/portraits/upcoming/anna-nature-summoner-bob.png
+/assets/heroes/portraits/upcoming/anna-nature-summoner-bob-v2.png
+/assets/heroes/portraits/upcoming/eron-nature-specialist.png
+/assets/heroes/portraits/upcoming/kiran-earth-specialist.png
+/assets/heroes/portraits/upcoming/lucen-light-specialist.png
+/assets/heroes/portraits/upcoming/miki-lightning-specialist.png
+
+# Pliki systemowe i tymczasowe.
+Thumbs.db
+.DS_Store
+*.tmp
