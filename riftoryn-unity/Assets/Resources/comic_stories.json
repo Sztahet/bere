@@ -1,0 +1,706 @@
+{
+  "comics": [
+    {
+      "heroId": "ana",
+      "resource": "Stories/ana-bob",
+      "titlePl": "Ana i Bob: Pierwsze spotkanie",
+      "titleEn": "Ana and Bob: First Meeting",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25017,
+          "width": 0.46,
+          "height": 0.02683,
+          "pl": "Ana wyruszyła do lasu.",
+          "en": "Ana ventured into the forest."
+        },
+        {
+          "x": 0.54,
+          "y": 0.25017,
+          "width": 0.43,
+          "height": 0.02683,
+          "pl": "W liściach krył się mały Bob.",
+          "en": "Little Bob hid among the leaves."
+        },
+        {
+          "x": 0.035,
+          "y": 0.48089,
+          "width": 0.47,
+          "height": 0.02414,
+          "pl": "„Nie bój się. Jestem Ana.”",
+          "en": "“Don’t be afraid. I’m Ana.”"
+        },
+        {
+          "x": 0.565,
+          "y": 0.48089,
+          "width": 0.405,
+          "height": 0.02414,
+          "pl": "Bob skosztował bambusa.",
+          "en": "Bob tasted the bamboo."
+        },
+        {
+          "x": 0.03,
+          "y": 0.68478,
+          "width": 0.42,
+          "height": 0.02549,
+          "pl": "Razem przeczekali burzę.",
+          "en": "They sheltered from the storm."
+        },
+        {
+          "x": 0.5,
+          "y": 0.68478,
+          "width": 0.46,
+          "height": 0.02549,
+          "pl": "Wspólna droga zmieniła się w zabawę.",
+          "en": "Their journey became a game."
+        },
+        {
+          "x": 0.03,
+          "y": 0.94903,
+          "width": 0.38,
+          "height": 0.03085,
+          "pl": "Przed nimi czekał wielki świat.",
+          "en": "A wide world awaited them."
+        },
+        {
+          "x": 0.46,
+          "y": 0.94903,
+          "width": 0.5,
+          "height": 0.03085,
+          "pl": "Odtąd nie byli już sami.",
+          "en": "Neither would be alone again."
+        }
+      ]
+    },
+    {
+      "heroId": "koneva",
+      "resource": "Stories/koneva-pati",
+      "titlePl": "Koneva i Pati: Nowe skrzydła",
+      "titleEn": "Koneva and Patsy: New Wings",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25483,
+          "width": 0.46,
+          "height": 0.02901,
+          "pl": "Pati była przyjaciółką Konevy.",
+          "en": "Patsy was Koneva’s dear friend."
+        },
+        {
+          "x": 0.54,
+          "y": 0.25483,
+          "width": 0.43,
+          "height": 0.02901,
+          "pl": "„Zostań ze mną, Pati...”",
+          "en": "“Stay with me, Patsy...”"
+        },
+        {
+          "x": 0.03,
+          "y": 0.49793,
+          "width": 0.46,
+          "height": 0.02486,
+          "pl": "Koneva szukała ratunku w księgach.",
+          "en": "Koneva searched her books for help."
+        },
+        {
+          "x": 0.54,
+          "y": 0.49793,
+          "width": 0.43,
+          "height": 0.02486,
+          "pl": "Przygotowała tajemniczy rytuał.",
+          "en": "She prepared a mysterious ritual."
+        },
+        {
+          "x": 0.03,
+          "y": 0.71892,
+          "width": 0.46,
+          "height": 0.02486,
+          "pl": "Ciemność otoczyła małą kotkę.",
+          "en": "Darkness surrounded the little cat."
+        },
+        {
+          "x": 0.54,
+          "y": 0.71892,
+          "width": 0.43,
+          "height": 0.02486,
+          "pl": "Pati obudziła się ze skrzydłami!",
+          "en": "Patsy awoke with wings!"
+        },
+        {
+          "x": 0.03,
+          "y": 0.95649,
+          "width": 0.44,
+          "height": 0.02624,
+          "pl": "Koneva znów objęła przyjaciółkę.",
+          "en": "Koneva held her friend again."
+        },
+        {
+          "x": 0.52,
+          "y": 0.95649,
+          "width": 0.45,
+          "height": 0.02624,
+          "pl": "Przed nimi otworzył się świat.",
+          "en": "A new world awaited them."
+        }
+      ]
+    },
+    {
+      "heroId": "pyrra",
+      "resource": "Stories/pyrra-spark",
+      "titlePl": "Pyrra i Iskra: Płomień przyjaźni",
+      "titleEn": "Pyrra and Spark: A Spark of Friendship",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25519,
+          "width": 0.46,
+          "height": 0.02766,
+          "pl": "Pyrra chroniła ostatni płomień.",
+          "en": "Pyrra sheltered her last flame."
+        },
+        {
+          "x": 0.54,
+          "y": 0.25519,
+          "width": 0.43,
+          "height": 0.02766,
+          "pl": "„Hej! Oddaj mój płomień!”",
+          "en": "“Hey! Give my flame back!”"
+        },
+        {
+          "x": 0.03,
+          "y": 0.49308,
+          "width": 0.46,
+          "height": 0.02213,
+          "pl": "Pyrra ruszyła za nią przez las.",
+          "en": "Pyrra chased her through the forest."
+        },
+        {
+          "x": 0.54,
+          "y": 0.49308,
+          "width": 0.43,
+          "height": 0.02213,
+          "pl": "W jaskini znalazła zziębniętą lisicę.",
+          "en": "In a cave, the fox shivered."
+        },
+        {
+          "x": 0.03,
+          "y": 0.70885,
+          "width": 0.46,
+          "height": 0.0249,
+          "pl": "Otuliła ją i podzieliła się ciepłem.",
+          "en": "She shared her cloak and warmth."
+        },
+        {
+          "x": 0.54,
+          "y": 0.70885,
+          "width": 0.43,
+          "height": 0.0249,
+          "pl": "Ogon Iskry rozbłysł ogniem.",
+          "en": "Spark’s tail burst into flame."
+        },
+        {
+          "x": 0.03,
+          "y": 0.95505,
+          "width": 0.46,
+          "height": 0.0249,
+          "pl": "Razem odkrywały magię ognia.",
+          "en": "Together they explored fire magic."
+        },
+        {
+          "x": 0.54,
+          "y": 0.95505,
+          "width": 0.43,
+          "height": 0.0249,
+          "pl": "Tak zaczęła się ich przyjaźń.",
+          "en": "And so their friendship began."
+        }
+      ]
+    },
+    {
+      "heroId": "eira",
+      "resource": "Stories/eira-frost",
+      "titlePl": "Eira i Szron: Droga do domu",
+      "titleEn": "Eira and Frost: The Way Home",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25326,
+          "width": 0.44,
+          "height": 0.02344,
+          "pl": "Eira przemierzał zimowy las.",
+          "en": "Eira crossed the winter forest."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25326,
+          "width": 0.44,
+          "height": 0.02344,
+          "pl": "W śniegu znalazł rannego rysia.",
+          "en": "He found an injured lynx in the snow."
+        },
+        {
+          "x": 0.03,
+          "y": 0.49154,
+          "width": 0.44,
+          "height": 0.02344,
+          "pl": "„Spokojnie. Pomogę ci.”",
+          "en": "“Easy. I’ll help you.”"
+        },
+        {
+          "x": 0.53,
+          "y": 0.49154,
+          "width": 0.44,
+          "height": 0.02344,
+          "pl": "W schronieniu opatrzył ranę.",
+          "en": "At the shelter he tended the wound."
+        },
+        {
+          "x": 0.03,
+          "y": 0.72591,
+          "width": 0.44,
+          "height": 0.02083,
+          "pl": "Szron odpoczywał przy ogniu.",
+          "en": "Frost rested by the fire."
+        },
+        {
+          "x": 0.53,
+          "y": 0.72591,
+          "width": 0.44,
+          "height": 0.02083,
+          "pl": "Gdy wyzdrowiał, ruszył do lasu.",
+          "en": "Once well, he returned to the forest."
+        },
+        {
+          "x": 0.03,
+          "y": 0.95898,
+          "width": 0.44,
+          "height": 0.02344,
+          "pl": "Szron wrócił z własnej woli.",
+          "en": "Frost returned of his own accord."
+        },
+        {
+          "x": 0.53,
+          "y": 0.95898,
+          "width": 0.44,
+          "height": 0.02344,
+          "pl": "Odtąd szli razem.",
+          "en": "From then on, they travelled together."
+        }
+      ]
+    },
+    {
+      "heroId": "miko",
+      "resource": "Stories/miko",
+      "titlePl": "Miko: Iskra pomysłu",
+      "titleEn": "Miko: A Spark of Invention",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25586,
+          "width": 0.44,
+          "height": 0.02083,
+          "pl": "Miko pracował nad wynalazkiem.",
+          "en": "Miko worked on an invention."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25586,
+          "width": 0.44,
+          "height": 0.02083,
+          "pl": "Pierwsza iskra go zaskoczyła!",
+          "en": "The first spark surprised him!"
+        },
+        {
+          "x": 0.03,
+          "y": 0.48763,
+          "width": 0.44,
+          "height": 0.02474,
+          "pl": "„Jeszcze raz... ostrożnie.”",
+          "en": "“Once more... carefully.”"
+        },
+        {
+          "x": 0.53,
+          "y": 0.48763,
+          "width": 0.44,
+          "height": 0.02474,
+          "pl": "Znów przeskoczyła iskra!",
+          "en": "Another spark leapt out!"
+        },
+        {
+          "x": 0.03,
+          "y": 0.72721,
+          "width": 0.44,
+          "height": 0.02214,
+          "pl": "Wreszcie urządzenie trafiło w cel.",
+          "en": "At last, the device hit its target."
+        },
+        {
+          "x": 0.53,
+          "y": 0.72721,
+          "width": 0.44,
+          "height": 0.02214,
+          "pl": "„To chyba trochę za mocno!”",
+          "en": "“That might be a bit too much!”"
+        },
+        {
+          "x": 0.03,
+          "y": 0.95638,
+          "width": 0.44,
+          "height": 0.02604,
+          "pl": "Miko połączył wynalazek ze szpadą.",
+          "en": "Miko paired invention with sword."
+        },
+        {
+          "x": 0.53,
+          "y": 0.95638,
+          "width": 0.44,
+          "height": 0.02604,
+          "pl": "Pora na następną przygodę.",
+          "en": "Time for the next adventure."
+        }
+      ]
+    },
+    {
+      "heroId": "morrak",
+      "resource": "Stories/morrak",
+      "titlePl": "Morrak: Strażnik w burzy",
+      "titleEn": "Morrak: Guardian in the Storm",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25603,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Powóz przemierzał burzowy las.",
+          "en": "A carriage crossed the stormy forest."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25603,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Pasażerowie usłyszeli grzmot.",
+          "en": "The passengers heard thunder."
+        },
+        {
+          "x": 0.03,
+          "y": 0.49055,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Piorun uderzył w drzewo.",
+          "en": "Lightning struck a tree."
+        },
+        {
+          "x": 0.53,
+          "y": 0.49055,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Pień runął wprost na powóz!",
+          "en": "The trunk fell toward the carriage!"
+        },
+        {
+          "x": 0.03,
+          "y": 0.72638,
+          "width": 0.44,
+          "height": 0.02085,
+          "pl": "Cień osłonił podróżnych.",
+          "en": "A shadow shielded the travellers."
+        },
+        {
+          "x": 0.53,
+          "y": 0.72638,
+          "width": 0.44,
+          "height": 0.02085,
+          "pl": "Pasażerka podziękowała gestem.",
+          "en": "A passenger offered silent thanks."
+        },
+        {
+          "x": 0.03,
+          "y": 0.957,
+          "width": 0.44,
+          "height": 0.02345,
+          "pl": "Morrak? Vesh? Odszedł bez słowa.",
+          "en": "Morrak? Vesh? They left in silence."
+        },
+        {
+          "x": 0.53,
+          "y": 0.957,
+          "width": 0.44,
+          "height": 0.02345,
+          "pl": "Droga znów była wolna.",
+          "en": "The road was clear again."
+        }
+      ]
+    },
+    {
+      "heroId": "kael",
+      "resource": "Stories/kael",
+      "titlePl": "Kael: Ostatni piec",
+      "titleEn": "Kael: The Last Furnace",
+      "titleRect": {
+        "x": 0.205,
+        "y": 0.012,
+        "width": 0.58,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.2632,
+          "width": 0.44,
+          "height": 0.02425,
+          "pl": "W Vareth rozgrzewał się piec.",
+          "en": "The furnace heated up in Vareth."
+        },
+        {
+          "x": 0.53,
+          "y": 0.2632,
+          "width": 0.44,
+          "height": 0.02425,
+          "pl": "„Musimy stąd wyjść!”",
+          "en": "“We need to get out!”"
+        },
+        {
+          "x": 0.03,
+          "y": 0.49572,
+          "width": 0.44,
+          "height": 0.02853,
+          "pl": "Kael poprowadziła ewakuację.",
+          "en": "Kael led the evacuation."
+        },
+        {
+          "x": 0.53,
+          "y": 0.49572,
+          "width": 0.44,
+          "height": 0.02853,
+          "pl": "Osłona zatrzymała żar i odłamki.",
+          "en": "Her barrier caught the heat and debris."
+        },
+        {
+          "x": 0.03,
+          "y": 0.72254,
+          "width": 0.44,
+          "height": 0.0214,
+          "pl": "Z rzemieślnikami znalazła rozwiązanie.",
+          "en": "With the crafters, she found a solution."
+        },
+        {
+          "x": 0.53,
+          "y": 0.72254,
+          "width": 0.44,
+          "height": 0.0214,
+          "pl": "Razem zabezpieczyli mechanizm.",
+          "en": "Together they secured the machinery."
+        },
+        {
+          "x": 0.03,
+          "y": 0.95506,
+          "width": 0.44,
+          "height": 0.02425,
+          "pl": "Warsztat znów był bezpieczny.",
+          "en": "The workshop was safe again."
+        },
+        {
+          "x": 0.53,
+          "y": 0.95506,
+          "width": 0.44,
+          "height": 0.02425,
+          "pl": "Żar służył całej wspólnocie.",
+          "en": "Its warmth served the whole community."
+        }
+      ]
+    },
+    {
+      "heroId": "saila",
+      "resource": "Stories/saila",
+      "titlePl": "Saila: Spokój lodu",
+      "titleEn": "Saila: The Calm of Ice",
+      "titleRect": {
+        "x": 0.205,
+        "y": 0.012,
+        "width": 0.58,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.26034,
+          "width": 0.44,
+          "height": 0.0271,
+          "pl": "Saila dorastała wśród lodowych szczytów.",
+          "en": "Saila grew up among icy peaks."
+        },
+        {
+          "x": 0.53,
+          "y": 0.26034,
+          "width": 0.44,
+          "height": 0.0271,
+          "pl": "Jako dziecko odkryła moc kryształów.",
+          "en": "As a child, she discovered crystal magic."
+        },
+        {
+          "x": 0.03,
+          "y": 0.5,
+          "width": 0.44,
+          "height": 0.02425,
+          "pl": "Pewnego dnia wymknęła się spod kontroli.",
+          "en": "One day her power slipped out of control."
+        },
+        {
+          "x": 0.53,
+          "y": 0.5,
+          "width": 0.44,
+          "height": 0.02425,
+          "pl": "Saila szukała odpowiedzi w ciszy gór.",
+          "en": "Saila sought answers in the quiet mountains."
+        },
+        {
+          "x": 0.03,
+          "y": 0.72111,
+          "width": 0.44,
+          "height": 0.02282,
+          "pl": "Napotkany mistrz podał jej pomocną dłoń.",
+          "en": "A mentor offered her a helping hand."
+        },
+        {
+          "x": 0.53,
+          "y": 0.72111,
+          "width": 0.44,
+          "height": 0.02282,
+          "pl": "Cierpliwie ćwiczyli panowanie nad lodem.",
+          "en": "Together they patiently practised ice magic."
+        },
+        {
+          "x": 0.03,
+          "y": 0.95364,
+          "width": 0.44,
+          "height": 0.0214,
+          "pl": "Nauczyła się chronić, nie niszczyć.",
+          "en": "She learned to protect without destroying."
+        },
+        {
+          "x": 0.53,
+          "y": 0.95364,
+          "width": 0.44,
+          "height": 0.0214,
+          "pl": "Przed nią otworzyła się nowa droga.",
+          "en": "A new path lay before her."
+        }
+      ]
+    },
+    {
+      "heroId": "thora",
+      "resource": "Stories/thora",
+      "titlePl": "Thora: Korzenie ostoi",
+      "titleEn": "Thora: Roots of Shelter",
+      "titleRect": {
+        "x": 0.205,
+        "y": 0.012,
+        "width": 0.58,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.26034,
+          "width": 0.44,
+          "height": 0.02282,
+          "pl": "Thora strzegła swojej doliny.",
+          "en": "Thora guarded her valley."
+        },
+        {
+          "x": 0.53,
+          "y": 0.26034,
+          "width": 0.44,
+          "height": 0.02282,
+          "pl": "Nad osadą rozpętała się burza.",
+          "en": "A storm gathered over the village."
+        },
+        {
+          "x": 0.03,
+          "y": 0.49572,
+          "width": 0.44,
+          "height": 0.01997,
+          "pl": "Woda przerwała zabezpieczenia!",
+          "en": "Water broke through the defenses!"
+        },
+        {
+          "x": 0.53,
+          "y": 0.49572,
+          "width": 0.44,
+          "height": 0.01997,
+          "pl": "Thora osłoniła uciekających.",
+          "en": "Thora shielded the fleeing villagers."
+        },
+        {
+          "x": 0.03,
+          "y": 0.72539,
+          "width": 0.44,
+          "height": 0.01997,
+          "pl": "Tarcza zatrzymała napór wody.",
+          "en": "Her shield held back the rushing water."
+        },
+        {
+          "x": 0.53,
+          "y": 0.72539,
+          "width": 0.44,
+          "height": 0.01997,
+          "pl": "Korzenie wsparły jej obronę.",
+          "en": "Roots strengthened her defense."
+        },
+        {
+          "x": 0.03,
+          "y": 0.95364,
+          "width": 0.44,
+          "height": 0.02282,
+          "pl": "Razem zaczęli odbudowę.",
+          "en": "Together they began to rebuild."
+        },
+        {
+          "x": 0.53,
+          "y": 0.95364,
+          "width": 0.44,
+          "height": 0.02282,
+          "pl": "Dolina znów mogła rozkwitnąć.",
+          "en": "The valley could bloom again."
+        }
+      ]
+    }
+  ]
+}

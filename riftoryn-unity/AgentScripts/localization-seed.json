@@ -1,0 +1,3504 @@
+{
+  "rows": [
+    {
+      "key": "text_31daf0d9",
+      "pl": "\nCZAS {0:F1} S  •  OBRAŻENIA {1:F0}  •  ZDOLNOŚCI {2}",
+      "en": "\nTIME {0:F1} S  •  DAMAGE {1:F0}  •  ABILITIES {2}"
+    },
+    {
+      "key": "text_ce223203",
+      "pl": "\nCzas {0:F1} s  •  obrażenia {1:F0}  •  zdolności {2}",
+      "en": "\nTime {0:F1} s  •  damage {1:F0}  •  abilities {2}"
+    },
+    {
+      "key": "text_cf249ddd",
+      "pl": "  ·  ZMIEŃ",
+      "en": "  ·  CHANGE"
+    },
+    {
+      "key": "text_3d29f1d0",
+      "pl": "  •  {0} AI: {1}",
+      "en": "  •  {0} AI: {1}"
+    },
+    {
+      "key": "text_ad08a524",
+      "pl": "30 BOHATERÓW",
+      "en": "30 HEROES"
+    },
+    {
+      "key": "text_73448ea5",
+      "pl": "4 ROLE × 7 ŻYWIOŁÓW",
+      "en": "4 ROLES × 7 ELEMENTS"
+    },
+    {
+      "key": "text_8bb600b1",
+      "pl": "4 role × 7 żywiołów",
+      "en": "4 roles × 7 elements"
+    },
+    {
+      "key": "text_5197f0b7",
+      "pl": "ARCHIWUM RIFTORYN  /  ŚWIAT I BOHATEROWIE",
+      "en": "ARCHIVE RIFTORYN / WORLD AND HEROES"
+    },
+    {
+      "key": "text_0b72fa8e",
+      "pl": "ATAK · CHŁODNA GŁOWA",
+      "en": "ATTACK · COLD HEAD"
+    },
+    {
+      "key": "text_e250badb",
+      "pl": "ATAK · ELEKTROIMPULS",
+      "en": "ATTACK · ELECTROIMPULSE"
+    },
+    {
+      "key": "text_476a9cc9",
+      "pl": "ATAK · GĘSTY MROK",
+      "en": "ATTACK · DENSE FOG"
+    },
+    {
+      "key": "text_f3b82ff1",
+      "pl": "ATAK · MUR TARCZ",
+      "en": "ATTACK · SHIELD WALL"
+    },
+    {
+      "key": "text_2b54a383",
+      "pl": "ATAK · POLE ŻYCIA",
+      "en": "ATTACK · LIFE FIELD"
+    },
+    {
+      "key": "text_354a7b31",
+      "pl": "ATAK · PROMIEŃ ZWIADU",
+      "en": "ATTACK · BEACON SCAN"
+    },
+    {
+      "key": "text_15392d86",
+      "pl": "ATAK · SKUPIONY ŻAR",
+      "en": "ATTACK · FOCUSED FLAME"
+    },
+    {
+      "key": "text_3cc641d8",
+      "pl": "ATAK · WSPÓLNY IMPULS",
+      "en": "ATTACK · SHARED IMPULSE"
+    },
+    {
+      "key": "text_24d3c01b",
+      "pl": "ATAK · ZABURZENIE CELOWANIA",
+      "en": "ATTACK · TARGETING DISRUPTION"
+    },
+    {
+      "key": "text_45b84378",
+      "pl": "ATAK · ZAMROŻENIE MECHANIZMU",
+      "en": "ATTACK · FREEZING MECHANISM"
+    },
+    {
+      "key": "text_abca566d",
+      "pl": "ATAK · ŻAROWA BARIERA",
+      "en": "ATTACK · FIRE BARRIER"
+    },
+    {
+      "key": "text_1bc1c01a",
+      "pl": "ATAK · ŻYWA OSTOJA",
+      "en": "ATTACK · LIVING THORNS"
+    },
+    {
+      "key": "text_30c9a8af",
+      "pl": "AUTO · ",
+      "en": "AUTO · "
+    },
+    {
+      "key": "text_89c1b5f5",
+      "pl": "AUTOMATYCZNY OSTRZAŁ WYBRANEJ WIEŻY JEST SZYBSZY PRZEZ 5 S.",
+      "en": "THE SELECTED TOWER FIRES FASTER FOR 5 S."
+    },
+    {
+      "key": "text_7d669756",
+      "pl": "Atak · Chłodna głowa",
+      "en": "Attack · Cold Head"
+    },
+    {
+      "key": "text_ff83d6bb",
+      "pl": "Atak · Elektroimpuls",
+      "en": "Attack · Electroimpulse"
+    },
+    {
+      "key": "text_c0cbabb6",
+      "pl": "Atak · Gęsty mrok",
+      "en": "Attack · Dense Fog"
+    },
+    {
+      "key": "text_f65b9c71",
+      "pl": "Atak · Mur tarcz",
+      "en": "Attack · Shield Wall"
+    },
+    {
+      "key": "text_04d07382",
+      "pl": "Atak · Pole życia",
+      "en": "Attack · Life Field"
+    },
+    {
+      "key": "text_7e84faaa",
+      "pl": "Atak · Promień zwiadu",
+      "en": "Attack · Beacon Scan"
+    },
+    {
+      "key": "text_d5471057",
+      "pl": "Atak · Skupiony żar",
+      "en": "Attack · Focused Flame"
+    },
+    {
+      "key": "text_26e5b138",
+      "pl": "Atak · Wspólny impuls",
+      "en": "Attack · Shared Impulse"
+    },
+    {
+      "key": "text_31c8123b",
+      "pl": "Atak · Zaburzenie celowania",
+      "en": "Attack · Targeting Disruption"
+    },
+    {
+      "key": "text_4f1d26ff",
+      "pl": "Atak · Zamrożenie mechanizmu",
+      "en": "Attack · Freezing Mechanism"
+    },
+    {
+      "key": "text_ff08af4d",
+      "pl": "Atak · Żarowa bariera",
+      "en": "Attack · Fire Barrier"
+    },
+    {
+      "key": "text_91833c5a",
+      "pl": "Atak · Żywa ostoja",
+      "en": "Attack · Living Thorns"
+    },
+    {
+      "key": "text_069d863f",
+      "pl": "Automatyczny ostrzał wybranej wieży jest szybszy przez 5 s.",
+      "en": "The selected tower fires faster for 5 s."
+    },
+    {
+      "key": "text_dfd58505",
+      "pl": "BADAŁA STABILNOŚĆ SKALNYCH PRZEJŚĆ I NAUCZYŁA SIĘ CZYTAĆ TEREN PRZED ROZPOCZĘCIEM PRAC. ŁĄCZY PRECYZJĘ ZWIADU Z WIEDZĄ INŻYNIERSKĄ.",
+      "en": "SHE STUDIED THE STABILITY OF ROCKY PASSES AND LEARNED TO READ TERRAIN BEFORE STARTING WORK. COMBINES SURVEYING PRECISION WITH ENGINEERING KNOWLEDGE."
+    },
+    {
+      "key": "text_b1d46597",
+      "pl": "BIAŁY PRZESMYK",
+      "en": "WHITE PASSAGE"
+    },
+    {
+      "key": "text_5113dd58",
+      "pl": "BIERZE UDZIAŁ DLA SPOŁECZNOŚCI SZLAKU, KTÓRA CHCE UNIEZALEŻNIĆ DOSTAWY OD POJEDYNCZEGO DOSTAWCY.",
+      "en": "PARTICIPATES FOR THE CARAVANS' COMMUNITY, WHICH WANTS TO FREE SUPPLY DELIVERY FROM A SINGLE PROVIDER."
+    },
+    {
+      "key": "text_0412a7c4",
+      "pl": "BIERZE UDZIAŁ, ABY WESPRZEĆ SIEĆ MAŁYCH STACJI ZAGROŻONYCH ZAMKNIĘCIEM.",
+      "en": "JOINS TO SUPPORT THE NETWORK OF SMALL STATIONS THREATENED BY CLOSURE."
+    },
+    {
+      "key": "text_1a5c69b0",
+      "pl": "BIERZE UDZIAŁ, ABY WIEDZA O SZLAKACH POZOSTAŁA DOSTĘPNA RÓWNIEŻ MNIEJSZYM MIASTOM.",
+      "en": "PARTICIPATES SO THAT KNOWLEDGE OF ROUTES REMAINS ACCESSIBLE EVEN TO SMALLER CITIES."
+    },
+    {
+      "key": "text_dbb0e84c",
+      "pl": "BOHATER",
+      "en": "HERO"
+    },
+    {
+      "key": "text_2fac2514",
+      "pl": "BOHATEROWIE",
+      "en": "HEROES"
+    },
+    {
+      "key": "text_98da09d1",
+      "pl": "BOHATEROWIE WYBIERANI SĄ ZE WSPÓLNEJ PULI BEZ DUPLIKATÓW.",
+      "en": "HEROES ARE SELECTED FROM A SHARED POOL WITHOUT DUPLICATES."
+    },
+    {
+      "key": "text_1b229bb5",
+      "pl": "BRAK",
+      "en": "NONE"
+    },
+    {
+      "key": "text_3a156dc1",
+      "pl": "BUDOWA",
+      "en": "BUILDING"
+    },
+    {
+      "key": "text_b9db03a2",
+      "pl": "BUDUJ.\nUCIEKAJ.\nADAPTUJ SIĘ.",
+      "en": "BUILD.\nRUN AWAY.\nADAPT."
+    },
+    {
+      "key": "text_0bd39d45",
+      "pl": "Badała stabilność skalnych przejść i nauczyła się czytać teren przed rozpoczęciem prac. Łączy precyzję zwiadu z wiedzą inżynierską.",
+      "en": "She studied the stability of rocky passes and learned to read terrain before starting work. Combines surveying precision with engineering knowledge."
+    },
+    {
+      "key": "text_1a0e7392",
+      "pl": "Biały Przesmyk",
+      "en": "White Passage"
+    },
+    {
+      "key": "text_258a4edf",
+      "pl": "Bierze udział dla społeczności szlaku, która chce uniezależnić dostawy od pojedynczego dostawcy.",
+      "en": "Participates for the caravans' community, which wants to free supply delivery from a single provider."
+    },
+    {
+      "key": "text_bf615aa2",
+      "pl": "Bierze udział, aby wesprzeć sieć małych stacji zagrożonych zamknięciem.",
+      "en": "Joins to support the network of small stations threatened by closure."
+    },
+    {
+      "key": "text_a966fba6",
+      "pl": "Bierze udział, aby wiedza o szlakach pozostała dostępna również mniejszym miastom.",
+      "en": "Participates so that knowledge of routes remains accessible even to smaller cities."
+    },
+    {
+      "key": "text_3e070f8c",
+      "pl": "Bohater",
+      "en": "Hero"
+    },
+    {
+      "key": "text_7d77f648",
+      "pl": "Bohaterowie wybierani są ze wspólnej puli bez duplikatów.",
+      "en": "Heroes are selected from a shared pool without duplicates."
+    },
+    {
+      "key": "text_30caa62f",
+      "pl": "BŁYSKAWICE",
+      "en": "LIGHTNING"
+    },
+    {
+      "key": "text_437e8c71",
+      "pl": "BŁYSKAWICZNY ZWIADOWCA WYSZUKUJĄCY SŁABE PUNKTY OBRONY.",
+      "en": "A LIGHTNING-FAST SCOUT SEARCHING FOR WEAK DEFENSE POINTS."
+    },
+    {
+      "key": "text_c696c046",
+      "pl": "Błyskawice",
+      "en": "Lightning"
+    },
+    {
+      "key": "text_baebd65c",
+      "pl": "Błyskawiczny zwiadowca wyszukujący słabe punkty obrony.",
+      "en": "A lightning-fast scout searching for weak defense points."
+    },
+    {
+      "key": "text_e6ae9022",
+      "pl": "CEL: DOTRZYJ DO METY   •   CZAS {0:F1} S   •   MGŁA {1:F1} S",
+      "en": "GOAL: REACH THE FINISH   •   TIME {0:F1} S   •   FOG {1:F1} S"
+    },
+    {
+      "key": "text_4b5c62a2",
+      "pl": "CEL: DOTRZYJ DO METY   •   CZAS {0:F1} s   •   MGŁA {1:F1} s",
+      "en": "GOAL: REACH THE FINISH   •   TIME {0:F1} s   •   FOG {1:F1} s"
+    },
+    {
+      "key": "text_48aa4ba4",
+      "pl": "CHCE UTRZYMAĆ DOSTĘP DO SZLAKU ŁĄCZĄCEGO KILKA ODLEGŁYCH OSAD.",
+      "en": "WANTS TO MAINTAIN ACCESS TO THE PATH CONNECTING SEVERAL DISTANT SETTLEMENTS."
+    },
+    {
+      "key": "text_a4b5fd7a",
+      "pl": "CHCE ZDOBYĆ ZASOBY NA OTWARTY WARSZTAT UCZĄCY BEZPIECZNEJ OBSŁUGI WIEŻ.",
+      "en": "WANTS TO ACQUIRE RESOURCES FOR AN OPEN WORKSHOP TEACHING SAFE TOWER OPERATION."
+    },
+    {
+      "key": "text_5e30335e",
+      "pl": "CHŁÓD",
+      "en": "CHILL"
+    },
+    {
+      "key": "text_86213248",
+      "pl": "CHŁÓD {0:F1}S",
+      "en": "CHILL {0:F1}S"
+    },
+    {
+      "key": "text_a62164a8",
+      "pl": "CHŁÓD {0:F1}s",
+      "en": "CHILL {0:F1}s"
+    },
+    {
+      "key": "text_8609b92d",
+      "pl": "CIEMNOŚĆ",
+      "en": "DARKNESS"
+    },
+    {
+      "key": "text_6b1201a4",
+      "pl": "CIENISTY PORT",
+      "en": "SHADOWY PORT"
+    },
+    {
+      "key": "text_881e94a8",
+      "pl": "CIĘŻKIE OBRAŻENIA. ROZWÓJ: QUAKE LUB BOULDER.",
+      "en": "HEAVY DAMAGE. DEVELOPMENT: QUAKE OR BOULDER."
+    },
+    {
+      "key": "text_d7af822f",
+      "pl": "CZASOWO ZATRZYMUJE OSTRZAŁ WIEŻY.",
+      "en": "TEMPORARILY STOPS THE TOWER'S SHOT."
+    },
+    {
+      "key": "text_9bfd9396",
+      "pl": "CZOŁO MGŁY PORUSZA SIĘ WZDŁUŻ DROGI. JEJ DOTARCIE DO METY SAMO NIE KOŃCZY ATAKU.",
+      "en": "THE FOG'S FRONT MOVES ALONG THE PATH. ITS ARRIVAL AT THE TARGET DOES NOT END THE ATTACK."
+    },
+    {
+      "key": "text_f95d47ea",
+      "pl": "Chce utrzymać dostęp do szlaku łączącego kilka odległych osad.",
+      "en": "Wants to maintain access to the path connecting several distant settlements."
+    },
+    {
+      "key": "text_de5f807a",
+      "pl": "Chce zdobyć zasoby na otwarty warsztat uczący bezpiecznej obsługi wież.",
+      "en": "Wants to acquire resources for an open workshop teaching safe tower operation."
+    },
+    {
+      "key": "text_cbc61e55",
+      "pl": "Ciemność",
+      "en": "Darkness"
+    },
+    {
+      "key": "text_9e105364",
+      "pl": "Cienisty Port",
+      "en": "Shadowy Port"
+    },
+    {
+      "key": "text_ad5d2f8d",
+      "pl": "Ciężkie obrażenia. Rozwój: Quake lub Boulder.",
+      "en": "Heavy damage. Development: Quake or Boulder."
+    },
+    {
+      "key": "text_be166c83",
+      "pl": "Czasowo zatrzymuje ostrzał wieży.",
+      "en": "Temporarily stops the tower's shot."
+    },
+    {
+      "key": "text_721aabfc",
+      "pl": "Czoło mgły porusza się wzdłuż drogi. Jej dotarcie do mety samo nie kończy ataku.",
+      "en": "The fog's front moves along the path. Its arrival at the target does not end the attack."
+    },
+    {
+      "key": "text_4062b65f",
+      "pl": "DALSZY ROZWÓJ PROWADZI DO WSPÓLNEGO ULEPSZENIA T3.",
+      "en": "FURTHER DEVELOPMENT LEADS TO A SHARED T3 UPGRADE."
+    },
+    {
+      "key": "text_84fe8d91",
+      "pl": "DAWNIEJ ZABEZPIECZAŁ GÓRSKIE KONWOJE I DROGI DO MAGAZYNÓW. LODOWA TARCZA JEST ZNAKIEM JEGO SPOSOBU OCHRONY GRUPY.",
+      "en": "PREVIOUSLY PROTECTED MOUNTAIN CONVOYS AND ROADS TO SUPPLY DEPOTS. THE ICE SHIELD IS A SIGN OF HIS WAY OF PROTECTING THE GROUP."
+    },
+    {
+      "key": "text_3363dc1d",
+      "pl": "DLACZEGO BIERZE UDZIAŁ W PRÓBACH",
+      "en": "WHY PARTICIPATES IN THE TRIALS"
+    },
+    {
+      "key": "text_5a2a31b0",
+      "pl": "DO METY: {0} M",
+      "en": "TO FINISH: {0} M"
+    },
+    {
+      "key": "text_16e89cec",
+      "pl": "DOCELOWA GRA ŁĄCZY BUDOWĘ OBRONY, UCIECZKĘ ORAZ ADAPTACJĘ DO RYWALA.",
+      "en": "THE FINAL GAME COMBINES DEFENSE, EVASION, AND ADAPTATION TO THE OPPONENT."
+    },
+    {
+      "key": "text_baa7a2b0",
+      "pl": "DODGE",
+      "en": "DODGE"
+    },
+    {
+      "key": "text_9bc62bca",
+      "pl": "DORASTAŁ WŚRÓD WARSZTATÓW PRZEKAŹNIKOWYCH I POMAGAŁ OSŁANIAĆ EKIPY NAPRAWIAJĄCE PRZEWODNIKI ENERGII.",
+      "en": "GREW UP AMONG TELEGRAPH WORKSHOPS AND HELPED SHIELD REPAIR CREWS WORKING ON ENERGY CONDUCTORS."
+    },
+    {
+      "key": "text_789b854d",
+      "pl": "DORASTAŁ WŚRÓD ZAŁÓG CHRONIĄCYCH KONWOJE PRZED ZDRADZENIEM ICH TRASY. SWOJE UMIEJĘTNOŚCI MASKOWANIA WYKORZYSTUJE DZIŚ DO ZAKŁÓCANIA WYKRYWANIA.",
+      "en": "GREW UP AMONG CREWS PROTECTING CONVOYS FROM REVEALING THEIR ROUTES. USES HIS MASKING SKILLS TODAY TO DISRUPT DETECTION."
+    },
+    {
+      "key": "text_80810a9f",
+      "pl": "DORASTAŁA Z SIOSTRAMI W POŁUDNIOWEJ DOLINIE, A PÓŹNIEJ SZKOLIŁA SIĘ PRZY BIAŁYM PRZESMYKU. LODOWE UMIEJĘTNOŚCI WYKORZYSTUJE DO OCHRONY I PRZYWRACANIA SPRAWNOŚCI.",
+      "en": "GREW UP WITH HER SISTERS IN THE SOUTHERN VALLEY, THEN TRAINED AT THE WHITE CAVERN. USES ICY ABILITIES TO PROTECT AND RESTORE FUNCTIONALITY."
+    },
+    {
+      "key": "text_b130c4b5",
+      "pl": "DORĘCZAŁ PILNE WIADOMOŚCI MIĘDZY STACJAMI PRZEKAŹNIKOWYMI. JEGO SZYBKOŚĆ I WYCZUCIE URZĄDZEŃ PRZYDAŁY SIĘ PÓŹNIEJ W LABIRYNTACH.",
+      "en": "DELIVERED URGENT MESSAGES BETWEEN RELAY STATIONS. HIS SPEED AND DEVICE INTUITION PROVED USEFUL LATER IN LABYRINTHS."
+    },
+    {
+      "key": "text_87a63af4",
+      "pl": "DOSTAŃ SIĘ DO ZŁOTEGO PORTALU, UNIKAJĄC OSTRZAŁU I UCIEKAJĄC PRZED MGŁĄ. SPRAWDŹ, CZY POTRAFISZ ODCZYTAĆ ZAGROŻENIA I REAGOWAĆ NA CZAS.",
+      "en": "REACH THE GOLDEN PORTAL WHILE DODGING TOWER FIRE AND STAYING AHEAD OF THE FOG. CAN YOU READ THE THREATS AND REACT IN TIME?"
+    },
+    {
+      "key": "text_e3253d44",
+      "pl": "DOSTĘPNA W PRÓBIE 3D",
+      "en": "AVAILABLE IN THE 3D TRIAL"
+    },
+    {
+      "key": "text_e9bfa0c1",
+      "pl": "DOSTĘPNE  /  PRE-POC",
+      "en": "AVAILABLE / PRE-POC"
+    },
+    {
+      "key": "text_7bfc1b81",
+      "pl": "DOSTĘPNY W PRÓBIE",
+      "en": "AVAILABLE IN TRIAL"
+    },
+    {
+      "key": "text_20b9131f",
+      "pl": "DOŁĄCZA DO DRUŻYN STRZEGĄCYCH KONWOJÓW, BO ZNA CENĘ UTRATY BEZPIECZNEJ DROGI.",
+      "en": "JOINS ESCORT TEAMS BECAUSE HE KNOWS THE COST OF LOSING A SAFE PATH."
+    },
+    {
+      "key": "text_8c54686c",
+      "pl": "DRAFT",
+      "en": "DRAFT"
+    },
+    {
+      "key": "text_87799c7b",
+      "pl": "DRUŻYNA WSPÓLNIE ROZWIJA ŻYWIOŁY I WYBIERA KIERUNKI ULEPSZEŃ.",
+      "en": "THE TEAM DEVELOPS ITS ELEMENTS TOGETHER AND CHOOSES UPGRADE PATHS."
+    },
+    {
+      "key": "text_7d41e4cb",
+      "pl": "DRUŻYNY BUDUJĄ OBRONĘ I PODEJMUJĄ PRÓBĘ PRZEJŚCIA PRZEZ LABIRYNT PRZECIWNIKA.",
+      "en": "TEAMS BUILD DEFENSES AND ATTEMPT TO PASS THROUGH THE OPPONENT'S LABYRINTH."
+    },
+    {
+      "key": "text_b0911d34",
+      "pl": "DRUŻYNY INWESTUJĄ I USTAWIAJĄ WIEŻE NA SWOICH MAPACH.",
+      "en": "TEAMS INVEST AND SET UP TOWERS ON THEIR MAPS."
+    },
+    {
+      "key": "text_af63acb1",
+      "pl": "DRZEWKO",
+      "en": "TREE"
+    },
+    {
+      "key": "text_b42ce690",
+      "pl": "DRZEWKO TECHNOLOGII",
+      "en": "TECHNOLOGY TREE"
+    },
+    {
+      "key": "text_7bf6311f",
+      "pl": "DWIE DRUŻYNY",
+      "en": "TWO TEAMS"
+    },
+    {
+      "key": "text_6337575f",
+      "pl": "DWIE DRUŻYNY PO PIĘCIU GRACZY NAPRZEMIENNIE ATAKUJĄ OBRONĘ RYWALA.",
+      "en": "TWO TEAMS OF FIVE PLAYERS TAKE TURNS ATTACKING THE OPPONENT'S DEFENSE."
+    },
+    {
+      "key": "text_ed83f49f",
+      "pl": "Dalszy rozwój prowadzi do wspólnego ulepszenia T3.",
+      "en": "Further development leads to a shared T3 upgrade."
+    },
+    {
+      "key": "text_f2c36276",
+      "pl": "Dawniej zabezpieczał górskie konwoje i drogi do magazynów. Lodowa tarcza jest znakiem jego sposobu ochrony grupy.",
+      "en": "Previously protected mountain convoys and roads to supply depots. The ice shield is a sign of his way of protecting the group."
+    },
+    {
+      "key": "text_80ad6c30",
+      "pl": "Do mety: {0} m",
+      "en": "To finish: {0} m"
+    },
+    {
+      "key": "text_05b6b923",
+      "pl": "Docelowa gra łączy budowę obrony, ucieczkę oraz adaptację do rywala.",
+      "en": "The final game combines defense, evasion, and adaptation to the opponent."
+    },
+    {
+      "key": "text_55a9c3ad",
+      "pl": "Dorastał wśród warsztatów przekaźnikowych i pomagał osłaniać ekipy naprawiające przewodniki energii.",
+      "en": "Grew up among telegraph workshops and helped shield repair crews working on energy conductors."
+    },
+    {
+      "key": "text_e5e5b3b3",
+      "pl": "Dorastał wśród załóg chroniących konwoje przed zdradzeniem ich trasy. Swoje umiejętności maskowania wykorzystuje dziś do zakłócania wykrywania.",
+      "en": "Grew up among crews protecting convoys from revealing their routes. Uses his masking skills today to disrupt detection."
+    },
+    {
+      "key": "text_515d9852",
+      "pl": "Dorastała z siostrami w południowej dolinie, a później szkoliła się przy Białym Przesmyku. Lodowe umiejętności wykorzystuje do ochrony i przywracania sprawności.",
+      "en": "Grew up with her sisters in the southern valley, then trained at the White Cavern. Uses icy abilities to protect and restore functionality."
+    },
+    {
+      "key": "text_464095a1",
+      "pl": "Doręczał pilne wiadomości między stacjami przekaźnikowymi. Jego szybkość i wyczucie urządzeń przydały się później w labiryntach.",
+      "en": "Delivered urgent messages between relay stations. His speed and device intuition proved useful later in labyrinths."
+    },
+    {
+      "key": "text_4ad07c48",
+      "pl": "Dostań się do złotego portalu, unikając ostrzału i uciekając przed mgłą. Sprawdź, czy potrafisz odczytać zagrożenia i reagować na czas.",
+      "en": "Reach the golden portal while dodging tower fire and staying ahead of the fog. Can you read the threats and react in time?"
+    },
+    {
+      "key": "text_e6a30fca",
+      "pl": "Dołącza do drużyn strzegących konwojów, bo zna cenę utraty bezpiecznej drogi.",
+      "en": "Joins escort teams because he knows the cost of losing a safe path."
+    },
+    {
+      "key": "text_c79dadf7",
+      "pl": "Drużyna wspólnie rozwija żywioły i wybiera kierunki ulepszeń.",
+      "en": "The team develops its elements together and chooses upgrade paths."
+    },
+    {
+      "key": "text_75f07035",
+      "pl": "Drużyny budują obronę i podejmują próbę przejścia przez labirynt przeciwnika.",
+      "en": "Teams build defenses and attempt to pass through the opponent's labyrinth."
+    },
+    {
+      "key": "text_262dd4e4",
+      "pl": "Drużyny inwestują i ustawiają wieże na swoich mapach.",
+      "en": "Teams invest and set up towers on their maps."
+    },
+    {
+      "key": "text_bd420a27",
+      "pl": "Dwie drużyny po pięciu graczy naprzemiennie atakują obronę rywala.",
+      "en": "Two teams of five players take turns attacking the opponent's defense."
+    },
+    {
+      "key": "text_a35a70ca",
+      "pl": "EFEKTY OGRANICZAJĄCE WIDOCZNOŚĆ TRWAJĄ O 20% KRÓCEJ.",
+      "en": "VISION-LIMITING EFFECTS LAST 20% LESS."
+    },
+    {
+      "key": "text_5e52153a",
+      "pl": "EFEKTY ZMIENIAJĄ SPOSÓB, W JAKI BOHATEROWIE PRZECHODZĄ PRZEZ OBRONĘ.",
+      "en": "EFFECTS CHANGE HOW HEROES PASS THROUGH THE DEFENSE."
+    },
+    {
+      "key": "text_333a0ac7",
+      "pl": "ENERGICZNA PRZEWODNICZKA, KTÓRA SYNCHRONIZUJE RUCH CAŁEJ DRUŻYNY.",
+      "en": "AN ENERGETIC LEADER WHO SYNCHRONIZES THE MOVEMENT OF THE ENTIRE TEAM."
+    },
+    {
+      "key": "text_46782bee",
+      "pl": "ERYNDOR",
+      "en": "ERYNDOR"
+    },
+    {
+      "key": "text_b276bac0",
+      "pl": "Efekty ograniczające widoczność trwają o 20% krócej.",
+      "en": "Vision-limiting effects last 20% less."
+    },
+    {
+      "key": "text_d22fc3b7",
+      "pl": "Efekty zmieniają sposób, w jaki bohaterowie przechodzą przez obronę.",
+      "en": "Effects change how heroes pass through the defense."
+    },
+    {
+      "key": "text_88ec2c5f",
+      "pl": "Energiczna przewodniczka, która synchronizuje ruch całej drużyny.",
+      "en": "An energetic leader who synchronizes the movement of the entire team."
+    },
+    {
+      "key": "text_9f478206",
+      "pl": "GOTOWA",
+      "en": "READY"
+    },
+    {
+      "key": "text_b747a7ce",
+      "pl": "GOTOWY",
+      "en": "READY"
+    },
+    {
+      "key": "text_b35218a8",
+      "pl": "GRACZE INWESTUJĄ W DRZEWKA ŻYWIOŁÓW NIEZALEŻNIE OD ŻYWIOŁU WYBRANEGO BOHATERA.",
+      "en": "PLAYERS INVEST IN ELEMENTAL TREES INDEPENDENTLY OF THEIR HERO’S ELEMENT."
+    },
+    {
+      "key": "text_e6eccdd7",
+      "pl": "GRAJ",
+      "en": "PLAY"
+    },
+    {
+      "key": "text_813a4f4d",
+      "pl": "GRAJ BEZ SOJUSZNIKA",
+      "en": "PLAY ALONE"
+    },
+    {
+      "key": "text_13703bda",
+      "pl": "Gracze inwestują w drzewka żywiołów niezależnie od żywiołu wybranego bohatera.",
+      "en": "Players invest in elemental trees independently of their hero’s element."
+    },
+    {
+      "key": "text_c9f9eb6b",
+      "pl": "HARTOWANIE",
+      "en": "ENDURANCE"
+    },
+    {
+      "key": "text_3b04cfea",
+      "pl": "HISTORIA",
+      "en": "HISTORY"
+    },
+    {
+      "key": "text_3704c99e",
+      "pl": "HISTORIE",
+      "en": "STORIES"
+    },
+    {
+      "key": "text_eac5f141",
+      "pl": "HISTORIE, ROLE I UMIEJĘTNOŚCI",
+      "en": "STORIES, ROLES, AND SKILLS"
+    },
+    {
+      "key": "text_889f6041",
+      "pl": "HP  {0}     PRĘDKOŚĆ  {1}     ODNOWIENIE  {2} S",
+      "en": "HP  {0}     SPEED  {1}     COOLDOWN  {2} S"
+    },
+    {
+      "key": "text_a89f92a1",
+      "pl": "HP  {0}     PRĘDKOŚĆ  {1}     ODNOWIENIE  {2} s",
+      "en": "HP  {0}     SPEED  {1}     COOLDOWN  {2} s"
+    },
+    {
+      "key": "text_f8ce517a",
+      "pl": "HP  {0}     PRĘDKOŚĆ  {1} M/S     Q  {2} S",
+      "en": "HP  {0}     SPEED  {1} M/S     Q  {2} S"
+    },
+    {
+      "key": "text_0b62385a",
+      "pl": "HP  {0}     PRĘDKOŚĆ  {1} m/s     Q  {2} s",
+      "en": "HP  {0}     SPEED  {1} m/s     Q  {2} s"
+    },
+    {
+      "key": "text_a81b948b",
+      "pl": "Hartowanie",
+      "en": "Endurance"
+    },
+    {
+      "key": "text_1fb4b04b",
+      "pl": "Historie, role i umiejętności",
+      "en": "Stories, roles, and skills"
+    },
+    {
+      "key": "text_cf6217d6",
+      "pl": "IGLICA ZERATH",
+      "en": "ZERATH SPIRE"
+    },
+    {
+      "key": "text_deeb873d",
+      "pl": "IMPULS ZESPOŁOWY I GOTOWOŚĆ WIEŻ",
+      "en": "TEAM IMPULSE AND TOWER READINESS"
+    },
+    {
+      "key": "text_e0514ca4",
+      "pl": "INŻYNIERIA TERENOWA — KIERUNEK DO ZAPROJEKTOWANIA",
+      "en": "CIVIL ENGINEERING — DIRECTION FOR DESIGN"
+    },
+    {
+      "key": "text_598a01c6",
+      "pl": "ISKRA MANEWRU",
+      "en": "BLINK MANEUVER"
+    },
+    {
+      "key": "text_5fdd1156",
+      "pl": "Iglica Zerath",
+      "en": "Zerath Spire"
+    },
+    {
+      "key": "text_7bd0d22d",
+      "pl": "Impuls zespołowy i gotowość wież",
+      "en": "Team impulse and tower readiness"
+    },
+    {
+      "key": "text_fe9cdc1d",
+      "pl": "Inżynieria terenowa — kierunek do zaprojektowania",
+      "en": "Civil Engineering — direction for design"
+    },
+    {
+      "key": "text_8daa68a6",
+      "pl": "Iskra manewru",
+      "en": "Blink Maneuver"
+    },
+    {
+      "key": "text_2be74255",
+      "pl": "JAKO STRAŻNIK WYROBISK CHRONIŁ ROBOTNIKÓW PODCZAS ZAWALEŃ I POMAGAŁ UTRZYMAĆ PRZEJŚCIA. W LABIRYNCIE WYKORZYSTUJE TARCZĘ, BY INNI MOGLI IŚĆ DALEJ.",
+      "en": "AS A MINE GUARD, HE PROTECTED WORKERS DURING COLLAPSES AND HELPED MAINTAIN PASSAGE ROUTES. IN THE LABYRINTH, HE USES HIS SHIELD TO ALLOW OTHERS TO PROCEED."
+    },
+    {
+      "key": "text_ba5c5b6f",
+      "pl": "JASNY WZROK",
+      "en": "SHARP VISION"
+    },
+    {
+      "key": "text_7ba7d57e",
+      "pl": "JEGO POCHODZENIE I EWENTUALNE WIĘZI RODZINNE POZOSTAJĄ TAJEMNICĄ.",
+      "en": "HIS ORIGIN AND ANY POTENTIAL FAMILY TIES REMAIN A MYSTERY."
+    },
+    {
+      "key": "text_447323c0",
+      "pl": "JEJ LECZENIE I NAPRAWA SĄ O 10% SILNIEJSZE.",
+      "en": "HER HEALING AND REPAIR ARE 10% STRONGER."
+    },
+    {
+      "key": "text_065e7280",
+      "pl": "JELEŃ BLASK",
+      "en": "BLASK THE DEER"
+    },
+    {
+      "key": "text_4de2455e",
+      "pl": "JELEŃ OSŁANIA SOJUSZNIKA BARIERĄ; W OBRONIE POMAGA WYKRYWAĆ RUNNERÓW.",
+      "en": "THE DEER SHIELDS AN ALLY WITH A BARRIER; IN DEFENSE, IT HELPS DETECT RUNNERS."
+    },
+    {
+      "key": "text_aaced0e6",
+      "pl": "Jako strażnik wyrobisk chronił robotników podczas zawaleń i pomagał utrzymać przejścia. W labiryncie wykorzystuje tarczę, by inni mogli iść dalej.",
+      "en": "As a mine guard, he protected workers during collapses and helped maintain passage routes. In the labyrinth, he uses his shield to allow others to proceed."
+    },
+    {
+      "key": "text_41cd2c8f",
+      "pl": "Jasny wzrok",
+      "en": "Sharp Vision"
+    },
+    {
+      "key": "text_55931aeb",
+      "pl": "Jego pochodzenie i ewentualne więzi rodzinne pozostają tajemnicą.",
+      "en": "His origin and any potential family ties remain a mystery."
+    },
+    {
+      "key": "text_d0c7af43",
+      "pl": "Jej leczenie i naprawa są o 10% silniejsze.",
+      "en": "Her healing and repair are 10% stronger."
+    },
+    {
+      "key": "text_a6229b64",
+      "pl": "Jeleń osłania sojusznika barierą; w obronie pomaga wykrywać Runnerów.",
+      "en": "The deer shields an ally with a barrier; in defense, it helps detect Runners."
+    },
+    {
+      "key": "text_af2dfb85",
+      "pl": "KAEL · Q: OSŁONA DLA CIEBIE I POBLISKIEGO SOJUSZNIKA. E: TESTOWY ATAK NA POBLISKĄ WIEŻĘ.",
+      "en": "KAEL · Q: SHIELD FOR YOURSELF AND NEARBY ALLY. E: TEST ATTACK ON NEARBY TOWER."
+    },
+    {
+      "key": "text_b6380e57",
+      "pl": "KAEL · Q: osłona dla Ciebie i pobliskiego sojusznika. E: testowy atak na pobliską wieżę.",
+      "en": "KAEL · Q: shield for yourself and nearby ally. E: test attack on nearby tower."
+    },
+    {
+      "key": "text_ad80ddce",
+      "pl": "KAMIENNY PANCERZ",
+      "en": "STONE ARMOR"
+    },
+    {
+      "key": "text_cd504668",
+      "pl": "KAMIENNY PRÓG",
+      "en": "STONE THRESHOLD"
+    },
+    {
+      "key": "text_a9832e6e",
+      "pl": "KAŻDY BOHATER MA WŁASNE POCHODZENIE I POWODY, BY STANĄĆ DO PRÓB.",
+      "en": "EACH HERO HAS THEIR OWN ORIGIN AND REASONS TO STAND IN THE TRIALS."
+    },
+    {
+      "key": "text_9164d5d8",
+      "pl": "KAŻDY ŻYWIOŁ MA DWA KONKURENCYJNE KIERUNKI ROZWOJU.",
+      "en": "EACH ELEMENT HAS TWO MUTUALLY EXCLUSIVE UPGRADE PATHS."
+    },
+    {
+      "key": "text_f08276e0",
+      "pl": "KLIKNIJ ZŁOTE POLE, BY POSTAWIĆ LUB USUNĄĆ WIEŻĘ. OKRĘGI POKAZUJĄ ZASIĘG.",
+      "en": "CLICK THE GOLDEN FIELD TO PLACE OR REMOVE A TOWER. CIRCLES SHOW THE RANGE."
+    },
+    {
+      "key": "text_71485b62",
+      "pl": "KODEKS",
+      "en": "CODEX"
+    },
+    {
+      "key": "text_67588483",
+      "pl": "KONCEPCJA",
+      "en": "CONCEPT"
+    },
+    {
+      "key": "text_32c754d9",
+      "pl": "KONTROLA RUCHU I SPOWOLNIENIA. ROZWÓJ: GLACIER LUB ICE LANCE.",
+      "en": "MOVEMENT CONTROL AND SLOWING. DEVELOPMENT: GLACIER OR ICE LANCE."
+    },
+    {
+      "key": "text_f384da32",
+      "pl": "KORZENNA PRZYSTAŃ",
+      "en": "ROOTED LANDING"
+    },
+    {
+      "key": "text_cee914bc",
+      "pl": "KOTOPERZ PATKA",
+      "en": "PATKA THE BAT-CAT"
+    },
+    {
+      "key": "text_4cf62aac",
+      "pl": "KROK W CIEŃ",
+      "en": "STEP INTO THE SHADOW"
+    },
+    {
+      "key": "text_247de2bb",
+      "pl": "KRUK CIEŃ",
+      "en": "CIEŃ THE RAVEN"
+    },
+    {
+      "key": "text_156e0d1e",
+      "pl": "KRUK PRZYJMUJE CZĘŚĆ OBRAŻEŃ DZIĘKI WIĘZI; W OBRONIE UTRUDNIA ORIENTACJĘ.",
+      "en": "THE RAVEN SHARES DAMAGE THROUGH ITS BOND; IN DEFENSE, IT MAKES NAVIGATION HARDER."
+    },
+    {
+      "key": "text_05247428",
+      "pl": "Kamienny Próg",
+      "en": "Stone Threshold"
+    },
+    {
+      "key": "text_cfc62c0e",
+      "pl": "Kamienny pancerz",
+      "en": "Stone Armor"
+    },
+    {
+      "key": "text_f823c808",
+      "pl": "Każdy bohater ma własne pochodzenie i powody, by stanąć do Prób.",
+      "en": "Each hero has their own origin and reasons to stand in the Trials."
+    },
+    {
+      "key": "text_6385bf21",
+      "pl": "Każdy żywioł ma dwa konkurencyjne kierunki rozwoju.",
+      "en": "Each element has two mutually exclusive upgrade paths."
+    },
+    {
+      "key": "text_4c1fdd9f",
+      "pl": "Kliknij złote pole, by postawić lub usunąć wieżę. Okręgi pokazują zasięg.",
+      "en": "Click the golden field to place or remove a tower. Circles show the range."
+    },
+    {
+      "key": "text_d30582f9",
+      "pl": "Kontrola ruchu i spowolnienia. Rozwój: Glacier lub Ice Lance.",
+      "en": "Movement control and slowing. Development: Glacier or Ice Lance."
+    },
+    {
+      "key": "text_1ffd45b3",
+      "pl": "Korzenna Przystań",
+      "en": "Rooted Landing"
+    },
+    {
+      "key": "text_dceb33b9",
+      "pl": "Krok w cień",
+      "en": "Step into the Shadow"
+    },
+    {
+      "key": "text_51e5795c",
+      "pl": "Kruk przyjmuje część obrażeń dzięki więzi; w obronie utrudnia orientację.",
+      "en": "The raven shares damage through its bond; in defense, it makes navigation harder."
+    },
+    {
+      "key": "text_942832ff",
+      "pl": "LATA ODBUDOWY ZNISZCZONYCH PÓL NAUCZYŁY JĄ, ŻE NAJSILNIEJSZY OBROŃCA ZOSTAJE Z TYŁU, DOPÓKI INNI NIE SĄ BEZPIECZNI. ŁĄCZY WYTRZYMAŁOŚĆ Z TROSKĄ O DRUŻYNĘ.",
+      "en": "YEARS OF REBUILDING DESTROYED FIELDS TAUGHT HER THAT THE STRONGEST DEFENDER IS AT THE BACK, ONLY WHEN OTHERS ARE SAFE. COMBINES RESILIENCE WITH A CONCERN FOR THE TEAM."
+    },
+    {
+      "key": "text_a56fd2d9",
+      "pl": "LATARNIA AURELU",
+      "en": "AURELIAN LIGHTHOUSE"
+    },
+    {
+      "key": "text_7e5a6020",
+      "pl": "LATARNICZKA, KTÓRA POMAGA DRUŻYNIE DOSTRZEC ZAGROŻENIA.",
+      "en": "A BEACON KEEPER WHO HELPS THE TEAM SPOT THREATS."
+    },
+    {
+      "key": "text_c0625914",
+      "pl": "LECZENIE I NAPRAWA OSŁON",
+      "en": "HEALING AND SHIELD REPAIR"
+    },
+    {
+      "key": "text_ec814308",
+      "pl": "LECZY SOJUSZNIKÓW I MOBY W POBLIŻU PRZEZ 5 S.",
+      "en": "HEALS NEARBY ALLIES AND MOBS FOR 5 S."
+    },
+    {
+      "key": "text_a7e31daf",
+      "pl": "LINIA W KOLORZE WIEŻY OSTRZEGA O PRZYGOTOWYWANYM STRZALE. WIEŻE CELUJĄ Z WYPRZEDZENIEM; MURY BLOKUJĄ POCISKI.\n\nOGIEŃ — OBRAŻENIA OBSZAROWE I PODPALENIE.\nLÓD — WYCHŁODZENIE I WOLNIEJSZY RUCH.\nBŁYSKAWICE — PRZESKOK NA POBLISKIEGO SOJUSZNIKA.\nNATURA — TRUCIZNA ZADAJĄCA OBRAŻENIA W CZASIE.",
+      "en": "A LINE MATCHING THE TOWER’S COLOR WARNS OF AN INCOMING SHOT. TOWERS LEAD THEIR TARGETS; WALLS BLOCK PROJECTILES.\n\nFIRE — AREA DAMAGE AND BURN.\nICE — CHILL SLOWS MOVEMENT.\nLIGHTNING — ARCS TO A NEARBY ALLY.\nNATURE — POISON DEALS DAMAGE OVER TIME."
+    },
+    {
+      "key": "text_250be703",
+      "pl": "LIS ISKRA",
+      "en": "ISKRA THE FOX"
+    },
+    {
+      "key": "text_06eef818",
+      "pl": "LIS PRZECHWYTUJE POCISK I TWORZY STREFĘ ŻARU; W OBRONIE WSPIERA PRESJĘ OBSZAROWĄ WIEŻY.",
+      "en": "THE FOX CATCHES THE PROJECTILE AND CREATES A FIRE ZONE; IN DEFENSE, IT SUPPORTS THE TOWER'S AREA PRESSURE."
+    },
+    {
+      "key": "text_5383f700",
+      "pl": "LODOWA SABOTAŻYSTKA, KTÓRA OTWIERA DRUŻYNIE BEZPIECZNE PRZEJŚCIE.",
+      "en": "AN ICE SABOTEUR WHO OPENS A SAFE PASSAGE FOR THE TEAM."
+    },
+    {
+      "key": "text_536599c7",
+      "pl": "LODOWY TARCZOWNIK — KIERUNEK DO ZAPROJEKTOWANIA",
+      "en": "ICE SHIELD WARRIOR — DIRECTION TO BE DESIGNED"
+    },
+    {
+      "key": "text_54b913ea",
+      "pl": "Lata odbudowy zniszczonych pól nauczyły ją, że najsilniejszy obrońca zostaje z tyłu, dopóki inni nie są bezpieczni. Łączy wytrzymałość z troską o drużynę.",
+      "en": "Years of rebuilding destroyed fields taught her that the strongest defender is at the back, only when others are safe. Combines resilience with a concern for the team."
+    },
+    {
+      "key": "text_f02cb399",
+      "pl": "Latarnia Aurelu",
+      "en": "Aurelian Lighthouse"
+    },
+    {
+      "key": "text_27c7b346",
+      "pl": "Latarniczka, która pomaga drużynie dostrzec zagrożenia.",
+      "en": "A beacon keeper who helps the team spot threats."
+    },
+    {
+      "key": "text_83b0ef79",
+      "pl": "Leczenie i naprawa osłon",
+      "en": "Healing and shield repair"
+    },
+    {
+      "key": "text_f7b24e69",
+      "pl": "Leczy sojuszników i moby w pobliżu przez 5 s.",
+      "en": "Heals nearby allies and mobs for 5 s."
+    },
+    {
+      "key": "text_c9447067",
+      "pl": "Linia w kolorze wieży ostrzega o przygotowywanym strzale. Wieże celują z wyprzedzeniem; mury blokują pociski.\n\nOGIEŃ — obrażenia obszarowe i podpalenie.\nLÓD — wychłodzenie i wolniejszy ruch.\nBŁYSKAWICE — przeskok na pobliskiego sojusznika.\nNATURA — trucizna zadająca obrażenia w czasie.",
+      "en": "A line matching the tower’s color warns of an incoming shot. Towers lead their targets; walls block projectiles.\n\nFIRE — area damage and burn.\nICE — chill slows movement.\nLIGHTNING — arcs to a nearby ally.\nNATURE — poison deals damage over time."
+    },
+    {
+      "key": "text_182a5bb7",
+      "pl": "Lis przechwytuje pocisk i tworzy strefę żaru; w obronie wspiera presję obszarową wieży.",
+      "en": "The fox catches the projectile and creates a fire zone; in defense, it supports the tower's area pressure."
+    },
+    {
+      "key": "text_c8313441",
+      "pl": "Lodowa sabotażystka, która otwiera drużynie bezpieczne przejście.",
+      "en": "An ice saboteur who opens a safe passage for the team."
+    },
+    {
+      "key": "text_5483f247",
+      "pl": "Lodowy tarczownik — kierunek do zaprojektowania",
+      "en": "Ice Shield Warrior — direction to be designed"
+    },
+    {
+      "key": "text_5f793faf",
+      "pl": "LÓD",
+      "en": "ICE"
+    },
+    {
+      "key": "text_3f295b6f",
+      "pl": "Lód",
+      "en": "Ice"
+    },
+    {
+      "key": "text_188f8c30",
+      "pl": "MAPA  ·  N ↑",
+      "en": "MAP  ·  N ↑"
+    },
+    {
+      "key": "text_249a7405",
+      "pl": "MECZ DRUŻYNOWY",
+      "en": "TEAM BATTLE"
+    },
+    {
+      "key": "text_0c7deda5",
+      "pl": "MENU GŁÓWNE",
+      "en": "MAIN MENU"
+    },
+    {
+      "key": "text_2bb7fd98",
+      "pl": "META",
+      "en": "FINISH"
+    },
+    {
+      "key": "text_96bc7ac9",
+      "pl": "META {0}/{1}  •  {2}: {3}",
+      "en": "FINISH {0}/{1}  •  {2}: {3}"
+    },
+    {
+      "key": "text_ea8bf32e",
+      "pl": "MGŁA",
+      "en": "FOG"
+    },
+    {
+      "key": "text_2506b94b",
+      "pl": "MGŁA POJAWIA SIĘ PO 5 S, SPOWALNIA I Z CZASEM ZADAJE CORAZ WIĘKSZE OBRAŻENIA. STATUSY WIDAĆ NAD PASKIEM HP; KOLOROWE LICZBY OBRAŻEŃ UNOSZĄ SIĘ NAD POSTACIĄ.",
+      "en": "FOG APPEARS AFTER 5 S, SLOWS YOU AND DEALS INCREASING DAMAGE OVER TIME. STATUS EFFECTS APPEAR ABOVE YOUR HEALTH BAR; COLORED DAMAGE NUMBERS FLOAT ABOVE CHARACTERS."
+    },
+    {
+      "key": "text_691e09f2",
+      "pl": "MGŁA pojawia się po 5 s, spowalnia i z czasem zadaje coraz większe obrażenia. Statusy widać nad paskiem HP; kolorowe liczby obrażeń unoszą się nad postacią.",
+      "en": "FOG appears after 5 s, slows you and deals increasing damage over time. Status effects appear above your health bar; colored damage numbers float above characters."
+    },
+    {
+      "key": "text_320b1514",
+      "pl": "MILCZĄCY STRAŻNIK CIENIA, KTÓRY ZMIENIA OSTRZAŁ W OKAZJĘ DO UNIKU.",
+      "en": "A SILENT GUARDIAN OF SHADOW WHO TURNS INCOMING FIRE INTO AN OPPORTUNITY TO DODGE."
+    },
+    {
+      "key": "text_d3012887",
+      "pl": "MILCZĄCY STRAŻNIK POJAWIŁ SIĘ W PORCIE PO WOJNIE. NIKT NIE POTWIERDZIŁ, CZY ZOSTAŁ SKONSTRUOWANY, CZY UKSZTAŁTOWANY INACZEJ; SAM SKUPIA SIĘ NA OCHRONIE INNYCH.",
+      "en": "THE SILENT GUARDIAN APPEARED IN THE PORT AFTER THE WAR. NO ONE CONFIRMED WHETHER HE WAS CONSTRUCTED OR SHAPED DIFFERENTLY; HE FOCUSES SOLELY ON PROTECTING OTHERS."
+    },
+    {
+      "key": "text_cd34449a",
+      "pl": "MISTRZ ZAKŁÓCEŃ, KTÓRY ZACIERA INFORMACJE I DEZORIENTUJE AUTOMATY.",
+      "en": "A MASTER OF DISRUPTIONS WHO ERASES INFORMATION AND DISORIENTS AUTOMATONS."
+    },
+    {
+      "key": "text_72f08e56",
+      "pl": "MROZOODPORNOŚĆ",
+      "en": "COLD RESISTANCE"
+    },
+    {
+      "key": "text_c24276bd",
+      "pl": "Mgła",
+      "en": "Fog"
+    },
+    {
+      "key": "text_2ed38756",
+      "pl": "Milczący strażnik cienia, który zmienia ostrzał w okazję do uniku.",
+      "en": "A silent guardian of shadow who turns incoming fire into an opportunity to dodge."
+    },
+    {
+      "key": "text_015a7ea1",
+      "pl": "Milczący strażnik pojawił się w porcie po wojnie. Nikt nie potwierdził, czy został skonstruowany, czy ukształtowany inaczej; sam skupia się na ochronie innych.",
+      "en": "The silent guardian appeared in the port after the war. No one confirmed whether he was constructed or shaped differently; he focuses solely on protecting others."
+    },
+    {
+      "key": "text_eaae58de",
+      "pl": "Mistrz zakłóceń, który zaciera informacje i dezorientuje automaty.",
+      "en": "A master of disruptions who erases information and disorients automatons."
+    },
+    {
+      "key": "text_e3a3de2e",
+      "pl": "Mrozoodporność",
+      "en": "Cold Resistance"
+    },
+    {
+      "key": "text_16767042",
+      "pl": "NA KRÓTKO UJAWNIA WIEŻE W WYBRANYM FRAGMENCIE TRASY.",
+      "en": "BRIEFLY REVEALS TOWERS IN THE SELECTED PATH SEGMENT."
+    },
+    {
+      "key": "text_d87d43f0",
+      "pl": "NA KRÓTKO WYKRYWA RUNNERÓW I MOBY W WYBRANYM OBSZARZE.",
+      "en": "BRIEFLY DETECTS RUNNERS AND MOBS IN A SELECTED AREA."
+    },
+    {
+      "key": "text_035ca006",
+      "pl": "NA MINIMAPIE: TY — ZŁOTY, AI — BŁĘKITNY, CZERWONY KRZYŻ — MIEJSCE ŚMIERCI. W PANELU DRUŻYNY ZOBACZYSZ HP, STATUSY I DYSTANS DO METY.",
+      "en": "ON THE MINIMAP: YOU — GOLD, AI — BLUE, RED CROSS — DEATH LOCATION. IN THE TEAM PANEL, YOU'LL SEE HP, STATUSES, AND DISTANCE TO THE GOAL."
+    },
+    {
+      "key": "text_be273821",
+      "pl": "NAJPIERW LICZY SIĘ LICZBA RUNNERÓW NA MECIE, POTEM CZAS LUB NAJDALSZY POSTĘP.",
+      "en": "FIRST, THE NUMBER OF RUNNERS ON THE GOAL COUNTS, THEN TIME OR FARTHEST PROGRESS."
+    },
+    {
+      "key": "text_b7fcd0be",
+      "pl": "NATURA",
+      "en": "NATURE"
+    },
+    {
+      "key": "text_b3d05a23",
+      "pl": "NIE USTALONO POKREWIEŃSTWA Z TRZEMA SIOSTRAMI; JEJ RODZINA POZOSTAJE OTWARTA.",
+      "en": "NO RELATION ESTABLISHED WITH THREE SISTERS; HER FAMILY REMAINS OPEN."
+    },
+    {
+      "key": "text_78baf08d",
+      "pl": "NIEZŁOMNY OBROŃCA, KTÓRY OSŁANIA DRUŻYNĘ PRZED OSTRZAŁEM.",
+      "en": "UNBREAKABLE DEFENDER WHO SHIELDS THE TEAM FROM ENEMY ATTACKS."
+    },
+    {
+      "key": "text_6b00ecab",
+      "pl": "Na krótko ujawnia wieże w wybranym fragmencie trasy.",
+      "en": "Briefly reveals towers in the selected path segment."
+    },
+    {
+      "key": "text_083dcdd0",
+      "pl": "Na krótko wykrywa Runnerów i moby w wybranym obszarze.",
+      "en": "Briefly detects Runners and mobs in a selected area."
+    },
+    {
+      "key": "text_d216d564",
+      "pl": "Na minimapie: TY — złoty, AI — błękitny, czerwony krzyż — miejsce śmierci. W panelu drużyny zobaczysz HP, statusy i dystans do mety.",
+      "en": "On the minimap: YOU — gold, AI — blue, red cross — death location. In the team panel, you'll see HP, statuses, and distance to the goal."
+    },
+    {
+      "key": "text_0c0c7617",
+      "pl": "Najpierw liczy się liczba Runnerów na mecie, potem czas lub najdalszy postęp.",
+      "en": "First, the number of Runners on the goal counts, then time or farthest progress."
+    },
+    {
+      "key": "text_14aa565e",
+      "pl": "Natura",
+      "en": "Nature"
+    },
+    {
+      "key": "text_8c3f542c",
+      "pl": "Nie ustalono pokrewieństwa z trzema siostrami; jej rodzina pozostaje otwarta.",
+      "en": "No relation established with three sisters; her family remains open."
+    },
+    {
+      "key": "text_5a0d0c1b",
+      "pl": "Niezłomny obrońca, który osłania drużynę przed ostrzałem.",
+      "en": "Unbreakable defender who shields the team from enemy attacks."
+    },
+    {
+      "key": "text_e4417330",
+      "pl": "OBRAŻENIA",
+      "en": "DAMAGE"
+    },
+    {
+      "key": "text_fa65173f",
+      "pl": "OBRAŻENIA NATURY ROZŁOŻONE W CZASIE.",
+      "en": "NATURE DAMAGE SPREAD OVER TIME."
+    },
+    {
+      "key": "text_8b5a3fde",
+      "pl": "OBRAŻENIA OGNIA ROZŁOŻONE W CZASIE.",
+      "en": "FIRE DAMAGE SPREAD OVER TIME."
+    },
+    {
+      "key": "text_94cc587e",
+      "pl": "OBRONA",
+      "en": "DEFENSE"
+    },
+    {
+      "key": "text_0f62d2fd",
+      "pl": "OBRONA · CIEŃ BASTIONU",
+      "en": "DEFENSE · SHADOW BASTION"
+    },
+    {
+      "key": "text_9d6ed03f",
+      "pl": "OBRONA · IMPULS ZWIADU",
+      "en": "DEFENSE · SCOUT IMPULSE"
+    },
+    {
+      "key": "text_99ee1057",
+      "pl": "OBRONA · KAMIENNA ZBROJA",
+      "en": "DEFENSE · STONE ARMOR"
+    },
+    {
+      "key": "text_56b5b86f",
+      "pl": "OBRONA · KORZENNA OSŁONA",
+      "en": "DEFENSE · ROOT SHIELD"
+    },
+    {
+      "key": "text_66d0c572",
+      "pl": "OBRONA · LODOWA STREFA",
+      "en": "DEFENSE · ICE ZONE"
+    },
+    {
+      "key": "text_83c048ff",
+      "pl": "OBRONA · NAPRAWA",
+      "en": "DEFENSE · REPAIR"
+    },
+    {
+      "key": "text_b04825e1",
+      "pl": "OBRONA · ODMROŻENIE",
+      "en": "DEFENSE · FROSTBITE"
+    },
+    {
+      "key": "text_1643f2be",
+      "pl": "OBRONA · OGNISTY ZNACZNIK",
+      "en": "DEFENSE · FIERY MARKER"
+    },
+    {
+      "key": "text_03603f03",
+      "pl": "OBRONA · ROZGRZANA ZBROJA",
+      "en": "DEFENSE · HEATED ARMOR"
+    },
+    {
+      "key": "text_d3ae49c1",
+      "pl": "OBRONA · SZYBKI ZAPŁON",
+      "en": "DEFENSE · QUICK IGNITION"
+    },
+    {
+      "key": "text_d39fa88e",
+      "pl": "OBRONA · ZASŁONA OBRONY",
+      "en": "DEFENSE · DEFENSE SHIELD"
+    },
+    {
+      "key": "text_ab8e21ad",
+      "pl": "OBRONA · ŚWIETLNY DOZÓR",
+      "en": "DEFENSE · BRIGHT WATCH"
+    },
+    {
+      "key": "text_4fb0ed3e",
+      "pl": "OBROŃCA ŚWIATŁA — KIERUNEK DO ZAPROJEKTOWANIA",
+      "en": "LIGHT DEFENDER — DIRECTION TO BE DESIGNED"
+    },
+    {
+      "key": "text_3f2b6a17",
+      "pl": "OBSZAR I PODPALENIE. ROZWÓJ: MAGMA LUB INFERNO.",
+      "en": "AREA AND INCINERATION. DEVELOPMENT: MAGMA OR INFERNO."
+    },
+    {
+      "key": "text_288f2d89",
+      "pl": "OCHRONA CIENIEM — KIERUNEK DO ZAPROJEKTOWANIA",
+      "en": "SHADOW DEFENSE — DIRECTION TO BE DESIGNED"
+    },
+    {
+      "key": "text_268796a2",
+      "pl": "OCZY MROKU",
+      "en": "EYES OF THE DARKNESS"
+    },
+    {
+      "key": "text_f9a194c0",
+      "pl": "OCZYSZCZANIE I OCHRONA PRZED SPOWOLNIENIEM",
+      "en": "CLEANING AND PROTECTION AGAINST SLOWDOWNS"
+    },
+    {
+      "key": "text_ebdd9e40",
+      "pl": "ODKRYJ KODEKS  ↗",
+      "en": "DISCOVER THE CODEX  ↗"
+    },
+    {
+      "key": "text_e2ac0bb0",
+      "pl": "ODNAWIA 46 OSŁONY WIEŻY I OGRANICZA OBRAŻENIA PRZEZ 4 S.",
+      "en": "RESTORES 46 TOWER SHIELD AND REDUCES DAMAGE FOR 4 S."
+    },
+    {
+      "key": "text_08412690",
+      "pl": "ODNAWIA 66 HP I 44 OSŁONY WYBRANEJ ŻYWEJ WIEŻY.",
+      "en": "RESTORES 66 HP AND 44 SHIELD TO THE SELECTED ACTIVE TOWER."
+    },
+    {
+      "key": "text_34f7b865",
+      "pl": "OGIEŃ",
+      "en": "FIRE"
+    },
+    {
+      "key": "text_b8557537",
+      "pl": "OGIEŃ {0:F1}S  ",
+      "en": "BURN {0:F1}S  "
+    },
+    {
+      "key": "text_548da917",
+      "pl": "OGIEŃ {0:F1}s  ",
+      "en": "BURN {0:F1}s  "
+    },
+    {
+      "key": "text_74f22144",
+      "pl": "ONE LUCKY BASTARD: CZTERY WYNIKI PO 25% — ZATRZYMANIE WIEŻY NA 5 S, TRWAŁE WYŁĄCZENIE W OBRONIE, 50% SZANSY NA PUDŁO DO KOŃCA RUNDY ALBO PECHOWO +50% SZYBKOŚCI ATAKU WIEŻY NA 5 S. SZCZEGÓŁY DO USTALENIA.",
+      "en": "ONE LUCKY BASTARD: FOUR OUTCOMES AT 25% EACH — STOP A TOWER FOR 5 S, PERMANENTLY DISABLE A TOWER IN DEFENSE, GIVE IT A 50% MISS CHANCE UNTIL THE END OF THE ROUND, OR, ON A BAD ROLL, INCREASE ITS ATTACK SPEED BY 50% FOR 5 S. DETAILS TO BE DETERMINED."
+    },
+    {
+      "key": "text_af3747a4",
+      "pl": "OPANCERZONY PRZEWODNIK BURZY — KIERUNEK DO ZAPROJEKTOWANIA",
+      "en": "ARMORED THUNDER GUIDE — DIRECTION TO DESIGN"
+    },
+    {
+      "key": "text_1c15e151",
+      "pl": "OPIEKUNKA, KTÓRA USUWA SPOWOLNIENIA I PRZYWRACA SPRAWNOŚĆ WIEŻOM.",
+      "en": "A CARETAKER WHO REMOVES SLOWS AND RESTORES TOWERS TO WORKING ORDER."
+    },
+    {
+      "key": "text_520e4c05",
+      "pl": "OPISY I WARTOŚCI SĄ KONCEPCJĄ; WIĄŻĄCE DECYZJE ZNAJDUJĄ SIĘ W GDD.",
+      "en": "DESCRIPTIONS AND VALUES ARE A CONCEPT; BINDING DECISIONS ARE IN THE GDD."
+    },
+    {
+      "key": "text_bb070972",
+      "pl": "OSTRZEŻENIE PRZED STRZAŁEM",
+      "en": "WARNING BEFORE SHOT"
+    },
+    {
+      "key": "text_0725dd93",
+      "pl": "OSŁONA",
+      "en": "SHIELD"
+    },
+    {
+      "key": "text_051ebf03",
+      "pl": "OSŁONA CIENIA I SPOWALNIANIE POCISKÓW",
+      "en": "SHADOW DEFENSE AND SLOWING PROJECTILES"
+    },
+    {
+      "key": "text_287d3490",
+      "pl": "OSŁONA −{0:0.#}",
+      "en": "SHIELD −{0:0.#}"
+    },
+    {
+      "key": "text_88a3b507",
+      "pl": "OTRZYMUJE O 10% MNIEJ OBRAŻEŃ OD BEZPOŚREDNICH TRAFIEŃ.",
+      "en": "TAKES 10% LESS DAMAGE FROM DIRECT HITS."
+    },
+    {
+      "key": "text_da3f4ef4",
+      "pl": "OTRZYMUJE O 15% MNIEJ OBRAŻEŃ OGNIA.",
+      "en": "TAKES 15% LESS FIRE DAMAGE."
+    },
+    {
+      "key": "text_f1f04894",
+      "pl": "OTRZYMUJE O 15% WIĘCEJ LECZENIA; WZMACNIA WŁASNĄ NAPRAWĘ OSŁONY.",
+      "en": "RECEIVES 15% MORE HEALING AND STRENGTHENS HER OWN SHIELD REPAIR."
+    },
+    {
+      "key": "text_384aedae",
+      "pl": "OTRZYMUJE O 20% MNIEJ OBRAŻEŃ OKRESOWYCH. W OBRONIE PREMIA CHRONI PILOTOWANĄ WIEŻĘ.",
+      "en": "TAKES 20% LESS PERIODIC DAMAGE. IN DEFENSE, THE SHIELD BONUS PROTECTS THE PILOTED TOWER."
+    },
+    {
+      "key": "text_2fbfbe3f",
+      "pl": "OZNACZA RUNNERA JAKO PREFEROWANY CEL AUTOMATYCZNYCH WIEŻ.",
+      "en": "MARKS THE RUNNER AS THE PREFERRED TARGET FOR AUTOMATIC TOWERS."
+    },
+    {
+      "key": "text_b7821c9a",
+      "pl": "Obrażenia Natury rozłożone w czasie.",
+      "en": "Nature Damage spread over time."
+    },
+    {
+      "key": "text_cc550b1d",
+      "pl": "Obrażenia Ognia rozłożone w czasie.",
+      "en": "Fire Damage spread over time."
+    },
+    {
+      "key": "text_493d1b66",
+      "pl": "Obrona · Cień bastionu",
+      "en": "Defense · Shadow Bastion"
+    },
+    {
+      "key": "text_2a55a93f",
+      "pl": "Obrona · Impuls zwiadu",
+      "en": "Defense · Scout Impulse"
+    },
+    {
+      "key": "text_a81139d7",
+      "pl": "Obrona · Kamienna zbroja",
+      "en": "Defense · Stone Armor"
+    },
+    {
+      "key": "text_476b5c08",
+      "pl": "Obrona · Korzenna osłona",
+      "en": "Defense · Root Shield"
+    },
+    {
+      "key": "text_bb446cb2",
+      "pl": "Obrona · Lodowa strefa",
+      "en": "Defense · Ice Zone"
+    },
+    {
+      "key": "text_f6f61e5f",
+      "pl": "Obrona · Naprawa",
+      "en": "Defense · Repair"
+    },
+    {
+      "key": "text_1499e554",
+      "pl": "Obrona · Odmrożenie",
+      "en": "Defense · Frostbite"
+    },
+    {
+      "key": "text_288481de",
+      "pl": "Obrona · Ognisty znacznik",
+      "en": "Defense · Fiery Marker"
+    },
+    {
+      "key": "text_4646e263",
+      "pl": "Obrona · Rozgrzana zbroja",
+      "en": "Defense · Heated Armor"
+    },
+    {
+      "key": "text_0b6e895c",
+      "pl": "Obrona · Szybki zapłon",
+      "en": "Defense · Quick Ignition"
+    },
+    {
+      "key": "text_acccd1ab",
+      "pl": "Obrona · Zasłona obrony",
+      "en": "Defense · Defense Shield"
+    },
+    {
+      "key": "text_ee9f4b0d",
+      "pl": "Obrona · Świetlny dozór",
+      "en": "Defense · Bright Watch"
+    },
+    {
+      "key": "text_f7a951c9",
+      "pl": "Obrońca światła — kierunek do zaprojektowania",
+      "en": "Light Defender — direction to be designed"
+    },
+    {
+      "key": "text_072f9197",
+      "pl": "Obszar i podpalenie. Rozwój: Magma lub Inferno.",
+      "en": "Area and incineration. Development: Magma or Inferno."
+    },
+    {
+      "key": "text_a2d71549",
+      "pl": "Ochrona cieniem — kierunek do zaprojektowania",
+      "en": "Shadow Defense — direction to be designed"
+    },
+    {
+      "key": "text_e1b22f22",
+      "pl": "Oczy mroku",
+      "en": "Eyes of the Darkness"
+    },
+    {
+      "key": "text_f1992960",
+      "pl": "Oczyszczanie i ochrona przed spowolnieniem",
+      "en": "Cleaning and protection against slowdowns"
+    },
+    {
+      "key": "text_e3920ae5",
+      "pl": "Odnawia 46 osłony wieży i ogranicza obrażenia przez 4 s.",
+      "en": "Restores 46 tower shield and reduces damage for 4 s."
+    },
+    {
+      "key": "text_2480ee67",
+      "pl": "Odnawia 66 HP i 44 osłony wybranej żywej wieży.",
+      "en": "Restores 66 HP and 44 shield to the selected active tower."
+    },
+    {
+      "key": "text_234a6f40",
+      "pl": "Ogień",
+      "en": "Fire"
+    },
+    {
+      "key": "text_2ea6c149",
+      "pl": "One Lucky Bastard: cztery wyniki po 25% — zatrzymanie wieży na 5 s, trwałe wyłączenie w obronie, 50% szansy na pudło do końca rundy albo pechowo +50% szybkości ataku wieży na 5 s. Szczegóły do ustalenia.",
+      "en": "One Lucky Bastard: four outcomes at 25% each — stop a tower for 5 s, permanently disable a tower in defense, give it a 50% miss chance until the end of the round, or, on a bad roll, increase its attack speed by 50% for 5 s. Details to be determined."
+    },
+    {
+      "key": "text_f946a024",
+      "pl": "Opancerzony przewodnik burzy — kierunek do zaprojektowania",
+      "en": "Armored Thunder Guide — direction to design"
+    },
+    {
+      "key": "text_91543b96",
+      "pl": "Opiekunka, która usuwa spowolnienia i przywraca sprawność wieżom.",
+      "en": "A caretaker who removes slows and restores towers to working order."
+    },
+    {
+      "key": "text_53a327f5",
+      "pl": "Opisy i wartości są koncepcją; wiążące decyzje znajdują się w GDD.",
+      "en": "Descriptions and values are a concept; binding decisions are in the GDD."
+    },
+    {
+      "key": "text_5f4c852e",
+      "pl": "Ostrzeżenie przed strzałem",
+      "en": "Warning before shot"
+    },
+    {
+      "key": "text_a94f7ae0",
+      "pl": "Osłona cienia i spowalnianie pocisków",
+      "en": "Shadow defense and slowing projectiles"
+    },
+    {
+      "key": "text_cca31a5b",
+      "pl": "Otrzymuje o 10% mniej obrażeń od bezpośrednich trafień.",
+      "en": "Takes 10% less damage from direct hits."
+    },
+    {
+      "key": "text_4ad5a792",
+      "pl": "Otrzymuje o 15% mniej obrażeń Ognia.",
+      "en": "Takes 15% less Fire damage."
+    },
+    {
+      "key": "text_0227a8e9",
+      "pl": "Otrzymuje o 15% więcej leczenia; wzmacnia własną naprawę osłony.",
+      "en": "Receives 15% more healing and strengthens her own shield repair."
+    },
+    {
+      "key": "text_ea78d917",
+      "pl": "Otrzymuje o 20% mniej obrażeń okresowych. W obronie premia chroni pilotowaną wieżę.",
+      "en": "Takes 20% less periodic damage. In defense, the shield bonus protects the piloted tower."
+    },
+    {
+      "key": "text_e36f2f6c",
+      "pl": "Oznacza Runnera jako preferowany cel automatycznych wież.",
+      "en": "Marks the Runner as the preferred target for automatic towers."
+    },
+    {
+      "key": "text_f6bf6465",
+      "pl": "PANCERNIK KRZEMIEŃ",
+      "en": "KRZEMIEŃ THE ARMADILLO"
+    },
+    {
+      "key": "text_ab61be5d",
+      "pl": "PANCERNIK OSŁANIA PRZED POCISKAMI BEZ BLOKOWANIA TRASY; W OBRONIE CHRONI WIEŻĘ.",
+      "en": "THE ARMADILLO SHIELDS AGAINST PROJECTILES WITHOUT BLOCKING THE PATH; IN DEFENSE, IT PROTECTS A TOWER."
+    },
+    {
+      "key": "text_b6c2e460",
+      "pl": "PANDA BOB",
+      "en": "PANDA BOB"
+    },
+    {
+      "key": "text_e2fdfb34",
+      "pl": "PIERWSZA MAPA TO ZNANY OBU DRUŻYNOM LABIRYNT: OD ŚRODKA PROWADZI JEDNA KRĘTA TRASA NA ZEWNĄTRZ.",
+      "en": "THE FIRST MAP IS A LABYRINTH KNOWN TO BOTH TEAMS: ONE WINDING PATH LEADS FROM THE CENTER TO THE OUTSIDE."
+    },
+    {
+      "key": "text_c601a192",
+      "pl": "PIERWSZA PRÓBA 3D",
+      "en": "FIRST 3D TRIAL"
+    },
+    {
+      "key": "text_575eb701",
+      "pl": "PO UŻYCIU UMIEJĘTNOŚCI NA CHWILĘ PRZYSPIESZA.",
+      "en": "FOR A SHORT TIME, SPEEDS UP AFTER USING THE SKILL."
+    },
+    {
+      "key": "text_8f00863e",
+      "pl": "PO UŻYCIU UMIEJĘTNOŚCI PORUSZA SIĘ SZYBCIEJ PRZEZ 2 S.",
+      "en": "AFTER USING THE ABILITY, MOVES FASTER FOR 2 SECONDS."
+    },
+    {
+      "key": "text_c3470d22",
+      "pl": "PO UŻYCIU ZDOLNOŚCI TRUDNIEJ GO WYKRYĆ PRZEZ KRÓTKI CZAS.",
+      "en": "AFTER USING THE ABILITY, IT BECOMES HARDER TO DETECT HIM FOR A SHORT TIME."
+    },
+    {
+      "key": "text_25c13e59",
+      "pl": "PO WYNISZCZAJĄCEJ WOJNIE KRAINY ROZSTRZYGAJĄ CZĘŚĆ SPORÓW POPRZEZ OBOWIĄZKOWE PRÓBY DRUŻYN W LABIRYNTACH.",
+      "en": "AFTER A DEVASTATING WAR, THE LANDS RESOLVE SOME DISPUTES THROUGH MANDATORY TEAM TRIALS IN LABYRINTHS."
+    },
+    {
+      "key": "text_1e7f1d0b",
+      "pl": "POCHODZENIE",
+      "en": "ORIGIN"
+    },
+    {
+      "key": "text_a42e7a49",
+      "pl": "POCHŁANIA OBRAŻENIA PRZED PUNKTAMI ZDROWIA.",
+      "en": "ABSORBS DAMAGE BEFORE HEALTH POINTS."
+    },
+    {
+      "key": "text_aec843eb",
+      "pl": "PODATNOŚĆ",
+      "en": "VULNERABILITY"
+    },
+    {
+      "key": "text_6cf274f7",
+      "pl": "PODATNOŚĆ I SKONCENTROWANY OSTRZAŁ. ROZWÓJ: CURSE LUB VOID.",
+      "en": "VULNERABILITY AND FOCUSED SHOT. DEVELOPMENT: CURSE OR VOID."
+    },
+    {
+      "key": "text_a938f542",
+      "pl": "PODEJDŹ BLIŻEJ WIEŻY, ABY JĄ ZAATAKOWAĆ.",
+      "en": "APPROACH THE TOWER TO ATTACK IT."
+    },
+    {
+      "key": "text_4df657eb",
+      "pl": "PODEJDŹ BLIŻEJ WIEŻY, ABY UŻYĆ UMIEJĘTNOŚCI.",
+      "en": "APPROACH THE TOWER TO USE YOUR SKILL."
+    },
+    {
+      "key": "text_cb522380",
+      "pl": "PODPALENIE",
+      "en": "BURN"
+    },
+    {
+      "key": "text_8a91157a",
+      "pl": "PODPALENIE {0:F1}S",
+      "en": "BURN {0:F1}S"
+    },
+    {
+      "key": "text_aa9147da",
+      "pl": "PODPALENIE {0:F1}s",
+      "en": "BURN {0:F1}s"
+    },
+    {
+      "key": "text_3a3530d2",
+      "pl": "POGARSZA CELNOŚĆ AUTOMATYCZNEGO OGNIA WYBRANEJ WIEŻY.",
+      "en": "REDUCES THE ACCURACY OF THE SELECTED TOWER'S AUTOMATIC FIRE."
+    },
+    {
+      "key": "text_4f1612b6",
+      "pl": "POJEDYNEK BRAM",
+      "en": "GATE BATTLE"
+    },
+    {
+      "key": "text_01d75f16",
+      "pl": "POKONANY",
+      "en": "DEFEATED"
+    },
+    {
+      "key": "text_ac71698f",
+      "pl": "POSTAĆ W KODEKSIE  ·  NIEGRYWALNA W PRÓBIE",
+      "en": "CHARACTER IN CODEX · NOT PLAYABLE IN TRIAL"
+    },
+    {
+      "key": "text_1e5a30f5",
+      "pl": "POSTAĆ W PRZYGOTOWANIU.",
+      "en": "CHARACTER IN PREPARATION."
+    },
+    {
+      "key": "text_a784eb22",
+      "pl": "POTWIERDŹ SOJUSZNIKA",
+      "en": "CONFIRM ALLY"
+    },
+    {
+      "key": "text_94fb2a1f",
+      "pl": "POTWIERDŹ SWOJEGO BOHATERA",
+      "en": "CONFIRM YOUR HERO"
+    },
+    {
+      "key": "text_a01ce808",
+      "pl": "POZNAJ BOHATERÓW, ZAGROŻENIA I ZASADY PRÓB.",
+      "en": "MEET THE HEROES, THREATS, AND RULES OF THE TRIALS."
+    },
+    {
+      "key": "text_b08988ea",
+      "pl": "POZNAWAŁ DOLINĘ JAKO PRZEWODNIK EKIP ODNAWIAJĄCYCH STARE DROGI. SZUKA ZASTOSOWAŃ PNĄCZY, KTÓRE POMAGAJĄ PRZEJŚĆ TRUDNY TEREN.",
+      "en": "A GUIDE FOR CREWS RESTORING OLD ROADS, ERON EXPLORED THE VALLEY AND SOUGHT WAYS TO USE VINES TO CROSS DIFFICULT TERRAIN."
+    },
+    {
+      "key": "text_54802d50",
+      "pl": "PRACOWAŁA PRZY KALIBRACJI EMITERÓW I NAUCZYŁA SIĘ ROZPOZNAWAĆ SŁABE PUNKTY MECHANIZMÓW. W PRÓBACH WYKORZYSTUJE TĘ WIEDZĘ DO PRECYZYJNEGO SABOTAŻU.",
+      "en": "WORKED ON EMITTER CALIBRATION AND LEARNED TO IDENTIFY WEAK POINTS IN MECHANISMS. IN TRIALS, SHE USES THIS KNOWLEDGE FOR PRECISE SABOTAGE."
+    },
+    {
+      "key": "text_0183d380",
+      "pl": "PRACOWAŁA PRZY NAPRAWIE PRZEKAŹNIKÓW, GDZIE SEKUNDY CZĘSTO DECYDOWAŁY, CZY WIADOMOŚĆ DOTRZE NA CZAS. W PRÓBACH UCZY SOJUSZNIKÓW DZIAŁAĆ W JEDNYM RYTMIE.",
+      "en": "WORKED ON REPAIRING TRANSMITTERS WHERE SECONDS OFTEN DECIDED WHETHER THE MESSAGE ARRIVED IN TIME. IN TRIALS, TEACHES ALLIES TO ACT IN UNISON."
+    },
+    {
+      "key": "text_3ca83531",
+      "pl": "PRE-POC  ·  OFFLINE",
+      "en": "PRE-POC · OFFLINE"
+    },
+    {
+      "key": "text_638bd686",
+      "pl": "PRECYZYJNA SPECJALISTKA PRZEŁAMUJĄCA WYBRANE PUNKTY OBRONY.",
+      "en": "A PRECISE SPECIALIST WHO TARGETS SPECIFIC DEFENSE POINTS."
+    },
+    {
+      "key": "text_8ce93b08",
+      "pl": "PRECYZYJNE USZKADZANIE WIEŻ",
+      "en": "PRECISION TOWER DAMAGE"
+    },
+    {
+      "key": "text_55632e4c",
+      "pl": "PROTOTYP KONCEPCJI. ZASADY, OPISY, OPRAWA I BALANS POZOSTAJĄ DO TESTÓW.",
+      "en": "CONCEPT PROTOTYPE. RULES, DESCRIPTIONS, ART, AND BALANCE ARE PENDING TESTS."
+    },
+    {
+      "key": "text_bd71f77c",
+      "pl": "PROWADZIŁ RUCHOMĄ LATARNIĘ DLA EKIP PODRÓŻUJĄCYCH MIĘDZY OSADAMI; JEGO CIEPŁO I OPTYMIZM POMAGAJĄ UTRZYMAĆ DRUŻYNĘ RAZEM.",
+      "en": "HE OPERATED A MOBILE LIGHTHOUSE FOR TRAVELERS BETWEEN SETTLEMENTS; HIS WARMTH AND OPTIMISM HELP KEEP THE TEAM TOGETHER."
+    },
+    {
+      "key": "text_338ebcd3",
+      "pl": "PRZED PRÓBĄ · CO TESTUJEMY",
+      "en": "BEFORE THE TRIAL · WHAT WE TEST"
+    },
+    {
+      "key": "text_c6ffb85e",
+      "pl": "PRZEJDŹ DO PRÓBY  →",
+      "en": "GO TO THE TRIAL →"
+    },
+    {
+      "key": "text_66f5b9b6",
+      "pl": "PRZESKOK BŁYSKAWICY",
+      "en": "LIGHTNING LEAP"
+    },
+    {
+      "key": "text_300af6de",
+      "pl": "PRZEZ 4 S SPOWALNIA POBLISKIE LECĄCE POCISKI O 50%.",
+      "en": "FOR 4S, SLOWS NEARBY FLYING PROJECTILES BY 50%."
+    },
+    {
+      "key": "text_8f825e84",
+      "pl": "PRZEZ LATA ZABEZPIECZAŁA PIECE I TRANSPORT SPLOTYTU, UCZĄC SIĘ ZATRZYMYWAĆ ŻAR, ZANIM ZAGROZI INNYM. W PRÓBACH OSŁANIA DRUŻYNĘ I WZMACNIA WIEŻE.",
+      "en": "FOR YEARS, SHE SAFEGUARDED PIECES AND TRANSPORT OF SPLOTYT, LEARNING TO CONTAIN THE FIRE BEFORE IT THREATENED OTHERS. IN TRIALS, SHE DEFENDS HER TEAM AND STRENGTHENS THE TOWERS."
+    },
+    {
+      "key": "text_ee013de2",
+      "pl": "PRZYCIEMNIENI BOHATEROWIE SĄ NIEDOSTĘPNI W TEJ PRÓBIE.",
+      "en": "DIMMED HEROES ARE UNAVAILABLE IN THIS TRIAL."
+    },
+    {
+      "key": "text_ec2e5adb",
+      "pl": "PRZYGOTUJ BOHATERA I POZNAJ LABIRYNT PRZED WŁAŚCIWĄ ROZGRYWKĄ.",
+      "en": "PREPARE THE HERO AND EXPLORE THE LABYRINTH BEFORE THE ACTUAL GAMEPLAY."
+    },
+    {
+      "key": "text_6d6566e2",
+      "pl": "PRZYGOTUJ SIĘ  /  TRYBY GRY",
+      "en": "GET READY / GAME MODES"
+    },
+    {
+      "key": "text_293bbc0a",
+      "pl": "PRZYSPIESZA POBLISKICH RUNNERÓW I MOBY O 25% NA 3 S.",
+      "en": "SPEEDS UP NEARBY RUNNERS AND MOBS BY 25% FOR 3 SECONDS."
+    },
+    {
+      "key": "text_7afe441c",
+      "pl": "PRZYWOŁYWACZ",
+      "en": "SUMMONER"
+    },
+    {
+      "key": "text_d40994db",
+      "pl": "PRÓBA 3D",
+      "en": "3D TRIAL"
+    },
+    {
+      "key": "text_ff49751a",
+      "pl": "PRÓBA BOHATERA",
+      "en": "HERO TRIAL"
+    },
+    {
+      "key": "text_65091311",
+      "pl": "PRÓBY DAJĄ MU SZANSĘ WYWALCZYĆ DOSTĘP DO CZĘŚCI POTRZEBNYCH OKOLICZNYM STACJOM.",
+      "en": "ATTEMPTS GIVE HIM A CHANCE TO GAIN ACCESS TO PARTS NEEDED BY NEARBY STATIONS."
+    },
+    {
+      "key": "text_5ce1be5e",
+      "pl": "PUNKT WYJŚCIA TO OKOŁO 360 M DROGI, BEZ SKRÓTÓW I ŚLEPYCH ZAUŁKÓW.",
+      "en": "THE STARTING POINT IS APPROXIMATELY 360 METERS OF DISTANCE, WITHOUT SHORTCUTS OR DEAD ENDS."
+    },
+    {
+      "key": "text_dcad241e",
+      "pl": "Pancernik osłania przed pociskami bez blokowania trasy; w obronie chroni wieżę.",
+      "en": "The armadillo shields against projectiles without blocking the path; in defense, it protects a tower."
+    },
+    {
+      "key": "text_194aa2a2",
+      "pl": "Pierwsza mapa to znany obu drużynom labirynt: od środka prowadzi jedna kręta trasa na zewnątrz.",
+      "en": "The first map is a labyrinth known to both teams: one winding path leads from the center to the outside."
+    },
+    {
+      "key": "text_ce927a35",
+      "pl": "Po użyciu umiejętności na chwilę przyspiesza.",
+      "en": "For a short time, speeds up after using the skill."
+    },
+    {
+      "key": "text_ca86ceb2",
+      "pl": "Po użyciu umiejętności porusza się szybciej przez 2 s.",
+      "en": "After using the ability, moves faster for 2 seconds."
+    },
+    {
+      "key": "text_b7b6361d",
+      "pl": "Po użyciu zdolności trudniej go wykryć przez krótki czas.",
+      "en": "After using the ability, it becomes harder to detect him for a short time."
+    },
+    {
+      "key": "text_502f15ac",
+      "pl": "Po wyniszczającej wojnie krainy rozstrzygają część sporów poprzez obowiązkowe Próby drużyn w labiryntach.",
+      "en": "After a devastating war, the lands resolve some disputes through mandatory Team Trials in labyrinths."
+    },
+    {
+      "key": "text_ff9d0d4b",
+      "pl": "Pochłania obrażenia przed punktami zdrowia.",
+      "en": "Absorbs damage before health points."
+    },
+    {
+      "key": "text_f0efd13e",
+      "pl": "Podatność i skoncentrowany ostrzał. Rozwój: Curse lub Void.",
+      "en": "Vulnerability and focused shot. Development: Curse or Void."
+    },
+    {
+      "key": "text_53403ddd",
+      "pl": "Podejdź bliżej wieży, aby ją zaatakować.",
+      "en": "Approach the tower to attack it."
+    },
+    {
+      "key": "text_dcada066",
+      "pl": "Podejdź bliżej wieży, aby użyć umiejętności.",
+      "en": "Approach the tower to use your skill."
+    },
+    {
+      "key": "text_92a6604b",
+      "pl": "Pogarsza celność automatycznego ognia wybranej wieży.",
+      "en": "Reduces the accuracy of the selected tower's automatic fire."
+    },
+    {
+      "key": "text_6b742b98",
+      "pl": "Postać w przygotowaniu.",
+      "en": "Character in preparation."
+    },
+    {
+      "key": "text_0bccbc7d",
+      "pl": "Poznaj bohaterów, zagrożenia i zasady Prób.",
+      "en": "Meet the heroes, threats, and rules of the Trials."
+    },
+    {
+      "key": "text_8890b40e",
+      "pl": "Poznawał dolinę jako przewodnik ekip odnawiających stare drogi. Szuka zastosowań pnączy, które pomagają przejść trudny teren.",
+      "en": "A guide for crews restoring old roads, Eron explored the valley and sought ways to use vines to cross difficult terrain."
+    },
+    {
+      "key": "text_0cd4b704",
+      "pl": "Pracowała przy kalibracji emiterów i nauczyła się rozpoznawać słabe punkty mechanizmów. W Próbach wykorzystuje tę wiedzę do precyzyjnego sabotażu.",
+      "en": "Worked on emitter calibration and learned to identify weak points in mechanisms. In Trials, she uses this knowledge for precise sabotage."
+    },
+    {
+      "key": "text_dd0b498a",
+      "pl": "Pracowała przy naprawie przekaźników, gdzie sekundy często decydowały, czy wiadomość dotrze na czas. W Próbach uczy sojuszników działać w jednym rytmie.",
+      "en": "Worked on repairing transmitters where seconds often decided whether the message arrived in time. In Trials, teaches allies to act in unison."
+    },
+    {
+      "key": "text_a2278ba4",
+      "pl": "Precyzyjna specjalistka przełamująca wybrane punkty obrony.",
+      "en": "A precise specialist who targets specific defense points."
+    },
+    {
+      "key": "text_e57eceed",
+      "pl": "Precyzyjne uszkadzanie wież",
+      "en": "Precision tower damage"
+    },
+    {
+      "key": "text_6132869f",
+      "pl": "Prototyp koncepcji. Zasady, opisy, oprawa i balans pozostają do testów.",
+      "en": "Concept prototype. Rules, descriptions, art, and balance are pending tests."
+    },
+    {
+      "key": "text_b1c89485",
+      "pl": "Prowadził ruchomą latarnię dla ekip podróżujących między osadami; jego ciepło i optymizm pomagają utrzymać drużynę razem.",
+      "en": "He operated a mobile lighthouse for travelers between settlements; his warmth and optimism help keep the team together."
+    },
+    {
+      "key": "text_486159d7",
+      "pl": "Przeskok błyskawicy",
+      "en": "Lightning Leap"
+    },
+    {
+      "key": "text_753d4507",
+      "pl": "Przez 4 s spowalnia pobliskie lecące pociski o 50%.",
+      "en": "For 4s, slows nearby flying projectiles by 50%."
+    },
+    {
+      "key": "text_ffab035d",
+      "pl": "Przez lata zabezpieczała piece i transport splotytu, ucząc się zatrzymywać żar, zanim zagrozi innym. W Próbach osłania drużynę i wzmacnia wieże.",
+      "en": "For years, she safeguarded pieces and transport of splotyt, learning to contain the fire before it threatened others. In Trials, she defends her team and strengthens the towers."
+    },
+    {
+      "key": "text_f23b0d5e",
+      "pl": "Przyciemnieni bohaterowie są niedostępni w tej próbie.",
+      "en": "Dimmed heroes are unavailable in this trial."
+    },
+    {
+      "key": "text_42ed306d",
+      "pl": "Przygotuj bohatera i poznaj labirynt przed właściwą rozgrywką.",
+      "en": "Prepare the hero and explore the labyrinth before the actual gameplay."
+    },
+    {
+      "key": "text_b5b7300a",
+      "pl": "Przyspiesza pobliskich Runnerów i moby o 25% na 3 s.",
+      "en": "Speeds up nearby Runners and mobs by 25% for 3 seconds."
+    },
+    {
+      "key": "text_bb6178a3",
+      "pl": "Przywoływacz",
+      "en": "Summoner"
+    },
+    {
+      "key": "text_8973b925",
+      "pl": "Próby dają mu szansę wywalczyć dostęp do części potrzebnych okolicznym stacjom.",
+      "en": "Attempts give him a chance to gain access to parts needed by nearby stations."
+    },
+    {
+      "key": "text_14420bb6",
+      "pl": "Punkt wyjścia to około 360 m drogi, bez skrótów i ślepych zaułków.",
+      "en": "The starting point is approximately 360 meters of distance, without shortcuts or dead ends."
+    },
+    {
+      "key": "text_72b1ff5d",
+      "pl": "Q: {0}   •   SPACJA / UNIK: {1}   •   OSŁONA: {2:F0}   •   WASD: RUCH   •   MYSZ: KAMERA   •   ESC: KURSOR",
+      "en": "Q: {0}   •   SPACE / DODGE: {1}   •   SHIELD: {2:F0}   •   WASD: MOVE   •   MOUSE: CAMERA   •   ESC: CURSOR"
+    },
+    {
+      "key": "text_c03b60bd",
+      "pl": "REAKCJE ŻYWIOŁÓW",
+      "en": "ELEMENTAL REACTIONS"
+    },
+    {
+      "key": "text_bc3560b5",
+      "pl": "REPREZENTUJE DZIELNICE WARSZTATOWE, KTÓRE WALCZĄ O SPRAWIEDLIWY DOSTĘP DO PALIWA.",
+      "en": "REPRESENTS WORKSHOP DISTRICTS FIGHTING FOR FAIR ACCESS TO FUEL."
+    },
+    {
+      "key": "text_fcf77948",
+      "pl": "REPREZENTUJE GÓRNICZĄ SPOŁECZNOŚĆ ZABIEGAJĄCĄ O BEZPIECZNY SZLAK ZAOPATRZENIA.",
+      "en": "REPRESENTS THE MINING COMMUNITY FIGHTING FOR A SAFE SUPPLY ROUTE."
+    },
+    {
+      "key": "text_90da37f1",
+      "pl": "REPREZENTUJE MIESZKAŃCÓW UTRZYMUJĄCYCH ŁĄCZNOŚĆ NA MNIEJ DOCHODOWYCH ODCINKACH SZLAKU.",
+      "en": "REPRESENTS RESIDENTS MAINTAINING CONNECTIVITY ON LESS PROSPEROUS SECTIONS OF THE PATH."
+    },
+    {
+      "key": "text_c9d272e4",
+      "pl": "REPREZENTUJE ZAŁOGI PRZEŁĘCZY WALCZĄCE O RÓWNY PODZIAŁ CZASU KORZYSTANIA ZE SZLAKU.",
+      "en": "REPRESENTS THE GARRISON OF THE PASS FIGHTING FOR EQUAL TIME USAGE OF THE PATH."
+    },
+    {
+      "key": "text_4b41bd03",
+      "pl": "RESZTKOWY IMPULS",
+      "en": "RESIDUAL IMPULSE"
+    },
+    {
+      "key": "text_4d554875",
+      "pl": "RIAN · Q: ZADAJE OBRAŻENIA POBLISKIEJ WIEŻY. PODEJDŹ W JEJ ZASIĘG.",
+      "en": "RIAN · Q: DEALS DAMAGE TO NEARBY TOWERS. APPROACH WITHIN ITS RANGE."
+    },
+    {
+      "key": "text_7002ebb3",
+      "pl": "RIAN · Q: zadaje obrażenia pobliskiej wieży. Podejdź w jej zasięg.",
+      "en": "RIAN · Q: deals damage to nearby towers. Approach within its range."
+    },
+    {
+      "key": "text_84e36698",
+      "pl": "RIFTORYN",
+      "en": "RIFTORYN"
+    },
+    {
+      "key": "text_a519fe8f",
+      "pl": "RIFTORYN  /  PIERWSZA PRÓBA",
+      "en": "RIFTORYN / FIRST TRIAL"
+    },
+    {
+      "key": "text_ce9aa1a2",
+      "pl": "RIFTORYN  /  PRÓBA BOHATERA",
+      "en": "RIFTORYN / HERO TRIAL"
+    },
+    {
+      "key": "text_ed4345c6",
+      "pl": "RODZINA",
+      "en": "FAMILY"
+    },
+    {
+      "key": "text_7c5f5f19",
+      "pl": "RODZINA NIE ZOSTAŁA JESZCZE OPISANA.",
+      "en": "FAMILY HAS NOT BEEN DESCRIBED YET."
+    },
+    {
+      "key": "text_694afab2",
+      "pl": "ROLA × ŻYWIOŁ  ·  WYBIERZ PORTRET, ABY POZNAĆ BOHATERA",
+      "en": "ROLE × ELEMENT  ·  SELECT A PORTRAIT TO LEARN ABOUT THE HERO"
+    },
+    {
+      "key": "text_3800ca37",
+      "pl": "ROZPOCZNIJ PRÓBĘ",
+      "en": "START TRIAL"
+    },
+    {
+      "key": "text_315e1f03",
+      "pl": "ROZPOCZNIJ PRÓBĘ  →",
+      "en": "START TRIAL →"
+    },
+    {
+      "key": "text_eaf21c81",
+      "pl": "ROZPOCZNIJ PRÓBĘ →",
+      "en": "START TRIAL →"
+    },
+    {
+      "key": "text_e8369b61",
+      "pl": "RUNNERZY PORUSZAJĄ SIĘ PO LABIRYNCIE, UNIKAJĄ OSTRZAŁU I UŻYWAJĄ ZDOLNOŚCI.",
+      "en": "RUNNERS NAVIGATE THE LABYRINTH, AVOID SHOTS AND USE ABILITIES."
+    },
+    {
+      "key": "text_f29b51b9",
+      "pl": "RYŚ OSŁANIA BOHATERKĘ I ZOSTAWIA ŚLISKI ŚLAD; W OBRONIE WSPIERA KONTROLĘ RUCHU.",
+      "en": "THE LYNX SHIELDS THE HERO AND LEAVES A SLIPPERY TRAIL; IN DEFENSE, IT HELPS CONTROL MOVEMENT."
+    },
+    {
+      "key": "text_3a9ba5cb",
+      "pl": "RYŚ SZRON",
+      "en": "SZRON THE LYNX"
+    },
+    {
+      "key": "text_0f266c3c",
+      "pl": "RZEMIEŚLNICZKA ODPOWIEDZIALNA ZA NAPRAWĘ NARZĘDZI I ZABEZPIECZEŃ W KOPALNIACH. WOLI ZROZUMIEĆ URZĄDZENIE, ZANIM PODEJMIE RYZYKO.",
+      "en": "A BLACKSMITH RESPONSIBLE FOR REPAIRING TOOLS AND SAFETY EQUIPMENT IN MINES. PREFERS TO UNDERSTAND THE DEVICE BEFORE TAKING A RISK."
+    },
+    {
+      "key": "text_20e6f694",
+      "pl": "RZEMIOSŁO I NAPRAWA — KIERUNEK DO ZAPROJEKTOWANIA",
+      "en": "CRAFTSMANSHIP AND REPAIR — DIRECTION TO BE DESIGNED"
+    },
+    {
+      "key": "text_b00ec365",
+      "pl": "Reprezentuje dzielnice warsztatowe, które walczą o sprawiedliwy dostęp do paliwa.",
+      "en": "Represents workshop districts fighting for fair access to fuel."
+    },
+    {
+      "key": "text_c41bce28",
+      "pl": "Reprezentuje górniczą społeczność zabiegającą o bezpieczny szlak zaopatrzenia.",
+      "en": "Represents the mining community fighting for a safe supply route."
+    },
+    {
+      "key": "text_8582cf9f",
+      "pl": "Reprezentuje mieszkańców utrzymujących łączność na mniej dochodowych odcinkach szlaku.",
+      "en": "Represents residents maintaining connectivity on less prosperous sections of the path."
+    },
+    {
+      "key": "text_09830da9",
+      "pl": "Reprezentuje załogi przełęczy walczące o równy podział czasu korzystania ze szlaku.",
+      "en": "Represents the garrison of the pass fighting for equal time usage of the path."
+    },
+    {
+      "key": "text_35429843",
+      "pl": "Resztkowy impuls",
+      "en": "Residual Impulse"
+    },
+    {
+      "key": "text_5efc2870",
+      "pl": "Rodzina nie została jeszcze opisana.",
+      "en": "Family has not been described yet."
+    },
+    {
+      "key": "text_f2ba9beb",
+      "pl": "Rola × żywioł  ·  wybierz portret, aby poznać bohatera",
+      "en": "Role × element  ·  select a portrait to learn about the hero"
+    },
+    {
+      "key": "text_7d5a8f20",
+      "pl": "Runnerzy poruszają się po labiryncie, unikają ostrzału i używają zdolności.",
+      "en": "Runners navigate the labyrinth, avoid shots and use abilities."
+    },
+    {
+      "key": "text_49cdd93d",
+      "pl": "Ryś osłania bohaterkę i zostawia śliski ślad; w obronie wspiera kontrolę ruchu.",
+      "en": "The lynx shields the hero and leaves a slippery trail; in defense, it helps control movement."
+    },
+    {
+      "key": "text_115329f0",
+      "pl": "Rzemieślniczka odpowiedzialna za naprawę narzędzi i zabezpieczeń w kopalniach. Woli zrozumieć urządzenie, zanim podejmie ryzyko.",
+      "en": "A blacksmith responsible for repairing tools and safety equipment in mines. Prefers to understand the device before taking a risk."
+    },
+    {
+      "key": "text_803059f3",
+      "pl": "Rzemiosło i naprawa — kierunek do zaprojektowania",
+      "en": "Craftsmanship and repair — direction to be designed"
+    },
+    {
+      "key": "text_8c21ad26",
+      "pl": "SABOTAŻ I OSŁONA INFORMACJI",
+      "en": "SABOTAGE AND INFORMATION SHIELDING"
+    },
+    {
+      "key": "text_219ef0d1",
+      "pl": "SERCE LABIRYNTU",
+      "en": "HEART OF THE LABYRINTH"
+    },
+    {
+      "key": "text_3aa5ba5f",
+      "pl": "SIEDEM ŻYWIOŁÓW",
+      "en": "SEVEN ELEMENTS"
+    },
+    {
+      "key": "text_a66386be",
+      "pl": "SIEDEM ŻYWIOŁÓW ROZPOCZYNA SIĘ OD PODSTAWOWYCH RDZENI TECHNOLOGII.",
+      "en": "EACH OF THE SEVEN ELEMENTS BEGINS WITH A BASIC TECHNOLOGY CORE."
+    },
+    {
+      "key": "text_463f748c",
+      "pl": "SIOSTRA ELIRY I LIORY; ICH WYBORY DRUŻYN NIE MUSZĄ BYĆ JEDNAKOWE.",
+      "en": "SISTERS ELIRY AND LIORY; THEIR TEAM CHOICES DO NOT HAVE TO BE THE SAME."
+    },
+    {
+      "key": "text_736b2666",
+      "pl": "SIOSTRA NIVY I ELIRY; PODOBNY WYGLĄD NIE DAJE PREMII W GRZE.",
+      "en": "SISTER OF NIVY AND ELIRY; A SIMILAR APPEARANCE DOES NOT GIVE ANY BONUS IN THE GAME."
+    },
+    {
+      "key": "text_94972a77",
+      "pl": "SIOSTRA NIVY I LIORY; ICH RODZINNE POCHODZENIE NIE WYMUSZA WSPÓLNEGO SKŁADU.",
+      "en": "SISTER OF NIVY AND LIORY; THEIR FAMILY BACKGROUND DOES NOT FORCE A SHARED COMPOSITION."
+    },
+    {
+      "key": "text_7fcd65df",
+      "pl": "SIĘ NAPRAWI (PROPOZYCJA): CZTERY WYNIKI PO 25% — 50 OSŁONY, +50% SZYBKOŚCI ATAKU NA 5 S, +50% PRĘDKOŚCI POCISKÓW NA 5 S ALBO PECHOWE ZATRZYMANIE WIEŻY NA 3 S.",
+      "en": "FIX ITSELF (PROPOSAL): FOUR OUTCOMES AT 25% EACH — 50 SHIELD, +50% ATTACK SPEED FOR 5 S, +50% PROJECTILE SPEED FOR 5 S, OR AN UNLUCKY RESULT THAT STOPS THE TOWER FOR 3 S."
+    },
+    {
+      "key": "text_ec4624cf",
+      "pl": "SOJUSZNIK",
+      "en": "ALLY"
+    },
+    {
+      "key": "text_544e55b7",
+      "pl": "SOJUSZNIK AI\n",
+      "en": "AI ALLY\n"
+    },
+    {
+      "key": "text_5f064fc5",
+      "pl": "SOKÓŁ GROM",
+      "en": "GROM THE FALCON"
+    },
+    {
+      "key": "text_a1b4f954",
+      "pl": "SOKÓŁ PRZECHWYTUJE POCISKI I SZYBKO DOCIERA DO CELU; W OBRONIE POMAGA OZNACZAĆ RUNNERÓW.",
+      "en": "THE FALCON INTERCEPTS PROJECTILES AND QUICKLY REACHES THE TARGET; IN DEFENSE, IT HELPS MARK RUNNERS."
+    },
+    {
+      "key": "text_33ed65ea",
+      "pl": "SPECJALISTA",
+      "en": "SPECIALIST"
+    },
+    {
+      "key": "text_539dcbd9",
+      "pl": "SPECJALISTA WIEŻ: WIEŻY PILOTOWANEJ PRZEZ ADRIENA NIE MOŻNA W ŻADEN SPOSÓB ZATRZYMAĆ.",
+      "en": "TOWER SPECIALIST: ADRIAN'S PILOTED TOWER CANNOT BE STOPPED IN ANY WAY."
+    },
+    {
+      "key": "text_c134eafb",
+      "pl": "SPECJALIZACJA",
+      "en": "SPECIALIZATION"
+    },
+    {
+      "key": "text_2bad291f",
+      "pl": "SPLĄTANIE",
+      "en": "ENTANGLE"
+    },
+    {
+      "key": "text_782d6765",
+      "pl": "SPOWOLNIENIA DZIAŁAJĄCE NA NIĄ SĄ O 15% SŁABSZE.",
+      "en": "SLOWS AFFECTING HER ARE 15% WEAKER."
+    },
+    {
+      "key": "text_10bd709a",
+      "pl": "SPOWOLNIENIA SĄ SŁABSZE, A WYŁĄCZENIA PILOTOWANEJ WIEŻY KRÓTSZE.",
+      "en": "SLOWS ARE WEAKER, AND CONTROLLED TOWER OUTAGES ARE SHORTER."
+    },
+    {
+      "key": "text_7c20bbce",
+      "pl": "SPOWOLNIENIE RUCHU POCHODZĄCE OD LODU.",
+      "en": "MOVEMENT SLOWDOWN FROM ICE."
+    },
+    {
+      "key": "text_5b772633",
+      "pl": "SPOWOLNIENIE ZWIĄZANE Z NATURĄ; SZCZEGÓŁY POZOSTAJĄ OTWARTE.",
+      "en": "SLOWNESS ASSOCIATED WITH NATURE; DETAILS REMAIN OPEN."
+    },
+    {
+      "key": "text_b1e55645",
+      "pl": "STANDARDOWY UKŁAD: 5 WIEŻ. WIDOCZNE OKRĘGI POKAZUJĄ ZASIĘG.",
+      "en": "STANDARD LAYOUT: 5 TOWERS. VISIBLE CIRCLES SHOW RANGE."
+    },
+    {
+      "key": "text_48744ae4",
+      "pl": "STARSZY OPIEKUN PORTOWYCH ARCHIWÓW PRZEZ LATA POMAGAŁ PRZEWOŹNIKOM CHRONIĆ INFORMACJE O NIEBEZPIECZNYCH ODCINKACH DROGI.",
+      "en": "FOR YEARS, THE ELDER KEEPER OF PORT ARCHIVES HAS HELPED TRAVELERS PROTECT INFORMATION ABOUT DANGEROUS STRETCHES OF ROAD."
+    },
+    {
+      "key": "text_9c9f2783",
+      "pl": "STARTUJE W IMIENIU PRZEWOŹNIKÓW, KTÓRZY DOMAGAJĄ SIĘ BEZPIECZNYCH I UCZCIWIE PRZYDZIELANYCH TRAS.",
+      "en": "BEGINS IN THE NAME OF CARRIERS WHO DEMAND SAFE AND FAIRLY DISTRIBUTED ROUTES."
+    },
+    {
+      "key": "text_bc7ac3c9",
+      "pl": "STARTUJE, ABY CHRONIĆ NIEZALEŻNOŚĆ OŚRODKA PRZECHOWUJĄCEGO DOKUMENTACJĘ SZLAKÓW.",
+      "en": "BEGINS TO PROTECT THE INDEPENDENT SETTLEMENT HOUSING TRAVEL DOCUMENTATION."
+    },
+    {
+      "key": "text_4fbfbf4d",
+      "pl": "STARTUJE, BY WESPRZEĆ WYMIANĘ ZAOPATRZENIA MIĘDZY DOLINĄ A PÓŁNOCĄ.",
+      "en": "BEGINS TO SUPPORT THE SUPPLY EXCHANGE BETWEEN THE VALLEY AND THE NORTH."
+    },
+    {
+      "key": "text_6dcc4402",
+      "pl": "STATUSY",
+      "en": "STATUSES"
+    },
+    {
+      "key": "text_003ee6d3",
+      "pl": "STATUSY I EFEKTY",
+      "en": "STATUSES AND EFFECTS"
+    },
+    {
+      "key": "text_22314d32",
+      "pl": "STATYSTYKI I UMIEJĘTNOŚCI TEJ POSTACI POZOSTAJĄ W PRZYGOTOWANIU.",
+      "en": "THIS CHARACTER'S STATS AND SKILLS ARE IN PREPARATION."
+    },
+    {
+      "key": "text_be5b2eed",
+      "pl": "STEROWANIE I CEL",
+      "en": "CONTROL AND TARGET"
+    },
+    {
+      "key": "text_0b2e864b",
+      "pl": "STRAŻNICZKA KORZENI I REGENERACJI",
+      "en": "ROOT GUARDIAN AND REGENERATION SPECIALIST"
+    },
+    {
+      "key": "text_8c13519d",
+      "pl": "STRAŻNICZKA KORZENI, KTÓRA PRZYJMUJE OSTRZAŁ I PODTRZYMUJE POBLISKICH SOJUSZNIKÓW.",
+      "en": "A ROOT GUARDIAN WHO ACCEPTS ARROWS AND SUPPORTS NEARBY ALLIES."
+    },
+    {
+      "key": "text_418f004b",
+      "pl": "STRAŻNICZKA ŻARU I OSŁON",
+      "en": "FLAME GUARDIAN AND SHIELD MAIDEN"
+    },
+    {
+      "key": "text_9587d329",
+      "pl": "SZCZEGÓŁOWE ZASADY REAKCJI POZOSTAJĄ DO USTALENIA; NIE NALEŻĄ DO PIERWSZEGO PRE-POC.",
+      "en": "DETAILED REACTION RULES TO BE DETERMINED; NOT PART OF THE INITIAL PRE-POC."
+    },
+    {
+      "key": "text_3d9b1545",
+      "pl": "SZCZEGÓŁY W PRZYGOTOWANIU.",
+      "en": "DETAILS IN PREPARATION."
+    },
+    {
+      "key": "text_1e24616a",
+      "pl": "SZKOLIŁ SIĘ JAKO OBSERWATOR SZLAKÓW; JAKO WYNALAZCA TWORZY PRYZMATYCZNE PRZYRZĄDY POMAGAJĄCE DOSTRZEGAĆ ZAGROŻENIA I OZNACZAĆ BEZPIECZNE PRZEJŚCIA.",
+      "en": "TRAINED AS A PATH OBSERVER; AS AN INVENTOR, CREATES PRISMATIC DEVICES THAT HELP DETECT THREATS AND MARK SAFE PASSAGES."
+    },
+    {
+      "key": "text_1f71c8e8",
+      "pl": "SZYBKI OSTRZAŁ I ŁAŃCUCH TRAFIEŃ. ROZWÓJ: TEMPEST LUB LANCER.",
+      "en": "QUICK SHOT AND CHAIN HITS. DEVELOPMENT: TEMPEST OR LANCER."
+    },
+    {
+      "key": "text_3b3b0757",
+      "pl": "SZYBKI ZWIAD I ELEKTROIMPULS",
+      "en": "FAST SCOUTING AND ELECTROIMPULSE"
+    },
+    {
+      "key": "text_fac52d82",
+      "pl": "SZYBKOŚĆ I ENERGIA.",
+      "en": "SPEED AND ENERGY."
+    },
+    {
+      "key": "text_0835d004",
+      "pl": "Sabotaż i osłona informacji",
+      "en": "Sabotage and information shielding"
+    },
+    {
+      "key": "text_d17da02d",
+      "pl": "Siedem żywiołów rozpoczyna się od podstawowych rdzeni technologii.",
+      "en": "Each of the seven elements begins with a basic technology core."
+    },
+    {
+      "key": "text_d25c95d1",
+      "pl": "Siostra Eliry i Liory; ich wybory drużyn nie muszą być jednakowe.",
+      "en": "Sisters Eliry and Liory; their team choices do not have to be the same."
+    },
+    {
+      "key": "text_09a8bb87",
+      "pl": "Siostra Nivy i Eliry; podobny wygląd nie daje premii w grze.",
+      "en": "Sister of Nivy and Eliry; a similar appearance does not give any bonus in the game."
+    },
+    {
+      "key": "text_d309662a",
+      "pl": "Siostra Nivy i Liory; ich rodzinne pochodzenie nie wymusza wspólnego składu.",
+      "en": "Sister of Nivy and Liory; their family background does not force a shared composition."
+    },
+    {
+      "key": "text_566374a5",
+      "pl": "Się Naprawi (propozycja): cztery wyniki po 25% — 50 osłony, +50% szybkości ataku na 5 s, +50% prędkości pocisków na 5 s albo pechowe zatrzymanie wieży na 3 s.",
+      "en": "Fix Itself (proposal): four outcomes at 25% each — 50 shield, +50% attack speed for 5 s, +50% projectile speed for 5 s, or an unlucky result that stops the tower for 3 s."
+    },
+    {
+      "key": "text_b913494f",
+      "pl": "Sojusznik",
+      "en": "Ally"
+    },
+    {
+      "key": "text_9653476a",
+      "pl": "Sokół przechwytuje pociski i szybko dociera do celu; w obronie pomaga oznaczać Runnerów.",
+      "en": "The Falcon intercepts projectiles and quickly reaches the target; in defense, it helps mark Runners."
+    },
+    {
+      "key": "text_d6774d2a",
+      "pl": "Specjalista",
+      "en": "Specialist"
+    },
+    {
+      "key": "text_f0c4c888",
+      "pl": "Specjalista wież: wieży pilotowanej przez Adriena nie można w żaden sposób zatrzymać.",
+      "en": "Tower Specialist: Adrian's piloted tower cannot be stopped in any way."
+    },
+    {
+      "key": "text_dbc9f7ca",
+      "pl": "Spowolnienia działające na nią są o 15% słabsze.",
+      "en": "Slows affecting her are 15% weaker."
+    },
+    {
+      "key": "text_76c5ca65",
+      "pl": "Spowolnienia są słabsze, a wyłączenia pilotowanej wieży krótsze.",
+      "en": "Slows are weaker, and controlled tower outages are shorter."
+    },
+    {
+      "key": "text_b3e37a23",
+      "pl": "Spowolnienie ruchu pochodzące od Lodu.",
+      "en": "Movement slowdown from Ice."
+    },
+    {
+      "key": "text_cd7c91ed",
+      "pl": "Spowolnienie związane z Naturą; szczegóły pozostają otwarte.",
+      "en": "Slowness associated with Nature; details remain open."
+    },
+    {
+      "key": "text_7938bcf4",
+      "pl": "Standardowy układ: 5 wież. Widoczne okręgi pokazują zasięg.",
+      "en": "Standard layout: 5 towers. Visible circles show range."
+    },
+    {
+      "key": "text_505af719",
+      "pl": "Starszy opiekun portowych archiwów przez lata pomagał przewoźnikom chronić informacje o niebezpiecznych odcinkach drogi.",
+      "en": "For years, the elder keeper of port archives has helped travelers protect information about dangerous stretches of road."
+    },
+    {
+      "key": "text_a5538c26",
+      "pl": "Startuje w imieniu przewoźników, którzy domagają się bezpiecznych i uczciwie przydzielanych tras.",
+      "en": "Begins in the name of carriers who demand safe and fairly distributed routes."
+    },
+    {
+      "key": "text_ed038a8c",
+      "pl": "Startuje, aby chronić niezależność ośrodka przechowującego dokumentację szlaków.",
+      "en": "Begins to protect the independent settlement housing travel documentation."
+    },
+    {
+      "key": "text_54038421",
+      "pl": "Startuje, by wesprzeć wymianę zaopatrzenia między doliną a północą.",
+      "en": "Begins to support the supply exchange between the valley and the north."
+    },
+    {
+      "key": "text_7c9d48e1",
+      "pl": "Statystyki i umiejętności tej postaci pozostają w przygotowaniu.",
+      "en": "This character's stats and skills are in preparation."
+    },
+    {
+      "key": "text_f5eb8eae",
+      "pl": "Strażniczka korzeni i regeneracji",
+      "en": "Root guardian and regeneration specialist"
+    },
+    {
+      "key": "text_033ad857",
+      "pl": "Strażniczka korzeni, która przyjmuje ostrzał i podtrzymuje pobliskich sojuszników.",
+      "en": "A root guardian who accepts arrows and supports nearby allies."
+    },
+    {
+      "key": "text_04380a98",
+      "pl": "Strażniczka żaru i osłon",
+      "en": "Flame Guardian and Shield Maiden"
+    },
+    {
+      "key": "text_3fb5c66f",
+      "pl": "Szczegółowe zasady reakcji pozostają do ustalenia; nie należą do pierwszego pre-PoC.",
+      "en": "Detailed reaction rules to be determined; not part of the initial pre-POC."
+    },
+    {
+      "key": "text_3252f1b0",
+      "pl": "Szczegóły w przygotowaniu.",
+      "en": "Details in preparation."
+    },
+    {
+      "key": "text_efe4b2ce",
+      "pl": "Szkolił się jako obserwator szlaków; jako wynalazca tworzy pryzmatyczne przyrządy pomagające dostrzegać zagrożenia i oznaczać bezpieczne przejścia.",
+      "en": "Trained as a path observer; as an inventor, creates prismatic devices that help detect threats and mark safe passages."
+    },
+    {
+      "key": "text_de11b4c8",
+      "pl": "Szybki ostrzał i łańcuch trafień. Rozwój: Tempest lub Lancer.",
+      "en": "Quick shot and chain hits. Development: Tempest or Lancer."
+    },
+    {
+      "key": "text_73506b17",
+      "pl": "Szybki zwiad i elektroimpuls",
+      "en": "Fast scouting and electroimpulse"
+    },
+    {
+      "key": "text_e8d3d162",
+      "pl": "Szybkość i energia.",
+      "en": "Speed and energy."
+    },
+    {
+      "key": "text_a4d659f0",
+      "pl": "TARCZA I OCHRONA WIEŻ",
+      "en": "SHIELD AND TOWER DEFENSE"
+    },
+    {
+      "key": "text_fdd20f0f",
+      "pl": "TKACZ ŚWIATŁA, WYNALAZCA I ZWIADOWCA — KIERUNEK DO ZAPROJEKTOWANIA",
+      "en": "LIGHTWEAVER, INVENTOR, AND SCOUT — DIRECTION FOR DESIGN"
+    },
+    {
+      "key": "text_ab35cfd4",
+      "pl": "TKACZKA ODNOWY, KTÓRA LECZY DRUŻYNĘ I WZMACNIA OBRONĘ.",
+      "en": "A WEAVER OF RENEWAL WHO HEALS THE TEAM AND STRENGTHENS DEFENSES."
+    },
+    {
+      "key": "text_6d0c8747",
+      "pl": "TO WERSJA TESTOWA: ZWRÓĆ UWAGĘ, CZY WIDZISZ OSTRZAŁ, ROZUMIESZ PRZYCZYNĘ OBRAŻEŃ I MASZ CZAS ZAREAGOWAĆ.",
+      "en": "THIS IS A TEST BUILD: CHECK WHETHER YOU CAN SEE INCOMING FIRE, UNDERSTAND DAMAGE SOURCES AND REACT IN TIME."
+    },
+    {
+      "key": "text_15ae43aa",
+      "pl": "TOWARZYSZ",
+      "en": "PARTNER"
+    },
+    {
+      "key": "text_566baedb",
+      "pl": "TOWARZYSZ · ",
+      "en": "COMPANION · "
+    },
+    {
+      "key": "text_10a28eaa",
+      "pl": "TRASA",
+      "en": "ROUTE"
+    },
+    {
+      "key": "text_203ccb0a",
+      "pl": "TRENING BOHATERA",
+      "en": "HERO TRAINING"
+    },
+    {
+      "key": "text_84b7b996",
+      "pl": "TRENING PRZYGOTOWUJE BOHATERA DO PRZYSZŁYCH ZMAGAŃ; MASTERY POZOSTAJE POMYSŁEM DO DALSZEGO ZAPROJEKTOWANIA.",
+      "en": "TRAINING PREPARES THE HERO FOR FUTURE BATTLES; MASTERY REMAINS AN IDEA FOR FURTHER DEVELOPMENT."
+    },
+    {
+      "key": "text_c0fa98e1",
+      "pl": "TROSKA",
+      "en": "CARE"
+    },
+    {
+      "key": "text_a85bfb15",
+      "pl": "TRUCIZNA",
+      "en": "POISON"
+    },
+    {
+      "key": "text_d4bb9d1d",
+      "pl": "TRUCIZNA I KONTROLA RUCHU. ROZWÓJ: VINES LUB THORNS.",
+      "en": "POISON AND MOVEMENT CONTROL. DEVELOPMENT: VINES OR THORNS."
+    },
+    {
+      "key": "text_133d7b4f",
+      "pl": "TRUCIZNA {0:F1}S",
+      "en": "POISON {0:F1}S"
+    },
+    {
+      "key": "text_81e85427",
+      "pl": "TRUCIZNA {0:F1}S  ",
+      "en": "POISON {0:F1}S  "
+    },
+    {
+      "key": "text_333dadaf",
+      "pl": "TRUCIZNA {0:F1}s",
+      "en": "POISON {0:F1}s"
+    },
+    {
+      "key": "text_1e208807",
+      "pl": "TRUCIZNA {0:F1}s  ",
+      "en": "POISON {0:F1}s  "
+    },
+    {
+      "key": "text_b8be5009",
+      "pl": "TWOJA DRUŻYNA",
+      "en": "YOUR TEAM"
+    },
+    {
+      "key": "text_f74b2141",
+      "pl": "TWORZY NA TRASIE OBSZAR SPOWALNIAJĄCY PRZECIWNIKÓW.",
+      "en": "CREATES A SLOWING ZONE ALONG THE PATH FOR ENEMIES."
+    },
+    {
+      "key": "text_e4895805",
+      "pl": "TWORZY OSŁONĘ 100 DLA SIEBIE I 50 DLA POBLISKICH RUNNERÓW NA 5 S.",
+      "en": "CREATES A SHIELD OF 100 FOR HERSELF AND 50 FOR NEARBY RUNNERS FOR 5 S."
+    },
+    {
+      "key": "text_f5fca3ba",
+      "pl": "TWORZY POLE LECZĄCE SOJUSZNIKÓW I MOBY PRZEZ 5 S.",
+      "en": "CREATES A FIELD THAT HEALS ALLIES AND MOBS FOR 5 S."
+    },
+    {
+      "key": "text_2ff579ee",
+      "pl": "TY",
+      "en": "YOU"
+    },
+    {
+      "key": "text_636ee1ec",
+      "pl": "TY\n",
+      "en": "YOU\n"
+    },
+    {
+      "key": "text_d56129f1",
+      "pl": "TY\nWYBIERA TERAZ",
+      "en": "YOU\nCHOOSING NOW"
+    },
+    {
+      "key": "text_de6ea7f5",
+      "pl": "Tarcza i ochrona wież",
+      "en": "Shield and tower defense"
+    },
+    {
+      "key": "text_9e2a666e",
+      "pl": "Tkacz Światła, wynalazca i zwiadowca — kierunek do zaprojektowania",
+      "en": "Lightweaver, inventor, and scout — direction for design"
+    },
+    {
+      "key": "text_1a3244c7",
+      "pl": "Tkaczka odnowy, która leczy drużynę i wzmacnia obronę.",
+      "en": "A weaver of renewal who heals the team and strengthens defenses."
+    },
+    {
+      "key": "text_3fc7f08c",
+      "pl": "To wersja testowa: zwróć uwagę, czy widzisz ostrzał, rozumiesz przyczynę obrażeń i masz czas zareagować.",
+      "en": "This is a test build: check whether you can see incoming fire, understand damage sources and react in time."
+    },
+    {
+      "key": "text_14dcee5b",
+      "pl": "Trening przygotowuje bohatera do przyszłych zmagań; mastery pozostaje pomysłem do dalszego zaprojektowania.",
+      "en": "Training prepares the hero for future battles; mastery remains an idea for further development."
+    },
+    {
+      "key": "text_db728941",
+      "pl": "Troska",
+      "en": "Care"
+    },
+    {
+      "key": "text_d62cc4dd",
+      "pl": "Trucizna i kontrola ruchu. Rozwój: Vines lub Thorns.",
+      "en": "Poison and movement control. Development: Vines or Thorns."
+    },
+    {
+      "key": "text_32524224",
+      "pl": "Tworzy na trasie obszar spowalniający przeciwników.",
+      "en": "Creates a slowing zone along the path for enemies."
+    },
+    {
+      "key": "text_31d5a7b3",
+      "pl": "Tworzy osłonę 100 dla siebie i 50 dla pobliskich Runnerów na 5 s.",
+      "en": "Creates a shield of 100 for herself and 50 for nearby Runners for 5 s."
+    },
+    {
+      "key": "text_1e136aef",
+      "pl": "Tworzy pole leczące sojuszników i moby przez 5 s.",
+      "en": "Creates a field that heals allies and mobs for 5 s."
+    },
+    {
+      "key": "text_43b425d8",
+      "pl": "UCIECZKA: ANA WOŁA BOBA I KARMI GO BAMBUSEM, BY ODNOWIĆ CZĘŚĆ JEGO HP (PROPOZYCJA). OBRONA: CO 30 S BOB ZESKAKUJE Z MURÓW, ATAKUJE NAJBLIŻSZEGO RUNNERA ZA 10 BAZOWYCH OBRAŻEŃ NATURY I WRACA DO ANY. PODCZAS ATAKU JEST NIEZNISZCZALNY I NIEPOWSTRZYMANY; RUNNERZY MOGĄ SIĘ CHRONIĆ.",
+      "en": "ESCAPE: ANA CALLS OUT TO BOB AND FEEDS HIM BAMBOO TO RESTORE PART OF HIS HP (PROPOSAL). DEFENSE: EVERY 30 SECONDS, BOB JUMPS FROM THE WALLS, ATTACKS THE NEAREST RUNNER FOR 10 BASE NATURE DAMAGE, AND RETURNS TO ANA. DURING THE ATTACK, HE IS INDESTRUCTIBLE AND UNSTOPPABLE; RUNNERS CAN PROTECT THEMSELVES."
+    },
+    {
+      "key": "text_290b372c",
+      "pl": "UCIECZKA: PATKA SZYBKO LATA W KÓŁKO, SKUPIAJĄC NA SOBIE OGIEŃ WIEŻY; PODCZAS MANEWRU MA 75% SZANSY NA UNIKNIĘCIE OBRAŻEŃ, PO CZYM WRACA DO KONEVY. SZCZEGÓŁY I UMIEJĘTNOŚĆ OBRONNA WYMAGAJĄ USTALENIA.",
+      "en": "ESCAPE: PATKA QUICKLY FLIES IN A CIRCLE, FOCUSING THE TOWER'S FIRE ON HERSELF; DURING THE MANEUVER, SHE HAS A 75% CHANCE TO AVOID DAMAGE AND THEN RETURNS TO KONEVY. DETAILS AND DEFENSIVE ABILITY NEED TO BE DETERMINED."
+    },
+    {
+      "key": "text_7891d1d2",
+      "pl": "UKŁAD WROGICH WIEŻ JEST ODKRYWANY W CZASIE ATAKU; ZAPAMIĘTANY STAN MOŻE SIĘ ZESTARZEĆ.",
+      "en": "THE ENEMY TOWER LAYOUT IS REVEALED DURING AN ATTACK; THE REMEMBERED STATE MAY BECOME OUTDATED."
+    },
+    {
+      "key": "text_ef31839d",
+      "pl": "UMIEJĘTNOŚĆ PASYWNA  /  ",
+      "en": "PASSIVE  /  "
+    },
+    {
+      "key": "text_0f59ce8f",
+      "pl": "USUWA CZASOWE WYŁĄCZENIE JEDNEJ ŻYWEJ WIEŻY.",
+      "en": "REMOVES THE TEMPORARY DISABLE OF ONE LIVE TOWER."
+    },
+    {
+      "key": "text_fb8178e4",
+      "pl": "USUWA SPOWOLNIENIE SOJUSZNIKA I CHRONI PRZED NIM PRZEZ 2 S.",
+      "en": "REMOVES AN ALLY'S SLOW EFFECT AND PROTECTS THEM FROM IT FOR 2 SECONDS."
+    },
+    {
+      "key": "text_1651c2d0",
+      "pl": "UTRUDNIA ODKRYWANIE NIEZNANYCH WIEŻ W WYBRANYM OBSZARZE.",
+      "en": "MAKES IT MORE DIFFICULT TO DISCOVER UNKNOWN TOWERS IN THE CHOSEN AREA."
+    },
+    {
+      "key": "text_6dddf8b4",
+      "pl": "UTRUDNIA WSKAZANIE WYBRANEJ WIEŻY Z WIĘKSZEJ ODLEGŁOŚCI.",
+      "en": "MAKES IT HARDER TO TARGET THE SELECTED TOWER FROM A GREATER DISTANCE."
+    },
+    {
+      "key": "text_e1d21755",
+      "pl": "Ucieczka: Ana woła Boba i karmi go bambusem, by odnowić część jego HP (propozycja). Obrona: co 30 s Bob zeskakuje z murów, atakuje najbliższego Runnera za 10 bazowych obrażeń Natury i wraca do Any. Podczas ataku jest niezniszczalny i niepowstrzymany; Runnerzy mogą się chronić.",
+      "en": "Escape: Ana calls out to Bob and feeds him bamboo to restore part of his HP (proposal). Defense: Every 30 seconds, Bob jumps from the walls, attacks the nearest Runner for 10 base Nature damage, and returns to Ana. During the attack, he is indestructible and unstoppable; Runners can protect themselves."
+    },
+    {
+      "key": "text_72365f62",
+      "pl": "Ucieczka: Patka szybko lata w kółko, skupiając na sobie ogień wieży; podczas manewru ma 75% szansy na uniknięcie obrażeń, po czym wraca do Konevy. Szczegóły i umiejętność obronna wymagają ustalenia.",
+      "en": "Escape: Patka quickly flies in a circle, focusing the tower's fire on herself; during the maneuver, she has a 75% chance to avoid damage and then returns to Konevy. Details and defensive ability need to be determined."
+    },
+    {
+      "key": "text_1c44ecae",
+      "pl": "Układ wrogich wież jest odkrywany w czasie ataku; zapamiętany stan może się zestarzeć.",
+      "en": "The enemy tower layout is revealed during an attack; the remembered state may become outdated."
+    },
+    {
+      "key": "text_6ac27695",
+      "pl": "Usuwa czasowe wyłączenie jednej żywej wieży.",
+      "en": "Removes the temporary disable of one live tower."
+    },
+    {
+      "key": "text_82d2d144",
+      "pl": "Usuwa spowolnienie sojusznika i chroni przed nim przez 2 s.",
+      "en": "Removes an ally's slow effect and protects them from it for 2 seconds."
+    },
+    {
+      "key": "text_272d99b7",
+      "pl": "Utrudnia odkrywanie nieznanych wież w wybranym obszarze.",
+      "en": "Makes it more difficult to discover unknown towers in the chosen area."
+    },
+    {
+      "key": "text_4cefdde2",
+      "pl": "Utrudnia wskazanie wybranej wieży z większej odległości.",
+      "en": "Makes it harder to target the selected tower from a greater distance."
+    },
+    {
+      "key": "text_00cb8944",
+      "pl": "W OBECNYM PROTOTYPIE WIDZISZ SPIRALĘ, AUTOMATYCZNE WIEŻE I TESTOWĄ MGŁĘ.",
+      "en": "IN THE CURRENT PROTOTYPE, YOU SEE A SPIRAL, AUTOMATIC TOWERS, AND TEST FOG."
+    },
+    {
+      "key": "text_89902ece",
+      "pl": "W PRZYGOTOWANIU",
+      "en": "COMING SOON"
+    },
+    {
+      "key": "text_0dbac01e",
+      "pl": "W PRZYSZŁOŚCI DWIE DRUŻYNY ZBUDUJĄ OBRONĘ I ZMIERZĄ SIĘ Z LABIRYNTEM PRZECIWNIKA.",
+      "en": "IN THE FUTURE, TWO TEAMS WILL BUILD DEFENSES AND FACE EACH OTHER IN THE OPPONENT'S LABYRINTH."
+    },
+    {
+      "key": "text_f6ef7eca",
+      "pl": "W PRÓBACH BRONI PROJEKTU BEZPIECZNIEJSZEJ DROGI DO WYROBISK.",
+      "en": "IN THE TRIALS OF DEFENSE, SHE AIMS TO PROJECT A SAFER PATH TO RESOURCES."
+    },
+    {
+      "key": "text_33f7ae53",
+      "pl": "W PRÓBACH WALCZY O ZAOPATRZENIE DLA DOLINY I ŚRODKI NA ODBUDOWĘ.",
+      "en": "FIGHTS IN TRIALS TO SECURE PROVISIONS FOR THE VALLEY AND FUNDS FOR RECONSTRUCTION."
+    },
+    {
+      "key": "text_da8ce50a",
+      "pl": "W Próbach broni projektu bezpieczniejszej drogi do wyrobisk.",
+      "en": "In the Trials of Defense, she aims to project a safer path to resources."
+    },
+    {
+      "key": "text_bd2d76bb",
+      "pl": "W Próbach walczy o zaopatrzenie dla doliny i środki na odbudowę.",
+      "en": "Fights in Trials to secure provisions for the valley and funds for reconstruction."
+    },
+    {
+      "key": "text_b23f1e1b",
+      "pl": "W obecnym prototypie widzisz spiralę, automatyczne wieże i testową mgłę.",
+      "en": "In the current prototype, you see a spiral, automatic towers, and test fog."
+    },
+    {
+      "key": "text_c3ebac75",
+      "pl": "W przyszłości dwie drużyny zbudują obronę i zmierzą się z labiryntem przeciwnika.",
+      "en": "In the future, two teams will build defenses and face each other in the opponent's labyrinth."
+    },
+    {
+      "key": "text_61b3342f",
+      "pl": "WARSTWY MGŁY",
+      "en": "FOG LAYERS"
+    },
+    {
+      "key": "text_ed375f58",
+      "pl": "WASD — RUCH  ·  MYSZ — KAMERA\nSPACJA — UNIK; PODCZAS PRZEWROTU POCISKI NIE RANIĄ. ODNOWIENIE 10 S.\nQ — UMIEJĘTNOŚĆ BOHATERA.\nESC — ZWOLNIJ LUB PRZECHWYĆ KURSOR.",
+      "en": "WASD — MOVE  ·  MOUSE — CAMERA\nSPACE — DODGE; PROJECTILES CANNOT HURT YOU DURING THE ROLL. 10 S COOLDOWN.\nQ — HERO ABILITY.\nESC — RELEASE OR CAPTURE THE CURSOR."
+    },
+    {
+      "key": "text_548d9137",
+      "pl": "WASD — ruch  ·  mysz — kamera\nSPACJA — unik; podczas przewrotu pociski nie ranią. Odnowienie 10 s.\nQ — umiejętność bohatera.\nESC — zwolnij lub przechwyć kursor.",
+      "en": "WASD — move  ·  mouse — camera\nSPACE — dodge; projectiles cannot hurt you during the roll. 10 s cooldown.\nQ — hero ability.\nESC — release or capture the cursor."
+    },
+    {
+      "key": "text_770652c7",
+      "pl": "WEJDŹ DO LABIRYNTU, POZNAJ BOHATERÓW I SPRAWDŹ SWOJE UMIEJĘTNOŚCI POD OSTRZAŁEM WIEŻ.",
+      "en": "ENTER THE LABYRINTH, MEET THE HEROES AND TEST YOUR SKILLS UNDER TOWER FIRE."
+    },
+    {
+      "key": "text_4135873f",
+      "pl": "WIDOCZNOŚĆ",
+      "en": "VISION"
+    },
+    {
+      "key": "text_327ebd8d",
+      "pl": "WIELOLETNI OPIEKUN LATARNI I KONWOJÓW, ZNANY Z TEGO, ŻE NIE ZOSTAWIA TOWARZYSZY NA NIEBEZPIECZNEJ DRODZE.",
+      "en": "LONG-TIME KEEPER OF THE LIGHTHOUSE AND CONVOY LEADER, KNOWN FOR NEVER LEAVING COMPANIONS ON DANGEROUS PATHS."
+    },
+    {
+      "key": "text_a23bd2fd",
+      "pl": "WIEŻA ",
+      "en": "TOWER "
+    },
+    {
+      "key": "text_253bd05d",
+      "pl": "WIEŻA: ",
+      "en": "TOWER: "
+    },
+    {
+      "key": "text_86dc7387",
+      "pl": "WIEŻA: BŁYSKAWICE",
+      "en": "TOWER: LIGHTNING"
+    },
+    {
+      "key": "text_f1ca59d7",
+      "pl": "WIEŻA: LÓD",
+      "en": "TOWER: ICE"
+    },
+    {
+      "key": "text_c430bf26",
+      "pl": "WIEŻA: NATURA",
+      "en": "TOWER: NATURE"
+    },
+    {
+      "key": "text_475ab93d",
+      "pl": "WIEŻA: OGIEŃ",
+      "en": "TOWER: FIRE"
+    },
+    {
+      "key": "text_0d6fecc3",
+      "pl": "WIEŻE",
+      "en": "TOWERS"
+    },
+    {
+      "key": "text_5d7d1a4b",
+      "pl": "WIEŻE DZIAŁAJĄ AUTOMATYCZNIE; W DOCELOWEJ GRZE DEFENDERZY MOGĄ JE TAKŻE PILOTOWAĆ.",
+      "en": "TOWERS OPERATE AUTOMATICALLY; IN THE FINAL GAME, DEFENDERS CAN ALSO PILOT THEM."
+    },
+    {
+      "key": "text_018dd110",
+      "pl": "WIEŻE STOJĄ NA WYZNACZONYCH POLACH MURÓW; RUNNERZY PRZEMIERZAJĄ DROGĘ.",
+      "en": "TOWERS STAND ON DESIGNATED WALL FIELDS; RUNNERS TRAVERSE THE PATH."
+    },
+    {
+      "key": "text_16690e3a",
+      "pl": "WIEŻE ŻYWIOŁÓW",
+      "en": "ELEMENTAL TOWERS"
+    },
+    {
+      "key": "text_e692178f",
+      "pl": "WKRÓTCE",
+      "en": "COMING SOON"
+    },
+    {
+      "key": "text_dc670a01",
+      "pl": "WSPARCIE",
+      "en": "SUPPORT"
+    },
+    {
+      "key": "text_9f8ab3d9",
+      "pl": "WSPARCIE ŻARU — KIERUNEK DO ZAPROJEKTOWANIA",
+      "en": "FIRE SUPPORT — DIRECTION TO BE DESIGNED"
+    },
+    {
+      "key": "text_44dc5155",
+      "pl": "WSPIERA DRUŻYNĘ ZABIEGAJĄCĄ O BEZPIECZNE PRZEJŚCIE DLA KONWOJÓW.",
+      "en": "SUPPORTS THE TEAM FIGHTING FOR SAFE PASSAGE FOR CONVOYS."
+    },
+    {
+      "key": "text_e2bb41dd",
+      "pl": "WSPÓLNE INWESTYCJE",
+      "en": "COLLABORATIVE INVESTMENTS"
+    },
+    {
+      "key": "text_228a40da",
+      "pl": "WYBIERA TERAZ",
+      "en": "CHOOSING NOW"
+    },
+    {
+      "key": "text_50438e22",
+      "pl": "WYBIERZ AUTOMATYCZNIE",
+      "en": "SELECT AUTOMATICALLY"
+    },
+    {
+      "key": "text_44fb64e3",
+      "pl": "WYBIERZ BOHATERA",
+      "en": "CHOOSE YOUR HERO"
+    },
+    {
+      "key": "text_f275496b",
+      "pl": "WYBIERZ BOHATERA, PRZYGOTUJ AUTOMATYCZNE WIEŻE I PRZEJDŹ SPIRALNY LABIRYNT SAM LUB Z SOJUSZNIKIEM AI.",
+      "en": "SELECT A HERO, PREPARE AUTOMATIC TOWERS, AND NAVIGATE THE SPIRAL LABYRINTH ALONE OR WITH AI ALLIES."
+    },
+    {
+      "key": "text_2796e246",
+      "pl": "WYBIERZ PORTRET, ABY ZOBACZYĆ INFORMACJE O BOHATERZE.",
+      "en": "SELECT A PORTRAIT TO SEE INFORMATION ABOUT THE HERO."
+    },
+    {
+      "key": "text_b263e8d7",
+      "pl": "WYBIERZ PORTRET, SPRAWDŹ BOHATERA I POTWIERDŹ WYBÓR.",
+      "en": "SELECT A PORTRAIT, CHECK THE HERO, AND CONFIRM YOUR CHOICE."
+    },
+    {
+      "key": "text_b08b5068",
+      "pl": "WYBIERZ SWOJĄ PRÓBĘ",
+      "en": "CHOOSE YOUR TRIAL"
+    },
+    {
+      "key": "text_5d2acbde",
+      "pl": "WYBRANA WIEŻA OTRZYMUJE O 30% MNIEJ OBRAŻEŃ PRZEZ 5 S.",
+      "en": "SELECTED TOWER TAKES 30% LESS DAMAGE FOR 5 SECONDS."
+    },
+    {
+      "key": "text_9809c0a9",
+      "pl": "WYBRANA WIEŻA OTRZYMUJE TYMCZASOWĄ OSŁONĘ 80 NA 5 S.",
+      "en": "THE SELECTED TOWER RECEIVES TEMPORARY SHIELD OF 80 FOR 5 S."
+    },
+    {
+      "key": "text_a3c19136",
+      "pl": "WYBRANY PRZEZ GRACZA",
+      "en": "CHOSEN BY THE PLAYER"
+    },
+    {
+      "key": "text_d40b965e",
+      "pl": "WYCHŁODZENIE",
+      "en": "CHILL"
+    },
+    {
+      "key": "text_3ad4d3cd",
+      "pl": "WYKRYTE CELE POZOSTAJĄ WIDOCZNE DLA DRUŻYNY O SEKUNDĘ DŁUŻEJ.",
+      "en": "DETECTED TARGETS REMAIN VISIBLE TO THE TEAM FOR ONE SECOND LONGER."
+    },
+    {
+      "key": "text_b9d4b813",
+      "pl": "WYKRYWA RUNNERÓW I MOBY W WYBRANYM SEKTORZE.",
+      "en": "DETECTS RUNNERS AND MOBS IN THE SELECTED SECTOR."
+    },
+    {
+      "key": "text_bd915f7b",
+      "pl": "WYKRYWANIE I PRECYZYJNY OSTRZAŁ. ROZWÓJ: BEACON LUB RAY.",
+      "en": "DETECTION AND PRECISE SHOOTING. DEVELOPMENT: BEACON OR RAY."
+    },
+    {
+      "key": "text_7caa9af1",
+      "pl": "WYNIK",
+      "en": "RESULT"
+    },
+    {
+      "key": "text_bd749949",
+      "pl": "WYSTAWIA TARCZĘ NA 4 S. SOJUSZNICY MOGĄ UKRYĆ SIĘ ZA NIĄ.",
+      "en": "RAISES A SHIELD FOR 4 SECONDS. ALLIES CAN HIDE BEHIND IT."
+    },
+    {
+      "key": "text_1babcfa7",
+      "pl": "WYSTĘPUJE DLA WSPÓLNOTY PRZEŁĘCZY, ABY UTRZYMAĆ DOSTĘP DO ZAOPATRZENIA.",
+      "en": "APPEARS FOR THE PASS COMMUNITY TO MAINTAIN ACCESS TO SUPPLIES."
+    },
+    {
+      "key": "text_a820506a",
+      "pl": "WYSTĘPUJE NA RZECZ EKIP, KTÓRE CHCĄ PRZEZNACZYĆ CZĘŚĆ ZASOBÓW NA BEZPIECZEŃSTWO PRACY.",
+      "en": "APPEARS ON BEHALF OF TEAMS THAT WANT TO ALLOCATE PART OF THEIR RESOURCES TO WORKPLACE SAFETY."
+    },
+    {
+      "key": "text_6cddc8f1",
+      "pl": "WYSTĘPUJE, ABY POPRAWIĆ DOSTĘP MNIEJSZYCH OSAD DO DANYCH Z OBSERWATORIÓW.",
+      "en": "APPEARS TO IMPROVE ACCESS FOR SMALLER SETTLEMENTS TO DATA FROM OBSERVATORIES."
+    },
+    {
+      "key": "text_02554ad9",
+      "pl": "WYTRZYMAŁA WOJOWNICZKA, KTÓRA CHRONI SOJUSZNIKÓW OSŁONAMI Z ŻARU.",
+      "en": "A RESILIENT WARRIOR WHO PROTECTS ALLIES WITH SHIELDS OF FIRE."
+    },
+    {
+      "key": "text_5843d08b",
+      "pl": "WYTRZYMAŁOŚĆ I CIĘŻKIE TRAFIENIA.",
+      "en": "ENDURANCE AND HEAVY HITS."
+    },
+    {
+      "key": "text_65fccc94",
+      "pl": "WYŁĄCZA JEDNĄ ODKRYTĄ WIEŻĘ NA 2 S.",
+      "en": "DISABLES ONE DISCOVERED TOWER FOR 2 SECONDS."
+    },
+    {
+      "key": "text_0e24aff9",
+      "pl": "WYŁĄCZA JEDNĄ ODKRYTĄ WIEŻĘ NA 3 S.",
+      "en": "DISABLES ONE DISCOVERED TOWER FOR 3 SECONDS."
+    },
+    {
+      "key": "text_66356ef3",
+      "pl": "WYŁĄCZENIE WIEŻY",
+      "en": "TOWER SHUTDOWN"
+    },
+    {
+      "key": "text_0a652114",
+      "pl": "Warstwy mgły",
+      "en": "Fog Layers"
+    },
+    {
+      "key": "text_72e6e167",
+      "pl": "Wejdź do labiryntu, poznaj bohaterów i sprawdź swoje umiejętności pod ostrzałem wież.",
+      "en": "Enter the labyrinth, meet the heroes and test your skills under tower fire."
+    },
+    {
+      "key": "text_5ac56316",
+      "pl": "Wieloletni opiekun latarni i konwojów, znany z tego, że nie zostawia towarzyszy na niebezpiecznej drodze.",
+      "en": "Long-time keeper of the lighthouse and convoy leader, known for never leaving companions on dangerous paths."
+    },
+    {
+      "key": "text_a5835c80",
+      "pl": "Wieża ",
+      "en": "Tower "
+    },
+    {
+      "key": "text_fd1b07ec",
+      "pl": "Wieże",
+      "en": "Towers"
+    },
+    {
+      "key": "text_79d0bbaf",
+      "pl": "Wieże działają automatycznie; w docelowej grze Defenderzy mogą je także pilotować.",
+      "en": "Towers operate automatically; in the final game, Defenders can also pilot them."
+    },
+    {
+      "key": "text_4d236094",
+      "pl": "Wieże stoją na wyznaczonych polach murów; Runnerzy przemierzają drogę.",
+      "en": "Towers stand on designated wall fields; Runners traverse the path."
+    },
+    {
+      "key": "text_054986a1",
+      "pl": "Wsparcie",
+      "en": "Support"
+    },
+    {
+      "key": "text_14e3ba0a",
+      "pl": "Wsparcie żaru — kierunek do zaprojektowania",
+      "en": "Fire Support — direction to be designed"
+    },
+    {
+      "key": "text_348dc4b2",
+      "pl": "Wspiera drużynę zabiegającą o bezpieczne przejście dla konwojów.",
+      "en": "Supports the team fighting for safe passage for convoys."
+    },
+    {
+      "key": "text_ac974c87",
+      "pl": "Wybierz bohatera, przygotuj automatyczne wieże i przejdź spiralny labirynt sam lub z sojusznikiem AI.",
+      "en": "Select a hero, prepare automatic towers, and navigate the spiral labyrinth alone or with AI allies."
+    },
+    {
+      "key": "text_ad433ac1",
+      "pl": "Wybierz portret, aby zobaczyć informacje o bohaterze.",
+      "en": "Select a portrait to see information about the hero."
+    },
+    {
+      "key": "text_7f94b817",
+      "pl": "Wybierz portret, sprawdź bohatera i potwierdź wybór.",
+      "en": "Select a portrait, check the hero, and confirm your choice."
+    },
+    {
+      "key": "text_fa4dd99d",
+      "pl": "Wybrana wieża otrzymuje o 30% mniej obrażeń przez 5 s.",
+      "en": "Selected tower takes 30% less damage for 5 seconds."
+    },
+    {
+      "key": "text_c2bea343",
+      "pl": "Wybrana wieża otrzymuje tymczasową osłonę 80 na 5 s.",
+      "en": "The selected tower receives temporary shield of 80 for 5 s."
+    },
+    {
+      "key": "text_202ba774",
+      "pl": "Wykryte cele pozostają widoczne dla drużyny o sekundę dłużej.",
+      "en": "Detected targets remain visible to the team for one second longer."
+    },
+    {
+      "key": "text_1b426233",
+      "pl": "Wykrywa Runnerów i moby w wybranym sektorze.",
+      "en": "Detects Runners and mobs in the selected sector."
+    },
+    {
+      "key": "text_b4ad14f2",
+      "pl": "Wykrywanie i precyzyjny ostrzał. Rozwój: Beacon lub Ray.",
+      "en": "Detection and precise shooting. Development: Beacon or Ray."
+    },
+    {
+      "key": "text_da6b41a0",
+      "pl": "Wystawia tarczę na 4 s. Sojusznicy mogą ukryć się za nią.",
+      "en": "Raises a shield for 4 seconds. Allies can hide behind it."
+    },
+    {
+      "key": "text_e89719e6",
+      "pl": "Występuje dla wspólnoty przełęczy, aby utrzymać dostęp do zaopatrzenia.",
+      "en": "Appears for the pass community to maintain access to supplies."
+    },
+    {
+      "key": "text_05635893",
+      "pl": "Występuje na rzecz ekip, które chcą przeznaczyć część zasobów na bezpieczeństwo pracy.",
+      "en": "Appears on behalf of teams that want to allocate part of their resources to workplace safety."
+    },
+    {
+      "key": "text_b6c58432",
+      "pl": "Występuje, aby poprawić dostęp mniejszych osad do danych z obserwatoriów.",
+      "en": "Appears to improve access for smaller settlements to data from observatories."
+    },
+    {
+      "key": "text_9842e8b0",
+      "pl": "Wytrzymała wojowniczka, która chroni sojuszników osłonami z żaru.",
+      "en": "A resilient warrior who protects allies with shields of fire."
+    },
+    {
+      "key": "text_4ab36e54",
+      "pl": "Wytrzymałość i ciężkie trafienia.",
+      "en": "Endurance and heavy hits."
+    },
+    {
+      "key": "text_20b8840a",
+      "pl": "Wyłącza jedną odkrytą wieżę na 2 s.",
+      "en": "Disables one discovered tower for 2 seconds."
+    },
+    {
+      "key": "text_40b1d02f",
+      "pl": "Wyłącza jedną odkrytą wieżę na 3 s.",
+      "en": "Disables one discovered tower for 3 seconds."
+    },
+    {
+      "key": "text_782ea9c5",
+      "pl": "WŁASNE",
+      "en": "CUSTOM"
+    },
+    {
+      "key": "text_b5c078f0",
+      "pl": "Własne",
+      "en": "Custom"
+    },
+    {
+      "key": "text_7ba02292",
+      "pl": "Z RODZINNEJ DOLINY WYJECHAŁA DO LATARNI AURELU, BY UCZYĆ SIĘ MAPOWANIA I PRACY OBSERWATORÓW. JEJ ŚWIATŁO POMAGA DRUŻYNIE ZOBACZYĆ ZAGROŻENIA.",
+      "en": "DEPARTED FROM HER FAMILY'S VALLEY TO STUDY AT THE AURELU LIGHTHOUSE, LEARNING MAPPING AND OBSERVER WORK. HER LIGHT HELPS THE TEAM SEE THREATS."
+    },
+    {
+      "key": "text_2719a7f2",
+      "pl": "Z rodzinnej doliny wyjechała do Latarni Aurelu, by uczyć się mapowania i pracy obserwatorów. Jej światło pomaga drużynie zobaczyć zagrożenia.",
+      "en": "Departed from her family's valley to study at the Aurelu Lighthouse, learning mapping and observer work. Her light helps the team see threats."
+    },
+    {
+      "key": "text_3a8235b0",
+      "pl": "ZABIEGA O ŚRODKI DLA LECZNIC I ODBUDOWY PÓL.",
+      "en": "SEEKS MEANS FOR CLINICS AND REBUILDING FIELDS."
+    },
+    {
+      "key": "text_93aee7ba",
+      "pl": "ZADAJE 100 OBRAŻEŃ WYBRANEJ ODKRYTEJ WIEŻY.",
+      "en": "DEALS 100 DAMAGE TO A SELECTED REVEALED TOWER."
+    },
+    {
+      "key": "text_8b6284df",
+      "pl": "ZAGRAJ PONOWNIE",
+      "en": "REPLAY"
+    },
+    {
+      "key": "text_6286d2cb",
+      "pl": "ZAGROŻENIA",
+      "en": "THREATS"
+    },
+    {
+      "key": "text_1d200a73",
+      "pl": "ZAKŁÓCENIA I OSŁABIENIA.",
+      "en": "INTERFERENCES AND WEAKENINGS."
+    },
+    {
+      "key": "text_538d59f8",
+      "pl": "ZAMRAŻANIE WIEŻ I KONTROLA TRASY",
+      "en": "FREEZING TOWERS AND CONTROLLING THE ROUTE"
+    },
+    {
+      "key": "text_2ecee3a3",
+      "pl": "ZASADY",
+      "en": "RULES"
+    },
+    {
+      "key": "text_ef3cd1bc",
+      "pl": "ZASADY RIFTORYN",
+      "en": "RIFTORYN RULES"
+    },
+    {
+      "key": "text_8db0d2c6",
+      "pl": "ZET · Q: WYŁĄCZA POBLISKĄ WIEŻĘ I PRZYSPIESZA CIĘ NA CHWILĘ. PODEJDŹ W JEJ ZASIĘG.",
+      "en": "ZET · Q: DISABLES THE NEARBY TOWER AND SPEEDS YOU UP FOR A MOMENT. APPROACH IT."
+    },
+    {
+      "key": "text_5cc00081",
+      "pl": "ZET · Q: wyłącza pobliską wieżę i przyspiesza Cię na chwilę. Podejdź w jej zasięg.",
+      "en": "ZET · Q: disables the nearby tower and speeds you up for a moment. Approach it."
+    },
+    {
+      "key": "text_fe4c9480",
+      "pl": "ZIEMIA",
+      "en": "EARTH"
+    },
+    {
+      "key": "text_ac916d59",
+      "pl": "ZIMNY KROK",
+      "en": "COLD STEP"
+    },
+    {
+      "key": "text_9c5fd6fa",
+      "pl": "ZNA LODOWE URZĄDZENIA UŻYWANE DO UTRZYMYWANIA MAGAZYNÓW; NAUCZYŁA SIĘ CZASOWO UNIERUCHAMIAĆ MECHANIZMY, NIE NISZCZĄC CAŁEJ SIECI.",
+      "en": "KNOWS ICE DEVICES USED TO MAINTAIN WAREHOUSES; LEARNED TO TEMPORARILY DISABLE MECHANISMS WITHOUT DESTROYING THE ENTIRE NETWORK."
+    },
+    {
+      "key": "text_67684b28",
+      "pl": "ZOSTAŁA W DOLINIE, ABY POMAGAĆ RANNYM I ODBUDOWYWAĆ MIEJSCA PO DAWNYCH WALKACH. W DRUŻYNIE LECZY ORAZ WZMACNIA OBRONĘ.",
+      "en": "SHE WAS IN THE VALLEY TO HELP THE INJURED AND REBUILD PLACES AFTER PAST BATTLES. IN THE TEAM, SHE HEALS AND STRENGTHENS DEFENSE."
+    },
+    {
+      "key": "text_f7ad8caf",
+      "pl": "ZWIAD I MAGIA ROŚLIN — KIERUNEK DO ZAPROJEKTOWANIA",
+      "en": "SCOUTING AND PLANT MAGIC — CONCEPT IN DEVELOPMENT"
+    },
+    {
+      "key": "text_0f7a29d8",
+      "pl": "ZWIĘKSZA OTRZYMYWANE OBRAŻENIA PRZEZ OKREŚLONY CZAS.",
+      "en": "INCREASES DAMAGE RECEIVED FOR A SPECIFIED TIME."
+    },
+    {
+      "key": "text_c9c25cc3",
+      "pl": "Zabiega o środki dla lecznic i odbudowy pól.",
+      "en": "Seeks means for clinics and rebuilding fields."
+    },
+    {
+      "key": "text_05c1e0b1",
+      "pl": "Zadaje 100 obrażeń wybranej odkrytej wieży.",
+      "en": "Deals 100 damage to a selected revealed tower."
+    },
+    {
+      "key": "text_c3572113",
+      "pl": "Zakłócenia i osłabienia.",
+      "en": "Interferences and weakenings."
+    },
+    {
+      "key": "text_74654700",
+      "pl": "Zamrażanie wież i kontrola trasy",
+      "en": "Freezing towers and controlling the route"
+    },
+    {
+      "key": "text_72119ea0",
+      "pl": "Ziemia",
+      "en": "Earth"
+    },
+    {
+      "key": "text_0e667299",
+      "pl": "Zimny krok",
+      "en": "Cold Step"
+    },
+    {
+      "key": "text_c91d4a37",
+      "pl": "Zna lodowe urządzenia używane do utrzymywania magazynów; nauczyła się czasowo unieruchamiać mechanizmy, nie niszcząc całej sieci.",
+      "en": "Knows ice devices used to maintain warehouses; learned to temporarily disable mechanisms without destroying the entire network."
+    },
+    {
+      "key": "text_83715f33",
+      "pl": "Została w dolinie, aby pomagać rannym i odbudowywać miejsca po dawnych walkach. W drużynie leczy oraz wzmacnia obronę.",
+      "en": "She was in the valley to help the injured and rebuild places after past battles. In the team, she heals and strengthens defense."
+    },
+    {
+      "key": "text_d5b7d952",
+      "pl": "Zwiad i magia roślin — kierunek do zaprojektowania",
+      "en": "Scouting and plant magic — concept in development"
+    },
+    {
+      "key": "text_59ccadbf",
+      "pl": "Zwiększa otrzymywane obrażenia przez określony czas.",
+      "en": "Increases damage received for a specified time."
+    },
+    {
+      "key": "text_03db70f9",
+      "pl": "jeleń Blask",
+      "en": "Blask the deer"
+    },
+    {
+      "key": "text_7f69f7fc",
+      "pl": "kotoperz Patka",
+      "en": "Patka the bat-cat"
+    },
+    {
+      "key": "text_19d11fda",
+      "pl": "kruk Cień",
+      "en": "Cień the raven"
+    },
+    {
+      "key": "text_271b9163",
+      "pl": "lis Iskra",
+      "en": "Iskra the fox"
+    },
+    {
+      "key": "text_81fe4f58",
+      "pl": "meta",
+      "en": "finished"
+    },
+    {
+      "key": "text_bb665700",
+      "pl": "pancernik Krzemień",
+      "en": "Krzemień the armadillo"
+    },
+    {
+      "key": "text_97246080",
+      "pl": "panda Bob",
+      "en": "panda Bob"
+    },
+    {
+      "key": "text_16cd5e96",
+      "pl": "pokonany",
+      "en": "defeated"
+    },
+    {
+      "key": "text_ae03a434",
+      "pl": "ryś Szron",
+      "en": "Szron the lynx"
+    },
+    {
+      "key": "text_48a89c6a",
+      "pl": "sokół Grom",
+      "en": "Grom the falcon"
+    },
+    {
+      "key": "text_aaedd507",
+      "pl": "{0}  ·  OSŁONA {1}  ·  DO METY {2} M",
+      "en": "{0}  ·  SHIELD {1}  ·  FINISH {2} M"
+    },
+    {
+      "key": "text_8aeda2a7",
+      "pl": "{0}  ·  OSŁONA {1}  ·  DO METY {2} m",
+      "en": "{0}  ·  SHIELD {1}  ·  FINISH {2} m"
+    },
+    {
+      "key": "text_0a179b4b",
+      "pl": "{0} POSTACI  /  KONCEPCJE",
+      "en": "{0} CHARACTERS  /  CONCEPTS"
+    },
+    {
+      "key": "text_8dbc7c53",
+      "pl": "ŚWIAT",
+      "en": "WORLD"
+    },
+    {
+      "key": "text_35040271",
+      "pl": "ŚWIAT I PRÓBY",
+      "en": "WORLD AND TRIALS"
+    },
+    {
+      "key": "text_67f37f6a",
+      "pl": "ŚWIAT SIEDMIU KRAIN I ICH ODMIENNYCH ŻYWIOŁÓW. NAZWY I SZCZEGÓŁY ŚWIATA POZOSTAJĄ PROPOZYCJĄ.",
+      "en": "A WORLD OF SEVEN REALMS AND THEIR DISTINCT ELEMENTS. NAMES AND WORLD DETAILS ARE PROPOSALS."
+    },
+    {
+      "key": "text_f85970e2",
+      "pl": "ŚWIATŁO",
+      "en": "LIGHT"
+    },
+    {
+      "key": "text_8e9c4cba",
+      "pl": "ŚWIATŁO, WYKRYWANIE I ZWIAD",
+      "en": "LIGHT, DETECTION, AND SCOUTING"
+    },
+    {
+      "key": "text_237907f4",
+      "pl": "Świat siedmiu krain i ich odmiennych żywiołów. Nazwy i szczegóły świata pozostają propozycją.",
+      "en": "A world of seven realms and their distinct elements. Names and world details are proposals."
+    },
+    {
+      "key": "text_3d2327dd",
+      "pl": "Światło",
+      "en": "Light"
+    },
+    {
+      "key": "text_5b85b315",
+      "pl": "Światło, wykrywanie i zwiad",
+      "en": "Light, detection, and scouting"
+    },
+    {
+      "key": "text_040e9896",
+      "pl": "ŻAR I PRESJA OBSZAROWA.",
+      "en": "HEAT AND AREA PRESSURE."
+    },
+    {
+      "key": "text_895cbf6f",
+      "pl": "ŻAROODPORNOŚĆ",
+      "en": "FIRE RESISTANCE"
+    },
+    {
+      "key": "text_d7c0586a",
+      "pl": "ŻAROWISKO VARETH",
+      "en": "FIRE DISTRICT VARETH"
+    },
+    {
+      "key": "text_d350bbe2",
+      "pl": "ŻYWIOŁY",
+      "en": "ELEMENTS"
+    },
+    {
+      "key": "text_96e3addc",
+      "pl": "ŻYWIOŁY RÓŻNICUJĄ BOHATERÓW, WIEŻE I ODDZIAŁY; SZCZEGÓŁY BALANSU PODLEGAJĄ TESTOM.",
+      "en": "ELEMENTS DISTINGUISH HEROES, TOWERS AND UNITS; BALANCE IS SUBJECT TO TESTING."
+    },
+    {
+      "key": "text_d76eeb12",
+      "pl": "ŻYWOTNE KORZENIE",
+      "en": "LIVELY ROOTS"
+    },
+    {
+      "key": "text_bc21db56",
+      "pl": "Żar i presja obszarowa.",
+      "en": "Heat and area pressure."
+    },
+    {
+      "key": "text_8bf496bf",
+      "pl": "Żaroodporność",
+      "en": "Fire Resistance"
+    },
+    {
+      "key": "text_34e64f4a",
+      "pl": "Żarowisko Vareth",
+      "en": "Fire District Vareth"
+    },
+    {
+      "key": "text_4753d921",
+      "pl": "Żywioły różnicują bohaterów, wieże i oddziały; szczegóły balansu podlegają testom.",
+      "en": "Elements distinguish heroes, towers and units; balance is subject to testing."
+    },
+    {
+      "key": "text_a008aed2",
+      "pl": "Żywotne korzenie",
+      "en": "Lively Roots"
+    },
+    {
+      "key": "text_f98f3886",
+      "pl": "← MENU",
+      "en": "← MENU"
+    },
+    {
+      "key": "text_b6c881a1",
+      "pl": "← MENU GŁÓWNE",
+      "en": "← MAIN MENU"
+    },
+    {
+      "key": "text_8a678bb1",
+      "pl": "← POWRÓT",
+      "en": "← BACK"
+    },
+    {
+      "key": "text_ae916508",
+      "pl": "← ZMIEŃ USTAWIENIE",
+      "en": "← CHANGE SETTING"
+    },
+    {
+      "key": "text_e896c23c",
+      "pl": "✦  PRÓBA BOHATERA  /  WYBÓR DRUŻYNY",
+      "en": "✦ HERO TRIAL / TEAM SELECTION"
+    },
+    {
+      "key": "text_059083dd",
+      "pl": "STATYSTYKI PRÓBY",
+      "en": "TRIAL STATS"
+    },
+    {
+      "key": "text_655bb02e",
+      "pl": "STATYSTYKI PROJEKTOWE",
+      "en": "PROPOSED STATS"
+    },
+    {
+      "key": "text_03e1ba20",
+      "pl": "ATAK",
+      "en": "ATTACK"
+    },
+    {
+      "key": "text_9396588e",
+      "pl": "RUCH m/s",
+      "en": "SPEED m/s"
+    },
+    {
+      "key": "text_d3542b6e",
+      "pl": "PET: {0} · HP {1} · ATAK {2} · RUCH {3}",
+      "en": "PET: {0} · HP {1} · ATK {2} · SPEED {3}"
+    },
+    {
+      "key": "text_9fef5b37",
+      "pl": "* Testowy atak E przeciw wieży.",
+      "en": "* Experimental E attack against a tower."
+    },
+    {
+      "key": "text_91d5bcb3",
+      "pl": "UMIEJĘTNOŚCI",
+      "en": "ABILITIES"
+    },
+    {
+      "key": "text_91af0c3c",
+      "pl": "OBRONA*",
+      "en": "DEFENSE*"
+    },
+    {
+      "key": "text_08bb3274",
+      "pl": "OPIS UMIEJĘTNOŚCI",
+      "en": "ABILITY DETAILS"
+    },
+    {
+      "key": "text_e0bbb1a9",
+      "pl": "Najedź na umiejętność, aby zobaczyć jej opis.",
+      "en": "Hover over an ability to see its description."
+    },
+    {
+      "key": "text_e69cf42b",
+      "pl": "Brak opisanych umiejętności.",
+      "en": "No abilities have been described yet."
+    },
+    {
+      "key": "text_16891a56",
+      "pl": "Planowana pasywka; nie działa jeszcze w próbie. ",
+      "en": "Planned passive; not yet active in the trial. "
+    },
+    {
+      "key": "text_5b2d6663",
+      "pl": "Umiejętność projektowa, niedostępna w próbie. ",
+      "en": "Concept ability, unavailable in the trial. "
+    },
+    {
+      "key": "text_0ef833e4",
+      "pl": "Tworzy osłonę 100 dla Ciebie oraz 50 dla pobliskiego sojusznika na 5 s.",
+      "en": "Grants you a 100-point shield and a nearby ally a 50-point shield for 5 s."
+    },
+    {
+      "key": "text_92c097d2",
+      "pl": "Otrzymujesz o 15% mniej bezpośrednich obrażeń Ognia.",
+      "en": "You take 15% less direct Fire damage."
+    },
+    {
+      "key": "text_75743c8b",
+      "pl": "Zadaje 100 obrażeń najbliższej wieży w zasięgu.",
+      "en": "Deals 100 damage to the nearest tower in range."
+    },
+    {
+      "key": "text_b80c3b94",
+      "pl": "Wyłącza najbliższą wieżę w zasięgu na 2 s i zwiększa Twoją prędkość o 20% na 2 s.",
+      "en": "Disables the nearest tower in range for 2 s and increases your speed by 20% for 2 s."
+    },
+    {
+      "key": "text_718e016a",
+      "pl": "Atak podstawowy niedostępny w próbie.",
+      "en": "Basic attack unavailable in the trial."
+    },
+    {
+      "key": "text_491cd2a4",
+      "pl": "Opis koncepcji zobaczysz po najechaniu poniżej.",
+      "en": "Hover over the concept below to read its details."
+    },
+    {
+      "key": "text_c431cf3e",
+      "pl": "OPIS",
+      "en": "DETAILS"
+    },
+    {
+      "key": "text_f0f10ccf",
+      "pl": "Najedź na umiejętność lub peta, aby zobaczyć opis.",
+      "en": "Hover over an ability or companion to see its details."
+    },
+    {
+      "key": "text_59e74f21",
+      "pl": "Opis towarzysza — koncepcja niedostępna w próbie. ",
+      "en": "Companion concept — unavailable in the trial. "
+    },
+    {
+      "key": "text_27905f73",
+      "pl": "Najedź na towarzysza poniżej, aby zobaczyć opis.",
+      "en": "Hover over the companion below to read its details."
+    }
+  ]
+}

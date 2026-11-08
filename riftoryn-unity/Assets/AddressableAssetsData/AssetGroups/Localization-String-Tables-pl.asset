@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-pl
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-String-Tables-pl
+  m_GUID: f7d240d33574b5a47b4fb5105a97271e
+  m_SerializeEntries:
+  - m_GUID: bfa96ca67b7288b47a08e2c688229a8a
+    m_Address: RiftorynUI_pl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pl
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: c894564105188504eb4055e3459a4a2f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d5503f66438675b43b85af078e4dc495, type: 2}
+    - {fileID: 11400000, guid: 68577321890421a479c92360d5fbfc84, type: 2}
+    - {fileID: 11400000, guid: 7d07bafefd71fb54197934828d9bcf6d, type: 2}

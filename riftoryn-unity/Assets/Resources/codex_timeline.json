@@ -1,0 +1,66 @@
+{
+  "eras": [
+    {
+      "range": "180–120 PT",
+      "labelPl": "Epoka miast i szlaków",
+      "labelEn": "Age of Cities and Routes",
+      "events": [
+        {"date":"180 PT","titlePl":"Pierwsze porozumienie","titleEn":"First Accord","textPl":"Siedem dużych ośrodków handlowych uzgadnia stałe zasady bezpiecznego podróżowania. Ich mieszkańcy dzielą drogi, choć żywioły i tradycje rozwijają odmiennie.","textEn":"Seven major trade centers agree on lasting rules for safe travel. Their people share roads while developing distinct elemental traditions."},
+        {"date":"154 PT","titlePl":"Odkrycie splotytu","titleEn":"Splotite Discovered","textPl":"Badacze opisują kryształ zdolny przechowywać i przewodzić energię żywiołów. Splotyt zaczyna zasilać rolnictwo, rzemiosło, łączność i obronę.","textEn":"Researchers describe a crystal that can store and conduct elemental energy. Splotite begins to power farming, crafts, communications and defenses."},
+        {"date":"128 PT","titlePl":"Umowa Siedmiu Szlaków","titleEn":"Seven Routes Accord","textPl":"Niezależne miasta podpisują wielostronne porozumienie handlowe o dostępie do dróg i części złóż. Umowa nie tworzy jednego państwa i nie jest późniejszą Radą Siedmiu Szlaków.","textEn":"Independent cities sign a multilateral trade agreement on access to roads and some deposits. The accord creates no single state and is distinct from the later Council of Seven Routes."}
+      ]
+    },
+    {
+      "range": "119–42 PT",
+      "labelPl": "Rozwój sieci splotu",
+      "labelEn": "The Splotite Network Grows",
+      "events": [
+        {"date":"109 PT","titlePl":"Pierwsza wieża","titleEn":"First Tower","textPl":"Na szlaku handlowym powstaje pierwsza udokumentowana wieża obronna zasilana splotytem.","textEn":"The first documented splotite-powered defensive tower is built along a trade route."},
+        {"date":"91 PT","titlePl":"Połączone wieże","titleEn":"Towers Linked","textPl":"Kilka wież zostaje połączonych w sieć. Wspólne zasilanie i badania zwiększają możliwości całego zespołu urządzeń.","textEn":"Several towers are linked into a network. Shared power and research improve the capabilities of the whole system."},
+        {"date":"76 PT","titlePl":"Więź operatora","titleEn":"The Operator’s Bond","textPl":"Operatorzy odkrywają, że mogą ręcznie przejmować sterowanie wieżą. Znajomość urządzenia pozwala im reagować sprawniej niż automatyczna sieć.","textEn":"Operators discover they can take direct control of a tower. Familiarity with its workings lets them respond more effectively than the automatic network."},
+        {"date":"54 PT","titlePl":"Badania reakcji","titleEn":"Elemental Research","textPl":"Uczeni zaczynają systematycznie opisywać reakcje między żywiołami. Ich dokładne działanie pozostaje przedmiotem dalszych badań.","textEn":"Scholars begin systematically documenting reactions between elements. Their precise workings remain under study."},
+        {"date":"43 PT","titlePl":"Konstrukty pomocnicze","titleEn":"Utility Constructs","textPl":"Pierwsze konstrukty zasilane splotytem pomagają w transporcie i ratownictwie. Później powstają odmiany wspierające uczestników Prób.","textEn":"The first splotite-powered constructs assist with transport and rescue. Later variants support participants in the Trials."}
+      ]
+    },
+    {
+      "range": "41–10 PT",
+      "labelPl": "Kryzys i wojna",
+      "labelEn": "Crisis and War",
+      "events": [
+        {"date":"41 PT","titlePl":"Kryzys złóż","titleEn":"The Deposit Crisis","textPl":"Łatwo dostępne złoża splotytu zaczynają się wyczerpywać. Ograniczenia eksportu podnoszą ceny i zagrażają wspólnej infrastrukturze.","textEn":"Accessible splotite deposits begin to run low. Export restrictions raise prices and threaten shared infrastructure."},
+        {"date":"35 PT","titlePl":"Pierwsze starcia","titleEn":"First Clashes","textPl":"Spór o konwoje na Szlaku Popiołów przeradza się w walki przy granicy. Negocjacje nie przynoszą trwałego rozwiązania.","textEn":"A dispute over convoys on the Ash Route escalates into border fighting. Negotiations fail to produce a lasting solution."},
+        {"date":"30 PT","titlePl":"Wojna Siedmiu Bram","titleEn":"War of the Seven Gates","textPl":"Rozpoczyna się wojna o złoża i drogi handlowe. Jej nazwa pochodzi od siedmiu najważniejszych przejść, a nie siedmiu pojedynczych bitew.","textEn":"War begins over deposits and trade routes. Its name comes from the seven most important crossings, not seven individual battles."},
+        {"date":"26–18 PT","titlePl":"Wyścig obron","titleEn":"The Defensive Arms Race","textPl":"Krainy rozbudowują sieci wież i szkolą drużyny przełamujące obronę: wojowników, zwiadowców, uzdrowicieli i sabotażystów.","textEn":"The realms expand their tower networks and train teams to breach defenses: warriors, scouts, healers and saboteurs."},
+        {"date":"17 PT","titlePl":"Noc Zgasłych Wież","titleEn":"Night of the Darkened Towers","textPl":"Podczas oblężenia Val Meris awaria połączonych sieci odcina drogi ewakuacyjne. Powojenne opracowanie Urzędu, relacja ocalałej i niepełny zapis przekaźnika przedstawiają sprzeczne przyczyny; liczba ofiar również pozostaje niepewna.","textEn":"During the siege of Val Meris, a failure in the linked networks cuts off evacuation routes. A later Office report, a survivor’s account and an incomplete relay log suggest conflicting causes; the death toll is also uncertain."},
+        {"date":"15 PT","titlePl":"Kruchy rozejm","titleEn":"A Fragile Truce","textPl":"Walki ustają, lecz fortyfikacje nadal stoją, a kryzys dostępu do zasobów nie zostaje rozwiązany.","textEn":"The fighting stops, but the fortifications remain and the dispute over access to resources is unresolved."}
+      ]
+    },
+    {
+      "range": "9 PT – 0 ET",
+      "labelPl": "Droga do traktatu",
+      "labelEn": "The Road to the Treaty",
+      "events": [
+        {"date":"9 PT","titlePl":"Pierwszy Pojedynek Bram","titleEn":"First Gate Duel","textPl":"Dwie strony sporu o konwój otrzymują identyczne układy murów, budują obronę i wysyłają drużyny przez labirynt przeciwnika. Obie strony rozgrywają obie role.","textEn":"Two sides disputing a convoy receive matching wall layouts, build defenses and send teams through the opposing labyrinth. Both sides play both roles."},
+        {"date":"8 PT","titlePl":"Pieczęcie bezpieczeństwa","titleEn":"Safety Seals","textPl":"Rzemieślnicy i medycy opracowują zabezpieczenia aren, które chronią uczestników podczas Prób.","textEn":"Craftspeople and medics develop arena safeguards to protect participants during the Trials."},
+        {"date":"5 PT","titlePl":"Lokalne Próby","titleEn":"Local Trials","textPl":"Kolejne miasta dobrowolnie używają Prób do rozstrzygania ograniczonych sporów i uzgadniają wspólne protokoły.","textEn":"More cities voluntarily use Trials to settle limited disputes and agree on shared procedures."},
+        {"date":"2 PT","titlePl":"Granice obowiązku","titleEn":"Limits of the Obligation","textPl":"Negocjatorzy uzgadniają, że Traktat obejmie wskazane spory o wspólne zasoby i szlaki, a nie wszystkie konflikty mieszkańców.","textEn":"Negotiators agree that the Treaty will cover specified disputes over shared resources and routes, not every conflict between residents."},
+        {"date":"0 ET","titlePl":"Traktat Równych Ścieżek","titleEn":"Treaty of Equal Paths","textPl":"Siedem krain podpisuje Traktat. Powstają Rada Siedmiu Szlaków do wspólnego nadzoru oraz Urząd Prób do organizacji aren i zatwierdzania wyników. Wiążące są tylko formalne rozstrzygnięcia traktatowe; zawody publiczne pozostają dobrowolne.","textEn":"The seven realms sign the Treaty. The Council of Seven Routes is established for shared oversight, alongside the Trials Office to organize arenas and certify results. Only formal treaty rulings are binding; public competitions remain voluntary."}
+      ]
+    },
+    {
+      "range": "1–34 ET",
+      "labelPl": "Era Prób",
+      "labelEn": "The Era of Trials",
+      "events": [
+        {"date":"1 ET","titlePl":"Mieszane drużyny","titleEn":"Mixed Teams","textPl":"Wczesne składy championów krain ustępują drużynom dobieranym do konkretnej sprawy. Kroniki odnotowują powtarzalne zwycięstwa Ognia nad Lodem w ówczesnym formacie, nie powszechne prawo żywiołów.","textEn":"Early teams of realm champions give way to rosters selected for particular causes. Chronicles record repeated Fire victories over Ice in that era’s format, not a universal law of the elements."},
+        {"date":"3 ET","titlePl":"Bliźniacze labirynty","titleEn":"Mirrored Labyrinths","textPl":"Urząd ujednolica układ aren. Obie strony meczu otrzymują identyczną mapę, choć same decydują o rozmieszczeniu obrony.","textEn":"The Office standardizes arena layouts. Both sides in a match receive identical maps, while choosing their own defensive placements."},
+        {"date":"7 ET","titlePl":"Pełna para ataków","titleEn":"A Full Pair of Attacks","textPl":"Wynik zaczyna być liczony dopiero po pełnej parze ataków, aby obie strony miały szansę bronić i przejść labirynt.","textEn":"Results are counted only after a full pair of attacks, giving both sides a chance to defend and run the labyrinth."},
+        {"date":"12 ET","titlePl":"Wspólna szkoła","titleEn":"The Shared Academy","textPl":"Powstaje szkoła operatorów i Runnerów. Pochodzenie ani żywioł nie ograniczają wyboru technologii drużyny.","textEn":"An academy for operators and Runners is founded. A hero’s origin or element does not restrict the team’s choice of technology."},
+        {"date":"19 ET","titlePl":"Narodziny widowiska","titleEn":"The Spectacle Begins","textPl":"Dobrowolne sezony publiczne przynoszą uczestnikom sławę i nagrody. Ich wyniki nie przydzielają praw traktatowych do szlaków ani zasobów.","textEn":"Voluntary public seasons bring participants fame and prizes. Their results do not assign treaty rights to routes or resources."},
+        {"date":"27 ET","titlePl":"Kodeks Prób","titleEn":"The Trials Codex","textPl":"Powstaje wspólny zbiór zasad, opisów wież i dokumentacji bezpieczeństwa, aktualizowany wraz z rozwojem technik.","textEn":"A shared collection of rules, tower records and safety documentation is compiled and updated as techniques develop."},
+        {"date":"32 ET","titlePl":"Nieścisłości w rejestrach","titleEn":"Discrepancies in the Ledgers","textPl":"Kilka miast zgłasza rozbieżności w zapisach wydobycia. Rada rozpoczyna kontrolę, nie przesądzając, czy winny jest błąd, przemyt czy celowa manipulacja.","textEn":"Several cities report discrepancies in extraction records. The Council begins an inquiry without deciding whether the cause is error, smuggling or deliberate tampering."},
+        {"date":"34 ET","titlePl":"Początek gry","titleEn":"The Game Begins","textPl":"Zbliża się nowy sezon publicznych Prób. Drużyny występują dla swoich społeczności, a zaufanie do porozumienia zawartego po wojnie wciąż jest wystawiane na próbę.","textEn":"A new public Trials season approaches. Teams compete for their communities, while trust in the postwar accord remains under strain."}
+      ]
+    }
+  ]
+}

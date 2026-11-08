@@ -1,0 +1,2841 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: RiftorynUI_pl
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: dc5d25bba04579c48bafcbc2bc228854, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 539082752
+    m_Localized: "J\u0118ZYK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 614580224
+    m_Localized: Polski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 614580225
+    m_Localized: Angielski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311656878080
+    m_Localized: "\nCZAS {0:F1} S  \u2022  OBRA\u017BENIA {1:F0}  \u2022  ZDOLNO\u015ACI {2}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569856
+    m_Localized: "\nCzas {0:F1} s  \u2022  obra\u017Cenia {1:F0}  \u2022  zdolno\u015Bci {2}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569857
+    m_Localized: "  \xB7  ZMIE\u0143"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569858
+    m_Localized: "  \u2022  {0} AI: {1}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569859
+    m_Localized: "30 BOHATER\xD3W"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569860
+    m_Localized: "4 ROLE \xD7 7 \u017BYWIO\u0141\xD3W"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569861
+    m_Localized: "4 role \xD7 7 \u017Cywio\u0142\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569862
+    m_Localized: "ARCHIWUM RIFTORYN  /  \u015AWIAT I BOHATEROWIE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569863
+    m_Localized: "ATAK \xB7 CH\u0141ODNA G\u0141OWA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569864
+    m_Localized: "ATAK \xB7 ELEKTROIMPULS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569865
+    m_Localized: "ATAK \xB7 G\u0118STY MROK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569866
+    m_Localized: "ATAK \xB7 MUR TARCZ"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569867
+    m_Localized: "ATAK \xB7 POLE \u017BYCIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569868
+    m_Localized: "ATAK \xB7 PROMIE\u0143 ZWIADU"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569869
+    m_Localized: "ATAK \xB7 SKUPIONY \u017BAR"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569870
+    m_Localized: "ATAK \xB7 WSP\xD3LNY IMPULS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569871
+    m_Localized: "ATAK \xB7 ZABURZENIE CELOWANIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569872
+    m_Localized: "ATAK \xB7 ZAMRO\u017BENIE MECHANIZMU"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569873
+    m_Localized: "ATAK \xB7 \u017BAROWA BARIERA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569874
+    m_Localized: "ATAK \xB7 \u017BYWA OSTOJA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569875
+    m_Localized: "AUTO \xB7 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569876
+    m_Localized: "AUTOMATYCZNY OSTRZA\u0141 WYBRANEJ WIE\u017BY JEST SZYBSZY PRZEZ 5 S."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569877
+    m_Localized: "Atak \xB7 Ch\u0142odna g\u0142owa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569878
+    m_Localized: "Atak \xB7 Elektroimpuls"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569879
+    m_Localized: "Atak \xB7 G\u0119sty mrok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569880
+    m_Localized: "Atak \xB7 Mur tarcz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569881
+    m_Localized: "Atak \xB7 Pole \u017Cycia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569882
+    m_Localized: "Atak \xB7 Promie\u0144 zwiadu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569883
+    m_Localized: "Atak \xB7 Skupiony \u017Car"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569884
+    m_Localized: "Atak \xB7 Wsp\xF3lny impuls"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569885
+    m_Localized: "Atak \xB7 Zaburzenie celowania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569886
+    m_Localized: "Atak \xB7 Zamro\u017Cenie mechanizmu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569887
+    m_Localized: "Atak \xB7 \u017Barowa bariera"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569888
+    m_Localized: "Atak \xB7 \u017Bywa ostoja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569889
+    m_Localized: "Automatyczny ostrza\u0142 wybranej wie\u017Cy jest szybszy przez 5 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569890
+    m_Localized: "BADA\u0141A STABILNO\u015A\u0106 SKALNYCH PRZEJ\u015A\u0106 I NAUCZY\u0141A SI\u0118 CZYTA\u0106 TEREN PRZED ROZPOCZ\u0118CIEM PRAC. \u0141\u0104CZY PRECYZJ\u0118 ZWIADU Z WIEDZ\u0104 IN\u017BYNIERSK\u0104."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569891
+    m_Localized: "BIA\u0141Y PRZESMYK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569892
+    m_Localized: "BIERZE UDZIA\u0141 DLA SPO\u0141ECZNO\u015ACI SZLAKU, KT\xD3RA CHCE UNIEZALE\u017BNI\u0106 DOSTAWY OD POJEDYNCZEGO DOSTAWCY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569893
+    m_Localized: "BIERZE UDZIA\u0141, ABY WESPRZE\u0106 SIE\u0106 MA\u0141YCH STACJI ZAGRO\u017BONYCH ZAMKNI\u0118CIEM."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569894
+    m_Localized: "BIERZE UDZIA\u0141, ABY WIEDZA O SZLAKACH POZOSTA\u0141A DOST\u0118PNA R\xD3WNIE\u017B MNIEJSZYM MIASTOM."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569895
+    m_Localized: BOHATER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569896
+    m_Localized: BOHATEROWIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569897
+    m_Localized: "BOHATEROWIE WYBIERANI S\u0104 ZE WSP\xD3LNEJ PULI BEZ DUPLIKAT\xD3W."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569898
+    m_Localized: BRAK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569899
+    m_Localized: BUDOWA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569900
+    m_Localized: "BUDUJ.\nUCIEKAJ.\nADAPTUJ SI\u0118."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569901
+    m_Localized: "Bada\u0142a stabilno\u015B\u0107 skalnych przej\u015B\u0107 i nauczy\u0142a si\u0119 czyta\u0107 teren przed rozpocz\u0119ciem prac. \u0141\u0105czy precyzj\u0119 zwiadu z wiedz\u0105 in\u017Cyniersk\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569902
+    m_Localized: "Bia\u0142y Przesmyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569903
+    m_Localized: "Bierze udzia\u0142 dla spo\u0142eczno\u015Bci szlaku, kt\xF3ra chce uniezale\u017Cni\u0107 dostawy od pojedynczego dostawcy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569904
+    m_Localized: "Bierze udzia\u0142, aby wesprze\u0107 sie\u0107 ma\u0142ych stacji zagro\u017Conych zamkni\u0119ciem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569905
+    m_Localized: "Bierze udzia\u0142, aby wiedza o szlakach pozosta\u0142a dost\u0119pna r\xF3wnie\u017C mniejszym miastom."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569906
+    m_Localized: Bohater
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569907
+    m_Localized: "Bohaterowie wybierani s\u0105 ze wsp\xF3lnej puli bez duplikat\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569908
+    m_Localized: "B\u0141YSKAWICE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569909
+    m_Localized: "B\u0141YSKAWICZNY ZWIADOWCA WYSZUKUJ\u0104CY S\u0141ABE PUNKTY OBRONY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569910
+    m_Localized: "B\u0142yskawice"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569911
+    m_Localized: "B\u0142yskawiczny zwiadowca wyszukuj\u0105cy s\u0142abe punkty obrony."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569912
+    m_Localized: "CEL: DOTRZYJ DO METY   \u2022   CZAS {0:F1} S   \u2022   MG\u0141A {1:F1} S"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569913
+    m_Localized: "CEL: DOTRZYJ DO METY   \u2022   CZAS {0:F1} s   \u2022   MG\u0141A {1:F1} s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569914
+    m_Localized: "CHCE UTRZYMA\u0106 DOST\u0118P DO SZLAKU \u0141\u0104CZ\u0104CEGO KILKA ODLEG\u0141YCH OSAD."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569915
+    m_Localized: "CHCE ZDOBY\u0106 ZASOBY NA OTWARTY WARSZTAT UCZ\u0104CY BEZPIECZNEJ OBS\u0141UGI WIE\u017B."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569916
+    m_Localized: "CH\u0141\xD3D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569917
+    m_Localized: "CH\u0141\xD3D {0:F1}S"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569918
+    m_Localized: "CH\u0141\xD3D {0:F1}s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569919
+    m_Localized: "CIEMNO\u015A\u0106"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569920
+    m_Localized: CIENISTY PORT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569921
+    m_Localized: "CI\u0118\u017BKIE OBRA\u017BENIA. ROZW\xD3J: QUAKE LUB BOULDER."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569922
+    m_Localized: "CZASOWO ZATRZYMUJE OSTRZA\u0141 WIE\u017BY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569923
+    m_Localized: "CZO\u0141O MG\u0141Y PORUSZA SI\u0118 WZD\u0141U\u017B DROGI. JEJ DOTARCIE DO METY SAMO NIE KO\u0143CZY ATAKU."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569924
+    m_Localized: "Chce utrzyma\u0107 dost\u0119p do szlaku \u0142\u0105cz\u0105cego kilka odleg\u0142ych osad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569925
+    m_Localized: "Chce zdoby\u0107 zasoby na otwarty warsztat ucz\u0105cy bezpiecznej obs\u0142ugi wie\u017C."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569926
+    m_Localized: "Ciemno\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569927
+    m_Localized: Cienisty Port
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569928
+    m_Localized: "Ci\u0119\u017Ckie obra\u017Cenia. Rozw\xF3j: Quake lub Boulder."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569929
+    m_Localized: "Czasowo zatrzymuje ostrza\u0142 wie\u017Cy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569930
+    m_Localized: "Czo\u0142o mg\u0142y porusza si\u0119 wzd\u0142u\u017C drogi. Jej dotarcie do mety samo nie ko\u0144czy ataku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569931
+    m_Localized: "DALSZY ROZW\xD3J PROWADZI DO WSP\xD3LNEGO ULEPSZENIA T3."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569932
+    m_Localized: "DAWNIEJ ZABEZPIECZA\u0141 G\xD3RSKIE KONWOJE I DROGI DO MAGAZYN\xD3W. LODOWA TARCZA JEST ZNAKIEM JEGO SPOSOBU OCHRONY GRUPY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569933
+    m_Localized: "DLACZEGO BIERZE UDZIA\u0141 W PR\xD3BACH"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569934
+    m_Localized: 'DO METY: {0} M'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569935
+    m_Localized: "DOCELOWA GRA \u0141\u0104CZY BUDOW\u0118 OBRONY, UCIECZK\u0118 ORAZ ADAPTACJ\u0118 DO RYWALA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569936
+    m_Localized: DODGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569937
+    m_Localized: "DORASTA\u0141 W\u015AR\xD3D WARSZTAT\xD3W PRZEKA\u0179NIKOWYCH I POMAGA\u0141 OS\u0141ANIA\u0106 EKIPY NAPRAWIAJ\u0104CE PRZEWODNIKI ENERGII."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569938
+    m_Localized: "DORASTA\u0141 W\u015AR\xD3D ZA\u0141\xD3G CHRONI\u0104CYCH KONWOJE PRZED ZDRADZENIEM ICH TRASY. SWOJE UMIEJ\u0118TNO\u015ACI MASKOWANIA WYKORZYSTUJE DZI\u015A DO ZAK\u0141\xD3CANIA WYKRYWANIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569939
+    m_Localized: "DORASTA\u0141A Z SIOSTRAMI W PO\u0141UDNIOWEJ DOLINIE, A P\xD3\u0179NIEJ SZKOLI\u0141A SI\u0118 PRZY BIA\u0141YM PRZESMYKU. LODOWE UMIEJ\u0118TNO\u015ACI WYKORZYSTUJE DO OCHRONY I PRZYWRACANIA SPRAWNO\u015ACI."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569940
+    m_Localized: "DOR\u0118CZA\u0141 PILNE WIADOMO\u015ACI MI\u0118DZY STACJAMI PRZEKA\u0179NIKOWYMI. JEGO SZYBKO\u015A\u0106 I WYCZUCIE URZ\u0104DZE\u0143 PRZYDA\u0141Y SI\u0118 P\xD3\u0179NIEJ W LABIRYNTACH."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569941
+    m_Localized: "DOSTA\u0143 SI\u0118 DO Z\u0141OTEGO PORTALU, UNIKAJ\u0104C OSTRZA\u0141U I UCIEKAJ\u0104C PRZED MG\u0141\u0104. SPRAWD\u0179, CZY POTRAFISZ ODCZYTA\u0106 ZAGRO\u017BENIA I REAGOWA\u0106 NA CZAS."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569942
+    m_Localized: "DOST\u0118PNA W PR\xD3BIE 3D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569943
+    m_Localized: "DOST\u0118PNE  /  PRE-POC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569944
+    m_Localized: "DOST\u0118PNY W PR\xD3BIE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569945
+    m_Localized: "DO\u0141\u0104CZA DO DRU\u017BYN STRZEG\u0104CYCH KONWOJ\xD3W, BO ZNA CEN\u0118 UTRATY BEZPIECZNEJ DROGI."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569946
+    m_Localized: DRAFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569947
+    m_Localized: "DRU\u017BYNA WSP\xD3LNIE ROZWIJA \u017BYWIO\u0141Y I WYBIERA KIERUNKI ULEPSZE\u0143."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569948
+    m_Localized: "DRU\u017BYNY BUDUJ\u0104 OBRON\u0118 I PODEJMUJ\u0104 PR\xD3B\u0118 PRZEJ\u015ACIA PRZEZ LABIRYNT PRZECIWNIKA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569949
+    m_Localized: "DRU\u017BYNY INWESTUJ\u0104 I USTAWIAJ\u0104 WIE\u017BE NA SWOICH MAPACH."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569950
+    m_Localized: DRZEWKO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569951
+    m_Localized: DRZEWKO TECHNOLOGII
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569952
+    m_Localized: "DWIE DRU\u017BYNY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569953
+    m_Localized: "DWIE DRU\u017BYNY PO PI\u0118CIU GRACZY NAPRZEMIENNIE ATAKUJ\u0104 OBRON\u0118 RYWALA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569954
+    m_Localized: "Dalszy rozw\xF3j prowadzi do wsp\xF3lnego ulepszenia T3."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569955
+    m_Localized: "Dawniej zabezpiecza\u0142 g\xF3rskie konwoje i drogi do magazyn\xF3w. Lodowa tarcza jest znakiem jego sposobu ochrony grupy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569956
+    m_Localized: 'Do mety: {0} m'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569957
+    m_Localized: "Docelowa gra \u0142\u0105czy budow\u0119 obrony, ucieczk\u0119 oraz adaptacj\u0119 do rywala."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569958
+    m_Localized: "Dorasta\u0142 w\u015Br\xF3d warsztat\xF3w przeka\u017Anikowych i pomaga\u0142 os\u0142ania\u0107 ekipy naprawiaj\u0105ce przewodniki energii."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569959
+    m_Localized: "Dorasta\u0142 w\u015Br\xF3d za\u0142\xF3g chroni\u0105cych konwoje przed zdradzeniem ich trasy. Swoje umiej\u0119tno\u015Bci maskowania wykorzystuje dzi\u015B do zak\u0142\xF3cania wykrywania."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569960
+    m_Localized: "Dorasta\u0142a z siostrami w po\u0142udniowej dolinie, a p\xF3\u017Aniej szkoli\u0142a si\u0119 przy Bia\u0142ym Przesmyku. Lodowe umiej\u0119tno\u015Bci wykorzystuje do ochrony i przywracania sprawno\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569961
+    m_Localized: "Dor\u0119cza\u0142 pilne wiadomo\u015Bci mi\u0119dzy stacjami przeka\u017Anikowymi. Jego szybko\u015B\u0107 i wyczucie urz\u0105dze\u0144 przyda\u0142y si\u0119 p\xF3\u017Aniej w labiryntach."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569962
+    m_Localized: "Dosta\u0144 si\u0119 do z\u0142otego portalu, unikaj\u0105c ostrza\u0142u i uciekaj\u0105c przed mg\u0142\u0105. Sprawd\u017A, czy potrafisz odczyta\u0107 zagro\u017Cenia i reagowa\u0107 na czas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569963
+    m_Localized: "Do\u0142\u0105cza do dru\u017Cyn strzeg\u0105cych konwoj\xF3w, bo zna cen\u0119 utraty bezpiecznej drogi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569964
+    m_Localized: "Dru\u017Cyna wsp\xF3lnie rozwija \u017Cywio\u0142y i wybiera kierunki ulepsze\u0144."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569965
+    m_Localized: "Dru\u017Cyny buduj\u0105 obron\u0119 i podejmuj\u0105 pr\xF3b\u0119 przej\u015Bcia przez labirynt przeciwnika."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569966
+    m_Localized: "Dru\u017Cyny inwestuj\u0105 i ustawiaj\u0105 wie\u017Ce na swoich mapach."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569967
+    m_Localized: "Dwie dru\u017Cyny po pi\u0119ciu graczy naprzemiennie atakuj\u0105 obron\u0119 rywala."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569968
+    m_Localized: "EFEKTY OGRANICZAJ\u0104CE WIDOCZNO\u015A\u0106 TRWAJ\u0104 O 20% KR\xD3CEJ."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569969
+    m_Localized: "EFEKTY ZMIENIAJ\u0104 SPOS\xD3B, W JAKI BOHATEROWIE PRZECHODZ\u0104 PRZEZ OBRON\u0118."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569970
+    m_Localized: "ENERGICZNA PRZEWODNICZKA, KT\xD3RA SYNCHRONIZUJE RUCH CA\u0141EJ DRU\u017BYNY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569971
+    m_Localized: ERYNDOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569972
+    m_Localized: "Efekty ograniczaj\u0105ce widoczno\u015B\u0107 trwaj\u0105 o 20% kr\xF3cej."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569973
+    m_Localized: "Efekty zmieniaj\u0105 spos\xF3b, w jaki bohaterowie przechodz\u0105 przez obron\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569974
+    m_Localized: "Energiczna przewodniczka, kt\xF3ra synchronizuje ruch ca\u0142ej dru\u017Cyny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569975
+    m_Localized: GOTOWA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569976
+    m_Localized: GOTOWY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569977
+    m_Localized: "GRACZE INWESTUJ\u0104 W DRZEWKA \u017BYWIO\u0141\xD3W NIEZALE\u017BNIE OD \u017BYWIO\u0141U WYBRANEGO BOHATERA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569978
+    m_Localized: GRAJ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569979
+    m_Localized: GRAJ BEZ SOJUSZNIKA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569980
+    m_Localized: "Gracze inwestuj\u0105 w drzewka \u017Cywio\u0142\xF3w niezale\u017Cnie od \u017Cywio\u0142u wybranego bohatera."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569981
+    m_Localized: HARTOWANIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569982
+    m_Localized: HISTORIA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569983
+    m_Localized: HISTORIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569984
+    m_Localized: "HISTORIE, ROLE I UMIEJ\u0118TNO\u015ACI"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569985
+    m_Localized: "HP  {0}     PR\u0118DKO\u015A\u0106  {1}     ODNOWIENIE  {2} S"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569986
+    m_Localized: "HP  {0}     PR\u0118DKO\u015A\u0106  {1}     ODNOWIENIE  {2} s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569987
+    m_Localized: "HP  {0}     PR\u0118DKO\u015A\u0106  {1} M/S     Q  {2} S"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569988
+    m_Localized: "HP  {0}     PR\u0118DKO\u015A\u0106  {1} m/s     Q  {2} s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569989
+    m_Localized: Hartowanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569990
+    m_Localized: "Historie, role i umiej\u0119tno\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569991
+    m_Localized: IGLICA ZERATH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569992
+    m_Localized: "IMPULS ZESPO\u0141OWY I GOTOWO\u015A\u0106 WIE\u017B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569993
+    m_Localized: "IN\u017BYNIERIA TERENOWA \u2014 KIERUNEK DO ZAPROJEKTOWANIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569994
+    m_Localized: ISKRA MANEWRU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569995
+    m_Localized: Iglica Zerath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569996
+    m_Localized: "Impuls zespo\u0142owy i gotowo\u015B\u0107 wie\u017C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569997
+    m_Localized: "In\u017Cynieria terenowa \u2014 kierunek do zaprojektowania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569998
+    m_Localized: Iskra manewru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569999
+    m_Localized: "JAKO STRA\u017BNIK WYROBISK CHRONI\u0141 ROBOTNIK\xD3W PODCZAS ZAWALE\u0143 I POMAGA\u0141 UTRZYMA\u0106 PRZEJ\u015ACIA. W LABIRYNCIE WYKORZYSTUJE TARCZ\u0118, BY INNI MOGLI I\u015A\u0106 DALEJ."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570000
+    m_Localized: JASNY WZROK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570001
+    m_Localized: "JEGO POCHODZENIE I EWENTUALNE WI\u0118ZI RODZINNE POZOSTAJ\u0104 TAJEMNIC\u0104."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570002
+    m_Localized: "JEJ LECZENIE I NAPRAWA S\u0104 O 10% SILNIEJSZE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570003
+    m_Localized: "JELE\u0143 BLASK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570004
+    m_Localized: "JELE\u0143 OS\u0141ANIA SOJUSZNIKA BARIER\u0104; W OBRONIE POMAGA WYKRYWA\u0106 RUNNER\xD3W."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570005
+    m_Localized: "Jako stra\u017Cnik wyrobisk chroni\u0142 robotnik\xF3w podczas zawale\u0144 i pomaga\u0142 utrzyma\u0107 przej\u015Bcia. W labiryncie wykorzystuje tarcz\u0119, by inni mogli i\u015B\u0107 dalej."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570006
+    m_Localized: Jasny wzrok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570007
+    m_Localized: "Jego pochodzenie i ewentualne wi\u0119zi rodzinne pozostaj\u0105 tajemnic\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570008
+    m_Localized: "Jej leczenie i naprawa s\u0105 o 10% silniejsze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570009
+    m_Localized: "Jele\u0144 os\u0142ania sojusznika barier\u0105; w obronie pomaga wykrywa\u0107 Runner\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570010
+    m_Localized: "KAEL \xB7 Q: OS\u0141ONA DLA CIEBIE I POBLISKIEGO SOJUSZNIKA. E: TESTOWY ATAK NA POBLISK\u0104 WIE\u017B\u0118."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570011
+    m_Localized: "KAEL \xB7 Q: os\u0142ona dla Ciebie i pobliskiego sojusznika. E: testowy atak na poblisk\u0105 wie\u017C\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570012
+    m_Localized: KAMIENNY PANCERZ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570013
+    m_Localized: "KAMIENNY PR\xD3G"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570014
+    m_Localized: "KA\u017BDY BOHATER MA W\u0141ASNE POCHODZENIE I POWODY, BY STAN\u0104\u0106 DO PR\xD3B."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570015
+    m_Localized: "KA\u017BDY \u017BYWIO\u0141 MA DWA KONKURENCYJNE KIERUNKI ROZWOJU."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570016
+    m_Localized: "KLIKNIJ Z\u0141OTE POLE, BY POSTAWI\u0106 LUB USUN\u0104\u0106 WIE\u017B\u0118. OKR\u0118GI POKAZUJ\u0104 ZASI\u0118G."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570017
+    m_Localized: KODEKS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570018
+    m_Localized: KONCEPCJA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570019
+    m_Localized: "KONTROLA RUCHU I SPOWOLNIENIA. ROZW\xD3J: GLACIER LUB ICE LANCE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570020
+    m_Localized: "KORZENNA PRZYSTA\u0143"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570021
+    m_Localized: KOTOPERZ PATKA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570022
+    m_Localized: "KROK W CIE\u0143"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570023
+    m_Localized: "KRUK CIE\u0143"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570024
+    m_Localized: "KRUK PRZYJMUJE CZ\u0118\u015A\u0106 OBRA\u017BE\u0143 DZI\u0118KI WI\u0118ZI; W OBRONIE UTRUDNIA ORIENTACJ\u0118."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570025
+    m_Localized: "Kamienny Pr\xF3g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570026
+    m_Localized: Kamienny pancerz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570027
+    m_Localized: "Ka\u017Cdy bohater ma w\u0142asne pochodzenie i powody, by stan\u0105\u0107 do Pr\xF3b."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570028
+    m_Localized: "Ka\u017Cdy \u017Cywio\u0142 ma dwa konkurencyjne kierunki rozwoju."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570029
+    m_Localized: "Kliknij z\u0142ote pole, by postawi\u0107 lub usun\u0105\u0107 wie\u017C\u0119. Okr\u0119gi pokazuj\u0105 zasi\u0119g."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570030
+    m_Localized: "Kontrola ruchu i spowolnienia. Rozw\xF3j: Glacier lub Ice Lance."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570031
+    m_Localized: "Korzenna Przysta\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570032
+    m_Localized: "Krok w cie\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570033
+    m_Localized: "Kruk przyjmuje cz\u0119\u015B\u0107 obra\u017Ce\u0144 dzi\u0119ki wi\u0119zi; w obronie utrudnia orientacj\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570034
+    m_Localized: "LATA ODBUDOWY ZNISZCZONYCH P\xD3L NAUCZY\u0141Y J\u0104, \u017BE NAJSILNIEJSZY OBRO\u0143CA ZOSTAJE Z TY\u0141U, DOP\xD3KI INNI NIE S\u0104 BEZPIECZNI. \u0141\u0104CZY WYTRZYMA\u0141O\u015A\u0106 Z TROSK\u0104 O DRU\u017BYN\u0118."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570035
+    m_Localized: LATARNIA AURELU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570036
+    m_Localized: "LATARNICZKA, KT\xD3RA POMAGA DRU\u017BYNIE DOSTRZEC ZAGRO\u017BENIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570037
+    m_Localized: "LECZENIE I NAPRAWA OS\u0141ON"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570038
+    m_Localized: "LECZY SOJUSZNIK\xD3W I MOBY W POBLI\u017BU PRZEZ 5 S."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570039
+    m_Localized: "LINIA W KOLORZE WIE\u017BY OSTRZEGA O PRZYGOTOWYWANYM STRZALE. WIE\u017BE CELUJ\u0104 Z WYPRZEDZENIEM; MURY BLOKUJ\u0104 POCISKI.\n\nOGIE\u0143 \u2014 OBRA\u017BENIA OBSZAROWE I PODPALENIE.\nL\xD3D \u2014 WYCH\u0141ODZENIE I WOLNIEJSZY RUCH.\nB\u0141YSKAWICE \u2014 PRZESKOK NA POBLISKIEGO SOJUSZNIKA.\nNATURA \u2014 TRUCIZNA ZADAJ\u0104CA OBRA\u017BENIA W CZASIE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570040
+    m_Localized: LIS ISKRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570041
+    m_Localized: "LIS PRZECHWYTUJE POCISK I TWORZY STREF\u0118 \u017BARU; W OBRONIE WSPIERA PRESJ\u0118 OBSZAROW\u0104 WIE\u017BY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570042
+    m_Localized: "LODOWA SABOTA\u017BYSTKA, KT\xD3RA OTWIERA DRU\u017BYNIE BEZPIECZNE PRZEJ\u015ACIE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570043
+    m_Localized: "LODOWY TARCZOWNIK \u2014 KIERUNEK DO ZAPROJEKTOWANIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570044
+    m_Localized: "Lata odbudowy zniszczonych p\xF3l nauczy\u0142y j\u0105, \u017Ce najsilniejszy obro\u0144ca zostaje z ty\u0142u, dop\xF3ki inni nie s\u0105 bezpieczni. \u0141\u0105czy wytrzyma\u0142o\u015B\u0107 z trosk\u0105 o dru\u017Cyn\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570045
+    m_Localized: Latarnia Aurelu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570046
+    m_Localized: "Latarniczka, kt\xF3ra pomaga dru\u017Cynie dostrzec zagro\u017Cenia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570047
+    m_Localized: "Leczenie i naprawa os\u0142on"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570048
+    m_Localized: "Leczy sojusznik\xF3w i moby w pobli\u017Cu przez 5 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570049
+    m_Localized: "Linia w kolorze wie\u017Cy ostrzega o przygotowywanym strzale. Wie\u017Ce celuj\u0105 z wyprzedzeniem; mury blokuj\u0105 pociski.\n\nOGIE\u0143 \u2014 obra\u017Cenia obszarowe i podpalenie.\nL\xD3D \u2014 wych\u0142odzenie i wolniejszy ruch.\nB\u0141YSKAWICE \u2014 przeskok na pobliskiego sojusznika.\nNATURA \u2014 trucizna zadaj\u0105ca obra\u017Cenia w czasie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570050
+    m_Localized: "Lis przechwytuje pocisk i tworzy stref\u0119 \u017Caru; w obronie wspiera presj\u0119 obszarow\u0105 wie\u017Cy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570051
+    m_Localized: "Lodowa sabota\u017Cystka, kt\xF3ra otwiera dru\u017Cynie bezpieczne przej\u015Bcie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570052
+    m_Localized: "Lodowy tarczownik \u2014 kierunek do zaprojektowania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570053
+    m_Localized: "L\xD3D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570054
+    m_Localized: "L\xF3d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570055
+    m_Localized: "MAPA  \xB7  N \u2191"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570056
+    m_Localized: "MECZ DRU\u017BYNOWY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570057
+    m_Localized: "MENU G\u0141\xD3WNE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570058
+    m_Localized: META
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570059
+    m_Localized: "META {0}/{1}  \u2022  {2}: {3}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570060
+    m_Localized: "MG\u0141A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570061
+    m_Localized: "MG\u0141A POJAWIA SI\u0118 PO 5 S, SPOWALNIA I Z CZASEM ZADAJE CORAZ WI\u0118KSZE OBRA\u017BENIA. STATUSY WIDA\u0106 NAD PASKIEM HP; KOLOROWE LICZBY OBRA\u017BE\u0143 UNOSZ\u0104 SI\u0118 NAD POSTACI\u0104."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570062
+    m_Localized: "MG\u0141A pojawia si\u0119 po 5 s, spowalnia i z czasem zadaje coraz wi\u0119ksze obra\u017Cenia. Statusy wida\u0107 nad paskiem HP; kolorowe liczby obra\u017Ce\u0144 unosz\u0105 si\u0119 nad postaci\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570063
+    m_Localized: "MILCZ\u0104CY STRA\u017BNIK CIENIA, KT\xD3RY ZMIENIA OSTRZA\u0141 W OKAZJ\u0118 DO UNIKU."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570064
+    m_Localized: "MILCZ\u0104CY STRA\u017BNIK POJAWI\u0141 SI\u0118 W PORCIE PO WOJNIE. NIKT NIE POTWIERDZI\u0141, CZY ZOSTA\u0141 SKONSTRUOWANY, CZY UKSZTA\u0141TOWANY INACZEJ; SAM SKUPIA SI\u0118 NA OCHRONIE INNYCH."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570065
+    m_Localized: "MISTRZ ZAK\u0141\xD3CE\u0143, KT\xD3RY ZACIERA INFORMACJE I DEZORIENTUJE AUTOMATY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570066
+    m_Localized: "MROZOODPORNO\u015A\u0106"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570067
+    m_Localized: "Mg\u0142a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570068
+    m_Localized: "Milcz\u0105cy stra\u017Cnik cienia, kt\xF3ry zmienia ostrza\u0142 w okazj\u0119 do uniku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570069
+    m_Localized: "Milcz\u0105cy stra\u017Cnik pojawi\u0142 si\u0119 w porcie po wojnie. Nikt nie potwierdzi\u0142, czy zosta\u0142 skonstruowany, czy ukszta\u0142towany inaczej; sam skupia si\u0119 na ochronie innych."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570070
+    m_Localized: "Mistrz zak\u0142\xF3ce\u0144, kt\xF3ry zaciera informacje i dezorientuje automaty."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570071
+    m_Localized: "Mrozoodporno\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570072
+    m_Localized: "NA KR\xD3TKO UJAWNIA WIE\u017BE W WYBRANYM FRAGMENCIE TRASY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570073
+    m_Localized: "NA KR\xD3TKO WYKRYWA RUNNER\xD3W I MOBY W WYBRANYM OBSZARZE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570074
+    m_Localized: "NA MINIMAPIE: TY \u2014 Z\u0141OTY, AI \u2014 B\u0141\u0118KITNY, CZERWONY KRZY\u017B \u2014 MIEJSCE \u015AMIERCI. W PANELU DRU\u017BYNY ZOBACZYSZ HP, STATUSY I DYSTANS DO METY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570075
+    m_Localized: "NAJPIERW LICZY SI\u0118 LICZBA RUNNER\xD3W NA MECIE, POTEM CZAS LUB NAJDALSZY POST\u0118P."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570076
+    m_Localized: NATURA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570077
+    m_Localized: "NIE USTALONO POKREWIE\u0143STWA Z TRZEMA SIOSTRAMI; JEJ RODZINA POZOSTAJE OTWARTA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570078
+    m_Localized: "NIEZ\u0141OMNY OBRO\u0143CA, KT\xD3RY OS\u0141ANIA DRU\u017BYN\u0118 PRZED OSTRZA\u0141EM."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570079
+    m_Localized: "Na kr\xF3tko ujawnia wie\u017Ce w wybranym fragmencie trasy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570080
+    m_Localized: "Na kr\xF3tko wykrywa Runner\xF3w i moby w wybranym obszarze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570081
+    m_Localized: "Na minimapie: TY \u2014 z\u0142oty, AI \u2014 b\u0142\u0119kitny, czerwony krzy\u017C \u2014 miejsce \u015Bmierci. W panelu dru\u017Cyny zobaczysz HP, statusy i dystans do mety."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570082
+    m_Localized: "Najpierw liczy si\u0119 liczba Runner\xF3w na mecie, potem czas lub najdalszy post\u0119p."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570083
+    m_Localized: Natura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570084
+    m_Localized: "Nie ustalono pokrewie\u0144stwa z trzema siostrami; jej rodzina pozostaje otwarta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570085
+    m_Localized: "Niez\u0142omny obro\u0144ca, kt\xF3ry os\u0142ania dru\u017Cyn\u0119 przed ostrza\u0142em."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570086
+    m_Localized: "OBRA\u017BENIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570087
+    m_Localized: "OBRA\u017BENIA NATURY ROZ\u0141O\u017BONE W CZASIE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570088
+    m_Localized: "OBRA\u017BENIA OGNIA ROZ\u0141O\u017BONE W CZASIE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570089
+    m_Localized: OBRONA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570090
+    m_Localized: "OBRONA \xB7 CIE\u0143 BASTIONU"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570091
+    m_Localized: "OBRONA \xB7 IMPULS ZWIADU"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570092
+    m_Localized: "OBRONA \xB7 KAMIENNA ZBROJA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570093
+    m_Localized: "OBRONA \xB7 KORZENNA OS\u0141ONA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570094
+    m_Localized: "OBRONA \xB7 LODOWA STREFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570095
+    m_Localized: "OBRONA \xB7 NAPRAWA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570096
+    m_Localized: "OBRONA \xB7 ODMRO\u017BENIE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570097
+    m_Localized: "OBRONA \xB7 OGNISTY ZNACZNIK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570098
+    m_Localized: "OBRONA \xB7 ROZGRZANA ZBROJA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570099
+    m_Localized: "OBRONA \xB7 SZYBKI ZAP\u0141ON"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570100
+    m_Localized: "OBRONA \xB7 ZAS\u0141ONA OBRONY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570101
+    m_Localized: "OBRONA \xB7 \u015AWIETLNY DOZ\xD3R"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570102
+    m_Localized: "OBRO\u0143CA \u015AWIAT\u0141A \u2014 KIERUNEK DO ZAPROJEKTOWANIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570103
+    m_Localized: "OBSZAR I PODPALENIE. ROZW\xD3J: MAGMA LUB INFERNO."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570104
+    m_Localized: "OCHRONA CIENIEM \u2014 KIERUNEK DO ZAPROJEKTOWANIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570105
+    m_Localized: OCZY MROKU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570106
+    m_Localized: OCZYSZCZANIE I OCHRONA PRZED SPOWOLNIENIEM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570107
+    m_Localized: "ODKRYJ KODEKS  \u2197"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570108
+    m_Localized: "ODNAWIA 46 OS\u0141ONY WIE\u017BY I OGRANICZA OBRA\u017BENIA PRZEZ 4 S."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570109
+    m_Localized: "ODNAWIA 66 HP I 44 OS\u0141ONY WYBRANEJ \u017BYWEJ WIE\u017BY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570110
+    m_Localized: "OGIE\u0143"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570111
+    m_Localized: "OGIE\u0143 {0:F1}S  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570112
+    m_Localized: "OGIE\u0143 {0:F1}s  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570113
+    m_Localized: "ONE LUCKY BASTARD: CZTERY WYNIKI PO 25% \u2014 ZATRZYMANIE WIE\u017BY NA 5 S, TRWA\u0141E WY\u0141\u0104CZENIE W OBRONIE, 50% SZANSY NA PUD\u0141O DO KO\u0143CA RUNDY ALBO PECHOWO +50% SZYBKO\u015ACI ATAKU WIE\u017BY NA 5 S. SZCZEG\xD3\u0141Y DO USTALENIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570114
+    m_Localized: "OPANCERZONY PRZEWODNIK BURZY \u2014 KIERUNEK DO ZAPROJEKTOWANIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570115
+    m_Localized: "OPIEKUNKA, KT\xD3RA USUWA SPOWOLNIENIA I PRZYWRACA SPRAWNO\u015A\u0106 WIE\u017BOM."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570116
+    m_Localized: "OPISY I WARTO\u015ACI S\u0104 KONCEPCJ\u0104; WI\u0104\u017B\u0104CE DECYZJE ZNAJDUJ\u0104 SI\u0118 W GDD."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570117
+    m_Localized: "OSTRZE\u017BENIE PRZED STRZA\u0141EM"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570118
+    m_Localized: "OS\u0141ONA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570119
+    m_Localized: "OS\u0141ONA CIENIA I SPOWALNIANIE POCISK\xD3W"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570120
+    m_Localized: "OS\u0141ONA \u2212{0:0.#}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570121
+    m_Localized: "OTRZYMUJE O 10% MNIEJ OBRA\u017BE\u0143 OD BEZPO\u015AREDNICH TRAFIE\u0143."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570122
+    m_Localized: "OTRZYMUJE O 15% MNIEJ OBRA\u017BE\u0143 OGNIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570123
+    m_Localized: "OTRZYMUJE O 15% WI\u0118CEJ LECZENIA; WZMACNIA W\u0141ASN\u0104 NAPRAW\u0118 OS\u0141ONY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570124
+    m_Localized: "OTRZYMUJE O 20% MNIEJ OBRA\u017BE\u0143 OKRESOWYCH. W OBRONIE PREMIA CHRONI PILOTOWAN\u0104 WIE\u017B\u0118."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570125
+    m_Localized: "OZNACZA RUNNERA JAKO PREFEROWANY CEL AUTOMATYCZNYCH WIE\u017B."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570126
+    m_Localized: "Obra\u017Cenia Natury roz\u0142o\u017Cone w czasie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570127
+    m_Localized: "Obra\u017Cenia Ognia roz\u0142o\u017Cone w czasie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570128
+    m_Localized: "Obrona \xB7 Cie\u0144 bastionu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570129
+    m_Localized: "Obrona \xB7 Impuls zwiadu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570130
+    m_Localized: "Obrona \xB7 Kamienna zbroja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570131
+    m_Localized: "Obrona \xB7 Korzenna os\u0142ona"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570132
+    m_Localized: "Obrona \xB7 Lodowa strefa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570133
+    m_Localized: "Obrona \xB7 Naprawa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570134
+    m_Localized: "Obrona \xB7 Odmro\u017Cenie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570135
+    m_Localized: "Obrona \xB7 Ognisty znacznik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570136
+    m_Localized: "Obrona \xB7 Rozgrzana zbroja"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570137
+    m_Localized: "Obrona \xB7 Szybki zap\u0142on"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570138
+    m_Localized: "Obrona \xB7 Zas\u0142ona obrony"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570139
+    m_Localized: "Obrona \xB7 \u015Awietlny doz\xF3r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570140
+    m_Localized: "Obro\u0144ca \u015Bwiat\u0142a \u2014 kierunek do zaprojektowania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570141
+    m_Localized: "Obszar i podpalenie. Rozw\xF3j: Magma lub Inferno."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570142
+    m_Localized: "Ochrona cieniem \u2014 kierunek do zaprojektowania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570143
+    m_Localized: Oczy mroku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570144
+    m_Localized: Oczyszczanie i ochrona przed spowolnieniem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570145
+    m_Localized: "Odnawia 46 os\u0142ony wie\u017Cy i ogranicza obra\u017Cenia przez 4 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570146
+    m_Localized: "Odnawia 66 HP i 44 os\u0142ony wybranej \u017Cywej wie\u017Cy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570147
+    m_Localized: "Ogie\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570148
+    m_Localized: "One Lucky Bastard: cztery wyniki po 25% \u2014 zatrzymanie wie\u017Cy na 5 s, trwa\u0142e wy\u0142\u0105czenie w obronie, 50% szansy na pud\u0142o do ko\u0144ca rundy albo pechowo +50% szybko\u015Bci ataku wie\u017Cy na 5 s. Szczeg\xF3\u0142y do ustalenia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570149
+    m_Localized: "Opancerzony przewodnik burzy \u2014 kierunek do zaprojektowania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570150
+    m_Localized: "Opiekunka, kt\xF3ra usuwa spowolnienia i przywraca sprawno\u015B\u0107 wie\u017Com."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570151
+    m_Localized: "Opisy i warto\u015Bci s\u0105 koncepcj\u0105; wi\u0105\u017C\u0105ce decyzje znajduj\u0105 si\u0119 w GDD."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570152
+    m_Localized: "Ostrze\u017Cenie przed strza\u0142em"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570153
+    m_Localized: "Os\u0142ona cienia i spowalnianie pocisk\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570154
+    m_Localized: "Otrzymuje o 10% mniej obra\u017Ce\u0144 od bezpo\u015Brednich trafie\u0144."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570155
+    m_Localized: "Otrzymuje o 15% mniej obra\u017Ce\u0144 Ognia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570156
+    m_Localized: "Otrzymuje o 15% wi\u0119cej leczenia; wzmacnia w\u0142asn\u0105 napraw\u0119 os\u0142ony."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570157
+    m_Localized: "Otrzymuje o 20% mniej obra\u017Ce\u0144 okresowych. W obronie premia chroni pilotowan\u0105 wie\u017C\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570158
+    m_Localized: "Oznacza Runnera jako preferowany cel automatycznych wie\u017C."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570159
+    m_Localized: "PANCERNIK KRZEMIE\u0143"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570160
+    m_Localized: "PANCERNIK OS\u0141ANIA PRZED POCISKAMI BEZ BLOKOWANIA TRASY; W OBRONIE CHRONI WIE\u017B\u0118."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570161
+    m_Localized: PANDA BOB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570162
+    m_Localized: "PIERWSZA MAPA TO ZNANY OBU DRU\u017BYNOM LABIRYNT: OD \u015ARODKA PROWADZI JEDNA KR\u0118TA TRASA NA ZEWN\u0104TRZ."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570163
+    m_Localized: "PIERWSZA PR\xD3BA 3D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570164
+    m_Localized: "PO U\u017BYCIU UMIEJ\u0118TNO\u015ACI NA CHWIL\u0118 PRZYSPIESZA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570165
+    m_Localized: "PO U\u017BYCIU UMIEJ\u0118TNO\u015ACI PORUSZA SI\u0118 SZYBCIEJ PRZEZ 2 S."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570166
+    m_Localized: "PO U\u017BYCIU ZDOLNO\u015ACI TRUDNIEJ GO WYKRY\u0106 PRZEZ KR\xD3TKI CZAS."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570167
+    m_Localized: "PO WYNISZCZAJ\u0104CEJ WOJNIE KRAINY ROZSTRZYGAJ\u0104 CZ\u0118\u015A\u0106 SPOR\xD3W POPRZEZ OBOWI\u0104ZKOWE PR\xD3BY DRU\u017BYN W LABIRYNTACH."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570168
+    m_Localized: POCHODZENIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570169
+    m_Localized: "POCH\u0141ANIA OBRA\u017BENIA PRZED PUNKTAMI ZDROWIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570170
+    m_Localized: "PODATNO\u015A\u0106"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570171
+    m_Localized: "PODATNO\u015A\u0106 I SKONCENTROWANY OSTRZA\u0141. ROZW\xD3J: CURSE LUB VOID."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570172
+    m_Localized: "PODEJD\u0179 BLI\u017BEJ WIE\u017BY, ABY J\u0104 ZAATAKOWA\u0106."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570173
+    m_Localized: "PODEJD\u0179 BLI\u017BEJ WIE\u017BY, ABY U\u017BY\u0106 UMIEJ\u0118TNO\u015ACI."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570174
+    m_Localized: PODPALENIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570175
+    m_Localized: PODPALENIE {0:F1}S
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570176
+    m_Localized: PODPALENIE {0:F1}s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570177
+    m_Localized: "POGARSZA CELNO\u015A\u0106 AUTOMATYCZNEGO OGNIA WYBRANEJ WIE\u017BY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570178
+    m_Localized: POJEDYNEK BRAM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570179
+    m_Localized: POKONANY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570180
+    m_Localized: "POSTA\u0106 W KODEKSIE  \xB7  NIEGRYWALNA W PR\xD3BIE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570181
+    m_Localized: "POSTA\u0106 W PRZYGOTOWANIU."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570182
+    m_Localized: "POTWIERD\u0179 SOJUSZNIKA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570183
+    m_Localized: "POTWIERD\u0179 SWOJEGO BOHATERA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570184
+    m_Localized: "POZNAJ BOHATER\xD3W, ZAGRO\u017BENIA I ZASADY PR\xD3B."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570185
+    m_Localized: "POZNAWA\u0141 DOLIN\u0118 JAKO PRZEWODNIK EKIP ODNAWIAJ\u0104CYCH STARE DROGI. SZUKA ZASTOSOWA\u0143 PN\u0104CZY, KT\xD3RE POMAGAJ\u0104 PRZEJ\u015A\u0106 TRUDNY TEREN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570186
+    m_Localized: "PRACOWA\u0141A PRZY KALIBRACJI EMITER\xD3W I NAUCZY\u0141A SI\u0118 ROZPOZNAWA\u0106 S\u0141ABE PUNKTY MECHANIZM\xD3W. W PR\xD3BACH WYKORZYSTUJE T\u0118 WIEDZ\u0118 DO PRECYZYJNEGO SABOTA\u017BU."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570187
+    m_Localized: "PRACOWA\u0141A PRZY NAPRAWIE PRZEKA\u0179NIK\xD3W, GDZIE SEKUNDY CZ\u0118STO DECYDOWA\u0141Y, CZY WIADOMO\u015A\u0106 DOTRZE NA CZAS. W PR\xD3BACH UCZY SOJUSZNIK\xD3W DZIA\u0141A\u0106 W JEDNYM RYTMIE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570188
+    m_Localized: "PRE-POC  \xB7  OFFLINE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570189
+    m_Localized: "PRECYZYJNA SPECJALISTKA PRZE\u0141AMUJ\u0104CA WYBRANE PUNKTY OBRONY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570190
+    m_Localized: "PRECYZYJNE USZKADZANIE WIE\u017B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570191
+    m_Localized: "PROTOTYP KONCEPCJI. ZASADY, OPISY, OPRAWA I BALANS POZOSTAJ\u0104 DO TEST\xD3W."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570192
+    m_Localized: "PROWADZI\u0141 RUCHOM\u0104 LATARNI\u0118 DLA EKIP PODR\xD3\u017BUJ\u0104CYCH MI\u0118DZY OSADAMI; JEGO CIEP\u0141O I OPTYMIZM POMAGAJ\u0104 UTRZYMA\u0106 DRU\u017BYN\u0118 RAZEM."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570193
+    m_Localized: "PRZED PR\xD3B\u0104 \xB7 CO TESTUJEMY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570194
+    m_Localized: "PRZEJD\u0179 DO PR\xD3BY  \u2192"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570195
+    m_Localized: "PRZESKOK B\u0141YSKAWICY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570196
+    m_Localized: "PRZEZ 4 S SPOWALNIA POBLISKIE LEC\u0104CE POCISKI O 50%."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570197
+    m_Localized: "PRZEZ LATA ZABEZPIECZA\u0141A PIECE I TRANSPORT SPLOTYTU, UCZ\u0104C SI\u0118 ZATRZYMYWA\u0106 \u017BAR, ZANIM ZAGROZI INNYM. W PR\xD3BACH OS\u0141ANIA DRU\u017BYN\u0118 I WZMACNIA WIE\u017BE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570198
+    m_Localized: "PRZYCIEMNIENI BOHATEROWIE S\u0104 NIEDOST\u0118PNI W TEJ PR\xD3BIE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570199
+    m_Localized: "PRZYGOTUJ BOHATERA I POZNAJ LABIRYNT PRZED W\u0141A\u015ACIW\u0104 ROZGRYWK\u0104."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570200
+    m_Localized: "PRZYGOTUJ SI\u0118  /  TRYBY GRY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570201
+    m_Localized: "PRZYSPIESZA POBLISKICH RUNNER\xD3W I MOBY O 25% NA 3 S."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570202
+    m_Localized: "PRZYWO\u0141YWACZ"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570203
+    m_Localized: "PR\xD3BA 3D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570204
+    m_Localized: "PR\xD3BA BOHATERA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570205
+    m_Localized: "PR\xD3BY DAJ\u0104 MU SZANS\u0118 WYWALCZY\u0106 DOST\u0118P DO CZ\u0118\u015ACI POTRZEBNYCH OKOLICZNYM STACJOM."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570206
+    m_Localized: "PUNKT WYJ\u015ACIA TO OKO\u0141O 360 M DROGI, BEZ SKR\xD3T\xD3W I \u015ALEPYCH ZAU\u0141K\xD3W."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570207
+    m_Localized: "Pancernik os\u0142ania przed pociskami bez blokowania trasy; w obronie chroni wie\u017C\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570208
+    m_Localized: "Pierwsza mapa to znany obu dru\u017Cynom labirynt: od \u015Brodka prowadzi jedna kr\u0119ta trasa na zewn\u0105trz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570209
+    m_Localized: "Po u\u017Cyciu umiej\u0119tno\u015Bci na chwil\u0119 przyspiesza."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570210
+    m_Localized: "Po u\u017Cyciu umiej\u0119tno\u015Bci porusza si\u0119 szybciej przez 2 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570211
+    m_Localized: "Po u\u017Cyciu zdolno\u015Bci trudniej go wykry\u0107 przez kr\xF3tki czas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570212
+    m_Localized: "Po wyniszczaj\u0105cej wojnie krainy rozstrzygaj\u0105 cz\u0119\u015B\u0107 spor\xF3w poprzez obowi\u0105zkowe Pr\xF3by dru\u017Cyn w labiryntach."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570213
+    m_Localized: "Poch\u0142ania obra\u017Cenia przed punktami zdrowia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570214
+    m_Localized: "Podatno\u015B\u0107 i skoncentrowany ostrza\u0142. Rozw\xF3j: Curse lub Void."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570215
+    m_Localized: "Podejd\u017A bli\u017Cej wie\u017Cy, aby j\u0105 zaatakowa\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570216
+    m_Localized: "Podejd\u017A bli\u017Cej wie\u017Cy, aby u\u017Cy\u0107 umiej\u0119tno\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570217
+    m_Localized: "Pogarsza celno\u015B\u0107 automatycznego ognia wybranej wie\u017Cy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570218
+    m_Localized: "Posta\u0107 w przygotowaniu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570219
+    m_Localized: "Poznaj bohater\xF3w, zagro\u017Cenia i zasady Pr\xF3b."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570220
+    m_Localized: "Poznawa\u0142 dolin\u0119 jako przewodnik ekip odnawiaj\u0105cych stare drogi. Szuka zastosowa\u0144 pn\u0105czy, kt\xF3re pomagaj\u0105 przej\u015B\u0107 trudny teren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570221
+    m_Localized: "Pracowa\u0142a przy kalibracji emiter\xF3w i nauczy\u0142a si\u0119 rozpoznawa\u0107 s\u0142abe punkty mechanizm\xF3w. W Pr\xF3bach wykorzystuje t\u0119 wiedz\u0119 do precyzyjnego sabota\u017Cu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570222
+    m_Localized: "Pracowa\u0142a przy naprawie przeka\u017Anik\xF3w, gdzie sekundy cz\u0119sto decydowa\u0142y, czy wiadomo\u015B\u0107 dotrze na czas. W Pr\xF3bach uczy sojusznik\xF3w dzia\u0142a\u0107 w jednym rytmie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570223
+    m_Localized: "Precyzyjna specjalistka prze\u0142amuj\u0105ca wybrane punkty obrony."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570224
+    m_Localized: "Precyzyjne uszkadzanie wie\u017C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570225
+    m_Localized: "Prototyp koncepcji. Zasady, opisy, oprawa i balans pozostaj\u0105 do test\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570226
+    m_Localized: "Prowadzi\u0142 ruchom\u0105 latarni\u0119 dla ekip podr\xF3\u017Cuj\u0105cych mi\u0119dzy osadami; jego ciep\u0142o i optymizm pomagaj\u0105 utrzyma\u0107 dru\u017Cyn\u0119 razem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570227
+    m_Localized: "Przeskok b\u0142yskawicy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570228
+    m_Localized: "Przez 4 s spowalnia pobliskie lec\u0105ce pociski o 50%."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570229
+    m_Localized: "Przez lata zabezpiecza\u0142a piece i transport splotytu, ucz\u0105c si\u0119 zatrzymywa\u0107 \u017Car, zanim zagrozi innym. W Pr\xF3bach os\u0142ania dru\u017Cyn\u0119 i wzmacnia wie\u017Ce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570230
+    m_Localized: "Przyciemnieni bohaterowie s\u0105 niedost\u0119pni w tej pr\xF3bie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570231
+    m_Localized: "Przygotuj bohatera i poznaj labirynt przed w\u0142a\u015Bciw\u0105 rozgrywk\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570232
+    m_Localized: "Przyspiesza pobliskich Runner\xF3w i moby o 25% na 3 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570233
+    m_Localized: "Przywo\u0142ywacz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570234
+    m_Localized: "Pr\xF3by daj\u0105 mu szans\u0119 wywalczy\u0107 dost\u0119p do cz\u0119\u015Bci potrzebnych okolicznym stacjom."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570235
+    m_Localized: "Punkt wyj\u015Bcia to oko\u0142o 360 m drogi, bez skr\xF3t\xF3w i \u015Blepych zau\u0142k\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570236
+    m_Localized: "Q: {0}   \u2022   SPACJA / UNIK: {1}   \u2022   OS\u0141ONA: {2:F0}   \u2022   WASD: RUCH   \u2022   MYSZ: KAMERA   \u2022   ESC: KURSOR"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570237
+    m_Localized: "REAKCJE \u017BYWIO\u0141\xD3W"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570238
+    m_Localized: "REPREZENTUJE DZIELNICE WARSZTATOWE, KT\xD3RE WALCZ\u0104 O SPRAWIEDLIWY DOST\u0118P DO PALIWA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570239
+    m_Localized: "REPREZENTUJE G\xD3RNICZ\u0104 SPO\u0141ECZNO\u015A\u0106 ZABIEGAJ\u0104C\u0104 O BEZPIECZNY SZLAK ZAOPATRZENIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570240
+    m_Localized: "REPREZENTUJE MIESZKA\u0143C\xD3W UTRZYMUJ\u0104CYCH \u0141\u0104CZNO\u015A\u0106 NA MNIEJ DOCHODOWYCH ODCINKACH SZLAKU."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570241
+    m_Localized: "REPREZENTUJE ZA\u0141OGI PRZE\u0141\u0118CZY WALCZ\u0104CE O R\xD3WNY PODZIA\u0141 CZASU KORZYSTANIA ZE SZLAKU."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570242
+    m_Localized: RESZTKOWY IMPULS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570243
+    m_Localized: "RIAN \xB7 Q: ZADAJE OBRA\u017BENIA POBLISKIEJ WIE\u017BY. PODEJD\u0179 W JEJ ZASI\u0118G."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570244
+    m_Localized: "RIAN \xB7 Q: zadaje obra\u017Cenia pobliskiej wie\u017Cy. Podejd\u017A w jej zasi\u0119g."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570245
+    m_Localized: RIFTORYN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570246
+    m_Localized: "RIFTORYN  /  PIERWSZA PR\xD3BA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570247
+    m_Localized: "RIFTORYN  /  PR\xD3BA BOHATERA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570248
+    m_Localized: RODZINA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570249
+    m_Localized: "RODZINA NIE ZOSTA\u0141A JESZCZE OPISANA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570250
+    m_Localized: "ROLA \xD7 \u017BYWIO\u0141  \xB7  WYBIERZ PORTRET, ABY POZNA\u0106 BOHATERA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570251
+    m_Localized: "ROZPOCZNIJ PR\xD3B\u0118"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570252
+    m_Localized: "ROZPOCZNIJ PR\xD3B\u0118  \u2192"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570253
+    m_Localized: "ROZPOCZNIJ PR\xD3B\u0118 \u2192"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570254
+    m_Localized: "RUNNERZY PORUSZAJ\u0104 SI\u0118 PO LABIRYNCIE, UNIKAJ\u0104 OSTRZA\u0141U I U\u017BYWAJ\u0104 ZDOLNO\u015ACI."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570255
+    m_Localized: "RY\u015A OS\u0141ANIA BOHATERK\u0118 I ZOSTAWIA \u015ALISKI \u015ALAD; W OBRONIE WSPIERA KONTROL\u0118 RUCHU."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570256
+    m_Localized: "RY\u015A SZRON"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570257
+    m_Localized: "RZEMIE\u015ALNICZKA ODPOWIEDZIALNA ZA NAPRAW\u0118 NARZ\u0118DZI I ZABEZPIECZE\u0143 W KOPALNIACH. WOLI ZROZUMIE\u0106 URZ\u0104DZENIE, ZANIM PODEJMIE RYZYKO."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570258
+    m_Localized: "RZEMIOS\u0141O I NAPRAWA \u2014 KIERUNEK DO ZAPROJEKTOWANIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570259
+    m_Localized: "Reprezentuje dzielnice warsztatowe, kt\xF3re walcz\u0105 o sprawiedliwy dost\u0119p do paliwa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570260
+    m_Localized: "Reprezentuje g\xF3rnicz\u0105 spo\u0142eczno\u015B\u0107 zabiegaj\u0105c\u0105 o bezpieczny szlak zaopatrzenia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570261
+    m_Localized: "Reprezentuje mieszka\u0144c\xF3w utrzymuj\u0105cych \u0142\u0105czno\u015B\u0107 na mniej dochodowych odcinkach szlaku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570262
+    m_Localized: "Reprezentuje za\u0142ogi prze\u0142\u0119czy walcz\u0105ce o r\xF3wny podzia\u0142 czasu korzystania ze szlaku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570263
+    m_Localized: Resztkowy impuls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570264
+    m_Localized: "Rodzina nie zosta\u0142a jeszcze opisana."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570265
+    m_Localized: "Rola \xD7 \u017Cywio\u0142  \xB7  wybierz portret, aby pozna\u0107 bohatera"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570266
+    m_Localized: "Runnerzy poruszaj\u0105 si\u0119 po labiryncie, unikaj\u0105 ostrza\u0142u i u\u017Cywaj\u0105 zdolno\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570267
+    m_Localized: "Ry\u015B os\u0142ania bohaterk\u0119 i zostawia \u015Bliski \u015Blad; w obronie wspiera kontrol\u0119 ruchu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570268
+    m_Localized: "Rzemie\u015Blniczka odpowiedzialna za napraw\u0119 narz\u0119dzi i zabezpiecze\u0144 w kopalniach. Woli zrozumie\u0107 urz\u0105dzenie, zanim podejmie ryzyko."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570269
+    m_Localized: "Rzemios\u0142o i naprawa \u2014 kierunek do zaprojektowania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570270
+    m_Localized: "SABOTA\u017B I OS\u0141ONA INFORMACJI"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570271
+    m_Localized: SERCE LABIRYNTU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570272
+    m_Localized: "SIEDEM \u017BYWIO\u0141\xD3W"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570273
+    m_Localized: "SIEDEM \u017BYWIO\u0141\xD3W ROZPOCZYNA SI\u0118 OD PODSTAWOWYCH RDZENI TECHNOLOGII."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570274
+    m_Localized: "SIOSTRA ELIRY I LIORY; ICH WYBORY DRU\u017BYN NIE MUSZ\u0104 BY\u0106 JEDNAKOWE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570275
+    m_Localized: "SIOSTRA NIVY I ELIRY; PODOBNY WYGL\u0104D NIE DAJE PREMII W GRZE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570276
+    m_Localized: "SIOSTRA NIVY I LIORY; ICH RODZINNE POCHODZENIE NIE WYMUSZA WSP\xD3LNEGO SK\u0141ADU."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570277
+    m_Localized: "SI\u0118 NAPRAWI (PROPOZYCJA): CZTERY WYNIKI PO 25% \u2014 50 OS\u0141ONY, +50% SZYBKO\u015ACI ATAKU NA 5 S, +50% PR\u0118DKO\u015ACI POCISK\xD3W NA 5 S ALBO PECHOWE ZATRZYMANIE WIE\u017BY NA 3 S."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570278
+    m_Localized: SOJUSZNIK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570279
+    m_Localized: 'SOJUSZNIK AI
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570280
+    m_Localized: "SOK\xD3\u0141 GROM"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570281
+    m_Localized: "SOK\xD3\u0141 PRZECHWYTUJE POCISKI I SZYBKO DOCIERA DO CELU; W OBRONIE POMAGA OZNACZA\u0106 RUNNER\xD3W."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570282
+    m_Localized: SPECJALISTA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570283
+    m_Localized: "SPECJALISTA WIE\u017B: WIE\u017BY PILOTOWANEJ PRZEZ ADRIENA NIE MO\u017BNA W \u017BADEN SPOS\xD3B ZATRZYMA\u0106."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570284
+    m_Localized: SPECJALIZACJA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570285
+    m_Localized: "SPL\u0104TANIE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570286
+    m_Localized: "SPOWOLNIENIA DZIA\u0141AJ\u0104CE NA NI\u0104 S\u0104 O 15% S\u0141ABSZE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570287
+    m_Localized: "SPOWOLNIENIA S\u0104 S\u0141ABSZE, A WY\u0141\u0104CZENIA PILOTOWANEJ WIE\u017BY KR\xD3TSZE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570288
+    m_Localized: "SPOWOLNIENIE RUCHU POCHODZ\u0104CE OD LODU."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570289
+    m_Localized: "SPOWOLNIENIE ZWI\u0104ZANE Z NATUR\u0104; SZCZEG\xD3\u0141Y POZOSTAJ\u0104 OTWARTE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570290
+    m_Localized: "STANDARDOWY UK\u0141AD: 5 WIE\u017B. WIDOCZNE OKR\u0118GI POKAZUJ\u0104 ZASI\u0118G."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570291
+    m_Localized: "STARSZY OPIEKUN PORTOWYCH ARCHIW\xD3W PRZEZ LATA POMAGA\u0141 PRZEWO\u0179NIKOM CHRONI\u0106 INFORMACJE O NIEBEZPIECZNYCH ODCINKACH DROGI."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570292
+    m_Localized: "STARTUJE W IMIENIU PRZEWO\u0179NIK\xD3W, KT\xD3RZY DOMAGAJ\u0104 SI\u0118 BEZPIECZNYCH I UCZCIWIE PRZYDZIELANYCH TRAS."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570293
+    m_Localized: "STARTUJE, ABY CHRONI\u0106 NIEZALE\u017BNO\u015A\u0106 O\u015ARODKA PRZECHOWUJ\u0104CEGO DOKUMENTACJ\u0118 SZLAK\xD3W."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570294
+    m_Localized: "STARTUJE, BY WESPRZE\u0106 WYMIAN\u0118 ZAOPATRZENIA MI\u0118DZY DOLIN\u0104 A P\xD3\u0141NOC\u0104."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570295
+    m_Localized: STATUSY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570296
+    m_Localized: STATUSY I EFEKTY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570297
+    m_Localized: "STATYSTYKI I UMIEJ\u0118TNO\u015ACI TEJ POSTACI POZOSTAJ\u0104 W PRZYGOTOWANIU."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570298
+    m_Localized: STEROWANIE I CEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570299
+    m_Localized: "STRA\u017BNICZKA KORZENI I REGENERACJI"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570300
+    m_Localized: "STRA\u017BNICZKA KORZENI, KT\xD3RA PRZYJMUJE OSTRZA\u0141 I PODTRZYMUJE POBLISKICH SOJUSZNIK\xD3W."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570301
+    m_Localized: "STRA\u017BNICZKA \u017BARU I OS\u0141ON"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570302
+    m_Localized: "SZCZEG\xD3\u0141OWE ZASADY REAKCJI POZOSTAJ\u0104 DO USTALENIA; NIE NALE\u017B\u0104 DO PIERWSZEGO PRE-POC."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570303
+    m_Localized: "SZCZEG\xD3\u0141Y W PRZYGOTOWANIU."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570304
+    m_Localized: "SZKOLI\u0141 SI\u0118 JAKO OBSERWATOR SZLAK\xD3W; JAKO WYNALAZCA TWORZY PRYZMATYCZNE PRZYRZ\u0104DY POMAGAJ\u0104CE DOSTRZEGA\u0106 ZAGRO\u017BENIA I OZNACZA\u0106 BEZPIECZNE PRZEJ\u015ACIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570305
+    m_Localized: "SZYBKI OSTRZA\u0141 I \u0141A\u0143CUCH TRAFIE\u0143. ROZW\xD3J: TEMPEST LUB LANCER."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570306
+    m_Localized: SZYBKI ZWIAD I ELEKTROIMPULS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570307
+    m_Localized: "SZYBKO\u015A\u0106 I ENERGIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570308
+    m_Localized: "Sabota\u017C i os\u0142ona informacji"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570309
+    m_Localized: "Siedem \u017Cywio\u0142\xF3w rozpoczyna si\u0119 od podstawowych rdzeni technologii."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570310
+    m_Localized: "Siostra Eliry i Liory; ich wybory dru\u017Cyn nie musz\u0105 by\u0107 jednakowe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570311
+    m_Localized: "Siostra Nivy i Eliry; podobny wygl\u0105d nie daje premii w grze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570312
+    m_Localized: "Siostra Nivy i Liory; ich rodzinne pochodzenie nie wymusza wsp\xF3lnego sk\u0142adu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570313
+    m_Localized: "Si\u0119 Naprawi (propozycja): cztery wyniki po 25% \u2014 50 os\u0142ony, +50% szybko\u015Bci ataku na 5 s, +50% pr\u0119dko\u015Bci pocisk\xF3w na 5 s albo pechowe zatrzymanie wie\u017Cy na 3 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570314
+    m_Localized: Sojusznik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570315
+    m_Localized: "Sok\xF3\u0142 przechwytuje pociski i szybko dociera do celu; w obronie pomaga oznacza\u0107 Runner\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570316
+    m_Localized: Specjalista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570317
+    m_Localized: "Specjalista wie\u017C: wie\u017Cy pilotowanej przez Adriena nie mo\u017Cna w \u017Caden spos\xF3b zatrzyma\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570318
+    m_Localized: "Spowolnienia dzia\u0142aj\u0105ce na ni\u0105 s\u0105 o 15% s\u0142absze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570319
+    m_Localized: "Spowolnienia s\u0105 s\u0142absze, a wy\u0142\u0105czenia pilotowanej wie\u017Cy kr\xF3tsze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570320
+    m_Localized: "Spowolnienie ruchu pochodz\u0105ce od Lodu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570321
+    m_Localized: "Spowolnienie zwi\u0105zane z Natur\u0105; szczeg\xF3\u0142y pozostaj\u0105 otwarte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570322
+    m_Localized: "Standardowy uk\u0142ad: 5 wie\u017C. Widoczne okr\u0119gi pokazuj\u0105 zasi\u0119g."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570323
+    m_Localized: "Starszy opiekun portowych archiw\xF3w przez lata pomaga\u0142 przewo\u017Anikom chroni\u0107 informacje o niebezpiecznych odcinkach drogi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570324
+    m_Localized: "Startuje w imieniu przewo\u017Anik\xF3w, kt\xF3rzy domagaj\u0105 si\u0119 bezpiecznych i uczciwie przydzielanych tras."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570325
+    m_Localized: "Startuje, aby chroni\u0107 niezale\u017Cno\u015B\u0107 o\u015Brodka przechowuj\u0105cego dokumentacj\u0119 szlak\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570326
+    m_Localized: "Startuje, by wesprze\u0107 wymian\u0119 zaopatrzenia mi\u0119dzy dolin\u0105 a p\xF3\u0142noc\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570327
+    m_Localized: "Statystyki i umiej\u0119tno\u015Bci tej postaci pozostaj\u0105 w przygotowaniu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570328
+    m_Localized: "Stra\u017Cniczka korzeni i regeneracji"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570329
+    m_Localized: "Stra\u017Cniczka korzeni, kt\xF3ra przyjmuje ostrza\u0142 i podtrzymuje pobliskich sojusznik\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570330
+    m_Localized: "Stra\u017Cniczka \u017Caru i os\u0142on"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570331
+    m_Localized: "Szczeg\xF3\u0142owe zasady reakcji pozostaj\u0105 do ustalenia; nie nale\u017C\u0105 do pierwszego pre-PoC."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570332
+    m_Localized: "Szczeg\xF3\u0142y w przygotowaniu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570333
+    m_Localized: "Szkoli\u0142 si\u0119 jako obserwator szlak\xF3w; jako wynalazca tworzy pryzmatyczne przyrz\u0105dy pomagaj\u0105ce dostrzega\u0107 zagro\u017Cenia i oznacza\u0107 bezpieczne przej\u015Bcia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570334
+    m_Localized: "Szybki ostrza\u0142 i \u0142a\u0144cuch trafie\u0144. Rozw\xF3j: Tempest lub Lancer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570335
+    m_Localized: Szybki zwiad i elektroimpuls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570336
+    m_Localized: "Szybko\u015B\u0107 i energia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570337
+    m_Localized: "TARCZA I OCHRONA WIE\u017B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570338
+    m_Localized: "TKACZ \u015AWIAT\u0141A, WYNALAZCA I ZWIADOWCA \u2014 KIERUNEK DO ZAPROJEKTOWANIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570339
+    m_Localized: "TKACZKA ODNOWY, KT\xD3RA LECZY DRU\u017BYN\u0118 I WZMACNIA OBRON\u0118."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570340
+    m_Localized: "TO WERSJA TESTOWA: ZWR\xD3\u0106 UWAG\u0118, CZY WIDZISZ OSTRZA\u0141, ROZUMIESZ PRZYCZYN\u0118 OBRA\u017BE\u0143 I MASZ CZAS ZAREAGOWA\u0106."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570341
+    m_Localized: TOWARZYSZ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570342
+    m_Localized: "TOWARZYSZ \xB7 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570343
+    m_Localized: TRASA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570344
+    m_Localized: TRENING BOHATERA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570345
+    m_Localized: "TRENING PRZYGOTOWUJE BOHATERA DO PRZYSZ\u0141YCH ZMAGA\u0143; MASTERY POZOSTAJE POMYS\u0141EM DO DALSZEGO ZAPROJEKTOWANIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570346
+    m_Localized: TROSKA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570347
+    m_Localized: TRUCIZNA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570348
+    m_Localized: "TRUCIZNA I KONTROLA RUCHU. ROZW\xD3J: VINES LUB THORNS."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570349
+    m_Localized: TRUCIZNA {0:F1}S
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570350
+    m_Localized: 'TRUCIZNA {0:F1}S  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570351
+    m_Localized: TRUCIZNA {0:F1}s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570352
+    m_Localized: 'TRUCIZNA {0:F1}s  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570353
+    m_Localized: "TWOJA DRU\u017BYNA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570354
+    m_Localized: "TWORZY NA TRASIE OBSZAR SPOWALNIAJ\u0104CY PRZECIWNIK\xD3W."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570355
+    m_Localized: "TWORZY OS\u0141ON\u0118 100 DLA SIEBIE I 50 DLA POBLISKICH RUNNER\xD3W NA 5 S."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570356
+    m_Localized: "TWORZY POLE LECZ\u0104CE SOJUSZNIK\xD3W I MOBY PRZEZ 5 S."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570357
+    m_Localized: TY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570358
+    m_Localized: 'TY
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570359
+    m_Localized: 'TY
+
+      WYBIERA TERAZ'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570360
+    m_Localized: "Tarcza i ochrona wie\u017C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570361
+    m_Localized: "Tkacz \u015Awiat\u0142a, wynalazca i zwiadowca \u2014 kierunek do zaprojektowania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570362
+    m_Localized: "Tkaczka odnowy, kt\xF3ra leczy dru\u017Cyn\u0119 i wzmacnia obron\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570363
+    m_Localized: "To wersja testowa: zwr\xF3\u0107 uwag\u0119, czy widzisz ostrza\u0142, rozumiesz przyczyn\u0119 obra\u017Ce\u0144 i masz czas zareagowa\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570364
+    m_Localized: "Trening przygotowuje bohatera do przysz\u0142ych zmaga\u0144; mastery pozostaje pomys\u0142em do dalszego zaprojektowania."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570365
+    m_Localized: Troska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570366
+    m_Localized: "Trucizna i kontrola ruchu. Rozw\xF3j: Vines lub Thorns."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570367
+    m_Localized: "Tworzy na trasie obszar spowalniaj\u0105cy przeciwnik\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570368
+    m_Localized: "Tworzy os\u0142on\u0119 100 dla siebie i 50 dla pobliskich Runner\xF3w na 5 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570369
+    m_Localized: "Tworzy pole lecz\u0105ce sojusznik\xF3w i moby przez 5 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570370
+    m_Localized: "UCIECZKA: ANA WO\u0141A BOBA I KARMI GO BAMBUSEM, BY ODNOWI\u0106 CZ\u0118\u015A\u0106 JEGO HP (PROPOZYCJA). OBRONA: CO 30 S BOB ZESKAKUJE Z MUR\xD3W, ATAKUJE NAJBLI\u017BSZEGO RUNNERA ZA 10 BAZOWYCH OBRA\u017BE\u0143 NATURY I WRACA DO ANY. PODCZAS ATAKU JEST NIEZNISZCZALNY I NIEPOWSTRZYMANY; RUNNERZY MOG\u0104 SI\u0118 CHRONI\u0106."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570371
+    m_Localized: "UCIECZKA: PATKA SZYBKO LATA W K\xD3\u0141KO, SKUPIAJ\u0104C NA SOBIE OGIE\u0143 WIE\u017BY; PODCZAS MANEWRU MA 75% SZANSY NA UNIKNI\u0118CIE OBRA\u017BE\u0143, PO CZYM WRACA DO KONEVY. SZCZEG\xD3\u0141Y I UMIEJ\u0118TNO\u015A\u0106 OBRONNA WYMAGAJ\u0104 USTALENIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570372
+    m_Localized: "UK\u0141AD WROGICH WIE\u017B JEST ODKRYWANY W CZASIE ATAKU; ZAPAMI\u0118TANY STAN MO\u017BE SI\u0118 ZESTARZE\u0106."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570373
+    m_Localized: "UMIEJ\u0118TNO\u015A\u0106 PASYWNA  /  "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570374
+    m_Localized: "USUWA CZASOWE WY\u0141\u0104CZENIE JEDNEJ \u017BYWEJ WIE\u017BY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570375
+    m_Localized: USUWA SPOWOLNIENIE SOJUSZNIKA I CHRONI PRZED NIM PRZEZ 2 S.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570376
+    m_Localized: "UTRUDNIA ODKRYWANIE NIEZNANYCH WIE\u017B W WYBRANYM OBSZARZE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570377
+    m_Localized: "UTRUDNIA WSKAZANIE WYBRANEJ WIE\u017BY Z WI\u0118KSZEJ ODLEG\u0141O\u015ACI."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570378
+    m_Localized: "Ucieczka: Ana wo\u0142a Boba i karmi go bambusem, by odnowi\u0107 cz\u0119\u015B\u0107 jego HP (propozycja). Obrona: co 30 s Bob zeskakuje z mur\xF3w, atakuje najbli\u017Cszego Runnera za 10 bazowych obra\u017Ce\u0144 Natury i wraca do Any. Podczas ataku jest niezniszczalny i niepowstrzymany; Runnerzy mog\u0105 si\u0119 chroni\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570379
+    m_Localized: "Ucieczka: Patka szybko lata w k\xF3\u0142ko, skupiaj\u0105c na sobie ogie\u0144 wie\u017Cy; podczas manewru ma 75% szansy na unikni\u0119cie obra\u017Ce\u0144, po czym wraca do Konevy. Szczeg\xF3\u0142y i umiej\u0119tno\u015B\u0107 obronna wymagaj\u0105 ustalenia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570380
+    m_Localized: "Uk\u0142ad wrogich wie\u017C jest odkrywany w czasie ataku; zapami\u0119tany stan mo\u017Ce si\u0119 zestarze\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570381
+    m_Localized: "Usuwa czasowe wy\u0142\u0105czenie jednej \u017Cywej wie\u017Cy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570382
+    m_Localized: Usuwa spowolnienie sojusznika i chroni przed nim przez 2 s.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570383
+    m_Localized: "Utrudnia odkrywanie nieznanych wie\u017C w wybranym obszarze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570384
+    m_Localized: "Utrudnia wskazanie wybranej wie\u017Cy z wi\u0119kszej odleg\u0142o\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570385
+    m_Localized: "W OBECNYM PROTOTYPIE WIDZISZ SPIRAL\u0118, AUTOMATYCZNE WIE\u017BE I TESTOW\u0104 MG\u0141\u0118."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570386
+    m_Localized: W PRZYGOTOWANIU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570387
+    m_Localized: "W PRZYSZ\u0141O\u015ACI DWIE DRU\u017BYNY ZBUDUJ\u0104 OBRON\u0118 I ZMIERZ\u0104 SI\u0118 Z LABIRYNTEM PRZECIWNIKA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570388
+    m_Localized: "W PR\xD3BACH BRONI PROJEKTU BEZPIECZNIEJSZEJ DROGI DO WYROBISK."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570389
+    m_Localized: "W PR\xD3BACH WALCZY O ZAOPATRZENIE DLA DOLINY I \u015ARODKI NA ODBUDOW\u0118."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570390
+    m_Localized: "W Pr\xF3bach broni projektu bezpieczniejszej drogi do wyrobisk."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570391
+    m_Localized: "W Pr\xF3bach walczy o zaopatrzenie dla doliny i \u015Brodki na odbudow\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570392
+    m_Localized: "W obecnym prototypie widzisz spiral\u0119, automatyczne wie\u017Ce i testow\u0105 mg\u0142\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570393
+    m_Localized: "W przysz\u0142o\u015Bci dwie dru\u017Cyny zbuduj\u0105 obron\u0119 i zmierz\u0105 si\u0119 z labiryntem przeciwnika."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570394
+    m_Localized: "WARSTWY MG\u0141Y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570395
+    m_Localized: "WASD \u2014 RUCH  \xB7  MYSZ \u2014 KAMERA\nSPACJA \u2014 UNIK; PODCZAS PRZEWROTU POCISKI NIE RANI\u0104. ODNOWIENIE 10 S.\nQ \u2014 UMIEJ\u0118TNO\u015A\u0106 BOHATERA.\nESC \u2014 ZWOLNIJ LUB PRZECHWY\u0106 KURSOR."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570396
+    m_Localized: "WASD \u2014 ruch  \xB7  mysz \u2014 kamera\nSPACJA \u2014 unik; podczas przewrotu pociski nie rani\u0105. Odnowienie 10 s.\nQ \u2014 umiej\u0119tno\u015B\u0107 bohatera.\nESC \u2014 zwolnij lub przechwy\u0107 kursor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570397
+    m_Localized: "WEJD\u0179 DO LABIRYNTU, POZNAJ BOHATER\xD3W I SPRAWD\u0179 SWOJE UMIEJ\u0118TNO\u015ACI POD OSTRZA\u0141EM WIE\u017B."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570398
+    m_Localized: "WIDOCZNO\u015A\u0106"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570399
+    m_Localized: "WIELOLETNI OPIEKUN LATARNI I KONWOJ\xD3W, ZNANY Z TEGO, \u017BE NIE ZOSTAWIA TOWARZYSZY NA NIEBEZPIECZNEJ DRODZE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570400
+    m_Localized: "WIE\u017BA "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570401
+    m_Localized: "WIE\u017BA: "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570402
+    m_Localized: "WIE\u017BA: B\u0141YSKAWICE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570403
+    m_Localized: "WIE\u017BA: L\xD3D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570404
+    m_Localized: "WIE\u017BA: NATURA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570405
+    m_Localized: "WIE\u017BA: OGIE\u0143"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570406
+    m_Localized: "WIE\u017BE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570407
+    m_Localized: "WIE\u017BE DZIA\u0141AJ\u0104 AUTOMATYCZNIE; W DOCELOWEJ GRZE DEFENDERZY MOG\u0104 JE TAK\u017BE PILOTOWA\u0106."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570408
+    m_Localized: "WIE\u017BE STOJ\u0104 NA WYZNACZONYCH POLACH MUR\xD3W; RUNNERZY PRZEMIERZAJ\u0104 DROG\u0118."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570409
+    m_Localized: "WIE\u017BE \u017BYWIO\u0141\xD3W"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570410
+    m_Localized: "WKR\xD3TCE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570411
+    m_Localized: WSPARCIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570412
+    m_Localized: "WSPARCIE \u017BARU \u2014 KIERUNEK DO ZAPROJEKTOWANIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570413
+    m_Localized: "WSPIERA DRU\u017BYN\u0118 ZABIEGAJ\u0104C\u0104 O BEZPIECZNE PRZEJ\u015ACIE DLA KONWOJ\xD3W."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570414
+    m_Localized: "WSP\xD3LNE INWESTYCJE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570415
+    m_Localized: WYBIERA TERAZ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570416
+    m_Localized: WYBIERZ AUTOMATYCZNIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570417
+    m_Localized: WYBIERZ BOHATERA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570418
+    m_Localized: "WYBIERZ BOHATERA, PRZYGOTUJ AUTOMATYCZNE WIE\u017BE I PRZEJD\u0179 SPIRALNY LABIRYNT SAM LUB Z SOJUSZNIKIEM AI."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570419
+    m_Localized: "WYBIERZ PORTRET, ABY ZOBACZY\u0106 INFORMACJE O BOHATERZE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570420
+    m_Localized: "WYBIERZ PORTRET, SPRAWD\u0179 BOHATERA I POTWIERD\u0179 WYB\xD3R."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570421
+    m_Localized: "WYBIERZ SWOJ\u0104 PR\xD3B\u0118"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570422
+    m_Localized: "WYBRANA WIE\u017BA OTRZYMUJE O 30% MNIEJ OBRA\u017BE\u0143 PRZEZ 5 S."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570423
+    m_Localized: "WYBRANA WIE\u017BA OTRZYMUJE TYMCZASOW\u0104 OS\u0141ON\u0118 80 NA 5 S."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570424
+    m_Localized: WYBRANY PRZEZ GRACZA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570425
+    m_Localized: "WYCH\u0141ODZENIE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570426
+    m_Localized: "WYKRYTE CELE POZOSTAJ\u0104 WIDOCZNE DLA DRU\u017BYNY O SEKUND\u0118 D\u0141U\u017BEJ."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570427
+    m_Localized: "WYKRYWA RUNNER\xD3W I MOBY W WYBRANYM SEKTORZE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570428
+    m_Localized: "WYKRYWANIE I PRECYZYJNY OSTRZA\u0141. ROZW\xD3J: BEACON LUB RAY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570429
+    m_Localized: WYNIK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570430
+    m_Localized: "WYSTAWIA TARCZ\u0118 NA 4 S. SOJUSZNICY MOG\u0104 UKRY\u0106 SI\u0118 ZA NI\u0104."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570431
+    m_Localized: "WYST\u0118PUJE DLA WSP\xD3LNOTY PRZE\u0141\u0118CZY, ABY UTRZYMA\u0106 DOST\u0118P DO ZAOPATRZENIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570432
+    m_Localized: "WYST\u0118PUJE NA RZECZ EKIP, KT\xD3RE CHC\u0104 PRZEZNACZY\u0106 CZ\u0118\u015A\u0106 ZASOB\xD3W NA BEZPIECZE\u0143STWO PRACY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570433
+    m_Localized: "WYST\u0118PUJE, ABY POPRAWI\u0106 DOST\u0118P MNIEJSZYCH OSAD DO DANYCH Z OBSERWATORI\xD3W."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570434
+    m_Localized: "WYTRZYMA\u0141A WOJOWNICZKA, KT\xD3RA CHRONI SOJUSZNIK\xD3W OS\u0141ONAMI Z \u017BARU."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570435
+    m_Localized: "WYTRZYMA\u0141O\u015A\u0106 I CI\u0118\u017BKIE TRAFIENIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570436
+    m_Localized: "WY\u0141\u0104CZA JEDN\u0104 ODKRYT\u0104 WIE\u017B\u0118 NA 2 S."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570437
+    m_Localized: "WY\u0141\u0104CZA JEDN\u0104 ODKRYT\u0104 WIE\u017B\u0118 NA 3 S."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570438
+    m_Localized: "WY\u0141\u0104CZENIE WIE\u017BY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570439
+    m_Localized: "Warstwy mg\u0142y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570440
+    m_Localized: "Wejd\u017A do labiryntu, poznaj bohater\xF3w i sprawd\u017A swoje umiej\u0119tno\u015Bci pod ostrza\u0142em wie\u017C."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570441
+    m_Localized: "Wieloletni opiekun latarni i konwoj\xF3w, znany z tego, \u017Ce nie zostawia towarzyszy na niebezpiecznej drodze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570442
+    m_Localized: "Wie\u017Ca "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570443
+    m_Localized: "Wie\u017Ce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570444
+    m_Localized: "Wie\u017Ce dzia\u0142aj\u0105 automatycznie; w docelowej grze Defenderzy mog\u0105 je tak\u017Ce pilotowa\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570445
+    m_Localized: "Wie\u017Ce stoj\u0105 na wyznaczonych polach mur\xF3w; Runnerzy przemierzaj\u0105 drog\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570446
+    m_Localized: Wsparcie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570447
+    m_Localized: "Wsparcie \u017Caru \u2014 kierunek do zaprojektowania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570448
+    m_Localized: "Wspiera dru\u017Cyn\u0119 zabiegaj\u0105c\u0105 o bezpieczne przej\u015Bcie dla konwoj\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570449
+    m_Localized: "Wybierz bohatera, przygotuj automatyczne wie\u017Ce i przejd\u017A spiralny labirynt sam lub z sojusznikiem AI."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570450
+    m_Localized: "Wybierz portret, aby zobaczy\u0107 informacje o bohaterze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570451
+    m_Localized: "Wybierz portret, sprawd\u017A bohatera i potwierd\u017A wyb\xF3r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570452
+    m_Localized: "Wybrana wie\u017Ca otrzymuje o 30% mniej obra\u017Ce\u0144 przez 5 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570453
+    m_Localized: "Wybrana wie\u017Ca otrzymuje tymczasow\u0105 os\u0142on\u0119 80 na 5 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570454
+    m_Localized: "Wykryte cele pozostaj\u0105 widoczne dla dru\u017Cyny o sekund\u0119 d\u0142u\u017Cej."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570455
+    m_Localized: "Wykrywa Runner\xF3w i moby w wybranym sektorze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570456
+    m_Localized: "Wykrywanie i precyzyjny ostrza\u0142. Rozw\xF3j: Beacon lub Ray."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570457
+    m_Localized: "Wystawia tarcz\u0119 na 4 s. Sojusznicy mog\u0105 ukry\u0107 si\u0119 za ni\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570458
+    m_Localized: "Wyst\u0119puje dla wsp\xF3lnoty prze\u0142\u0119czy, aby utrzyma\u0107 dost\u0119p do zaopatrzenia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570459
+    m_Localized: "Wyst\u0119puje na rzecz ekip, kt\xF3re chc\u0105 przeznaczy\u0107 cz\u0119\u015B\u0107 zasob\xF3w na bezpiecze\u0144stwo pracy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570460
+    m_Localized: "Wyst\u0119puje, aby poprawi\u0107 dost\u0119p mniejszych osad do danych z obserwatori\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570461
+    m_Localized: "Wytrzyma\u0142a wojowniczka, kt\xF3ra chroni sojusznik\xF3w os\u0142onami z \u017Caru."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570462
+    m_Localized: "Wytrzyma\u0142o\u015B\u0107 i ci\u0119\u017Ckie trafienia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570463
+    m_Localized: "Wy\u0142\u0105cza jedn\u0105 odkryt\u0105 wie\u017C\u0119 na 2 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570464
+    m_Localized: "Wy\u0142\u0105cza jedn\u0105 odkryt\u0105 wie\u017C\u0119 na 3 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570465
+    m_Localized: "W\u0141ASNE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570466
+    m_Localized: "W\u0142asne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570467
+    m_Localized: "Z RODZINNEJ DOLINY WYJECHA\u0141A DO LATARNI AURELU, BY UCZY\u0106 SI\u0118 MAPOWANIA I PRACY OBSERWATOR\xD3W. JEJ \u015AWIAT\u0141O POMAGA DRU\u017BYNIE ZOBACZY\u0106 ZAGRO\u017BENIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570468
+    m_Localized: "Z rodzinnej doliny wyjecha\u0142a do Latarni Aurelu, by uczy\u0107 si\u0119 mapowania i pracy obserwator\xF3w. Jej \u015Bwiat\u0142o pomaga dru\u017Cynie zobaczy\u0107 zagro\u017Cenia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570469
+    m_Localized: "ZABIEGA O \u015ARODKI DLA LECZNIC I ODBUDOWY P\xD3L."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570470
+    m_Localized: "ZADAJE 100 OBRA\u017BE\u0143 WYBRANEJ ODKRYTEJ WIE\u017BY."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570471
+    m_Localized: ZAGRAJ PONOWNIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570472
+    m_Localized: "ZAGRO\u017BENIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570473
+    m_Localized: "ZAK\u0141\xD3CENIA I OS\u0141ABIENIA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570474
+    m_Localized: "ZAMRA\u017BANIE WIE\u017B I KONTROLA TRASY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570475
+    m_Localized: ZASADY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570476
+    m_Localized: ZASADY RIFTORYN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570477
+    m_Localized: "ZET \xB7 Q: WY\u0141\u0104CZA POBLISK\u0104 WIE\u017B\u0118 I PRZYSPIESZA CI\u0118 NA CHWIL\u0118. PODEJD\u0179 W JEJ ZASI\u0118G."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570478
+    m_Localized: "ZET \xB7 Q: wy\u0142\u0105cza poblisk\u0105 wie\u017C\u0119 i przyspiesza Ci\u0119 na chwil\u0119. Podejd\u017A w jej zasi\u0119g."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570479
+    m_Localized: ZIEMIA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570480
+    m_Localized: ZIMNY KROK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570481
+    m_Localized: "ZNA LODOWE URZ\u0104DZENIA U\u017BYWANE DO UTRZYMYWANIA MAGAZYN\xD3W; NAUCZY\u0141A SI\u0118 CZASOWO UNIERUCHAMIA\u0106 MECHANIZMY, NIE NISZCZ\u0104C CA\u0141EJ SIECI."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570482
+    m_Localized: "ZOSTA\u0141A W DOLINIE, ABY POMAGA\u0106 RANNYM I ODBUDOWYWA\u0106 MIEJSCA PO DAWNYCH WALKACH. W DRU\u017BYNIE LECZY ORAZ WZMACNIA OBRON\u0118."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570483
+    m_Localized: "ZWIAD I MAGIA RO\u015ALIN \u2014 KIERUNEK DO ZAPROJEKTOWANIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570484
+    m_Localized: "ZWI\u0118KSZA OTRZYMYWANE OBRA\u017BENIA PRZEZ OKRE\u015ALONY CZAS."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570485
+    m_Localized: "Zabiega o \u015Brodki dla lecznic i odbudowy p\xF3l."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570486
+    m_Localized: "Zadaje 100 obra\u017Ce\u0144 wybranej odkrytej wie\u017Cy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570487
+    m_Localized: "Zak\u0142\xF3cenia i os\u0142abienia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570488
+    m_Localized: "Zamra\u017Canie wie\u017C i kontrola trasy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570489
+    m_Localized: Ziemia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570490
+    m_Localized: Zimny krok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570491
+    m_Localized: "Zna lodowe urz\u0105dzenia u\u017Cywane do utrzymywania magazyn\xF3w; nauczy\u0142a si\u0119 czasowo unieruchamia\u0107 mechanizmy, nie niszcz\u0105c ca\u0142ej sieci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570492
+    m_Localized: "Zosta\u0142a w dolinie, aby pomaga\u0107 rannym i odbudowywa\u0107 miejsca po dawnych walkach. W dru\u017Cynie leczy oraz wzmacnia obron\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570493
+    m_Localized: "Zwiad i magia ro\u015Blin \u2014 kierunek do zaprojektowania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570494
+    m_Localized: "Zwi\u0119ksza otrzymywane obra\u017Cenia przez okre\u015Blony czas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570495
+    m_Localized: "jele\u0144 Blask"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570496
+    m_Localized: kotoperz Patka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570497
+    m_Localized: "kruk Cie\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570498
+    m_Localized: lis Iskra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570499
+    m_Localized: meta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570500
+    m_Localized: "pancernik Krzemie\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570501
+    m_Localized: panda Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570502
+    m_Localized: pokonany
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570503
+    m_Localized: "ry\u015B Szron"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570504
+    m_Localized: "sok\xF3\u0142 Grom"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570505
+    m_Localized: "{0}  \xB7  OS\u0141ONA {1}  \xB7  DO METY {2} M"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570506
+    m_Localized: "{0}  \xB7  OS\u0141ONA {1}  \xB7  DO METY {2} m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570507
+    m_Localized: '{0} POSTACI  /  KONCEPCJE'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570508
+    m_Localized: "\u015AWIAT"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570509
+    m_Localized: "\u015AWIAT I PR\xD3BY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570510
+    m_Localized: "\u015AWIAT SIEDMIU KRAIN I ICH ODMIENNYCH \u017BYWIO\u0141\xD3W. NAZWY I SZCZEG\xD3\u0141Y \u015AWIATA POZOSTAJ\u0104 PROPOZYCJ\u0104."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570511
+    m_Localized: "\u015AWIAT\u0141O"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570512
+    m_Localized: "\u015AWIAT\u0141O, WYKRYWANIE I ZWIAD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570513
+    m_Localized: "\u015Awiat siedmiu krain i ich odmiennych \u017Cywio\u0142\xF3w. Nazwy i szczeg\xF3\u0142y \u015Bwiata pozostaj\u0105 propozycj\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570514
+    m_Localized: "\u015Awiat\u0142o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570515
+    m_Localized: "\u015Awiat\u0142o, wykrywanie i zwiad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570516
+    m_Localized: "\u017BAR I PRESJA OBSZAROWA."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570517
+    m_Localized: "\u017BAROODPORNO\u015A\u0106"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570518
+    m_Localized: "\u017BAROWISKO VARETH"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570519
+    m_Localized: "\u017BYWIO\u0141Y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570520
+    m_Localized: "\u017BYWIO\u0141Y R\xD3\u017BNICUJ\u0104 BOHATER\xD3W, WIE\u017BE I ODDZIA\u0141Y; SZCZEG\xD3\u0141Y BALANSU PODLEGAJ\u0104 TESTOM."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570521
+    m_Localized: "\u017BYWOTNE KORZENIE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570522
+    m_Localized: "\u017Bar i presja obszarowa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570523
+    m_Localized: "\u017Baroodporno\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570524
+    m_Localized: "\u017Barowisko Vareth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570525
+    m_Localized: "\u017Bywio\u0142y r\xF3\u017Cnicuj\u0105 bohater\xF3w, wie\u017Ce i oddzia\u0142y; szczeg\xF3\u0142y balansu podlegaj\u0105 testom."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570526
+    m_Localized: "\u017Bywotne korzenie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570527
+    m_Localized: "\u2190 MENU"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570528
+    m_Localized: "\u2190 MENU G\u0141\xD3WNE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570529
+    m_Localized: "\u2190 POWR\xD3T"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570530
+    m_Localized: "\u2190 ZMIE\u0143 USTAWIENIE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570531
+    m_Localized: "\u2726  PR\xD3BA BOHATERA  /  WYB\xD3R DRU\u017BYNY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518551515136
+    m_Localized: "STATYSTYKI PR\xD3BY"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401216
+    m_Localized: STATYSTYKI PROJEKTOWE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401217
+    m_Localized: ATAK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401218
+    m_Localized: RUCH m/s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401219
+    m_Localized: "PET: {0} \xB7 HP {1} \xB7 ATAK {2} \xB7 RUCH {3}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401220
+    m_Localized: "* Testowy atak E przeciw wie\u017Cy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401221
+    m_Localized: "UMIEJ\u0118TNO\u015ACI"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401222
+    m_Localized: OBRONA*
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401223
+    m_Localized: "OPIS UMIEJ\u0118TNO\u015ACI"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401224
+    m_Localized: "Najed\u017A na umiej\u0119tno\u015B\u0107, aby zobaczy\u0107 jej opis."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401225
+    m_Localized: "Brak opisanych umiej\u0119tno\u015Bci."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401226
+    m_Localized: "Planowana pasywka; nie dzia\u0142a jeszcze w pr\xF3bie. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401227
+    m_Localized: "Umiej\u0119tno\u015B\u0107 projektowa, niedost\u0119pna w pr\xF3bie. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401228
+    m_Localized: "Tworzy os\u0142on\u0119 100 dla Ciebie oraz 50 dla pobliskiego sojusznika na 5 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401229
+    m_Localized: "Otrzymujesz o 15% mniej bezpo\u015Brednich obra\u017Ce\u0144 Ognia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401230
+    m_Localized: "Zadaje 100 obra\u017Ce\u0144 najbli\u017Cszej wie\u017Cy w zasi\u0119gu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401231
+    m_Localized: "Wy\u0142\u0105cza najbli\u017Csz\u0105 wie\u017C\u0119 w zasi\u0119gu na 2 s i zwi\u0119ksza Twoj\u0105 pr\u0119dko\u015B\u0107 o 20% na 2 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11233979908096
+    m_Localized: "Atak podstawowy niedost\u0119pny w pr\xF3bie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12022257401856
+    m_Localized: "Opis koncepcji zobaczysz po najechaniu poni\u017Cej."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18648725045248
+    m_Localized: OPIS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18648796348416
+    m_Localized: "Najed\u017A na umiej\u0119tno\u015B\u0107 lub peta, aby zobaczy\u0107 opis."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18648796348417
+    m_Localized: "Opis towarzysza \u2014 koncepcja niedost\u0119pna w pr\xF3bie. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19111151255552
+    m_Localized: "Najed\u017A na towarzysza poni\u017Cej, aby zobaczy\u0107 opis."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

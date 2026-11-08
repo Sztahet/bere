@@ -1,0 +1,274 @@
+{
+  "heroes": [
+    {
+      "id": "brom",
+      "hp": 180,
+      "attack": 14,
+      "speed": 4.0,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "thora",
+      "hp": 165,
+      "attack": 14,
+      "speed": 4.1,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "morrak",
+      "hp": 170,
+      "attack": 14,
+      "speed": 4.2,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "kael",
+      "hp": 170,
+      "attack": 14,
+      "speed": 4.4,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "iskar",
+      "hp": 175,
+      "attack": 14,
+      "speed": 4.1,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "taren",
+      "hp": 165,
+      "attack": 14,
+      "speed": 4.2,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "orien",
+      "hp": 170,
+      "attack": 14,
+      "speed": 4.3,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "liora",
+      "hp": 120,
+      "attack": 10,
+      "speed": 4.8,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "elira",
+      "hp": 120,
+      "attack": 10,
+      "speed": 4.8,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "varek",
+      "hp": 115,
+      "attack": 10,
+      "speed": 4.9,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "niva",
+      "hp": 125,
+      "attack": 10,
+      "speed": 4.7,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "solan",
+      "hp": 120,
+      "attack": 10,
+      "speed": 4.8,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "dara",
+      "hp": 125,
+      "attack": 10,
+      "speed": 4.7,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "nocten",
+      "hp": 115,
+      "attack": 10,
+      "speed": 4.9,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "rian",
+      "hp": 110,
+      "attack": 20,
+      "speed": 5.6,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "saila",
+      "hp": 105,
+      "attack": 20,
+      "speed": 5.5,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "zet",
+      "hp": 100,
+      "attack": 20,
+      "speed": 5.8,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "morven",
+      "hp": 105,
+      "attack": 20,
+      "speed": 5.6,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "miko",
+      "hp": 105,
+      "attack": 20,
+      "speed": 5.8,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "eron",
+      "hp": 110,
+      "attack": 20,
+      "speed": 5.5,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "kiran",
+      "hp": 115,
+      "attack": 20,
+      "speed": 5.5,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "adrien",
+      "hp": 105,
+      "attack": 20,
+      "speed": 5.7,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
+      "id": "pyrra",
+      "hp": 60,
+      "attack": 8,
+      "speed": 5.2,
+      "petHp": 65,
+      "petAttack": 12,
+      "petSpeed": 6.0
+    },
+    {
+      "id": "eira",
+      "hp": 60,
+      "attack": 8,
+      "speed": 5.2,
+      "petHp": 85,
+      "petAttack": 14,
+      "petSpeed": 5.5
+    },
+    {
+      "id": "volt",
+      "hp": 60,
+      "attack": 8,
+      "speed": 5.4,
+      "petHp": 55,
+      "petAttack": 10,
+      "petSpeed": 7.0
+    },
+    {
+      "id": "ana",
+      "hp": 60,
+      "attack": 8,
+      "speed": 5.1,
+      "petHp": 150,
+      "petAttack": 10,
+      "petSpeed": 3.8
+    },
+    {
+      "id": "rokan",
+      "hp": 60,
+      "attack": 8,
+      "speed": 5.1,
+      "petHp": 120,
+      "petAttack": 8,
+      "petSpeed": 3.8
+    },
+    {
+      "id": "lumen",
+      "hp": 60,
+      "attack": 8,
+      "speed": 5.3,
+      "petHp": 95,
+      "petAttack": 8,
+      "petSpeed": 5.0
+    },
+    {
+      "id": "koneva",
+      "hp": 60,
+      "attack": 8,
+      "speed": 5.3,
+      "petHp": 50,
+      "petAttack": 10,
+      "petSpeed": 6.5
+    },
+    {
+      "id": "neris",
+      "hp": 60,
+      "attack": 8,
+      "speed": 5.2,
+      "petHp": 45,
+      "petAttack": 8,
+      "petSpeed": 6.5
+    }
+  ]
+}

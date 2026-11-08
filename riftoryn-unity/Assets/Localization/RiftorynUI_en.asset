@@ -1,0 +1,2845 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: RiftorynUI_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: dc5d25bba04579c48bafcbc2bc228854, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 539082752
+    m_Localized: LANGUAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 614580224
+    m_Localized: Polish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 614580225
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311656878080
+    m_Localized: "\nTIME {0:F1} S  \u2022  DAMAGE {1:F0}  \u2022  ABILITIES {2}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569856
+    m_Localized: "\nTime {0:F1} s  \u2022  damage {1:F0}  \u2022  abilities {2}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569857
+    m_Localized: "  \xB7  CHANGE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569858
+    m_Localized: "  \u2022  {0} AI: {1}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569859
+    m_Localized: 30 HEROES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569860
+    m_Localized: "4 ROLES \xD7 7 ELEMENTS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569861
+    m_Localized: "4 roles \xD7 7 elements"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569862
+    m_Localized: ARCHIVE RIFTORYN / WORLD AND HEROES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569863
+    m_Localized: "ATTACK \xB7 COLD HEAD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569864
+    m_Localized: "ATTACK \xB7 ELECTROIMPULSE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569865
+    m_Localized: "ATTACK \xB7 DENSE FOG"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569866
+    m_Localized: "ATTACK \xB7 SHIELD WALL"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569867
+    m_Localized: "ATTACK \xB7 LIFE FIELD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569868
+    m_Localized: "ATTACK \xB7 BEACON SCAN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569869
+    m_Localized: "ATTACK \xB7 FOCUSED FLAME"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569870
+    m_Localized: "ATTACK \xB7 SHARED IMPULSE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569871
+    m_Localized: "ATTACK \xB7 TARGETING DISRUPTION"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569872
+    m_Localized: "ATTACK \xB7 FREEZING MECHANISM"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569873
+    m_Localized: "ATTACK \xB7 FIRE BARRIER"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569874
+    m_Localized: "ATTACK \xB7 LIVING THORNS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569875
+    m_Localized: "AUTO \xB7 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569876
+    m_Localized: THE SELECTED TOWER FIRES FASTER FOR 5 S.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569877
+    m_Localized: "Attack \xB7 Cold Head"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569878
+    m_Localized: "Attack \xB7 Electroimpulse"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569879
+    m_Localized: "Attack \xB7 Dense Fog"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569880
+    m_Localized: "Attack \xB7 Shield Wall"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569881
+    m_Localized: "Attack \xB7 Life Field"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569882
+    m_Localized: "Attack \xB7 Beacon Scan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569883
+    m_Localized: "Attack \xB7 Focused Flame"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569884
+    m_Localized: "Attack \xB7 Shared Impulse"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569885
+    m_Localized: "Attack \xB7 Targeting Disruption"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569886
+    m_Localized: "Attack \xB7 Freezing Mechanism"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569887
+    m_Localized: "Attack \xB7 Fire Barrier"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569888
+    m_Localized: "Attack \xB7 Living Thorns"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569889
+    m_Localized: The selected tower fires faster for 5 s.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569890
+    m_Localized: SHE STUDIED THE STABILITY OF ROCKY PASSES AND LEARNED TO READ TERRAIN BEFORE STARTING WORK. COMBINES SURVEYING PRECISION WITH ENGINEERING KNOWLEDGE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569891
+    m_Localized: WHITE PASSAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569892
+    m_Localized: PARTICIPATES FOR THE CARAVANS' COMMUNITY, WHICH WANTS TO FREE SUPPLY DELIVERY FROM A SINGLE PROVIDER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569893
+    m_Localized: JOINS TO SUPPORT THE NETWORK OF SMALL STATIONS THREATENED BY CLOSURE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569894
+    m_Localized: PARTICIPATES SO THAT KNOWLEDGE OF ROUTES REMAINS ACCESSIBLE EVEN TO SMALLER CITIES.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569895
+    m_Localized: HERO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569896
+    m_Localized: HEROES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569897
+    m_Localized: HEROES ARE SELECTED FROM A SHARED POOL WITHOUT DUPLICATES.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569898
+    m_Localized: NONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569899
+    m_Localized: BUILDING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569900
+    m_Localized: 'BUILD.
+
+      RUN AWAY.
+
+      ADAPT.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569901
+    m_Localized: She studied the stability of rocky passes and learned to read terrain before starting work. Combines surveying precision with engineering knowledge.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569902
+    m_Localized: White Passage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569903
+    m_Localized: Participates for the caravans' community, which wants to free supply delivery from a single provider.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569904
+    m_Localized: Joins to support the network of small stations threatened by closure.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569905
+    m_Localized: Participates so that knowledge of routes remains accessible even to smaller cities.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569906
+    m_Localized: Hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569907
+    m_Localized: Heroes are selected from a shared pool without duplicates.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569908
+    m_Localized: LIGHTNING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569909
+    m_Localized: A LIGHTNING-FAST SCOUT SEARCHING FOR WEAK DEFENSE POINTS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569910
+    m_Localized: Lightning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569911
+    m_Localized: A lightning-fast scout searching for weak defense points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569912
+    m_Localized: "GOAL: REACH THE FINISH   \u2022   TIME {0:F1} S   \u2022   FOG {1:F1} S"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569913
+    m_Localized: "GOAL: REACH THE FINISH   \u2022   TIME {0:F1} s   \u2022   FOG {1:F1} s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569914
+    m_Localized: WANTS TO MAINTAIN ACCESS TO THE PATH CONNECTING SEVERAL DISTANT SETTLEMENTS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569915
+    m_Localized: WANTS TO ACQUIRE RESOURCES FOR AN OPEN WORKSHOP TEACHING SAFE TOWER OPERATION.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569916
+    m_Localized: CHILL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569917
+    m_Localized: CHILL {0:F1}S
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569918
+    m_Localized: CHILL {0:F1}s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569919
+    m_Localized: DARKNESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569920
+    m_Localized: SHADOWY PORT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569921
+    m_Localized: 'HEAVY DAMAGE. DEVELOPMENT: QUAKE OR BOULDER.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569922
+    m_Localized: TEMPORARILY STOPS THE TOWER'S SHOT.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569923
+    m_Localized: THE FOG'S FRONT MOVES ALONG THE PATH. ITS ARRIVAL AT THE TARGET DOES NOT END THE ATTACK.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569924
+    m_Localized: Wants to maintain access to the path connecting several distant settlements.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569925
+    m_Localized: Wants to acquire resources for an open workshop teaching safe tower operation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569926
+    m_Localized: Darkness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569927
+    m_Localized: Shadowy Port
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569928
+    m_Localized: 'Heavy damage. Development: Quake or Boulder.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569929
+    m_Localized: Temporarily stops the tower's shot.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569930
+    m_Localized: The fog's front moves along the path. Its arrival at the target does not end the attack.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569931
+    m_Localized: FURTHER DEVELOPMENT LEADS TO A SHARED T3 UPGRADE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569932
+    m_Localized: PREVIOUSLY PROTECTED MOUNTAIN CONVOYS AND ROADS TO SUPPLY DEPOTS. THE ICE SHIELD IS A SIGN OF HIS WAY OF PROTECTING THE GROUP.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569933
+    m_Localized: WHY PARTICIPATES IN THE TRIALS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569934
+    m_Localized: 'TO FINISH: {0} M'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569935
+    m_Localized: THE FINAL GAME COMBINES DEFENSE, EVASION, AND ADAPTATION TO THE OPPONENT.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569936
+    m_Localized: DODGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569937
+    m_Localized: GREW UP AMONG TELEGRAPH WORKSHOPS AND HELPED SHIELD REPAIR CREWS WORKING ON ENERGY CONDUCTORS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569938
+    m_Localized: GREW UP AMONG CREWS PROTECTING CONVOYS FROM REVEALING THEIR ROUTES. USES HIS MASKING SKILLS TODAY TO DISRUPT DETECTION.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569939
+    m_Localized: GREW UP WITH HER SISTERS IN THE SOUTHERN VALLEY, THEN TRAINED AT THE WHITE CAVERN. USES ICY ABILITIES TO PROTECT AND RESTORE FUNCTIONALITY.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569940
+    m_Localized: DELIVERED URGENT MESSAGES BETWEEN RELAY STATIONS. HIS SPEED AND DEVICE INTUITION PROVED USEFUL LATER IN LABYRINTHS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569941
+    m_Localized: REACH THE GOLDEN PORTAL WHILE DODGING TOWER FIRE AND STAYING AHEAD OF THE FOG. CAN YOU READ THE THREATS AND REACT IN TIME?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569942
+    m_Localized: AVAILABLE IN THE 3D TRIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569943
+    m_Localized: AVAILABLE / PRE-POC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569944
+    m_Localized: AVAILABLE IN TRIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569945
+    m_Localized: JOINS ESCORT TEAMS BECAUSE HE KNOWS THE COST OF LOSING A SAFE PATH.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569946
+    m_Localized: DRAFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569947
+    m_Localized: THE TEAM DEVELOPS ITS ELEMENTS TOGETHER AND CHOOSES UPGRADE PATHS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569948
+    m_Localized: TEAMS BUILD DEFENSES AND ATTEMPT TO PASS THROUGH THE OPPONENT'S LABYRINTH.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569949
+    m_Localized: TEAMS INVEST AND SET UP TOWERS ON THEIR MAPS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569950
+    m_Localized: TREE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569951
+    m_Localized: TECHNOLOGY TREE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569952
+    m_Localized: TWO TEAMS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569953
+    m_Localized: TWO TEAMS OF FIVE PLAYERS TAKE TURNS ATTACKING THE OPPONENT'S DEFENSE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569954
+    m_Localized: Further development leads to a shared T3 upgrade.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569955
+    m_Localized: Previously protected mountain convoys and roads to supply depots. The ice shield is a sign of his way of protecting the group.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569956
+    m_Localized: 'To finish: {0} m'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569957
+    m_Localized: The final game combines defense, evasion, and adaptation to the opponent.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569958
+    m_Localized: Grew up among telegraph workshops and helped shield repair crews working on energy conductors.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569959
+    m_Localized: Grew up among crews protecting convoys from revealing their routes. Uses his masking skills today to disrupt detection.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569960
+    m_Localized: Grew up with her sisters in the southern valley, then trained at the White Cavern. Uses icy abilities to protect and restore functionality.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569961
+    m_Localized: Delivered urgent messages between relay stations. His speed and device intuition proved useful later in labyrinths.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569962
+    m_Localized: Reach the golden portal while dodging tower fire and staying ahead of the fog. Can you read the threats and react in time?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569963
+    m_Localized: Joins escort teams because he knows the cost of losing a safe path.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569964
+    m_Localized: The team develops its elements together and chooses upgrade paths.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569965
+    m_Localized: Teams build defenses and attempt to pass through the opponent's labyrinth.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569966
+    m_Localized: Teams invest and set up towers on their maps.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569967
+    m_Localized: Two teams of five players take turns attacking the opponent's defense.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569968
+    m_Localized: VISION-LIMITING EFFECTS LAST 20% LESS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569969
+    m_Localized: EFFECTS CHANGE HOW HEROES PASS THROUGH THE DEFENSE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569970
+    m_Localized: AN ENERGETIC LEADER WHO SYNCHRONIZES THE MOVEMENT OF THE ENTIRE TEAM.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569971
+    m_Localized: ERYNDOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569972
+    m_Localized: Vision-limiting effects last 20% less.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569973
+    m_Localized: Effects change how heroes pass through the defense.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569974
+    m_Localized: An energetic leader who synchronizes the movement of the entire team.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569975
+    m_Localized: READY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569976
+    m_Localized: READY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569977
+    m_Localized: "PLAYERS INVEST IN ELEMENTAL TREES INDEPENDENTLY OF THEIR HERO\u2019S ELEMENT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569978
+    m_Localized: PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569979
+    m_Localized: PLAY ALONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569980
+    m_Localized: "Players invest in elemental trees independently of their hero\u2019s element."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569981
+    m_Localized: ENDURANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569982
+    m_Localized: HISTORY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569983
+    m_Localized: STORIES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569984
+    m_Localized: STORIES, ROLES, AND SKILLS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569985
+    m_Localized: HP  {0}     SPEED  {1}     COOLDOWN  {2} S
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569986
+    m_Localized: HP  {0}     SPEED  {1}     COOLDOWN  {2} s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569987
+    m_Localized: HP  {0}     SPEED  {1} M/S     Q  {2} S
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569988
+    m_Localized: HP  {0}     SPEED  {1} m/s     Q  {2} s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569989
+    m_Localized: Endurance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569990
+    m_Localized: Stories, roles, and skills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569991
+    m_Localized: ZERATH SPIRE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569992
+    m_Localized: TEAM IMPULSE AND TOWER READINESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569993
+    m_Localized: "CIVIL ENGINEERING \u2014 DIRECTION FOR DESIGN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569994
+    m_Localized: BLINK MANEUVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569995
+    m_Localized: Zerath Spire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569996
+    m_Localized: Team impulse and tower readiness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569997
+    m_Localized: "Civil Engineering \u2014 direction for design"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569998
+    m_Localized: Blink Maneuver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736569999
+    m_Localized: AS A MINE GUARD, HE PROTECTED WORKERS DURING COLLAPSES AND HELPED MAINTAIN PASSAGE ROUTES. IN THE LABYRINTH, HE USES HIS SHIELD TO ALLOW OTHERS TO PROCEED.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570000
+    m_Localized: SHARP VISION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570001
+    m_Localized: HIS ORIGIN AND ANY POTENTIAL FAMILY TIES REMAIN A MYSTERY.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570002
+    m_Localized: HER HEALING AND REPAIR ARE 10% STRONGER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570003
+    m_Localized: GLEAM THE DEER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570004
+    m_Localized: THE DEER SHIELDS AN ALLY WITH A BARRIER; IN DEFENSE, IT HELPS DETECT RUNNERS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570005
+    m_Localized: As a mine guard, he protected workers during collapses and helped maintain passage routes. In the labyrinth, he uses his shield to allow others to proceed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570006
+    m_Localized: Sharp Vision
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570007
+    m_Localized: His origin and any potential family ties remain a mystery.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570008
+    m_Localized: Her healing and repair are 10% stronger.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570009
+    m_Localized: The deer shields an ally with a barrier; in defense, it helps detect Runners.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570010
+    m_Localized: "KAEL \xB7 Q: SHIELD FOR YOURSELF AND NEARBY ALLY. E: TEST ATTACK ON NEARBY TOWER."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570011
+    m_Localized: "KAEL \xB7 Q: shield for yourself and nearby ally. E: test attack on nearby tower."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570012
+    m_Localized: STONE ARMOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570013
+    m_Localized: STONE THRESHOLD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570014
+    m_Localized: EACH HERO HAS THEIR OWN ORIGIN AND REASONS TO STAND IN THE TRIALS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570015
+    m_Localized: EACH ELEMENT HAS TWO MUTUALLY EXCLUSIVE UPGRADE PATHS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570016
+    m_Localized: CLICK THE GOLDEN FIELD TO PLACE OR REMOVE A TOWER. CIRCLES SHOW THE RANGE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570017
+    m_Localized: CODEX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570018
+    m_Localized: CONCEPT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570019
+    m_Localized: 'MOVEMENT CONTROL AND SLOWING. DEVELOPMENT: GLACIER OR ICE LANCE.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570020
+    m_Localized: ROOTED LANDING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570021
+    m_Localized: PATSY THE BAT-CAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570022
+    m_Localized: STEP INTO THE SHADOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570023
+    m_Localized: "SHADOW THE RAVEN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570024
+    m_Localized: THE RAVEN SHARES DAMAGE THROUGH ITS BOND; IN DEFENSE, IT MAKES NAVIGATION HARDER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570025
+    m_Localized: Stone Threshold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570026
+    m_Localized: Stone Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570027
+    m_Localized: Each hero has their own origin and reasons to stand in the Trials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570028
+    m_Localized: Each element has two mutually exclusive upgrade paths.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570029
+    m_Localized: Click the golden field to place or remove a tower. Circles show the range.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570030
+    m_Localized: 'Movement control and slowing. Development: Glacier or Ice Lance.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570031
+    m_Localized: Rooted Landing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570032
+    m_Localized: Step into the Shadow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570033
+    m_Localized: The raven shares damage through its bond; in defense, it makes navigation harder.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570034
+    m_Localized: YEARS OF REBUILDING DESTROYED FIELDS TAUGHT HER THAT THE STRONGEST DEFENDER IS AT THE BACK, ONLY WHEN OTHERS ARE SAFE. COMBINES RESILIENCE WITH A CONCERN FOR THE TEAM.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570035
+    m_Localized: AURELIAN LIGHTHOUSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570036
+    m_Localized: A BEACON KEEPER WHO HELPS THE TEAM SPOT THREATS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570037
+    m_Localized: HEALING AND SHIELD REPAIR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570038
+    m_Localized: HEALS NEARBY ALLIES AND MOBS FOR 5 S.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570039
+    m_Localized: "A LINE MATCHING THE TOWER\u2019S COLOR WARNS OF AN INCOMING SHOT. TOWERS LEAD THEIR TARGETS; WALLS BLOCK PROJECTILES.\n\nFIRE \u2014 AREA DAMAGE AND BURN.\nICE \u2014 CHILL SLOWS MOVEMENT.\nLIGHTNING \u2014 ARCS TO A NEARBY ALLY.\nNATURE \u2014 POISON DEALS DAMAGE OVER TIME."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570040
+    m_Localized: SPARK THE FOX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570041
+    m_Localized: THE FOX CATCHES THE PROJECTILE AND CREATES A FIRE ZONE; IN DEFENSE, IT SUPPORTS THE TOWER'S AREA PRESSURE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570042
+    m_Localized: AN ICE SABOTEUR WHO OPENS A SAFE PASSAGE FOR THE TEAM.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570043
+    m_Localized: "ICE SHIELD WARRIOR \u2014 DIRECTION TO BE DESIGNED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570044
+    m_Localized: Years of rebuilding destroyed fields taught her that the strongest defender is at the back, only when others are safe. Combines resilience with a concern for the team.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570045
+    m_Localized: Aurelian Lighthouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570046
+    m_Localized: A beacon keeper who helps the team spot threats.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570047
+    m_Localized: Healing and shield repair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570048
+    m_Localized: Heals nearby allies and mobs for 5 s.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570049
+    m_Localized: "A line matching the tower\u2019s color warns of an incoming shot. Towers lead their targets; walls block projectiles.\n\nFIRE \u2014 area damage and burn.\nICE \u2014 chill slows movement.\nLIGHTNING \u2014 arcs to a nearby ally.\nNATURE \u2014 poison deals damage over time."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570050
+    m_Localized: The fox catches the projectile and creates a fire zone; in defense, it supports the tower's area pressure.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570051
+    m_Localized: An ice saboteur who opens a safe passage for the team.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570052
+    m_Localized: "Ice Shield Warrior \u2014 direction to be designed"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570053
+    m_Localized: ICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570054
+    m_Localized: Ice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570055
+    m_Localized: "MAP  \xB7  N \u2191"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570056
+    m_Localized: TEAM BATTLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570057
+    m_Localized: MAIN MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570058
+    m_Localized: FINISH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570059
+    m_Localized: "FINISH {0}/{1}  \u2022  {2}: {3}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570060
+    m_Localized: FOG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570061
+    m_Localized: FOG APPEARS AFTER 5 S, SLOWS YOU AND DEALS INCREASING DAMAGE OVER TIME. STATUS EFFECTS APPEAR ABOVE YOUR HEALTH BAR; COLORED DAMAGE NUMBERS FLOAT ABOVE CHARACTERS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570062
+    m_Localized: FOG appears after 5 s, slows you and deals increasing damage over time. Status effects appear above your health bar; colored damage numbers float above characters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570063
+    m_Localized: A SILENT GUARDIAN OF SHADOW WHO TURNS INCOMING FIRE INTO AN OPPORTUNITY TO DODGE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570064
+    m_Localized: THE SILENT GUARDIAN APPEARED IN THE PORT AFTER THE WAR. NO ONE CONFIRMED WHETHER HE WAS CONSTRUCTED OR SHAPED DIFFERENTLY; HE FOCUSES SOLELY ON PROTECTING OTHERS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570065
+    m_Localized: A MASTER OF DISRUPTIONS WHO ERASES INFORMATION AND DISORIENTS AUTOMATONS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570066
+    m_Localized: COLD RESISTANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570067
+    m_Localized: Fog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570068
+    m_Localized: A silent guardian of shadow who turns incoming fire into an opportunity to dodge.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570069
+    m_Localized: The silent guardian appeared in the port after the war. No one confirmed whether he was constructed or shaped differently; he focuses solely on protecting others.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570070
+    m_Localized: A master of disruptions who erases information and disorients automatons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570071
+    m_Localized: Cold Resistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570072
+    m_Localized: BRIEFLY REVEALS TOWERS IN THE SELECTED PATH SEGMENT.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570073
+    m_Localized: BRIEFLY DETECTS RUNNERS AND MOBS IN A SELECTED AREA.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570074
+    m_Localized: "ON THE MINIMAP: YOU \u2014 GOLD, AI \u2014 BLUE, RED CROSS \u2014 DEATH LOCATION. IN THE TEAM PANEL, YOU'LL SEE HP, STATUSES, AND DISTANCE TO THE GOAL."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570075
+    m_Localized: FIRST, THE NUMBER OF RUNNERS ON THE GOAL COUNTS, THEN TIME OR FARTHEST PROGRESS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570076
+    m_Localized: NATURE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570077
+    m_Localized: NO RELATION ESTABLISHED WITH THREE SISTERS; HER FAMILY REMAINS OPEN.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570078
+    m_Localized: UNBREAKABLE DEFENDER WHO SHIELDS THE TEAM FROM ENEMY ATTACKS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570079
+    m_Localized: Briefly reveals towers in the selected path segment.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570080
+    m_Localized: Briefly detects Runners and mobs in a selected area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570081
+    m_Localized: "On the minimap: YOU \u2014 gold, AI \u2014 blue, red cross \u2014 death location. In the team panel, you'll see HP, statuses, and distance to the goal."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570082
+    m_Localized: First, the number of Runners on the goal counts, then time or farthest progress.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570083
+    m_Localized: Nature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570084
+    m_Localized: No relation established with three sisters; her family remains open.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570085
+    m_Localized: Unbreakable defender who shields the team from enemy attacks.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570086
+    m_Localized: DAMAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570087
+    m_Localized: NATURE DAMAGE SPREAD OVER TIME.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570088
+    m_Localized: FIRE DAMAGE SPREAD OVER TIME.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570089
+    m_Localized: DEFENSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570090
+    m_Localized: "DEFENSE \xB7 SHADOW BASTION"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570091
+    m_Localized: "DEFENSE \xB7 SCOUT IMPULSE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570092
+    m_Localized: "DEFENSE \xB7 STONE ARMOR"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570093
+    m_Localized: "DEFENSE \xB7 ROOT SHIELD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570094
+    m_Localized: "DEFENSE \xB7 ICE ZONE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570095
+    m_Localized: "DEFENSE \xB7 REPAIR"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570096
+    m_Localized: "DEFENSE \xB7 FROSTBITE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570097
+    m_Localized: "DEFENSE \xB7 FIERY MARKER"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570098
+    m_Localized: "DEFENSE \xB7 HEATED ARMOR"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570099
+    m_Localized: "DEFENSE \xB7 QUICK IGNITION"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570100
+    m_Localized: "DEFENSE \xB7 DEFENSE SHIELD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570101
+    m_Localized: "DEFENSE \xB7 BRIGHT WATCH"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570102
+    m_Localized: "LIGHT DEFENDER \u2014 DIRECTION TO BE DESIGNED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570103
+    m_Localized: 'AREA AND INCINERATION. DEVELOPMENT: MAGMA OR INFERNO.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570104
+    m_Localized: "SHADOW DEFENSE \u2014 DIRECTION TO BE DESIGNED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570105
+    m_Localized: EYES OF THE DARKNESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570106
+    m_Localized: CLEANING AND PROTECTION AGAINST SLOWDOWNS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570107
+    m_Localized: "DISCOVER THE CODEX  \u2197"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570108
+    m_Localized: RESTORES 46 TOWER SHIELD AND REDUCES DAMAGE FOR 4 S.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570109
+    m_Localized: RESTORES 66 HP AND 44 SHIELD TO THE SELECTED ACTIVE TOWER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570110
+    m_Localized: FIRE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570111
+    m_Localized: 'BURN {0:F1}S  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570112
+    m_Localized: 'BURN {0:F1}s  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570113
+    m_Localized: "ONE LUCKY BASTARD: FOUR OUTCOMES AT 25% EACH \u2014 STOP A TOWER FOR 5 S, PERMANENTLY DISABLE A TOWER IN DEFENSE, GIVE IT A 50% MISS CHANCE UNTIL THE END OF THE ROUND, OR, ON A BAD ROLL, INCREASE ITS ATTACK SPEED BY 50% FOR 5 S. DETAILS TO BE DETERMINED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570114
+    m_Localized: "ARMORED THUNDER GUIDE \u2014 DIRECTION TO DESIGN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570115
+    m_Localized: A CARETAKER WHO REMOVES SLOWS AND RESTORES TOWERS TO WORKING ORDER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570116
+    m_Localized: DESCRIPTIONS AND VALUES ARE A CONCEPT; BINDING DECISIONS ARE IN THE GDD.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570117
+    m_Localized: WARNING BEFORE SHOT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570118
+    m_Localized: SHIELD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570119
+    m_Localized: SHADOW DEFENSE AND SLOWING PROJECTILES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570120
+    m_Localized: "SHIELD \u2212{0:0.#}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570121
+    m_Localized: TAKES 10% LESS DAMAGE FROM DIRECT HITS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570122
+    m_Localized: TAKES 15% LESS FIRE DAMAGE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570123
+    m_Localized: RECEIVES 15% MORE HEALING AND STRENGTHENS HER OWN SHIELD REPAIR.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570124
+    m_Localized: TAKES 20% LESS PERIODIC DAMAGE. IN DEFENSE, THE SHIELD BONUS PROTECTS THE PILOTED TOWER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570125
+    m_Localized: MARKS THE RUNNER AS THE PREFERRED TARGET FOR AUTOMATIC TOWERS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570126
+    m_Localized: Nature Damage spread over time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570127
+    m_Localized: Fire Damage spread over time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570128
+    m_Localized: "Defense \xB7 Shadow Bastion"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570129
+    m_Localized: "Defense \xB7 Scout Impulse"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570130
+    m_Localized: "Defense \xB7 Stone Armor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570131
+    m_Localized: "Defense \xB7 Root Shield"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570132
+    m_Localized: "Defense \xB7 Ice Zone"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570133
+    m_Localized: "Defense \xB7 Repair"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570134
+    m_Localized: "Defense \xB7 Frostbite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570135
+    m_Localized: "Defense \xB7 Fiery Marker"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570136
+    m_Localized: "Defense \xB7 Heated Armor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570137
+    m_Localized: "Defense \xB7 Quick Ignition"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570138
+    m_Localized: "Defense \xB7 Defense Shield"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570139
+    m_Localized: "Defense \xB7 Bright Watch"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570140
+    m_Localized: "Light Defender \u2014 direction to be designed"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570141
+    m_Localized: 'Area and incineration. Development: Magma or Inferno.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570142
+    m_Localized: "Shadow Defense \u2014 direction to be designed"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570143
+    m_Localized: Eyes of the Darkness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570144
+    m_Localized: Cleaning and protection against slowdowns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570145
+    m_Localized: Restores 46 tower shield and reduces damage for 4 s.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570146
+    m_Localized: Restores 66 HP and 44 shield to the selected active tower.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570147
+    m_Localized: Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570148
+    m_Localized: "One Lucky Bastard: four outcomes at 25% each \u2014 stop a tower for 5 s, permanently disable a tower in defense, give it a 50% miss chance until the end of the round, or, on a bad roll, increase its attack speed by 50% for 5 s. Details to be determined."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570149
+    m_Localized: "Armored Thunder Guide \u2014 direction to design"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570150
+    m_Localized: A caretaker who removes slows and restores towers to working order.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570151
+    m_Localized: Descriptions and values are a concept; binding decisions are in the GDD.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570152
+    m_Localized: Warning before shot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570153
+    m_Localized: Shadow defense and slowing projectiles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570154
+    m_Localized: Takes 10% less damage from direct hits.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570155
+    m_Localized: Takes 15% less Fire damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570156
+    m_Localized: Receives 15% more healing and strengthens her own shield repair.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570157
+    m_Localized: Takes 20% less periodic damage. In defense, the shield bonus protects the piloted tower.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570158
+    m_Localized: Marks the Runner as the preferred target for automatic towers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570159
+    m_Localized: "FLINT THE ARMADILLO"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570160
+    m_Localized: THE ARMADILLO SHIELDS AGAINST PROJECTILES WITHOUT BLOCKING THE PATH; IN DEFENSE, IT PROTECTS A TOWER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570161
+    m_Localized: PANDA BOB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570162
+    m_Localized: 'THE FIRST MAP IS A LABYRINTH KNOWN TO BOTH TEAMS: ONE WINDING PATH LEADS FROM THE CENTER TO THE OUTSIDE.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570163
+    m_Localized: FIRST 3D TRIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570164
+    m_Localized: FOR A SHORT TIME, SPEEDS UP AFTER USING THE SKILL.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570165
+    m_Localized: AFTER USING THE ABILITY, MOVES FASTER FOR 2 SECONDS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570166
+    m_Localized: AFTER USING THE ABILITY, IT BECOMES HARDER TO DETECT HIM FOR A SHORT TIME.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570167
+    m_Localized: AFTER A DEVASTATING WAR, THE LANDS RESOLVE SOME DISPUTES THROUGH MANDATORY TEAM TRIALS IN LABYRINTHS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570168
+    m_Localized: ORIGIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570169
+    m_Localized: ABSORBS DAMAGE BEFORE HEALTH POINTS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570170
+    m_Localized: VULNERABILITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570171
+    m_Localized: 'VULNERABILITY AND FOCUSED SHOT. DEVELOPMENT: CURSE OR VOID.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570172
+    m_Localized: APPROACH THE TOWER TO ATTACK IT.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570173
+    m_Localized: APPROACH THE TOWER TO USE YOUR SKILL.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570174
+    m_Localized: BURN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570175
+    m_Localized: BURN {0:F1}S
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570176
+    m_Localized: BURN {0:F1}s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570177
+    m_Localized: REDUCES THE ACCURACY OF THE SELECTED TOWER'S AUTOMATIC FIRE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570178
+    m_Localized: GATE BATTLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570179
+    m_Localized: DEFEATED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570180
+    m_Localized: "CHARACTER IN CODEX \xB7 NOT PLAYABLE IN TRIAL"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570181
+    m_Localized: CHARACTER IN PREPARATION.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570182
+    m_Localized: CONFIRM ALLY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570183
+    m_Localized: CONFIRM YOUR HERO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570184
+    m_Localized: MEET THE HEROES, THREATS, AND RULES OF THE TRIALS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570185
+    m_Localized: A GUIDE FOR CREWS RESTORING OLD ROADS, ERON EXPLORED THE VALLEY AND SOUGHT WAYS TO USE VINES TO CROSS DIFFICULT TERRAIN.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570186
+    m_Localized: WORKED ON EMITTER CALIBRATION AND LEARNED TO IDENTIFY WEAK POINTS IN MECHANISMS. IN TRIALS, SHE USES THIS KNOWLEDGE FOR PRECISE SABOTAGE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570187
+    m_Localized: WORKED ON REPAIRING TRANSMITTERS WHERE SECONDS OFTEN DECIDED WHETHER THE MESSAGE ARRIVED IN TIME. IN TRIALS, TEACHES ALLIES TO ACT IN UNISON.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570188
+    m_Localized: "PRE-POC \xB7 OFFLINE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570189
+    m_Localized: A PRECISE SPECIALIST WHO TARGETS SPECIFIC DEFENSE POINTS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570190
+    m_Localized: PRECISION TOWER DAMAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570191
+    m_Localized: CONCEPT PROTOTYPE. RULES, DESCRIPTIONS, ART, AND BALANCE ARE PENDING TESTS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570192
+    m_Localized: HE OPERATED A MOBILE LIGHTHOUSE FOR TRAVELERS BETWEEN SETTLEMENTS; HIS WARMTH AND OPTIMISM HELP KEEP THE TEAM TOGETHER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570193
+    m_Localized: "BEFORE THE TRIAL \xB7 WHAT WE TEST"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570194
+    m_Localized: "GO TO THE TRIAL \u2192"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570195
+    m_Localized: LIGHTNING LEAP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570196
+    m_Localized: FOR 4S, SLOWS NEARBY FLYING PROJECTILES BY 50%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570197
+    m_Localized: FOR YEARS, SHE SAFEGUARDED PIECES AND TRANSPORT OF SPLOTYT, LEARNING TO CONTAIN THE FIRE BEFORE IT THREATENED OTHERS. IN TRIALS, SHE DEFENDS HER TEAM AND STRENGTHENS THE TOWERS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570198
+    m_Localized: DIMMED HEROES ARE UNAVAILABLE IN THIS TRIAL.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570199
+    m_Localized: PREPARE THE HERO AND EXPLORE THE LABYRINTH BEFORE THE ACTUAL GAMEPLAY.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570200
+    m_Localized: GET READY / GAME MODES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570201
+    m_Localized: SPEEDS UP NEARBY RUNNERS AND MOBS BY 25% FOR 3 SECONDS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570202
+    m_Localized: SUMMONER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570203
+    m_Localized: 3D TRIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570204
+    m_Localized: HERO TRIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570205
+    m_Localized: ATTEMPTS GIVE HIM A CHANCE TO GAIN ACCESS TO PARTS NEEDED BY NEARBY STATIONS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570206
+    m_Localized: THE STARTING POINT IS APPROXIMATELY 360 METERS OF DISTANCE, WITHOUT SHORTCUTS OR DEAD ENDS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570207
+    m_Localized: The armadillo shields against projectiles without blocking the path; in defense, it protects a tower.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570208
+    m_Localized: 'The first map is a labyrinth known to both teams: one winding path leads from the center to the outside.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570209
+    m_Localized: For a short time, speeds up after using the skill.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570210
+    m_Localized: After using the ability, moves faster for 2 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570211
+    m_Localized: After using the ability, it becomes harder to detect him for a short time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570212
+    m_Localized: After a devastating war, the lands resolve some disputes through mandatory Team Trials in labyrinths.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570213
+    m_Localized: Absorbs damage before health points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570214
+    m_Localized: 'Vulnerability and focused shot. Development: Curse or Void.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570215
+    m_Localized: Approach the tower to attack it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570216
+    m_Localized: Approach the tower to use your skill.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570217
+    m_Localized: Reduces the accuracy of the selected tower's automatic fire.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570218
+    m_Localized: Character in preparation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570219
+    m_Localized: Meet the heroes, threats, and rules of the Trials.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570220
+    m_Localized: A guide for crews restoring old roads, Eron explored the valley and sought ways to use vines to cross difficult terrain.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570221
+    m_Localized: Worked on emitter calibration and learned to identify weak points in mechanisms. In Trials, she uses this knowledge for precise sabotage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570222
+    m_Localized: Worked on repairing transmitters where seconds often decided whether the message arrived in time. In Trials, teaches allies to act in unison.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570223
+    m_Localized: A precise specialist who targets specific defense points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570224
+    m_Localized: Precision tower damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570225
+    m_Localized: Concept prototype. Rules, descriptions, art, and balance are pending tests.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570226
+    m_Localized: He operated a mobile lighthouse for travelers between settlements; his warmth and optimism help keep the team together.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570227
+    m_Localized: Lightning Leap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570228
+    m_Localized: For 4s, slows nearby flying projectiles by 50%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570229
+    m_Localized: For years, she safeguarded pieces and transport of splotyt, learning to contain the fire before it threatened others. In Trials, she defends her team and strengthens the towers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570230
+    m_Localized: Dimmed heroes are unavailable in this trial.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570231
+    m_Localized: Prepare the hero and explore the labyrinth before the actual gameplay.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570232
+    m_Localized: Speeds up nearby Runners and mobs by 25% for 3 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570233
+    m_Localized: Summoner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570234
+    m_Localized: Attempts give him a chance to gain access to parts needed by nearby stations.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570235
+    m_Localized: The starting point is approximately 360 meters of distance, without shortcuts or dead ends.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570236
+    m_Localized: "Q: {0}   \u2022   SPACE / DODGE: {1}   \u2022   SHIELD: {2:F0}   \u2022   WASD: MOVE   \u2022   MOUSE: CAMERA   \u2022   ESC: CURSOR"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570237
+    m_Localized: ELEMENTAL REACTIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570238
+    m_Localized: REPRESENTS WORKSHOP DISTRICTS FIGHTING FOR FAIR ACCESS TO FUEL.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570239
+    m_Localized: REPRESENTS THE MINING COMMUNITY FIGHTING FOR A SAFE SUPPLY ROUTE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570240
+    m_Localized: REPRESENTS RESIDENTS MAINTAINING CONNECTIVITY ON LESS PROSPEROUS SECTIONS OF THE PATH.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570241
+    m_Localized: REPRESENTS THE GARRISON OF THE PASS FIGHTING FOR EQUAL TIME USAGE OF THE PATH.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570242
+    m_Localized: RESIDUAL IMPULSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570243
+    m_Localized: "RIAN \xB7 Q: DEALS DAMAGE TO NEARBY TOWERS. APPROACH WITHIN ITS RANGE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570244
+    m_Localized: "RIAN \xB7 Q: deals damage to nearby towers. Approach within its range."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570245
+    m_Localized: RIFTORYN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570246
+    m_Localized: RIFTORYN / FIRST TRIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570247
+    m_Localized: RIFTORYN / HERO TRIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570248
+    m_Localized: FAMILY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570249
+    m_Localized: FAMILY HAS NOT BEEN DESCRIBED YET.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570250
+    m_Localized: "ROLE \xD7 ELEMENT  \xB7  SELECT A PORTRAIT TO LEARN ABOUT THE HERO"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570251
+    m_Localized: START TRIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570252
+    m_Localized: "START TRIAL \u2192"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570253
+    m_Localized: "START TRIAL \u2192"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570254
+    m_Localized: RUNNERS NAVIGATE THE LABYRINTH, AVOID SHOTS AND USE ABILITIES.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570255
+    m_Localized: THE LYNX SHIELDS THE HERO AND LEAVES A SLIPPERY TRAIL; IN DEFENSE, IT HELPS CONTROL MOVEMENT.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570256
+    m_Localized: FROST THE LYNX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570257
+    m_Localized: A BLACKSMITH RESPONSIBLE FOR REPAIRING TOOLS AND SAFETY EQUIPMENT IN MINES. PREFERS TO UNDERSTAND THE DEVICE BEFORE TAKING A RISK.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570258
+    m_Localized: "CRAFTSMANSHIP AND REPAIR \u2014 DIRECTION TO BE DESIGNED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570259
+    m_Localized: Represents workshop districts fighting for fair access to fuel.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570260
+    m_Localized: Represents the mining community fighting for a safe supply route.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570261
+    m_Localized: Represents residents maintaining connectivity on less prosperous sections of the path.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570262
+    m_Localized: Represents the garrison of the pass fighting for equal time usage of the path.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570263
+    m_Localized: Residual Impulse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570264
+    m_Localized: Family has not been described yet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570265
+    m_Localized: "Role \xD7 element  \xB7  select a portrait to learn about the hero"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570266
+    m_Localized: Runners navigate the labyrinth, avoid shots and use abilities.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570267
+    m_Localized: The lynx shields the hero and leaves a slippery trail; in defense, it helps control movement.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570268
+    m_Localized: A blacksmith responsible for repairing tools and safety equipment in mines. Prefers to understand the device before taking a risk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570269
+    m_Localized: "Craftsmanship and repair \u2014 direction to be designed"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570270
+    m_Localized: SABOTAGE AND INFORMATION SHIELDING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570271
+    m_Localized: HEART OF THE LABYRINTH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570272
+    m_Localized: SEVEN ELEMENTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570273
+    m_Localized: EACH OF THE SEVEN ELEMENTS BEGINS WITH A BASIC TECHNOLOGY CORE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570274
+    m_Localized: SISTERS ELIRY AND LIORY; THEIR TEAM CHOICES DO NOT HAVE TO BE THE SAME.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570275
+    m_Localized: SISTER OF NIVY AND ELIRY; A SIMILAR APPEARANCE DOES NOT GIVE ANY BONUS IN THE GAME.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570276
+    m_Localized: SISTER OF NIVY AND LIORY; THEIR FAMILY BACKGROUND DOES NOT FORCE A SHARED COMPOSITION.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570277
+    m_Localized: "FIX ITSELF (PROPOSAL): FOUR OUTCOMES AT 25% EACH \u2014 50 SHIELD, +50% ATTACK SPEED FOR 5 S, +50% PROJECTILE SPEED FOR 5 S, OR AN UNLUCKY RESULT THAT STOPS THE TOWER FOR 3 S."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570278
+    m_Localized: ALLY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570279
+    m_Localized: 'AI ALLY
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570280
+    m_Localized: THUNDER THE FALCON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570281
+    m_Localized: THE FALCON INTERCEPTS PROJECTILES AND QUICKLY REACHES THE TARGET; IN DEFENSE, IT HELPS MARK RUNNERS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570282
+    m_Localized: SPECIALIST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570283
+    m_Localized: 'TOWER SPECIALIST: ADRIAN''S PILOTED TOWER CANNOT BE STOPPED IN ANY WAY.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570284
+    m_Localized: SPECIALIZATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570285
+    m_Localized: ENTANGLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570286
+    m_Localized: SLOWS AFFECTING HER ARE 15% WEAKER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570287
+    m_Localized: SLOWS ARE WEAKER, AND CONTROLLED TOWER OUTAGES ARE SHORTER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570288
+    m_Localized: MOVEMENT SLOWDOWN FROM ICE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570289
+    m_Localized: SLOWNESS ASSOCIATED WITH NATURE; DETAILS REMAIN OPEN.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570290
+    m_Localized: 'STANDARD LAYOUT: 5 TOWERS. VISIBLE CIRCLES SHOW RANGE.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570291
+    m_Localized: FOR YEARS, THE ELDER KEEPER OF PORT ARCHIVES HAS HELPED TRAVELERS PROTECT INFORMATION ABOUT DANGEROUS STRETCHES OF ROAD.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570292
+    m_Localized: BEGINS IN THE NAME OF CARRIERS WHO DEMAND SAFE AND FAIRLY DISTRIBUTED ROUTES.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570293
+    m_Localized: BEGINS TO PROTECT THE INDEPENDENT SETTLEMENT HOUSING TRAVEL DOCUMENTATION.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570294
+    m_Localized: BEGINS TO SUPPORT THE SUPPLY EXCHANGE BETWEEN THE VALLEY AND THE NORTH.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570295
+    m_Localized: STATUSES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570296
+    m_Localized: STATUSES AND EFFECTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570297
+    m_Localized: THIS CHARACTER'S STATS AND SKILLS ARE IN PREPARATION.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570298
+    m_Localized: CONTROL AND TARGET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570299
+    m_Localized: ROOT GUARDIAN AND REGENERATION SPECIALIST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570300
+    m_Localized: A ROOT GUARDIAN WHO ACCEPTS ARROWS AND SUPPORTS NEARBY ALLIES.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570301
+    m_Localized: FLAME GUARDIAN AND SHIELD MAIDEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570302
+    m_Localized: DETAILED REACTION RULES TO BE DETERMINED; NOT PART OF THE INITIAL PRE-POC.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570303
+    m_Localized: DETAILS IN PREPARATION.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570304
+    m_Localized: TRAINED AS A PATH OBSERVER; AS AN INVENTOR, CREATES PRISMATIC DEVICES THAT HELP DETECT THREATS AND MARK SAFE PASSAGES.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570305
+    m_Localized: 'QUICK SHOT AND CHAIN HITS. DEVELOPMENT: TEMPEST OR LANCER.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570306
+    m_Localized: FAST SCOUTING AND ELECTROIMPULSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570307
+    m_Localized: SPEED AND ENERGY.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570308
+    m_Localized: Sabotage and information shielding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570309
+    m_Localized: Each of the seven elements begins with a basic technology core.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570310
+    m_Localized: Sisters Eliry and Liory; their team choices do not have to be the same.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570311
+    m_Localized: Sister of Nivy and Eliry; a similar appearance does not give any bonus in the game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570312
+    m_Localized: Sister of Nivy and Liory; their family background does not force a shared composition.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570313
+    m_Localized: "Fix Itself (proposal): four outcomes at 25% each \u2014 50 shield, +50% attack speed for 5 s, +50% projectile speed for 5 s, or an unlucky result that stops the tower for 3 s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570314
+    m_Localized: Ally
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570315
+    m_Localized: The Falcon intercepts projectiles and quickly reaches the target; in defense, it helps mark Runners.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570316
+    m_Localized: Specialist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570317
+    m_Localized: 'Tower Specialist: Adrian''s piloted tower cannot be stopped in any way.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570318
+    m_Localized: Slows affecting her are 15% weaker.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570319
+    m_Localized: Slows are weaker, and controlled tower outages are shorter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570320
+    m_Localized: Movement slowdown from Ice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570321
+    m_Localized: Slowness associated with Nature; details remain open.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570322
+    m_Localized: 'Standard layout: 5 towers. Visible circles show range.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570323
+    m_Localized: For years, the elder keeper of port archives has helped travelers protect information about dangerous stretches of road.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570324
+    m_Localized: Begins in the name of carriers who demand safe and fairly distributed routes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570325
+    m_Localized: Begins to protect the independent settlement housing travel documentation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570326
+    m_Localized: Begins to support the supply exchange between the valley and the north.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570327
+    m_Localized: This character's stats and skills are in preparation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570328
+    m_Localized: Root guardian and regeneration specialist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570329
+    m_Localized: A root guardian who accepts arrows and supports nearby allies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570330
+    m_Localized: Flame Guardian and Shield Maiden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570331
+    m_Localized: Detailed reaction rules to be determined; not part of the initial pre-POC.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570332
+    m_Localized: Details in preparation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570333
+    m_Localized: Trained as a path observer; as an inventor, creates prismatic devices that help detect threats and mark safe passages.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570334
+    m_Localized: 'Quick shot and chain hits. Development: Tempest or Lancer.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570335
+    m_Localized: Fast scouting and electroimpulse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570336
+    m_Localized: Speed and energy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570337
+    m_Localized: SHIELD AND TOWER DEFENSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570338
+    m_Localized: "LIGHTWEAVER, INVENTOR, AND SCOUT \u2014 DIRECTION FOR DESIGN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570339
+    m_Localized: A WEAVER OF RENEWAL WHO HEALS THE TEAM AND STRENGTHENS DEFENSES.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570340
+    m_Localized: 'THIS IS A TEST BUILD: CHECK WHETHER YOU CAN SEE INCOMING FIRE, UNDERSTAND DAMAGE SOURCES AND REACT IN TIME.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570341
+    m_Localized: PARTNER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570342
+    m_Localized: "COMPANION \xB7 "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570343
+    m_Localized: ROUTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570344
+    m_Localized: HERO TRAINING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570345
+    m_Localized: TRAINING PREPARES THE HERO FOR FUTURE BATTLES; MASTERY REMAINS AN IDEA FOR FURTHER DEVELOPMENT.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570346
+    m_Localized: CARE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570347
+    m_Localized: POISON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570348
+    m_Localized: 'POISON AND MOVEMENT CONTROL. DEVELOPMENT: VINES OR THORNS.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570349
+    m_Localized: POISON {0:F1}S
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570350
+    m_Localized: 'POISON {0:F1}S  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570351
+    m_Localized: POISON {0:F1}s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570352
+    m_Localized: 'POISON {0:F1}s  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570353
+    m_Localized: YOUR TEAM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570354
+    m_Localized: CREATES A SLOWING ZONE ALONG THE PATH FOR ENEMIES.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570355
+    m_Localized: CREATES A SHIELD OF 100 FOR HERSELF AND 50 FOR NEARBY RUNNERS FOR 5 S.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570356
+    m_Localized: CREATES A FIELD THAT HEALS ALLIES AND MOBS FOR 5 S.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570357
+    m_Localized: YOU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570358
+    m_Localized: 'YOU
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570359
+    m_Localized: 'YOU
+
+      CHOOSING NOW'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570360
+    m_Localized: Shield and tower defense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570361
+    m_Localized: "Lightweaver, inventor, and scout \u2014 direction for design"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570362
+    m_Localized: A weaver of renewal who heals the team and strengthens defenses.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570363
+    m_Localized: 'This is a test build: check whether you can see incoming fire, understand damage sources and react in time.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570364
+    m_Localized: Training prepares the hero for future battles; mastery remains an idea for further development.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570365
+    m_Localized: Care
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570366
+    m_Localized: 'Poison and movement control. Development: Vines or Thorns.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570367
+    m_Localized: Creates a slowing zone along the path for enemies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570368
+    m_Localized: Creates a shield of 100 for herself and 50 for nearby Runners for 5 s.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570369
+    m_Localized: Creates a field that heals allies and mobs for 5 s.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570370
+    m_Localized: 'ESCAPE: ANA CALLS OUT TO BOB AND FEEDS HIM BAMBOO TO RESTORE PART OF HIS HP (PROPOSAL). DEFENSE: EVERY 30 SECONDS, BOB JUMPS FROM THE WALLS, ATTACKS THE NEAREST RUNNER FOR 10 BASE NATURE DAMAGE, AND RETURNS TO ANA. DURING THE ATTACK, HE IS INDESTRUCTIBLE AND UNSTOPPABLE; RUNNERS CAN PROTECT THEMSELVES.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570371
+    m_Localized: 'ESCAPE: PATSY QUICKLY FLIES IN A CIRCLE, FOCUSING THE TOWER''S FIRE ON HERSELF; DURING THE MANEUVER, SHE HAS A 75% CHANCE TO AVOID DAMAGE AND THEN RETURNS TO KONEVY. DETAILS AND DEFENSIVE ABILITY NEED TO BE DETERMINED.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570372
+    m_Localized: THE ENEMY TOWER LAYOUT IS REVEALED DURING AN ATTACK; THE REMEMBERED STATE MAY BECOME OUTDATED.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570373
+    m_Localized: 'PASSIVE  /  '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570374
+    m_Localized: REMOVES THE TEMPORARY DISABLE OF ONE LIVE TOWER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570375
+    m_Localized: REMOVES AN ALLY'S SLOW EFFECT AND PROTECTS THEM FROM IT FOR 2 SECONDS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570376
+    m_Localized: MAKES IT MORE DIFFICULT TO DISCOVER UNKNOWN TOWERS IN THE CHOSEN AREA.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570377
+    m_Localized: MAKES IT HARDER TO TARGET THE SELECTED TOWER FROM A GREATER DISTANCE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570378
+    m_Localized: 'Escape: Ana calls out to Bob and feeds him bamboo to restore part of his HP (proposal). Defense: Every 30 seconds, Bob jumps from the walls, attacks the nearest Runner for 10 base Nature damage, and returns to Ana. During the attack, he is indestructible and unstoppable; Runners can protect themselves.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570379
+    m_Localized: 'Escape: Patsy quickly flies in a circle, focusing the tower''s fire on herself; during the maneuver, she has a 75% chance to avoid damage and then returns to Konevy. Details and defensive ability need to be determined.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570380
+    m_Localized: The enemy tower layout is revealed during an attack; the remembered state may become outdated.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570381
+    m_Localized: Removes the temporary disable of one live tower.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570382
+    m_Localized: Removes an ally's slow effect and protects them from it for 2 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570383
+    m_Localized: Makes it more difficult to discover unknown towers in the chosen area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570384
+    m_Localized: Makes it harder to target the selected tower from a greater distance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570385
+    m_Localized: IN THE CURRENT PROTOTYPE, YOU SEE A SPIRAL, AUTOMATIC TOWERS, AND TEST FOG.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570386
+    m_Localized: COMING SOON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570387
+    m_Localized: IN THE FUTURE, TWO TEAMS WILL BUILD DEFENSES AND FACE EACH OTHER IN THE OPPONENT'S LABYRINTH.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570388
+    m_Localized: IN THE TRIALS OF DEFENSE, SHE AIMS TO PROJECT A SAFER PATH TO RESOURCES.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570389
+    m_Localized: FIGHTS IN TRIALS TO SECURE PROVISIONS FOR THE VALLEY AND FUNDS FOR RECONSTRUCTION.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570390
+    m_Localized: In the Trials of Defense, she aims to project a safer path to resources.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570391
+    m_Localized: Fights in Trials to secure provisions for the valley and funds for reconstruction.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570392
+    m_Localized: In the current prototype, you see a spiral, automatic towers, and test fog.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570393
+    m_Localized: In the future, two teams will build defenses and face each other in the opponent's labyrinth.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570394
+    m_Localized: FOG LAYERS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570395
+    m_Localized: "WASD \u2014 MOVE  \xB7  MOUSE \u2014 CAMERA\nSPACE \u2014 DODGE; PROJECTILES CANNOT HURT YOU DURING THE ROLL. 10 S COOLDOWN.\nQ \u2014 HERO ABILITY.\nESC \u2014 RELEASE OR CAPTURE THE CURSOR."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570396
+    m_Localized: "WASD \u2014 move  \xB7  mouse \u2014 camera\nSPACE \u2014 dodge; projectiles cannot hurt you during the roll. 10 s cooldown.\nQ \u2014 hero ability.\nESC \u2014 release or capture the cursor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570397
+    m_Localized: ENTER THE LABYRINTH, MEET THE HEROES AND TEST YOUR SKILLS UNDER TOWER FIRE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570398
+    m_Localized: VISION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570399
+    m_Localized: LONG-TIME KEEPER OF THE LIGHTHOUSE AND CONVOY LEADER, KNOWN FOR NEVER LEAVING COMPANIONS ON DANGEROUS PATHS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570400
+    m_Localized: 'TOWER '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570401
+    m_Localized: 'TOWER: '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570402
+    m_Localized: 'TOWER: LIGHTNING'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570403
+    m_Localized: 'TOWER: ICE'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570404
+    m_Localized: 'TOWER: NATURE'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570405
+    m_Localized: 'TOWER: FIRE'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570406
+    m_Localized: TOWERS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570407
+    m_Localized: TOWERS OPERATE AUTOMATICALLY; IN THE FINAL GAME, DEFENDERS CAN ALSO PILOT THEM.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570408
+    m_Localized: TOWERS STAND ON DESIGNATED WALL FIELDS; RUNNERS TRAVERSE THE PATH.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570409
+    m_Localized: ELEMENTAL TOWERS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570410
+    m_Localized: COMING SOON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570411
+    m_Localized: SUPPORT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570412
+    m_Localized: "FIRE SUPPORT \u2014 DIRECTION TO BE DESIGNED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570413
+    m_Localized: SUPPORTS THE TEAM FIGHTING FOR SAFE PASSAGE FOR CONVOYS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570414
+    m_Localized: COLLABORATIVE INVESTMENTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570415
+    m_Localized: CHOOSING NOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570416
+    m_Localized: SELECT AUTOMATICALLY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570417
+    m_Localized: CHOOSE YOUR HERO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570418
+    m_Localized: SELECT A HERO, PREPARE AUTOMATIC TOWERS, AND NAVIGATE THE SPIRAL LABYRINTH ALONE OR WITH AI ALLIES.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570419
+    m_Localized: SELECT A PORTRAIT TO SEE INFORMATION ABOUT THE HERO.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570420
+    m_Localized: SELECT A PORTRAIT, CHECK THE HERO, AND CONFIRM YOUR CHOICE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570421
+    m_Localized: CHOOSE YOUR TRIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570422
+    m_Localized: SELECTED TOWER TAKES 30% LESS DAMAGE FOR 5 SECONDS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570423
+    m_Localized: THE SELECTED TOWER RECEIVES TEMPORARY SHIELD OF 80 FOR 5 S.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570424
+    m_Localized: CHOSEN BY THE PLAYER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570425
+    m_Localized: CHILL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570426
+    m_Localized: DETECTED TARGETS REMAIN VISIBLE TO THE TEAM FOR ONE SECOND LONGER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570427
+    m_Localized: DETECTS RUNNERS AND MOBS IN THE SELECTED SECTOR.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570428
+    m_Localized: 'DETECTION AND PRECISE SHOOTING. DEVELOPMENT: BEACON OR RAY.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570429
+    m_Localized: RESULT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570430
+    m_Localized: RAISES A SHIELD FOR 4 SECONDS. ALLIES CAN HIDE BEHIND IT.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570431
+    m_Localized: APPEARS FOR THE PASS COMMUNITY TO MAINTAIN ACCESS TO SUPPLIES.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570432
+    m_Localized: APPEARS ON BEHALF OF TEAMS THAT WANT TO ALLOCATE PART OF THEIR RESOURCES TO WORKPLACE SAFETY.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570433
+    m_Localized: APPEARS TO IMPROVE ACCESS FOR SMALLER SETTLEMENTS TO DATA FROM OBSERVATORIES.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570434
+    m_Localized: A RESILIENT WARRIOR WHO PROTECTS ALLIES WITH SHIELDS OF FIRE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570435
+    m_Localized: ENDURANCE AND HEAVY HITS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570436
+    m_Localized: DISABLES ONE DISCOVERED TOWER FOR 2 SECONDS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570437
+    m_Localized: DISABLES ONE DISCOVERED TOWER FOR 3 SECONDS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570438
+    m_Localized: TOWER SHUTDOWN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570439
+    m_Localized: Fog Layers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570440
+    m_Localized: Enter the labyrinth, meet the heroes and test your skills under tower fire.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570441
+    m_Localized: Long-time keeper of the lighthouse and convoy leader, known for never leaving companions on dangerous paths.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570442
+    m_Localized: 'Tower '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570443
+    m_Localized: Towers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570444
+    m_Localized: Towers operate automatically; in the final game, Defenders can also pilot them.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570445
+    m_Localized: Towers stand on designated wall fields; Runners traverse the path.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570446
+    m_Localized: Support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570447
+    m_Localized: "Fire Support \u2014 direction to be designed"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570448
+    m_Localized: Supports the team fighting for safe passage for convoys.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570449
+    m_Localized: Select a hero, prepare automatic towers, and navigate the spiral labyrinth alone or with AI allies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570450
+    m_Localized: Select a portrait to see information about the hero.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570451
+    m_Localized: Select a portrait, check the hero, and confirm your choice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570452
+    m_Localized: Selected tower takes 30% less damage for 5 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570453
+    m_Localized: The selected tower receives temporary shield of 80 for 5 s.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570454
+    m_Localized: Detected targets remain visible to the team for one second longer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570455
+    m_Localized: Detects Runners and mobs in the selected sector.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570456
+    m_Localized: 'Detection and precise shooting. Development: Beacon or Ray.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570457
+    m_Localized: Raises a shield for 4 seconds. Allies can hide behind it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570458
+    m_Localized: Appears for the pass community to maintain access to supplies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570459
+    m_Localized: Appears on behalf of teams that want to allocate part of their resources to workplace safety.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570460
+    m_Localized: Appears to improve access for smaller settlements to data from observatories.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570461
+    m_Localized: A resilient warrior who protects allies with shields of fire.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570462
+    m_Localized: Endurance and heavy hits.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570463
+    m_Localized: Disables one discovered tower for 2 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570464
+    m_Localized: Disables one discovered tower for 3 seconds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570465
+    m_Localized: CUSTOM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570466
+    m_Localized: Custom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570467
+    m_Localized: DEPARTED FROM HER FAMILY'S VALLEY TO STUDY AT THE AURELU LIGHTHOUSE, LEARNING MAPPING AND OBSERVER WORK. HER LIGHT HELPS THE TEAM SEE THREATS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570468
+    m_Localized: Departed from her family's valley to study at the Aurelu Lighthouse, learning mapping and observer work. Her light helps the team see threats.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570469
+    m_Localized: SEEKS MEANS FOR CLINICS AND REBUILDING FIELDS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570470
+    m_Localized: DEALS 100 DAMAGE TO A SELECTED REVEALED TOWER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570471
+    m_Localized: REPLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570472
+    m_Localized: THREATS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570473
+    m_Localized: INTERFERENCES AND WEAKENINGS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570474
+    m_Localized: FREEZING TOWERS AND CONTROLLING THE ROUTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570475
+    m_Localized: RULES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570476
+    m_Localized: RIFTORYN RULES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570477
+    m_Localized: "ZET \xB7 Q: DISABLES THE NEARBY TOWER AND SPEEDS YOU UP FOR A MOMENT. APPROACH IT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570478
+    m_Localized: "ZET \xB7 Q: disables the nearby tower and speeds you up for a moment. Approach it."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570479
+    m_Localized: EARTH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570480
+    m_Localized: COLD STEP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570481
+    m_Localized: KNOWS ICE DEVICES USED TO MAINTAIN WAREHOUSES; LEARNED TO TEMPORARILY DISABLE MECHANISMS WITHOUT DESTROYING THE ENTIRE NETWORK.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570482
+    m_Localized: SHE WAS IN THE VALLEY TO HELP THE INJURED AND REBUILD PLACES AFTER PAST BATTLES. IN THE TEAM, SHE HEALS AND STRENGTHENS DEFENSE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570483
+    m_Localized: "SCOUTING AND PLANT MAGIC \u2014 CONCEPT IN DEVELOPMENT"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570484
+    m_Localized: INCREASES DAMAGE RECEIVED FOR A SPECIFIED TIME.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570485
+    m_Localized: Seeks means for clinics and rebuilding fields.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570486
+    m_Localized: Deals 100 damage to a selected revealed tower.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570487
+    m_Localized: Interferences and weakenings.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570488
+    m_Localized: Freezing towers and controlling the route
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570489
+    m_Localized: Earth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570490
+    m_Localized: Cold Step
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570491
+    m_Localized: Knows ice devices used to maintain warehouses; learned to temporarily disable mechanisms without destroying the entire network.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570492
+    m_Localized: She was in the valley to help the injured and rebuild places after past battles. In the team, she heals and strengthens defense.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570493
+    m_Localized: "Scouting and plant magic \u2014 concept in development"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570494
+    m_Localized: Increases damage received for a specified time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570495
+    m_Localized: Gleam the deer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570496
+    m_Localized: Patsy the bat-cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570497
+    m_Localized: "Shadow the raven"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570498
+    m_Localized: Spark the fox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570499
+    m_Localized: finished
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570500
+    m_Localized: "Flint the armadillo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570501
+    m_Localized: panda Bob
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570502
+    m_Localized: defeated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570503
+    m_Localized: Frost the lynx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570504
+    m_Localized: Thunder the falcon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570505
+    m_Localized: "{0}  \xB7  SHIELD {1}  \xB7  FINISH {2} M"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570506
+    m_Localized: "{0}  \xB7  SHIELD {1}  \xB7  FINISH {2} m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570507
+    m_Localized: '{0} CHARACTERS  /  CONCEPTS'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570508
+    m_Localized: WORLD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570509
+    m_Localized: WORLD AND TRIALS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570510
+    m_Localized: A WORLD OF SEVEN REALMS AND THEIR DISTINCT ELEMENTS. NAMES AND WORLD DETAILS ARE PROPOSALS.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570511
+    m_Localized: LIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570512
+    m_Localized: LIGHT, DETECTION, AND SCOUTING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570513
+    m_Localized: A world of seven realms and their distinct elements. Names and world details are proposals.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570514
+    m_Localized: Light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570515
+    m_Localized: Light, detection, and scouting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570516
+    m_Localized: HEAT AND AREA PRESSURE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570517
+    m_Localized: FIRE RESISTANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570518
+    m_Localized: FIRE DISTRICT VARETH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570519
+    m_Localized: ELEMENTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570520
+    m_Localized: ELEMENTS DISTINGUISH HEROES, TOWERS AND UNITS; BALANCE IS SUBJECT TO TESTING.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570521
+    m_Localized: LIVELY ROOTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570522
+    m_Localized: Heat and area pressure.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570523
+    m_Localized: Fire Resistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570524
+    m_Localized: Fire District Vareth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570525
+    m_Localized: Elements distinguish heroes, towers and units; balance is subject to testing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570526
+    m_Localized: Lively Roots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570527
+    m_Localized: "\u2190 MENU"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570528
+    m_Localized: "\u2190 MAIN MENU"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570529
+    m_Localized: "\u2190 BACK"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570530
+    m_Localized: "\u2190 CHANGE SETTING"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3311736570531
+    m_Localized: "\u2726 HERO TRIAL / TEAM SELECTION"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518551515136
+    m_Localized: TRIAL STATS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401216
+    m_Localized: PROPOSED STATS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401217
+    m_Localized: ATTACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401218
+    m_Localized: SPEED m/s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401219
+    m_Localized: "PET: {0} \xB7 HP {1} \xB7 ATK {2} \xB7 SPEED {3}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401220
+    m_Localized: '* Experimental E attack against a tower.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401221
+    m_Localized: ABILITIES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401222
+    m_Localized: DEFENSE*
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401223
+    m_Localized: ABILITY DETAILS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401224
+    m_Localized: Hover over an ability to see its description.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401225
+    m_Localized: No abilities have been described yet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401226
+    m_Localized: 'Planned passive; not yet active in the trial. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401227
+    m_Localized: 'Concept ability, unavailable in the trial. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401228
+    m_Localized: Grants you a 100-point shield and a nearby ally a 50-point shield for 5 s.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401229
+    m_Localized: You take 15% less direct Fire damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401230
+    m_Localized: Deals 100 damage to the nearest tower in range.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9518635401231
+    m_Localized: Disables the nearest tower in range for 2 s and increases your speed by 20% for 2 s.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11233979908096
+    m_Localized: Basic attack unavailable in the trial.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12022257401856
+    m_Localized: Hover over the concept below to read its details.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18648725045248
+    m_Localized: DETAILS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18648796348416
+    m_Localized: Hover over an ability or companion to see its details.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18648796348417
+    m_Localized: "Companion concept \u2014 unavailable in the trial. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19111151255552
+    m_Localized: Hover over the companion below to read its details.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

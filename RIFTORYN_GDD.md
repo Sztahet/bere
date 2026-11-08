@@ -10,6 +10,21 @@ Ten plik jest jedynym aktualnym GDD. Materiały w `archive/` są historią i źr
 
 **[USTALONE]** — decyzja użytkownika. **[PROPOZYCJA]** — konkretna hipoteza do zatwierdzenia i testów, nie fakt. **[OTWARTE]** — nie wolno samowolnie przyjąć za ostateczną regułę. W załączonych poniżej rozdziałach bohaterów, wież, technologii, świata i biografii wszystkie wartości i indywidualne koncepcje pozostają propozycjami, chyba że ustalono inaczej w części głównej. Nazwy lore, mapa świata i portrety pozostają do akceptacji. Nie należy traktować wcześniejszego GDD ani tekstów archiwalnych jako równorzędnych źródeł.
 
+## 0.1. Pre-PoC — pierwsza grywalna próba
+
+[USTALONE — ZAKRES] Najpierw budujemy **pre-PoC**: minimalną próbę przejścia bohaterem przez labirynt ostrzeliwany przez automatyczne wieże. „Bez obrony” oznacza tu brak drużyny Defenderów, ręcznego pilotowania wież i fazy rozgrywania obrony przez przeciwnika — same wieże są aktywną przeszkodą. Celem jest sprawdzenie, czy ruch, unikanie ostrzału, użycie umiejętności i presja czasu są czytelne oraz dają satysfakcję.
+
+**Minimum pre-PoC:**
+
+- Jeden gracz steruje przynajmniej jednym grywalnym bohaterem, który ma HP, prędkość i działającą umiejętność ataku; wartości są punktami startowymi do testów.
+- Jedna stała, drożna trasa w kształcie spirali prowadzi ze środka labiryntu do wyjścia. Kilka wcześniej ustawionych wież automatycznie wykrywa i ostrzeliwuje bohatera. Rodzaje wież, ich dokładne liczby i parametry są do testów.
+- Próbę kończy dotarcie bohatera do mety albo utrata HP. Widoczne są co najmniej HP i czas oraz wynik próby; można ją powtórzyć.
+- Mgła naciera po trasie. W przeglądarkowym teście rusza po około 5 s, a do mety dociera po 120 s od startu; opóźnienie i tempo wymagają dalszego sprawdzenia.
+
+[POZA MINIMUM] Własne ustawienie wież, wielu bohaterów, towarzysz AI, wspólna gra, mastery, draft, ekonomia, drzewko technologii, moby i pety nie są warunkiem ukończenia pre-PoC. Mogą być testowane osobno, jeśli są już dostępne. Obecny przeglądarkowy trening jest uproszczoną demonstracją tego kierunku, a nie pełną implementacją docelowych reguł. W szczególności testowy zwykły atak Kael na wieże jest eksperymentem i nie zmienia ustalonej w sekcji 4 zasady, że w grze docelowej wieże niszczą lub wyłączają wyłącznie umiejętności specjalne.
+
+**Następny etap — wcześniejszy zakres PoC 2v2:** zachowujemy opisany dalej, bardziej rozbudowany wariant jako kolejny etap po pre-PoC, nie jako warunek pierwszej próby. Obejmuje on m.in. dwie drużyny, draft, budowę i pary ataków; wcześniejsze oznaczenia „PoC” w GDD odnoszą się do tego późniejszego wariantu, chyba że wyraźnie wskazano pre-PoC.
+
 ## 1. Wizja i filary
 
 [USTALONE] Dwie drużyny po pięciu graczy naprzemiennie rozwijają własną obronę i próbują przejść przez labirynt rywala. Gracze jako Runnerzy poruszają się w TPP, wspierają się i unikają ostrzału; jako Defenderzy ręcznie przejmują sojusznicze wieże. Wieże i technologie rozwijają się przez cały mecz, a niepełna wiedza i wnioski z poprzednich prób wymuszają adaptację. Wspólny rozwój nie ogranicza bohaterów do wybranego żywiołu.
@@ -18,11 +33,11 @@ Filary: budowanie trwałej obrony, zręcznościowa ucieczka, zespołowe decyzje,
 
 ## 2. Przebieg meczu i wynik
 
-[USTALONE] Docelowo matchmaking → draft bohaterów (docelowo z banami, w MVP bez banów) → obie drużyny jednocześnie inwestują → obie równocześnie budują → A atakuje obronę B → B atakuje obronę A bez ponownego inwestowania lub budowy w środku pary → rozstrzygnięcie pary i przyznanie środków → kolejna faza inwestowania i budowy. Powtarzać do końca meczu; nie kończyć go w środku pary.
+[USTALONE] Docelowo matchmaking → draft bohaterów (docelowo z banami, w MVP bez banów) → obie drużyny jednocześnie inwestują → obie równocześnie budują → drużyna wybrana losowaniem atakuje obronę przeciwnika jako pierwsza → druga drużyna atakuje obronę pierwszej bez ponownego inwestowania lub budowy w środku pary → rozstrzygnięcie pary i przyznanie środków → kolejna faza inwestowania i budowy. Kolejność pierwszego ataku zmienia się między parami; jeżeli drużyny mają remisowy wynik, losowanie rozstrzyga, kto rozpoczyna następną parę. Powtarzać do końca meczu; nie kończyć go w środku pary. [OTWARTE] Sposób i moment losowania oraz obsługa sytuacji remisowego wyniku.
 
 [USTALONE] Wynik pary: (1) więcej Runnerów dociera do mety; (2) przy równej dodatniej liczbie wygrywa krótszy czas ostatniego Runnera na mecie; (3) jeżeli nikt nie dotarł, wygrywa drużyna, której Runner dotarł najdalej. Gdy wyniki nadal są równe, obie drużyny otrzymują po jednym punkcie. Mecz może zakończyć się remisem. Obrażenia zadane w obronie nie są tie-breakerem.
 
-[USTALONE] Runda punktowana oznacza pełną parę ataków. Faza zasadnicza trwa maksymalnie 10 takich rund; zdobycie 6 punktów kończy mecz natychmiast po rozliczeniu pełnej pary, np. 6:0 po sześciu parach. Przy wyniku 5:5 po dziesięciu rundach rozgrywa się jedną dodatkową, pełną parę; jej zwycięzca wygrywa mecz, a remis w tej parze oznacza remis meczu. Wyjątkowo cały mecz może więc obejmować 11 par. [USTALONE] Jeżeli po remisowej parze obie drużyny jednocześnie osiągają 6 punktów, czyli 6:6, mecz kończy się remisem. [USTALONE] Atak kończy się, gdy ostatni żywy Runner dotrze do mety albo wszyscy Runnerzy zostaną wyeliminowani. Dotarcie mgły do końca trasy po 120 s nie kończy ataku: trwa on dalej, dopóki wszyscy Runnerzy nie dotrą do mety lub nie zostaną wyeliminowani. [USTALONE] Draft korzysta ze wspólnej puli bez duplikatów: raz wybrany bohater nie może zostać wybrany ponownie przez żadną drużynę. Kolejność: A–B–B–A–A–B–B–A–A–B. W MVP bez banów. [OTWARTE] Docelowe reguły banów, kolejność pierwszego ataku, czas budowy i gotowość graczy.
+[USTALONE] Runda punktowana oznacza pełną parę ataków. Faza zasadnicza trwa maksymalnie 10 takich rund; zdobycie 6 punktów kończy mecz natychmiast po rozliczeniu pełnej pary, np. 6:0 po sześciu parach. Przy wyniku 5:5 po dziesięciu rundach rozgrywa się jedną dodatkową, pełną parę; jej zwycięzca wygrywa mecz, a remis w tej parze oznacza remis meczu. Wyjątkowo cały mecz może więc obejmować 11 par. [USTALONE] Jeżeli po remisowej parze obie drużyny jednocześnie osiągają 6 punktów, czyli 6:6, mecz kończy się remisem. [USTALONE] Atak kończy się, gdy ostatni żywy Runner dotrze do mety albo wszyscy Runnerzy zostaną wyeliminowani. Dotarcie mgły do końca trasy po 120 s nie kończy ataku: trwa on dalej, dopóki wszyscy Runnerzy nie dotrą do mety lub nie zostaną wyeliminowani. [USTALONE] Draft korzysta ze wspólnej puli bez duplikatów: raz wybrany bohater nie może zostać wybrany ponownie przez żadną drużynę. Kolejność: A–B–B–A–A–B–B–A–A–B. W MVP bez banów. [USTALONE — PoC] Przed pierwszym atakiem drużyny mają 90 s na budowę; po kolejnych parach mają 45 s. Faza budowy kończy się automatycznie, a atak rusza po odliczaniu bez wymogu gotowości graczy. Draft 2v2 używa skróconej kolejności A–B–B–A. [OTWARTE] Docelowe reguły banów; czasy PoC mogą wymagać korekty po testach.
 
 ### Pomiar postępu i czasu
 
@@ -32,7 +47,7 @@ Filary: budowanie trwałej obrony, zręcznościowa ucieczka, zespołowe decyzje,
 
 ### Rozłączenie i poddanie
 
-[USTALONE] Przewidujemy reconnect. Po rozłączeniu gracza mecz otrzymuje pauzę do **30 s** na jego powrót; limit to **jedna taka pauza na gracza w całym meczu**. [OTWARTE] Zachowanie po upływie 30 s lub kolejnym rozłączeniu, ponownym połączeniu po wznowieniu, rozłączeniu wielu graczy i dokładnych fazach obowiązywania pauzy. Nie ustalono jeszcze automatycznej przegranej ani zastąpienia gracza botem.
+[USTALONE] Przewidujemy reconnect. Po rozłączeniu gracza mecz otrzymuje pauzę do **30 s** na jego powrót; limit to **jedna taka pauza na gracza w całym meczu**. Jeśli gracz nie wróci w tym czasie lub rozłączy się ponownie po wykorzystaniu pauzy, mecz wznawia się bez niego. W MVP jego bohater pozostaje bierny, a jego wieże działają automatycznie. [PLAN NA PÓŹNIEJ] W docelowej wersji nieobecnego gracza ma przejmować bot. [OTWARTE] Zachowanie przy równoczesnym rozłączeniu wielu graczy, ponownym połączeniu po wznowieniu oraz dokładne fazy obowiązywania pauzy.
 
 [USTALONE — kierunek] Nie wprowadzamy zwykłego poddania dostępnego w każdej sytuacji. [PROPOZYCJA] Jeśli gracz opuści mecz i jego drużyna przegrywa, można rozważyć głosowanie nad poddaniem. Liczba głosów, dokładny warunek odejścia, moment dostępności oraz konsekwencje nie zostały ustalone; funkcja pozostaje do decyzji, nie jest jeszcze gotową regułą.
 
@@ -64,29 +79,90 @@ Podczas przebywania w mgle Runner jest spowolniony o **10%** i co sekundę otrzy
 
 [USTALONE] Wszystkie bazowe typy siedmiu żywiołów są dostępne od początku. Każda wieża ma właściciela; gracz ma wspólny limit bazowy i dowolnie dobiera typy, również jeden typ wielokrotnie. Technologie mogą dodawać ponad limit miejsca dla określonej kategorii. Limit bazowy wynosi pięć wież na gracza. W fazie przygotowania, w której wieża została postawiona, wyłącznie jej właściciel może ją bezpłatnie przestawić lub usunąć; usunięcie zwraca pełny koszt, a zajęte przez nią pole i limit budowy wracają do puli właściciela. Typu postawionej wieży nie można zmienić — trzeba ją usunąć i postawić inną. Po zakończeniu fazy przygotowania wieża pozostaje na miejscu do końca meczu; nie istnieje sprzedaż ani zwrot za trwałą wieżę. Zasady rozliczania dodatkowych uprawnień po usunięciu wieży pozostają do doprecyzowania.
 
-[USTALONE] Wieże automatyczne celują w najbliższy ważny cel; zdolności i taunt mogą to zmienić. Fizyczne pociski blokują ściany. Wieże można czasowo wyłączyć lub zniszczyć specjalnymi umiejętnościami Runnerów, nie zwykłym atakiem. Zniszczona wieża wraca przed kolejnym atakiem na tę samą obronę. Szczegóły trafień, leczenia, tarcz, wykrywania i kolizji wymagają testów.
+[USTALONE — PoC] W pierwszym PoC używamy tylko automatycznych wież T1 Ognia, Lodu i Błyskawic, z limitem pięciu na gracza. Nie ma ulepszeń T2/T3 ani ręcznego pilotażu. Drużyny bronią na dwóch identycznych kopiach mapy jednocześnie.
+
+[USTALONE] Wieże automatyczne celują w najbliższy ważny cel dowolnego dostępnego typu, w tym Runnera, moba lub peta; zdolności i taunt mogą to zmienić. Fizyczne pociski blokują ściany. Runnerzy mają zwykły atak oraz umiejętności specjalne przeciwko wrogim jednostkom; wieże można czasowo wyłączyć lub zniszczyć wyłącznie specjalnymi umiejętnościami Runnerów, nie zwykłym atakiem. Powtarzane efekty tego samego typu na wieży odświeżają czas zamiast sumować intensywność. Różne źródła tego samego statusu nie kumulują jego mocy; działa najsilniejsza aktywna wartość. Zniszczona wieża wraca przed kolejnym atakiem na tę samą obronę. Szczegóły trafień, leczenia, tarcz, wykrywania i kolizji wymagają testów.
 
 [USTALONE] Defender wybiera wolną sojuszniczą wieżę z mapy; natychmiast ją zajmuje, ale krótko trwa przejście do sterowania ręcznego. W tym czasie wieża działa automatycznie. Jeden Defender steruje co najwyżej jedną wieżą, a wieża ma co najwyżej jednego operatora. Można pilotować własne i sojusznicze; własna zapewnia większy bonus. Po wyjściu wraca automat. Defenderzy są nieśmiertelni, ale podlegają ogłuszeniom i zakłóceniom. 2 s i mnożniki z rozdziału balansu to propozycja.
 
-[USTALONE] Runner wyeliminowany nie odradza się w bieżącym ataku. Drużyna może wykorzystywać ofensywne moby jako osłonę i wsparcie. Taunt nie powinien pozbawiać operatora ręcznego swobody wyboru celu. [OTWARTE] Liczby, przywołanie, priorytety mobów, ich wpływ na wynik, szczegóły umiejętności i obserwacja po śmierci.
+[USTALONE] Runner wyeliminowany nie odradza się w bieżącym ataku. Runner ma dash do uniku na stałym czasie odnowienia oraz zwykły atak i umiejętności przeciw wrogim jednostkom; zwykły atak nie może wyłączać ani niszczyć wież. Drużyna może wykorzystywać ofensywne moby jako osłonę i wsparcie; ich dotarcie do mety nie wpływa na wynik pary. Niektóre technologie mogą automatycznie przywoływać sojuszniczą jednostkę w trakcie ataku, np. przy Runnerze najdalej od mety. Taunt nie powinien pozbawiać operatora ręcznego swobody wyboru celu. [OTWARTE] Zakres i zachowanie automatycznych przywołań z technologii, ewentualne inne metody przywołania mobów, ich limity i priorytety, szczegóły umiejętności i obserwacja po śmierci.
+
+[USTALONE — OSŁONY RUNNERÓW] Osłona jest osobnym zasobem ponad HP i przyjmuje obrażenia przed HP. Nowe punkty osłony dodają się natychmiast do aktualnej wartości; od pierwszej pełnej sekundy od przyznania cała aktualna osłona traci 10% swojej bieżącej wartości na sekundę (100 → 90 → 81 → 72,9 itd.). Nie ma osobnego czasu wygaśnięcia. Kolejne źródła sumują się z istniejącą osłoną. **Iskar — Lodowa zbroja:** regeneruje 2 punkty osłony na sekundę do maksymalnie 10; regeneracja działa tylko, gdy łączna osłona nie przekracza 10 punktów, i wznawia się, gdy większa osłona spadnie do tego progu.
+
+[USTALONE — PoC] Zwykły atak Runnera jest atakiem wręcz, a dash ma roboczy czas odnowienia **10 s**. PoC zawiera jednego szybkiego, kruchego moba bez ataku: jego rolą jest odciąganie ognia wież. Ma roboczo **40 HP** i prędkość **6 m/s**. Węzeł automatycznie przywołuje takiego moba co **30 s podczas ataku**, przy Runnerze najdalej od mety. Nie ma sztywnego limitu liczby mobów; drzewko technologii może zmieniać odstęp między przywołaniami. Dokładne węzły i wartości zmian tempa są do dopracowania.
 
 ## 5. Ekonomia, drzewko i obrażenia
 
 [USTALONE] Jedna waluta. Na początku każdy gracz otrzymuje 400 g do wydania, a dodatkowe 100 g za niego automatycznie zasila początkowy węzeł żywiołu wybranego bohatera. Wpłaty sumują się; w 5v5 jest to 2000 g gotówki oraz 500 g wpłaconych do węzłów. Wszystkie bazowe wieże są dostępne bez zakupu węzła. Początkowy płatny węzeł to ikona żywiołu, koszt 800 g. Skład nie zabrania inwestycji w inne żywioły.
 
-[USTALONE] Początkowa faza około 50 s indywidualnie + 10 s wspólnej puli; po kolejnych parach 20 + 10 s. Kliknięcie wpłaca dostępną kwotę do wysokości brakującego kosztu; nadwyżka pozostaje do rozdysponowania. Niewydane środki przechodzą do wspólnej puli, a następnie są automatycznie inwestowane; wolna gotówka nie przechodzi na kolejną rundę. Częściowe wpłaty w węzłach pozostają. Wspólna pula działa na zasadzie pierwszeństwa, konflikty rozstrzyga serwer. Priorytet autoinwestycji: rozpoczęte węzły, rozwijane gałęzie, sąsiadujące ulepszenia, inne dozwolone opcje w ostateczności.
+[USTALONE] Początkowa faza inwestowania trwa około 50 s indywidualnie + 10 s wspólnej puli; po kolejnych parach 20 + 10 s. Kliknięcie wpłaca dostępną kwotę do wysokości brakującego kosztu; nadwyżka pozostaje do rozdysponowania. Niewydane środki przechodzą do wspólnej puli, a następnie są automatycznie inwestowane; wolna gotówka nie przechodzi na kolejną rundę. Częściowe wpłaty w węzłach pozostają. Wspólna pula działa na zasadzie pierwszeństwa, konflikty rozstrzyga serwer. Priorytet autoinwestycji: najpierw węzły z częściowymi wpłatami, potem ulepszenia należące do najbardziej rozwiniętych drzewek, a gdy nie ma już dostępnych ulepszeń — losowa kolejna dostępna umiejętność. Szczegóły wyboru między równorzędnymi opcjami wymagają doprecyzowania.
 
-[USTALONE] Każdy węzeł daje korzyść w ataku i obronie, a wspólne bonusy działają na drużynę niezależnie od żywiołu bohatera. Każdy żywioł ma podstawę T1, dwa warianty T2 oraz jeden wspólny T3. Pierwsza wpłata, również częściowa, w T2 blokuje konkurencyjny wariant. Pełne sfinansowanie automatycznie zmienia wszystkie odpowiednie wieże drużyny. [PROPOZYCJA] Koszt T2 1400 g i T3 2200 g; efekty w rozdziale technologii. [OTWARTE — DECYZJA UŻYTKOWNIKA] Działanie i koszty 21 reakcji między żywiołami.
+[USTALONE] Każdy węzeł daje korzyść w ataku i obronie, a wspólne bonusy działają na drużynę niezależnie od żywiołu bohatera. Każdy żywioł ma podstawę T1, dwa warianty T2 oraz jeden wspólny T3. Pierwsza wpłata, również częściowa, w T2 blokuje konkurencyjny wariant. Pełne sfinansowanie automatycznie zmienia wszystkie odpowiednie wieże drużyny. [PROPOZYCJA] Koszt T2 1400 g i T3 2200 g; efekty w rozdziale technologii. [OTWARTE — DECYZJA UŻYTKOWNIKA] Działanie i koszty 21 reakcji między żywiołami; PoC obejmuje ograniczony, jeszcze niewybrany zestaw reakcji.
 
-[PROPOZYCJA] Bazowa macierz żywiołów: każda para różnych żywiołów to główna przewaga/słabość 120%/80%, zwykła 110%/90% lub neutralność 100%. Każdy żywioł ma po jednej przewadze i słabości obu stopni oraz dwie neutralne relacje. Główne przewagi: Ogień → Natura; Lód → Światło; Błyskawice → Lód; Natura → Ziemia; Ziemia → Błyskawice; Światło → Ciemność; Ciemność → Ogień. Zwykłe przewagi: Ogień → Lód; Lód → Natura; Błyskawice → Ogień; Natura → Światło; Ziemia → Ciemność; Światło → Ziemia; Ciemność → Błyskawice. Wartości i przypisania wymagają przeglądu.
+[USTALONE — PoC] Drzewko PoC obejmuje rdzenie T1 wszystkich siedmiu żywiołów. Nie zawiera specjalizacji T2/T3 ani reakcji między żywiołami; obowiązuje podstawowa macierz obrażeń.
 
-[OTWARTE] Które cele mają żywioł, relacja do tego samego żywiołu, łączenie mnożników z odpornościami/HP/osłonami, dochód po rundzie, premie, automatyczne inwestowanie w przypadku braku dostępnych węzłów, kolizje równoczesnych wpłat oraz zasady AFK. [PROPOZYCJA] Mnożniki obrażeń i węzłów liczyć multiplikatywnie; nie jest to zatwierdzona reguła. Cel około 20% kosztu całego drzewka na mecz wymaga wyceny po zdefiniowaniu reakcji i długości meczu.
+[USTALONE — PoC] Węzeł przywołania tworzy szybkiego, kruchego moba co 30 s podczas ataku; limitu aktywnych jednostek nie ma. Drzewko może skracać odstęp przywołań. Dokładne ulepszenia wpływające na ten czas pozostają do zaprojektowania.
+
+[PROPOZYCJA] Bazowa macierz żywiołów: każda para różnych żywiołów to główna przewaga/słabość 120%/80%, zwykła 110%/90% lub neutralność 100%. Każdy żywioł ma po jednej przewadze i słabości obu stopni oraz dwie neutralne relacje. Główne przewagi: Ogień → Natura; Lód → Światło; Błyskawice → Lód; Natura → Ziemia; Ziemia → Błyskawice; Światło → Ciemność; Ciemność → Ogień. Zwykłe przewagi: Ogień → Lód; Lód → Natura; Błyskawice → Ogień; Natura → Światło; Ziemia → Ciemność; Światło → Ziemia; Ciemność → Błyskawice. [PROPOZYCJA DO TESTÓW] Atak przeciw celowi tego samego żywiołu zadaje roboczo 50% obrażeń, jako silna odporność celu na własny żywioł. Dokładny zakres tej odporności i jej łączenie z innymi modyfikatorami pozostają do weryfikacji.
+
+[PROPOZYCJA DO TESTÓW — ODPORNOŚCI BOHATERÓW] Bohater dziedziczy odporności z relacji między swoim żywiołem a żywiołem atakującego: neutralny 0%; zwykła przewaga bohatera +5%, główna przewaga +10%; zwykła słabość −5%, główna słabość −10%. Relacja z własnym żywiołem bohatera jest neutralna. Tankowiec otrzymuje pasywnie dodatkowe +5% odporności na każdy żywioł; premie dodają się do wartości bazowej. Wartości i sposób łączenia wymagają testów.
+
+[USTALONE] Bohaterowie, wieże i moby mają żywioł; pet dziedziczy żywioł bohatera. Modyfikatory przewagi lub słabości żywiołu, technologii i odporności celu sumują się addytywnie. [PROPOZYCJA DO TESTÓW] Trafienie celu tym samym żywiołem zadaje roboczo 50% obrażeń; wartość i zakres wrogów objętych tą odpornością wymagają weryfikacji. [USTALONE — PoC] Po każdej parze ataków każdy gracz otrzymuje **150 g**; każdy gracz drużyny, która wygrała parę, otrzymuje dodatkowe **50 g**. Przy remisie obie drużyny dostają premię zwycięzcy. Są to wartości startowe do testów. [OTWARTE] Zachowanie odporności na ten sam żywioł wobec mobów i petów, kolejność łączenia modyfikatorów z osłonami, kolizje równoczesnych wpłat oraz zasady AFK. Cel około 20% kosztu całego drzewka na mecz wymaga wyceny po zdefiniowaniu reakcji i długości meczu.
 
 ## 6. Bohaterowie i zawartość
 
 [USTALONE] Siatka 4 ról × 7 żywiołów: Tank, Wsparcie, Specjalista i Przywoływacz (Summoner); 28 kombinacji. Wszystkich 30 zaplanowanych postaci można wybrać w symulatorze draftu i przeglądać w kodeksie; brakujące portrety, statystyki i umiejętności nadal wymagają opracowania. Do PoC zostanie wybranych kilka postaci. MVP obejmie 12 grywalnych bohaterów, po trzech z każdej z czterech ról; konkretna lista pozostaje do ustalenia. Docelowo dwa warianty na kombinację dają 56 postaci; nie ustalono, czy mają odmienne umiejętności.
 
+[PROPOZYCJA DO TESTÓW — BONUSY KLASOWE] Bonus klasy jest oddzielny od unikalnej pasywki bohatera i w kodeksie ma ikonę swojej roli. Tank otrzymuje dodatkowe +5% odporności na każdy żywioł; Wsparcie wzmacnia leczenie i naprawy o 10%; Specjalista zwiększa o 25% szybkość ataku wieży, którą ręcznie pilotuje w obronie; Przywoływacz ma Peta-towarzysza z własnym HP, który automatycznie za nim podąża. Wartości i szczegóły wymagają testów.
+
 [USTALONE] Rola nadaje zadanie, żywioł różnicuje sposób gry. Tank jest raczej wolny i wytrzymały. Niva, Elira i Liora są proponowanymi siostrami; Thora jest młodą dorosłą strażniczką, ma odrębny wygląd i nie ma ustalonego pokrewieństwa z nimi. [PROPOZYCJA] Koncepcje umiejętności, statystyki, pochodzenie i historie bohaterów znajdują się w kompletnych rozdziałach poniżej; dla pozostałych dziewięciu specjalizacje są ogólnym kierunkiem, nie zatwierdzonym zestawem umiejętności.
+
+[USTALONE — PoC] Pierwszy PoC celuje w 2v2. Główna pula obejmuje sześciu bohaterów: Brom i Thora (Tank), Liora i Varek (Wsparcie), Saila i Zet (Specjalista). Dodatkową, siódmą postacią testową jest jeden Przywoływacz z petem, aby sprawdzić tę mechanikę. Wszystkie siedem postaci należy do tej samej puli draftu i nie można wybrać bohatera ponownie przez żadną drużynę. Przywoływacz jest wyjątkiem testowym i nie przesądza, czy pozostanie pełnoprawną rolą w docelowej puli.
+
+[USTALONE — PoC] Pet ma własne HP i automatycznie podąża za Przywoływaczem; gracz nie wydaje mu komend. W ataku pełni funkcję ochronną i przekierowuje na siebie część obrażeń Przywoływacza; po wyeliminowaniu wraca na początku jego następnego ataku. Nie chroni innych Runnerów. **W PoC pet nie ma zdolności obronnej.** Wartość przekierowania obrażeń pozostaje do ustalenia.
+
+[OTWARTE] Szczegółowa propozycja 12 bohaterów obecnie opisuje po cztery Tanki, Wsparcia i Specjalistów, natomiast główny zakres MVP przewiduje po trzech bohaterów w czterech rolach, w tym Przywoływaczy. Skład i podział ról pełnego MVP wymagają ujednolicenia.
+
+### Zestawienie podstawowych statystyk 30 bohaterów
+
+Poniższe liczby to **propozycja bazowego balansu do testów**, a nie zatwierdzony balans. Zwykły atak zadaje obrażenia wrogim jednostkom, ale nie wyłącza ani nie niszczy wież; wieże są celem zdolności specjalnych. Obrażenia podano na trafienie. Bazowa hierarchia ruchu: **Specjalista 5,5–5,8 m/s > Przywoływacz 5,1–5,4 m/s > Wsparcie 4,7–4,9 m/s > Tank 4,0–4,4 m/s**. Bazowe obrażenia zwykłego ataku: Specjalista 20, Tank 14, Wsparcie 10, Przywoływacz 8. Szczegóły postaci mogą dodawać premie lub wyjątki.
+
+Przywoływacz ma dwa pełne zestawy statystyk: własne oraz swojego peta. Przywoływacz zaczyna z około 60 HP — najniższą pulą wśród bohaterów. HP peta zależy od funkcji i sylwetki: kruchy kruk/kotoperz ma mało HP, a osłonowa panda dużo. Petów nie wybiera się osobno w draftcie; są przypisani do bohaterów. Wartości obrażeń peta oznaczają jego zwykły atak przeciw jednostkom; zdolności specjalne mogą zadawać inne obrażenia. Ruch peta jest jego własną prędkością, niezależną od Przywoływacza.
+
+| Bohater | Rola / żywioł | HP bohatera | Obrażenia ataku bohatera | Prędkość bohatera (m/s) | Pet | HP peta | Obrażenia ataku peta | Prędkość peta (m/s) |
+|---|---|---:|---:|---:|---|---:|---:|---:|
+| Brom | Tank / Ziemia | 180 | 14 | 4,0 | — | — | — | — |
+| Thora | Tank / Natura | 165 | 14 | 4,1 | — | — | — | — |
+| Morrak | Tank / Ciemność | 170 | 14 | 4,2 | — | — | — | — |
+| Kael | Tank / Ogień | 170 | 14 | 4,4 | — | — | — | — |
+| Iskar | Tank / Lód | 175 | 14 | 4,1 | — | — | — | — |
+| Taren | Tank / Błyskawice | 165 | 14 | 4,2 | — | — | — | — |
+| Orien | Tank / Światło | 170 | 14 | 4,3 | — | — | — | — |
+| Liora | Wsparcie / Natura | 120 | 10 | 4,8 | — | — | — | — |
+| Elira | Wsparcie / Światło | 120 | 10 | 4,8 | — | — | — | — |
+| Varek | Wsparcie / Błyskawice | 115 | 10 | 4,9 | — | — | — | — |
+| Niva | Wsparcie / Lód | 125 | 10 | 4,7 | — | — | — | — |
+| Solan | Wsparcie / Ogień | 120 | 10 | 4,8 | — | — | — | — |
+| Dara | Wsparcie / Ziemia | 125 | 10 | 4,7 | — | — | — | — |
+| Nocten | Wsparcie / Ciemność | 115 | 10 | 4,9 | — | — | — | — |
+| Rian | Specjalista / Ogień | 110 | 20 | 5,6 | — | — | — | — |
+| Saila | Specjalista / Lód | 105 | 20 | 5,5 | — | — | — | — |
+| Zet | Specjalista / Błyskawice | 100 | 20 | 5,8 | — | — | — | — |
+| Morven | Specjalista / Ciemność | 105 | 20 | 5,6 | — | — | — | — |
+| Miko | Specjalista / Błyskawice | 105 | 20 | 5,8 | — | — | — | — |
+| Eron | Specjalista / Natura | 110 | 20 | 5,5 | — | — | — | — |
+| Kiran | Specjalista / Ziemia | 115 | 20 | 5,5 | — | — | — | — |
+| Adrien | Specjalista / Światło | 105 | 20 | 5,7 | — | — | — | — |
+| Pyrra | Przywoływacz / Ogień | 60 | 8 | 5,2 | Lis Iskra | 65 | 12 | 6,0 |
+| Eira | Przywoływacz / Lód | 60 | 8 | 5,2 | Ryś Szron | 85 | 14 | 5,5 |
+| Volt | Przywoływacz / Błyskawice | 60 | 8 | 5,4 | Sokół Grom | 55 | 10 | 7,0 |
+| Ana | Przywoływacz / Natura | 60 | 8 | 5,1 | Panda Bob | 150 | 10 | 3,8 |
+| Rokan | Przywoływacz / Ziemia | 60 | 8 | 5,1 | Pancernik Krzemień | 120 | 8 | 3,8 |
+| Lumen | Przywoływacz / Światło | 60 | 8 | 5,3 | Jeleń Blask | 95 | 8 | 5,0 |
+| Koneva | Przywoływacz / Ciemność | 60 | 8 | 5,3 | Kotoperz Patka | 50 | 10 | 6,5 |
+| Neris | Przywoływacz / Ciemność | 60 | 8 | 5,2 | Kruk Cień | 45 | 8 | 6,5 |
+
+Obrażenia specjalnych zdolności pozostają osobną statystyką i wynikają z opisu zdolności: np. Q Riana zadaje 100 obrażeń wieży, a obronny atak Boba zadaje 10 bazowych obrażeń Natury. Liczby z tabeli należy weryfikować w testach, szczególnie relację niskiego HP Przywoływacza do HP i prędkości peta. Pula 30 nazw i ról odpowiada symulatorowi draftu; wartości brakujące wcześniej dla 18 postaci są propozycjami do testów.
 
 ## 7. Świat, estetyka i technologia
 
@@ -110,23 +186,23 @@ Podczas przebywania w mgle Runner jest spowolniony o **10%** i co sekundę otrzy
 
 Ta lista obejmuje wyłącznie **decyzje i opisy projektowe**. Wartości, dla których mamy już założenie — np. limit ataku 120 s, trasa około 360 m, limit pięciu wież czy robocze obrażenia — pozostają jako **wartości startowe do testów w działającym PoC**. Nie wymagają potwierdzenia przed powstaniem grywalnej wersji. Ustalenie brakującej reguły może być także jawną decyzją o uproszczeniu jej na potrzeby PoC; nie trzeba mieć finalnego balansu.
 
-1. **Przebieg ataku i meczu:** podstawowe zasady draftu, pomiaru, reconnectu i mgły zapisano. Doprecyzować skutki nieudanego reconnectu, równoczesne rozłączenia, dokładny moment tików mgły oraz ewentualny zakres głosowania przy odejściu gracza. Zwykłe poddanie nie jest planowane.
+1. **Przebieg ataku i meczu:** opisano kolejność ról w parze, automatyczny start ataku i następstwa reconnectu w MVP. Nadal doprecyzować losowanie pierwszej kolejności i jej zmianę przy remisie wyniku, równoczesne rozłączenia, dokładny moment tików mgły oraz ewentualny zakres głosowania przy odejściu gracza. Docelowe boty zastępujące rozłączonych graczy są pracą na później.
 2. **Mapa i budowa:** zasady pól, rezerwacji, równoczesnej budowy na lustrzanych mapach, modyfikowania świeżo postawionych wież oraz ruchu mgły po trasie zapisano. Do doprecyzowania przed implementacją: wymiarowanie pól i kolizji w metrach, kontrola drożności oraz tempo rozszerzania skażenia po dojściu mgły do mety. Długość 360 m pozostaje punktem wyjścia do testów.
-3. **Podstawy walki:** opisać dostępne ruchy i uniki Runnera, trafienia i osłony, wpływ przeszkód, stan wyłączonych lub zniszczonych wież, zakłócenie Defendera oraz zasady obserwacji po eliminacji. Wskazać, które wartości w szczegółowej części GDD przyjmujemy jako początkowe dla PoC.
+3. **Podstawy walki:** dash, zwykły atak Runnera przeciw jednostkom i jego ograniczenia wobec wież oraz odświeżanie czasu wyłączenia wieży zapisano. Doprecyzować dokładne sterowanie i cooldowny, trafienia i osłony, wpływ przeszkód, zakłócenie Defendera, priorytety celów wież i szczegóły statusów. Wskazać, które wartości przyjmujemy jako początkowe dla PoC.
 4. **Widoczność i pilotaż:** podstawowe zasady wykrywania, pamięci odkrytych wież, informacji o Runnerach i obserwacji po eliminacji zapisano. Do doprecyzowania pozostają dokładne zasięgi i prezentacja nieaktualnego stanu. Nadal opisać wybór, przejęcie i opuszczenie wieży oraz to, kiedy można używać umiejętności podczas pilotażu.
-5. **Ekonomia po parze ataków:** zaproponować dochód, ewentualne premie i reguły rozłączenia; rozpisać deterministyczne autoinwestowanie, w tym sytuację, gdy nie ma dostępnego węzła. Już zapisane środki startowe i koszty drzewka zachować jako punkt wyjścia; tempo ich wydawania podlega późniejszym testom.
-6. **Reakcje i obrażenia żywiołów:** użytkownik określa efekty i koszty reakcji; dla PoC jawnie wskazać, które reakcje są uwzględnione, a które odłożone. Doprecyzować, jakie cele mają żywioł, jak działa starcie tego samego żywiołu i w jakiej kolejności liczone są mnożniki, odporności, statusy oraz osłony.
-7. **Moby:** opisać początkową jednostkę, jej przywołanie, zachowanie, limit i interakcję z wyborem celu przez wieże. Ustalić, czy dotarcie moba do mety ma znaczenie dla wyniku.
-8. **Bohaterowie i drzewko:** przejrzeć istniejące zestawy 12 bohaterów oraz węzły, zamknąć brakujące zasady ich działania w ataku i obronie oraz wybrać zakres pierwszej wersji. Wartości HP, prędkości, czasów odnowienia i kosztów oznaczyć jako startowe do testów, a nie wymagać ich finalnego balansu. W symulatorze dostępnych jest 30 postaci; zakres PoC i lista 12 bohaterów MVP po trzech z każdej roli pozostają do wyboru.
-9. **Zakres i kryteria PoC:** zapisać minimalny zestaw graczy, map, wież, mobów, bohaterów, technologii i telemetrii oraz scenariusze, które prototyp ma umożliwić. To plan dokumentu, nie warunek wykonania testów przed rozpoczęciem prototypu.
+5. **Ekonomia po parze ataków:** PoC ma startowe wartości 150 g na gracza i premię 50 g dla każdego gracza zwycięskiej drużyny; przy remisie premię dostają obie drużyny. To punkt startowy do testów, a nie domknięta ekonomia pełnej gry. Priorytet autoinwestowania zapisano; doprecyzować rozstrzygnięcie losowe między równorzędnymi ulepszeniami.
+6. **Reakcje i obrażenia żywiołów:** PoC nie zawiera reakcji między żywiołami; używa podstawowej macierzy. Żywioły jednostek, addytywne łączenie modyfikatorów i roboczą odporność 50% na ten sam żywioł zapisano. Do weryfikacji: zakres 50% odporności i jej połączenie z osłonami oraz statusem.
+7. **Moby:** pierwszy mob PoC ma 40 HP, 6 m/s i odciąga ogień wież, nie zadając obrażeń. Pojawia się co 30 s przy Runnerze najdalej od mety; limitu liczby aktywnych mobów nie ma, a drzewko może skracać odstęp. Ich dotarcie nie zmienia wyniku. Doprecyzować ulepszenia zmieniające odstęp i interakcję z wyborem celu przez wieże.
+8. **Bohaterowie i drzewko:** zakres bohaterów PoC jest wybrany; pełna lista 12 bohaterów MVP i niespójność podziału ról wymagają ujednolicenia. Przejrzeć zestawy bohaterów oraz węzły i opisać brakujące zasady ich działania w ataku i obronie. Wartości HP, prędkości, czasów odnowienia i kosztów oznaczyć jako startowe do testów. W symulatorze dostępnych jest 30 postaci; umiejętności i balansem pozostałej zawartości trzeba zająć się przed pełnym wdrożeniem.
+9. **Zakres i kryteria późniejszego PoC 2v2:** to etap po minimalnym pre-PoC opisanym w sekcji 0.1; ustalono 2v2; sześciu głównych bohaterów z trzech ról plus dodatkowego, siódmego Przywoływacza do testu peta; draft bez duplikatów; dwie identyczne kopie mapy o trasie około 360 m; automatyczne wieże T1 Ognia, Lodu i Błyskawic, pięć na gracza; bez pilotażu, T2/T3 i reakcji; siedem rdzeni T1; szybki mob 40 HP / 6 m/s bez ataku, pojawiający się co 30 s przy Runnerze najdalej od mety, bez limitu aktywnych jednostek; pet bez komend, w ataku chroni Przywoływacza przez przekierowanie części obrażeń i nie ma zdolności obronnej; zwykły atak wręcz; dash z odnowieniem 10 s; budowa 90 s przed pierwszym atakiem i 45 s po kolejnych parach; dochód 150 g na gracza i premia 50 g dla każdego gracza zwycięskiej drużyny, przyznawana obu drużynom w remisie. PoC ma obsługiwać kilka par; pierwsza sesja testowa obejmuje trzy pełne pary. Zbieramy wynik, postęp i czasy Runnerów oraz dane o obrażeniach, strzałach/trafieniach wież, użyciach zdolności i przeżyciu mobów/peta. Działanie drogi i walki oceniamy ręcznie; kryteria i checklista testów oraz wyjątki zatwierdzane przez projektanta wymagają jeszcze zapisania.
 10. **Wymagania techniczne i produkcyjne w GDD:** opisać docelowe platformy, oczekiwania wobec multiplayera i serwera, danych oraz importu modeli. Zachować UE5 jako propozycję, a nie zatwierdzony wybór; wybór i praktyczną weryfikację narzędzi przeprowadzić później.
 11. **Końcowy przegląd dokumentu:** oznaczyć ustalone zasady, wartości startowe i rzeczy odłożone; przejść przez przykładową pełną parę ataków oraz sprawdzić, czy opisane interakcje nie przeczą sobie. Dopiero po zamknięciu potrzebnych luk przygotować zadania implementacyjne dla agentów.
 
 ## 9. Ocena gotowości i otwarte ryzyka
 
-**Ocena: 5/10 jako dokument do przekazania agentom do samodzielnego zbudowania gry; 7/10 jako opis wizji do planowania preprodukcji.** Rdzeń rozgrywki, pętla, ekonomia startowa, kierunek artystyczny oraz spora część zawartości są opisane. Brakuje jednak kluczowych reguł meczu, skali mapy, pełnych reakcji i obrażeń, zachowania mobów, jednoznacznej ekonomii po rundzie oraz decyzji technicznych. Liczb nie zweryfikowano w rozgrywce. Powyższa ocena to osąd projektowy, nie wynik testów.
+**Ocena: 6/10 jako dokument do przekazania agentom do samodzielnej implementacji całej gry; 8/10 jako opis wizji do planowania preprodukcji i budowy ograniczonego PoC.** Ostatnie decyzje domknęły ważne zasady meczu, budowania, widoczności, podstaw walki, wyniku mobów, premii ekonomicznej i kierunku PoC. Nadal brakuje wielu liczb oraz specyfikacji zawartości wymaganych do samodzielnej implementacji pełnej gry. Ocena jest osądem projektowym, nie wynikiem testów.
 
-**Ryzyka wymagające decyzji:** (1) obowiązek wydania wszystkich środków nie ma rozwiązania, gdy nie ma dostępnego miejsca na wpłatę; (2) zrównanie siły i słabości żywiołów wymaga ustalenia przynależności celu, bez naruszenia swobody bohaterów; (3) bonus +10% i specjalizacje mogą w skupionym ustawieniu stworzyć nieprzechodną obronę; (4) gotowość 12 bohaterów w MVP zwiększa zakres przed weryfikacją pętli; (5) prototyp kodu i historyczne dokumenty nie potwierdzają rzeczywistej implementacji ani balansu; (6) brak wykrytego repozytorium Git w bieżącym katalogu oznacza brak potwierdzonej kontroli wersji.
+**Najważniejsze pozostałe ryzyka:** (1) zakres i efekty reakcji żywiołów oraz kompletne zdolności bohaterów są niegotowe; (2) ekonomia 150 g + 50 g to wartości startowe PoC, a nie gotowy model pełnej gry; (3) 50% odporności na własny żywioł jest hipotezą do testów, a nie zatwierdzonym balansem; (4) liczby peta, wartości węzła przywołania, wymiary pól, dokładne zasięgi wykrywania i tempo rozszerzania skażenia mgły pozostają do doprecyzowania; (5) specyfikacje mobów, wież i technologii nie pokrywają jeszcze całej zawartości MVP; (6) role i skład pełnego MVP wymagają ujednolicenia; (7) silnik, platformy i model sieciowy nie są wybrane ani sprawdzone. Liczby i równowaga nie zostały zweryfikowane w grze.
 
 ## 10. Co sprawdzimy dopiero po powstaniu grywalnego PoC
 
@@ -168,7 +244,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 **Q w obronie — Kamienna zbroja:** wybrana żywa wieża otrzymuje o 30% mniej obrażeń przez 5 s. Nie chroni przed wyłączeniem. **Odnowienie: 20 s.** Kontra: obejście tarczy albo przeczekanie zbroi.
 
 #### 2. Thora — Tank Natury: Strażniczka Korzeni
-**HP:** 165. **Prędkość:** 4,3 m/s. Wytrzymuje ostrzał i podtrzymuje pobliskich sojuszników.
+**HP:** 165. **Prędkość:** 4,1 m/s. Wytrzymuje ostrzał i podtrzymuje pobliskich sojuszników.
 
 **Pasywka — Żywotne korzenie:** otrzymuje o 15% więcej leczenia. W obronie jej naprawa osłony jest silniejsza; poniższa wartość już to uwzględnia.
 
@@ -177,7 +253,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 **Q w obronie — Korzenna osłona:** wybrana żywa wieża natychmiast odzyskuje 46 punktów zwykłej osłony i przez 4 s otrzymuje o 15% mniej obrażeń. **Odnowienie: 22 s.** Kontra: rozproszenie drużyny lub ostrzał przekraczający tempo leczenia.
 
 #### 3. Morrak — Tank Ciemności: Strażnik Cienia
-**HP:** 170. **Prędkość:** 4,3 m/s. Tworzy przestrzeń do unikania pocisków.
+**HP:** 170. **Prędkość:** 4,2 m/s. Tworzy przestrzeń do unikania pocisków.
 
 **Pasywka — Oczy mroku:** efekty ograniczające jego widoczność trwają o 20% krócej; dotyczy to również widoku wieży podczas jego ręcznego pilotażu.
 
@@ -190,9 +266,9 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 
 **Pasywka — Hartowanie:** otrzymuje o 20% mniej obrażeń okresowych; w obronie ta sama premia dotyczy ręcznie pilotowanej przez niego wieży.
 
-**Q w ataku — Żarowa bariera:** na 5 s otrzymuje osłonę pochłaniającą 100 obrażeń. Obecni w promieniu 3 m sojuszniczy Runnerzy otrzymują po 50 punktów osłony na 5 s. Osłona znika po wyczerpaniu. **Odnowienie: 22 s.**
+**Q w ataku — Żarowa bariera:** natychmiast otrzymuje 100 punktów osłony. Obecni w promieniu 3 m sojuszniczy Runnerzy otrzymują po 50 punktów osłony. Osłony sumują się z aktualnymi zasobami i zanikają zgodnie z ogólną regułą 10% bieżącej wartości na sekundę. **Odnowienie: 22 s.**
 
-**Q w obronie — Rozgrzana zbroja:** wybrana żywa wieża otrzymuje dodatkową tymczasową osłonę 80 punktów na 5 s; jest ona zużywana przed zwykłą osłoną. **Odnowienie: 22 s.** Kontra: wyczerpanie lub przeczekanie bariery.
+**Q w obronie — Rozgrzana zbroja:** wybrana żywa wieża otrzymuje natychmiast 80 dodatkowych punktów osłony; są zużywane przed zwykłą osłoną i zanikają zgodnie z ogólną regułą osłon. **Odnowienie: 22 s.** Kontra: wyczerpanie lub przeczekanie bariery.
 
 ### Miko — Specjalista Błyskawic: Szermierz-Inżynier (druga seria)
 
@@ -204,16 +280,16 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 
 ### Nowa rola: Przywoływacz (Summoner)
 
-[USTALONE] Przywoływacz ma mało HP oraz towarzyszącego mu peta, który może przyjmować część obrażeń; gracz wydaje petowi polecenia. Ana to Przywoływaczka Natury, a jej towarzyszem jest panda Bob. Jej portret inspirowany zdjęciem przedstawia ją z pełnowymiarową pandą Bobem.
+[USTALONE] Przywoływacz ma mało HP oraz towarzyszącego mu peta z własnym HP. W PoC pet automatycznie podąża za właścicielem; nie wydaje mu się komend. Wartości do testów dla Neris i kruka Cienia znajdują się w tabeli statystyk. Ana to Przywoływaczka Natury, a jej towarzyszem jest panda Bob. Jej portret inspirowany zdjęciem przedstawia ją z pełnowymiarową pandą Bobem.
 
-[PROPOZYCJA] W ucieczce pet osłania bohatera i wykonuje komendy. W obronie współpracuje z pilotowaną wieżą; szczegółowe efekty wymagają projektu. Żywioł bohatera nie ogranicza wyboru wież. Towarzysze są odrębną mechaniką od ogólnodrużynowych mobów z technologii.
+[PROPOZYCJA] W ataku pet osłania właściciela przez przekierowanie części otrzymywanych przez niego obrażeń. W PoC pety nie mają zdolności w obronie. Poza PoC poszczególne pety mogą otrzymać zdolności obronne, takie jak koncepcyjna Klątwa Cienia kruka Neris. Żywioł bohatera nie ogranicza wyboru wież. Towarzysze są odrębną mechaniką od ogólnodrużynowych mobów z technologii.
 
-[OTWARTE] HP i odporności, sposób przejmowania obrażeń (przekierowanie czy fizyczne przechwycenie), zasięg i dostępne komendy, zachowanie AI, śmierć i powrót peta, interakcje z mgłą, celowaniem wież, blokowaniem trasy i wynikami, działanie w obronie oraz zakres MVP. Żadne wartości nie są jeszcze zatwierdzone.
+[OTWARTE] Wartość przekierowania obrażeń, interakcje peta z mgłą, celowaniem wież, blokowaniem trasy i rozliczeniem wyników oraz zachowanie podczas powrotu po wyeliminowaniu wymagają doprecyzowania. Pozostałe pety nie otrzymują komend w PoC.
 
 **Siedem koncepcji — nazwy i zdolności robocze:**
 
 - **Ogień — Pyrra i lis Iskra:** lis przechwytuje pocisk i tworzy krótką strefę żaru; w obronie pomaga wieży wywierać presję obszarową.
-- **Lód — Eira i ryś Szron:** ryś zasłania bohaterkę i zostawia śliski ślad; w obronie wzmacnia kontrolę ruchu w pobliżu wieży.
+- **Lód — Eira i ryś Szron:** ryś zasłania bohatera i zostawia śliski ślad; w obronie wzmacnia kontrolę ruchu w pobliżu wieży.
 - **Błyskawice — Volt i sokół Grom:** sokół szybko dociera do wskazanego miejsca i przechwytuje pocisk; w obronie pomaga oznaczyć cel dla operatora.
 - **Natura — Ana i panda Bob:** panda osłania Anę oraz wskazanego sojusznika; w obronie wspiera wieżę ochroną lub kontrolą obszaru. Portret przedstawia Anę z pełnowymiarowym Bobem.
   - [PROPOZYCJA] **Bambus dla Boba:** Ana przywołuje Boba do siebie, wyciąga bambus z plecaka i karmi go, regenerując część jego HP. O charakterze umiejętności decydują wspólna animacja i wybór bezpiecznego momentu. Do zaprojektowania: ilość leczenia, czas animacji, odnowienie lub limit użyć, przerwanie i działanie, gdy Bob jest poza zasięgiem albo został wyeliminowany.
@@ -222,7 +298,10 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 - **Światło — Lumen i jeleń Blask:** jeleń osłania sojusznika świetlistą barierą; w obronie pomaga ujawniać przeciwników w obszarze wieży.
 - **Ciemność — Koneva i Patka:** Konevie towarzyszy mały demoniczny kotoperz Patka; umiejętność obronna wymaga opracowania. Koneva jest pierwszą postacią tej kombinacji.
   - [USTALONE — wartość do testów] **Ucieczka — aktywna zdolność Patki:** Patka przez chwilę bardzo szybko lata w kółko, skupiając na sobie ogień wieży; podczas manewru ma 75% szansy na uniknięcie obrażeń. Po zakończeniu wraca i lata w pobliżu Konevy. [OTWARTE] Czas działania, odnowienie, zasięg, sposób wskazania i liczba wież, szczegóły losowania uników i interakcja z operatorem ręcznym oraz zachowanie po wyeliminowaniu Patki.
-- **Druga seria — Ciemność — Neris i kruk Cień:** kruk przyjmuje część obrażeń dzięki więzi z bohaterem; w obronie tymczasowo utrudnia Runnerom orientację, bez ustalonej jeszcze mechaniki.
+- **Ciemność — Neris i kruk Cień:** kruk przyjmuje część obrażeń dzięki więzi z bohaterką.
+  - **Pasywka — Czujny lot:** kruk automatycznie utrzymuje się około 3 m przed Neris, licząc wzdłuż trasy w kierunku mety. Każde trafienie skierowane w kruka ma 25% szansy na uniknięcie obrażeń.
+  - **Q w ataku — Ucieczka kruka:** kruk wzbija się w powietrze i opuszcza mapę; w tym stanie nie może być trafiony ani przejmować obrażeń. Odzyskuje 2 HP/s i wraca natychmiast po osiągnięciu pełnego HP. Czas odnowienia wynosi 30 s i zaczyna się po powrocie kruka.
+  - **Koncepcja zdolności obronnej — Klątwa Cienia (poza PoC):** co 20 s kruk wybiera żywego Runnera-bohatera z najmniejszą aktualną liczbą HP i nakłada na niego klątwę na 5 s. Petów i mobów nie uwzględnia przy wyborze celu; remis HP rozstrzyga losowanie. Klątwa zmniejsza o 80% zasięg, z którego przeciwni Defenderzy i wieże mogą wykryć tego Runnera (pozostaje 20% normalnego zasięgu). Nie zmienia widoczności innych jednostek ani wiedzy własnej drużyny. [DO DOPRECYZOWANIA] Pierwsza aktywacja po rozpoczęciu obrony; zachowanie, gdy nie ma żywego Runnera-bohatera; możliwość nałożenia klątwy na Runnera już wykrytego; minimalny zasięg wykrywania po modyfikatorze. Ta zdolność nie wchodzi do PoC.
 
 ### Prompty portretowe: Przywoływacze
 
@@ -249,7 +328,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 ### Wsparcie
 
 #### 5. Liora — Wsparcie Natury: Tkaczka Odnowy
-**HP:** 120. **Prędkość:** 5 m/s. Leczy grupę i naprawia obronę.
+**HP:** 120. **Prędkość:** 4,8 m/s. Leczy grupę i naprawia obronę.
 
 **Pasywka — Troska:** jej leczenie oraz naprawa są o 10% silniejsze; wartości poniżej już uwzględniają premię.
 
@@ -258,7 +337,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 **Q w obronie — Naprawa:** wybrana żywa wieża natychmiast odzyskuje 66 HP i 44 punkty zwykłej osłony. **Odnowienie: 20 s.** Kontra: zmuszenie grupy do wyjścia z pola lub zniszczenie wieży przed naprawą.
 
 #### 6. Elira — Wsparcie Światła: Latarniczka
-**HP:** 120. **Prędkość:** 5 m/s. Ułatwia drużynie zdobywanie informacji.
+**HP:** 120. **Prędkość:** 4,8 m/s. Ułatwia drużynie zdobywanie informacji.
 
 **Pasywka — Jasny wzrok:** obiekty wykryte przez sojuszników pozostają aktualnie widoczne dla drużyny o 1 s dłużej po utracie wykrycia. W obronie dotyczy to wykrytych Runnerów i mobów; nie odkrywa obiektów samodzielnie.
 
@@ -267,7 +346,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 **Q w obronie — Świetlny dozór:** przez 5 s wykrywa Runnerów i moby w promieniu 6 m od wybranego punktu własnej mapy. Informację otrzymuje tylko jej drużyna. **Odnowienie: 20 s.** Kontra: opuścić sektor i wykorzystać przerwę w wykrywaniu.
 
 #### 7. Varek — Wsparcie Błyskawic: Przewodnik Impulsu
-**HP:** 115. **Prędkość:** 5,3 m/s. Synchronizuje ruch grupy i wspiera automatykę wież.
+**HP:** 115. **Prędkość:** 4,9 m/s. Synchronizuje ruch grupy i wspiera automatykę wież.
 
 **Pasywka — Resztkowy impuls:** po użyciu Q porusza się o 10% szybciej przez 2 s. W obronie przygotowanie do ręcznego pilotażu trwa u niego 1,8 s zamiast roboczych 2 s.
 
@@ -276,7 +355,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 **Q w obronie — Szybki zapłon:** wybrana wieża strzela automatycznie o 20% szybciej przez 5 s; nie zmienia szybkostrzelności ręcznej. **Odnowienie: 20 s.** Kontra: wymuszenie wczesnego użycia lub czasowe wyłączenie wieży.
 
 #### 8. Niva — Wsparcie Lodu: Mroźna Opiekunka
-**HP:** 125. **Prędkość:** 4,9 m/s. Usuwa wybrane efekty kontroli.
+**HP:** 125. **Prędkość:** 4,7 m/s. Usuwa wybrane efekty kontroli.
 
 **Pasywka — Mrozoodporność:** działające na nią spowolnienia ruchu są o 20% słabsze; wyłączenia wieży, którą ręcznie pilotuje, są o 20% krótsze.
 
@@ -287,7 +366,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 ### Specjaliści
 
 #### 9. Saila — Specjalistka Lodu: Lodowa Sabotażystka
-**HP:** 105. **Prędkość:** 5,2 m/s. Czasowo unieszkodliwia obronę.
+**HP:** 105. **Prędkość:** 5,5 m/s. Czasowo unieszkodliwia obronę.
 
 **Pasywka — Zimny krok:** spowolnienia ruchu na Saili są o 15% słabsze. W obronie ręcznie pilotowana przez nią wieża ma o 10% większy promień wykrywania.
 
@@ -296,7 +375,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 **Q w obronie — Lodowa strefa:** na 4 s umieszcza na trasie obszar o promieniu 3 m. Runnerzy i wrogie moby wewnątrz są spowolnieni o 30%; efekt znika przy wyjściu. Strefa nie blokuje przejścia. **Odnowienie: 24 s.** Kontra: ochrona wieży, oczyszczanie lub ominięcie pola.
 
 #### 10. Zet — Specjalista Błyskawic: Burzowy Zwiadowca
-**HP:** 100. **Prędkość:** 5,6 m/s. Szybko dociera do zagrożeń i je zakłóca.
+**HP:** 100. **Prędkość:** 5,8 m/s. Szybko dociera do zagrożeń i je zakłóca.
 
 **Pasywka — Iskra manewru:** po Q otrzymuje 15% prędkości na 2 s. W obronie ręcznie pilotowana przez niego wieża ma o 10% większy promień wykrywania.
 
@@ -305,7 +384,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 **Q w obronie — Impuls zwiadu:** wykrywa Runnerów i moby w promieniu 5 m od wybranego punktu mapy przez 3 s. **Odnowienie: 18 s.** Kontra: krótki zasięg i mała pula HP Zeta.
 
 #### 11. Rian — Specjalista Ognia: Łamacz Żaru
-**HP:** 110. **Prędkość:** 5,2 m/s. Zadaje obrażenia wybranej wieży.
+**HP:** 110. **Prędkość:** 5,6 m/s. Zadaje obrażenia wybranej wieży.
 
 **Pasywka — Żaroodporność:** otrzymuje o 15% mniej obrażeń Ognia; w obronie ta sama premia chroni ręcznie pilotowaną wieżę przed zdolnościami Ognia.
 
@@ -314,7 +393,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 **Q w obronie — Ognisty znacznik:** oznacza wykrytego Runnera na 4 s. Sojusznicze automatyczne wieże preferują go jako cel, jeśli pozostaje w ich zwykłym zasięgu i polu widzenia. Nie ogranicza ręcznego celowania. **Odnowienie: 16 s.** Kontra: naprawa, osłony i ukrycie za ścianą.
 
 #### 12. Morven — Specjalista Ciemności: Mistrz Zakłóceń
-**HP:** 105. **Prędkość:** 5,3 m/s. Utrudnia automatyczne celowanie i zdobywanie informacji.
+**HP:** 105. **Prędkość:** 5,6 m/s. Utrudnia automatyczne celowanie i zdobywanie informacji.
 
 **Pasywka — Krok w cień:** po Q promień wykrywania Morvena przez wrogie wieże jest o 20% mniejszy przez 2 s. W obronie ręcznie pilotowana przez niego wieża zostaje odkryta przez Runnerów dopiero z odległości o 2 m mniejszej; nie ukrywa informacji już odkrytej.
 
@@ -403,7 +482,7 @@ Do testów: czas przeżycia, liczba graczy na mecie, różnica automat/pilot, sk
 
 **Status: pełna propozycja do testów, bez określania reakcji żywiołów.** Wszystkie wartości do balansu. 400 g do rozdysponowania na gracza oraz dodatkowe 100 g automatycznej wpłaty do rdzenia żywiołu wybranego bohatera. W drużynie 5v5 daje to 2000 g dostępnej gotówki i 500 g wpłaconych do rdzeni. Bazowe wieże są dostępne bez zakupu węzła.
 
-Koszty w kolejności: rdzeń **800 g**, jedna z dwóch wykluczających się specjalizacji **1400 g**, wspólne ulepszenie T3 **2200 g**. Każdy węzeł wymaga ukończenia poprzedniego; pierwsza wpłata w specjalizację blokuje drugą. Wpłaty mogą być częściowe. Wszystkie premie działają po pełnym sfinansowaniu. T3 zastępuje, a nie sumuje, premie T2. Reakcje: 21 par, efekt i koszt do decyzji użytkownika.
+Koszty w kolejności: rdzeń **800 g**, jedna z dwóch wykluczających się specjalizacji **1400 g**, wspólne ulepszenie T3 **2200 g**. Każdy węzeł wymaga ukończenia poprzedniego; pierwsza wpłata w specjalizację blokuje drugą. Wpłaty mogą być częściowe. Wszystkie premie działają po pełnym sfinansowaniu. T3 zastępuje, a nie sumuje, premie T2. Docelowo przewidziano 21 par reakcji; PoC obejmie ograniczony zestaw wybrany do osobnego opracowania.
 
 Węzły bazowe wpływają na wszystkich Runnerów, niezależnie od ich żywiołu. Odporności i podatności odnoszą się do typu otrzymywanych obrażeń, a nie do żywiołu wieży czy bohatera. Mnożnik silny/słaby i efekty technologii są oddzielne: propozycja do testów — mnożyć je, np. 100 × 1,20 × 0,90 = 108; premie z różnych węzłów mnożą się. Dotyczy bezpośrednich i okresowych obrażeń danego żywiołu. Szczegóły tarcz i reakcji nadal wymagają decyzji.
 
@@ -475,7 +554,7 @@ Początkowy węzeł za 800 g to sama ikona żywiołu na kole, nie dodatkowy sąs
 
 ## RIFTORYN — historia świata i oś czasu
 
-**Wersja 0.1 — propozycja kreatywna do przeglądu.** Wybrany kierunek: po wyniszczającej wojnie krainy rozstrzygają część sporów o zasoby poprzez obowiązkowe próby drużyn w labiryntach. Imiona miejsc, instytucji i postaci historycznych, chronologia oraz szczegóły fabuły poniżej są propozycjami, nie zatwierdzonym kanonem. Mechaniki opisane w GDD mają pierwszeństwo przed interpretacją fabularną. Lata liczymy od podpisania Traktatu Równych Ścieżek: **PT — przed traktatem; ET — era traktatu**.
+**KONCEPCJA FABULARNA · v0.1 — propozycja kreatywna do przeglądu.** Wybrany kierunek: po wyniszczającej wojnie krainy rozstrzygają część sporów o zasoby poprzez obowiązkowe próby drużyn w labiryntach. Imiona miejsc, instytucji i postaci historycznych, chronologia oraz szczegóły fabuły poniżej są propozycjami, nie zatwierdzonym kanonem. Mechaniki opisane w GDD mają pierwszeństwo przed interpretacją fabularną. Lata liczymy od podpisania Traktatu Równych Ścieżek: **PT — przed traktatem; ET — era traktatu**.
 
 ### Opowieść o świecie
 
@@ -483,7 +562,7 @@ Kontynent **Eryndor** nie został stworzony przez siedem żywiołów jako siedem
 
 W głębi ziemi występował **splotyt** — kryształowy minerał zdolny do przechowywania i przewodzenia energii żywiołów. Pozwalał zasilać latarnie, utrzymywać kanały irygacyjne, przenosić wiadomości i budować wieże obronne. Żadna kraina nie miała dostępu do wszystkich złóż, a drogi transportowe przebiegały przez cudze ziemie. Pokój zależał od wymiany bardziej, niż chcieli przyznać władcy.
 
-Przez wiele pokoleń działała **Umowa Siedmiu Szlaków**. Miasta dzieliły się dostępem do dróg, kopalń i urządzeń, a ich przedstawiciele spotykali się, by rozstrzygać spory. Nie był to świat pozbawiony konfliktów, ale koszt wojny przewyższał korzyści płynące z handlu.
+Przez wiele pokoleń działała **Umowa Siedmiu Szlaków** — dawne, wielostronne porozumienie handlowe między niezależnymi miastami. Ustalała zasady dostępu do dróg, kopalń i urządzeń, a jej przedstawiciele negocjowali spory. Nie była instytucją rządzącą krainami ani późniejszą Radą Siedmiu Szlaków. Nie był to świat pozbawiony konfliktów, ale koszt wojny przewyższał korzyści płynące z handlu.
 
 Wszystko zmieniło odkrycie sposobu łączenia wież w **sieci splotu**. Pojedyncza wieża mogła automatycznie wykrywać i atakować zagrożenie. W sieci grupa wież dzieliła zasilanie i korzystała ze wspólnych badań. Obrońca mógł również nawiązać z jedną z nich bezpośrednią więź i przejąć jej sterowanie. Własną konstrukcję obsługiwał sprawniej, bo znał jej zachowanie i sposób dostrojenia.
 
@@ -491,17 +570,21 @@ Sieci miały chronić miasta. Gdy zaczęło brakować łatwo dostępnego splotyt
 
 Napięcie doprowadziło do **Wojny Siedmiu Bram**. Krainy walczyły o złoża i drogi, a dowódcy wymyślali coraz trudniejsze do przejścia fortyfikacje. W odpowiedzi powstawały drużyny przełamujące obrony: wojownicy niosący osłony, zwiadowcy, uzdrowiciele, sabotażyści i przywołane konstrukty. Nie walczono już wyłącznie o zwycięstwo w jednej bitwie — walczono też o możliwość dowiezienia żywności i uruchomienia miejskich urządzeń.
 
-Kulminacją była **Noc Zgasłych Wież**. Podczas oblężenia węzła handlowego Val Meris obie strony przeciążyły połączone sieci. Wieże gasły i uruchamiały się w nieprzewidziany sposób, drogi ewakuacyjne zostały odcięte, a cywile utknęli pomiędzy fortyfikacjami. Źródła nie są zgodne co do liczby ofiar ani dokładnej przyczyny przeciążenia. Wiadomo, że po tej nocy nawet dowódcy domagający się dalszej walki musieli uznać, że żadna strona nie kontroluje już skutków wojny.
+Kulminacją była **Noc Zgasłych Wież**. Podczas oblężenia węzła handlowego Val Meris połączone sieci przestały działać prawidłowo. Wieże gasły i uruchamiały się w nieprzewidziany sposób, drogi ewakuacyjne zostały odcięte, a cywile utknęli pomiędzy fortyfikacjami. Zachowane świadectwa są sprzeczne: powojenne opracowanie Urzędu przypisuje awarię jednoczesnemu przeciążeniu sieci przez obie strony; ocalała z dzielnicy mostowej twierdzi, że pierwsza zgasła wieża po stronie, która nie prowadziła wtedy ostrzału; niepełny zapis przekaźnika wskazuje zaś na przerwę w zasilaniu poprzedzającą oba odnotowane przeciążenia. Żadne z tych świadectw nie jest rozstrzygające, a liczba ofiar także pozostaje niepewna. Po tej nocy nawet dowódcy domagający się dalszej walki musieli uznać, że nikt nie kontroluje już skutków wojny.
 
 Rozejm nie rozwiązał jednak najtrudniejszego problemu: kryształów i bezpiecznych szlaków nadal nie starczało wszystkim. Trzeba było znaleźć sposób podejmowania decyzji, który nie prowadziłby automatycznie do kolejnej wojny.
 
 Pierwszy krok wykonali dowódcy dwóch zwaśnionych miast. Zgodzili się rozstrzygnąć ograniczony spór o konwój w **Pojedynku Bram**. Każda strona otrzymała taki sam układ murów, zbudowała własną obronę i wysłała drużynę przez labirynt przeciwnika. Dopiero kiedy obie drużyny zagrały obie role, porównano wyniki. Próba nie usunęła nieufności, ale pozwoliła dostarczyć zaopatrzenie bez bitwy.
 
-Kilka lat później przedstawiciele siedmiu krain podpisali **Traktat Równych Ścieżek**. Powstała **Rada Siedmiu Szlaków**, odpowiedzialna za wspólny rejestr zasobów i nadzór nad traktatem, oraz niezależny od pojedynczej krainy **Urząd Prób**, który przygotowuje areny, publikuje zasady i zatwierdza wyniki.
+Kilka lat później przedstawiciele siedmiu krain podpisali **Traktat Równych Ścieżek**. Traktat powołał **Radę Siedmiu Szlaków** — organ wspólnego nadzoru nad traktatem i rejestrem zasobów — oraz niezależny od pojedynczej krainy **Urząd Prób**, który przygotowuje areny, publikuje zasady i zatwierdza wyniki. Rada nie jest dawną Umową Siedmiu Szlaków: Umowa była porozumieniem handlowym, a Rada instytucją ustanowioną przez Traktat.
 
-Traktat ustanowił obowiązek poddawania próbie określonych sporów o wspólne złoża, transport i dostęp do infrastruktury. **Obowiązek dotyczy stron sporu i reprezentujących je drużyn, nie każdego mieszkańca kontynentu.** Krainy same wybierają swoich reprezentantów, ale nie mogą jednostronnie narzucić wyniku przeciwnikowi. Odmowa udziału lub zignorowanie rozstrzygnięcia może prowadzić do utraty dostępu do wspólnych zasobów i szlaków zarządzanych przez Radę. Urząd nie rozwiązuje wszystkich konfliktów i nie zastępuje lokalnego prawa.
+Traktat ustanowił obowiązek poddawania próbie określonych sporów o wspólne złoża, transport i dostęp do infrastruktury. **Obowiązek dotyczy stron sporu i reprezentujących je drużyn, nie każdego mieszkańca kontynentu.** Strony zgłaszają sprawę i każda samodzielnie wskazuje własnych reprezentantów; Urząd sprawdza, czy zgłoszone składy spełniają wspólne zasady udziału. Miasta, gildie i stowarzyszenia mogą organizować nabór lub sponsorować uczestników, ale nie stają się przez to stroną ani arbitrem. Odmowa udziału lub zignorowanie rozstrzygnięcia może prowadzić do utraty dostępu do wspólnych zasobów i szlaków zarządzanych przez Radę. Wiążący skutek ma wyłącznie wynik Próby formalnie przyjętej przez Urząd jako rozstrzygnięcie traktatowe. Urząd nie rozwiązuje wszystkich konfliktów i nie zastępuje lokalnego prawa.
 
-Podczas pierwszych lat traktatu Próby były skromnymi wydarzeniami, oglądanymi głównie przez zainteresowane społeczności. Później stały się zawodami, w których uczestnictwo przynosi sławę, wpływy i możliwość zdobycia środków dla rodzinnych miast. Dzisiejsi bohaterowie znają Próby zarówno jako obowiązek, jak i szansę. Jedni chcą służyć swojej społeczności, inni rywalizować, odkrywać świat albo zmienić instytucję od środka.
+Pierwsze Próby traktatowe nadal przypominały dawne zmagania krain: każda z siedmiu wysyłała championów wychowanych we własnej tradycji żywiołu. Zachowane kroniki opisują serię pojedynków Ognia z Lodem, w której Ogień zwyciężał niemal za każdym razem; inne zestawienia również pokazywały, jak skład i przygotowanie wpływały na wynik. Była to historyczna tendencja w ówczesnym formacie i doborze drużyn, nie powszechne prawo magii ani gwarancja wyniku pojedynczego starcia.
+
+Wkrótce strony sporów zaczęły wybierać składy według potrzeb konkretnej sprawy i uzupełniających się umiejętności, korzystając z naborów i wsparcia miast, gildii oraz stowarzyszeń. Bohaterowie z różnych krain mogli walczyć ramię w ramię, jeśli zostali zatwierdzeni jako reprezentanci tej samej strony. Organizator naboru ani sponsor nie zmieniał formalnej tożsamości drużyny. Nie oznaczało to końca sporów ani stałego sojuszu między ich ojczystymi krainami: dawni sojusznicy mogli reprezentować przeciwne strony w kolejnej sprawie. Mieszane drużyny okazały się skuteczniejsze w zmiennych warunkach, a ich sukces umocnił taki sposób doboru.
+
+Próby traktatowe rozstrzygają sprawy zgłoszone przez strony objęte Traktatem. Osobno Urząd, miasta, gildie lub stowarzyszenia mogą organizować dobrowolne zawody i sezony publiczne w tym samym formacie. Ich wyniki przynoszą sławę, wpływy i nagrody, ale same w sobie nie zmieniają praw do szlaku ani zasobów. Drużyny zawodów reprezentują zgłaszającą je społeczność lub organizację, a nie strony sporu traktatowego. Bohater może więc startować w zawodach z własnego wyboru, a w innym czasie zostać wskazanym do obowiązkowej Próby traktatowej.
 
 Nie wszyscy wierzą jednak, że pokój jest trwały. W rejestrach Urzędu zaczynają pojawiać się rozbieżności dotyczące starych złóż. Niektóre sieci wież reagują na kryształy inaczej, niż wynika z ich dokumentacji. Rada podejrzewa fałszerstwa, lecz nie wie jeszcze, czy stoją za nimi pojedynczy handlarze, przedstawiciele krain, czy zwykłe błędy po latach wojny. Tajemnica istnieje jako punkt wyjścia do przyszłych historii — nie przesądza o istnieniu sekretnej organizacji ani nadnaturalnego wroga.
 
@@ -538,10 +621,11 @@ Nie wszyscy wierzą jednak, że pokój jest trwały. W rejestrach Urzędu zaczyn
 - **8 PT:** Zespoły rzemieślników i medyków opracowują bezpieczniejsze pieczęcie arenowe. Nadal trwają spory o to, kto powinien nadzorować pojedynki.
 - **5 PT:** Kolejne miasta dobrowolnie używają prób do rozstrzygania ograniczonych sporów. Powstają pierwsze wspólne protokoły wyników i kontroli aren.
 - **2 PT:** Negocjatorzy uzgadniają zakres obowiązku: do prób trafiają wskazane w traktacie spory o wspólne zasoby i szlaki, nie wszystkie konflikty między obywatelami.
-- **0 ET:** Podpisano Traktat Równych Ścieżek. Powołano Radę Siedmiu Szlaków i Urząd Prób. Pierwszy publiczny sezon ma pokazać, czy zasady są wykonalne.
+- **0 ET:** Podpisano Traktat Równych Ścieżek i powołano Radę Siedmiu Szlaków oraz Urząd Prób. Traktat określa wiążące Próby dla wskazanych sporów; pierwszy dobrowolny sezon publiczny służy pokazaniu formatu i nie rozstrzyga praw do zasobów.
 
 #### 1–34 ET — era prób
 
+- **1 ET:** W pierwszych Próbach traktatowych krainy wskazują championów. Kroniki odnotowują serię zwycięstw Ognia nad Lodem w ówczesnym formacie; nie ustanawia to uniwersalnej przewagi żywiołu. Strony sporów zaczynają dobierać mieszane składy, a miasta, gildie i stowarzyszenia wspierają nabór.
 - **3 ET:** Ujednolicono pary bliźniaczych labiryntów: w danym meczu obie strony otrzymują identyczny układ. Konfiguracja obron pozostaje ich decyzją.
 - **7 ET:** Po sporach o przewagę pierwszego ruchu wprowadzono zasadę, że wynik liczy się po pełnej parze ataków. Żadna próba nie kończy się w połowie nierozliczonej pary.
 - **12 ET:** Otwarto pierwszą wspólną szkołę operatorów wież i Runnerów. Pochodzenie ani żywioł bohatera nie ograniczają go do konkretnej technologii drużyny.
@@ -605,11 +689,11 @@ Poniższe powiązania są propozycjami, nie zatwierdzonymi biografiami. Konkretn
 
 ---
 
-## Eryndor — mapa świata i ośrodki Prób v0.1
+## Eryndor — mapa świata i ośrodki Prób · KONCEPCJA FABULARNA · v0.1
 
 **Status:** propozycja do przeglądu, rozwijająca wcześniejszy w tym dokumencie rozdział historii świata. Nazwy miast, położenie, charakter aren i powiązania z wydarzeniami wymagają akceptacji. Tradycje żywiołów nie ograniczają pochodzenia bohaterów, przynależności drużyn ani wyboru technologii. Na mapie północ znajduje się u góry; granice polityczne nie są jeszcze określone.
 
-**Kontekst:** po Wojnie Siedmiu Bram Traktat Równych Ścieżek ustanowił obowiązkowe Próby dla stron określonych sporów o wspólne zasoby, szlaki i infrastrukturę. Nie każdy mieszkaniec musi w nich uczestniczyć. Urząd Prób zatwierdza areny i wyniki; po pełnej parze ataków obie strony miały równe szanse. Podczas jednego meczu obie drużyny korzystają z identycznych kopii wybranej mapy. Poszczególne ośrodki mogą w przyszłości mieć różne areny; pokazane pomysły nie ustanawiają gotowych map ani skrótów w MVP.
+**Kontekst:** po Wojnie Siedmiu Bram Traktat Równych Ścieżek ustanowił obowiązkowe Próby dla stron określonych sporów o wspólne zasoby, szlaki i infrastrukturę. Dobrowolne zawody publiczne używają podobnego formatu, ale ich wyniki nie mają skutku traktatowego. Nie każdy mieszkaniec musi uczestniczyć w żadnym z tych wydarzeń. Urząd Prób zatwierdza areny i wyniki wiążące strony sporu; po pełnej parze ataków obie strony miały równe szanse. Podczas jednego meczu obie drużyny korzystają z identycznych kopii wybranej mapy. Poszczególne ośrodki mogą w przyszłości mieć różne areny; pokazane pomysły nie ustanawiają gotowych map ani skrótów w MVP.
 
 ### Ośrodki
 
@@ -648,6 +732,8 @@ Przez lata zabezpieczała piece i transport splotytu, ucząc się zatrzymywać �
 ### Iskar
 **Pochodzenie:** Biały Przesmyk  
 **Specjalizacja:** Lodowy tarczownik — kierunek do zaprojektowania
+
+**Pasywka — Lodowa zbroja:** regeneruje 2 punkty osłony na sekundę, maksymalnie do 10 punktów łącznej osłony; gdy otrzyma osłonę ponad ten próg, regeneracja wznawia się dopiero po jej spadku do 10.
 
 Dawniej zabezpieczał górskie konwoje i drogi do magazynów. Lodowa tarcza jest znakiem jego sposobu ochrony grupy.
 
@@ -847,3 +933,11 @@ Dorastał wśród załóg chroniących konwoje przed zdradzeniem ich trasy. Swoj
 
 **Rodzina:** Rodzina nie została jeszcze opisana.
 
+
+### Trening bohatera i przyszły tryb prób
+
+[USTALONE — kierunek] W świecie Riftoryn trening jest przedstawiony jako próba przygotowująca bohatera do udziału w prawdziwych rozgrywkach. Docelowo gracz może trenować sam lub z innymi, korzystając ze standardowego układu automatycznych wież albo samodzielnie ustawiając obronę. Każdy bohater ma własny poziom mastery; osiągnięcie minimalnego poziomu treningowego jest wymagane przed wybraniem go w drafcie. [OTWARTE] Próg mastery, sposób naliczania i zapisu postępów, warunki ukończenia, dostępność bohaterów dla nowych graczy oraz szczegóły treningu grupowego wymagają zaprojektowania i testów.
+
+[POMYSŁ NA PÓŹNIEJ] Osobny tryb drużynowy, w którym skład graczy podejmuje kolejne próby przejścia labiryntu, a obrona staje się mocniejsza z każdą rundą. Zasady progresji, nagrody i związek z mastery nie są ustalone.
+
+[PROTOTYP PRZEGLĄDARKOWY] Prosta samotna próba w kodeksie służy nauce ruchu i wstępnemu sprawdzeniu umiejętności; nie jest implementacją konta, rozgrywki wieloosobowej ani rzeczywistego odblokowania bohatera w drafcie. Widok 2D i wartości wież są uproszczeniem do testów.
