@@ -9,18 +9,21 @@ Shader "Riftoryn/LowFog"
         Cull Off
         Pass
         {
-            CGPROGRAM
+            HLSLPROGRAM
             #pragma vertex vert
             #pragma fragment frag
-            #include "UnityCG.cginc"
-            fixed4 _Color;
+            #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Core.hlsl"
+
+            CBUFFER_START(UnityPerMaterial)
+                half4 _Color;
+            CBUFFER_END
             struct appdata { float4 vertex : POSITION; float2 uv : TEXCOORD0; };
             struct v2f { float4 position : SV_POSITION; float2 uv : TEXCOORD0; float3 world : TEXCOORD1; };
             v2f vert(appdata v)
             {
                 v2f o;
-                o.position=UnityObjectToClipPos(v.vertex);
-                o.world=mul(unity_ObjectToWorld,v.vertex).xyz;
+                o.position=TransformObjectToHClip(v.vertex.xyz);
+                o.world=TransformObjectToWorld(v.vertex.xyz);
                 o.uv=v.uv;
                 return o;
             }
@@ -32,15 +35,15 @@ Shader "Riftoryn/LowFog"
                 return lerp(lerp(hash(i),hash(i+float2(1,0)),f.x),
                             lerp(hash(i+float2(0,1)),hash(i+1),f.x),f.y);
             }
-            fixed4 frag(v2f i) : SV_Target
+            half4 frag(v2f i) : SV_Target
             {
                 float2 cloud=i.world.xz*0.48+float2(_Time.y*0.035,-_Time.y*0.022)+i.world.y*0.2;
                 float density=0.65*noise(cloud)+0.35*noise(cloud*2.2+float2(-_Time.y*0.025,0));
                 float edge=saturate(1.0-length((i.uv-0.5)*2.0));
                 edge=edge*edge*(3.0-2.0*edge);
-                return fixed4(_Color.rgb,_Color.a*edge*smoothstep(0.18,0.8,density));
+                return half4(_Color.rgb,_Color.a*edge*smoothstep(0.18,0.8,density));
             }
-            ENDCG
+            ENDHLSL
         }
     }
 }

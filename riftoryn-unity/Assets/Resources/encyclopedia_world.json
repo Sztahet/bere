@@ -1,0 +1,108 @@
+{
+  "places": [
+    {
+      "id": "val",
+      "name": "Val Meris",
+      "nameEn": "Val Meris",
+      "region": "CENTRUM · WĘZEŁ SZLAKÓW",
+      "arena": "Serce Labiryntu",
+      "x": 51,
+      "y": 51,
+      "color": "#e1bf80",
+      "desc": "Odbudowany ośrodek przy centralnych szlakach. To tutaj doszło do Nocy Zgasłych Wież; dziś miasto gości neutralny ośrodek Prób i archiwum katastrofy.",
+      "history": "Podczas wojny awaria sieci odcięła drogi ewakuacyjne. Przyczyna katastrofy pozostaje nieustalona.",
+      "trial": "Proponowana pierwsza arena: jednopoziomowy labirynt z trasą od środka do wyjścia, bez skrótów i ślepych zaułków w MVP."
+    },
+    {
+      "id": "fire",
+      "name": "Żarowisko Vareth",
+      "nameEn": "Vareth Emberforge",
+      "region": "PÓŁNOCNY WSCHÓD · OGIEŃ",
+      "arena": "Żelazna Brama",
+      "x": 82,
+      "y": 22,
+      "color": "#ff9874",
+      "desc": "Miasto pieców i warsztatów na skraju wulkanicznych wyżyn, połączone z drogami prowadzącymi do centrum.",
+      "history": "Tradycje Vareth łączą obróbkę minerałów z utrzymaniem urządzeń i szlaków.",
+      "trial": "Odbudowana strażnica Żelazna Brama jest propozycją lokalnego ośrodka Prób. Szczegóły przyszłej areny nie są ustalone."
+    },
+    {
+      "id": "ice",
+      "name": "Biały Przesmyk",
+      "nameEn": "White Pass",
+      "region": "PÓŁNOC · LÓD",
+      "arena": "Lodowe Wrota",
+      "x": 51,
+      "y": 19,
+      "color": "#a9e5ff",
+      "desc": "Osada magazynów i górskich przejść, z których zaopatrzenie rusza na północne szlaki.",
+      "history": "Nivoren rozwinęło tradycje przechowywania zasobów oraz planowania podróży w trudnych warunkach.",
+      "trial": "Lodowe Wrota to proponowany ośrodek Prób dotyczących m.in. dostępu do szlaków. Śnieg nie oznacza ustalonej mechaniki poślizgu."
+    },
+    {
+      "id": "lightning",
+      "name": "Iglica Zerath",
+      "nameEn": "Zerath Spire",
+      "region": "WSCHÓD · BŁYSKAWICE",
+      "arena": "Dziedziniec Impulsu",
+      "x": 82,
+      "y": 51,
+      "color": "#f3da82",
+      "desc": "Miasto przekaźników i warsztatów na wschodnich skalistych wybrzeżach.",
+      "history": "Zerath słynie z rozwoju łączności oraz szybkiego przekazywania wiadomości.",
+      "trial": "Dziedziniec Impulsu — proponowana arena, której wygląd nawiązuje do sieci i przewodników energii."
+    },
+    {
+      "id": "nature",
+      "name": "Korzenna Przystań",
+      "nameEn": "Rooted Landing",
+      "region": "POŁUDNIE · NATURA",
+      "arena": "Krąg Korzeni",
+      "x": 53,
+      "y": 75,
+      "color": "#a9db8d",
+      "desc": "Osada żyznej doliny, otoczona polami i szlakami biegnącymi wzdłuż rzek.",
+      "history": "Społeczności Verdan wspierają leczenie i odbudowę terenów zniszczonych przez wojnę.",
+      "trial": "Krąg Korzeni — propozycja ośrodka Prób przy szlaku handlowym. Szczegóły mapy pozostają otwarte."
+    },
+    {
+      "id": "earth",
+      "name": "Kamienny Próg",
+      "nameEn": "Stone Threshold",
+      "region": "POŁUDNIOWY ZACHÓD · ZIEMIA",
+      "arena": "Kamienny Krąg",
+      "x": 22,
+      "y": 68,
+      "color": "#d7af81",
+      "desc": "Miasto kopalń i warsztatów kamieniarskich, położone w surowych południowo-zachodnich górach.",
+      "history": "Mieszkańcy Kharum zajmują się wydobyciem splotytu i bezpieczeństwem tuneli.",
+      "trial": "Kamienny Krąg to propozycja powierzchniowej areny w pobliżu szlaku do wyrobisk."
+    },
+    {
+      "id": "light",
+      "name": "Latarnia Aurelu",
+      "nameEn": "Aurelian Lighthouse",
+      "region": "ZACHÓD · ŚWIATŁO",
+      "arena": "Plac Siedmiu Świateł",
+      "x": 18,
+      "y": 39,
+      "color": "#f2dda8",
+      "desc": "Nadmorski ośrodek latarni, archiwów i obserwatoriów.",
+      "history": "Uczeni Aurelu dokumentują szlaki, zagrożenia oraz wyniki Prób; nie przesądza to o siedzibie całego Urzędu.",
+      "trial": "Plac Siedmiu Świateł — propozycja miejsca szkolenia obserwatorów i organizacji lokalnych Prób."
+    },
+    {
+      "id": "darkness",
+      "name": "Cienisty Port",
+      "nameEn": "Shadow Harbor",
+      "region": "PÓŁNOCNY ZACHÓD · CIEMNOŚĆ",
+      "arena": "Brama Zmierzchu",
+      "x": 19,
+      "y": 22,
+      "color": "#cba6f7",
+      "desc": "Osada Vesper na skraju ciemnych wyżyn, przy drogach do głębokich kopalń.",
+      "history": "Techniki osłony i maskowania pomagają chronić konwoje oraz ratowników. Ciemność nie jest tu utożsamiana ze złem.",
+      "trial": "Brama Zmierzchu — proponowany ośrodek Prób na północno-zachodnim szlaku."
+    }
+  ]
+}

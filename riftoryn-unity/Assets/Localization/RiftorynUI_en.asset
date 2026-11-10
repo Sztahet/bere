@@ -47,7 +47,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736569859
-    m_Localized: 30 HEROES
+    m_Localized: 31 HEROES
     m_Metadata:
       m_Items: []
   - m_Id: 3311736569860
@@ -223,7 +223,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736569902
-    m_Localized: White Passage
+    m_Localized: White Pass
     m_Metadata:
       m_Items: []
   - m_Id: 3311736569903
@@ -323,7 +323,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736569927
-    m_Localized: Shadowy Port
+    m_Localized: Shadow Harbor
     m_Metadata:
       m_Items: []
   - m_Id: 3311736569928
@@ -2717,7 +2717,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570524
-    m_Localized: Fire District Vareth
+    m_Localized: Vareth Emberforge
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570525

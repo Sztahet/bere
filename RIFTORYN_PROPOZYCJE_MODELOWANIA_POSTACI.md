@@ -4,10 +4,44 @@
 
 ## Referencje
 
+- [Orien — arkusz postaci](assets/heroes/modeling-concepts/orien.png). Arkusz dostarczony jako referencja do przyszłego modelowania, nie gotowy model 3D ani zatwierdzona specyfikacja.
+- [Rian — arkusz postaci](assets/heroes/modeling-concepts/rian.png). Referencja do przyszłego modelowania; koncepcja przedstawia Ognistego Specjalistę i inżyniera żaru.
+- [Taren — arkusz postaci](assets/heroes/modeling-concepts/taren.png). Referencja do przyszłego modelowania; koncepcja przedstawia Tank Błyskawic z ciężkim pancerzem i futrzanym kołnierzem.
+- [Nocten — arkusz postaci](assets/heroes/modeling-concepts/nocten.png). Referencja do przyszłego modelowania; koncepcja przedstawia starszego Wsparcia Ciemności.
 - [Ana i Bob — arkusz koncepcyjny](assets/heroes/modeling-concepts/ana-bob.png). Grafika używa pisowni „Anna”; w GDD występuje „Ana”.
 - [Koneva i Pati — arkusz koncepcyjny](assets/heroes/modeling-concepts/koneva-pati.png). W GDD kotoperz nazywa się „Patka”; relacja nazw „Pati” i „Patka” pozostaje do ustalenia. Arkusz nazywa postacie ogólnie czarodziejką i kotoperzem.
 
 Arkusze zawierają widoki postaci, twarze, przykładowe ekspresje, kolory, wymiary, pozy i orientacyjną specyfikację. Ich widoki mogą nie być wystarczająco spójne do bezpośredniego modelowania; przed pracą należy rozstrzygnąć różnice i zatwierdzić sylwetki.
+
+## Orien — referencja do modelowania
+
+- Stylizowany Tank Światła, starszy, masywnie zbudowany opiekun szlaków. Arkusz pokazuje pancerz w kolorach złota i kości słoniowej, płaszcz, słoneczny emblemat, tarczę i opcjonalny młot.
+- Arkusz proponuje wzrost ok. 190–194 cm. Sylwetka, podział warstw, uzbrojenie, mimika i pozy są materiałem do przyszłego przygotowania modelu Blender; wymagają weryfikacji przed produkcją.
+- Efekty świetlne i koncepcje akcji z arkusza są ilustracyjne i nie zmieniają zasad rozgrywki opisanych w GDD.
+
+## Rian — referencja do modelowania
+
+- Stylizowana Specjalistka Ognia i inżynierka żaru; krótka ruda fryzura, ciemny strój z czerwonymi i złotymi akcentami oraz naramienny emiter.
+- Arkusz proponuje wzrost ok. 174–178 cm. Widoki, proporcje, wyposażenie i pozy to materiał do przygotowania przyszłego modelu Blender, do weryfikacji przed produkcją.
+- Efekty i zastosowania umiejętności na arkuszu są ilustracyjne; nie ustanawiają zasad rozgrywki.
+
+## Taren — referencja do modelowania
+
+- Stylizowany Tank Błyskawic; masywna sylwetka, ciemnofioletowy pancerz ze złotymi detalami, futrzany kołnierz i opcjonalna tarcza.
+- Arkusz proponuje wzrost ok. 188–192 cm. Widoki, proporcje, warstwy pancerza i pozy to materiał do przygotowania przyszłego modelu Blender, do weryfikacji przed produkcją.
+- Efekty i zastosowania umiejętności na arkuszu są ilustracyjne; nie ustanawiają zasad rozgrywki.
+
+## Nocten — referencja do modelowania
+
+- Stylizowany, starszy Wsparcie Ciemności; łysiejąca głowa, długa warstwowa szata w odcieniach fioletu oraz półksiężycowe i kryształowe ozdoby. Laska jest opcjonalnym rekwizytem.
+- Arkusz proponuje wzrost ok. 183–187 cm. Widoki, proporcje, warstwy stroju i pozy są materiałem do przyszłego modelowania i wymagają weryfikacji przed produkcją.
+- Efekty i zastosowania umiejętności z arkusza są ilustracyjne; nie ustanawiają zasad rozgrywki.
+
+## Pokrycie kart koncepcyjnych bohaterów
+
+GDD wymienia 30 głównych bohaterów; Lucen jest dodatkową alternatywą dla kombinacji Specjalista / Światło. Karty z katalogu `assets/heroes/modeling-concepts/` pokazują obecnie 13 z nich: Ana, Eira, Kael, Koneva, Miko, Morrak, Nocten, Orien, Pyrra, Rian, Saila, Taren i Thora. Lucen ma portret, ale nie ma jeszcze karty modelowania. Petów (Bob, Frost/Szron, Pati/Patka i Spark/Iskra) nie liczę jako bohaterów.
+
+Do przygotowania kart pozostaje 18 bohaterów: Brom, Iskar, Liora, Elira, Varek, Niva, Solan, Dara, Zet, Eron, Kiran, Adrien, Morven, Volt, Rokan, Lumen, Neris i Lucen.
 
 ## Pyrra i Iskra / Spark — nowa referencja
 
@@ -36,7 +70,7 @@ Arkusze zawierają widoki postaci, twarze, przykładowe ekspresje, kolory, wymia
 
 ## Morrak — referencja do modelowania
 
-- [Morrak — arkusz postaci](assets/heroes/modeling-concepts/morrak.png). Grafika używa imienia „Vesh”; w świecie postać znana jest jako Morrak lub Vesh, a jej prawdziwe imię pozostaje nieznane. Arkusz jest referencją, nie gotowym modelem.
+- [Morrak — arkusz postaci](assets/heroes/modeling-concepts/morrak.png). Grafika używa imienia „Vesh”; w świecie postać znana jest jako Morrak lub Vesh, a ich prawdziwe imię pozostaje nieznane. Arkusz jest referencją, nie gotowym modelem.
 - Ciemny warstwowy pancerz, fioletowy rdzeń, płaszcz i świetliste oczy budują sylwetkę milczącego strażnika. Orientacyjny wzrost z arkusza: 200 cm.
 - Pochodzenie i płeć pozostają nieustalone. Pozy i efekty z ilustracji są propozycjami wizualnymi, a nie nowymi zasadami gry.
 

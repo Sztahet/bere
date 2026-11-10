@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-[Serializable] public class HeroBiography { public string city,specialty,story,storyEn,reason,family; }
+[Serializable] public class HeroBiography { public string city,cityEn,specialty,story,storyEn,reason,family; }
 [Serializable] public class CodexHero {
     public string id,name,role,element,img,speed,desc,passName,pass,passNameEn,passEn,attackName,attack,defName,def,pet,concept,defense;
     public int hp,cd; public bool conceptOnly; public HeroBiography bio;
@@ -13,8 +13,8 @@ using UnityEngine;
 [Serializable] public class HeroComicCatalog { public HeroComic[] comics; }
 [Serializable] public class CodexRoleBonus { public string role,icon,name,description,nameEn,descriptionEn; }
 [Serializable] public class CodexRoster { public CodexHero[] heroes; public CodexRoleBonus[] roleBonuses; }
-[Serializable] public class CodexTimelineEvent { public string date,titlePl,titleEn,textPl,textEn; }
-[Serializable] public class CodexTimelineEra { public string range,labelPl,labelEn; public CodexTimelineEvent[] events; }
+[Serializable] public class CodexTimelineEvent { public string date,dateEn,titlePl,titleEn,textPl,textEn; }
+[Serializable] public class CodexTimelineEra { public string range,rangeEn,labelPl,labelEn,image,contextPl; public CodexTimelineEvent[] events; }
 [Serializable] public class CodexTimelineCatalog { public CodexTimelineEra[] eras; }
 public static class RiftorynCodexData {
     public static readonly string[] Elements={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"};
@@ -36,9 +36,9 @@ public static class RiftorynCodexData {
     public static string Text(string polish,string english)=>RiftorynL10n.CurrentCode=="EN"&&!string.IsNullOrEmpty(english)?english:RiftorynL10n.Translate(polish??"");
 }
 
-public class RiftorynMenu : MonoBehaviour {
+public partial class RiftorynMenu : MonoBehaviour {
     RiftorynTrial trial; CodexHero[] heroes; Texture2D white; readonly Dictionary<string,Texture2D> portraits=new();
-    int page, tab, selected,selectedComic,timelineSelected; bool storyOpen; float storyZoom=1f; Vector2 scroll,detailScroll,storyScroll,comicListScroll,timelineScroll; CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); HeroComic[] comics=Array.Empty<HeroComic>(); CodexTimelineEra[] timelineEras=Array.Empty<CodexTimelineEra>(); GUIStyle comicCaption,comicTitle,timelineDate,timelineBody; string[] tabs={"BOHATEROWIE","WIEŻE","STATUSY","ŻYWIOŁY","MAPA","ZASADY","ŚWIAT","DRZEWKO","OŚ CZASU"};
+    int page, tab, selected,selectedComic,timelineSelected; bool storyOpen; float storyZoom=1f; Vector2 scroll,detailScroll,storyScroll,comicListScroll,timelineScroll,timelineDetailScroll; readonly Dictionary<string,Texture2D> timelineImages=new(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); HeroComic[] comics=Array.Empty<HeroComic>(); CodexTimelineEra[] timelineEras=Array.Empty<CodexTimelineEra>(); GUIStyle comicCaption,comicTitle,timelineDate,timelineBody; string[] tabs={"BOHATEROWIE","WIEŻE","STATUSY","ŻYWIOŁY","MAPA","ZASADY","ŚWIAT","DRZEWKO","OŚ CZASU"};
     Color bg=new(.045f,.038f,.075f), panel=new(.10f,.085f,.14f), panelAlt=new(.13f,.11f,.18f), line=new(.29f,.25f,.34f), gold=new(.87f,.72f,.46f), muted=new(.68f,.64f,.72f), pale=new(.96f,.92f,.88f);
     GUIStyle brand,nav,title,section,eyebrow,body,mutedText,button,cardName,detailTitle,detailLabel,heroBadge,resistanceNameStyle,resistanceValueStyle,compactButton,compactHeading,compactText;
     void Awake(){trial=GetComponent<RiftorynTrial>();var data=Resources.Load<TextAsset>("codex");if(data){var roster=JsonUtility.FromJson<CodexRoster>(data.text);heroes=roster?.heroes??Array.Empty<CodexHero>();roleBonuses=roster?.roleBonuses??Array.Empty<CodexRoleBonus>();}else heroes=Array.Empty<CodexHero>();var comicData=Resources.Load<TextAsset>("comic_stories");if(comicData){var catalog=JsonUtility.FromJson<HeroComicCatalog>(comicData.text);comics=catalog?.comics??Array.Empty<HeroComic>();}var timelineData=Resources.Load<TextAsset>("codex_timeline");if(timelineData){var catalog=JsonUtility.FromJson<CodexTimelineCatalog>(timelineData.text);timelineEras=catalog?.eras??Array.Empty<CodexTimelineEra>();}white=Texture2D.whiteTexture;}
@@ -53,10 +53,28 @@ public class RiftorynMenu : MonoBehaviour {
     void PictureHead(Rect rect,Texture2D texture){if(!texture){Fill(rect,panelAlt);return;}float uvHeight=Mathf.Clamp01(((float)texture.width/texture.height)/(rect.width/rect.height));float bottom=Mathf.Clamp(.90f-uvHeight,0,1-uvHeight);GUI.DrawTextureWithTexCoords(rect,texture,new Rect(0,bottom,1,uvHeight));}
     void OnGUI(){if(trial==null||!trial.menuOpen)return;Init();Matrix4x4 old=GUI.matrix;if(page==2&&tab==0&&storyOpen&&(Screen.width<1000||Screen.height<600)){GUI.matrix=Matrix4x4.identity;HeroStoryCompact();GUI.matrix=old;return;}float scale=Mathf.Min(Screen.width/1600f,Screen.height/900f);if(scale<=0)return;GUI.matrix=Matrix4x4.TRS(new Vector3((Screen.width-1600*scale)/2,(Screen.height-900*scale)/2,0),Quaternion.identity,new Vector3(scale,scale,1));Fill(new Rect(0,0,1600,900),bg);Top();if(page==0)Home();else if(page==1)Modes();else if(tab==0&&storyOpen)HeroStory();else Codex();GUI.matrix=old;}
     void Top(){Fill(new Rect(0,0,1600,70),new Color(.065f,.055f,.10f));Fill(new Rect(0,69,1600,1),line);Text(new Rect(52,20,230,36),"RIFTORYN",brand);string[] labels={"MENU","GRAJ","KODEKS"};for(int i=0;i<3;i++){var n=new GUIStyle(nav);n.normal.textColor=page==i?gold:muted;if(RiftorynL10n.Button(new Rect(310+i*116,23,104,32),labels[i],n)){page=i;storyOpen=false;scroll=Vector2.zero;detailScroll=Vector2.zero;}}Text(new Rect(1270,24,220,25),"PRE-POC  ·  v0.2.2  ·  OFFLINE",heroBadge);if(GUI.Button(new Rect(1500,20,70,32),RiftorynL10n.CurrentCode+" ⇄"))RiftorynL10n.Toggle();}
-    void Home(){Frame(new Rect(48,104,1504,694),panel);Picture(new Rect(832,105,719,692),Portrait("morrak"));Fill(new Rect(49,105,885,692),new Color(.095f,.08f,.13f,.97f));Fill(new Rect(828,105,106,692),new Color(.095f,.08f,.13f,.56f));Text(new Rect(110,175,600,25),"RIFTORYN  /  PIERWSZA PRÓBA",eyebrow);Text(new Rect(106,229,690,180),"BUDUJ.\nUCIEKAJ.\nADAPTUJ SIĘ.",title);Text(new Rect(110,430,590,70),"Wejdź do labiryntu, poznaj bohaterów i sprawdź swoje umiejętności pod ostrzałem wież.",mutedText);if(Click(new Rect(110,530,215,55),"ROZPOCZNIJ PRÓBĘ  →",true))trial.OpenTraining();if(Click(new Rect(340,530,205,55),"ODKRYJ KODEKS  ↗")){page=2;tab=0;}Fill(new Rect(110,660,580,1),line);Text(new Rect(110,683,240,24),"30 BOHATERÓW",eyebrow);Text(new Rect(110,710,260,40),"Historie, role i umiejętności",mutedText);Text(new Rect(390,683,260,24),"PIERWSZA PRÓBA 3D",eyebrow);Text(new Rect(390,710,290,40),"Trzy grywalne postacie",mutedText);Text(new Rect(50,830,1400,35),"Prototyp koncepcji. Zasady, opisy, oprawa i balans pozostają do testów.",mutedText);}
+    void Home(){Frame(new Rect(48,104,1504,694),panel);Picture(new Rect(832,105,719,692),Portrait("morrak"));Fill(new Rect(49,105,885,692),new Color(.095f,.08f,.13f,.97f));Fill(new Rect(828,105,106,692),new Color(.095f,.08f,.13f,.56f));Text(new Rect(110,175,600,25),"RIFTORYN  /  PIERWSZA PRÓBA",eyebrow);Text(new Rect(106,229,690,180),"BUDUJ.\nUCIEKAJ.\nADAPTUJ SIĘ.",title);Text(new Rect(110,430,590,70),"Wejdź do labiryntu, poznaj bohaterów i sprawdź swoje umiejętności pod ostrzałem wież.",mutedText);if(Click(new Rect(110,530,215,55),"ROZPOCZNIJ PRÓBĘ  →",true))trial.OpenTraining();if(Click(new Rect(340,530,205,55),"ODKRYJ KODEKS  ↗")){page=2;tab=0;}Fill(new Rect(110,660,580,1),line);Text(new Rect(110,683,240,24),"31 BOHATERÓW",eyebrow);Text(new Rect(110,710,260,40),"Historie, role i umiejętności",mutedText);Text(new Rect(390,683,260,24),"PIERWSZA PRÓBA 3D",eyebrow);Text(new Rect(390,710,290,40),"Trzy grywalne postacie",mutedText);Text(new Rect(50,830,1400,35),"Prototyp koncepcji. Zasady, opisy, oprawa i balans pozostają do testów.",mutedText);}
     void Modes(){Text(new Rect(50,110,500,22),"PRZYGOTUJ SIĘ  /  TRYBY GRY",eyebrow);Text(new Rect(48,145,700,55),"WYBIERZ SWOJĄ PRÓBĘ",section);Text(new Rect(50,194,1000,30),"Przygotuj bohatera i poznaj labirynt przed właściwą rozgrywką.",mutedText);ModeCard(new Rect(50,252,730,390),"DOSTĘPNE  /  PRE-POC","PRÓBA BOHATERA","Wybierz bohatera, przygotuj automatyczne wieże i przejdź spiralny labirynt sam lub z sojusznikiem AI.",true);ModeCard(new Rect(800,252,750,390),"W PRZYGOTOWANIU","MECZ DRUŻYNOWY","W przyszłości dwie drużyny zbudują obronę i zmierzą się z labiryntem przeciwnika.",false);}
     void ModeCard(Rect r,string badge,string name,string description,bool available){Frame(r,panel);Text(new Rect(r.x+32,r.y+32,r.width-64,26),badge,eyebrow);Text(new Rect(r.x+30,r.y+100,r.width-60,45),name,section);Text(new Rect(r.x+32,r.y+165,r.width-64,85),description,mutedText);if(available){if(Click(new Rect(r.x+32,r.y+290,250,52),"PRZEJDŹ DO PRÓBY  →",true))trial.OpenTraining();}else{Text(new Rect(r.x+32,r.y+307,300,30),"WKRÓTCE",heroBadge);}}
-    void Codex(){Text(new Rect(50,102,680,22),"ARCHIWUM RIFTORYN  /  ŚWIAT I BOHATEROWIE",eyebrow);Text(new Rect(48,132,700,50),"KODEKS",section);Text(new Rect(50,171,1000,24),"Poznaj bohaterów, zagrożenia i zasady Prób.",mutedText);float x=50;for(int i=0;i<tabs.Length;i++){float width=i==0?190:i==8?145:i==3?145:115;Rect r=new(x,211,width,39);Fill(r,tab==i?new Color(.28f,.22f,.20f):panelAlt);var s=new GUIStyle(nav){alignment=TextAnchor.MiddleCenter};s.normal.textColor=tab==i?gold:muted;string label=i==8?RiftorynCodexData.Text("OŚ CZASU","TIMELINE"):RiftorynL10n.Translate(tabs[i]);if(GUI.Button(r,label,s)){tab=i;scroll=Vector2.zero;detailScroll=Vector2.zero;}x+=width+8;}if(tab==0)HeroCodex();else if(tab==8)TimelineCodex();else Catalog();}
+    void Codex()
+    {
+        Text(new Rect(50,100,900,22),RiftorynCodexData.Text("ARCHIWUM RIFTORYN  /  ENCYKLOPEDIA","RIFTORYN ARCHIVE  /  ENCYCLOPEDIA"),eyebrow);
+        Text(new Rect(48,130,700,42),RiftorynCodexData.Text("ODKRYJ ŚWIAT RIFTORYN","DISCOVER THE WORLD OF RIFTORYN"),section);
+        Text(new Rect(50,170,1300,25),RiftorynCodexData.Text("Bohaterowie, świat i zasady — wszystkie historie w jednym miejscu.","Heroes, world and rules — every story in one place."),mutedText);
+        float x=50;
+        for(int i=0;i<tabs.Length;i++)
+        {
+            float width=i==0?190:i==8?145:i==3?145:115;
+            Rect r=new(x,211,width,39);bool active=tab==i;
+            Fill(r,active?new Color(.19f,.16f,.22f):new Color(.09f,.075f,.13f));
+            if(active)Fill(new Rect(r.x,r.yMax-3,r.width,3),gold);
+            var style=new GUIStyle(nav){alignment=TextAnchor.MiddleCenter};style.normal.textColor=active?gold:muted;
+            string label=i==8?RiftorynCodexData.Text("OŚ CZASU","TIMELINE"):RiftorynL10n.Translate(tabs[i]);
+            if(GUI.Button(r,label,style)){tab=i;scroll=Vector2.zero;detailScroll=Vector2.zero;}
+            x+=width+8;
+        }
+        if(tab==0)HeroCodex();else if(tab==3)ElementEncyclopedia();else if(tab==6)WorldEncyclopedia();else if(tab==7)TreeEncyclopedia();else if(tab==8)TimelineCodex();else Catalog();
+    }
     string StoryButtonLabel(string id)
     {
         switch(id)
@@ -154,6 +172,7 @@ public class RiftorynMenu : MonoBehaviour {
             y+=imageHeight+12;
         }else{GUI.Label(new Rect(5,y,width-10,62),comic==null?RiftorynCodexData.Text("Nie dodano jeszcze komiksu tej postaci.","No comic has been added for this character yet."):RiftorynCodexData.Text("Nie udało się wczytać komiksu.","The comic could not be loaded."),compactText);y+=70;}
         if(RiftorynL10n.CurrentCode=="EN"&&HasBiography(hero)&&string.IsNullOrEmpty(hero.bio.storyEn)){GUI.Label(new Rect(5,y,width-10,25),"Polish version · English translation in development",compactText);y+=28;}
+        if(HasBiography(hero)){GUI.Label(new Rect(5,y,width-10,22),RiftorynCodexData.Text("PROPOZYCJA FABULARNA · DO AKCEPTACJI","STORY CONCEPT · PENDING APPROVAL"),heroBadge);y+=24;}
         GUI.Label(new Rect(5,y,width-20,bioHeight),biography,compactText);GUI.EndScrollView();
     }
     void HeroStory()
@@ -205,6 +224,7 @@ public class RiftorynMenu : MonoBehaviour {
         if(RiftorynL10n.CurrentCode=="EN"&&HasBiography(hero)&&string.IsNullOrEmpty(hero.bio.storyEn)){
             Text(new Rect(15,y,width-30,24),"Polish version · English translation in development",heroBadge);y+=25;
         }
+        if(HasBiography(hero)){Text(new Rect(15,y,width-30,22),RiftorynCodexData.Text("PROPOZYCJA FABULARNA · DO AKCEPTACJI","STORY CONCEPT · PENDING APPROVAL"),heroBadge);y+=24;}
         GUI.Label(new Rect(15,y,width-40,biographyHeight),biography,body);
         GUI.EndScrollView();
     }
@@ -276,41 +296,83 @@ public class RiftorynMenu : MonoBehaviour {
         foreach(var group in timelineEras)if(group?.events!=null)foreach(var item in group.events){if(index--==0){era=group;entry=item;return true;}}
         era=null;entry=null;return false;
     }
+    Texture2D TimelineImage(string path)
+    {
+        if(string.IsNullOrEmpty(path))return null;
+        if(!timelineImages.TryGetValue(path,out var image)){image=Resources.Load<Texture2D>(path);timelineImages[path]=image;}
+        return image;
+    }
     void TimelineCodex()
     {
         Frame(new Rect(50,270,1500,570),panel);
-        Text(new Rect(76,286,1000,26),RiftorynCodexData.Text("CHRONOLOGIA ŚWIATA  ·  KONCEPCJA FABULARNA v0.1","WORLD TIMELINE  ·  STORY CONCEPT v0.1"),eyebrow);
-        Text(new Rect(76,312,1400,34),RiftorynCodexData.Text("Od pierwszych szlaków do początku gry. Wybierz wydarzenie, aby przeczytać szczegóły.","From the first trade routes to the start of the game. Select an event to read its details."),mutedText);
-        int count=0;float contentHeight=0;foreach(var era in timelineEras)if(era?.events!=null){contentHeight+=32+era.events.Length*48;count+=era.events.Length;}
+        Text(new Rect(76,286,1000,26),RiftorynCodexData.Text("KRONIKI ERYNDORU  /  OŚ CZASU","CHRONICLES OF ERYNDOR  /  TIMELINE"),eyebrow);
+        Text(new Rect(76,312,1400,30),RiftorynCodexData.Text("Pięć epok. Wybierz wydarzenie, aby odkryć jego historię.","Five eras. Select an event to discover its story."),mutedText);
+        int count=0;float contentHeight=12;
+        foreach(var era in timelineEras)if(era?.events!=null){contentHeight+=50+era.events.Length*52;count+=era.events.Length;}
         if(count==0){Text(new Rect(76,370,1400,60),RiftorynCodexData.Text("Nie udało się wczytać osi czasu.","The timeline could not be loaded."),body);return;}
         timelineSelected=Mathf.Clamp(timelineSelected,0,count-1);
-        Frame(new Rect(70,356,480,462),panelAlt);Frame(new Rect(562,356,918,462),panelAlt);
-        timelineScroll=GUI.BeginScrollView(new Rect(80,366,462,442),timelineScroll,new Rect(0,0,440,contentHeight));
-        float y=0;int eventIndex=0;
+        Frame(new Rect(70,350,480,468),panelAlt);
+        Frame(new Rect(562,350,918,468),new Color(.075f,.064f,.11f));
+        timelineScroll=GUI.BeginScrollView(new Rect(80,360,462,448),timelineScroll,new Rect(0,0,438,contentHeight));
+        float y=12;int eventIndex=0;
         foreach(var era in timelineEras)
         {
             if(era?.events==null)continue;
-            Text(new Rect(8,y+3,420,25),RiftorynCodexData.Text(era.labelPl,era.labelEn)+"  ·  "+era.range,timelineDate);y+=32;
+            Fill(new Rect(12,y+11,18,2),gold);
+            Text(new Rect(40,y,385,23),RiftorynCodexData.Text(era.labelPl,era.labelEn).ToUpperInvariant(),eyebrow);
+            Text(new Rect(40,y+22,380,20),RiftorynCodexData.Text(era.range,era.rangeEn),timelineDate);y+=50;
             foreach(var entry in era.events)
             {
-                Rect row=new(5,y,425,44);if(eventIndex==timelineSelected)Fill(row,new Color(.28f,.22f,.20f));
-                if(GUI.Button(row,GUIContent.none,GUIStyle.none))timelineSelected=eventIndex;
-                Text(new Rect(12,y+3,78,36),entry.date,timelineDate);
-                Text(new Rect(94,y+3,326,38),RiftorynCodexData.Text(entry.titlePl,entry.titleEn),cardName);
-                y+=48;eventIndex++;
+                bool active=eventIndex==timelineSelected;
+                Rect row=new(8,y,418,48);
+                if(active){Fill(row,new Color(.25f,.20f,.22f));Fill(new Rect(row.x,row.y,3,row.height),gold);}
+                Fill(new Rect(20,y,2,48),new Color(.42f,.34f,.35f));
+                Fill(new Rect(17,y+18,8,8),active?gold:muted);
+                if(GUI.Button(row,GUIContent.none,GUIStyle.none)){timelineSelected=eventIndex;timelineDetailScroll=Vector2.zero;}
+                Text(new Rect(40,y+4,78,36),RiftorynCodexData.Text(entry.date,entry.dateEn),timelineDate);
+                Text(new Rect(126,y+4,285,38),RiftorynCodexData.Text(entry.titlePl,entry.titleEn),cardName);
+                y+=52;eventIndex++;
             }
         }
         GUI.EndScrollView();
         if(TimelineEntryAt(timelineSelected,out var selectedEra,out var selectedEntry))
         {
-            Text(new Rect(594,386,850,26),RiftorynCodexData.Text(selectedEra.labelPl,selectedEra.labelEn)+"  ·  "+selectedEra.range,timelineDate);
-            Text(new Rect(594,425,840,26),selectedEntry.date,heroBadge);
-            Text(new Rect(594,454,840,70),RiftorynCodexData.Text(selectedEntry.titlePl,selectedEntry.titleEn),section);
-            Fill(new Rect(594,530,840,1),line);
-            Text(new Rect(594,548,840,235),RiftorynCodexData.Text(selectedEntry.textPl,selectedEntry.textEn),timelineBody);
-            Text(new Rect(594,789,840,20),RiftorynCodexData.Text("Daty, nazwy i wydarzenia są propozycją do przeglądu.","Dates, names and events are a draft for review."),heroBadge);
+            Rect art=new(582,370,400,420);var image=TimelineImage(selectedEra.image);
+            Fill(art,new Color(.045f,.038f,.075f));
+            if(image)GUI.DrawTexture(art,image,ScaleMode.ScaleToFit);
+            Fill(new Rect(1000,380,1,406),line);
+            Text(new Rect(1025,375,420,40),RiftorynCodexData.Text(selectedEra.labelPl,selectedEra.labelEn).ToUpperInvariant(),eyebrow);
+            Text(new Rect(1025,415,420,24),RiftorynCodexData.Text(selectedEra.range,selectedEra.rangeEn),heroBadge);
+            Fill(new Rect(1025,449,410,1),line);
+            Text(new Rect(1025,471,410,24),RiftorynCodexData.Text(selectedEntry.date,selectedEntry.dateEn),timelineDate);
+            Text(new Rect(1025,502,410,80),RiftorynCodexData.Text(selectedEntry.titlePl,selectedEntry.titleEn),section);
+            string description=RiftorynCodexData.Text(selectedEntry.textPl,selectedEntry.textEn);
+            if(RiftorynL10n.CurrentCode!="EN"&&!string.IsNullOrEmpty(selectedEra.contextPl))description+="\n\n"+selectedEra.contextPl;
+            float textHeight=timelineBody.CalcHeight(new GUIContent(description),390)+12;
+            if(textHeight>188)
+            {
+                timelineDetailScroll=GUI.BeginScrollView(new Rect(1025,594,420,188),timelineDetailScroll,new Rect(0,0,390,textHeight));
+                Text(new Rect(0,0,390,textHeight),description,timelineBody);GUI.EndScrollView();
+            }
+            else Text(new Rect(1025,594,400,188),description,timelineBody);
+
         }
     }
     void Catalog(){Frame(new Rect(50,270,1500,570),panel);string heading="",intro="";string[] names=Array.Empty<string>(),descs=Array.Empty<string>();switch(tab){case 1:heading="WIEŻE ŻYWIOŁÓW";intro="Wieże działają automatycznie; w docelowej grze Defenderzy mogą je także pilotować.";names=new[]{"OGIEŃ","LÓD","BŁYSKAWICE","NATURA","ZIEMIA","ŚWIATŁO","CIEMNOŚĆ"};descs=new[]{"Obszar i podpalenie. Rozwój: Magma lub Inferno.","Kontrola ruchu i spowolnienia. Rozwój: Glacier lub Ice Lance.","Szybki ostrzał i łańcuch trafień. Rozwój: Tempest lub Lancer.","Trucizna i kontrola ruchu. Rozwój: Vines lub Thorns.","Ciężkie obrażenia. Rozwój: Quake lub Boulder.","Wykrywanie i precyzyjny ostrzał. Rozwój: Beacon lub Ray.","Podatność i skoncentrowany ostrzał. Rozwój: Curse lub Void."};break;case 2:heading="STATUSY I EFEKTY";intro="Efekty zmieniają sposób, w jaki bohaterowie przechodzą przez obronę.";names=new[]{"PODPALENIE","WYCHŁODZENIE","SPLĄTANIE","TRUCIZNA","PODATNOŚĆ","WYŁĄCZENIE WIEŻY","OSŁONA"};descs=new[]{"Obrażenia Ognia rozłożone w czasie.","Spowolnienie ruchu pochodzące od Lodu.","Spowolnienie związane z Naturą; szczegóły pozostają otwarte.","Obrażenia Natury rozłożone w czasie.","Zwiększa otrzymywane obrażenia przez określony czas.","Czasowo zatrzymuje ostrzał wieży.","Pochłania obrażenia przed punktami zdrowia."};break;case 3:heading="SIEDEM ŻYWIOŁÓW";intro="Żywioły różnicują bohaterów, wieże i oddziały; szczegóły balansu podlegają testom.";names=new[]{"OGIEŃ","LÓD","BŁYSKAWICE","NATURA","ZIEMIA","ŚWIATŁO","CIEMNOŚĆ"};descs=new[]{"Żar i presja obszarowa.","Spowolnienie i kontrola.","Szybkość i energia.","Odnowa, trucizna i korzenie.","Wytrzymałość i ciężkie trafienia.","Wykrywanie i precyzja.","Zakłócenia i osłabienia."};break;case 4:heading="SERCE LABIRYNTU";intro="Pierwsza mapa to znany obu drużynom labirynt: od środka prowadzi jedna kręta trasa na zewnątrz.";names=new[]{"TRASA","MURY","MGŁA","PRÓBA 3D"};descs=new[]{"Punkt wyjścia to około 360 m drogi, bez skrótów i ślepych zaułków.","Wieże stoją na wyznaczonych polach murów; Runnerzy przemierzają drogę.","Czoło mgły porusza się wzdłuż drogi. Jej dotarcie do mety samo nie kończy ataku.","W obecnym prototypie widzisz spiralę, automatyczne wieże i testową mgłę."};break;case 7:heading="DRZEWKO TECHNOLOGII";intro="Drużyna wspólnie rozwija żywioły i wybiera kierunki ulepszeń.";names=new[]{"WSPÓLNE INWESTYCJE","RDZENIE T1","SPECJALIZACJE T2","ULEPSZENIA T3","REAKCJE ŻYWIOŁÓW"};descs=new[]{"Gracze inwestują w drzewka żywiołów niezależnie od żywiołu wybranego bohatera.","Siedem żywiołów rozpoczyna się od podstawowych rdzeni technologii.","Każdy żywioł ma dwa konkurencyjne kierunki rozwoju.","Dalszy rozwój prowadzi do wspólnego ulepszenia T3.","Szczegółowe zasady reakcji pozostają do ustalenia; nie należą do pierwszego pre-PoC."};break;case 5:heading="ZASADY RIFTORYN";intro="Docelowa gra łączy budowę obrony, ucieczkę oraz adaptację do rywala.";names=new[]{"DWIE DRUŻYNY","DRAFT","BUDOWA","ATAK","WYNIK","WIDOCZNOŚĆ"};descs=new[]{"Dwie drużyny po pięciu graczy naprzemiennie atakują obronę rywala.","Bohaterowie wybierani są ze wspólnej puli bez duplikatów.","Drużyny inwestują i ustawiają wieże na swoich mapach.","Runnerzy poruszają się po labiryncie, unikają ostrzału i używają zdolności.","Najpierw liczy się liczba Runnerów na mecie, potem czas lub najdalszy postęp.","Układ wrogich wież jest odkrywany w czasie ataku; zapamiętany stan może się zestarzeć."};break;default:heading="ŚWIAT I PRÓBY";intro="Po wyniszczającej wojnie krainy rozstrzygają część sporów poprzez obowiązkowe Próby drużyn w labiryntach.";names=new[]{"ERYNDOR","POJEDYNEK BRAM","TRENING BOHATERA","HISTORIE"};descs=new[]{"Świat siedmiu krain i ich odmiennych żywiołów. Nazwy i szczegóły świata pozostają propozycją.","Drużyny budują obronę i podejmują próbę przejścia przez labirynt przeciwnika.","Trening przygotowuje bohatera do przyszłych zmagań; mastery pozostaje pomysłem do dalszego zaprojektowania.","Każdy bohater ma własne pochodzenie i powody, by stanąć do Prób."};break;}
-      Text(new Rect(76,292,900,34),heading,section);Text(new Rect(78,336,1380,54),intro,mutedText);Rect v=new(76,402,1440,390);int cols=3,rows=Mathf.CeilToInt(names.Length/(float)cols);scroll=GUI.BeginScrollView(v,scroll,new Rect(0,0,1410,rows*139));for(int i=0;i<names.Length;i++){float cx=(i%3)*470,cy=(i/3)*139;Frame(new Rect(cx,cy,451,123),panelAlt);Text(new Rect(cx+17,cy+14,410,23),names[i],detailLabel);Text(new Rect(cx+17,cy+45,410,65),descs[i],mutedText);}GUI.EndScrollView();Text(new Rect(78,806,1360,24),"Opisy i wartości są koncepcją; wiążące decyzje znajdują się w GDD.",heroBadge);}
+      Text(new Rect(76,292,1100,38),heading,section);
+      Text(new Rect(78,339,1350,48),intro,mutedText);
+      Fill(new Rect(78,389,1420,1),line);
+      Rect v=new(76,404,1440,390);int cols=2,rows=Mathf.CeilToInt(names.Length/(float)cols);
+      scroll=GUI.BeginScrollView(v,scroll,new Rect(0,0,1410,rows*150));
+      for(int i=0;i<names.Length;i++)
+      {
+          float cx=(i%cols)*705,cy=(i/cols)*150;
+          Fill(new Rect(cx,cy,680,136),new Color(.12f,.10f,.16f));
+          Fill(new Rect(cx,cy,3,136),new Color(.55f,.43f,.32f));
+          Text(new Rect(cx+22,cy+17,620,25),names[i],eyebrow);
+          Text(new Rect(cx+22,cy+52,625,70),descs[i],body);
+      }
+      GUI.EndScrollView();
+      Text(new Rect(78,806,1360,24),RiftorynCodexData.Text("ARCHIWUM RIFTORYN  ·  INFORMACJE ROBOCZE","RIFTORYN ARCHIVE  ·  WORK IN PROGRESS"),heroBadge);
+    }
 }

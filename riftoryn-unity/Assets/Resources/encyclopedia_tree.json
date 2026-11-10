@@ -1,0 +1,158 @@
+{
+  "elements": [
+    {
+      "id": "fire",
+      "name": "Ogień",
+      "a": "Magma",
+      "b": "Inferno",
+      "aText": [
+        "Magma T2: 23 obrażenia, podatność celu +12% przez 3 s; podpalenie 3/s przez 3 s. Plama lawy na trasie: czas i obrażenia do ustalenia.",
+        "Runnerzy: +5% obrażeń zdolności specjalnych zadawanych wieżom."
+      ],
+      "bText": [
+        "Inferno T2: 20 obrażeń w promieniu 2 m; podpalenie 5/s przez 3 s.",
+        "Runnerzy: +5% prędkości ruchu przez 2 s po użyciu zdolności, raz na 10 s."
+      ],
+      "t3": [
+        "Magma: 26 obrażeń, 4/s podpalenia, podatność 15%; Inferno: 22 obrażenia, obszar 2,3 m, 6/s podpalenia.",
+        "Premia ofensywna wybranej specjalizacji wzrasta dwukrotnie: 5% → 10%."
+      ],
+      "baseText": [
+        "Wieże Ognia: +10% obrażeń.",
+        "Runnerzy: −10% otrzymywanych obrażeń Natury, +10% obrażeń Ciemności."
+      ]
+    },
+    {
+      "id": "ice",
+      "name": "Lód",
+      "a": "Glacier",
+      "b": "Ice Lance",
+      "aText": [
+        "Glacier T2: 12 obrażeń w promieniu 1,8 m, spowolnienie 20% przez 2 s.",
+        "Runnerzy: spowolnienia ruchu są o 10% słabsze."
+      ],
+      "bText": [
+        "Ice Lance T2: 15 obrażeń jednemu celowi, spowolnienie 25% przez 2 s.",
+        "Runnerzy: czas wyłączenia wież wywołanego ich zdolnościami +10%."
+      ],
+      "t3": [
+        "Glacier: 14 obrażeń, obszar 2 m, spowolnienie 25%; Ice Lance: 18 obrażeń, spowolnienie 30%.",
+        "Premia wybranej specjalizacji wzrasta dwukrotnie: 10% → 20%."
+      ],
+      "baseText": [
+        "Wieże Lodu: +10% obrażeń.",
+        "Runnerzy: −10% otrzymywanych obrażeń Światła, +10% obrażeń Błyskawic."
+      ]
+    },
+    {
+      "id": "lightning",
+      "name": "Błyskawice",
+      "a": "Tempest",
+      "b": "Lancer",
+      "aText": [
+        "Tempest T2: 13 obrażeń i do dwóch dodatkowych celów łańcucha; każde kolejne trafienie zadaje połowę poprzedniego.",
+        "Runnerzy: +5% prędkości ruchu przez 2 s po użyciu zdolności, raz na 10 s."
+      ],
+      "bText": [
+        "Lancer T2: 21 obrażeń jednemu celowi, zasięg 19 m, bez przeskoków.",
+        "Runnerzy: zasięg zdolności specjalnych wymierzonych we wrogie wieże +1 m."
+      ],
+      "t3": [
+        "Tempest: 15 obrażeń i do trzech przeskoków; Lancer: 24 obrażenia, zasięg 20 m.",
+        "Premia wybranej specjalizacji wzrasta dwukrotnie: 5% → 10% albo 1 m → 2 m."
+      ],
+      "baseText": [
+        "Wieże Błyskawic: +10% obrażeń.",
+        "Runnerzy: −10% otrzymywanych obrażeń Lodu, +10% obrażeń Ziemi."
+      ]
+    },
+    {
+      "id": "nature",
+      "name": "Natura",
+      "a": "Vines",
+      "b": "Thorns",
+      "aText": [
+        "Vines T2: 10 obrażeń, trucizna 4/s przez 3 s i spowolnienie 10% przez 2 s.",
+        "Runnerzy: otrzymywane leczenie +10%."
+      ],
+      "bText": [
+        "Thorns T2: 12 obrażeń, trucizna 6/s przez 3 s; zasięg 13 m.",
+        "Moby: maksymalne HP +10%."
+      ],
+      "t3": [
+        "Vines: 12 obrażeń, trucizna 5/s i spowolnienie 15%; Thorns: 14 obrażeń, trucizna 7/s, zasięg 14 m.",
+        "Premia wybranej specjalizacji wzrasta dwukrotnie: 10% → 20%."
+      ],
+      "baseText": [
+        "Wieże Natury: +10% obrażeń.",
+        "Runnerzy: −10% otrzymywanych obrażeń Ziemi, +10% obrażeń Ognia."
+      ]
+    },
+    {
+      "id": "earth",
+      "name": "Ziemia",
+      "a": "Quake",
+      "b": "Boulder",
+      "aText": [
+        "Quake T2: 27 obrażeń w promieniu 2 m.",
+        "Runnerzy: wytrzymałość osłon tworzonych zdolnościami +10%."
+      ],
+      "bText": [
+        "Boulder T2: 38 obrażeń jednemu celowi; pocisk 10 m/s.",
+        "Moby: maksymalne HP +10%."
+      ],
+      "t3": [
+        "Quake: 30 obrażeń w promieniu 2,3 m; Boulder: 43 obrażenia jednemu celowi.",
+        "Premia wybranej specjalizacji wzrasta dwukrotnie: 10% → 20%."
+      ],
+      "baseText": [
+        "Wieże Ziemi: +10% obrażeń.",
+        "Runnerzy: −10% otrzymywanych obrażeń Błyskawic, +10% obrażeń Światła."
+      ]
+    },
+    {
+      "id": "light",
+      "name": "Światło",
+      "a": "Beacon",
+      "b": "Ray",
+      "aText": [
+        "Beacon T2: 15 obrażeń jednemu celowi i ujawnienie go obronie na 4 s.",
+        "Runnerzy: czas ujawnienia wież przez zdolności +1 s."
+      ],
+      "bText": [
+        "Ray T2: 19 obrażeń jednemu celowi, zasięg 19 m; pocisk 30 m/s.",
+        "Runnerzy: zasięg zdolności specjalnych wymierzonych we wrogie wieże +1 m."
+      ],
+      "t3": [
+        "Beacon: 17 obrażeń i ujawnienie na 5 s; Ray: 22 obrażenia, zasięg 20 m.",
+        "Premia wybranej specjalizacji wzrasta dwukrotnie: 1 s → 2 s albo 1 m → 2 m."
+      ],
+      "baseText": [
+        "Wieże Światła: +10% obrażeń.",
+        "Runnerzy: −10% otrzymywanych obrażeń Ciemności, +10% obrażeń Lodu."
+      ]
+    },
+    {
+      "id": "darkness",
+      "name": "Ciemność",
+      "a": "Curse",
+      "b": "Void",
+      "aText": [
+        "Curse T2: 14 obrażeń, podatność celu +15% przez 3 s.",
+        "Runnerzy: czas wyłączenia wież wywołanego ich zdolnościami +10%."
+      ],
+      "bText": [
+        "Void T2: 20 obrażeń, podatność celu +10% przez 2 s.",
+        "Runnerzy: +5% obrażeń zdolności specjalnych zadawanych wieżom."
+      ],
+      "t3": [
+        "Curse: 16 obrażeń i podatność 18%; Void: 23 obrażenia i podatność 10%.",
+        "Premia wybranej specjalizacji wzrasta dwukrotnie: 10% → 20% albo 5% → 10%."
+      ],
+      "baseText": [
+        "Wieże Ciemności: +10% obrażeń.",
+        "Runnerzy: −10% otrzymywanych obrażeń Ognia, +10% obrażeń Natury."
+      ]
+    }
+  ]
+}
