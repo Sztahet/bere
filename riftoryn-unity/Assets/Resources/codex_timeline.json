@@ -125,8 +125,8 @@
           "date": "3 PT",
           "titlePl": "Noc Zgasłych Wież",
           "titleEn": "Night of the Darkened Towers",
-          "textPl": "Val Meris, niezależne miasto-węzeł szlaków, oblegają oddziały twardogłowych dowódców z Vareth i Kharum, chcące przejąć węzeł i zapasy splotytu przed rywalami. Bronią go miejscowa straż i ochotnicze oddziały z Nivoren, Verdan i Zerath, by utrzymać szlak i ewakuować cywilów. To lokalne obozy, nie całe krainy; Aurel i Vesper są podzielone. Awaria wież odcina drogi ewakuacyjne. Świadectwa są sprzeczne, a przyczyna i pełna liczba ofiar pozostają nieustalone.",
-          "textEn": "Val Meris, an independent route hub, is besieged by local hardline commanders from Vareth and Kharum seeking to seize its junction and splotite stores before their rivals. The city guard and volunteer units from Nivoren, Verdan and Zerath defend it to keep the route open and evacuate civilians. These are local coalitions, not entire realms; Aurel and Vesper are divided. Tower failures cut off evacuation routes. Accounts conflict, and the cause and full death toll remain unknown.",
+          "textPl": "Val Meris, niezależne miasto-węzeł szlaków, oblegają oddziały twardogłowych dowódców z Vareth i Kharum, chcące przejąć węzeł i zapasy splotytu przed rywalami. Bronią go miejscowa straż i ochotnicze oddziały z Nivoren, Verdan i Zerath, by utrzymać szlak i ewakuować cywilów. To lokalne obozy, nie całe krainy; Aurel i Vesper są podzielone. Awaria wież odcina drogi ewakuacyjne. Świadectwa są sprzeczne, a przyczyna i pełna liczba ofiar pozostają nieustalone. Siedem niezależnych komisji przedstawi później swoje hipotezy w raportach złożonych w archiwum Val Meris w 0 ET.",
+          "textEn": "Val Meris, an independent route hub, is besieged by local hardline commanders from Vareth and Kharum seeking to seize its junction and splotite stores before their rivals. The city guard and volunteer units from Nivoren, Verdan and Zerath defend it to keep the route open and evacuate civilians. These are local coalitions, not entire realms; Aurel and Vesper are divided. Tower failures cut off evacuation routes. Accounts conflict, and the cause and full death toll remain unknown. Seven independent commissions will later submit their hypotheses to the Val Meris archive in 0 AT.",
           "dateEn": "3 BT"
         },
         {
@@ -183,16 +183,24 @@
           "date": "Miesiące przed 0 ET",
           "titlePl": "Zakres Traktatu",
           "titleEn": "The Treaty’s Scope",
-          "textPl": "Negocjatorzy obejmują Traktatem sprawy między krainami, wspólne zasoby, szlaki i infrastrukturę, nie zaś sprawy wewnętrzne ani prywatne. Nie chcą oddawać lokalnych kopalń ani ryzykować całych zapasów w jednej Próbie.",
-          "textEn": "Negotiators place inter-realm affairs, shared resources, routes and infrastructure under the Treaty, not internal or private matters. They will not surrender local mines or risk all reserves in a single Trial.",
+          "textPl": "Negocjatorzy ograniczają Próby do impasów o wspólne zasoby i kolejność działań. Fakty i odpowiedzialność badają arbitrzy, a lokalne kopalnie i podstawowe rezerwy pozostają chronione.",
+          "textEn": "Negotiators limit Trials to deadlocks over shared resources and priorities. Arbitrators establish facts and responsibility; local mines and essential reserves remain protected.",
           "dateEn": "Months before 0 AT"
         },
         {
           "date": "0 ET",
           "titlePl": "Traktat Równych Ścieżek",
           "titleEn": "Treaty of Equal Paths",
-          "textPl": "Siedem krain podpisuje Traktat i ustanawia Igrzyska Szlaków jako system wiążących Prób uruchamianych w miarę powstawania nierozstrzygniętych sporów międzykrainowych objętych Traktatem. Rada prowadzi rejestr i wykonuje wyniki, a Urząd organizuje Próby. Wspólna pula splotytu jest ograniczona; rezerwy na podstawowe usługi, bezpieczeństwo i ratownictwo oraz zasoby z niewłączonych kopalń pozostają chronione.",
-          "textEn": "The seven realms sign the Treaty and establish the Route Games as a system of binding Trials for unresolved inter-realm disputes covered by the Treaty. The Council keeps the register and enforces results; the Office organizes the Trials. The shared splotite pool is limited: reserves for essential services, safety and rescue, as well as resources from mines not included in the scheme, remain protected.",
+          "textPl": "Krainy podpisują Traktat, wnoszą ograniczone wkłady do wspólnej puli i otrzymują ochronę szlaków, pomoc w naprawach oraz minimalne dostawy kryzysowe. Próby rozstrzygają tylko określone impasy po negocjacjach. Niezależni arbitrzy i audytorzy nadzorują procedury; awaryjne ograniczenia wydobycia podlegają przeglądom.",
+          "textEn": "The realms sign the Treaty, contribute limited shares to a common pool and receive route protection, repair assistance and minimum emergency deliveries. Trials resolve defined deadlocks after negotiation. Independent arbitrators and auditors oversee the process; emergency mining limits are subject to review.",
+          "dateEn": "0 AT"
+        },
+        {
+          "date": "0 ET",
+          "titlePl": "Siedem raportów o Nocy",
+          "titleEn": "Seven Reports on the Night",
+          "textPl": "Archiwum Val Meris otrzymuje kopie raportów siedmiu niezależnych komisji cywilnych. Każda wskazuje inną hipotezę.\n\nVareth — Nadtopione styki przypominają ślady jednoczesnego ostrzału z kilku wież. Podobne uszkodzenia mogły jednak powstać przy jednoczesnym wznowieniu pracy po zaniku zasilania.\n\nNivoren — Próbki z jednej partii splotytu oddawały ciepło po wyłączeniu chłodzenia. Oznaczenie partii widnieje na liście przewozowej do Val Meris, ale jej odbiór i montaż pozostają nieudokumentowane.\n\nZerath — Dwie stacje przypisały podejrzane polecenie przekaźnikowi, którego rejestr milczy. Komisja podejrzewa podszycie się pod stację. Podobny zapis mógł jednak zostawić tryb awaryjny.\n\nVerdan — Dzienniki kanałów wskazują na osobne awarie, w tym po ostrzale i na odcinku już odłączonym od sieci. To wyjaśnia część zdarzeń w dolinie. Związek z awariami poza nią pozostaje otwarty.\n\nKharum — W zapisie przekaźnika zanik zasilania występuje przed skokami obciążenia. Komisja uważa, że wieże mogły jednocześnie przełączyć się na rezerwę. Stan zegara przekaźnika po restarcie jest nieznany.\n\nAurel — Dwa dzienniki opisują podobne błyski w odłączonych urządzeniach mierzących różne żywioły. Komisja rozważa magiczny rezonans. Próby nie dały powtarzalnego wyniku, a dzienniki uzupełniano po awarii.\n\nVesper — W kopalni znaleziono obejście odcięcia awaryjnego podobne do tego ze szkicu jednej z wież Val Meris. Komisja podejrzewa ingerencję serwisową. Takie przeróbki robiono też podczas prowizorycznych napraw.\n\nŚledztwo pozostaje otwarte. Raporty nie rozstrzygają, co zapoczątkowało katastrofę w Val Meris ani ile regionalnych awarii miało z nią związek.",
+          "textEn": "The Val Meris archive receives copies of reports from seven independent civilian commissions. Each puts forward a different hypothesis.\n\nVareth — Melted contacts resemble damage from several towers firing at once. A simultaneous restart after a power failure could have left similar marks.\n\nNivoren — Samples from one batch of splotite released heat after cooling was cut. The batch appears on a cargo manifest for Val Meris, but its delivery and installation remain undocumented.\n\nZerath — Two stations attributed a suspicious order to a relay whose log shows no such transmission. The commission suspects impersonation. Emergency forwarding could also have left a similar record.\n\nVerdan — Canal logs point to separate failures, including one after shelling and another on a stretch already disconnected from the network. That explains some events in the valley. The connection to failures elsewhere remains open.\n\nKharum — A relay log places a loss of power before the load spikes. The commission thinks the towers may have switched to backup power together. The state of the relay clock after its restart is unknown.\n\nAurel — Two logs describe similar flashes in disconnected instruments measuring different elements. The commission considers magical resonance. Tests produced no repeatable results, and the logs were filled in after the failure.\n\nVesper — A mine's emergency cutoff had been bypassed, much as shown in a sketch of a Val Meris tower. The commission suspects deliberate tampering by someone with service access. Makeshift repairs also used similar bypasses.\n\nThe investigation remains open. The reports leave two questions unresolved: what set off the disaster in Val Meris, and how many of the regional failures were connected to it.",
           "dateEn": "0 AT"
         }
       ],
@@ -225,8 +233,8 @@
           "date": "4 ET",
           "titlePl": "Pełna para ataków",
           "titleEn": "A Full Pair of Attacks",
-          "textPl": "Wynik zaczyna być liczony dopiero po pełnej parze ataków, aby obie strony miały szansę bronić i przejść labirynt.",
-          "textEn": "Results are counted only after a full pair of attacks, giving both sides a chance to defend and run the labyrinth.",
+          "textPl": "Urząd ujednolica pełną parę ataków w formacie labiryntowym, rozwijając zasadę znaną z pierwszego Pojedynku Bram.",
+          "textEn": "The Office standardizes a full pair of attacks for the labyrinth format, building on the first Gate Duel.",
           "dateEn": "4 AT"
         },
         {
@@ -241,8 +249,8 @@
           "date": "7 ET",
           "titlePl": "Próby stają się widowiskiem",
           "titleEn": "Trials Become a Public Spectacle",
-          "textPl": "Urząd publikuje wyniki, tabele punktów i podziały przydziałów. Próby stają się publicznym widowiskiem, bo mieszkańcy widzą, jak ich wyniki wpływają na dostawy i odbudowę. Dobrowolne ligi mogą odbywać się regularnie, lecz nie mają mocy traktatowej.",
-          "textEn": "The Office publishes results, point tables and allocation shares. The Trials become a public spectacle as residents see how results affect deliveries and reconstruction. Voluntary leagues may run regularly, but have no force under the Treaty.",
+          "textPl": "Próby są sportem i widowiskiem. Mniejsze ligi przyciągają drużyny, kibiców oraz sponsorów; mieszkańcy śledzą wyniki i zawierają zakłady. Zawodnicy sprawdzają umiejętności i zdobywają nagrody. Wyniki zawodów sportowych nie mają same w sobie mocy traktatowej.",
+          "textEn": "Trials are both a sport and a public spectacle. Smaller leagues attract teams, supporters and sponsors; spectators follow the results and place bets. Competitors test their skills and earn prizes. Sporting results do not by themselves have force under the Treaty.",
           "dateEn": "7 AT"
         },
         {
@@ -263,15 +271,15 @@
         },
         {
           "date": "12 ET",
-          "titlePl": "Spór o kryształy",
-          "titleEn": "The Crystal Dispute",
-          "textPl": "Piętnaście lat po Nocy Zgasłych Wież jedna frakcja domaga się zniesienia ograniczeń wydobycia i zmniejszenia wpływów Rady. Twierdzi, że Noc była sabotażem, a nie dowodem na naturalną niestabilność kryształów; piętnaście lat badań dowodzi, jej zdaniem, że wydobycie można bezpiecznie zwiększyć. Oskarża Radę o wykorzystanie katastrofy do trwałego przejęcia kontroli nad zasobami i osłabienia lokalnych krain. Druga frakcja chce zachować regulacje: przyczyna Nocy nie została ustalona, a kryształy mogą być stabilne właśnie dzięki kontrolowanemu wydobyciu i nadzorowi sieci. To nie dowodzi, że nieograniczona eksploatacja będzie bezpieczna. Żadna strona nie ma rozstrzygającego dowodu. Spór uruchamia nową Próbę traktatową. Bohaterowie pozostają neutralni; każdy ma własne powody, by rozważać oba stanowiska.",
-          "textEn": "Fifteen years after the Night of the Darkened Towers, one faction demands an end to mining limits and less Council authority. It claims the Night was sabotage, not proof that crystals are inherently unstable; in its view, fifteen years of research show that mining can safely expand. It accuses the Council of using the disaster to permanently centralize control over resources and weaken the local realms. The other faction wants to keep the rules: the cause of the Night is unknown, and crystals may be stable because extraction and networks are controlled. That does not prove unrestricted mining would be safe. Neither side has decisive proof. The dispute triggers a new Treaty Trial. The heroes remain neutral; each has personal reasons to consider both positions.",
+          "titlePl": "Wielkie Igrzyska",
+          "titleEn": "The Grand Games",
+          "textPl": "Spór o władzę nad wydobyciem grozi wojną, której wielu mieszkańców nie chce powtórzyć. W Val Meris uprawnieni przedstawiciele podpisują dwa warianty zarządzania i jawne zasady Wielkich Igrzysk. Protokół chroni własność kopalń, istniejące zobowiązania, podstawowe dostawy i niezależne śledztwo. Przez co najmniej rok nie można jednostronnie cofnąć wyniku; krytyka i odwołania od decyzji pozostają możliwe. Igrzyska nie rozstrzygają przyczyny Nocy.",
+          "textEn": "A dispute over control of mining threatens a war many residents refuse to relive. In Val Meris, authorized representatives sign two models of governance and public rules for the Grand Games. The protocol protects ownership of mines, existing commitments, essential supplies and the independent investigation. For at least a year, no party may unilaterally revoke the result; criticism and appeals against decisions remain possible. The Games cannot establish what caused the Night.",
           "dateEn": "12 AT"
         }
       ],
       "image": "Timeline/05-era-prob",
-      "contextPl": "Igrzyska Szlaków to system Prób uruchamianych w miarę powstawania sporów. Teraz dzielą krainy pytania o bezpieczeństwo kryształów, swobodę wydobycia i wpływy Rady; bohaterowie pozostają neutralni.",
+      "contextPl": "Zwykłe Próby rozstrzygają ograniczone impasy. Wyjątkowe Wielkie Igrzyska wybiorą uzgodniony model zarządzania, by zapobiec wojnie; prawda o Nocy pozostaje nieznana.",
       "rangeEn": "1–12 AT"
     }
   ]

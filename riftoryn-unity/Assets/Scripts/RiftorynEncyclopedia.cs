@@ -63,13 +63,13 @@ public partial class RiftorynMenu
     {
         if(encyclopediaWorld!=null)return;
         var data=Resources.Load<TextAsset>("encyclopedia_world");encyclopediaWorld=data?JsonUtility.FromJson<EncyclopediaWorld>(data.text):new EncyclopediaWorld();
-        worldImage=Resources.Load<Texture2D>("Timeline/eryndor-mapa-swiata-v1");
+        worldImage=Resources.Load<Texture2D>("Timeline/riftoryn-mapa-swiata-v1");
     }
     static string PlaceName(EncyclopediaPlace place)=>RiftorynL10n.CurrentCode=="EN"&&!string.IsNullOrEmpty(place.nameEn)?place.nameEn:place.name;
     void WorldEncyclopedia()
     {
         LoadWorld();Frame(new Rect(50,270,1500,570),panel);
-        Text(new Rect(75,287,900,32),RiftorynCodexData.Text("MAPA ŚWIATA  /  ERYNDOR","WORLD MAP  /  ERYNDOR"),section);
+        Text(new Rect(75,287,900,32),RiftorynCodexData.Text("MAPA ŚWIATA  /  RIFTORYN","WORLD MAP  /  RIFTORYN"),section);
         Text(new Rect(77,327,1400,30),RiftorynCodexData.Text("Układ i położenie ośrodków są koncepcyjne; granice nie zostały ustalone. Wybierz znacznik lub nazwę, aby poznać miejsce i jego historię.","The layout and locations are concepts; borders have not been established. Select a marker or name to discover a place and its history."),mutedText);
         if(encyclopediaWorld.places==null||encyclopediaWorld.places.Length==0)return;
         Rect map=new(77,365,820,390);Fill(map,panelAlt);

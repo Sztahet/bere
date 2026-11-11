@@ -4,6 +4,9 @@
 
 ## Referencje
 
+- [Niva — arkusz postaci](assets/heroes/modeling-concepts/niva.png). Koncepcja Wsparcia Lodu: jasny warkocz, futrzany płaszcz i lodowy kryształ.
+- [Liora — arkusz postaci](assets/heroes/modeling-concepts/liora.png). Koncepcja Wsparcia Natury: brązowy warkocz, kwiatowe ozdoby i zielono-kremowy strój.
+- [Elira — arkusz postaci](assets/heroes/modeling-concepts/elira.png). Koncepcja Wsparcia Światła: jasny warkocz, biało-złoty płaszcz i latarnia.
 - [Orien — arkusz postaci](assets/heroes/modeling-concepts/orien.png). Arkusz dostarczony jako referencja do przyszłego modelowania, nie gotowy model 3D ani zatwierdzona specyfikacja.
 - [Rian — arkusz postaci](assets/heroes/modeling-concepts/rian.png). Referencja do przyszłego modelowania; koncepcja przedstawia Ognistego Specjalistę i inżyniera żaru.
 - [Taren — arkusz postaci](assets/heroes/modeling-concepts/taren.png). Referencja do przyszłego modelowania; koncepcja przedstawia Tank Błyskawic z ciężkim pancerzem i futrzanym kołnierzem.
@@ -39,9 +42,9 @@ Arkusze zawierają widoki postaci, twarze, przykładowe ekspresje, kolory, wymia
 
 ## Pokrycie kart koncepcyjnych bohaterów
 
-GDD wymienia 30 głównych bohaterów; Lucen jest dodatkową alternatywą dla kombinacji Specjalista / Światło. Karty z katalogu `assets/heroes/modeling-concepts/` pokazują obecnie 13 z nich: Ana, Eira, Kael, Koneva, Miko, Morrak, Nocten, Orien, Pyrra, Rian, Saila, Taren i Thora. Lucen ma portret, ale nie ma jeszcze karty modelowania. Petów (Bob, Frost/Szron, Pati/Patka i Spark/Iskra) nie liczę jako bohaterów.
+GDD wymienia 30 głównych bohaterów; Lucen jest dodatkową alternatywą dla kombinacji Specjalista / Światło. Karty z katalogu `assets/heroes/modeling-concepts/` pokazują obecnie 21 z nich: Ana, Brom, Dara, Eira, Elira, Iskar, Kael, Koneva, Liora, Miko, Morrak, Niva, Nocten, Orien, Pyrra, Rian, Saila, Solan, Taren, Thora i Zet. Lucen ma portret, ale nie ma jeszcze karty modelowania. Petów (Bob, Frost/Szron, Pati/Patka i Spark/Iskra) nie liczę jako bohaterów.
 
-Do przygotowania kart pozostaje 18 bohaterów: Brom, Iskar, Liora, Elira, Varek, Niva, Solan, Dara, Zet, Eron, Kiran, Adrien, Morven, Volt, Rokan, Lumen, Neris i Lucen.
+Do przygotowania kart pozostaje 10 bohaterów: Varek, Eron, Kiran, Adrien, Morven, Volt, Rokan, Lumen, Neris i Lucen.
 
 ## Pyrra i Iskra / Spark — nowa referencja
 

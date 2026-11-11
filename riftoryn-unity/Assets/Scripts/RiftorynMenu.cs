@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-[Serializable] public class HeroBiography { public string city,cityEn,specialty,story,storyEn,reason,family; }
+[Serializable] public class HeroBiography { public string city,cityEn,specialty,story,storyEn,reason,family; public bool approvedForPoc; }
 [Serializable] public class CodexHero {
     public string id,name,role,element,img,speed,desc,passName,pass,passNameEn,passEn,attackName,attack,defName,def,pet,concept,defense;
     public int hp,cd; public bool conceptOnly; public HeroBiography bio;
@@ -109,6 +109,7 @@ public partial class RiftorynMenu : MonoBehaviour {
         var list=new List<HeroComic>();foreach(var item in comics)if(item!=null&&item.heroId==heroId)list.Add(item);return list;
     }
     string ComicText(string pl,string en)=>RiftorynL10n.CurrentCode=="EN"&&!string.IsNullOrEmpty(en)?en:pl??"";
+    string BiographyStatus(CodexHero hero)=>hero.bio.approvedForPoc?RiftorynCodexData.Text("HISTORIA ZATWIERDZONA NA POC","STORY APPROVED FOR POC"):RiftorynCodexData.Text("PROPOZYCJA FABULARNA · DO AKCEPTACJI","STORY CONCEPT · PENDING APPROVAL");
     static Rect ComicArea(Rect image,ComicRect area)=>new(image.x+image.width*area.x,image.y+image.height*area.y,image.width*area.width,image.height*area.height);
     void DrawComicText(Rect rect,string value,bool titleText,float imageScale)
     {
@@ -129,7 +130,10 @@ public partial class RiftorynMenu : MonoBehaviour {
     }
     bool CompactStoryButton(Rect rect,string text,bool enabled=true)
     {
-        if(compactButton==null)compactButton=new GUIStyle(GUI.skin.button){fontSize=16,fontStyle=FontStyle.Bold,alignment=TextAnchor.MiddleCenter,wordWrap=false};
+        if(compactButton==null){
+            compactButton=new GUIStyle(GUI.skin.button){fontSize=16,fontStyle=FontStyle.Bold,alignment=TextAnchor.MiddleCenter,wordWrap=false};
+            compactButton.normal.textColor=pale;compactButton.hover.textColor=pale;compactButton.active.textColor=pale;compactButton.focused.textColor=pale;
+        }
         Fill(rect,enabled?panelAlt:new Color(.10f,.085f,.14f));bool old=GUI.enabled;GUI.enabled=enabled;
         bool pressed=GUI.Button(rect,text,compactButton);GUI.enabled=old;return pressed;
     }
@@ -172,7 +176,7 @@ public partial class RiftorynMenu : MonoBehaviour {
             y+=imageHeight+12;
         }else{GUI.Label(new Rect(5,y,width-10,62),comic==null?RiftorynCodexData.Text("Nie dodano jeszcze komiksu tej postaci.","No comic has been added for this character yet."):RiftorynCodexData.Text("Nie udało się wczytać komiksu.","The comic could not be loaded."),compactText);y+=70;}
         if(RiftorynL10n.CurrentCode=="EN"&&HasBiography(hero)&&string.IsNullOrEmpty(hero.bio.storyEn)){GUI.Label(new Rect(5,y,width-10,25),"Polish version · English translation in development",compactText);y+=28;}
-        if(HasBiography(hero)){GUI.Label(new Rect(5,y,width-10,22),RiftorynCodexData.Text("PROPOZYCJA FABULARNA · DO AKCEPTACJI","STORY CONCEPT · PENDING APPROVAL"),heroBadge);y+=24;}
+        if(HasBiography(hero)){GUI.Label(new Rect(5,y,width-10,22),BiographyStatus(hero),heroBadge);y+=24;}
         GUI.Label(new Rect(5,y,width-20,bioHeight),biography,compactText);GUI.EndScrollView();
     }
     void HeroStory()
@@ -189,7 +193,9 @@ public partial class RiftorynMenu : MonoBehaviour {
             comicListScroll=GUI.BeginScrollView(new Rect(70,270,320,550),comicListScroll,new Rect(0,0,300,Mathf.Max(550,list.Count*66)));
             for(int i=0;i<list.Count;i++){
                 var c=list[i];Rect item=new(0,i*66,290,56);bool chosen=i==selectedComic;Fill(item,chosen?gold:new Color(.16f,.135f,.20f));
-                var itemStyle=new GUIStyle(chosen?button:nav){alignment=TextAnchor.MiddleCenter,wordWrap=true};if(!chosen)itemStyle.normal.textColor=pale;
+                var itemStyle=new GUIStyle(chosen?button:nav){alignment=TextAnchor.MiddleCenter,wordWrap=true};
+                if(!chosen)itemStyle.normal.textColor=pale;
+                itemStyle.hover.textColor=itemStyle.normal.textColor;itemStyle.active.textColor=itemStyle.normal.textColor;itemStyle.focused.textColor=itemStyle.normal.textColor;
                 if(GUI.Button(item,ComicText(c.titlePl,c.titleEn),itemStyle)){selectedComic=i;storyScroll=Vector2.zero;}
             }
             GUI.EndScrollView();
@@ -204,17 +210,18 @@ public partial class RiftorynMenu : MonoBehaviour {
             if(Click(new Rect(885,216,100,38),"100%"))ChangeStoryZoom(1f);
             Text(new Rect(1000,224,500,30),RiftorynCodexData.Text("Przewijaj także w bok po powiększeniu","Scroll sideways when zoomed in"),heroBadge);
         }
-        Rect viewport=new(440,comic!=null?270:220,1090,comic!=null?555:605);float width=1000*(comic!=null?storyZoom:1f);
+        Rect viewport=new(440,comic!=null?270:220,1090,comic!=null?555:605);float width=900*(comic!=null?storyZoom:1f);
         Texture2D image=comic!=null?Resources.Load<Texture2D>(comic.resource):null;
         float imageHeight=image?width*image.height/image.width:0;
         string biography=HasBiography(hero)?ComicText(hero.bio.story,hero.bio.storyEn):RiftorynCodexData.Text("Historia jest w przygotowaniu.","This story is in development.");
         float biographyHeight=Mathf.Max(80,body.CalcHeight(new GUIContent(biography),width-40));
         float contentHeight=(image?imageHeight+65:45)+biographyHeight+60;
-        storyScroll=GUI.BeginScrollView(viewport,storyScroll,new Rect(0,0,width+20,contentHeight));
+        storyScroll=GUI.BeginScrollView(viewport,storyScroll,new Rect(0,0,Mathf.Max(1110,width+20),contentHeight));
         float y=12;
         if(image)
         {
-            Rect pageRect=new(10,y,width,imageHeight);GUI.DrawTexture(pageRect,image,ScaleMode.StretchToFill);
+            float pageX=width<=1060?(1090-width)*.5f:10f;
+            Rect pageRect=new(pageX,y,width,imageHeight);GUI.DrawTexture(pageRect,image,ScaleMode.ScaleToFit);
             if(comic.titleRect!=null)DrawComicText(ComicArea(pageRect,comic.titleRect),ComicText(comic.titlePl,comic.titleEn),true,width/1000f);
             if(comic.panels!=null)foreach(var entry in comic.panels)if(entry!=null)DrawComicText(ComicArea(pageRect,entry),ComicText(entry.pl,entry.en),false,width/1000f);
             y+=imageHeight+25;
@@ -224,7 +231,7 @@ public partial class RiftorynMenu : MonoBehaviour {
         if(RiftorynL10n.CurrentCode=="EN"&&HasBiography(hero)&&string.IsNullOrEmpty(hero.bio.storyEn)){
             Text(new Rect(15,y,width-30,24),"Polish version · English translation in development",heroBadge);y+=25;
         }
-        if(HasBiography(hero)){Text(new Rect(15,y,width-30,22),RiftorynCodexData.Text("PROPOZYCJA FABULARNA · DO AKCEPTACJI","STORY CONCEPT · PENDING APPROVAL"),heroBadge);y+=24;}
+        if(HasBiography(hero)){Text(new Rect(15,y,width-30,22),BiographyStatus(hero),heroBadge);y+=24;}
         GUI.Label(new Rect(15,y,width-40,biographyHeight),biography,body);
         GUI.EndScrollView();
     }
@@ -305,7 +312,7 @@ public partial class RiftorynMenu : MonoBehaviour {
     void TimelineCodex()
     {
         Frame(new Rect(50,270,1500,570),panel);
-        Text(new Rect(76,286,1000,26),RiftorynCodexData.Text("KRONIKI ERYNDORU  /  OŚ CZASU","CHRONICLES OF ERYNDOR  /  TIMELINE"),eyebrow);
+        Text(new Rect(76,286,1000,26),RiftorynCodexData.Text("KRONIKI RIFTORYNU  /  OŚ CZASU","CHRONICLES OF RIFTORYN  /  TIMELINE"),eyebrow);
         Text(new Rect(76,312,1400,30),RiftorynCodexData.Text("Pięć epok. Wybierz wydarzenie, aby odkryć jego historię.","Five eras. Select an event to discover its story."),mutedText);
         int count=0;float contentHeight=12;
         foreach(var era in timelineEras)if(era?.events!=null){contentHeight+=50+era.events.Length*52;count+=era.events.Length;}
@@ -358,7 +365,7 @@ public partial class RiftorynMenu : MonoBehaviour {
 
         }
     }
-    void Catalog(){Frame(new Rect(50,270,1500,570),panel);string heading="",intro="";string[] names=Array.Empty<string>(),descs=Array.Empty<string>();switch(tab){case 1:heading="WIEŻE ŻYWIOŁÓW";intro="Wieże działają automatycznie; w docelowej grze Defenderzy mogą je także pilotować.";names=new[]{"OGIEŃ","LÓD","BŁYSKAWICE","NATURA","ZIEMIA","ŚWIATŁO","CIEMNOŚĆ"};descs=new[]{"Obszar i podpalenie. Rozwój: Magma lub Inferno.","Kontrola ruchu i spowolnienia. Rozwój: Glacier lub Ice Lance.","Szybki ostrzał i łańcuch trafień. Rozwój: Tempest lub Lancer.","Trucizna i kontrola ruchu. Rozwój: Vines lub Thorns.","Ciężkie obrażenia. Rozwój: Quake lub Boulder.","Wykrywanie i precyzyjny ostrzał. Rozwój: Beacon lub Ray.","Podatność i skoncentrowany ostrzał. Rozwój: Curse lub Void."};break;case 2:heading="STATUSY I EFEKTY";intro="Efekty zmieniają sposób, w jaki bohaterowie przechodzą przez obronę.";names=new[]{"PODPALENIE","WYCHŁODZENIE","SPLĄTANIE","TRUCIZNA","PODATNOŚĆ","WYŁĄCZENIE WIEŻY","OSŁONA"};descs=new[]{"Obrażenia Ognia rozłożone w czasie.","Spowolnienie ruchu pochodzące od Lodu.","Spowolnienie związane z Naturą; szczegóły pozostają otwarte.","Obrażenia Natury rozłożone w czasie.","Zwiększa otrzymywane obrażenia przez określony czas.","Czasowo zatrzymuje ostrzał wieży.","Pochłania obrażenia przed punktami zdrowia."};break;case 3:heading="SIEDEM ŻYWIOŁÓW";intro="Żywioły różnicują bohaterów, wieże i oddziały; szczegóły balansu podlegają testom.";names=new[]{"OGIEŃ","LÓD","BŁYSKAWICE","NATURA","ZIEMIA","ŚWIATŁO","CIEMNOŚĆ"};descs=new[]{"Żar i presja obszarowa.","Spowolnienie i kontrola.","Szybkość i energia.","Odnowa, trucizna i korzenie.","Wytrzymałość i ciężkie trafienia.","Wykrywanie i precyzja.","Zakłócenia i osłabienia."};break;case 4:heading="SERCE LABIRYNTU";intro="Pierwsza mapa to znany obu drużynom labirynt: od środka prowadzi jedna kręta trasa na zewnątrz.";names=new[]{"TRASA","MURY","MGŁA","PRÓBA 3D"};descs=new[]{"Punkt wyjścia to około 360 m drogi, bez skrótów i ślepych zaułków.","Wieże stoją na wyznaczonych polach murów; Runnerzy przemierzają drogę.","Czoło mgły porusza się wzdłuż drogi. Jej dotarcie do mety samo nie kończy ataku.","W obecnym prototypie widzisz spiralę, automatyczne wieże i testową mgłę."};break;case 7:heading="DRZEWKO TECHNOLOGII";intro="Drużyna wspólnie rozwija żywioły i wybiera kierunki ulepszeń.";names=new[]{"WSPÓLNE INWESTYCJE","RDZENIE T1","SPECJALIZACJE T2","ULEPSZENIA T3","REAKCJE ŻYWIOŁÓW"};descs=new[]{"Gracze inwestują w drzewka żywiołów niezależnie od żywiołu wybranego bohatera.","Siedem żywiołów rozpoczyna się od podstawowych rdzeni technologii.","Każdy żywioł ma dwa konkurencyjne kierunki rozwoju.","Dalszy rozwój prowadzi do wspólnego ulepszenia T3.","Szczegółowe zasady reakcji pozostają do ustalenia; nie należą do pierwszego pre-PoC."};break;case 5:heading="ZASADY RIFTORYN";intro="Docelowa gra łączy budowę obrony, ucieczkę oraz adaptację do rywala.";names=new[]{"DWIE DRUŻYNY","DRAFT","BUDOWA","ATAK","WYNIK","WIDOCZNOŚĆ"};descs=new[]{"Dwie drużyny po pięciu graczy naprzemiennie atakują obronę rywala.","Bohaterowie wybierani są ze wspólnej puli bez duplikatów.","Drużyny inwestują i ustawiają wieże na swoich mapach.","Runnerzy poruszają się po labiryncie, unikają ostrzału i używają zdolności.","Najpierw liczy się liczba Runnerów na mecie, potem czas lub najdalszy postęp.","Układ wrogich wież jest odkrywany w czasie ataku; zapamiętany stan może się zestarzeć."};break;default:heading="ŚWIAT I PRÓBY";intro="Po wyniszczającej wojnie krainy rozstrzygają część sporów poprzez obowiązkowe Próby drużyn w labiryntach.";names=new[]{"ERYNDOR","POJEDYNEK BRAM","TRENING BOHATERA","HISTORIE"};descs=new[]{"Świat siedmiu krain i ich odmiennych żywiołów. Nazwy i szczegóły świata pozostają propozycją.","Drużyny budują obronę i podejmują próbę przejścia przez labirynt przeciwnika.","Trening przygotowuje bohatera do przyszłych zmagań; mastery pozostaje pomysłem do dalszego zaprojektowania.","Każdy bohater ma własne pochodzenie i powody, by stanąć do Prób."};break;}
+    void Catalog(){Frame(new Rect(50,270,1500,570),panel);string heading="",intro="";string[] names=Array.Empty<string>(),descs=Array.Empty<string>();switch(tab){case 1:heading="WIEŻE ŻYWIOŁÓW";intro="Wieże działają automatycznie; w docelowej grze Defenderzy mogą je także pilotować.";names=new[]{"OGIEŃ","LÓD","BŁYSKAWICE","NATURA","ZIEMIA","ŚWIATŁO","CIEMNOŚĆ"};descs=new[]{"Obszar i podpalenie. Rozwój: Magma lub Inferno.","Kontrola ruchu i spowolnienia. Rozwój: Glacier lub Ice Lance.","Szybki ostrzał i łańcuch trafień. Rozwój: Tempest lub Lancer.","Trucizna i kontrola ruchu. Rozwój: Vines lub Thorns.","Ciężkie obrażenia. Rozwój: Quake lub Boulder.","Wykrywanie i precyzyjny ostrzał. Rozwój: Beacon lub Ray.","Podatność i skoncentrowany ostrzał. Rozwój: Curse lub Void."};break;case 2:heading="STATUSY I EFEKTY";intro="Efekty zmieniają sposób, w jaki bohaterowie przechodzą przez obronę.";names=new[]{"PODPALENIE","WYCHŁODZENIE","SPLĄTANIE","TRUCIZNA","PODATNOŚĆ","WYŁĄCZENIE WIEŻY","OSŁONA"};descs=new[]{"Obrażenia Ognia rozłożone w czasie.","Spowolnienie ruchu pochodzące od Lodu.","Spowolnienie związane z Naturą; szczegóły pozostają otwarte.","Obrażenia Natury rozłożone w czasie.","Zwiększa otrzymywane obrażenia przez określony czas.","Czasowo zatrzymuje ostrzał wieży.","Pochłania obrażenia przed punktami zdrowia."};break;case 3:heading="SIEDEM ŻYWIOŁÓW";intro="Żywioły różnicują bohaterów, wieże i oddziały; szczegóły balansu podlegają testom.";names=new[]{"OGIEŃ","LÓD","BŁYSKAWICE","NATURA","ZIEMIA","ŚWIATŁO","CIEMNOŚĆ"};descs=new[]{"Żar i presja obszarowa.","Spowolnienie i kontrola.","Szybkość i energia.","Odnowa, trucizna i korzenie.","Wytrzymałość i ciężkie trafienia.","Wykrywanie i precyzja.","Zakłócenia i osłabienia."};break;case 4:heading="SERCE LABIRYNTU";intro="Pierwsza mapa to znany obu drużynom labirynt: od środka prowadzi jedna kręta trasa na zewnątrz.";names=new[]{"TRASA","MURY","MGŁA","PRÓBA 3D"};descs=new[]{"Punkt wyjścia to około 360 m drogi, bez skrótów i ślepych zaułków.","Wieże stoją na wyznaczonych polach murów; Runnerzy przemierzają drogę.","Czoło mgły porusza się wzdłuż drogi. Jej dotarcie do mety samo nie kończy ataku.","W obecnym prototypie widzisz spiralę, automatyczne wieże i testową mgłę."};break;case 7:heading="DRZEWKO TECHNOLOGII";intro="Drużyna wspólnie rozwija żywioły i wybiera kierunki ulepszeń.";names=new[]{"WSPÓLNE INWESTYCJE","RDZENIE T1","SPECJALIZACJE T2","ULEPSZENIA T3","REAKCJE ŻYWIOŁÓW"};descs=new[]{"Gracze inwestują w drzewka żywiołów niezależnie od żywiołu wybranego bohatera.","Siedem żywiołów rozpoczyna się od podstawowych rdzeni technologii.","Każdy żywioł ma dwa konkurencyjne kierunki rozwoju.","Dalszy rozwój prowadzi do wspólnego ulepszenia T3.","Szczegółowe zasady reakcji pozostają do ustalenia; nie należą do pierwszego pre-PoC."};break;case 5:heading="ZASADY RIFTORYN";intro="Docelowa gra łączy budowę obrony, ucieczkę oraz adaptację do rywala.";names=new[]{"DWIE DRUŻYNY","DRAFT","BUDOWA","ATAK","WYNIK","WIDOCZNOŚĆ"};descs=new[]{"Dwie drużyny po pięciu graczy naprzemiennie atakują obronę rywala.","Bohaterowie wybierani są ze wspólnej puli bez duplikatów.","Drużyny inwestują i ustawiają wieże na swoich mapach.","Runnerzy poruszają się po labiryncie, unikają ostrzału i używają zdolności.","Najpierw liczy się liczba Runnerów na mecie, potem czas lub najdalszy postęp.","Układ wrogich wież jest odkrywany w czasie ataku; zapamiętany stan może się zestarzeć."};break;default:heading="ŚWIAT I PRÓBY";intro="Po wyniszczającej wojnie krainy rozstrzygają część sporów poprzez obowiązkowe Próby drużyn w labiryntach.";names=new[]{"RIFTORYN","POJEDYNEK BRAM","TRENING BOHATERA","HISTORIE"};descs=new[]{"Świat siedmiu krain i ich odmiennych żywiołów. Nazwy i szczegóły świata pozostają propozycją.","Drużyny budują obronę i podejmują próbę przejścia przez labirynt przeciwnika.","Trening przygotowuje bohatera do przyszłych zmagań; mastery pozostaje pomysłem do dalszego zaprojektowania.","Każdy bohater ma własne pochodzenie i powody, by stanąć do Prób."};break;}
       Text(new Rect(76,292,1100,38),heading,section);
       Text(new Rect(78,339,1350,48),intro,mutedText);
       Fill(new Rect(78,389,1420,1),line);

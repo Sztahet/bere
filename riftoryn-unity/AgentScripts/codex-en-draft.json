@@ -407,10 +407,10 @@
       "conceptOnly": true,
       "bio": {
         "name": "Nocten",
-        "city": "Shadow Harbor",
-        "specialty": "Shadow Defense — direction to be designed",
-        "story": "For years, the elder keeper of port archives has helped travelers protect information about dangerous stretches of road.",
-        "reason": "Supports the team fighting for safe passage for convoys.",
+        "city": "Northern Riftoryn settlement (according to official records)",
+        "specialty": "Darkness magic — concealing allies and weakening opponents",
+        "story": "Age in 12 AT: 68.\n\nAccording to official records, Nocten was born in a small settlement in northern Riftoryn. Yet he also remembers another life: a city behind high white walls, a woman he loved, and a boy who called him father. At the same time, he remembers growing up in the settlement. Both pasts feel equally real.\n\nIn everyday life, Nocten is sensible, patient and quietly funny. He is an experienced Darkness mage who conceals allies, weakens opponents and manipulates shadows; he does not think his element erases memories. But he is unsettled by memories that contradict one another, and by a shadow that sometimes seems to move without him—a sight no one else has witnessed.\n\nIn an old archive, he found a map leading to the city from his dreams. When he returned the next day, the same road led elsewhere, though the archivist insisted the map had not changed. Nocten began writing down his memories and dreams; in his notebook, he found contradictory notes in his own handwriting that he could not remember writing.\n\nIn one notebook he found the line, “When the representatives of the seven elements gather again, you must be there,” followed by the date of this year's Great Games. He comes, not knowing who wrote it or whether he remembers someone else's past or his own. No explanation for his memories is confirmed.",
+        "reason": "He comes to the Great Games because of a note he cannot remember writing, hoping to meet someone who recognizes his memories.",
         "family": "Family has not been described yet."
       }
     },
@@ -460,9 +460,9 @@
       "bio": {
         "name": "Adrien",
         "city": "Aurelian Lighthouse",
-        "specialty": "Lightweaver, inventor, and scout — direction for design",
-        "story": "Trained as a path observer; as an inventor, creates prismatic devices that help detect threats and mark safe passages.",
-        "reason": "Appears to improve access for smaller settlements to data from observatories.",
+        "specialty": "Light inventor — prismatic instruments and stabilization of splotite-powered devices",
+        "story": "Age in 12 AT: 30.\n\nAdrien trained at the Aurelian Lighthouse, but for years he has rarely left his own workshop. He prefers tools to people, endlessly experimenting with prototypes that use splotite and trying to make his designs as reliable as possible. People call him mad, but workshops, observatories and carriers buy his inventions.\n\nBrilliant, arrogant and impatient, Adrien believes he is responsible for the quality of his technology, not for whether others use it for good or ill. He is accused of supplying devices to saboteurs, though there is no proof that he gave them anything. He will not stop designing or take responsibility for other people's decisions.\n\nHe considered past competitions beneath his time. He enters the exceptional Great Games out of vanity, hoping to win fame and prove he is better than everyone else.",
+        "reason": "He enters the exceptional Great Games out of vanity and a desire for fame, intending to prove his superiority.",
         "family": "Family has not been described yet."
       }
     },

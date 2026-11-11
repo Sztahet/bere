@@ -1,4 +1,4 @@
-# RIFTORYN — GDD: jedyne aktualne źródło projektowe
+# RIFTORYN — GDD: aktualne źródło projektu gry
 
 **Wersja:** 2.0 · **Stan:** koncepcja i preprodukcja · **Aktualizacja:** 2026-11-06  
 **Nazwa:** robocza; dostępność i prawa niepotwierdzone. **Hasło:** BUILD. BREAK. ADAPT.  
@@ -6,9 +6,9 @@
 
 ## 0. Jak korzystać z dokumentu
 
-Ten plik jest jedynym aktualnym GDD. Materiały w `archive/` są historią i źródłami, nie nadpisują tego dokumentu. Interaktywne menu `riftoryn-menu.html` jest prototypem do oglądania: w razie różnicy pierwszeństwo mają zatwierdzone decyzje zapisane tutaj, a nie implementacja demonstracyjna.
+Ten plik jest jedynym aktualnym GDD i źródłem decyzji dotyczących projektu gry. Jedynym źródłem kanonu historii świata jest [world_history.md](./world_history.md); w kwestiach fabularnych ma pierwszeństwo przed GDD i innymi materiałami. Materiały w `archive/` są historią projektu. Interaktywne menu `riftoryn-menu.html` jest prototypem do oglądania.
 
-**[USTALONE]** — decyzja użytkownika. **[PROPOZYCJA]** — konkretna hipoteza do zatwierdzenia i testów, nie fakt. **[OTWARTE]** — nie wolno samowolnie przyjąć za ostateczną regułę. W załączonych poniżej rozdziałach bohaterów, wież, technologii, świata i biografii wszystkie wartości i indywidualne koncepcje pozostają propozycjami, chyba że ustalono inaczej w części głównej. Nazwy lore, mapa świata i portrety pozostają do akceptacji. Nie należy traktować wcześniejszego GDD ani tekstów archiwalnych jako równorzędnych źródeł.
+**[USTALONE]** — decyzja użytkownika. **[PROPOZYCJA]** — hipoteza do zatwierdzenia i testów. **[OTWARTE]** — kwestia bez ostatecznej decyzji. Wartości mechanik i indywidualne koncepcje bohaterów pozostają propozycjami, chyba że ustalono inaczej; kanon historii określa `world_history.md`. Szczegóły mapy i portrety pozostają do akceptacji.
 
 ## 0.1. Pre-PoC — pierwsza grywalna próba
 
@@ -38,6 +38,14 @@ Filary: budowanie trwałej obrony, zręcznościowa ucieczka, zespołowe decyzje,
 [USTALONE] Wynik pary: (1) więcej Runnerów dociera do mety; (2) przy równej dodatniej liczbie wygrywa krótszy czas ostatniego Runnera na mecie; (3) jeżeli nikt nie dotarł, wygrywa drużyna, której Runner dotarł najdalej. Gdy wyniki nadal są równe, obie drużyny otrzymują po jednym punkcie. Mecz może zakończyć się remisem. Obrażenia zadane w obronie nie są tie-breakerem.
 
 [USTALONE] Runda punktowana oznacza pełną parę ataków. Faza zasadnicza trwa maksymalnie 10 takich rund; zdobycie 6 punktów kończy mecz natychmiast po rozliczeniu pełnej pary, np. 6:0 po sześciu parach. Przy wyniku 5:5 po dziesięciu rundach rozgrywa się jedną dodatkową, pełną parę; jej zwycięzca wygrywa mecz, a remis w tej parze oznacza remis meczu. Wyjątkowo cały mecz może więc obejmować 11 par. [USTALONE] Jeżeli po remisowej parze obie drużyny jednocześnie osiągają 6 punktów, czyli 6:6, mecz kończy się remisem. [USTALONE] Atak kończy się, gdy ostatni żywy Runner dotrze do mety albo wszyscy Runnerzy zostaną wyeliminowani. Dotarcie mgły do końca trasy po 120 s nie kończy ataku: trwa on dalej, dopóki wszyscy Runnerzy nie dotrą do mety lub nie zostaną wyeliminowani. [USTALONE] Draft korzysta ze wspólnej puli bez duplikatów: raz wybrany bohater nie może zostać wybrany ponownie przez żadną drużynę. Kolejność: A–B–B–A–A–B–B–A–A–B. W MVP bez banów. [USTALONE — PoC] Przed pierwszym atakiem drużyny mają 90 s na budowę; po kolejnych parach mają 45 s. Faza budowy kończy się automatycznie, a atak rusza po odliczaniu bez wymogu gotowości graczy. Draft 2v2 używa skróconej kolejności A–B–B–A. [OTWARTE] Docelowe reguły banów; czasy PoC mogą wymagać korekty po testach.
+
+### Mecz a Wielkie Igrzyska
+
+[USTALONE — FABUŁA] Wielkie Igrzyska 12 ET są serią meczów wielu drużyn, a nie pojedynczym meczem. Uczestnicy wcześniej rejestrują, kogo reprezentują i na rzecz którego wariantu zarządzania liczą się ich punkty. Podział punktów drużyn mieszanych jest uzgadniany przed startem; pochodzenie i żywioł nie narzucają reprezentacji. Punkty uzyskane w meczach są przypisywane reprezentowanym stronom i sumowane dla obu wariantów, bez podwójnego liczenia.
+
+Punkty za pary ataków rozstrzygają pojedynczy mecz; punkty klasyfikacji Igrzysk rozlicza się osobno według wcześniej ogłoszonych zasad. Mecz nadal może zakończyć się remisem zgodnie z regułami powyżej. Jeśli po zaplanowanej serii klasyfikacja obu wariantów jest równa, drużyny rozgrywają dodatkowe mecze, aż po rozliczeniu meczu jeden wariant uzyska przewagę. Dopóki wynik pozostaje równy, całe Igrzyska nie są rozstrzygnięte. Prawomocny wynik serii wybiera wariant z większą liczbą punktów.
+
+[OTWARTE] Liczba drużyn i meczów, punktacja klasyfikacji za zwycięstwo, remis i przegraną, podział punktów w mieszanych składach oraz dobór par dodatkowych meczów wymagają zaprojektowania i ogłoszenia przed Igrzyskami. Opis fabularny nie ustanawia jeszcze implementacji turnieju ani nie zmienia zasad zwykłego meczu lub zakresu pre-PoC.
 
 ### Pomiar postępu i czasu
 
@@ -167,7 +175,7 @@ Obrażenia specjalnych zdolności pozostają osobną statystyką i wynikają z o
 
 ## 7. Świat, estetyka i technologia
 
-[USTALONE — KIERUNEK] Po wyniszczającej wojnie krainy używają obowiązkowych Prób do rozstrzygania części sporów. Drużyny mogą być mieszane, reprezentując społeczność lub wspólną sprawę, niekoniecznie krainę pochodzenia. [PROPOZYCJA] Nazwy Eryndor, splotyt, krainy, instytucje, chronologia, ośrodki i biografie poniżej wymagają akceptacji. Pokonanie w Próbie może być magicznym wycofaniem, a nie śmiercią fabularną.
+[USTALONE — KIERUNEK] Po wyniszczającej wojnie krainy używają obowiązkowych Prób do rozstrzygania części sporów. Drużyny mogą być mieszane, reprezentując społeczność lub wspólną sprawę, niekoniecznie krainę pochodzenia. [PROPOZYCJA] Nazwy Riftoryn, splotyt, krainy, instytucje, chronologia, ośrodki i biografie poniżej wymagają akceptacji. Pokonanie w Próbie może być magicznym wycofaniem, a nie śmiercią fabularną.
 
 [USTALONE] Czytelna stylizowana grafika fantasy 3D: proste, lekko geometryczne bryły, łatwo rozpoznawalne postacie, wieże i pociski; bez fotorealizmu i estetyki voxel. Portrety w `assets/heroes/portraits/` są materiałami wizualnymi, a mapy w kodeksie koncepcjami. Żywioły powinny różnić się sylwetką i efektem, nie samym kolorem.
 
@@ -555,13 +563,13 @@ Początkowy węzeł za 800 g to sama ikona żywiołu na kole, nie dodatkowy sąs
 
 ## RIFTORYN — historia świata i oś czasu
 
-**KONCEPCJA FABULARNA · v0.1 — propozycja kreatywna do przeglądu.** Wybrany kierunek: po wyniszczającej wojnie krainy rozstrzygają część sporów o zasoby poprzez obowiązkowe próby drużyn w labiryntach. Imiona miejsc, instytucji i postaci historycznych, chronologia oraz szczegóły fabuły poniżej są propozycjami, nie zatwierdzonym kanonem. Mechaniki opisane w GDD mają pierwszeństwo przed interpretacją fabularną. Lata liczymy od podpisania Traktatu Równych Ścieżek: **PT — przed traktatem; ET — era traktatu**.
+**Skrót fabularny.** Jedynym źródłem kanonu jest [historia świata](./world_history.md). Poniższy opis i oś czasu należy dostosowywać do niej. Lata liczymy od podpisania Traktatu Równych Ścieżek: **PT — przed traktatem; ET — era traktatu**.
 
 ### Opowieść o świecie
 
-Kontynent **Eryndor** nie został stworzony przez siedem żywiołów jako siedem odrębnych krain. Żywioły zawsze przenikały całą krainę: ogień rozgrzewał kuźnie na północy, a natura odzyskiwała ziemię po drugiej stronie kontynentu. Z czasem różne społeczności nauczyły się jednak lepiej rozumieć niektóre rodzaje magii. Ich ośrodki handlowe i miasta rozrosły się w siedem krain, z których każda rozwinęła własne tradycje, zwyczaje i sposób wykorzystania mocy.
+Kontynent **Riftoryn** nie został stworzony przez siedem żywiołów jako siedem odrębnych krain. Żywioły przenikają cały kontynent; ich źródło pozostaje nieznane, a siedem nurtów to główne tradycje historycznie utrwalone w traktatowych zapisach. Najstarsze znane szkoły rozwinęły się przy siedmiu dawnych ośrodkach: Ogień w Vareth, Lód w Nivoren, Błyskawice w Zerath, Natura w Verdan, Ziemia w Kharum, Światło w Aurel i Ciemność w Vesper. To tradycje nauki i praktyki, nie dowód, że żywioły pochodzą z tych miejsc lub są do nich przypisane. Mieszkańcy każdej krainy mogą uczyć się różnych nurtów.
 
-W głębi ziemi występował **splotyt** — kryształowy minerał zdolny do przechowywania i przewodzenia energii żywiołów. Pozwalał zasilać latarnie, utrzymywać kanały irygacyjne, przenosić wiadomości i budować wieże obronne. Żadna kraina nie miała dostępu do wszystkich złóż, a drogi transportowe przebiegały przez cudze ziemie. Pokój zależał od wymiany bardziej, niż chcieli przyznać władcy.
+W głębi ziemi występował **splotyt** — krystaliczny minerał, który może przyjmować, przechowywać i przewodzić energię. Nie tworzy jej sam z siebie: dostrojone urządzenie wykorzystuje kryształ do zasilania latarni, kanałów irygacyjnych, przekaźników i wież obronnych. Przy prawidłowym wydobyciu, przechowywaniu i użytkowaniu splotyt zachowuje się bardzo stabilnie. Pęknięcie i niekontrolowane uwolnienie energii są rzadkimi skutkami poważnej awarii, uszkodzenia lub wyjątkowo nieodpowiednich warunków; nie każda awaria ma tę samą przyczynę. Żadna kraina nie miała dostępu do wszystkich złóż, a drogi transportowe przebiegały przez cudze ziemie. Pokój zależał od wymiany bardziej, niż chcieli przyznać władcy.
 
 Przez wiele pokoleń działała **Umowa Siedmiu Szlaków** — dawne, wielostronne porozumienie handlowe między niezależnymi miastami. Ustalała zasady dostępu do dróg, kopalń i urządzeń, a jej przedstawiciele negocjowali spory. Nie była instytucją rządzącą krainami ani późniejszą Radą Siedmiu Szlaków. Nie był to świat pozbawiony konfliktów, ale koszt wojny przewyższał korzyści płynące z handlu.
 
@@ -571,7 +579,9 @@ Sieci miały chronić miasta. Gdy zaczęło brakować łatwo dostępnego splotyt
 
 Napięcie doprowadziło do **Wojny Siedmiu Bram**. Krainy walczyły o złoża i drogi, a dowódcy wymyślali coraz trudniejsze do przejścia fortyfikacje. W odpowiedzi powstawały drużyny przełamujące obrony: wojownicy niosący osłony, zwiadowcy, uzdrowiciele, sabotażyści i przywołane konstrukty. Nie walczono już wyłącznie o zwycięstwo w jednej bitwie — walczono też o możliwość dowiezienia żywności i uruchomienia miejskich urządzeń.
 
-Kulminacją była **Noc Zgasłych Wież**, która wydarzyła się w **3 PT**. W angielskich materiałach kalendarz zapisuje tę datę jako **3 BT** (*Before the Treaty*); lata po podpisaniu Traktatu oznacza się **AT** (*After the Treaty*), a sam rok podpisania to 0 AT. Val Meris, niezależne miasto-węzeł szlaków, oblegały oddziały twardogłowych dowódców z Vareth i Kharum, chcące przejąć węzeł i zapasy splotytu przed rywalami. Broniła go miejscowa straż i ochotnicze oddziały z Nivoren, Verdan i Zerath, walczące o utrzymanie szlaku i ewakuację cywilów. Nie były to całe krainy stojące w dwóch jednolitych obozach; Aurel i Vesper pozostały podzielone, a ich ratownicy i obserwatorzy nie tworzyli wspólnej armii. Podczas oblężenia połączone sieci przestały działać prawidłowo. Wieże gasły i uruchamiały się w nieprzewidziany sposób, drogi ewakuacyjne zostały odcięte, a cywile utknęli pomiędzy fortyfikacjami. W ciągu dwóch tygodni przed Nocą i około tygodnia po niej poważne awarie dotknęły także pozostałe krainy. Zdarzenia są bliskie sobie w czasie, ale wojna i uszkodzona łączność nie pozwalają ustalić ich kolejności ani potwierdzić wspólnej przyczyny. Zachowane świadectwa z Val Meris są sprzeczne: powojenne opracowanie Urzędu przypisuje awarię jednoczesnemu przeciążeniu sieci przez obie walczące strony; ocalała z dzielnicy mostowej twierdzi, że pierwsza zgasła wieża po stronie, która nie prowadziła wtedy ostrzału; niepełny zapis przekaźnika wskazuje zaś na przerwę w zasilaniu poprzedzającą oba odnotowane przeciążenia. Żadne z tych świadectw nie jest rozstrzygające, a liczba ofiar także pozostaje niepewna. Po tej nocy nawet dowódcy domagający się dalszej walki musieli uznać, że nikt nie kontroluje już skutków wojny.
+Kulminacją była **Noc Zgasłych Wież**, która wydarzyła się w **3 PT**. W angielskich materiałach kalendarz zapisuje tę datę jako **3 BT** (*Before the Treaty*); lata po podpisaniu Traktatu oznacza się **AT** (*After the Treaty*), a sam rok podpisania to 0 AT. Val Meris, niezależne miasto-węzeł szlaków, oblegały oddziały twardogłowych dowódców z Vareth i Kharum, chcące przejąć węzeł i zapasy splotytu przed rywalami. Broniła go miejscowa straż i ochotnicze oddziały z Nivoren, Verdan i Zerath, walczące o utrzymanie szlaku i ewakuację cywilów. Nie były to całe krainy stojące w dwóch jednolitych obozach; Aurel i Vesper pozostały podzielone, a ich ratownicy i obserwatorzy nie tworzyli wspólnej armii. Podczas oblężenia połączone sieci przestały działać prawidłowo. Wieże gasły i uruchamiały się w nieprzewidziany sposób, drogi ewakuacyjne zostały odcięte, a cywile utknęli pomiędzy fortyfikacjami. W ciągu dwóch tygodni przed Nocą i około tygodnia po niej poważne awarie dotknęły także pozostałe krainy. Zdarzenia są bliskie sobie w czasie, ale wojna i uszkodzona łączność nie pozwalają ustalić ich kolejności ani potwierdzić wspólnej przyczyny. Zachowane świadectwa z Val Meris są sprzeczne: komisja Vareth wskazuje na możliwość jednoczesnego przeciążenia sieci przez obie walczące strony; ocalała z dzielnicy mostowej twierdzi, że pierwsza zgasła wieża po stronie, która nie prowadziła wtedy ostrzału; niepełny zapis przekaźnika wskazuje zaś na przerwę w zasilaniu poprzedzającą oba odnotowane przeciążenia. Żadne z tych świadectw nie jest rozstrzygające, a liczba ofiar także pozostaje niepewna. Po tej nocy nawet dowódcy domagający się dalszej walki musieli uznać, że nikt nie kontroluje już skutków wojny.
+
+Po rozejmie siedem niezależnych komisji cywilnych bada Noc i regionalne awarie. W 0 ET archiwum Val Meris przyjmuje kopie ich [raportów](./world_history.md#siedem-raportów-komisji-o-nocy). Wnioski obejmują przeciążenie, wcześniejszy zanik zasilania, dwa możliwe rodzaje sabotażu, nieoczekiwane zachowanie partii splotytu, magiczny rezonans i kilka niezależnych awarii. Komisje różnie oceniają te same ślady, a wspólna przyczyna pozostaje niepotwierdzona.
 
 Rozejm nie rozwiązał jednak najtrudniejszego problemu: kryształów i bezpiecznych szlaków nadal nie starczało wszystkim. Trzeba było znaleźć sposób podejmowania decyzji, który nie prowadziłby automatycznie do kolejnej wojny.
 
@@ -579,19 +589,37 @@ Pierwszy krok wykonali dowódcy dwóch zwaśnionych miast. Zgodzili się rozstrz
 
 W **0 ET** przedstawiciele siedmiu krain podpisali **Traktat Równych Ścieżek**. Traktat powołał **Radę Siedmiu Szlaków** — organ wspólnego nadzoru nad traktatem, rejestrem zasobów i przydziałami — oraz niezależny od pojedynczej krainy **Urząd Prób**, który przygotowuje areny, publikuje zasady i zatwierdza wyniki. Rada nie jest dawną Umową Siedmiu Szlaków: Umowa była porozumieniem handlowym, a Rada instytucją ustanowioną przez Traktat.
 
-Traktat ustanowił **Igrzyska Szlaków** — nazwę całego systemu wiążących Prób rozstrzygających objęte traktatem spory między krainami i przydział ograniczonej wspólnej puli splotytu. Nie jest to jeden turniej odbywający się w stałym, corocznym terminie. Sprawy trafiają do systemu w miarę powstawania; strony najpierw negocjują zadanie, stawkę, punktację i termin obowiązywania wyniku. Jeśli nie uzgodnią ich w terminie, jawne reguły Traktatu określają dopuszczalne warianty, a Urząd zatwierdza zakres rozstrzygnięcia. Szczegóły terminów dla pilnych spraw pozostają do dopracowania. W danej Próbie reprezentantów wyznaczają strony objęte sprawą; mogą tworzyć dowolne, także mieszane drużyny. Przed każdą Próbą Urząd publikuje warunki, przelicznik punktów na przydział i czas obowiązywania wyniku. Splotyt pozostaje surowcem, a punkty nie są walutą. Uczestnicy uzgadniają i rejestrują przed startem podział punktów między sobą (na rankingi i nagrody) oraz reprezentowane krainy (na udział w puli lub rozstrzygnięciu); tę samą zdobycz rozlicza się tylko raz.
+Traktat ustanowił **Igrzyska Szlaków** jako system wiążących Prób. Zwykłe Próby rozstrzygają określone impasy o wspólną nadwyżkę lub kolejność działań po negocjacjach. Wyjątkowe Wielkie Igrzyska 12 ET wybierają model zarządzania na mocy osobnego porozumienia wszystkich uprawnionych sygnatariuszy. Żadna Próba nie ustala winy ani przyczyny Nocy; fakty badają niezależni arbitrzy i inspektorzy. Stawka oraz warunki są jawne, drużyny mogą być mieszane, a podział punktów uzgadnia się przed startem.
 
-Do wspólnej puli trafia tylko jawnie zadeklarowana część zasobów. Rezerwy potrzebne do podstawowych usług, bezpieczeństwa i akcji ratunkowych są chronione; lokalne kopalnie i prywatne zapasy pozostają poza pulą, chyba że ich właściciele dobrowolnie je wniosą. Rozstrzygnięcia przyjęte przez Urząd są wiążące, a Traktat zakazuje zbrojnej wojny między krainami. Odwołania dotyczą naruszeń procedury, nie samego niekorzystnego wyniku; Rada nadzoruje wykonanie i może ograniczyć dostęp do wspólnych zasobów w razie odmowy, ale nie może odcinać cywilom zasobów niezbędnych do życia. Próby w ramach Igrzysk nie zastępują lokalnego prawa ani decyzji wewnątrz krain.
+Krainy wnoszą ograniczony udział z wybranych źródeł lub opłat za szlaki. Otrzymują w zamian ochronę tras, pomoc przy naprawach i uzgodnione minimum dostaw kryzysowych. Rezerwy podstawowych usług i ratownictwa są chronione; dopiero nadwyżkę można rozdzielać w Próbach. Rada prowadzi rejestr i wykonuje wyniki, nie zmieniając stawki po rozgrywce. Zespoły audytowe obejmują inspektorów spoza stron sporu. Arbitrów losuje się z jawnej listy zatwierdzonej przez krainy, bez udziału delegatów stron; osobny skład rozpatruje zarzuty wobec Urzędu i może unieważnić wynik za naruszenie zasad. Odmowa wykonania wyniku grozi utratą przyszłej nadwyżki lub preferencji we wspólnych usługach, ale nie podstawowych dostaw dla ludności.
 
 Pierwsze traktatowe Próby w ramach Igrzysk nadal przypominały dawne zmagania krain: strony sporów wysyłały championów wychowanych we własnej tradycji żywiołu. Zachowane kroniki opisują serię pojedynków Ognia z Lodem, w której Ogień zwyciężał niemal za każdym razem; inne zestawienia również pokazywały, jak skład i przygotowanie wpływały na wynik. Była to historyczna tendencja w ówczesnym formacie i doborze drużyn, nie powszechne prawo magii ani gwarancja wyniku pojedynczego starcia.
 
 Z czasem reprezentanci zaczęli dobierać składy według potrzeb konkretnej Próby i uzupełniających się umiejętności, tworząc drużyny złożone z osób z różnych krain. Przed startem rejestrują, jak podzielą punkty; przynależność do drużyny nie zmienia ich pochodzenia ani nie tworzy trwałego sojuszu między krainami. Bogatsze krainy często zatrudniają najemników, co daje im dostęp do doświadczonych zawodników, ale wywołuje spory o kupioną przewagę, lojalność i udział w punktach. Kontrakty najemnicze zgłasza się przed daną Próbą lub cyklem Prób; określają wynagrodzenie, reprezentowaną krainę i uzgodniony podział punktów. Miasta, gildie i stowarzyszenia mogą wspierać nabór, lecz nie zmieniają zasad reprezentacji ani wyniku.
 
-Wyniki Prób w ramach Igrzysk wiążą strony i krainy w zakresie zadeklarowanej stawki, nie rozstrzygają spraw wewnętrznych ani prywatnych. Niezależne zawody mogą nadal przynosić sławę, wpływy i nagrody, ale nie zmieniają przydziałów wspólnej puli ani praw do szlaków. Udział w traktatowej Próbie dotyczy wyznaczonych reprezentantów, nie każdego mieszkańca kontynentu. Dobrowolne festiwale i ligi mogą odbywać się w regularnym rytmie, ale nie mają mocy traktatowej.
+Zwykłe Próby traktatowe wiążą strony w zakresie ogłoszonej stawki; wyjątkowe Wielkie Igrzyska 12 ET wybierają uzgodniony wcześniej model zarządzania na podstawie Porozumienia Val Meris. Równolegle zawody są sportem i rozrywką: mniejsze ligi mają drużyny, kibiców i sponsorów, a widzowie śledzą wyniki i zawierają zakłady. Zawodnicy sprawdzają umiejętności i zdobywają nagrody. Wynik zawodów sportowych sam z siebie nie ma mocy traktatowej.
 
 Nie wszyscy wierzą jednak, że pokój jest trwały. W rejestrach Urzędu zaczynają pojawiać się rozbieżności dotyczące starych złóż. Niektóre sieci wież reagują na kryształy inaczej, niż wynika z ich dokumentacji. Rada podejrzewa fałszerstwa, lecz nie wie jeszcze, czy stoją za nimi pojedynczy handlarze, przedstawiciele krain, czy zwykłe błędy po latach wojny. Tajemnica istnieje jako punkt wyjścia do przyszłych historii — nie przesądza o istnieniu sekretnej organizacji ani nadnaturalnego wroga.
 
-Piętnaście lat po Nocy powstaje ruch domagający się zniesienia ograniczeń wydobycia i zmniejszenia wpływów Rady. Jego zwolennicy twierdzą, że Noc była sabotażem, a nie dowodem na naturalną niestabilność kryształów; piętnaście lat badań dowodzi, ich zdaniem, że wydobycie można bezpiecznie zwiększyć. Uważają też, że Rada wykorzystała katastrofę, by trwale przejąć kontrolę nad zasobami i osłabić lokalne krainy. Obrońcy regulacji odpowiadają, że przyczyna Nocy nie została ustalona. Dzisiejsze kryształy mogą być stabilne właśnie dlatego, że wydobycie i sieci są kontrolowane; nie dowodzi to, że nieograniczona eksploatacja będzie bezpieczna. Żadna ze stron nie ma rozstrzygającego dowodu. Spór uruchamia nową Próbę traktatową, a bohaterowie pozostają neutralni: każdy ma własne doświadczenia i argumenty skłaniające go ku obu stanowiskom. Ich indywidualne relacje z frakcjami zostaną dopracowane osobno.
+Po Nocy wspólne inspekcje wybranych kopalń i sieci wprowadzono z powodu braków danych i zagrożeń. Traktat utrwalił awaryjne ograniczenia z okresowym przeglądem, nie przejmując kopalń. W 12 ET zwolennicy samodzielności chcą przekazać władzom krain kontrolę nad wydobyciem i przydziałami; zwolennicy wspólnego nadzoru chcą zachować uprawnienia Rady, obawiając się nowej katastrofy. Po zatrzymaniu spornego transportu i mobilizacji straży uprawnieni przedstawiciele podpisują Porozumienie Val Meris: Wielkie Igrzyska wskażą jeden z dwóch jawnych wariantów. Oba chronią podstawowe dostawy, ratownictwo, rejestry i niezależne śledztwo. Wynik nie przesądza przyczyny Nocy; audyt rejestrów trwa osobno. Pełna opowieść: [historia świata](./world_history.md).
+
+Pamięć o wojnie sprawia, że wielu mieszkańców sprzeciwia się nowym walkom i oczekuje jawnych decyzji oraz dotrzymywania słowa. Strony nie potrafią wybrać jednego wariantu w negocjacjach, a część obawia się zakwestionowania zwykłego głosowania. Uzgadniają więc publiczne zasady Igrzysk; uczciwie przegrana strona może uznać wynik, nadal go krytykując i korzystając z audytu oraz odwołania proceduralnego. Wynik nie dowodzi, który wariant jest bezpieczniejszy ani kto miał rację co do Nocy.
+
+Wielkie Igrzyska obejmują wiele drużyn i kolejnych meczów. Ich punkty są rozliczane dla reprezentowanych stron i dwóch wariantów zgodnie z wcześniej uzgodnionymi zasadami. Pojedynczy mecz może zakończyć się remisem; przy równej klasyfikacji po zaplanowanej serii rozgrywa się kolejne mecze, aż jeden wariant uzyska przewagę. Dopiero prawomocny wynik całej serii wskazuje wybrany model.
+
+Protokół Val Meris określa zakres obu wariantów i gwarancje ich wdrożenia. Lokalne kopalnie nie zmieniają właściciela, a istniejących wkładów, przydziałów i umów nie można anulować wstecznie. W wariancie krain władze lokalne decydują o limitach i certyfikacji; we wspólnym nadzorze Rada zachowuje te uprawnienia w zakresie objętym Traktatem. Przez co najmniej rok nie można jednostronnie cofnąć wybranego wariantu ani wymusić kolejnych Wielkich Igrzysk; krytyka, odwołania od decyzji i działania ratunkowe pozostają możliwe. Pełne zasady i gwarancje opisuje [historia świata](./world_history.md).
+
+### Codzienność siedmiu krain
+
+To przykłady miejsc i zwyczajów, a nie opis wszystkich mieszkańców. Pełniejsze obrazy codzienności i krótkie sceny znajdują się w [historii świata](./world_history.md#siedem-krain-po-wojnie).
+
+- **Vareth:** przy warsztatowych dziedzińcach sąsiedzi wymieniają naprawy, materiały i umiejętności; w jadłodajniach czekają na dostawy i rozmawiają o zawodach.
+- **Nivoren:** schroniska przy przełęczach dają podróżnym miejsce na odpoczynek i wymianę wieści; część mieszkańców zostawia zapasy dla kolejnych wędrowców.
+- **Zerath:** place przy przekaźnikach i pobliskie warsztaty łączą operatorów, posłańców i mieszkańców; ważne wiadomości bywają sprawdzane niezależnym kanałem.
+- **Verdan:** targi i stoły przy ogrodach są miejscem wymiany jedzenia, sadzonek i pomocy w naprawach; rytm części dolin wyznaczają prace sezonowe.
+- **Kharum:** place przy wyrobiskach i warsztatach gromadzą pracowników oraz ich rodziny; ekipy sprawdzają narzędzia i dzielą się uwagami o bezpieczeństwie.
+- **Aurel:** czytelnie, nabrzeżne targi i ławy przy latarni służą spotkaniom oraz porównywaniu map z opowieściami podróżnych.
+- **Vesper:** w gospodach i przy magazynach załogi wymieniają ostrzeżenia i umawiają przejazdy, ważąc bezpieczeństwo tras i poufność informacji.
 
 ---
 
@@ -599,8 +627,8 @@ Piętnaście lat po Nocy powstaje ruch domagający się zniesienia ograniczeń w
 
 #### Około 180–120 PT — epoka miast i szlaków
 
-- **180 PT:** Siedem dużych ośrodków handlowych tworzy pierwsze stałe porozumienie o bezpiecznych drogach. Ich tradycje magiczne są różne, ale mieszkańcy swobodnie uczą się i łączą żywioły.
-- **154 PT:** Badacze opisują właściwości splotytu. Minerał staje się cennym źródłem energii dla rolnictwa, rzemiosła i obrony.
+- **180 PT:** Siedem dużych ośrodków handlowych tworzy pierwsze stałe porozumienie o bezpiecznych drogach. Najstarsze zachowane zapisy łączą te ośrodki z rozwojem siedmiu tradycji magicznych; nie dowodzą, że żywioły powstały w tych miastach. Mieszkańcy swobodnie uczą się i łączą żywioły.
+- **154 PT:** Badacze opisują właściwości splotytu: kryształ może przyjmować, przechowywać i przewodzić energię. Opracowują sposoby dostrajania go do urządzeń; odnotowują różnice między odmianami i ryzyko niekontrolowanego uwolnienia energii przy awarii.
 - **128 PT:** Podpisano Umowę Siedmiu Szlaków, określającą zasady korzystania z głównych dróg i części złóż. Traktat nie tworzy jednego państwa.
 
 #### 119–42 PT — rozwój sieci
@@ -624,19 +652,19 @@ Piętnaście lat po Nocy powstaje ruch domagający się zniesienia ograniczeń w
 
 - **1 PT:** Spór o konwój do dwóch odciętych miast grozi zerwaniem rozejmu. Zamiast nowego oblężenia strony organizują pierwszy Pojedynek Bram; obie drużyny otrzymują szansę ataku i obrony.
 - **1 PT:** Rzemieślnicy i medycy opracowują bezpieczniejsze pieczęcie arenowe. Kilka miast testuje dobrowolne sezonowe Próby z mieszanymi składami i dzielonymi punktami.
-- **Miesiące przed 0 ET:** Negocjatorzy uzgadniają, że Traktat obejmie międzykrainową politykę, wspólne zasoby, szlaki i infrastrukturę, nie zaś sprawy wewnętrzne ani prywatne. Ustalają jawne stawki, punktację, ograniczoną wspólną pulę splotytu i chronione rezerwy.
-- **0 ET:** Podpisano Traktat Równych Ścieżek i powołano Radę Siedmiu Szlaków oraz Urząd Prób. Traktat ustanawia Igrzyska Szlaków jako system wiążących Prób uruchamianych dla spraw międzykrainowych objętych jego zakresem; nie wyznacza jednego corocznego turnieju.
+- **Miesiące przed 0 ET:** Negocjatorzy ustalają ograniczone stawki Prób dla impasów o wspólne zasoby i kolejność działań. Fakty i odpowiedzialność badają arbitrzy; podstawowe rezerwy są chronione.
+- **0 ET:** Siedem krain podpisuje Traktat i powołuje Radę oraz Urząd Prób. Krainy uzgadniają wkłady i wzajemne korzyści; awaryjne ograniczenia wydobycia mają podlegać przeglądom.
 
 #### 1–12 ET — pierwsze Próby i początek gry
 
 - **1 ET:** W pierwszych traktatowych Próbach strony wskazują championów. Kroniki odnotowują serię zwycięstw Ognia nad Lodem w ówczesnym formacie; nie ustanawia to uniwersalnej przewagi żywiołu. Uczestnicy zaczynają negocjować mieszane składy i podział punktów.
 - **2 ET:** Urząd ujednolica bliźniacze układy aren; w danym meczu obie strony korzystają z identycznej mapy.
-- **4 ET:** Wynik zaczyna być rozstrzygany po pełnej parze ataków, tak by obie strony miały szansę obrony i przejścia labiryntu.
+- **4 ET:** Urząd ujednolica pełną parę ataków w formatach labiryntowych, rozwijając zasadę znaną z pierwszego Pojedynku Bram.
 - **5 ET:** Powstaje wspólna szkoła operatorów wież i Runnerów. Pochodzenie ani żywioł nie ograniczają wyboru technologii drużyny. Najem specjalistów staje się powszechnie akceptowany; bogatsze krainy często zatrudniają doświadczonych zawodników.
-- **7 ET:** Urząd publikuje wyniki, tabele punktów i podziały przydziałów. Próby w ramach Igrzysk stają się publicznym widowiskiem, bo mieszkańcy mogą śledzić wpływ poszczególnych rozstrzygnięć na dostawy i odbudowę. Niezależne ligi i festiwale mogą organizować własne wydarzenia według stałego kalendarza.
+- **7 ET:** Próby stają się szeroko śledzonym sportem i widowiskiem. Mniejsze ligi, kluby i festiwale przyciągają kibiców oraz sponsorów; mieszkańcy obserwują zawodników i zawierają zakłady. Zawody sportowe nie mają same z siebie mocy traktatowej.
 - **9 ET:** Powstaje Kodeks Prób z regułami, opisami wież i dokumentacją bezpieczeństwa, w tym zasadami zgłaszania zadań, stawek, punktacji i podziału punktów.
 - **11 ET:** Kilka miast zgłasza niezgodności w rejestrze wydobycia. Rada rozpoczyna kontrolę; nie wskazano publicznie winnych ani przyczyny.
-- **12 ET — początek gry:** Urząd przygotowuje nową traktatową Próbę po zgłoszeniu nierozstrzygniętej sprawy międzykrainowej. Strony wyznaczają reprezentantów, którzy mogą utworzyć dowolną, także mieszaną drużynę. Piętnaście lat po Nocy Zgasłych Wież odbudowa trwa nadal, a zaufanie do porozumienia zawartego po wojnie jest wystawione na próbę.
+- **12 ET — początek gry:** Po kryzysie transportowym sygnatariusze zawierają Porozumienie Val Meris. Wyjątkowe Wielkie Igrzyska wybiorą pomiędzy dwoma uzgodnionymi modelami zarządzania, by uniknąć wojny. Śledztwo dotyczące Nocy i audyt rejestrów trwają niezależnie.
 
 ---
 
@@ -656,7 +684,7 @@ Krainy nie są jednolitymi frakcjami moralnymi. W każdej mogą działać zwolen
 
 ### Próby w codziennym życiu
 
-Urząd Prób utrzymuje areny i zabezpieczenia, a drużyny przygotowują się do pojedynków w centrach szkoleniowych. Mieszkańcy śledzą wyniki, porównują pomysły obrony i przywiązują się do swoich reprezentantów. Oficjalna Próba w ramach Igrzysk zawsze ma wcześniej określone zadanie i stawkę; może dotyczyć zarówno dużego sporu między krainami, jak i wąskiego przydziału, na przykład harmonogramu korzystania z drogi lub partii kryształów. Pojedynki treningowe i niezależne zawody nie zmieniają traktatowych przydziałów.
+Urząd Prób utrzymuje areny i zabezpieczenia, a mieszkańcy śledzą wyniki. Zwykła Próba traktatowa dotyczy ograniczonej nadwyżki albo kolejności działań po nieudanych negocjacjach; wyjątkowe Wielkie Igrzyska mają osobną stawkę określoną w Porozumieniu Val Meris. Fakty, odpowiedzialność i odwołania proceduralne badają niezależni arbitrzy. Zawodnicy trenują i rywalizują także w ligach sportowych wspieranych przez sponsorów; widzowie kibicują i zawierają zakłady. Wyniki zawodów sportowych nie zmieniają same z siebie traktatowych przydziałów.
 
 **Pieczęcie bezpieczeństwa** są urządzeniami areny, nie nieśmiertelnością całego świata. W ataku pieczęć wycofuje Runnera po wyczerpaniu jego zdolności do walki — dlatego nie wraca on w tym samym ataku. W obronie osobna osłona chroni Defendera przed śmiertelnym zagrożeniem, choć jego łączność z wieżą można zakłócić. To fabularny model działania zgodny z obecnymi zasadami; szczegóły technologii są do dopracowania.
 
@@ -664,14 +692,17 @@ Każda drużyna przygotowuje własną obronę na identycznym układzie labiryntu
 
 ### Bohaterowie i osobiste historie
 
-Poniższe powiązania są propozycjami, nie zatwierdzonymi biografiami. Konkretne zdolności pozostają w dokumencie bohaterów. Strony objęte daną Próbą wyznaczają reprezentantów; ich osobiste motywacje nie zmieniają formalnej krainy reprezentowanej w tej sprawie. Mieszane drużyny mogą dzielić punkty zgodnie z umową zarejestrowaną przed Próbą.
+Historie Dary, Noctena, Rian oraz Nivy, Liory i Eliry zostały zatwierdzone na potrzeby PoC; pozostałe poniższe powiązania są propozycjami, nie zatwierdzonymi biografiami. Konkretne zdolności pozostają w dokumencie bohaterów. Strony objęte daną Próbą wyznaczają reprezentantów; ich osobiste motywacje nie zmieniają formalnej krainy reprezentowanej w tej sprawie. Mieszane drużyny mogą dzielić punkty zgodnie z umową zarejestrowaną przed Próbą.
 
-W sporze o wydobycie bohaterowie pozostają neutralni wobec obu frakcji, dopóki nie zostaną wypracowane ich indywidualne powiązania. Każdy ma powody, by rozważać argumenty zarówno za większą swobodą wydobycia, jak i za utrzymaniem zabezpieczeń. Ich przynależność do drużyny nie oznacza automatycznej zgody z całą linią polityczną reprezentowanej strony.
+Wiek podajemy dla początku gry w 12 ET. Poza wcześniejszymi ustaleniami dotyczącymi Saily, Dary, Noctena i sióstr wartości są propozycjami: Kael 46, Iskar 43, Taren 38, Thora 42, Brom 51, Orien 62, Morrak — nieznany, Solan 34, Niva 25, Varek 33, Liora 24, Dara 37, Elira 24, Nocten 68, Rian 32, Saila około 23, Zet 27, Eron 35, Kiran 36, Adrien 30, Morven 39, Miko 29, Pyrra 28, Eira 56, Volt 26, Ana 27, Rokan 65, Lumen 34, Koneva 31, Neris 48 i Lucen 31 lat. Szczegóły oraz rozwinięte historie w obu wersjach językowych znajdują się w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md).
+
+Bohaterowie mają własne cele i mogą przyjmować różne stanowiska lub zmieniać zdanie. Saila chce zbadać zapisy z Białego Przesmyku i zabezpieczyć dostawy dla przełęczy. Przynależność do drużyny nie przesądza poglądów uczestnika.
 
 - **Brom:** doświadczony Tank Ziemi, który uczy nowych Runnerów, jak chronić drużynę podczas przejścia. Mógł pracować przy zabezpieczaniu tuneli, zanim dołączył do Prób.
 - **Thora:** Tank Natury i opiekunka, która traktuje wytrzymałość jako sposób zapewnienia innym czasu na działanie. Jej ewentualne pokrewieństwo z siostrami pozostaje otwarte.
-- **Niva, Elira i Liora:** trzy siostry o różnych drogach i żywiołach. Niva chroni przed skutkami kontroli, Elira pomaga odkrywać zagrożenia, a Liora zajmuje się odnową. Mogą grać razem lub po przeciwnych stronach; pokrewieństwo nie daje premii mechanicznych.
-- **Morrak:** Tank Ciemności i potencjalny strażnik zbudowany lub ukształtowany ze splotytu. Jego pochodzenie pozostaje tajemnicą do decyzji, a wygląd nie oznacza automatycznie, że jest wrogiem.
+- **Niva, Elira i Liora:** trzy siostry urodzone w Korzennej Przystani, osierocone w końcowej fazie wojny i wychowane przez rodziny z różnych krain. W 12 ET Niva ma 25 lat, a młodsze od niej o rok bliźniaczki Liora i Elira mają po 24 lata. Bliźniaczki szczególnie mocno przeżyły rozłąkę, choć każda odnalazła też bliskość w nowej rodzinie. Odmienne żywioły wynikają z ich późniejszej nauki i praktyki, nie z dziedziczonego przeznaczenia. Jako dorosłe odnalazły się dzięki rejestrom ewakuacyjnym i wspólnie pomagają potrzebującym. Historia powodzi w 9 ET pokazuje, jak ich różne umiejętności się uzupełniają, ale nie zawsze prowadzą do zgodnych decyzji. Mogą grać razem lub po przeciwnych stronach; pokrewieństwo nie daje premii mechanicznych.
+- **Dara:** rzemieślniczka z Kamiennego Progu zabiega o bezpieczeństwo ekip i liczy, że na Igrzyskach odnajdzie dawnych towarzyszy, by zapytać o wydarzenia sprzed Nocy. Jej podejrzenie związku z katastrofą nie jest dowodem jej przyczyny.
+- **Morrak:** Tank Ciemności, który unika ludzi, ale chroni niewinnych. Uratowani nazywają go Morrakiem („Obrońcą”), a świadkowie jego wyroków — Veshem („Mścicielem”); są to przydomki nadane przez ludzi, nie potwierdzone prawdziwe imię. Tropi i zabija wyłącznie osoby, których świadome krzywdzenie innych zostało potwierdzone; nie działa na podstawie plotek ani samego związku z wydarzeniami sprzed piętnastu lat. Pierwsze znane zapisy o nim pochodzą z okresu po Nocy Zgasłych Wież, co nie wyjaśnia jego przeszłości.
 - **Kael:** Tank Ognia, której znajomość kuźni i ochronnych pancerzy może wiązać ją z dawną infrastrukturą Vareth.
 - Pozostali bohaterowie otrzymają osobne historie po uzgodnieniu ich pochodzenia, charakterów i wzajemnych relacji.
 
@@ -688,24 +719,25 @@ W sporze o wydobycie bohaterowie pozostają neutralni wobec obu frakcji, dopóki
 - Nazwy kontynentu, krain, minerału, instytucji i kalendarza.
 - Jak krainy wybierają delegacje reprezentantów do konkretnej sprawy lub cyklu Prób; zawodnik rejestruje reprezentowaną krainę, a jego pochodzenie nie musi się z nią pokrywać.
 - Jak dokładnie negocjacje przekładają złożony spór między krainami na zadanie, stawkę, punktację i termin wyniku; sprawy wewnętrzne i prywatne pozostają lokalne.
+- Szczegóły formatu Wielkich Igrzysk: liczba drużyn i meczów, punktacja klasyfikacji, podział punktów drużyn mieszanych oraz dobór par w dodatkowych meczach.
 - Szczegółowa procedura odwołania od naruszeń reguł i proporcjonalne sankcje za niewykonanie rozstrzygnięcia, z zachowaniem podstawowych dostaw dla cywilów.
 - Czy i jakie limity najmu zawodników wprowadzić; bogatsze krainy często korzystają z najemników, a ich kontrakty trzeba rejestrować przed daną Próbą lub cyklem Prób.
 - Charakter splotytu i pochodzenie konstruktów; czy wszystkie moby są konstrukcjami, czy część jest przywoływanymi istotami.
-- Historia sióstr i relacja Thory do ich rodziny.
-- Pełne biografie, antagonistyczne postacie, przyczyna katastrofy i rozwój wątku rejestrów.
+- Ewentualna relacja Thory do rodziny sióstr.
+- Pozostałe pełne biografie, antagonistyczne postacie, przyczyna katastrofy i rozwój wątku rejestrów.
 - Jak lore pojawia się w grze: krótkie wpisy kodeksu, komentarze bohaterów, opisy map lub inne formy.
 
 ---
 
-## Eryndor — mapa świata i ośrodki Prób · KONCEPCJA FABULARNA · v0.1
+## Riftoryn — mapa świata i ośrodki Prób · KONCEPCJA FABULARNA · v0.1
 
-**Status:** propozycja do przeglądu, rozwijająca wcześniejszy w tym dokumencie rozdział historii świata. Nazwy miast, położenie, charakter aren i powiązania z wydarzeniami wymagają akceptacji. Tradycje żywiołów nie ograniczają pochodzenia bohaterów, przynależności drużyn ani wyboru technologii. Na mapie północ znajduje się u góry; granice polityczne nie są jeszcze określone.
+**Status:** mapa i ośrodki rozwijają historię świata; w sprawach fabularnych rozstrzyga [world_history.md](./world_history.md). Dokładne położenie, granice i charakter przyszłych aren wymagają dopracowania. Tradycje żywiołów nie ograniczają pochodzenia bohaterów, przynależności drużyn ani wyboru technologii. Na mapie północ znajduje się u góry.
 
-**Kontekst:** po Wojnie Siedmiu Bram Traktat Równych Ścieżek ustanowił Igrzyska Szlaków jako system wiążących Prób rozstrzygających sprawy między krainami i przydział jawnie zadeklarowanej wspólnej puli splotytu. Próby są zwoływane w miarę powstawania nierozstrzygniętych sporów objętych Traktatem, a nie według jednego corocznego kalendarza. Strony danej sprawy wyznaczają reprezentantów, którzy mogą tworzyć dowolne mieszane drużyny i dzielić punkty zgodnie z regułami ogłoszonymi przed Próbą. System nie obejmuje prywatnych sporów ani codziennych spraw wewnątrz krain; nie każdy mieszkaniec musi w nim uczestniczyć. Urząd Prób zatwierdza składy, areny i wyniki; obie strony korzystają z identycznych kopii mapy, a wynik rozstrzyga się po pełnej parze ataków. Bogatsze krainy często zatrudniają najemników. Poszczególne ośrodki mogą w przyszłości mieć różne areny; pokazane pomysły nie ustanawiają gotowych map ani skrótów w MVP.
+**Kontekst:** zwykłe Próby dotyczą ograniczonych impasów o zasoby i kolejność działań. Wyjątkowe Wielkie Igrzyska 12 ET mają na mocy osobnego porozumienia wybrać jeden z dwóch uzgodnionych modeli zarządzania krainami. W obu chronione są podstawowe dostawy, a niezależne śledztwo w sprawie Nocy trwa dalej. W formacie labiryntowym obie strony mają identyczne układy i pełną parę ataków; drużyny mogą być mieszane.
 
 ### Ośrodki
 
-1. **Val Meris — centralny węzeł szlaków.** Położenie: okolice wielkiego jeziora, przy zbiegu dróg. Miejsce Nocy Zgasłych Wież, kiedy przeciążone sieci odcięły ewakuację. Dziś odnowione miasto gości neutralny ośrodek Prób oraz archiwum poświęcone katastrofie. Dokładna przyczyna wypadku pozostaje otwarta. **Arena, propozycja:** Serce Labiryntu — jednopoziomowa droga z centrum na zewnątrz, bez skrótów i ślepych zaułków w MVP. Przypisanie pierwszej mapy do miasta jest propozycją.
+1. **Val Meris — centralny węzeł szlaków.** Położenie: okolice wielkiego jeziora, przy zbiegu dróg. Podczas Nocy awaria wież odcięła ewakuację; przeciążenie jest jedną z hipotez. Miasto gości ośrodek Prób i archiwum katastrofy, a część dzielnic pozostaje opuszczona. **Arena, propozycja:** Serce Labiryntu — jednopoziomowa droga z centrum na zewnątrz, bez skrótów i ślepych zaułków w MVP.
 2. **Żarowisko Vareth — północny wschód, Vareth / tradycje Ognia.** Miasto warsztatów i pieców na skraju wulkanicznych wyżyn, przy drodze do centralnego węzła. **Ośrodek Prób:** Żelazna Brama, odbudowana strażnica szlaku. Kontrolowane efekty żaru mogłyby nadać późniejszej mapie tożsamość; konkretne mechaniki nie są ustalone.
 3. **Biały Przesmyk — północ, Nivoren / Lód.** Osada u wejścia do górskiego przejścia i magazynów zaopatrzenia. **Ośrodek Prób:** Lodowe Wrota. Spory dotyczące sezonowego transportu mogą trafiać do Prób. Śnieżny wygląd nie oznacza obowiązkowych poślizgów ani mechanik pogodowych.
 4. **Iglica Zerath — wschód, Zerath / Błyskawice.** Miasto przekaźników na skalistym wybrzeżu, połączone z centralnymi szlakami. **Ośrodek Prób:** Dziedziniec Impulsu. Energia i architektura nawiązują do łączności, lecz elementy mapy wymagają zaprojektowania.
@@ -717,7 +749,7 @@ W sporze o wydobycie bohaterowie pozostają neutralni wobec obu frakcji, dopóki
 ### Zasady spójności
 
 - Krainy są tradycjami i społecznościami, nie sztywnymi frakcjami wyznaczającymi żywioł lub drużynę. Mieszane drużyny reprezentują wspólne miasto, społeczność albo sprawę; osoby z różnych krain mogą walczyć po tej samej stronie.
-- Lokalne ośrodki są miejscami organizowania Igrzysk pod wspólnym nadzorem Urzędu, nie niezależnymi zestawami sprzecznych reguł. Rada prowadzi rejestr i wykonuje przydziały, a Urząd zatwierdza składy, zasady i wyniki; szczegóły procedur odwoławczych pozostają do dopracowania.
+- Lokalne ośrodki organizują Próby pod nadzorem Urzędu. Niezależni arbitrzy rozpatrują odwołania proceduralne, a zespoły audytowe kontrolują wspólny rejestr i przydziały.
 - Mapa kontynentu jest ilustracją fabularną; rozmiary, granice, odległości i liczba wszystkich osad nie są określone. Zaznaczone punkty nie są listą ukończonych map do gry.
 - Daty i wydarzenia zgodnie z rozdziałem historii świata powyżej; grafika i nazwy ośrodków są propozycją, nie zatwierdzonym kanonem.
 
@@ -725,7 +757,7 @@ W sporze o wydobycie bohaterowie pozostają neutralni wobec obu frakcji, dopóki
 
 ## Riftoryn — historie i pochodzenie 21 pierwotnie zaplanowanych bohaterów
 
-**Status: propozycje fabularne do przeglądu, z wyjątkiem zatwierdzonego wspomnienia Saily o awariach kryształowych urządzeń w Białym Przesmyku piętnaście lat temu.** Miasta i pozostałe lore świata są robocze; dziewięciu planowanych bohaterów pozostaje niedostępnych w drafcie, a ich specjalizacje opisują kierunek, nie gotowe zdolności. Obecne umiejętności 12 postaci pozostają w osobnej specyfikacji. Każda kraina wyznacza reprezentantów do Igrzysk; ich drużyny mogą być mieszane, a podział punktów między zawodników i reprezentowane krainy jest rejestrowany przed Próbą. Poniższe motywacje opisują osobiste cele bohaterów, nie formalne zasady reprezentacji.
+**Status:** biografie Dary, Noctena, Nivy, Liory i Eliry zatwierdzono na potrzeby PoC; pozostałe indywidualne biografie i specjalizacje są propozycjami, z wyjątkiem faktów zapisanych w [historii świata](./world_history.md), która jest źródłem kanonu. Zatwierdzenie historii nie zatwierdza mechanik ani specjalizacji postaci. Dziewięciu planowanych bohaterów pozostaje niedostępnych w drafcie. Drużyny mogą być mieszane; opisane motywacje dotyczą postaci, a nie formalnych zasad reprezentacji.
 
 ### Kael
 **Pochodzenie:** Żarowisko Vareth  
@@ -810,14 +842,17 @@ Prowadził ruchomą latarnię dla ekip podróżujących między osadami; jego ci
 **Rodzina:** Rodzina nie została jeszcze opisana.
 
 ### Niva
-**Pochodzenie:** Korzenna Przystań  
+**Miejsce urodzenia:** Korzenna Przystań
+**Wychowanie:** okolice Białego Przesmyku
+**Wiek w 12 ET:** 25 lat
+
 **Specjalizacja:** Oczyszczanie i ochrona przed spowolnieniem
 
-Dorastała z siostrami w południowej dolinie, a później szkoliła się przy Białym Przesmyku. Lodowe umiejętności wykorzystuje do ochrony i przywracania sprawności.
+Po śmierci rodziców w końcowej fazie wojny przygarnęła ją rodzina z okolic Białego Przesmyku, gdzie uczyła się lodowej magii od lokalnych praktyków. Podczas powodzi w 9 ET próbowała utrzymać uszkodzoną śluzę lodem; uratowała część zapasów, ale nie zatrzymała wody ani nie ochroniła wszystkich pól. Od tamtej pory pozostaje opanowana w kryzysie, choć ma skłonność brać na siebie każdą stratę i ukrywać własny strach.
 
-**Dlaczego bierze udział w Próbach:** Startuje, by wesprzeć wymianę zaopatrzenia między doliną a północą.
+**Dlaczego bierze udział w Próbach:** Chce utrzymać wymianę zaopatrzenia między doliną a północą, nie udając, że jedna decyzja zdoła ochronić wszystkich.
 
-**Rodzina:** Siostra Eliry i Liory; ich wybory drużyn nie muszą być jednakowe.
+**Rodzina:** O rok starsza siostra bliźniaczek Eliry i Liory; ich wybory drużyn nie muszą być jednakowe.
 
 ### Varek
 **Pochodzenie:** Iglica Zerath  
@@ -830,14 +865,17 @@ Pracowała przy naprawie przekaźników, gdzie sekundy często decydowały, czy 
 **Rodzina:** Rodzina nie została jeszcze opisana.
 
 ### Liora
-**Pochodzenie:** Korzenna Przystań  
+**Miejsce urodzenia:** Korzenna Przystań
+**Wychowanie:** inna część Verdan; do doliny wróciła jako dorosła
+**Wiek w 12 ET:** 24 lata
+
 **Specjalizacja:** Leczenie i naprawa osłon
 
-Została w dolinie, aby pomagać rannym i odbudowywać miejsca po dawnych walkach. W drużynie leczy oraz wzmacnia obronę.
+Wychowała się u rodziny rolników i zielarek, od których uczyła się magii Natury, leczenia i odbudowy. Jako dorosła wróciła do doliny, by pomagać rannym i odbudowywać miejsca po dawnych walkach. Podczas powodzi otworzyła kanał odpływowy, ratując domy i lecznicę, ale tracąc rodzinne zagony i część pól sąsiadów. Kocha swoją pracę, lecz nie chce, by inni traktowali jej poświęcenie jako oczywisty obowiązek.
 
-**Dlaczego bierze udział w Próbach:** Zabiega o środki dla lecznic i odbudowy pól.
+**Dlaczego bierze udział w Próbach:** Zabiega o środki dla lecznic i odbudowy pól, a także uczy się prosić o pomoc, zanim sama się wyczerpie.
 
-**Rodzina:** Siostra Nivy i Eliry; podobny wygląd nie daje premii w grze.
+**Rodzina:** Bliźniaczka Eliry i młodsza siostra Nivy; podobny wygląd nie daje premii w grze.
 
 ### Dara
 **Pochodzenie:** Kamienny Próg  
@@ -845,37 +883,42 @@ Została w dolinie, aby pomagać rannym i odbudowywać miejsca po dawnych walkac
 
 Rzemieślniczka odpowiedzialna za naprawę narzędzi i zabezpieczeń w kopalniach. Woli zrozumieć urządzenie, zanim podejmie ryzyko.
 
-**Dlaczego bierze udział w Próbach:** Występuje na rzecz ekip, które chcą przeznaczyć część zasobów na bezpieczeństwo pracy.
+**Dlaczego bierze udział w Próbach:** Występuje na rzecz bezpieczeństwa ekip, a na Igrzyskach szuka dawnych towarzyszy, by zapytać o wydarzenia sprzed Nocy.
 
 **Rodzina:** Rodzina nie została jeszcze opisana.
 
 ### Elira
-**Pochodzenie:** Korzenna Przystań  
+**Miejsce urodzenia:** Korzenna Przystań
+**Wychowanie:** Aurel
+**Wiek w 12 ET:** 24 lata
+
 **Specjalizacja:** Światło, wykrywanie i zwiad
 
-Z rodzinnej doliny wyjechała do Latarni Aurelu, by uczyć się mapowania i pracy obserwatorów. Jej światło pomaga drużynie zobaczyć zagrożenia.
+Po wojnie przyjęła ją rodzina obserwatorów szlaków w Aurel, gdzie uczyła się światła i mapowania. Jako dorosła odnalazła siostry, przeglądając niepełne kopie rejestrów ewakuacyjnych. Podczas powodzi przekazała ratownikom trasę z mapy, której nie zdążyła sprawdzić po roztopach; akcja się opóźniła, choć nikt nie zginął z powodu jej pomyłki. Przyznała się do błędu i dziś odróżnia na mapach trasy potwierdzone od niepewnych.
 
-**Dlaczego bierze udział w Próbach:** Bierze udział, aby wiedza o szlakach pozostała dostępna również mniejszym miastom.
+**Dlaczego bierze udział w Próbach:** Chce zapewnić mniejszym miastom dostęp do aktualnych map i rzetelnej informacji o tym, czego jeszcze nie wiadomo.
 
-**Rodzina:** Siostra Nivy i Liory; ich rodzinne pochodzenie nie wymusza wspólnego składu.
+**Rodzina:** Bliźniaczka Liory i młodsza siostra Nivy; ich rodzinne pochodzenie nie wymusza wspólnego składu.
 
 ### Nocten
-**Pochodzenie:** Cienisty Port  
-**Specjalizacja:** Ochrona cieniem — kierunek do zaprojektowania
+**Historia zatwierdzona na potrzeby PoC.**
+**Pochodzenie:** Północna osada Riftorynu (według dokumentów)
+**Specjalizacja:** Magia Ciemności — ukrywanie sojuszników i osłabianie przeciwników
 
-Starszy opiekun portowych archiwów przez lata pomagał przewoźnikom chronić informacje o niebezpiecznych odcinkach drogi.
+Nocten ma 68 lat i pamięta dwie sprzeczne przeszłości: dzieciństwo w północnej osadzie oraz miasto za białymi murami, kobietę, którą kochał, i chłopca nazywającego go ojcem. Na co dzień jest rozsądny, cierpliwy i dowcipny; jako doświadczony mag Ciemności potrafi ukrywać sojuszników i osłabiać przeciwników. Nie wie, czy może ufać własnym wspomnieniom ani niezwykłym zachowaniom swojego cienia. Żadna teoria nie jest potwierdzona.
 
-**Dlaczego bierze udział w Próbach:** Wspiera drużynę zabiegającą o bezpieczne przejście dla konwojów.
+**Dlaczego bierze udział w Próbach:** Przyjeżdża na Wielkie Igrzyska za sprawą notatki, której nie pamięta, i ma nadzieję spotkać kogoś, kto rozpozna jego wspomnienia.
 
 **Rodzina:** Rodzina nie została jeszcze opisana.
 
 ### Rian
+**Historia zatwierdzona na potrzeby PoC.**
 **Pochodzenie:** Żarowisko Vareth  
 **Specjalizacja:** Precyzyjne uszkadzanie wież
 
-Pracowała przy kalibracji emiterów i nauczyła się rozpoznawać słabe punkty mechanizmów. W Próbach wykorzystuje tę wiedzę do precyzyjnego sabotażu.
+Była sabotażystką, która świadomie zarabiała na uszkadzaniu wież; za działania podczas wojny została skazana i odbyła karę. Teraz uczy rzemieślników rozpoznawać słabe punkty konstrukcji, a w kontrolowanych Próbach wykorzystuje ten sam talent do sprawdzania obrony. Nie ukrywa swojej przeszłości i nie oczekuje przebaczenia.
 
-**Dlaczego bierze udział w Próbach:** Chce zdobyć zasoby na otwarty warsztat uczący bezpiecznej obsługi wież.
+**Dlaczego bierze udział w Próbach:** Chce pokazać, że może wykorzystywać swoje umiejętności w kontrolowanych warunkach, nie odbierając przeciwnikom prawa do przygotowania i odpowiedzi. Nadal uczy bezpiecznego projektowania.
 
 **Rodzina:** Rodzina nie została jeszcze opisana.
 
@@ -883,7 +926,7 @@ Pracowała przy kalibracji emiterów i nauczyła się rozpoznawać słabe punkty
 **Pochodzenie:** Biały Przesmyk  
 **Specjalizacja:** Zamrażanie wież i kontrola trasy
 
-Piętnaście lat temu, jako mała dziewczynka, godzinami wpatrywała się w kryształy Białego Przesmyku. Nie zapomniała nocy, gdy na jej oczach kryształowe urządzenia wokół zaczęły wybuchać; do dziś nie wie, co wywołało te awarie. Później spotkała w górach mistrza, który nauczył ją prowadzić lodową moc z cierpliwością zamiast siłą. Przez następne piętnaście lat sama używała magii kryształów i pracowała przy urządzeniach chłodzących magazyny przełęczy. Poznała ich mechanizmy i nauczyła się czasowo je wyłączać bez niszczenia całej sieci. Jej doświadczenie podważa przekonanie, że kryształy są z natury niestabilne: przy właściwej obsłudze odpowiadają przewidywalnie. Zarazem wspomnienie wybuchów sprawia, że boi się powtórki Nocy. Saila nie wie, jak pogodzić własną wiedzę z tym, co widziała, i nie opowiedziała się po stronie żadnej frakcji.
+Saila miała około ośmiu lat, gdy wybuchy urządzeń w Białym Przesmyku zmusiły ją do ucieczki. Jeszcze w roku katastrofy spotkała mistrza w górach. Przez blisko piętnaście lat uczyła się prowadzić moc kryształów, a później pracowała przy chłodzeniu magazynów; w 12 ET ma około dwudziestu trzech lat. Chce zbadać zapisy awarii i zabezpieczyć dostawy dla przełęczy. Jej doświadczenie kontrolowanej pracy nie rozstrzyga ani przyczyny Nocy, ani bezpieczeństwa gwałtownego wzrostu wydobycia.
 
 **Dlaczego bierze udział w Próbach:** Chce zrozumieć, co wydarzyło się podczas Nocy i znaleźć sposób bezpiecznego korzystania z kryształów, który nie odbierałby ludziom dostępu do potrzebnych zasobów.
 
@@ -923,11 +966,11 @@ Badała stabilność skalnych przejść i nauczyła się czytać teren przed roz
 [USTALONE] **Obrona — Specjalista wież:** wieży pilotowanej przez Adriena nie można w żaden sposób zatrzymać. [OTWARTE] Doprecyzować wpływ obrażeń i zniszczenia wieży, ograniczeń celowania, efektów na operatorze oraz dokładny moment rozpoczęcia i zakończenia ochrony, w tym fazę przejmowania sterowania.
 
 **Pochodzenie:** Latarnia Aurelu  
-**Specjalizacja:** Tkacz Światła, wynalazca i zwiadowca — kierunek do zaprojektowania
+**Specjalizacja:** Wynalazca Światła — pryzmatyczne przyrządy i stabilizacja urządzeń ze splotytem
 
-Szkolił się jako obserwator szlaków; jako wynalazca tworzy pryzmatyczne przyrządy pomagające dostrzegać zagrożenia i oznaczać bezpieczne przejścia.
+Adrien jest genialnym, aroganckim wynalazcą, który niemal nie opuszcza pracowni. Pod koniec wojny jego pryzmatyczny sygnalizator zawiódł po tym, jak zlekceważył ostrzeżenie o mocowaniu kryształu; błędny sygnał skierował przewodnika na niebezpieczną drogę, gdzie człowiek zginął. Adrien przyznał się do wady projektu, ale przez lata podkreślał, że za użycie urządzenia odpowiadało dowództwo. Dziś jego cywilne przyrządy przechodzą niezależne testy i mają zabezpieczenia. Nadal uważa, że odpowiada za technologię, nie za cudze decyzje. Jest oskarżany o dostarczenie sprzętu sabotażystom, ale nie ma dowodu, że im go przekazał.
 
-**Dlaczego bierze udział w Próbach:** Występuje, aby poprawić dostęp mniejszych osad do danych z obserwatoriów.
+**Dlaczego bierze udział w Igrzyskach:** Dotąd uznawał zawody za niewarte swojego czasu. Na wyjątkowe Wielkie Igrzyska zgłasza się z próżności, by zdobyć sławę i dowieść, że jest lepszy od pozostałych.
 
 **Rodzina:** Rodzina nie została jeszcze opisana.
 

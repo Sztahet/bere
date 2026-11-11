@@ -9,20 +9,25 @@ using UnityEngine.SceneManagement;
 // A self-contained training prototype. Values are deliberately exposed in one place for playtesting.
 public class RiftorynTrial : MonoBehaviour
 {
-    const float Scale = .12f, RoadHalf = 2.65f, ProjectileSpeed = 22f;
+    const float Scale = .15f, RoadHalf = 2.65f, ProjectileSpeed = 22f;
     const float RollDuration=.35f, RollSpeed=12f, RollCooldown=10f, TowerWindup=.45f;
     static readonly Vector2[] Map = { new(400,330),new(475,330),new(475,245),new(315,245),new(315,410),new(550,410),new(550,170),new(240,170),new(240,485),new(625,485),new(625,95),new(165,95),new(165,560),new(700,560),new(700,35) };
     static readonly Vector2[] SlotMap = {new(445,205),new(405,205),new(365,205),new(275,290),new(275,350),new(355,450),new(415,450),new(475,450),new(590,360),new(590,290),new(590,220),new(510,130),new(450,130),new(390,130),new(330,130),new(200,235),new(200,320),new(200,400),new(305,525),new(385,525),new(465,525),new(545,525),new(665,450),new(665,370),new(665,290),new(665,210)};
-    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva"}, TowerNames={"Ogień","Lód","Błyskawice","Natura"}, ResourceNames={"fire","ice","lightning","nature"};
-    static readonly float[] MaxHp={170,110,100,60}, Speed={4.4f,5.2f,5.6f,5.3f}, Cooldowns={22,16,18,20}, TowerDamage={13,7,9,10}, TowerRate={1.4f,1.5f,1f,1.3f}, TowerRange={13.8f,15f,13.8f,15f};
-    static readonly Color[] TowerColors={new(1f,.30f,.12f),new(.32f,.77f,1f),new(1f,.8f,.2f),new(.32f,.83f,.4f)};
-    class Runner { public int hero; public GameObject obj; public Vector3 velocity; public float hp,shield,shieldMax,shieldTick,cooldown,attackCooldown,boost,exposure,fogTick,along,damage; public bool done; public int uses; public float chillTime, hitFlash; public readonly RiftorynPeriodicEffect burn=new(), poison=new(); }
+    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
+    static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f}, Cooldowns={22,16,18,20,18,20,20,20,20}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
+    static readonly Color[] TowerColors={new(1f,.30f,.12f),new(.32f,.77f,1f),new(1f,.8f,.2f),new(.32f,.83f,.4f),new(.65f,.43f,.25f),new(1f,.91f,.55f),new(.55f,.28f,.75f)};
+    class Runner { public int hero; public GameObject obj; public Vector3 velocity; public float hp,shield,shieldMax,shieldTick,cooldown,attackCooldown,boost,exposure,fogTick,along,damage; public bool done; public int uses; public float chillTime, hitFlash, slowImmunity; public readonly RiftorynPeriodicEffect burn=new(), poison=new(); }
     class FloatingCombatText { public Transform anchor; public Vector3 position; public string text; public Color color; public float started, offset; }
     class Tower { public int slot,type; public float hp=100,wait,disabled; public GameObject obj, marker; public LineRenderer range, warning; public Runner target; public RiftorynPatkaPreview petTarget; public float windup; }
     class Shot { public GameObject obj; public Vector3 direction; public float remaining,damage; public Runner target; public RiftorynPatkaPreview petTarget; public int type; }
     enum Phase { Setup, Playing, Finished }
     public bool menuOpen = true;
     Phase phase; int selectedHero=0, allyChoice=0, selectedType=0, selectingHero=-1, draftPreview=-1; bool initialDraft, briefing; CodexHero[] roster=Array.Empty<CodexHero>(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); RiftorynHeroStats[] heroStats=Array.Empty<RiftorynHeroStats>(); Vector2 abilityTooltipScroll; string lastAbilityTooltip=""; float abilityTooltipUntil; readonly Dictionary<string,Texture2D> draftPortraits=new(); bool custom; float elapsed,total, cameraYaw, pitch=18f, messageTimer, rollTime, rollCooldown; Vector3 rollDirection; string message="", result=""; int floatingSequence; readonly List<FloatingCombatText> combatTexts=new(); Runner player,ally; Camera cam; GameObject world,runnerRoot,slotRoot,fogRoot; GameObject[] slots; readonly List<Tower> towers=new(); readonly List<Shot> shots=new(); readonly List<GameObject> fogTiles=new(); readonly List<float> fogDistances=new(); float[] lengths; Mesh fogMesh; Material fogMaterial; GUIStyle title, small, heading, floatingStyle, hudCenterStyle, hudStatusStyle, draftHeroTitle, draftRoleStyle, draftCompactNameStyle,draftResistanceNameStyle,draftResistanceValueStyle; readonly Dictionary<string,Texture2D> statIcons=new(), statusIcons=new(); bool mouseCaptured;
+    [Serializable] class LanInput { public float x,z; public bool ability,attack; }
+    [Serializable] class LanRunner { public float x,z,yaw,hp,shield,shieldMax,cooldown,exposure,damage; public bool done; public int uses; }
+    [Serializable] class LanShot { public float x,y,z; public int type; }
+    [Serializable] class LanState { public float time,healTime,healX,healZ; public bool finished; public int hostHero,guestHero; public LanRunner host,guest; public float[] towerHp,towerDisabled; public LanShot[] shots; }
+    RiftorynLan lan; bool lanPanel,lanPlaying; string lanAddress="127.0.0.1"; float lanSendAt,lanInputAt; Vector3 lanRemoteInput; bool lanRemoteAbility,lanRemoteAttack; int lanHero; string lanNotice=""; float healingTime,healingTick; Vector3 healingPosition; LineRenderer healingRing; readonly List<GameObject> lanShotVisuals=new();
     Vector3 P(Vector2 p) => new((p.x-400)*Scale,0,(330-p.y)*Scale);
     Vector3 Slot(int i)=>P(SlotMap[i]);
     void Start(){Application.targetFrameRate=60; lengths=new float[Map.Length-1];for(int i=0;i<lengths.Length;i++){lengths[i]=Vector2.Distance(Map[i],Map[i+1])*Scale;total+=lengths[i];} var data=Resources.Load<TextAsset>("codex");if(data){var catalog=JsonUtility.FromJson<CodexRoster>(data.text);if(catalog!=null&&catalog.heroes!=null){roster=catalog.heroes;roleBonuses=catalog.roleBonuses??Array.Empty<CodexRoleBonus>();}}var statsData=Resources.Load<TextAsset>("hero_stats");if(statsData){var parsed=JsonUtility.FromJson<RiftorynHeroStatsList>(statsData.text);if(parsed!=null&&parsed.heroes!=null)heroStats=parsed.heroes;}BuildWorld(); Setup(); gameObject.AddComponent<RiftorynMenu>();}
@@ -49,12 +54,12 @@ public class RiftorynTrial : MonoBehaviour
     float Project(Vector3 point,out float distance){float best=float.MaxValue,along=0,acc=0;for(int i=0;i<lengths.Length;i++){Vector3 a=P(Map[i]),b=P(Map[i+1]),v=b-a,w=point-a;float t=Mathf.Clamp01(Vector3.Dot(w,v)/v.sqrMagnitude);float d=Vector2.Distance(new Vector2(point.x,point.z),new Vector2(a.x+v.x*t,a.z+v.z*t));if(d<best){best=d;along=acc+t*lengths[i];}acc+=lengths[i];}distance=best;return along;}
     Vector3 At(float along){for(int i=0;i<lengths.Length;i++){if(along<=lengths[i])return Vector3.Lerp(P(Map[i]),P(Map[i+1]),along/lengths[i]);along-=lengths[i];}return P(Map[Map.Length-1]);}
     void BuildWorld(){world=new GameObject("Riftoryn | Labirynt");runnerRoot=new GameObject("Runnerzy");slotRoot=new GameObject("Pola budowy");fogRoot=new GameObject("Mgła");
-      Cube("Fundament",new Vector3(3,-.35f,0),new Vector3(100,.5f,100),new Color(.065f,.055f,.10f),world.transform);
+      Cube("Fundament",new Vector3(3,-.35f,0),new Vector3(130,.5f,130),new Color(.065f,.055f,.10f),world.transform);
       // One world-aligned surface avoids overlapping coplanar road pieces at turns.
       floorTexture=MakeFloorTexture();floorMaterial=Mat(new Color(.26f,.24f,.30f));floorMaterial.mainTexture=floorTexture;floorMaterial.mainTextureScale=new Vector2(25,25);if(floorMaterial.HasProperty("_Glossiness"))floorMaterial.SetFloat("_Glossiness",0f);
-      var floor=GameObject.CreatePrimitive(PrimitiveType.Cube);floor.name="Kamienna posadzka";floor.transform.SetParent(world.transform);floor.transform.position=new Vector3(3,.02f,0);floor.transform.localScale=new Vector3(100,.15f,100);floor.GetComponent<Renderer>().sharedMaterial=floorMaterial;Destroy(floor.GetComponent<Collider>());
-      // Wall tiles flank the traversable path, leaving all turns open.
-      wallTexture=MakeWallTexture();const float grid=1.5f;for(float x=-33;x<=43;x+=grid)for(float z=-34;z<=44;z+=grid){Vector3 pos=new(x,0,z);Project(pos,out float d);if(d>RoadHalf+1.1f&&d<RoadHalf+2.5f){int variant=Mathf.Abs(Mathf.RoundToInt(x/grid)*13+Mathf.RoundToInt(z/grid)*7)%3;Color stone=variant==0?new Color(.25f,.23f,.30f):variant==1?new Color(.29f,.27f,.34f):new Color(.32f,.29f,.36f);var wall=Cube("Mur",pos+Vector3.up*1.4f,new Vector3(grid,2.8f,grid),stone,world.transform);var wallMaterial=wall.GetComponent<Renderer>().sharedMaterial;wallMaterial.mainTexture=wallTexture;if(wallMaterial.HasProperty("_Glossiness"))wallMaterial.SetFloat("_Glossiness",0f);Cube("Korona muru",pos+Vector3.up*2.77f,new Vector3(grid-.04f,.10f,grid-.04f),new Color(.37f,.33f,.41f),world.transform,false);}}
+      var floor=GameObject.CreatePrimitive(PrimitiveType.Cube);floor.name="Kamienna posadzka";floor.transform.SetParent(world.transform);floor.transform.position=new Vector3(3,.02f,0);floor.transform.localScale=new Vector3(130,.15f,130);floor.GetComponent<Renderer>().sharedMaterial=floorMaterial;Destroy(floor.GetComponent<Collider>());
+      // Wider wall tops provide room around towers while the road clearance stays unchanged.
+      wallTexture=MakeWallTexture();const float grid=1.5f;for(float x=-49.5f;x<=55.5f;x+=grid)for(float z=-49.5f;z<=55.5f;z+=grid){Vector3 pos=new(x,0,z);Project(pos,out float d);if(d>RoadHalf+1.1f&&d<RoadHalf+5f){int variant=Mathf.Abs(Mathf.RoundToInt(x/grid)*13+Mathf.RoundToInt(z/grid)*7)%3;Color stone=variant==0?new Color(.25f,.23f,.30f):variant==1?new Color(.29f,.27f,.34f):new Color(.32f,.29f,.36f);var wall=Cube("Mur",pos+Vector3.up*1.4f,new Vector3(grid,2.8f,grid),stone,world.transform);var wallMaterial=wall.GetComponent<Renderer>().sharedMaterial;wallMaterial.mainTexture=wallTexture;if(wallMaterial.HasProperty("_Glossiness"))wallMaterial.SetFloat("_Glossiness",0f);Cube("Korona muru",pos+Vector3.up*2.77f,new Vector3(grid-.04f,.10f,grid-.04f),new Color(.37f,.33f,.41f),world.transform,false);}}
       BuildFinishGate();foreach(int segment in new[]{2,6,10})BuildLandmark(segment);BuildDirectionMarks();
       fogMesh=CreateFogMesh();
       fogMaterial=new Material(Resources.Load<Shader>("RiftorynFog"));
@@ -69,9 +74,19 @@ public class RiftorynTrial : MonoBehaviour
       var lintel=Cube("Nadproże mety",end+Vector3.up*3.65f,new Vector3(4.9f,.35f,.65f),stone,world.transform,false);lintel.transform.rotation=Quaternion.LookRotation(forward);
     }
     void BuildLandmark(int segment){
+      const float grid=1.5f;
       Vector3 a=P(Map[segment]),b=P(Map[segment+1]),forward=(b-a).normalized,side=new Vector3(-forward.z,0,forward.x),center=Vector3.Lerp(a,b,.5f);Color stone=new(.22f,.19f,.28f),trim=new(.51f,.39f,.29f);
-      for(int sign=-1;sign<=1;sign+=2){Vector3 p=center+side*(sign*3.45f);Cube("Filar łuku",p+Vector3.up*3.45f,new Vector3(.55f,1.3f,.55f),stone,world.transform,false);Cube("Głowica łuku",p+Vector3.up*4.05f,new Vector3(.76f,.16f,.76f),trim,world.transform,false);}
-      var beam=Cube("Łuk orientacyjny",center+Vector3.up*4.28f,new Vector3(7.3f,.40f,.55f),stone,world.transform,false);beam.transform.rotation=Quaternion.LookRotation(forward);
+      // Match the wall grid and only build an arch when both supports have a wall below.
+      center=new Vector3(Mathf.Round(center.x/grid)*grid,0,Mathf.Round(center.z/grid)*grid);
+      Vector3[] supports=new Vector3[2];
+      for(int index=0;index<2;index++){
+        int sign=index==0?-1:1;bool found=false;
+        for(int n=1;n<=6;n++){Vector3 p=center+side*(sign*n*grid);Project(p,out float d);if(d>RoadHalf+1.1f&&d<RoadHalf+5f){supports[index]=p;found=true;break;}}
+        if(!found)return;
+      }
+      center=(supports[0]+supports[1])*.5f;
+      foreach(Vector3 p in supports){Cube("Filar łuku",p+Vector3.up*3.47f,new Vector3(.55f,1.3f,.55f),stone,world.transform,false);Cube("Głowica łuku",p+Vector3.up*4.08f,new Vector3(.76f,.16f,.76f),trim,world.transform,false);}
+      var beam=Cube("Łuk orientacyjny",center+Vector3.up*4.28f,new Vector3(Vector3.Distance(supports[0],supports[1])+.55f,.40f,.55f),stone,world.transform,false);beam.transform.rotation=Quaternion.LookRotation(forward);
       var crest=Cube("Znak łuku",center+Vector3.up*4.51f,new Vector3(.55f,.55f,.20f),trim,world.transform,false);crest.transform.rotation=Quaternion.LookRotation(forward)*Quaternion.Euler(0,0,45);
       var lamp=new GameObject("Światło łuku");lamp.transform.SetParent(world.transform);lamp.transform.position=center+Vector3.up*3.95f;var light=lamp.AddComponent<Light>();light.type=LightType.Point;light.color=new Color(1f,.73f,.43f);light.range=7f;light.intensity=.65f;light.shadows=LightShadows.None;
     }
@@ -96,9 +111,9 @@ public class RiftorynTrial : MonoBehaviour
         Quad(new Vector3(0,.10f,-r),new Vector3(0,.10f,r),new Vector3(0,2.65f,r),new Vector3(0,2.65f,-r));
         var mesh=new Mesh{name="Warstwy mgły"};mesh.SetVertices(vertices);mesh.SetUVs(0,uv);mesh.SetTriangles(triangles,0);mesh.RecalculateBounds();return mesh;
     }
-    void OnDestroy(){if(fogMesh)Destroy(fogMesh);if(fogMaterial)Destroy(fogMaterial);foreach(var material in worldMaterials.Values)if(material)Destroy(material);worldMaterials.Clear();if(wallTexture)Destroy(wallTexture);if(floorTexture)Destroy(floorTexture);if(floorMaterial)Destroy(floorMaterial);}
+    void OnDestroy(){if(lan)lan.Stop();ClearLanShots();if(healingRing&&healingRing.material)Destroy(healingRing.material);if(fogMesh)Destroy(fogMesh);if(fogMaterial)Destroy(fogMaterial);foreach(var material in worldMaterials.Values)if(material)Destroy(material);worldMaterials.Clear();if(wallTexture)Destroy(wallTexture);if(floorTexture)Destroy(floorTexture);if(floorMaterial)Destroy(floorMaterial);}
     Runner MakeRunner(int h,bool bot){var go=new GameObject(bot?"Sojusznik AI":"Gracz");go.transform.SetParent(runnerRoot.transform);go.transform.position=At(0)+(bot?Vector3.right*.8f:Vector3.zero);var body=GameObject.CreatePrimitive(PrimitiveType.Capsule);body.name="Bohater";body.transform.SetParent(go.transform,false);body.transform.localPosition=Vector3.up;body.transform.localScale=new Vector3(.85f,1,.85f);body.GetComponent<Renderer>().sharedMaterial=Mat(bot?new Color(.16f,.75f,.85f):new Color(.88f,.71f,.36f));body.GetComponent<Collider>().isTrigger=true;if(h==3){body.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.22f,.12f,.28f));var prefab=Resources.Load<GameObject>("Pets/patka");if(prefab){var pet=Instantiate(prefab,go.transform);pet.name="Patka";pet.transform.localPosition=new Vector3(0,.05f,2f);pet.transform.localRotation=Quaternion.Euler(0,180,0);pet.transform.localScale=Vector3.one*.42f;var ph=pet.AddComponent<RiftorynPetHealth>();ph.petName="Patka";ph.maxHp=ph.currentHp=50;pet.AddComponent<RiftorynPatkaPreview>();}}var r=new Runner{hero=h,obj=go,hp=MaxHp[h]};return r;}
-    void Setup(){briefing=false;combatTexts.Clear();floatingSequence=0;selectingHero=-1;phase=Phase.Setup;elapsed=0;rollTime=rollCooldown=0;rollDirection=Vector3.zero;result="";message="";mouseCaptured=false;Cursor.lockState=CursorLockMode.None;Cursor.visible=true;foreach(var s in shots)if(s.obj)Destroy(s.obj);shots.Clear();foreach(var t in towers)if(t.obj)Destroy(t.obj);towers.Clear();ReplaceRunners();foreach(var f in fogTiles)f.SetActive(false);for(int i=0;i<slots.Length;i++)slots[i].SetActive(custom);if(!custom){int[] ss={2,5,9,15,23};for(int i=0;i<ss.Length;i++)AddTower(ss[i],i%4);}SetOverhead();}
+    void Setup(){healingTime=0;healingTick=0;if(healingRing)healingRing.enabled=false;briefing=false;combatTexts.Clear();floatingSequence=0;selectingHero=-1;phase=Phase.Setup;elapsed=0;rollTime=rollCooldown=0;rollDirection=Vector3.zero;result="";message="";mouseCaptured=false;Cursor.lockState=CursorLockMode.None;Cursor.visible=true;foreach(var s in shots)if(s.obj)Destroy(s.obj);shots.Clear();foreach(var t in towers)if(t.obj)Destroy(t.obj);towers.Clear();ReplaceRunners();foreach(var f in fogTiles)f.SetActive(false);for(int i=0;i<slots.Length;i++)slots[i].SetActive(custom);if(!custom){int[] ss={2,5,9,15,23};for(int i=0;i<ss.Length;i++)AddTower(ss[i],i%4);}SetOverhead();}
     int AllyHero()=>allyChoice==0?(selectedHero==2?0:2):allyChoice==1?-1:allyChoice-2;
     void ReplaceRunners()
     {
@@ -108,14 +123,14 @@ public class RiftorynTrial : MonoBehaviour
         player=MakeRunner(selectedHero,false);
         int hero=AllyHero();ally=hero>=0?MakeRunner(hero,true):null;
     }
-    void SetOverhead(){cam.orthographic=true;cam.orthographicSize=45;cam.transform.position=new Vector3(3,100,-2);cam.transform.rotation=Quaternion.Euler(90,0,0);}
+    void SetOverhead(){cam.orthographic=true;cam.orthographicSize=58;cam.transform.position=new Vector3(3,100,-2);cam.transform.rotation=Quaternion.Euler(90,0,0);}
     void AddTower(int slot,int type){var root=new GameObject("Wieża "+TowerNames[type]);root.transform.position=Slot(slot)+Vector3.up*2.9f;Color accent=Color.Lerp(TowerColors[type],new Color(.30f,.27f,.34f),.35f);for(int n=0;n<4;n++){float angle=n*Mathf.PI*.5f;Vector3 offset=new Vector3(Mathf.Cos(angle)*1.05f,.07f,Mathf.Sin(angle)*1.05f);var rune=Cube("Runa żywiołu",root.transform.position+offset,new Vector3(.24f,.06f,.24f),accent,root.transform,false);rune.transform.rotation=Quaternion.Euler(0,45,0);}var prefab=Resources.Load<GameObject>("Towers/"+ResourceNames[type]);if(prefab){var model=Instantiate(prefab,root.transform);var renderers=model.GetComponentsInChildren<Renderer>();if(renderers.Length>0){Bounds bounds=renderers[0].bounds;foreach(var r in renderers)bounds.Encapsulate(r.bounds);float h=bounds.size.y;if(h>.001f){float k=3f/h;model.transform.localScale*=k;bounds=new Bounds(renderers[0].bounds.center,Vector3.zero);foreach(var r in renderers)bounds.Encapsulate(r.bounds);model.transform.position+=root.transform.position-new Vector3(bounds.center.x,bounds.min.y,bounds.center.z);}}}else{var body=GameObject.CreatePrimitive(PrimitiveType.Cylinder);body.transform.SetParent(root.transform,false);body.transform.localPosition=Vector3.up;body.transform.localScale=new Vector3(1,1,1);body.GetComponent<Renderer>().sharedMaterial=Mat(TowerColors[type]);Destroy(body.GetComponent<Collider>());}var beacon=new GameObject("Blask żywiołu");beacon.transform.SetParent(root.transform,false);beacon.transform.localPosition=Vector3.up*2.8f;var glow=beacon.AddComponent<Light>();glow.type=LightType.Point;glow.color=TowerColors[type];glow.range=5f;glow.intensity=.5f;glow.shadows=LightShadows.None;var marker=GameObject.CreatePrimitive(PrimitiveType.Sphere);marker.transform.SetParent(root.transform,false);marker.transform.localPosition=Vector3.up*3.2f;marker.transform.localScale=Vector3.one*.55f;marker.GetComponent<Renderer>().sharedMaterial=Mat(TowerColors[type]);Destroy(marker.GetComponent<Collider>());var line=root.AddComponent<LineRenderer>();line.useWorldSpace=true;line.loop=true;line.positionCount=64;line.startWidth=line.endWidth=.08f;line.material=new Material(Shader.Find("Sprites/Default"));line.startColor=line.endColor=new Color(TowerColors[type].r,TowerColors[type].g,TowerColors[type].b,.6f);for(int i=0;i<64;i++){float a=i*Mathf.PI*2/64;line.SetPosition(i,root.transform.position+new Vector3(Mathf.Cos(a)*TowerRange[type],.1f,Mathf.Sin(a)*TowerRange[type]));}var warningObject=new GameObject("Ostrzeżenie przed strzałem");warningObject.transform.SetParent(root.transform,false);var warning=warningObject.AddComponent<LineRenderer>();warning.useWorldSpace=true;warning.positionCount=2;warning.startWidth=.09f;warning.endWidth=.04f;warning.material=new Material(Shader.Find("Sprites/Default"));warning.startColor=warning.endColor=new Color(TowerColors[type].r,TowerColors[type].g,TowerColors[type].b,.9f);warning.enabled=false;towers.Add(new Tower{slot=slot,type=type,obj=root,range=line,marker=marker,warning=warning});}
     void Begin(){phase=Phase.Playing;foreach(var s in slots)s.SetActive(false);foreach(var t in towers)t.range.enabled=false;cameraYaw=90;Capture(true);}
     void Capture(bool value){mouseCaptured=value;Cursor.lockState=value?CursorLockMode.Locked:CursorLockMode.None;Cursor.visible=!value;}
     public void OpenTraining(){menuOpen=false;Setup();StartDraft(0,true);}
-    public void ReturnToMenu(){menuOpen=true;Capture(false);Setup();}
-    void Update(){if(menuOpen)return;if(player==null||!player.obj||(ally!=null&&!ally.obj)){if(runnerRoot&&cam)Setup();return;}if(messageTimer>0)messageTimer-=Time.deltaTime;if(phase==Phase.Setup){if(!briefing&&selectingHero<0&&custom&&RiftorynInput.PointerPressed&&RiftorynInput.PointerPosition.y<Screen.height-155){Ray ray=cam.ScreenPointToRay(RiftorynInput.PointerPosition);Plane plane=new(Vector3.up,new Vector3(0,2.9f,0));if(plane.Raycast(ray,out float dist)){Vector3 pos=ray.GetPoint(dist);int nearest=-1;float best=1.3f;for(int i=0;i<slots.Length;i++){float d=Vector3.Distance(pos,slots[i].transform.position);if(d<best){best=d;nearest=i;}}if(nearest>=0){int index=towers.FindIndex(t=>t.slot==nearest);if(index>=0){Destroy(towers[index].obj);towers.RemoveAt(index);}else if(towers.Count<5)AddTower(nearest,selectedType);}}}return;}if(phase!=Phase.Playing)return;
-      float dt=Mathf.Min(Time.deltaTime,.05f);elapsed+=dt;rollCooldown=Mathf.Max(0,rollCooldown-dt);if(RiftorynInput.Escape)Capture(!mouseCaptured);if(mouseCaptured){cameraYaw+=RiftorynInput.Look.x*3;pitch=Mathf.Clamp(pitch-RiftorynInput.Look.y*2,0,60);}Vector3 playerBefore=player.obj.transform.position;Vector3 allyBefore=ally!=null?ally.obj.transform.position:Vector3.zero;if(player.hp>0&&!player.done){if(RiftorynInput.Ability)Skill(player);if(RiftorynInput.Roll)StartRoll();if(RiftorynInput.Attack&&player.hero==0)Attack(player);MovePlayer(dt);}StepRunner(player,dt);if(ally!=null){StepBot(dt);StepRunner(ally,dt);}player.velocity=dt>0?(player.obj.transform.position-playerBefore)/dt:Vector3.zero;if(ally!=null)ally.velocity=dt>0?(ally.obj.transform.position-allyBefore)/dt:Vector3.zero;StepTowers(dt);StepShots(dt);UpdateRunnerVisual(player,dt);if(ally!=null)UpdateRunnerVisual(ally,dt);rollTime=Mathf.Max(0,rollTime-dt);if(rollTime<=0)player.obj.transform.GetChild(0).localRotation=Quaternion.identity;float front=FogFront();for(int i=0;i<fogTiles.Count;i++)fogTiles[i].SetActive(elapsed>=5&&fogDistances[i]<front);if((player.done||player.hp<=0)&&(ally==null||ally.done||ally.hp<=0))End();UpdateCamera();}
+    public void ReturnToMenu(){StopLan();menuOpen=true;Capture(false);Setup();}
+    void Update(){if(menuOpen)return;if(player==null||!player.obj||(ally!=null&&!ally.obj)){if(runnerRoot&&cam)Setup();return;}if(messageTimer>0)messageTimer-=Time.deltaTime;if(lanPlaying && lan!=null && !lan.IsHost){UpdateLanClient();return;}if(phase==Phase.Setup){if(!briefing&&selectingHero<0&&custom&&RiftorynInput.PointerPressed&&RiftorynInput.PointerPosition.y<Screen.height-155){Ray ray=cam.ScreenPointToRay(RiftorynInput.PointerPosition);Plane plane=new(Vector3.up,new Vector3(0,2.9f,0));if(plane.Raycast(ray,out float dist)){Vector3 pos=ray.GetPoint(dist);int nearest=-1;float best=1.3f;for(int i=0;i<slots.Length;i++){float d=Vector3.Distance(pos,slots[i].transform.position);if(d<best){best=d;nearest=i;}}if(nearest>=0){int index=towers.FindIndex(t=>t.slot==nearest);if(index>=0){Destroy(towers[index].obj);towers.RemoveAt(index);}else if(towers.Count<5)AddTower(nearest,selectedType);}}}return;}if(phase!=Phase.Playing)return;
+      float dt=Mathf.Min(Time.deltaTime,.05f);elapsed+=dt;rollCooldown=Mathf.Max(0,rollCooldown-dt);if(RiftorynInput.Escape)Capture(!mouseCaptured);if(mouseCaptured){cameraYaw+=RiftorynInput.Look.x*3;pitch=Mathf.Clamp(pitch-RiftorynInput.Look.y*2,0,60);}Vector3 playerBefore=player.obj.transform.position;Vector3 allyBefore=ally!=null?ally.obj.transform.position:Vector3.zero;if(player.hp>0&&!player.done){if(RiftorynInput.Ability)Skill(player);if(RiftorynInput.Roll)StartRoll();if(RiftorynInput.Attack&&player.hero==0)Attack(player);MovePlayer(dt);}StepRunner(player,dt);if(ally!=null){if(lanPlaying)StepLanAlly(dt);else StepBot(dt);StepRunner(ally,dt);}player.velocity=dt>0?(player.obj.transform.position-playerBefore)/dt:Vector3.zero;if(ally!=null)ally.velocity=dt>0?(ally.obj.transform.position-allyBefore)/dt:Vector3.zero;StepHealing(dt);StepTowers(dt);StepShots(dt);UpdateRunnerVisual(player,dt);if(ally!=null)UpdateRunnerVisual(ally,dt);rollTime=Mathf.Max(0,rollTime-dt);if(rollTime<=0)player.obj.transform.GetChild(0).localRotation=Quaternion.identity;float front=FogFront();for(int i=0;i<fogTiles.Count;i++)fogTiles[i].SetActive(elapsed>=5&&fogDistances[i]<front);if((player.done||player.hp<=0)&&(ally==null||ally.done||ally.hp<=0))End();if(lanPlaying)SendLanState(phase==Phase.Finished);UpdateCamera();}
     float FogFront()=>Mathf.Clamp01((elapsed-5f)/115f)*total;
     Vector3 MoveInput()
     {
@@ -132,19 +147,50 @@ public class RiftorynTrial : MonoBehaviour
     void MovePlayer(float dt)
     {
         Vector3 dir=rollTime>0?rollDirection:MoveInput();
-        float mult=player.exposure>0?.9f:1f;if(player.boost>0)mult*=1.2f;if(player.chillTime>0)mult*=.85f;
+        float mult=player.exposure>0?.9f:1f;if(player.boost>0)mult*=1.2f;if(player.chillTime>0)mult*=player.hero==4?.88f:.85f;
         float speed=rollTime>0?RollSpeed:Speed[player.hero]*mult;
-        Vector3 proposed=player.obj.transform.position+dir*speed*dt;
-        Project(proposed,out float distance);
-        if(distance<RoadHalf-.25f)player.obj.transform.position=proposed;
+        player.obj.transform.position=MoveAgainstWalls(player.obj.transform.position,dir*speed*dt);
         if(dir.sqrMagnitude>.01f)player.obj.transform.rotation=Quaternion.LookRotation(dir);
         if(rollTime>0)player.obj.transform.GetChild(0).localRotation=Quaternion.Euler(360f*(1f-rollTime/RollDuration),0,0);
         if(Vector3.Distance(player.obj.transform.position,At(total))<1.5f)player.done=true;
     }
-    void StepRunner(Runner r,float dt){if(r.hp<=0||r.done)return;r.burn.Advance(dt,amount=>{if(r.hp>0)Damage(r,amount,true,false,"PODPALENIE");});r.poison.Advance(dt,amount=>{if(r.hp>0)Damage(r,amount,true,false,"TRUCIZNA");});r.chillTime=Mathf.Max(0,r.chillTime-dt);if(r.hp<=0)return;r.cooldown=Mathf.Max(0,r.cooldown-dt);r.attackCooldown=Mathf.Max(0,r.attackCooldown-dt);r.boost=Mathf.Max(0,r.boost-dt);if(r.shield>0){r.shieldTick-=dt;while(r.shield>0&&r.shieldTick<=0){r.shield*=.9f;r.shieldTick+=1f;if(r.shield<.01f){r.shield=0;r.shieldMax=0;r.shieldTick=0;}}}float along=Project(r.obj.transform.position,out _);bool fog=elapsed>=5&&along<FogFront();if(fog){r.exposure+=dt;r.fogTick+=dt;while(r.fogTick>=1){r.fogTick-=1;Damage(r,MaxHp[r.hero]*Mathf.Floor(r.exposure)/100f,true,false,"MGŁA");}}else{r.exposure=Mathf.Max(0,r.exposure-dt);r.fogTick=0;}if(r.hp<=0||r.done)r.obj.SetActive(false);}
+    Vector3 MoveAgainstWalls(Vector3 position,Vector3 remaining)
+    {
+        // Sweep against the same visible blocks that stop projectiles, then slide along them.
+        for(int pass=0;pass<3&&remaining.sqrMagnitude>.000001f;pass++){
+            float length=remaining.magnitude;Vector3 direction=remaining/length;RaycastHit closest=new RaycastHit();float nearest=length+.01f;bool blocked=false;
+            foreach(var hit in Physics.SphereCastAll(position+Vector3.up, .42f, direction, length+.01f, ~0, QueryTriggerInteraction.Ignore))
+                if(hit.collider.name=="Mur"&&hit.distance<nearest){closest=hit;nearest=hit.distance;blocked=true;}
+            if(!blocked){position+=remaining;break;}
+            float travel=Mathf.Max(0,nearest-.01f);position+=direction*travel;
+            remaining=Vector3.ProjectOnPlane(direction*(length-travel),closest.normal);
+        }
+        return position;
+    }
+    void StepRunner(Runner r,float dt){if(r.hp<=0||r.done)return;r.burn.Advance(dt,amount=>{if(r.hp>0)Damage(r,amount,true,false,"PODPALENIE");});r.poison.Advance(dt,amount=>{if(r.hp>0)Damage(r,amount,true,false,"TRUCIZNA");});r.chillTime=Mathf.Max(0,r.chillTime-dt);r.slowImmunity=Mathf.Max(0,r.slowImmunity-dt);if(r.hp<=0)return;r.cooldown=Mathf.Max(0,r.cooldown-dt);r.attackCooldown=Mathf.Max(0,r.attackCooldown-dt);r.boost=Mathf.Max(0,r.boost-dt);if(r.shield>0){r.shieldTick-=dt;while(r.shield>0&&r.shieldTick<=0){r.shield*=.9f;r.shieldTick+=1f;if(r.shield<.01f){r.shield=0;r.shieldMax=0;r.shieldTick=0;}}}float along=Project(r.obj.transform.position,out _);bool fog=elapsed>=5&&along<FogFront();if(fog){r.exposure+=dt;r.fogTick+=dt;while(r.fogTick>=1){r.fogTick-=1;Damage(r,MaxHp[r.hero]*Mathf.Floor(r.exposure)/100f,true,false,"MGŁA");}}else{r.exposure=Mathf.Max(0,r.exposure-dt);r.fogTick=0;}if(r.hp<=0||r.done)r.obj.SetActive(false);}
     void AddShield(Runner r,float amount){if(r==null||amount<=0)return;if(r.shield<=0)r.shieldTick=1f;r.shield+=amount;r.shieldMax=Mathf.Max(r.shieldMax,r.shield);}
     Tower Nearest(Runner r,float range){Tower best=null;float d=range;foreach(var t in towers){if(t.hp<=0)continue;float n=Vector3.Distance(r.obj.transform.position,t.obj.transform.position-Vector3.up*2.9f);if(n<d){best=t;d=n;}}return best;}
-    void Skill(Runner r){if(r.cooldown>0)return;Tower t=Nearest(r,17.4f);if(r.hero!=0&&r.hero!=3&&t==null){Notify("Podejdź bliżej wieży, aby użyć umiejętności.");return;}if(r.hero==3){var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.Fly()){if(r==player)Notify(RiftorynCodexData.Text("Patka jest niedostępna.","Patsy is unavailable."));return;}}r.cooldown=Cooldowns[r.hero];r.uses++;if(r.hero==3){}else if(r.hero==0){AddShield(r,100);Runner other=r==player?ally:player;if(other!=null&&other.hp>0&&!other.done&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<9)AddShield(other,50);}else if(r.hero==1)HitTower(t,100);else{t.disabled=2;r.boost=2;}}
+    void Skill(Runner r)
+    {
+        if(r.cooldown>0)return;
+        if(r.hero>=6){if(r==player)Notify("Zdolność tej postaci nie jest jeszcze dostępna w próbie.");return;}
+        if(r.hero==4){Runner other=r==player?ally:player;Runner target=other!=null&&other.hp>0&&!other.done&&other.chillTime>0&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<=8?other:r;target.chillTime=0;target.slowImmunity=2;r.cooldown=18;r.uses++;return;}
+        if(r.hero==5){healingPosition=r.obj.transform.position;healingTime=5;healingTick=1;UpdateHealingRing();r.cooldown=20;r.uses++;return;}
+        Tower t=Nearest(r,17.4f);if(r.hero!=0&&r.hero!=3&&t==null){if(r==player)Notify("Podejdź bliżej wieży, aby użyć umiejętności.");return;}
+        if(r.hero==3){var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.Fly()){if(r==player)Notify(RiftorynCodexData.Text("Patka jest niedostępna.","Patsy is unavailable."));return;}}
+        r.cooldown=Cooldowns[r.hero];r.uses++;if(r.hero==3){}else if(r.hero==0){AddShield(r,100);Runner other=r==player?ally:player;if(other!=null&&other.hp>0&&!other.done&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<9)AddShield(other,50);}else if(r.hero==1)HitTower(t,100);else{t.disabled=2;r.boost=2;}
+    }
+    void StepHealing(float dt)
+    {
+        if(healingTime<=0)return;float step=Mathf.Min(dt,healingTime);healingTime-=step;healingTick-=step;
+        while(healingTick<=.0001f){foreach(var r in new[]{player,ally})if(r!=null&&r.hp>0&&!r.done&&Vector3.Distance(r.obj.transform.position,healingPosition)<=4)r.hp=Mathf.Min(MaxHp[r.hero],r.hp+11);healingTick+=1;}UpdateHealingRing();
+    }
+    void UpdateHealingRing()
+    {
+        if(healingTime<=0){if(healingRing)healingRing.enabled=false;return;}
+        if(!healingRing){var obj=new GameObject("Pole życia Liory");obj.transform.SetParent(world.transform);healingRing=obj.AddComponent<LineRenderer>();healingRing.useWorldSpace=true;healingRing.loop=true;healingRing.positionCount=64;healingRing.startWidth=healingRing.endWidth=.1f;healingRing.material=new Material(Shader.Find("Sprites/Default"));healingRing.startColor=healingRing.endColor=new Color(.25f,1f,.45f,.9f);}
+        healingRing.enabled=true;for(int i=0;i<64;i++){float a=i*Mathf.PI*2/64;healingRing.SetPosition(i,healingPosition+new Vector3(Mathf.Cos(a)*4,.13f,Mathf.Sin(a)*4));}
+    }
     void Attack(Runner r){if(r.attackCooldown>0)return;Tower t=Nearest(r,7.8f);if(t==null){if(r==player)Notify("Podejdź bliżej wieży, aby ją zaatakować.");return;}r.attackCooldown=1;HitTower(t,25);}
     void HitTower(Tower t,float damage){t.hp-=damage;if(t.hp<=0){t.hp=0;t.marker.SetActive(false);foreach(var ren in t.obj.GetComponentsInChildren<Renderer>())ren.material.color=Color.gray;}}
     void StepBot(float dt){if(ally.hp<=0||ally.done)return;Tower t=Nearest(ally,ally.hero==0?7.8f:17.4f);if(t!=null&&ally.cooldown<=0)Skill(ally);if(t!=null&&ally.hero==0&&ally.attackCooldown<=0)Attack(ally);float speed=Speed[ally.hero]*(ally.exposure>0?.9f:1f)*(ally.boost>0?1.2f:1)*(ally.chillTime>0?.85f:1f);ally.along=Mathf.Min(total,ally.along+speed*dt);Vector3 old=ally.obj.transform.position, next=At(ally.along);ally.obj.transform.position=next;if((next-old).sqrMagnitude>.00001f)ally.obj.transform.rotation=Quaternion.LookRotation(next-old);if(ally.along>=total){ally.done=true;ally.obj.SetActive(false);}}
@@ -247,7 +293,7 @@ public class RiftorynTrial : MonoBehaviour
         Damage(victim,direct,true,true,"WIEŻA: "+TowerNames[type].ToUpperInvariant());
         if(victim.hp<=0)return;
         if(type==0)victim.burn.Apply(3,3);
-        else if(type==1)victim.chillTime=2;
+        else if(type==1&&victim.slowImmunity<=0)victim.chillTime=2;
         else if(type==3)victim.poison.Apply(4,3);
     }
     void ResolveShot(Shot shot,Runner victim,Vector3 impact)
@@ -356,7 +402,7 @@ public class RiftorynTrial : MonoBehaviour
     }
     void UpdateCamera(){if(player==null)return;Vector3 focus=player.obj.transform.position+Vector3.up*1.5f;Quaternion rot=Quaternion.Euler(pitch,cameraYaw,0);Vector3 desired=focus-rot*Vector3.forward*7.5f;Vector3 direction=desired-focus;if(Physics.SphereCast(focus,.2f,direction.normalized,out RaycastHit hit,direction.magnitude,~0,QueryTriggerInteraction.Ignore))desired=focus+direction.normalized*Mathf.Max(.5f,hit.distance-.2f);cam.orthographic=false;cam.transform.position=desired;cam.transform.rotation=rot;}
     void End(){phase=Phase.Finished;Capture(false);UpdateResult();}
-    void UpdateResult(){int arrived=(player.done?1:0)+(ally!=null&&ally.done?1:0),count=ally==null?1:2;result=RiftorynL10n.Format("META {0}/{1}  •  {2}: {3}",arrived,count,HeroNames[player.hero],RiftorynL10n.Translate(player.done?"meta":"pokonany"))+(ally!=null?RiftorynL10n.Format("  •  {0} AI: {1}",HeroNames[ally.hero],RiftorynL10n.Translate(ally.done?"meta":"pokonany")):"")+RiftorynL10n.Format("\nCzas {0:F1} s  •  obrażenia {1:F0}  •  zdolności {2}",elapsed,player.damage,player.uses);}
+    void UpdateResult(){int arrived=(player.done?1:0)+(ally!=null&&ally.done?1:0),count=ally==null?1:2;result=RiftorynL10n.Format("META {0}/{1}  •  {2}: {3}",arrived,count,HeroNames[player.hero],RiftorynL10n.Translate(player.done?"meta":"pokonany"))+(ally!=null?RiftorynL10n.Format(lanPlaying?"  •  {0}: {1}":"  •  {0} AI: {1}",HeroNames[ally.hero],RiftorynL10n.Translate(ally.done?"meta":"pokonany")):"")+RiftorynL10n.Format("\nCzas {0:F1} s  •  obrażenia {1:F0}  •  zdolności {2}",elapsed,player.damage,player.uses);}
     void Notify(string text){message=text;messageTimer=3;}
     // The minimap shares the same map coordinates as the world, with north at the top.
     Vector2 MinimapPoint(Vector3 position, Rect map)
@@ -436,12 +482,28 @@ public class RiftorynTrial : MonoBehaviour
     {
         if(hudStatusStyle==null)hudStatusStyle=new GUIStyle(small){fontSize=10,fontStyle=FontStyle.Bold,alignment=TextAnchor.MiddleLeft,wordWrap=false};
         int count=ActiveStatusCount(runner,inFog);if(count==0)return;float badgeWidth=width/(count>1?2:1);int index=0;
-        void Draw(string name,float remaining,Color tint){int item=index++;float bx=x+(item%2)*badgeWidth,by=y+(item/2)*25;Rect badge=new(bx,by,badgeWidth-3,23);HudFill(badge,new Color(.08f,.06f,.1f,.94f));Color old=GUI.color;GUI.color=tint;string text=name+" "+RiftorynL10n.Format("{0:F1}s",Mathf.Max(0,remaining));GUI.Label(new Rect(bx+5,by+2,badge.width-8,badge.height-4),text,hudStatusStyle);GUI.color=old;}
+        void Draw(string name,string iconName,float remaining,Color tint)
+        {
+            int item=index++;float bx=x+(item%2)*badgeWidth,by=y+(item/2)*25;Rect badge=new(bx,by,badgeWidth-3,23);
+            HudFill(badge,new Color(.08f,.06f,.1f,.94f));
+            Color old=GUI.color;float textX=bx+5;
+            Texture2D icon=string.IsNullOrEmpty(iconName)?null:StatusIcon(iconName);
+            if(icon!=null)
+            {
+                GUI.color=Color.white;
+                GUI.DrawTexture(new Rect(bx+3,by+2,19,19),icon,ScaleMode.ScaleToFit,true);
+                textX=bx+25;
+            }
+            GUI.color=tint;
+            string text=name+" "+RiftorynL10n.Format("{0:F1}s",Mathf.Max(0,remaining));
+            GUI.Label(new Rect(textX,by+2,Mathf.Max(0,badge.xMax-textX-3),badge.height-4),text,hudStatusStyle);
+            GUI.color=old;
+        }
         bool en=RiftorynL10n.CurrentCode=="EN";
-        if(runner.burn.Remaining>0)Draw(en?"BURN":"OPARZENIE",runner.burn.Remaining,new Color(1f,.55f,.25f));
-        if(runner.chillTime>0)Draw(en?"CHILL":"CHŁÓD",runner.chillTime,new Color(.5f,.85f,1f));
-        if(runner.poison.Remaining>0)Draw(en?"POISON":"TRUCIZNA",runner.poison.Remaining,new Color(.55f,1f,.4f));
-        if(inFog)Draw(en?"FOG":"MGŁA",runner.exposure,new Color(.85f,.55f,1f));
+        if(runner.burn.Remaining>0)Draw(en?"BURN":"OPARZENIE","burning",runner.burn.Remaining,new Color(1f,.55f,.25f));
+        if(runner.chillTime>0)Draw(en?"CHILL":"CHŁÓD","chill",runner.chillTime,new Color(.5f,.85f,1f));
+        if(runner.poison.Remaining>0)Draw(en?"POISON":"TRUCIZNA","poison",runner.poison.Remaining,new Color(.55f,1f,.4f));
+        if(inFog)Draw(en?"FOG":"MGŁA",null,runner.exposure,new Color(.85f,.55f,1f));
     }
     void DrawFogExposure(){
         if(player==null||player.exposure<=0||phase!=Phase.Playing)return;
@@ -495,8 +557,9 @@ public class RiftorynTrial : MonoBehaviour
         RiftorynL10n.Label(new Rect(x,y,width,25),hp,hudCenterStyle);
         RiftorynL10n.Label(new Rect(x,y+27,width,20),RiftorynL10n.Format("{0}  ·  DO METY {1} m",HeroNames[player.hero],player.done?0:Mathf.CeilToInt(Mathf.Max(0,total-Project(player.obj.transform.position,out _)))),small);
     }
-    void OnGUI(){if(menuOpen)return;if(title==null){title=new GUIStyle(GUI.skin.label){fontSize=24,fontStyle=FontStyle.Bold,normal={textColor=new Color(1,.83f,.52f)}};heading=new GUIStyle(GUI.skin.label){fontSize=16,fontStyle=FontStyle.Bold,normal={textColor=Color.white}};small=new GUIStyle(GUI.skin.label){fontSize=13,wordWrap=true,normal={textColor=Color.white}};}float w=Screen.width;if(phase==Phase.Setup&&selectingHero>=0){DrawDraft();return;}if(phase==Phase.Setup&&briefing){DrawBriefing();return;}GUI.Box(new Rect(0,0,w,phase==Phase.Setup?155:110),"");if(GUI.Button(new Rect(w-90,6,75,28),RiftorynL10n.CurrentCode+" ⇄"))RiftorynL10n.Toggle();RiftorynL10n.Label(new Rect(18,8,450,34),"RIFTORYN  /  PRÓBA BOHATERA",title);
+    void OnGUI(){if(menuOpen)return;if(title==null){title=new GUIStyle(GUI.skin.label){fontSize=24,fontStyle=FontStyle.Bold,normal={textColor=new Color(1,.83f,.52f)}};heading=new GUIStyle(GUI.skin.label){fontSize=16,fontStyle=FontStyle.Bold,normal={textColor=Color.white}};small=new GUIStyle(GUI.skin.label){fontSize=13,wordWrap=true,normal={textColor=Color.white}};}float w=Screen.width;if(lanPanel){DrawLanPanel();return;}if(phase==Phase.Setup&&selectingHero>=0){DrawDraft();return;}if(phase==Phase.Setup&&briefing){DrawBriefing();return;}GUI.Box(new Rect(0,0,w,phase==Phase.Setup?155:110),"");if(GUI.Button(new Rect(w-90,6,75,28),RiftorynL10n.CurrentCode+" ⇄"))RiftorynL10n.Toggle();RiftorynL10n.Label(new Rect(18,8,450,34),"RIFTORYN  /  PRÓBA BOHATERA",title);
       if(phase==Phase.Setup){
+        if(GUI.Button(new Rect(620,42,110,30),"LAN")){lanPanel=true;GUIUtility.ExitGUI();}
         RiftorynL10n.Label(new Rect(18,44,75,24),"Bohater",small);
         if(RiftorynL10n.Button(new Rect(90,42,200,30),HeroNames[selectedHero]+RiftorynL10n.Translate("  ·  ZMIEŃ"))){StartDraft(0,false);GUIUtility.ExitGUI();}
         RiftorynL10n.Label(new Rect(310,44,85,24),"Sojusznik",small);
@@ -505,7 +568,7 @@ public class RiftorynTrial : MonoBehaviour
         RiftorynL10n.Label(new Rect(18,78,60,23),"Wieże",small);
         bool newCustom=RiftorynL10n.SelectionGrid(new Rect(90,78,230,28),custom?1:0,new[]{"Standard","Własne"},2)==1;
         if(newCustom!=custom){custom=newCustom;Setup();GUIUtility.ExitGUI();}
-        if(custom){selectedType=RiftorynL10n.SelectionGrid(new Rect(340,78,420,28),selectedType,TowerNames,4);RiftorynL10n.Label(new Rect(770,82,100,25),$"{towers.Count} / 5",small);}
+        if(custom){selectedType=RiftorynL10n.SelectionGrid(new Rect(340,78,560,28),selectedType,TowerNames,7);RiftorynL10n.Label(new Rect(910,82,100,25),$"{towers.Count} / 5",small);}
         if(RiftorynL10n.Button(new Rect(w-210,42,190,63),"ROZPOCZNIJ PRÓBĘ")){briefing=true;GUIUtility.ExitGUI();}
         if(RiftorynL10n.Button(new Rect(w-210,110,190,30),"← MENU GŁÓWNE")){ReturnToMenu();GUIUtility.ExitGUI();}
         RiftorynL10n.Label(new Rect(18,115,w-235,30),custom?"Kliknij złote pole, by postawić lub usunąć wieżę. Okręgi pokazują zasięg.":"Standardowy układ: 5 wież. Widoczne okręgi pokazują zasięg.",small);
@@ -520,7 +583,7 @@ public class RiftorynTrial : MonoBehaviour
             UpdateResult();
             GUI.Box(new Rect(w/2-270,Screen.height/2-85,540,170),"");
             RiftorynL10n.Label(new Rect(w/2-245,Screen.height/2-65,490,65),result,heading);
-            if(RiftorynL10n.Button(new Rect(w/2-225,Screen.height/2+20,210,45),"ZAGRAJ PONOWNIE")){Setup();StartDraft(0,true);GUIUtility.ExitGUI();}
+            if(!lanPlaying&&RiftorynL10n.Button(new Rect(w/2-225,Screen.height/2+20,210,45),"ZAGRAJ PONOWNIE")){Setup();StartDraft(0,true);GUIUtility.ExitGUI();}
             if(RiftorynL10n.Button(new Rect(w/2+15,Screen.height/2+20,210,45),"MENU GŁÓWNE")){ReturnToMenu();GUIUtility.ExitGUI();}
         }
       }
@@ -529,10 +592,14 @@ public class RiftorynTrial : MonoBehaviour
     {
         float w=Screen.width;
         RiftorynL10n.Label(new Rect(18,40,w-36,24),RiftorynL10n.Format("CEL: DOTRZYJ DO METY   •   CZAS {0:F1} s   •   MGŁA {1:F1} s",elapsed,player.exposure),heading);
+        if(lanPlaying&&!lan.IsHost){RiftorynL10n.Label(new Rect(18,67,w-36,24),"LAN · "+HeroNames[player.hero].ToUpperInvariant()+"   •   Q: UMIEJĘTNOŚĆ   •   WASD: RUCH   •   MYSZ: KAMERA   •   ESC: KURSOR   •   UNIK NIEDOSTĘPNY",small);return;}
         RiftorynL10n.Label(new Rect(18,67,w-36,24),RiftorynL10n.Format("Q: {0}   •   SPACJA / UNIK: {1}   •   OSŁONA: {2:F0}   •   WASD: RUCH   •   MYSZ: KAMERA   •   ESC: KURSOR",player.cooldown>0?player.cooldown.ToString("F1")+" s":RiftorynL10n.Translate("GOTOWA"),rollCooldown>0?rollCooldown.ToString("F1")+" s":RiftorynL10n.Translate("GOTOWY"),player.shield),small);
     }
     string AbilityDescription()
     {
+        if(selectedHero==4)return "NIVA · Q: usuwa spowolnienie u najbliższego spowolnionego sojusznika w zasięgu, w przeciwnym razie u siebie; 2 s odporności.";
+        if(selectedHero==5)return "LIORA · Q: pole pod postacią leczy pobliskich sojuszników przez 5 s.";
+        if(selectedHero>=6)return HeroNames[selectedHero].ToUpperInvariant()+" · umiejętność niedostępna w tym prototypie.";
         if(selectedHero==0)return "KAEL · Q: osłona dla Ciebie i pobliskiego sojusznika. E: testowy atak na pobliską wieżę.";
         if(selectedHero==1)return "RIAN · Q: zadaje obrażenia pobliskiej wieży. Podejdź w jej zasięg.";
         if(selectedHero==3)return RiftorynCodexData.Text("KONEVA · Q: Patka wznosi się, krąży i odciąga ogień wież. Model Konevy jest zastępczy.","KONEVA · Q: Patsy flies in circles and draws tower fire. Koneva uses a placeholder model.");
@@ -562,7 +629,7 @@ public class RiftorynTrial : MonoBehaviour
 
     int PlayableHero(string id)
     {
-        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;default:return -1;}
+        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;case "niva":return 4;case "liora":return 5;case "elira":return 6;case "dara":return 7;case "nocten":return 8;default:return -1;}
     }
     Texture2D DraftPortrait(string id)
     {
@@ -573,6 +640,80 @@ public class RiftorynTrial : MonoBehaviour
     static readonly string[] DraftRoles={"Tank","Wsparcie","Specjalista","Przywoływacz"};
     static readonly string[] DraftElements={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"};
     static readonly string[] DraftElementIcons={"fire","ice","lightning","nature","earth","light","darkness"};
+
+    void EnsureLan()
+    {
+        if(lan)return;lan=gameObject.AddComponent<RiftorynLan>();
+        lan.PeerConnected+=()=>{if(!lan.IsHost)lan.Send("R"+lanHero,true);};
+        lan.PeerDisconnected+=()=>{lanPlaying=false;Capture(false);ClearLanShots();Setup();lanPanel=true;};
+        lan.Received+=ReceiveLan;
+    }
+    void StopLan(){lanPlaying=false;lanPanel=false;lanRemoteInput=Vector3.zero;lanRemoteAbility=false;lanRemoteAttack=false;lanNotice="";if(lan)lan.Stop();ClearLanShots();}
+    void DrawLanPanel()
+    {
+        float x=Screen.width*.5f-300,y=Screen.height*.5f-210;
+        GUI.Box(new Rect(x,y,600,420),"LAN · TEST 2 GRACZY");
+        GUI.Label(new Rect(x+20,y+35,560,40),"Wybierz bohatera przed połączeniem. Bez duplikatów.\nUnik drugiego gracza nie jest jeszcze dostępny.");
+        int[] picks={0,1,2,4,5,6,7,8};string[] names={"Kael","Rian","Zet","Niva","Liora","Elira*","Dara*","Nocten*"};
+        int index=Array.IndexOf(picks,lanHero);if(index<0)index=0;
+        GUI.enabled=!lanPlaying&&(lan==null||!lan.Active||(!lan.IsHost&&lan.Connected));
+        int chosen=GUI.SelectionGrid(new Rect(x+20,y+85,560,60),index,names,4);GUI.enabled=true;
+        if(chosen!=index){lanHero=picks[chosen];lanNotice="";if(lan&&lan.Connected&&!lan.IsHost)lan.Send("R"+lanHero,true);}
+        GUI.Label(new Rect(x+20,y+150,560,25),"* Brak aktywnej umiejętności w tym prototypie.");
+        GUI.Label(new Rect(x+20,y+182,160,25),"Adres gospodarza:");lanAddress=GUI.TextField(new Rect(x+180,y+182,220,28),lanAddress,64);
+        EnsureLan();
+        if(!lan.Active){if(GUI.Button(new Rect(x+20,y+225,250,42),"UTWÓRZ GRĘ"))lan.StartHost(this);if(GUI.Button(new Rect(x+330,y+225,250,42),"DOŁĄCZ"))lan.StartClient(this,lanAddress);}
+        else if(GUI.Button(new Rect(x+20,y+225,250,42),"PRZERWIJ ŁĄCZENIE")){lan.Stop();lanNotice="";}
+        GUI.Label(new Rect(x+20,y+280,560,55),lan.Status+"\n"+lanNotice+"\nUDP 7777 · sieć lokalna");
+        if(GUI.Button(new Rect(x+380,y+360,200,40),"POWRÓT")){StopLan();GUIUtility.ExitGUI();}
+    }
+    void PrepareLan(bool host,int hostHero,int guestHero)
+    {
+        custom=false;selectedHero=host?hostHero:guestHero;allyChoice=(host?guestHero:hostHero)+2;Setup();
+        lanPlaying=true;lanPanel=false;lanRemoteInput=Vector3.zero;lanRemoteAbility=false;lanRemoteAttack=false;lanSendAt=0;lanInputAt=Time.unscaledTime;Begin();
+    }
+    void StepLanAlly(float dt)
+    {
+        if(ally.hp<=0||ally.done)return;
+        if(lanRemoteAbility){Skill(ally);lanRemoteAbility=false;}if(lanRemoteAttack){if(ally.hero==0)Attack(ally);lanRemoteAttack=false;}
+        Vector3 dir=Time.unscaledTime-lanInputAt<.5f?lanRemoteInput:Vector3.zero;
+        float mult=ally.exposure>0?.9f:1f;if(ally.boost>0)mult*=1.2f;if(ally.chillTime>0)mult*=ally.hero==4?.88f:.85f;
+        ally.obj.transform.position=MoveAgainstWalls(ally.obj.transform.position,dir*Speed[ally.hero]*mult*dt);
+        if(dir.sqrMagnitude>.01f)ally.obj.transform.rotation=Quaternion.LookRotation(dir);
+        if(Vector3.Distance(ally.obj.transform.position,At(total))<1.5f)ally.done=true;
+    }
+    LanRunner CaptureLanRunner(Runner r)=>new LanRunner{x=r.obj.transform.position.x,z=r.obj.transform.position.z,yaw=r.obj.transform.eulerAngles.y,hp=r.hp,shield=r.shield,shieldMax=r.shieldMax,cooldown=r.cooldown,exposure=r.exposure,damage=r.damage,done=r.done,uses=r.uses};
+    void ApplyLanRunner(Runner r,LanRunner s){r.obj.transform.position=new Vector3(s.x,0,s.z);r.obj.transform.rotation=Quaternion.Euler(0,s.yaw,0);r.hp=s.hp;r.shield=s.shield;r.shieldMax=s.shieldMax;r.cooldown=s.cooldown;r.exposure=s.exposure;r.damage=s.damage;r.done=s.done;r.uses=s.uses;r.obj.SetActive(s.hp>0&&!s.done);}
+    void SendLanState(bool force=false)
+    {
+        if(!lanPlaying||!lan.IsHost||!lan.Connected||(!force&&Time.unscaledTime<lanSendAt))return;lanSendAt=Time.unscaledTime+.05f;
+        var state=new LanState{time=elapsed,healTime=healingTime,healX=healingPosition.x,healZ=healingPosition.z,finished=phase==Phase.Finished,hostHero=player.hero,guestHero=ally.hero,host=CaptureLanRunner(player),guest=CaptureLanRunner(ally),towerHp=new float[towers.Count],towerDisabled=new float[towers.Count],shots=new LanShot[shots.Count]};
+        for(int i=0;i<towers.Count;i++){state.towerHp[i]=towers[i].hp;state.towerDisabled[i]=towers[i].disabled;}
+        for(int i=0;i<shots.Count;i++){var p=shots[i].obj.transform.position;state.shots[i]=new LanShot{x=p.x,y=p.y,z=p.z,type=shots[i].type};}
+        lan.Send("S"+JsonUtility.ToJson(state),state.finished||force);
+    }
+    void ReceiveLan(string message)
+    {
+        if(string.IsNullOrEmpty(message))return;
+        if(lan.IsHost&&message[0]=='R'&&!lanPlaying){if(!int.TryParse(message.Substring(1),out int guest)||guest<0||guest>8||guest==3)return;if(guest==lanHero){lan.Send("D",true);lanNotice="Drugi gracz musi wybrać inną postać.";return;}lanNotice="";PrepareLan(true,lanHero,guest);SendLanState(true);}
+        else if(!lan.IsHost&&message=="D"){lanNotice="Ta postać jest już wybrana przez gospodarza. Wybierz inną.";}
+        else if(lan.IsHost&&message[0]=='I'&&lanPlaying){var input=JsonUtility.FromJson<LanInput>(message.Substring(1));if(input==null)return;lanRemoteInput=Vector3.ClampMagnitude(new Vector3(input.x,0,input.z),1);lanInputAt=Time.unscaledTime;lanRemoteAbility|=input.ability;lanRemoteAttack|=input.attack;}
+        else if(!lan.IsHost&&message[0]=='S'){
+            var state=JsonUtility.FromJson<LanState>(message.Substring(1));if(state==null||state.host==null||state.guest==null)return;
+            if(!lanPlaying){if(state.hostHero<0||state.hostHero>8||state.guestHero<0||state.guestHero>8)return;PrepareLan(false,state.hostHero,state.guestHero);}elapsed=state.time;healingTime=state.healTime;healingPosition=new Vector3(state.healX,0,state.healZ);UpdateHealingRing();ApplyLanRunner(player,state.guest);ApplyLanRunner(ally,state.host);
+            for(int i=0;i<towers.Count&&i<state.towerHp.Length;i++){if(towers[i].hp>0&&state.towerHp[i]<=0)HitTower(towers[i],towers[i].hp);towers[i].hp=state.towerHp[i];towers[i].disabled=state.towerDisabled[i];}
+            UpdateLanShots(state.shots);if(state.finished&&phase!=Phase.Finished)End();
+        }
+    }
+    void UpdateLanClient()
+    {
+        if(RiftorynInput.Escape)Capture(!mouseCaptured);if(mouseCaptured){cameraYaw+=RiftorynInput.Look.x*3;pitch=Mathf.Clamp(pitch-RiftorynInput.Look.y*2,0,60);}
+        if(phase==Phase.Playing){bool ability=RiftorynInput.Ability,attack=RiftorynInput.Attack;if(Time.unscaledTime>=lanSendAt||ability||attack){var input=MoveInput();lan.Send("I"+JsonUtility.ToJson(new LanInput{x=input.x,z=input.z,ability=ability,attack=attack}),ability||attack);lanSendAt=Time.unscaledTime+.05f;}}
+        float front=FogFront();for(int i=0;i<fogTiles.Count;i++)fogTiles[i].SetActive(elapsed>=5&&fogDistances[i]<front);UpdateRunnerVisual(player,Time.deltaTime);UpdateRunnerVisual(ally,Time.deltaTime);UpdateCamera();
+    }
+    void ClearLanShots(){foreach(var o in lanShotVisuals)if(o)Destroy(o);lanShotVisuals.Clear();}
+    void UpdateLanShots(LanShot[] states){if(states==null)return;while(lanShotVisuals.Count>states.Length){int i=lanShotVisuals.Count-1;Destroy(lanShotVisuals[i]);lanShotVisuals.RemoveAt(i);}while(lanShotVisuals.Count<states.Length){var o=GameObject.CreatePrimitive(PrimitiveType.Sphere);o.name="Pocisk LAN";o.transform.localScale=Vector3.one*.38f;Destroy(o.GetComponent<Collider>());lanShotVisuals.Add(o);}for(int i=0;i<states.Length;i++){var s=states[i];lanShotVisuals[i].transform.position=new Vector3(s.x,s.y,s.z);lanShotVisuals[i].GetComponent<Renderer>().material.color=TowerColors[Mathf.Clamp(s.type,0,TowerColors.Length-1)];}}
+
     void StartDraft(int slot,bool first)
     {
         selectingHero=slot;initialDraft=first;draftPreview=-1;lastAbilityTooltip="";abilityTooltipScroll=Vector2.zero;

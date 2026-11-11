@@ -455,8 +455,8 @@
           "y": 0.957,
           "width": 0.44,
           "height": 0.02345,
-          "pl": "Morrak? Vesh? Odszedł bez słowa.",
-          "en": "Morrak? Vesh? They left in silence."
+          "pl": "Nie zdążyli zapytać go o imię.",
+          "en": "They had no time to ask his name."
         },
         {
           "x": 0.53,
@@ -465,6 +465,162 @@
           "height": 0.02345,
           "pl": "Droga znów była wolna.",
           "en": "The road was clear again."
+        }
+      ]
+    },
+    {
+      "heroId": "morrak",
+      "resource": "Stories/morrak-obronca-i-msciciel",
+      "titlePl": "Morrak i Vesh: Wyrok na szlaku",
+      "titleEn": "Morrak and Vesh: Judgment on the Road",
+      "titleRect": {
+        "x": 0.14,
+        "y": 0.012,
+        "width": 0.72,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25603,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Uzbrojeni napastnicy zagrodzili drogę uchodźcom.",
+          "en": "Armed raiders blocked the refugees' road."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25603,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Fioletowy cień osłonił rodziny.",
+          "en": "Violet shadow shielded the families."
+        },
+        {
+          "x": 0.03,
+          "y": 0.49055,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Jeńcy potwierdzili winę dowódcy.",
+          "en": "The captives confirmed the commander's guilt."
+        },
+        {
+          "x": 0.53,
+          "y": 0.49055,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Rozbrojeni, niezamieszani napastnicy mogli odejść.",
+          "en": "Disarmed raiders uninvolved in the murders could leave."
+        },
+        {
+          "x": 0.03,
+          "y": 0.72638,
+          "width": 0.44,
+          "height": 0.02085,
+          "pl": "Rozkaz nosił pieczęć dowódcy.",
+          "en": "The order bore the commander's seal."
+        },
+        {
+          "x": 0.53,
+          "y": 0.72638,
+          "width": 0.44,
+          "height": 0.02085,
+          "pl": "Dowódca ukląkł. Wyrok pozostał nieodwołalny.",
+          "en": "The commander knelt. The sentence stood."
+        },
+        {
+          "x": 0.03,
+          "y": 0.957,
+          "width": 0.44,
+          "height": 0.02345,
+          "pl": "Dowódca leżał martwy; pozostali byli bezpieczni.",
+          "en": "The commander lay dead; the others were unharmed."
+        },
+        {
+          "x": 0.53,
+          "y": 0.957,
+          "width": 0.44,
+          "height": 0.02345,
+          "pl": "Ocaleni: Morrak. Świadkowie: Vesh.",
+          "en": "Morrak to the saved. Vesh to witnesses."
+        }
+      ]
+    },
+    {
+      "heroId": "morrak",
+      "resource": "Stories/morrak-ostatnie-ostrzezenie",
+      "titlePl": "Morrak: Ostatnie ostrzeżenie",
+      "titleEn": "Morrak: The Final Warning",
+      "titleRect": {
+        "x": 0.15,
+        "y": 0.012,
+        "width": 0.7,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25603,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Zawalony chodnik pogrzebał górników pod belkami.",
+          "en": "A collapse trapped miners beneath the beams."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25603,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Pieczęć i robotnicy potwierdzili rozkaz.",
+          "en": "The seal and workers confirmed his order."
+        },
+        {
+          "x": 0.03,
+          "y": 0.49055,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Obejrzał rannych i zawalone wejście.",
+          "en": "He examined the injured and collapsed entrance."
+        },
+        {
+          "x": 0.53,
+          "y": 0.49055,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Nadzorca znów chciał wysłać ich pod strop.",
+          "en": "The foreman ordered them back beneath the roof."
+        },
+        {
+          "x": 0.03,
+          "y": 0.72638,
+          "width": 0.44,
+          "height": 0.02085,
+          "pl": "Strażnicy odsunęli się; robotnicy zostali za nim.",
+          "en": "Guards stepped aside; workers stayed behind him."
+        },
+        {
+          "x": 0.53,
+          "y": 0.72638,
+          "width": 0.44,
+          "height": 0.02085,
+          "pl": "Mógł się poddać. Zaatakował Morraka.",
+          "en": "He could surrender. He attacked Morrak."
+        },
+        {
+          "x": 0.03,
+          "y": 0.957,
+          "width": 0.44,
+          "height": 0.02345,
+          "pl": "Nadzorca leżał nieruchomo.",
+          "en": "The foreman lay motionless."
+        },
+        {
+          "x": 0.53,
+          "y": 0.957,
+          "width": 0.44,
+          "height": 0.02345,
+          "pl": "O świcie wzmacniali podpory. Morrak zniknął.",
+          "en": "At dawn, they braced supports. Morrak was gone."
         }
       ]
     },
@@ -699,6 +855,1883 @@
           "height": 0.02282,
           "pl": "Dolina znów mogła rozkwitnąć.",
           "en": "The valley could bloom again."
+        }
+      ]
+    },
+    {
+      "heroId": "niva",
+      "resource": "Stories/trzy-wstazki",
+      "titlePl": "Trzy wstążki",
+      "titleEn": "Three Ribbons",
+      "titleRect": {
+        "x": 0.21,
+        "y": 0.012,
+        "width": 0.56,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.027,
+          "y": 0.251,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Trzy siostry dorastały razem w dolinie.",
+          "en": "Three sisters grew up together in the valley."
+        },
+        {
+          "x": 0.527,
+          "y": 0.251,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Każda otrzymała wstążkę na pamiątkę.",
+          "en": "Each received a ribbon to remember the others."
+        },
+        {
+          "x": 0.027,
+          "y": 0.483,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Pewnego dnia wojna dotarła do doliny.",
+          "en": "One day, the war reached the valley."
+        },
+        {
+          "x": 0.527,
+          "y": 0.483,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Podczas ewakuacji trzymały się za ręce.",
+          "en": "During the evacuation, they held hands."
+        },
+        {
+          "x": 0.027,
+          "y": 0.694,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "W zamieszaniu tłum je rozdzielił.",
+          "en": "In the confusion, the crowd separated them."
+        },
+        {
+          "x": 0.527,
+          "y": 0.694,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Wołały się nawzajem, lecz drogi się rozeszły.",
+          "en": "They called to each other, but their paths parted."
+        },
+        {
+          "x": 0.027,
+          "y": 0.952,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Każda wyruszyła pod opieką innej grupy.",
+          "en": "Each traveled in the care of a different group."
+        },
+        {
+          "x": 0.527,
+          "y": 0.952,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Daleko od siebie patrzyły na to samo niebo.",
+          "en": "Far apart, they looked up at the same sky."
+        }
+      ]
+    },
+    {
+      "heroId": "liora",
+      "resource": "Stories/trzy-wstazki",
+      "titlePl": "Trzy wstążki",
+      "titleEn": "Three Ribbons",
+      "titleRect": {
+        "x": 0.21,
+        "y": 0.012,
+        "width": 0.56,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.027,
+          "y": 0.251,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Trzy siostry dorastały razem w dolinie.",
+          "en": "Three sisters grew up together in the valley."
+        },
+        {
+          "x": 0.527,
+          "y": 0.251,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Każda otrzymała wstążkę na pamiątkę.",
+          "en": "Each received a ribbon to remember the others."
+        },
+        {
+          "x": 0.027,
+          "y": 0.483,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Pewnego dnia wojna dotarła do doliny.",
+          "en": "One day, the war reached the valley."
+        },
+        {
+          "x": 0.527,
+          "y": 0.483,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Podczas ewakuacji trzymały się za ręce.",
+          "en": "During the evacuation, they held hands."
+        },
+        {
+          "x": 0.027,
+          "y": 0.694,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "W zamieszaniu tłum je rozdzielił.",
+          "en": "In the confusion, the crowd separated them."
+        },
+        {
+          "x": 0.527,
+          "y": 0.694,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Wołały się nawzajem, lecz drogi się rozeszły.",
+          "en": "They called to each other, but their paths parted."
+        },
+        {
+          "x": 0.027,
+          "y": 0.952,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Każda wyruszyła pod opieką innej grupy.",
+          "en": "Each traveled in the care of a different group."
+        },
+        {
+          "x": 0.527,
+          "y": 0.952,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Daleko od siebie patrzyły na to samo niebo.",
+          "en": "Far apart, they looked up at the same sky."
+        }
+      ]
+    },
+    {
+      "heroId": "elira",
+      "resource": "Stories/trzy-wstazki",
+      "titlePl": "Trzy wstążki",
+      "titleEn": "Three Ribbons",
+      "titleRect": {
+        "x": 0.21,
+        "y": 0.012,
+        "width": 0.56,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.027,
+          "y": 0.251,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Trzy siostry dorastały razem w dolinie.",
+          "en": "Three sisters grew up together in the valley."
+        },
+        {
+          "x": 0.527,
+          "y": 0.251,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Każda otrzymała wstążkę na pamiątkę.",
+          "en": "Each received a ribbon to remember the others."
+        },
+        {
+          "x": 0.027,
+          "y": 0.483,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Pewnego dnia wojna dotarła do doliny.",
+          "en": "One day, the war reached the valley."
+        },
+        {
+          "x": 0.527,
+          "y": 0.483,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Podczas ewakuacji trzymały się za ręce.",
+          "en": "During the evacuation, they held hands."
+        },
+        {
+          "x": 0.027,
+          "y": 0.694,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "W zamieszaniu tłum je rozdzielił.",
+          "en": "In the confusion, the crowd separated them."
+        },
+        {
+          "x": 0.527,
+          "y": 0.694,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Wołały się nawzajem, lecz drogi się rozeszły.",
+          "en": "They called to each other, but their paths parted."
+        },
+        {
+          "x": 0.027,
+          "y": 0.952,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Każda wyruszyła pod opieką innej grupy.",
+          "en": "Each traveled in the care of a different group."
+        },
+        {
+          "x": 0.527,
+          "y": 0.952,
+          "width": 0.44,
+          "height": 0.028,
+          "pl": "Daleko od siebie patrzyły na to samo niebo.",
+          "en": "Far apart, they looked up at the same sky."
+        }
+      ]
+    },
+    {
+      "heroId": "niva",
+      "resource": "Stories/zasypany-szlak",
+      "titlePl": "Na zasypanym szlaku",
+      "titleEn": "On the Snowbound Road",
+      "titleRect": {
+        "x": 0.2,
+        "y": 0.012,
+        "width": 0.56,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.027,
+          "y": 0.251,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Osuwisko zatrzymało konwój na górskim szlaku.",
+          "en": "A landslide stopped a convoy on the mountain road."
+        },
+        {
+          "x": 0.527,
+          "y": 0.251,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Liora opatrywała rannego, a Niva zabezpieczała wóz.",
+          "en": "Liora tended the injured while Niva secured the wagon."
+        },
+        {
+          "x": 0.027,
+          "y": 0.49,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Razem pomogły podróżnym uratować zapasy.",
+          "en": "Together they helped the travelers save their supplies."
+        },
+        {
+          "x": 0.527,
+          "y": 0.49,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Niva usłyszała znajomą melodię z dzieciństwa.",
+          "en": "Niva heard a familiar childhood melody."
+        },
+        {
+          "x": 0.027,
+          "y": 0.72,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Spojrzały na siebie z niedowierzaniem.",
+          "en": "They looked at each other in disbelief."
+        },
+        {
+          "x": 0.527,
+          "y": 0.72,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Przy ognisku rozpoznały wspólny znak.",
+          "en": "By the fire, they recognized a shared sign."
+        },
+        {
+          "x": 0.027,
+          "y": 0.958,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Po latach rozłąki siostry znów się odnalazły.",
+          "en": "After years apart, the sisters found each other again."
+        },
+        {
+          "x": 0.527,
+          "y": 0.958,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Obiecały, że pozostaną w kontakcie.",
+          "en": "They promised to stay in touch."
+        }
+      ]
+    },
+    {
+      "heroId": "liora",
+      "resource": "Stories/zasypany-szlak",
+      "titlePl": "Na zasypanym szlaku",
+      "titleEn": "On the Snowbound Road",
+      "titleRect": {
+        "x": 0.2,
+        "y": 0.012,
+        "width": 0.56,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.027,
+          "y": 0.251,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Osuwisko zatrzymało konwój na górskim szlaku.",
+          "en": "A landslide stopped a convoy on the mountain road."
+        },
+        {
+          "x": 0.527,
+          "y": 0.251,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Liora opatrywała rannego, a Niva zabezpieczała wóz.",
+          "en": "Liora tended the injured while Niva secured the wagon."
+        },
+        {
+          "x": 0.027,
+          "y": 0.49,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Razem pomogły podróżnym uratować zapasy.",
+          "en": "Together they helped the travelers save their supplies."
+        },
+        {
+          "x": 0.527,
+          "y": 0.49,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Niva usłyszała znajomą melodię z dzieciństwa.",
+          "en": "Niva heard a familiar childhood melody."
+        },
+        {
+          "x": 0.027,
+          "y": 0.72,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Spojrzały na siebie z niedowierzaniem.",
+          "en": "They looked at each other in disbelief."
+        },
+        {
+          "x": 0.527,
+          "y": 0.72,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Przy ognisku rozpoznały wspólny znak.",
+          "en": "By the fire, they recognized a shared sign."
+        },
+        {
+          "x": 0.027,
+          "y": 0.958,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Po latach rozłąki siostry znów się odnalazły.",
+          "en": "After years apart, the sisters found each other again."
+        },
+        {
+          "x": 0.527,
+          "y": 0.958,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Obiecały, że pozostaną w kontakcie.",
+          "en": "They promised to stay in touch."
+        }
+      ]
+    },
+    {
+      "heroId": "elira",
+      "resource": "Stories/slad-wsrod-map",
+      "titlePl": "Ślad wśród map",
+      "titleEn": "A Trail Among Maps",
+      "titleRect": {
+        "x": 0.2,
+        "y": 0.012,
+        "width": 0.56,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.027,
+          "y": 0.247,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Elira szukała śladów sióstr w dawnych rejestrach.",
+          "en": "Elira searched old records for traces of her sisters."
+        },
+        {
+          "x": 0.527,
+          "y": 0.247,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "W zniszczonym dokumencie dostrzegła wskazówkę.",
+          "en": "She found a clue in a damaged document."
+        },
+        {
+          "x": 0.027,
+          "y": 0.478,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Fragmenty map wskazywały dwie odległe drogi.",
+          "en": "Fragments of maps pointed to two distant routes."
+        },
+        {
+          "x": 0.527,
+          "y": 0.478,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Świadek pomógł jej zrozumieć dawne zapisy.",
+          "en": "A witness helped her understand the old records."
+        },
+        {
+          "x": 0.027,
+          "y": 0.713,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Elira zaznaczyła tropy prowadzące do sióstr.",
+          "en": "Elira marked the trails leading to her sisters."
+        },
+        {
+          "x": 0.527,
+          "y": 0.713,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Wyruszyła drogą ku dolinie Verdan.",
+          "en": "She set out toward the Verdan valley."
+        },
+        {
+          "x": 0.027,
+          "y": 0.958,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "U progu domu odnalazła Liorę.",
+          "en": "At a doorstep, she found Liora."
+        },
+        {
+          "x": 0.527,
+          "y": 0.958,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Liora i Niva odnalazły się już wcześniej.",
+          "en": "Liora and Niva had already found each other."
+        }
+      ]
+    },
+    {
+      "heroId": "niva",
+      "resource": "Stories/przy-jednym-stole",
+      "titlePl": "Przy jednym stole",
+      "titleEn": "At One Table",
+      "titleRect": {
+        "x": 0.2,
+        "y": 0.012,
+        "width": 0.56,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.027,
+          "y": 0.258,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Liora zaprosiła siostry do swojego domu.",
+          "en": "Liora welcomed her sisters into her home."
+        },
+        {
+          "x": 0.527,
+          "y": 0.258,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Niva pamiętała przysmak z ich dzieciństwa.",
+          "en": "Niva remembered a favorite childhood treat."
+        },
+        {
+          "x": 0.027,
+          "y": 0.496,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Liora uśmiechnęła się: jej smak zdążył się zmienić.",
+          "en": "Liora smiled: her tastes had changed."
+        },
+        {
+          "x": 0.527,
+          "y": 0.496,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Elira zaproponowała wspólne przygotowanie posiłku.",
+          "en": "Elira suggested preparing a meal together."
+        },
+        {
+          "x": 0.027,
+          "y": 0.72,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "W ogrodzie Liora pokazała Nivie swoje zioła.",
+          "en": "In the garden, Liora showed Niva her herbs."
+        },
+        {
+          "x": 0.527,
+          "y": 0.72,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "W kuchni niewielki bałagan wywołał śmiech.",
+          "en": "A little mess in the kitchen made them laugh."
+        },
+        {
+          "x": 0.027,
+          "y": 0.958,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Przy stole poznawały się na nowo.",
+          "en": "At the table, they got to know each other again."
+        },
+        {
+          "x": 0.527,
+          "y": 0.958,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Zaplanowały miejsca, które jeszcze sobie pokażą.",
+          "en": "They planned the places they would show one another."
+        }
+      ]
+    },
+    {
+      "heroId": "liora",
+      "resource": "Stories/przy-jednym-stole",
+      "titlePl": "Przy jednym stole",
+      "titleEn": "At One Table",
+      "titleRect": {
+        "x": 0.2,
+        "y": 0.012,
+        "width": 0.56,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.027,
+          "y": 0.258,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Liora zaprosiła siostry do swojego domu.",
+          "en": "Liora welcomed her sisters into her home."
+        },
+        {
+          "x": 0.527,
+          "y": 0.258,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Niva pamiętała przysmak z ich dzieciństwa.",
+          "en": "Niva remembered a favorite childhood treat."
+        },
+        {
+          "x": 0.027,
+          "y": 0.496,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Liora uśmiechnęła się: jej smak zdążył się zmienić.",
+          "en": "Liora smiled: her tastes had changed."
+        },
+        {
+          "x": 0.527,
+          "y": 0.496,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Elira zaproponowała wspólne przygotowanie posiłku.",
+          "en": "Elira suggested preparing a meal together."
+        },
+        {
+          "x": 0.027,
+          "y": 0.72,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "W ogrodzie Liora pokazała Nivie swoje zioła.",
+          "en": "In the garden, Liora showed Niva her herbs."
+        },
+        {
+          "x": 0.527,
+          "y": 0.72,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "W kuchni niewielki bałagan wywołał śmiech.",
+          "en": "A little mess in the kitchen made them laugh."
+        },
+        {
+          "x": 0.027,
+          "y": 0.958,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Przy stole poznawały się na nowo.",
+          "en": "At the table, they got to know each other again."
+        },
+        {
+          "x": 0.527,
+          "y": 0.958,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Zaplanowały miejsca, które jeszcze sobie pokażą.",
+          "en": "They planned the places they would show one another."
+        }
+      ]
+    },
+    {
+      "heroId": "elira",
+      "resource": "Stories/przy-jednym-stole",
+      "titlePl": "Przy jednym stole",
+      "titleEn": "At One Table",
+      "titleRect": {
+        "x": 0.2,
+        "y": 0.012,
+        "width": 0.56,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.027,
+          "y": 0.258,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Liora zaprosiła siostry do swojego domu.",
+          "en": "Liora welcomed her sisters into her home."
+        },
+        {
+          "x": 0.527,
+          "y": 0.258,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Niva pamiętała przysmak z ich dzieciństwa.",
+          "en": "Niva remembered a favorite childhood treat."
+        },
+        {
+          "x": 0.027,
+          "y": 0.496,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Liora uśmiechnęła się: jej smak zdążył się zmienić.",
+          "en": "Liora smiled: her tastes had changed."
+        },
+        {
+          "x": 0.527,
+          "y": 0.496,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Elira zaproponowała wspólne przygotowanie posiłku.",
+          "en": "Elira suggested preparing a meal together."
+        },
+        {
+          "x": 0.027,
+          "y": 0.72,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "W ogrodzie Liora pokazała Nivie swoje zioła.",
+          "en": "In the garden, Liora showed Niva her herbs."
+        },
+        {
+          "x": 0.527,
+          "y": 0.72,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "W kuchni niewielki bałagan wywołał śmiech.",
+          "en": "A little mess in the kitchen made them laugh."
+        },
+        {
+          "x": 0.027,
+          "y": 0.958,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Przy stole poznawały się na nowo.",
+          "en": "At the table, they got to know each other again."
+        },
+        {
+          "x": 0.527,
+          "y": 0.958,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Zaplanowały miejsca, które jeszcze sobie pokażą.",
+          "en": "They planned the places they would show one another."
+        }
+      ]
+    },
+    {
+      "heroId": "niva",
+      "resource": "Stories/trzy-siostry",
+      "titlePl": "Trzy drogi do domu",
+      "titleEn": "Three Roads Home",
+      "titleRect": {
+        "x": 0.2,
+        "y": 0.012,
+        "width": 0.56,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.028,
+          "y": 0.248,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Powódź zagroziła dolinie Verdan.",
+          "en": "Floodwaters threatened the Verdan valley."
+        },
+        {
+          "x": 0.526,
+          "y": 0.248,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Niva lodem podparła uszkodzoną śluzę.",
+          "en": "Niva braced the damaged sluice with ice."
+        },
+        {
+          "x": 0.028,
+          "y": 0.485,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Liora skierowała wodę z dala od domów i lecznicy.",
+          "en": "Liora diverted the water from homes and the clinic."
+        },
+        {
+          "x": 0.526,
+          "y": 0.485,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Elira odkryła, że droga na mapie jest zalana.",
+          "en": "Elira found that the mapped road was flooded."
+        },
+        {
+          "x": 0.028,
+          "y": 0.713,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Śluza wytrzymała, lecz woda zabrała część pól.",
+          "en": "The sluice held, but the water claimed some fields."
+        },
+        {
+          "x": 0.526,
+          "y": 0.713,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Elira pomogła ratownikom znaleźć inną drogę.",
+          "en": "Elira helped the rescuers find another route."
+        },
+        {
+          "x": 0.028,
+          "y": 0.96,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Ocalenie domów miało swoją cenę.",
+          "en": "Saving the homes came at a cost."
+        },
+        {
+          "x": 0.526,
+          "y": 0.96,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Razem zaczęły odbudowę doliny.",
+          "en": "Together, they began rebuilding the valley."
+        }
+      ]
+    },
+    {
+      "heroId": "liora",
+      "resource": "Stories/trzy-siostry",
+      "titlePl": "Trzy drogi do domu",
+      "titleEn": "Three Roads Home",
+      "titleRect": {
+        "x": 0.2,
+        "y": 0.012,
+        "width": 0.56,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.028,
+          "y": 0.248,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Powódź zagroziła dolinie Verdan.",
+          "en": "Floodwaters threatened the Verdan valley."
+        },
+        {
+          "x": 0.526,
+          "y": 0.248,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Niva lodem podparła uszkodzoną śluzę.",
+          "en": "Niva braced the damaged sluice with ice."
+        },
+        {
+          "x": 0.028,
+          "y": 0.485,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Liora skierowała wodę z dala od domów i lecznicy.",
+          "en": "Liora diverted the water from homes and the clinic."
+        },
+        {
+          "x": 0.526,
+          "y": 0.485,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Elira odkryła, że droga na mapie jest zalana.",
+          "en": "Elira found that the mapped road was flooded."
+        },
+        {
+          "x": 0.028,
+          "y": 0.713,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Śluza wytrzymała, lecz woda zabrała część pól.",
+          "en": "The sluice held, but the water claimed some fields."
+        },
+        {
+          "x": 0.526,
+          "y": 0.713,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Elira pomogła ratownikom znaleźć inną drogę.",
+          "en": "Elira helped the rescuers find another route."
+        },
+        {
+          "x": 0.028,
+          "y": 0.96,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Ocalenie domów miało swoją cenę.",
+          "en": "Saving the homes came at a cost."
+        },
+        {
+          "x": 0.526,
+          "y": 0.96,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Razem zaczęły odbudowę doliny.",
+          "en": "Together, they began rebuilding the valley."
+        }
+      ]
+    },
+    {
+      "heroId": "elira",
+      "resource": "Stories/trzy-siostry",
+      "titlePl": "Trzy drogi do domu",
+      "titleEn": "Three Roads Home",
+      "titleRect": {
+        "x": 0.2,
+        "y": 0.012,
+        "width": 0.56,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.028,
+          "y": 0.248,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Powódź zagroziła dolinie Verdan.",
+          "en": "Floodwaters threatened the Verdan valley."
+        },
+        {
+          "x": 0.526,
+          "y": 0.248,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Niva lodem podparła uszkodzoną śluzę.",
+          "en": "Niva braced the damaged sluice with ice."
+        },
+        {
+          "x": 0.028,
+          "y": 0.485,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Liora skierowała wodę z dala od domów i lecznicy.",
+          "en": "Liora diverted the water from homes and the clinic."
+        },
+        {
+          "x": 0.526,
+          "y": 0.485,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Elira odkryła, że droga na mapie jest zalana.",
+          "en": "Elira found that the mapped road was flooded."
+        },
+        {
+          "x": 0.028,
+          "y": 0.713,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Śluza wytrzymała, lecz woda zabrała część pól.",
+          "en": "The sluice held, but the water claimed some fields."
+        },
+        {
+          "x": 0.526,
+          "y": 0.713,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Elira pomogła ratownikom znaleźć inną drogę.",
+          "en": "Elira helped the rescuers find another route."
+        },
+        {
+          "x": 0.028,
+          "y": 0.96,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Ocalenie domów miało swoją cenę.",
+          "en": "Saving the homes came at a cost."
+        },
+        {
+          "x": 0.526,
+          "y": 0.96,
+          "width": 0.44,
+          "height": 0.029,
+          "pl": "Razem zaczęły odbudowę doliny.",
+          "en": "Together, they began rebuilding the valley."
+        }
+      ]
+    },
+    {
+      "heroId": "dara",
+      "resource": "Stories/dara-na-czatach",
+      "titlePl": "Na czatach",
+      "titleEn": "Standing Watch",
+      "titleRect": {
+        "x": 0.16,
+        "y": 0.012,
+        "width": 0.68,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.035,
+          "y": 0.255,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Dara pilnowała wejścia, gdy oddział wszedł do wieży.",
+          "en": "Dara guarded the entrance while her unit entered the tower."
+        },
+        {
+          "x": 0.535,
+          "y": 0.255,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Za drzwiami usłyszała podniesione głosy.",
+          "en": "Behind the door, she heard raised voices."
+        },
+        {
+          "x": 0.035,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "W wynoszonej skrzyni zobaczyła pęknięty kryształ.",
+          "en": "She saw a cracked crystal in the crate they carried out."
+        },
+        {
+          "x": 0.535,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Potem nadeszła Noc Zgasłych Wież.",
+          "en": "Then came the Night of the Darkened Towers."
+        },
+        {
+          "x": 0.035,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Dawny oddział zniknął, nie dając jej odpowiedzi.",
+          "en": "Her old unit vanished, leaving her without answers."
+        },
+        {
+          "x": 0.535,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Dara uczyła się naprawiać uszkodzone urządzenia.",
+          "en": "Dara learned to repair damaged devices."
+        },
+        {
+          "x": 0.035,
+          "y": 0.954,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Swój lęk zachowała przed towarzyszami w tajemnicy.",
+          "en": "She kept her fear secret from her companions."
+        },
+        {
+          "x": 0.535,
+          "y": 0.954,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Odtąd nie chciała zostawiać nikogo samego na warcie.",
+          "en": "From then on, she did not want anyone to stand watch alone."
+        }
+      ]
+    },
+    {
+      "heroId": "dara",
+      "resource": "Stories/dara-dzwiek-pekniecia",
+      "titlePl": "Dźwięk pęknięcia",
+      "titleEn": "The Sound of a Crack",
+      "titleRect": {
+        "x": 0.2,
+        "y": 0.012,
+        "width": 0.58,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.032,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "„Jeszcze chwilę” — Dara nasłuchiwała podpory.",
+          "en": "“One more moment.” Dara listened to the support."
+        },
+        {
+          "x": 0.532,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Ten dźwięk przypomniał jej dawną wartę.",
+          "en": "The sound reminded her of an old watch."
+        },
+        {
+          "x": 0.032,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "„Co się stało?” — zapytała o pęknięty kryształ.",
+          "en": "“What happened?” she asked about the cracked crystal."
+        },
+        {
+          "x": 0.532,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "„Nie otwieramy. Muszę sprawdzić podporę.”",
+          "en": "“We cannot open it. I need to inspect the support.”"
+        },
+        {
+          "x": 0.032,
+          "y": 0.695,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Wiedziała, że ekipa może stracić zapłatę.",
+          "en": "She knew the crew might lose their wages."
+        },
+        {
+          "x": 0.532,
+          "y": 0.695,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Odkryli uszkodzenie. Robotnicy wciąż tracili dzień pracy.",
+          "en": "They found the damage. The crew still lost a day’s work."
+        },
+        {
+          "x": 0.032,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Wspólnie planowali naprawę; Dara milczała o przeszłości.",
+          "en": "They planned repairs together; Dara kept her past to herself."
+        },
+        {
+          "x": 0.532,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Zapisała nazwiska dawnych towarzyszy. Czy zapyta ich o prawdę?",
+          "en": "She wrote her old companions’ names. Would she ask them the truth?"
+        }
+      ]
+    },
+    {
+      "heroId": "dara",
+      "resource": "Stories/dara-twarze-w-tlumie",
+      "titlePl": "Twarze w tłumie",
+      "titleEn": "Faces in the Crowd",
+      "titleRect": { "x": 0.19, "y": 0.012, "width": 0.62, "height": 0.035 },
+      "panels": [
+        { "x": 0.03, "y": 0.255, "width": 0.445, "height": 0.029, "pl": "Dara spisała nazwiska dawnego oddziału.", "en": "Dara wrote down her old unit's names." },
+        { "x": 0.53, "y": 0.255, "width": 0.445, "height": 0.029, "pl": "Na Igrzyska mieli przybyć ludzie z różnych krain.", "en": "People from many realms would come to the Games." },
+        { "x": 0.03, "y": 0.47, "width": 0.445, "height": 0.029, "pl": "Górnicy szukali kogoś, kto zna ich pracę.", "en": "The miners sought someone who knew their work." },
+        { "x": 0.53, "y": 0.47, "width": 0.445, "height": 0.029, "pl": "Mogła wesprzeć ekipę i szukać odpowiedzi.", "en": "She could support her crew and seek answers." },
+        { "x": 0.03, "y": 0.69, "width": 0.445, "height": 0.029, "pl": "„Szukam ludzi z dawnego oddziału” — wyznała.", "en": "“I'm looking for my old unit,” she confided." },
+        { "x": 0.53, "y": 0.69, "width": 0.445, "height": 0.029, "pl": "Zgłosiła się, by walczyć o bezpieczeństwo ekip.", "en": "She put herself forward for the crews' safety." },
+        { "x": 0.03, "y": 0.948, "width": 0.445, "height": 0.029, "pl": "Wśród przybyłych szukała znajomych twarzy.", "en": "Among the arrivals, she searched for familiar faces." },
+        { "x": 0.53, "y": 0.948, "width": 0.445, "height": 0.029, "pl": "Ktoś wydał jej się znajomy. Czy pozna prawdę?", "en": "Someone looked familiar. Would she learn the truth?" }
+      ]
+    },
+    {
+      "heroId": "nocten",
+      "resource": "Stories/nocten-slad-na-mapie",
+      "titlePl": "Ślad na mapie",
+      "titleEn": "A Road on the Map",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Nocten znalazł w archiwum mapę Eryndoru.",
+          "en": "Nocten found a map of Eryndor in the archive."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Droga prowadziła do miasta ze snów.",
+          "en": "A road led to the city from his dreams."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Miasta za wysokimi, białymi murami.",
+          "en": "A city behind high, white walls."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "„Może jednak niczego nie wymyśliłem.”",
+          "en": "“Perhaps I didn't imagine it after all.”"
+        },
+        {
+          "x": 0.03,
+          "y": 0.695,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Następnego dnia wrócił do archiwum.",
+          "en": "The next day, he returned to the archive."
+        },
+        {
+          "x": 0.53,
+          "y": 0.695,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Ta sama droga prowadziła gdzie indziej.",
+          "en": "The same road now led somewhere else."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Archiwistka: „Ta mapa się nie zmieniła”.",
+          "en": "The archivist: “This map hasn't changed.”"
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Czy zmieniła się mapa, czy jego wspomnienie?",
+          "en": "Had the map changed, or had his memory?"
+        }
+      ]
+    },
+    {
+      "heroId": "nocten",
+      "resource": "Stories/nocten-tamtym-nie-wierz",
+      "titlePl": "Tym razem nie wierz Noctenowi",
+      "titleEn": "This Time, Don't Believe Nocten",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "W noc przed Igrzyskami Nocten siedział sam.",
+          "en": "On the night before the Games, Nocten sat alone."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Postanowił zapisać to, czego jest pewien.",
+          "en": "He decided to write down what he knew for certain."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "„Nazywam się Nocten. Mam 68 lat”.",
+          "en": "“My name is Nocten. I am 68 years old.”"
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "„Urodziłem się na północy Eryndoru”.",
+          "en": "“I was born in northern Eryndor.”"
+        },
+        {
+          "x": 0.03,
+          "y": 0.695,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Przez chwilę patrzył na zapisane słowa.",
+          "en": "For a moment, he studied the words."
+        },
+        {
+          "x": 0.53,
+          "y": 0.695,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Na kolejnej stronie czekała notatka.",
+          "en": "A note waited on the next page."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "„Tym razem nie wierz Noctenowi”.",
+          "en": "“This time, don't believe Nocten.”"
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Zgasił świecę. A może w ciemności ktoś szepnął: „Znowu zapomniałeś”?",
+          "en": "He blew out the candle. Or did someone whisper in the dark, “You forgot again”?"
+        }
+      ]
+    },
+    {
+      "heroId": "nocten",
+      "resource": "Stories/nocten-pierwsza-lekcja",
+      "titlePl": "Pierwsza lekcja",
+      "titleEn": "The First Lesson",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "W starych zapisach Nocten szukał śladów dzieciństwa.",
+          "en": "Nocten searched old records for traces of his childhood."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Pamiętał deszczowy wieczór i drogę do szkoły.",
+          "en": "He remembered a rainy evening and the way to school."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Nauczyciel pokazał mu, jak pracować z cieniem.",
+          "en": "His teacher showed him how to work with shadow."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Nocten pamiętał tę lekcję wyraźnie.",
+          "en": "Nocten remembered that lesson vividly."
+        },
+        {
+          "x": 0.03,
+          "y": 0.695,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Ale księga podawała inną datę.",
+          "en": "But the ledger gave a different date."
+        },
+        {
+          "x": 0.53,
+          "y": 0.695,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Według zapisu szkoła była wtedy zamknięta.",
+          "en": "According to the record, the school was closed that day."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "W zeszycie znalazł dwa różne obrazy tej lekcji.",
+          "en": "In his notebook, he found two versions of the lesson."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Pomylił datę — czy coś więcej?",
+          "en": "Had he mistaken the date—or something more?"
+        }
+      ]
+    },
+    {
+      "heroId": "rian",
+      "resource": "Stories/rian-jedenascie-minut",
+      "titlePl": "Jedenaście minut",
+      "titleEn": "Eleven Minutes",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Rian znała słabe punkty obrony Val Meris.",
+          "en": "Rian knew the weak points in Val Meris's defenses."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Za kolejne zlecenie zapłacono jej z góry.",
+          "en": "She was paid in advance for another job."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Mogła osłabić wieże, nie wyłączając alarmu.",
+          "en": "She could weaken the towers without disabling the alarm."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Wyłączyła obronę. Przez jedenaście minut Val Meris milczało.",
+          "en": "She silenced the defenses. Val Meris was quiet for eleven minutes."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Napastnicy przedostali się przez bramę.",
+          "en": "The attackers broke through the gate."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Walki dotarły do dzielnicy mieszkalnej.",
+          "en": "The fighting reached a residential district."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Zginęli żołnierze, strażnicy i cywile.",
+          "en": "Soldiers, guards and civilians died."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Rian przeczytała kolejne zlecenie. I je przyjęła.",
+          "en": "Rian read the next contract—and accepted it."
+        }
+      ]
+    },
+    {
+      "heroId": "rian",
+      "resource": "Stories/rian-uczen",
+      "titlePl": "Uczeń",
+      "titleEn": "The Apprentice",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Młody mechanik z dumą pokazał Rian swój wynalazek.",
+          "en": "A young mechanic proudly showed Rian his invention."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "„Chcę, żeby wreszcie mnie potrzebowali”.",
+          "en": "“I want them to finally need me.”"
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Rian usłyszała w tym własne dawne słowa.",
+          "en": "Rian heard her own old words in his."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Gdy bandyci ruszyli na osadę, wieża milczała.",
+          "en": "When raiders attacked the settlement, the tower was silent."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Zginęli ludzie. „Nie chciałem nikogo skrzywdzić”.",
+          "en": "People died. “I didn't want anyone to get hurt.”"
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "„Wiem” — odpowiedziała. Pomogła mu naprawić wieżę.",
+          "en": "“I know,” she said. She helped him repair the tower."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Rian przestała udawać, że jej wybory nic nie znaczą.",
+          "en": "Rian stopped pretending her choices meant nothing."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Po raz pierwszy nie szukała dla siebie wymówki.",
+          "en": "For the first time, she made no excuse for herself."
+        }
+      ]
+    },
+    {
+      "heroId": "rian",
+      "resource": "Stories/rian-zeznania-odbudowa",
+      "titlePl": "Zeznania i odbudowa",
+      "titleEn": "Testimony and Rebuilding",
+      "titleRect": {
+        "x": 0.16,
+        "y": 0.012,
+        "width": 0.68,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Po wojnie Rian sama zgłosiła się do komisji.",
+          "en": "After the war, Rian went to the commission herself."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Przyniosła dowody i nazwiska zleceniodawców.",
+          "en": "She brought evidence and the names of her clients."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Przez tygodnie zeznawała o celowych awariach.",
+          "en": "For weeks, she testified about deliberate failures."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Rodziny poznawały prawdę o tym, co się stało.",
+          "en": "Families learned the truth about what had happened."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Została skazana. Straciła majątek i uprawnienia.",
+          "en": "She was convicted and lost her wealth and authorization."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Pod nadzorem pomagała odbudowywać wieże.",
+          "en": "Under supervision, she helped rebuild the towers."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Nie prosiła rodzin ofiar o przebaczenie.",
+          "en": "She did not ask the victims' families for forgiveness."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Po odbyciu kary zaczęła uczyć bezpiecznego rzemiosła.",
+          "en": "After serving her sentence, she began teaching safer craft."
+        }
+      ]
+    },
+    {
+      "heroId": "rian",
+      "resource": "Stories/rian-proba-bez-tajemnic",
+      "titlePl": "Próba bez tajemnic",
+      "titleEn": "A Trial in the Open",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Na Igrzyskach Rian stanęła przed publicznością.",
+          "en": "At the Games, Rian stood before the crowd."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Pod nadzorem miała sprawdzić obronę.",
+          "en": "Under supervision, she was there to test the defenses."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Rian od razu dostrzegła słabe punkty.",
+          "en": "Rian spotted the weak points at once."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Tym razem obrońcy mogli się przygotować.",
+          "en": "This time, the defenders could prepare."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Po próbie pokazała, co inni przeoczyli.",
+          "en": "After the test, she showed what others had missed."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Syn ofiary zapytał: „Czym to się różni?”",
+          "en": "A victim's son asked, “How is this different?”"
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "„Mój ojciec nie miał wyboru” — przypomniał.",
+          "en": "“My father had no choice,” he reminded her."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "„Nie” — przyznała. Potem wróciła do nauczania.",
+          "en": "“No,” she admitted. Then she returned to teaching."
+        }
+      ]
+    },
+    {
+      "heroId": "neris",
+      "resource": "Stories/neris-raport-zaufania",
+      "titlePl": "Raport, który zbudował zaufanie",
+      "titleEn": "The Report That Earned Their Trust",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        { "x": 0.03, "y": 0.25, "width": 0.445, "height": 0.03, "pl": "Neris znała trasy i terminy konwojów.", "en": "Neris knew the convoys’ routes and schedules." },
+        { "x": 0.53, "y": 0.25, "width": 0.445, "height": 0.03, "pl": "Przewoźnicy ufali jej ocenie.", "en": "The carriers trusted her judgment." },
+        { "x": 0.03, "y": 0.482, "width": 0.445, "height": 0.03, "pl": "To ona wskazała miejsce napaści.", "en": "She chose where the attack would happen." },
+        { "x": 0.53, "y": 0.482, "width": 0.445, "height": 0.03, "pl": "W raporcie zatarła ślady powiązań.", "en": "She erased the links from her report." },
+        { "x": 0.03, "y": 0.703, "width": 0.445, "height": 0.03, "pl": "Po wszystkim przyszła z pomocą.", "en": "Afterward, she arrived to help." },
+        { "x": 0.53, "y": 0.703, "width": 0.445, "height": 0.03, "pl": "Jej ostrzeżeniom ufano jeszcze bardziej.", "en": "Her warnings earned even more trust." },
+        { "x": 0.03, "y": 0.948, "width": 0.445, "height": 0.03, "pl": "Sprzedawała trasy, które sama kontrolowała.", "en": "She sold routes she secretly controlled." },
+        { "x": 0.53, "y": 0.948, "width": 0.445, "height": 0.03, "pl": "Dla Neris zaufanie było zyskiem.", "en": "To Neris, trust was another profit." }
+      ]
+    },
+    {
+      "heroId": "neris",
+      "resource": "Stories/neris-cena-trasy",
+      "titlePl": "Cena bezpiecznej trasy",
+      "titleEn": "The Price of a Safe Route",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        { "x": 0.03, "y": 0.25, "width": 0.445, "height": 0.03, "pl": "Przewoźnik przyniósł jej nowe informacje.", "en": "A carrier brought her new information." },
+        { "x": 0.53, "y": 0.25, "width": 0.445, "height": 0.03, "pl": "Neris cierpliwie wysłuchała jego prośby.", "en": "Neris patiently listened to his request." },
+        { "x": 0.03, "y": 0.482, "width": 0.445, "height": 0.03, "pl": "Każdy szczegół trafiał do jej rejestru.", "en": "She recorded every useful detail." },
+        { "x": 0.53, "y": 0.482, "width": 0.445, "height": 0.03, "pl": "Najemnicy poznali trasę i porę przejazdu.", "en": "The hired men learned the route and time." },
+        { "x": 0.03, "y": 0.703, "width": 0.445, "height": 0.03, "pl": "Inny konwój trafił w przygotowaną zasadzkę.", "en": "Another convoy rode into the planned ambush." },
+        { "x": 0.53, "y": 0.703, "width": 0.445, "height": 0.03, "pl": "Temu, który jej zapłacił, wskazała bezpieczny szlak.", "en": "The paying carrier received a safe passage." },
+        { "x": 0.03, "y": 0.948, "width": 0.445, "height": 0.03, "pl": "Z raportu znów zniknął ważny szczegół.", "en": "Once again, a key detail vanished from the report." },
+        { "x": 0.53, "y": 0.948, "width": 0.445, "height": 0.03, "pl": "Neris zamieniła cudze ryzyko w zysk.", "en": "Neris turned other people’s risk into profit." }
+      ]
+    },
+    {
+      "heroId": "neris",
+      "resource": "Stories/neris-igrzyska",
+      "titlePl": "Obietnica na Igrzyskach",
+      "titleEn": "A Promise at the Games",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        { "x": 0.03, "y": 0.25, "width": 0.445, "height": 0.03, "pl": "Neris obiecała uczciwy system ostrzeżeń.", "en": "Neris promised a fair warning system." },
+        { "x": 0.53, "y": 0.25, "width": 0.445, "height": 0.03, "pl": "Przewoźnicy powierzyli jej swoje mapy.", "en": "Carriers entrusted her with their maps." },
+        { "x": 0.03, "y": 0.482, "width": 0.445, "height": 0.03, "pl": "Jej prywatna mapa szybko się zapełniła.", "en": "Her private map quickly filled with routes." },
+        { "x": 0.53, "y": 0.482, "width": 0.445, "height": 0.03, "pl": "Jeden świadek rozpoznał znak napaści.", "en": "One witness recognized a mark from an attack." },
+        { "x": 0.03, "y": 0.703, "width": 0.445, "height": 0.03, "pl": "Neris nie zdradziła po sobie niepokoju.", "en": "Neris gave no sign of alarm." },
+        { "x": 0.53, "y": 0.703, "width": 0.445, "height": 0.03, "pl": "Publicznie ostrzegła ich przed realnym zagrożeniem.", "en": "In public, she warned them of a real danger." },
+        { "x": 0.03, "y": 0.948, "width": 0.445, "height": 0.03, "pl": "Świadek obiecał przekazać jej kolejny ślad.", "en": "The witness promised to bring her another clue." },
+        { "x": 0.53, "y": 0.948, "width": 0.445, "height": 0.03, "pl": "Neris dopisała jego trasę do rejestru.", "en": "Neris added his route to her ledger." }
+      ]
+    },
+    {
+      "heroId": "adrien",
+      "resource": "Stories/adrien-sygnal-ktory-zwiodl",
+      "titlePl": "Sygnał, który zwiódł",
+      "titleEn": "The Beacon That Misled",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25603,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Adrien pokazał wojsku swój pryzmatyczny sygnalizator.",
+          "en": "Adrien presented his prismatic signal device."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25603,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Techniczka ostrzegła go przed pękającym mocowaniem.",
+          "en": "A technician warned him about the cracking mount."
+        },
+        {
+          "x": 0.03,
+          "y": 0.49055,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Adrien odrzucił jej zastrzeżenia.",
+          "en": "Adrien dismissed her concern."
+        },
+        {
+          "x": 0.53,
+          "y": 0.49055,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Konwój ruszył za światłem urządzenia.",
+          "en": "The convoy followed the device's light."
+        },
+        {
+          "x": 0.03,
+          "y": 0.72638,
+          "width": 0.44,
+          "height": 0.02085,
+          "pl": "Kryształ pękł. Sygnał rozszczepił się na dwa.",
+          "en": "The crystal cracked. Its signal split in two."
+        },
+        {
+          "x": 0.53,
+          "y": 0.72638,
+          "width": 0.44,
+          "height": 0.02085,
+          "pl": "Wóz skręcił ku osuwisku.",
+          "en": "The cart turned toward the rockslide."
+        },
+        {
+          "x": 0.03,
+          "y": 0.957,
+          "width": 0.44,
+          "height": 0.02345,
+          "pl": "Przewodnik zginął. Adrien zobaczył pęknięte mocowanie.",
+          "en": "The guide died. Adrien saw the fractured mount."
+        },
+        {
+          "x": 0.53,
+          "y": 0.957,
+          "width": 0.44,
+          "height": 0.02345,
+          "pl": "Przyznał się do błędu i zaczął przebudowę.",
+          "en": "He admitted the flaw and began a redesign."
+        }
+      ]
+    },
+    {
+      "heroId": "adrien",
+      "resource": "Stories/adrien-kopia-bez-podpisu",
+      "titlePl": "Kopia bez podpisu",
+      "titleEn": "A Copy Without a Signature",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25603,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Odnaleziony podzespół przypominał projekt Adriena.",
+          "en": "A recovered component resembled Adrien's design."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25603,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Szkic wskazał pęknięcie mocowania.",
+          "en": "A close inspection revealed a cracked mount."
+        },
+        {
+          "x": 0.03,
+          "y": 0.49055,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Najpierw sprawdził urządzenie w warsztacie.",
+          "en": "He tested the device in his workshop."
+        },
+        {
+          "x": 0.53,
+          "y": 0.49055,
+          "width": 0.44,
+          "height": 0.02215,
+          "pl": "Konwój czekał, aż ekipa oceni szlak.",
+          "en": "The convoy waited while the crew checked the route."
+        },
+        {
+          "x": 0.03,
+          "y": 0.72638,
+          "width": 0.44,
+          "height": 0.02085,
+          "pl": "Odkrył wadę wspólną dla kopii i własnego projektu.",
+          "en": "He found a flaw shared by the copy and his design."
+        },
+        {
+          "x": 0.53,
+          "y": 0.72638,
+          "width": 0.44,
+          "height": 0.02085,
+          "pl": "Pokazał ekipie swoje plany i dokumentację.",
+          "en": "He opened his plans and records to the crew."
+        },
+        {
+          "x": 0.03,
+          "y": 0.957,
+          "width": 0.44,
+          "height": 0.02345,
+          "pl": "Wspólnie dodali zapasowy sygnał i zabezpieczenie.",
+          "en": "Together they added a backup signal and safeguard."
+        },
+        {
+          "x": 0.53,
+          "y": 0.957,
+          "width": 0.44,
+          "height": 0.02345,
+          "pl": "Po niezależnym teście konwój ruszył.",
+          "en": "After an independent test, the convoy moved on."
         }
       ]
     }
