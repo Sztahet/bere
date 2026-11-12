@@ -89,7 +89,7 @@ Usiadłam, żeby poprawić zapis. Dopisałam: „Niepotwierdzone. Ostatni wiaryg
 
 Lubiłam takie chwile. Przy stole ludzie mówili o sprawach, które w wielkich salach brzmiałyby zbyt mało ważnie: komu przemokły rękawice, kto oddał ostatnią świecę, ile jeszcze zostało mąki w górnym magazynie. Ale właśnie z takich rzeczy składało się bezpieczeństwo. Nie z jednej wieży ani jednego zaklęcia. Z wielu małych decyzji, których nie dało się podjąć raz na zawsze.
 
-Kiedy wracałam, minęłam dwa wozy jadące w dół. Jeden miał na burcie ślad po naprawie; worek wieziony na drugim przykryto płótnem. Przewoźnicy zapytali, czy droga przy strumieniu jest jeszcze otwarta. Powiedziałam, co wiedziałam, i dodałam, czego nie sprawdziłam.
+Kiedy wracałam, minęłam dwa wozy jadące w dół. Na jednym widać było ślady niedawnej naprawy, a na drugim leżał worek przykryty płótnem. Przewoźnicy zapytali, czy droga przy strumieniu jest jeszcze otwarta. Powiedziałam, co wiedziałam, i dodałam, czego nie sprawdziłam.
 
 — Czyli nie wiesz — powiedział jeden z nich.
 
