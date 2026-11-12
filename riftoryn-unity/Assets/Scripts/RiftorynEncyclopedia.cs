@@ -1,8 +1,10 @@
 using System;
 using UnityEngine;
 
-[Serializable] public class EncyclopediaPlace { public string id,name,nameEn,region,arena,desc,history,trial; public float x,y; }
-[Serializable] public class EncyclopediaWorld { public EncyclopediaPlace[] places; }
+[Serializable] public class EncyclopediaPlace { public string id,name,nameEn,region,arena,desc,history,trial,status12,situation12,risk12,needs12,status12En,situation12En,risk12En,needs12En; public float x,y; }
+[Serializable] public class EncyclopediaPoint { public float x,y; }
+[Serializable] public class EncyclopediaRoute { public string id,name,nameEn,status,statusEn,description,descriptionEn,fromId,toId,risk,riskEn,needs,needsEn; public bool secondary; public EncyclopediaPoint[] points; }
+[Serializable] public class EncyclopediaWorld { public EncyclopediaPlace[] places; public EncyclopediaRoute[] routes; }
 [Serializable] public class EncyclopediaElement { public string id,name,a,b; public string[] baseText,aText,bText,t3; }
 [Serializable] public class EncyclopediaTree { public EncyclopediaElement[] elements; }
 
@@ -11,7 +13,7 @@ public partial class RiftorynMenu
     EncyclopediaWorld encyclopediaWorld;
     EncyclopediaTree encyclopediaTree;
     Texture2D worldImage;
-    int worldSelected, elementSelected, treeElement, treeNode, treeBudget=2000;
+    int worldSelected, worldRouteSelected=-1, elementSelected, treeElement, treeNode, treeBudget=2000;
     readonly int[,] treeFunding=new int[7,4];
     readonly int[] treeBranch=new int[7];
     Vector2 worldDetailsScroll,treeDetailsScroll;
@@ -66,33 +68,78 @@ public partial class RiftorynMenu
         worldImage=Resources.Load<Texture2D>("Timeline/riftoryn-mapa-swiata-v1");
     }
     static string PlaceName(EncyclopediaPlace place)=>RiftorynL10n.CurrentCode=="EN"&&!string.IsNullOrEmpty(place.nameEn)?place.nameEn:place.name;
+    static string WorldLang(string pl,string en)=>RiftorynL10n.CurrentCode=="EN"&&!string.IsNullOrEmpty(en)?en:pl;
+    static Vector2 WorldPoint(Rect image,EncyclopediaPoint point)=>new(image.x+image.width*point.x/100f,image.y+image.height*point.y/100f);
+    string WorldPlaceName(string id)
+    {
+        foreach(var place in encyclopediaWorld.places)if(place.id==id)return PlaceName(place);
+        return id??"";
+    }
+    void WorldRouteLine(Vector2 a,Vector2 b,Color color,bool secondary)
+    {
+        if(!secondary){TreeLine(a,b,color);return;}
+        float distance=Vector2.Distance(a,b);int parts=Mathf.Max(1,Mathf.CeilToInt(distance/8f));
+        for(int i=0;i<parts;i+=2)TreeLine(Vector2.Lerp(a,b,(float)i/parts),Vector2.Lerp(a,b,(float)Mathf.Min(i+1,parts)/parts),color);
+    }
     void WorldEncyclopedia()
     {
         LoadWorld();Frame(new Rect(50,270,1500,570),panel);
-        Text(new Rect(75,287,900,32),RiftorynCodexData.Text("MAPA ŚWIATA  /  RIFTORYN","WORLD MAP  /  RIFTORYN"),section);
-        Text(new Rect(77,327,1400,30),RiftorynCodexData.Text("Układ i położenie ośrodków są koncepcyjne; granice nie zostały ustalone. Wybierz znacznik lub nazwę, aby poznać miejsce i jego historię.","The layout and locations are concepts; borders have not been established. Select a marker or name to discover a place and its history."),mutedText);
+        Text(new Rect(75,287,900,32),RiftorynCodexData.Text("RIFTORYN  /  STAN ŚWIATA · 12 ET","RIFTORYN  /  WORLD STATUS · 12 AT"),section);
+        Text(new Rect(77,327,1400,30),RiftorynCodexData.Text("Wybierz miasto lub numer szlaku. Linia przerywana: mniej strzeżony szlak. Przebieg jest schematyczny.","Select a city or route number. Dashed line: less guarded route. Lines are schematic."),mutedText);
         if(encyclopediaWorld.places==null||encyclopediaWorld.places.Length==0)return;
         Rect map=new(77,365,820,390);Fill(map,panelAlt);
+        var routes=encyclopediaWorld.routes;
         if(worldImage)
         {
             float ratio=(float)worldImage.width/worldImage.height;float w=Mathf.Min(map.width,map.height*ratio),h=w/ratio;
             Rect img=new(map.center.x-w/2,map.center.y-h/2,w,h);GUI.DrawTexture(img,worldImage,ScaleMode.StretchToFill);
+            if(routes!=null)
+            {
+                for(int i=0;i<routes.Length;i++)
+                {
+                    var route=routes[i];if(route.points==null||route.points.Length<2)continue;
+                    Color routeColor=i==worldRouteSelected?gold:route.secondary?new Color(.95f,.50f,.33f,.95f):new Color(.88f,.79f,.59f,.85f);
+                    for(int j=1;j<route.points.Length;j++)WorldRouteLine(WorldPoint(img,route.points[j-1]),WorldPoint(img,route.points[j]),routeColor,route.secondary);
+                }
+                for(int i=0;i<routes.Length;i++)
+                {
+                    var route=routes[i];if(route.points==null||route.points.Length<2)continue;
+                    int j=(route.points.Length-1)/2;Vector2 point=Vector2.Lerp(WorldPoint(img,route.points[j]),WorldPoint(img,route.points[j+1]),.5f);
+                    Rect marker=new(point.x-11,point.y-11,22,22);Fill(marker,i==worldRouteSelected?gold:new Color(.12f,.09f,.12f,.96f));
+                    if(GUI.Button(marker,(i+1).ToString())){worldRouteSelected=i;worldDetailsScroll=Vector2.zero;}
+                }
+            }
             for(int i=0;i<encyclopediaWorld.places.Length;i++)
             {
                 var p=encyclopediaWorld.places[i];Rect marker=new(img.x+img.width*p.x/100-10,img.y+img.height*p.y/100-10,20,20);
-                Fill(marker,i==worldSelected?gold:new Color(.18f,.12f,.16f,.95f));
-                if(GUI.Button(marker,"✦")){worldSelected=i;worldDetailsScroll=Vector2.zero;}
+                Fill(marker,worldRouteSelected<0&&i==worldSelected?gold:new Color(.18f,.12f,.16f,.95f));
+                if(GUI.Button(marker,"✦")){worldSelected=i;worldRouteSelected=-1;worldDetailsScroll=Vector2.zero;}
             }
         }
         for(int i=0;i<encyclopediaWorld.places.Length;i++)
         {
             float x=77+(i%4)*205,y=764+(i/4)*27;Rect b=new(x,y,198,24);
-            if(Click(b,PlaceName(encyclopediaWorld.places[i]),i==worldSelected)){worldSelected=i;worldDetailsScroll=Vector2.zero;}
+            if(Click(b,PlaceName(encyclopediaWorld.places[i]),worldRouteSelected<0&&i==worldSelected)){worldSelected=i;worldRouteSelected=-1;worldDetailsScroll=Vector2.zero;}
         }
-        var place=encyclopediaWorld.places[Mathf.Clamp(worldSelected,0,encyclopediaWorld.places.Length-1)];
         Frame(new Rect(915,365,600,453),panelAlt);
-        Text(new Rect(940,383,545,25),place.region,eyebrow);Text(new Rect(940,415,545,55),PlaceName(place),section);
-        string details=place.desc+"\n\n"+RiftorynCodexData.Text("HISTORIA","HISTORY")+"\n"+place.history+"\n\n"+RiftorynCodexData.Text("OŚRODEK PRÓB","TRIAL SITE")+"  ·  "+place.arena+"\n"+place.trial+"\n\n"+RiftorynCodexData.Text("Lokalizacja i arena są propozycją fabularną.","The location and arena are story concepts.");
+        string title,subtitle,details;
+        if(routes!=null&&worldRouteSelected>=0&&worldRouteSelected<routes.Length)
+        {
+            var route=routes[worldRouteSelected];
+            title=(worldRouteSelected+1)+". "+WorldLang(route.name,route.nameEn);
+            subtitle=RiftorynCodexData.Text("SZLAK · 12 ET","ROUTE · 12 AT");
+            details=WorldPlaceName(route.fromId)+"  ↔  "+WorldPlaceName(route.toId)+"\n\n"+RiftorynCodexData.Text("STAN","STATUS")+"\n"+WorldLang(route.status,route.statusEn)+"\n\n"+WorldLang(route.description,route.descriptionEn);
+            if(!string.IsNullOrEmpty(route.risk))details+="\n\n"+RiftorynCodexData.Text("ZAGROŻENIA","RISKS")+"\n"+WorldLang(route.risk,route.riskEn);
+            if(!string.IsNullOrEmpty(route.needs))details+="\n\n"+RiftorynCodexData.Text("POTRZEBY I NAPRAWY","NEEDS AND REPAIRS")+"\n"+WorldLang(route.needs,route.needsEn);
+            details+="\n\n"+RiftorynCodexData.Text("Przebieg i nazwa są propozycją.","The route and name are proposals.");
+        }
+        else
+        {
+            var place=encyclopediaWorld.places[Mathf.Clamp(worldSelected,0,encyclopediaWorld.places.Length-1)];
+            title=PlaceName(place);subtitle=WorldLang(place.region,"CITY · 12 AT");
+            details=WorldLang(place.status12,place.status12En)+"\n\n"+WorldLang(place.situation12,place.situation12En)+"\n\n"+RiftorynCodexData.Text("ZAGROŻENIA","RISKS")+"\n"+WorldLang(place.risk12,place.risk12En)+"\n\n"+RiftorynCodexData.Text("POTRZEBY I NAPRAWY","NEEDS AND REPAIRS")+"\n"+WorldLang(place.needs12,place.needs12En)+"\n\n"+RiftorynCodexData.Text("OŚRODEK PRÓB","TRIAL SITE")+"  ·  "+RiftorynL10n.Translate(place.arena)+"\n"+RiftorynL10n.Translate(place.trial)+"\n\n"+RiftorynCodexData.Text("O MIEJSCU","ABOUT")+"\n"+RiftorynL10n.Translate(place.desc)+"\n\n"+RiftorynCodexData.Text("HISTORIA","HISTORY")+"\n"+RiftorynL10n.Translate(place.history);
+        }
+        Text(new Rect(940,383,545,25),subtitle,eyebrow);Text(new Rect(940,415,545,55),title,section);
         float height=Mathf.Max(310,body.CalcHeight(new GUIContent(details),530)+20);
         worldDetailsScroll=GUI.BeginScrollView(new Rect(940,480,550,310),worldDetailsScroll,new Rect(0,0,530,height));
         Text(new Rect(0,0,530,height),details,body);GUI.EndScrollView();

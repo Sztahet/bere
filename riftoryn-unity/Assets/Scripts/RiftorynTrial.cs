@@ -13,8 +13,9 @@ public class RiftorynTrial : MonoBehaviour
     const float RollDuration=.35f, RollSpeed=12f, RollCooldown=10f, TowerWindup=.45f;
     static readonly Vector2[] Map = { new(400,330),new(475,330),new(475,245),new(315,245),new(315,410),new(550,410),new(550,170),new(240,170),new(240,485),new(625,485),new(625,95),new(165,95),new(165,560),new(700,560),new(700,35) };
     static readonly Vector2[] SlotMap = {new(445,205),new(405,205),new(365,205),new(275,290),new(275,350),new(355,450),new(415,450),new(475,450),new(590,360),new(590,290),new(590,220),new(510,130),new(450,130),new(390,130),new(330,130),new(200,235),new(200,320),new(200,400),new(305,525),new(385,525),new(465,525),new(545,525),new(665,450),new(665,370),new(665,290),new(665,210)};
-    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
-    static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f}, Cooldowns={22,16,18,20,18,20,20,20,20}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
+    const int LucenHero = 9;
+    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten","Lucen"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
+    static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115,105}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f,5.6f}, Cooldowns={22,16,18,20,18,20,20,20,20,20}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
     static readonly Color[] TowerColors={new(1f,.30f,.12f),new(.32f,.77f,1f),new(1f,.8f,.2f),new(.32f,.83f,.4f),new(.65f,.43f,.25f),new(1f,.91f,.55f),new(.55f,.28f,.75f)};
     class Runner { public int hero; public GameObject obj; public Vector3 velocity; public float hp,shield,shieldMax,shieldTick,cooldown,attackCooldown,boost,exposure,fogTick,along,damage; public bool done; public int uses; public float chillTime, hitFlash, slowImmunity; public readonly RiftorynPeriodicEffect burn=new(), poison=new(); }
     class FloatingCombatText { public Transform anchor; public Vector3 position; public string text; public Color color; public float started, offset; }
@@ -173,11 +174,18 @@ public class RiftorynTrial : MonoBehaviour
     void Skill(Runner r)
     {
         if(r.cooldown>0)return;
-        if(r.hero>=6){if(r==player)Notify("Zdolność tej postaci nie jest jeszcze dostępna w próbie.");return;}
+        if(r.hero>=6&&r.hero!=LucenHero){if(r==player)Notify("Zdolność tej postaci nie jest jeszcze dostępna w próbie.");return;}
         if(r.hero==4){Runner other=r==player?ally:player;Runner target=other!=null&&other.hp>0&&!other.done&&other.chillTime>0&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<=8?other:r;target.chillTime=0;target.slowImmunity=2;r.cooldown=18;r.uses++;return;}
         if(r.hero==5){healingPosition=r.obj.transform.position;healingTime=5;healingTick=1;UpdateHealingRing();r.cooldown=20;r.uses++;return;}
         Tower t=Nearest(r,17.4f);if(r.hero!=0&&r.hero!=3&&t==null){if(r==player)Notify("Podejdź bliżej wieży, aby użyć umiejętności.");return;}
         if(r.hero==3){var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.Fly()){if(r==player)Notify(RiftorynCodexData.Text("Patka jest niedostępna.","Patsy is unavailable."));return;}}
+        if (r.hero == LucenHero)
+        {
+            t.disabled = Mathf.Max(t.disabled, 2.5f);
+            r.cooldown = Cooldowns[LucenHero];
+            r.uses++;
+            return;
+        }
         r.cooldown=Cooldowns[r.hero];r.uses++;if(r.hero==3){}else if(r.hero==0){AddShield(r,100);Runner other=r==player?ally:player;if(other!=null&&other.hp>0&&!other.done&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<9)AddShield(other,50);}else if(r.hero==1)HitTower(t,100);else{t.disabled=2;r.boost=2;}
     }
     void StepHealing(float dt)
@@ -289,7 +297,9 @@ public class RiftorynTrial : MonoBehaviour
     {
         if(victim.hp<=0||victim.done)return;
         if(IsDodging(victim)){ShowCombatText(victim,"DODGE",Color.white);return;}
-        float direct=baseDamage*(victim.hero==1&&type==0?.85f:1f);
+        float direct = baseDamage;
+        if (victim.hero == 1 && type == 0) direct *= .85f;
+        if (victim.hero == LucenHero && type == 2) direct *= .75f;
         Damage(victim,direct,true,true,"WIEŻA: "+TowerNames[type].ToUpperInvariant());
         if(victim.hp<=0)return;
         if(type==0)victim.burn.Apply(3,3);
@@ -599,10 +609,11 @@ public class RiftorynTrial : MonoBehaviour
     {
         if(selectedHero==4)return "NIVA · Q: usuwa spowolnienie u najbliższego spowolnionego sojusznika w zasięgu, w przeciwnym razie u siebie; 2 s odporności.";
         if(selectedHero==5)return "LIORA · Q: pole pod postacią leczy pobliskich sojuszników przez 5 s.";
-        if(selectedHero>=6)return HeroNames[selectedHero].ToUpperInvariant()+" · umiejętność niedostępna w tym prototypie.";
+        if(selectedHero>=6&&selectedHero!=LucenHero)return HeroNames[selectedHero].ToUpperInvariant()+" · umiejętność niedostępna w tym prototypie.";
         if(selectedHero==0)return "KAEL · Q: osłona dla Ciebie i pobliskiego sojusznika. E: testowy atak na pobliską wieżę.";
         if(selectedHero==1)return "RIAN · Q: zadaje obrażenia pobliskiej wieży. Podejdź w jej zasięg.";
         if(selectedHero==3)return RiftorynCodexData.Text("KONEVA · Q: Patka wznosi się, krąży i odciąga ogień wież. Model Konevy jest zastępczy.","KONEVA · Q: Patsy flies in circles and draws tower fire. Koneva uses a placeholder model.");
+        if(selectedHero==LucenHero)return RiftorynCodexData.Text("LUCEN · Q: wyłącza najbliższą wieżę na 2,5 s. Otrzymuje o 25% mniej obrażeń Błyskawic. Model jest zastępczy.","LUCEN · Q: disables the nearest tower for 2.5 s. Takes 25% less Lightning damage. Uses a placeholder model.");
         return "ZET · Q: wyłącza pobliską wieżę i przyspiesza Cię na chwilę. Podejdź w jej zasięg.";
     }
     void DrawBriefing()
@@ -629,7 +640,7 @@ public class RiftorynTrial : MonoBehaviour
 
     int PlayableHero(string id)
     {
-        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;case "niva":return 4;case "liora":return 5;case "elira":return 6;case "dara":return 7;case "nocten":return 8;default:return -1;}
+        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;case "niva":return 4;case "liora":return 5;case "elira":return 6;case "dara":return 7;case "nocten":return 8;case "lucen":return LucenHero;default:return -1;}
     }
     Texture2D DraftPortrait(string id)
     {
@@ -654,7 +665,7 @@ public class RiftorynTrial : MonoBehaviour
         float x=Screen.width*.5f-300,y=Screen.height*.5f-210;
         GUI.Box(new Rect(x,y,600,420),"LAN · TEST 2 GRACZY");
         GUI.Label(new Rect(x+20,y+35,560,40),"Wybierz bohatera przed połączeniem. Bez duplikatów.\nUnik drugiego gracza nie jest jeszcze dostępny.");
-        int[] picks={0,1,2,4,5,6,7,8};string[] names={"Kael","Rian","Zet","Niva","Liora","Elira*","Dara*","Nocten*"};
+        int[] picks={0,1,2,4,5,6,7,8,LucenHero};string[] names={"Kael","Rian","Zet","Niva","Liora","Elira*","Dara*","Nocten*","Lucen"};
         int index=Array.IndexOf(picks,lanHero);if(index<0)index=0;
         GUI.enabled=!lanPlaying&&(lan==null||!lan.Active||(!lan.IsHost&&lan.Connected));
         int chosen=GUI.SelectionGrid(new Rect(x+20,y+85,560,60),index,names,4);GUI.enabled=true;
@@ -695,12 +706,12 @@ public class RiftorynTrial : MonoBehaviour
     void ReceiveLan(string message)
     {
         if(string.IsNullOrEmpty(message))return;
-        if(lan.IsHost&&message[0]=='R'&&!lanPlaying){if(!int.TryParse(message.Substring(1),out int guest)||guest<0||guest>8||guest==3)return;if(guest==lanHero){lan.Send("D",true);lanNotice="Drugi gracz musi wybrać inną postać.";return;}lanNotice="";PrepareLan(true,lanHero,guest);SendLanState(true);}
+        if(lan.IsHost&&message[0]=='R'&&!lanPlaying){if(!int.TryParse(message.Substring(1),out int guest)||guest<0||guest>=HeroNames.Length||guest==3)return;if(guest==lanHero){lan.Send("D",true);lanNotice="Drugi gracz musi wybrać inną postać.";return;}lanNotice="";PrepareLan(true,lanHero,guest);SendLanState(true);}
         else if(!lan.IsHost&&message=="D"){lanNotice="Ta postać jest już wybrana przez gospodarza. Wybierz inną.";}
         else if(lan.IsHost&&message[0]=='I'&&lanPlaying){var input=JsonUtility.FromJson<LanInput>(message.Substring(1));if(input==null)return;lanRemoteInput=Vector3.ClampMagnitude(new Vector3(input.x,0,input.z),1);lanInputAt=Time.unscaledTime;lanRemoteAbility|=input.ability;lanRemoteAttack|=input.attack;}
         else if(!lan.IsHost&&message[0]=='S'){
             var state=JsonUtility.FromJson<LanState>(message.Substring(1));if(state==null||state.host==null||state.guest==null)return;
-            if(!lanPlaying){if(state.hostHero<0||state.hostHero>8||state.guestHero<0||state.guestHero>8)return;PrepareLan(false,state.hostHero,state.guestHero);}elapsed=state.time;healingTime=state.healTime;healingPosition=new Vector3(state.healX,0,state.healZ);UpdateHealingRing();ApplyLanRunner(player,state.guest);ApplyLanRunner(ally,state.host);
+            if(!lanPlaying){if(state.hostHero<0||state.hostHero>=HeroNames.Length||state.guestHero<0||state.guestHero>=HeroNames.Length)return;PrepareLan(false,state.hostHero,state.guestHero);}elapsed=state.time;healingTime=state.healTime;healingPosition=new Vector3(state.healX,0,state.healZ);UpdateHealingRing();ApplyLanRunner(player,state.guest);ApplyLanRunner(ally,state.host);
             for(int i=0;i<towers.Count&&i<state.towerHp.Length;i++){if(towers[i].hp>0&&state.towerHp[i]<=0)HitTower(towers[i],towers[i].hp);towers[i].hp=state.towerHp[i];towers[i].disabled=state.towerDisabled[i];}
             UpdateLanShots(state.shots);if(state.finished&&phase!=Phase.Finished)End();
         }
@@ -888,7 +899,7 @@ public class RiftorynTrial : MonoBehaviour
         float abilityShift=stats!=null&&stats.petHp>0?80f:0f;
         RiftorynL10n.Label(new Rect(1160,545+abilityShift,395,22),"UMIEJĘTNOŚCI",heading);
         string hovered=null;
-        string passive=RiftorynCodexData.Text(hero.pass,hero.passEn), active=hero.attack, defense=hero.def;
+        string passive=RiftorynCodexData.Text(hero.pass,hero.passEn), active=RiftorynCodexData.Text(hero.attack,hero.attackEn), defense=RiftorynCodexData.Text(hero.def,hero.defEn);
         string passiveKey="P", defenseKey="OBRONA*";
         if(playable==0){passiveKey="P*";passive=RiftorynL10n.Translate("Planowana pasywka; nie działa jeszcze w próbie. ")+RiftorynL10n.Translate(hero.pass);active="Natychmiast dodaje 100 osłony Tobie oraz 50 pobliskiemu sojusznikowi; osłona traci 10% aktualnej wartości na sekundę.";}
         else if(playable==1){passive="Otrzymujesz o 15% mniej bezpośrednich obrażeń Ognia.";active="Zadaje 100 obrażeń najbliższej wieży w zasięgu.";}
@@ -901,9 +912,9 @@ public class RiftorynTrial : MonoBehaviour
         if(!string.IsNullOrEmpty(passiveName)&&!string.IsNullOrEmpty(passive))
             hovered=DraftAbility(new Rect(1160,570+abilityShift+abilityRow++*28,395,25),passiveKey,passiveName,passive)??hovered;
         if(!string.IsNullOrEmpty(hero.attackName)&&!string.IsNullOrEmpty(active))
-            hovered=DraftAbility(new Rect(1160,570+abilityShift+abilityRow++*28,395,25),"Q",hero.attackName,active)??hovered;
+            hovered=DraftAbility(new Rect(1160,570+abilityShift+abilityRow++*28,395,25),"Q",RiftorynCodexData.Text(hero.attackName,hero.attackNameEn),active)??hovered;
         if(!string.IsNullOrEmpty(hero.defName)&&!string.IsNullOrEmpty(defense))
-            hovered=DraftAbility(new Rect(1160,570+abilityShift+abilityRow++*28,395,25),defenseKey,hero.defName,defense)??hovered;
+            hovered=DraftAbility(new Rect(1160,570+abilityShift+abilityRow++*28,395,25),defenseKey,RiftorynCodexData.Text(hero.defName,hero.defNameEn),defense)??hovered;
         if(!string.IsNullOrEmpty(hero.pet))
         {
             string petDescription=!string.IsNullOrEmpty(hero.concept)?hero.concept:hero.desc;
@@ -943,7 +954,7 @@ public class RiftorynTrial : MonoBehaviour
         const float gap=3;float cellWidth=(area.width-gap*3)/4,cellHeight=(area.height-gap)/2;
         for(int i=0;i<RiftorynCodexData.Elements.Length;i++)
         {
-            int row=i/4,col=i%4,value=RiftorynCodexData.Resistance(hero.element,RiftorynCodexData.Elements[i],hero.role=="Tank");
+            int row=i/4,col=i%4,value=RiftorynCodexData.Resistance(hero,RiftorynCodexData.Elements[i]);
             float x=area.x+col*(cellWidth+gap),y=area.y+row*(cellHeight+gap);
             DraftFrame(new Rect(x,y,cellWidth,cellHeight),new Color(.28f,.23f,.32f),new Color(.085f,.07f,.12f));
             var icon=Resources.Load<Texture2D>("CodexIcons/elements/"+DraftElementIcons[i]);float iconSize=Mathf.Min(16,cellHeight-5);

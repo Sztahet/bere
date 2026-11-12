@@ -1,6 +1,6 @@
 # Historie bohaterów — status biografii
 
-**Status:** dokument zawiera wersję polską i angielską. Wspólna historia Nivy, Liory i Eliry oraz ich indywidualne biografie zostały zatwierdzone w obecnym kształcie na potrzeby PoC; nie planuje się teraz ich rozszerzania. Historie Dary, Noctena i Rian również zostały zatwierdzone na potrzeby PoC. Wątek Saily opiera się na przyjętych założeniach świata; pozostałe historie bohaterów i nowe szczegóły pozostają propozycjami do zatwierdzenia. Rozwinięte historie poniżej uzupełniają krótkie szkice. Wiek dotyczy początku gry w 12 ET; poza wcześniej ustalonymi wartościami jest propozycją. Wiek Morraka pozostaje nieznany.
+**Status:** dokument zawiera wersję polską i angielską. Wspólna historia Nivy, Liory i Eliry oraz ich indywidualne biografie zostały zatwierdzone w obecnym kształcie na potrzeby PoC; nie planuje się teraz ich rozszerzania. Historie Dary, Noctena i Rian również zostały zatwierdzone na potrzeby PoC. Przyjęto także wspólny kierunek historii Tarena i Lucena oraz ich wiek. Wątek Saily opiera się na przyjętych założeniach świata; pozostałe historie bohaterów i nowe szczegóły pozostają propozycjami do zatwierdzenia. Rozwinięte historie poniżej uzupełniają krótkie szkice. Wiek dotyczy początku gry w 12 ET; poza wcześniej ustalonymi wartościami jest propozycją. Wiek Morraka pozostaje nieznany.
 
 ## Bohaterowie z pierwszej puli
 
@@ -11,7 +11,7 @@ Przez lata zabezpieczała piece i transport splotytu w Vareth, ucząc się opano
 Dawniej zabezpieczał górskie konwoje i magazyny na Białym Przesmyku, gdzie jedna źle osłonięta droga mogła odciąć całe osady od zaopatrzenia. W Próbach staje w obronie wspólnot przełęczy, zabiegając o rzetelną ewidencję rezerw i zapasowe trasy, a lodową tarczą chroni tych, którzy idą za nim.
 
 ### Taren — Błyskawice
-Dorastał w warsztatach Iglicy Zerath i pomagał osłaniać ekipy naprawiające przewodniki energii. Startuje w Próbach, by zdobyć części dla okolicznych stacji i utrzymać niezawodne połączenie z resztą szlaku.
+Taren zabezpieczał ekipy Iglicy Zerath. Po śmierci żony Miry w niewyjaśnionej awarii syn Lucen obwinił go i uciekł do Aurelu. Taren chce reprezentować samodzielność krain, przekonany, że Zerath otrzymuje zbyt mało w zamian za swój wkład do sieci. Lucen zgłasza się po stronie wspólnego nadzoru.
 
 ### Thora — Natura
 Po latach odbudowy zniszczonych pól w Korzennej Przystani nauczyła się, że dobry obrońca zostaje z tyłu, dopóki inni nie są bezpieczni. W Próbach walczy o zaopatrzenie dla doliny i środki na odbudowę gospodarstw, z pierwszeństwem dla irygacji i infrastruktury żywnościowej.
@@ -47,7 +47,7 @@ Jako rzemieślniczka Kamiennego Progu naprawiała narzędzia i zabezpieczenia w 
 ### Elira — Światło
 **Wiek w 12 ET:** 24 lata; jest bliźniaczką Liory i młodszą siostrą Nivy.
 
-Urodziła się w Korzennej Przystani, lecz po wojnie przyjęła ją rodzina obserwatorów szlaków w Aurel. Światła nauczyła się jako narzędzia pomiaru: pomagało jej odróżniać widoczny trakt od niepewnej granicy mapy. To, że kocha pracę w archiwum i naprawdę chciała zobaczyć świat, nie znaczy, że przestała tęsknić za miejscem urodzenia. Jako dorosła odnalazła siostry, przeglądając niepełne kopie rejestrów ewakuacyjnych. Podczas powodzi w 9 ET przekazała ratownikom trasę z mapy, której nie zdążyła sprawdzić po roztopach; akcja się opóźniła, choć nikt nie zginął z powodu jej pomyłki. Sama ujawniła błąd, zamiast zrzucić winę na przekaźnik. W Próbach chce zapewnić mniejszym miastom dostęp do aktualnych map i informacji o tym, czego jeszcze nie wiadomo.
+Urodziła się w Korzennej Przystani, lecz po wojnie przyjęła ją rodzina obserwatorów szlaków w Aurel. Światła nauczyła się jako narzędzia pomiaru: pomagało jej odróżniać widoczny trakt od niepewnej granicy mapy. To, że kocha pracę w archiwum i naprawdę chciała zobaczyć świat, nie znaczy, że przestała tęsknić za miejscem urodzenia. Jako dorosła szukała obu sióstr w niepełnych kopiach rejestrów ewakuacyjnych. Odszukała dom Liory w Verdan i zastała tam również Nivę. Podczas powodzi w 9 ET przekazała ratownikom trasę z mapy, której nie zdążyła sprawdzić po roztopach; akcja się opóźniła, choć nikt nie zginął z powodu jej pomyłki. Sama ujawniła błąd, zamiast zrzucić winę na przekaźnik. W Próbach chce zapewnić mniejszym miastom dostęp do aktualnych map i informacji o tym, czego jeszcze nie wiadomo.
 
 ### Nocten — Ciemność
 **Historia zatwierdzona na potrzeby PoC.**
@@ -58,7 +58,7 @@ Nocten ma 68 lat. Według dokumentów urodził się w północnej osadzie Riftor
 Rian była sabotażystką, która świadomie zarabiała na unieruchamianiu wież. Po odbyciu kary zaczęła uczyć młodych rzemieślników, jak rozpoznawać słabe punkty konstrukcji, zanim ktoś wykorzysta je przeciw ludziom. W kontrolowanych Próbach nadal z precyzją przełamuje obronę, ale nie ukrywa, kim była ani nie oczekuje przebaczenia.
 
 ### Saila — Lód
-Saila miała około ośmiu lat, gdy wybuchy urządzeń w Białym Przesmyku zmusiły ją do ucieczki. Jeszcze w roku katastrofy spotkała mistrza w górach. Przez blisko piętnaście lat uczyła się prowadzić moc kryształów, a później pracowała przy chłodzeniu magazynów; w 12 ET ma około dwudziestu trzech lat. Chce zbadać zapisy awarii i zabezpieczyć dostawy dla przełęczy. Jej doświadczenie kontrolowanej pracy nie rozstrzyga ani przyczyny Nocy, ani bezpieczeństwa gwałtownego wzrostu wydobycia.
+Saila miała około ośmiu lat, gdy podczas wydarzeń Nocy Zgasłych Wież wybuchy urządzeń magazynowych w Białym Przesmyku zmusiły ją do ucieczki w góry. Znalazł ją tam Ruvan i przygarnął. Nauczył ją pierwszych podstaw magii Lodu i cierpliwego prowadzenia mocy kryształów. Widząc jej potencjał, wykorzystał dawne kontakty, by zdobyć dla niej stypendium w szkole magów w Val Meris, nieoficjalnej stolicy kontynentu. Podczas przerw Saila wracała do rodzinnego Białego Przesmyku, gdzie Ruvan dodatkowo uczył ją praktycznego władania zimnem — umiejętności, której szkoła nie rozwijała dostatecznie. W 12 ET ma około dwudziestu trzech lat i pracuje przy chłodzeniu magazynów. Samodzielne ładowanie kryształów własną mocą ją wyczerpuje. Chce zbadać zapisy awarii i zabezpieczyć dostawy dla przełęczy; jej doświadczenie nie rozstrzyga przyczyny Nocy ani bezpieczeństwa gwałtownego wzrostu wydobycia.
 
 ### Zet — Błyskawice
 Jako posłaniec Iglicy Zerath doręczał pilne wiadomości między stacjami przekaźnikowymi i nauczył się błyskawicznie oceniać drogę. Startuje, by wesprzeć małe stacje zagrożone zamknięciem i utrzymać łączność między osadami.
@@ -77,7 +77,7 @@ Dorastał wśród załóg Cienistego Portu, które chroniły konwoje przed ujawn
 
 ## Niva, Liora i Elira — rozdzielone przez wojnę, połączone z wyboru
 
-**Zatwierdzone na potrzeby PoC.** Siostry urodziły się w Korzennej Przystani. Ich rodzice zginęli w jednej z końcowych kampanii Wojny Siedmiu Bram, przed Nocą Zgasłych Wież; ich śmierć nie jest przypisywana katastrofie. Podczas ewakuacji dziewczynki trafiły do różnych grup uchodźców. Nie rozdzieliła ich decyzja rodziny, lecz chaos transportów, niepełne listy i próba znalezienia każdej z nich bezpiecznego domu. Każdą przygarnęła rodzina z innej krainy.
+**Zatwierdzone na potrzeby PoC.** Siostry urodziły się w Korzennej Przystani. Ich rodzice zginęli w jednej z końcowych kampanii Wojny Siedmiu Bram, przed Nocą Zgasłych Wież; ich śmierć nie jest przypisywana katastrofie. Podczas ewakuacji dziewczynki trafiły do różnych grup uchodźców. Nie rozdzieliła ich decyzja rodziny, lecz chaos transportów, niepełne listy i próba znalezienia każdej z nich bezpiecznego domu. Każda znalazła dom w innej części Riftorynu.
 
 W 12 ET Niva ma 25 lat i jest o rok starsza od bliźniaczek Liory i Eliry, które mają po 24 lata. Dokładne daty urodzin i rozdzielenia sióstr pozostają nieustalone.
 
@@ -85,7 +85,7 @@ Liora i Elira szczególnie mocno przeżyły rozłąkę z bliźniaczką, z któr�
 
 Niva wychowała się wśród społeczności Białego Przesmyku, gdzie nauczyła się lodowej magii od lokalnych praktyków i poznała cenę przerwanego szlaku. Liorę przyjęła rodzina rolników i zielarek z innej części Verdan; nauczyła się od nich magii Natury, leczenia i cierpliwej odbudowy. Elirę wychowała rodzina obserwatorów w Aurel, gdzie światło stało się jej narzędziem do czytania terenu, a mapowanie — zawodem. Ich żywioły wynikają z odmiennych dróg, nauki i praktyki, nie z dziedziczonego przeznaczenia ani z założenia, że miejsce urodzenia narzuca charakter lub magię. Każda kochała rodzinę, która ją przyjęła; odnalezienie sióstr nie unieważniło tych więzi.
 
-Jako dorosłe odnalazły się dzięki pracy Eliry nad niepełnymi kopiami rejestrów ewakuacyjnych. Zapis nie był wystarczającym dowodem sam w sobie: siostry porównały go z dokumentami zachowanymi przez ich rodziny zastępcze i relacją świadka z Korzennej Przystani. Spotkanie nie przyniosło nagłego poczucia, że znają się od zawsze. Bliźniaczki cieszyły się, że znów są razem, ale odkrywały też, jak wiele nie wiedzą o swoim życiu. Wszystkie trzy odczuwały ulgę, żal za straconymi latami, obawę przed porównywaniem rodzin i niepewność, czy mają prawo oczekiwać od siebie bliskości. Zaczęły od prostego gestu: rozłożyły mapy miejsc, w których dorastały, i każda dopisała trasę, którą przebyła. Później stało się to ich rodzinnym rytuałem — nie wspomnieniem wspólnego dzieciństwa, lecz sposobem budowania wspólnej teraźniejszości.
+Niva i Liora spotkały się pierwsze, już jako dorosłe, podczas pomocy konwojowi zatrzymanemu przez osuwisko na górskim szlaku. Elira wciąż szukała obu sióstr w niepełnych kopiach rejestrów ewakuacyjnych. Dzięki zapisom i relacji świadka z Korzennej Przystani dotarła do domu Liory w Verdan. Zastała tam także Nivę. Siostry porównały zapisy z dokumentami zachowanymi przez ich rodziny zastępcze, żeby potwierdzić wspólną historię. Spotkanie nie przyniosło nagłego poczucia, że znają się od zawsze. Bliźniaczki cieszyły się, że znów są razem, ale odkrywały też, jak wiele nie wiedzą o swoim życiu. Wszystkie trzy odczuwały ulgę, żal za straconymi latami, obawę przed porównywaniem rodzin i niepewność, czy mają prawo oczekiwać od siebie bliskości. Zaczęły od prostego gestu: rozłożyły mapy miejsc, w których dorastały, i każda dopisała trasę, którą przebyła. Później stało się to ich rodzinnym rytuałem — nie wspomnieniem wspólnego dzieciństwa, lecz sposobem budowania wspólnej teraźniejszości.
 
 Kilka lat przed początkiem gry, podczas roztopów w 9 ET, wezbrana woda przerwała stary wał irygacyjny. Awaria wynikała z zaniedbanych napraw i gwałtownej pogody, nie z potwierdzonego związku z Nocą. Elira przekazała ratownikom trasę ze swojej mapy, nie wiedząc, że roztopy podmyły most. Akcja się opóźniła, choć nikt nie zginął z powodu jej pomyłki; jedna z doświadczonych strażniczek śluzy zginęła, gdy zawalił się brzeg. Elira publicznie przyznała, że nie sprawdziła mapy, i oznaczyła niepewną trasę zamiast zrzucać winę wyłącznie na przekaźnik.
 
@@ -144,13 +144,19 @@ Podczas jednej zimowej wyprawy zamieć zasypała zwykłą drogę do magazynu. Is
 
 Dziś uczy młodszych przewoźników rozpoznawać moment odwrotu. W Próbach zabiega o zapasowe trasy i rzetelną ewidencję rezerw, nawet gdy dodatkowe przygotowania wydają się innym stratą czasu.
 
-### Taren — 38 lat
+### Taren — 52 lata
 
-Taren dorastał wśród warsztatów Iglicy Zerath i pomagał ekipom pracującym przy przewodnikach energii. Był dumny, że ciężka osłona pozwala mu pozostać przy urządzeniu, kiedy inni muszą się wycofać.
+Mira kontrolowała urządzenia w Iglicy Zerath i prowadziła dokumentację stacji. Potrafiła sprzeciwić się przełożonym, gdy dostrzegała zagrożenie. Jej mąż Taren zabezpieczał ekipy naprawcze; ich synem jest Lucen.
 
-Pewnego dnia próbował sam osłonić stanowisko naprawcze przed kolejnym wyładowaniem. W tym czasie druga ekipa czekała na części, które zatrzymał przy sobie na wszelki wypadek. Naprawa się udała, ale sąsiednia stacja pozostała dłużej bez łączności. Taren zrozumiał, że utrzymywanie wszystkiego pod własną kontrolą nie zawsze chroni całą sieć.
+Około szesnastu lat przed początkiem gry Mira zauważyła niepokojące odczyty i chciała zamknąć część stacji do kontroli. Taren uważał, że najpierw należy zabezpieczyć zasilanie sąsiednich osad. Pokłócili się. Trzynastoletni Lucen słyszał fragment rozmowy i widział, jak ojciec odchodzi. Kilka godzin później awaria zabiła Mirę.
 
-Teraz uzgadnia z mechanikami podział narzędzi przed pracą i pyta, czego potrzebują mniejsze stacje. W Próbach chce zdobyć dla nich części; uczy się przy tym, że zaufanie bywa równie ważne jak wytrzymałość pancerza.
+Lucen znalazł fragment jej notatek i uznał, że ojciec zignorował ostrzeżenie. Taren twierdzi, że poszedł po ludzi i części potrzebne do zabezpieczenia stacji, ale wrócił za późno. Zapisy potwierdzają obawy Miry, lecz nie wyjaśniają przyczyny awarii ani tego, czy obecność Tarena mogła ją powstrzymać. Sam Taren nie zna odpowiedzi i zastanawia się, czy powinien był zostać.
+
+Po śmierci Miry Taren wrócił do pracy, sądząc, że utrzymując dom, chroni syna. Unikał rozmowy o ostatnim dniu żony, nie potrafiąc oddzielić faktów od poczucia winy. Lucen uznał milczenie za ukrywanie prawdy, nienawidził ojca i czuł się opuszczony. Uciekł do Aurelu, gdzie przyjęła go rodzina związana z obserwatorium. Taren szukał go, a gdy dowiedział się, że syn jest bezpieczny, pisał listy. Pierwsze wróciły nieotwarte. W końcu przestał pisać, sądząc, że daje mu czas; Lucen odebrał to jako kolejne porzucenie.
+
+W 12 ET Taren ma 52 lata. Przez lata obserwował, jak on i jego sąsiedzi z Zerath z trudem utrzymują warsztaty i stacje, podczas gdy inni się bogacą. Zerath dostarcza około połowy energii wprowadzanej do wspólnej sieci; Taren uważa, że mieszkańcy otrzymują zbyt mało w zamian. Chce reprezentować samodzielność krain, by miały większy wpływ na korzystanie ze swoich zasobów i ich sprzedaż. Nadal chce zdobyć części dla mniejszych stacji. Wie, że urządzenia wymagają bezpieczeństwa; nie wierzy jednak, że wszystkie decyzje muszą zapadać pod wspólnym nadzorem Rady.
+
+Gdy przychodzi na zapisy do Wielkich Igrzysk, widzi nazwisko Lucena na liście kandydatów do kwalifikacji po stronie wspólnego nadzoru. Chce stanąć po stronie samodzielności krain, ale nie chce walczyć przeciw synowi, którego nie widział od lat. Szuka okazji do rozmowy i odbudowania więzi, choć nie wie, czy Lucen będzie chciał go wysłuchać.
 
 ### Thora — 42 lata
 
@@ -238,7 +244,7 @@ Przed Wielkimi Igrzyskami spisała nazwiska dawnych towarzyszy. Gdy górnicy zac
 
 Elira po rozłące z siostrami dorastała w Aurel. Szczególnie brakowało jej bliźniaczki Liory, a przybrana rodzina obserwatorów pomogła jej znaleźć własną drogę w mapowaniu i pracy ze światłem.
 
-To Elira odnalazła ślady sióstr w niepełnych rejestrach ewakuacyjnych. Uczyła się potem poznawać je na nowo, nie oczekując, że wspólne pochodzenie natychmiast przywróci utracone lata. Podczas powodzi przekazała ratownikom nieaktualną trasę; akcja się opóźniła, choć nikt nie zginął wskutek jej błędu. Sama przyznała, że nie sprawdziła mapy, i zaczęła wyraźniej oznaczać niepewne drogi.
+Jako dorosła szukała obu sióstr w niepełnych kopiach rejestrów ewakuacyjnych. Odszukała dom Liory w Verdan i zastała tam również Nivę. Uczyła się potem poznawać je na nowo, nie oczekując, że wspólne pochodzenie natychmiast przywróci utracone lata. Podczas powodzi przekazała ratownikom nieaktualną trasę; akcja się opóźniła, choć nikt nie zginął wskutek jej błędu. Sama przyznała, że nie sprawdziła mapy, i zaczęła wyraźniej oznaczać niepewne drogi.
 
 W Próbach chce udostępnić mniejszym miastom aktualne mapy i informacje o ich ograniczeniach. Jej ostrożność bywa trudna dla osób czekających na pilny transport. Wspólną historię sióstr opisano [wyżej](#niva-liora-i-elira--rozdzielone-przez-wojnę-połączone-z-wyboru).
 
@@ -331,11 +337,13 @@ Gdy uczennica zapytała ją, dlaczego przestała, Rian odpowiedziała: „Nie pr
 
 ### Saila — około 23 lata
 
-Jako dziecko Saila widziała wybuchy urządzeń w Białym Przesmyku i uciekła w góry. Nie zna przyczyny awarii. Mistrz, którego spotkała jeszcze w roku katastrofy, nauczył ją prowadzić moc kryształów z uwagą, zamiast wymuszać na nich działanie.
+Jako dziecko Saila widziała wybuchy urządzeń magazynowych w Białym Przesmyku podczas wydarzeń Nocy Zgasłych Wież. Uciekła wtedy w góry, gdzie znalazł ją Ruvan i przygarnął. Nie zna przyczyny awarii. Ruvan nauczył ją pierwszych podstaw magii Lodu i prowadzenia mocy kryształów z uwagą, zamiast wymuszać na nich działanie. Widząc jej potencjał, wykorzystał dawne kontakty, by zdobyć dla niej stypendium w szkole magów w Val Meris, nieoficjalnej stolicy kontynentu. Szkoła dała jej teorię i szerokie podstawy, ale praktycznej kontroli zimna nie rozwijała dostatecznie. Podczas przerw Saila wracała do rodzinnego Białego Przesmyku, gdzie Ruvan uczył ją władania chłodem w rzeczywistych warunkach.
 
-Przez lata nauki, a później pracy przy chłodzeniu magazynów, Saila przekonała się, że urządzenia mogą działać przewidywalnie w kontrolowanych warunkach. Nie usuwa to jednak jej wspomnienia ani nie dowodzi, co stało się podczas kryzysu. Gdy pojawia się propozycja szybkiego transportu przez przełęcz, obawia się użycia urządzeń bez sprawdzenia ich historii; inni przypominają jej, że zwłoka również może odciąć ludzi od pomocy.
+Przez blisko piętnaście lat nauki i praktyki, a później pracy przy chłodzeniu magazynów, Saila przekonała się, że urządzenia mogą działać przewidywalnie w kontrolowanych warunkach. Samodzielne ładowanie kryształów własną mocą ją wyczerpuje; nie może zastąpić sieci ani pracy wielu załóg. Nie usuwa to jednak jej wspomnienia ani nie dowodzi, co stało się podczas kryzysu. Gdy pojawia się propozycja szybkiego transportu przez przełęcz, obawia się użycia urządzeń bez sprawdzenia ich historii; inni przypominają jej, że zwłoka również może odciąć ludzi od pomocy.
 
-W Próbach chce zabezpieczyć dostawy i uzyskać dostęp do zapisów awarii. Pozostaje gotowa słuchać różnych stron, nie udając pewności tam, gdzie brakuje dowodów.
+Saila widzi, że większa swoboda korzystania ze splotytu pozwoliłaby jej i innym mieszkańcom Nivoren rozwijać chłodnie, ogrzewanie i dostawy bez oczekiwania na każdą decyzję Rady. Obawia się zarazem, że zniesienie wspólnych ograniczeń pozwoli innym działać bez dostatecznej ostrożności. Wie, że odwlekanie napraw też może zaszkodzić ludziom, a jej własne umiejętności nie gwarantują bezpieczeństwa wszystkich urządzeń.
+
+W Próbach chce zabezpieczyć dostawy i uzyskać dostęp do zapisów awarii. Słucha różnych stron i nie wybrała jeszcze, którą poprzeć w Wielkich Igrzyskach.
 
 ### Zet — 27 lat
 
@@ -499,18 +507,25 @@ Kruk Cień zaczął pojawiać się przy jej pracy, gdy zostawiała wodę na podw
 
 W Próbach Neris publicznie obiecuje stworzyć wiarygodny system ostrzegania dla przewoźników. Naprawdę chce zdobyć ich zaufanie na większą skalę i wejść w posiadanie kolejnych informacji oraz wpływów. Jej raporty i działania nie wyjaśniają przyczyny Nocy Zgasłych Wież ani nie dowodzą, że miała z nią związek.
 
-### Lucen — 31 lat
+### Lucen — 29 lat
 
-Lucen jest dodatkową propozycją Specjalisty Światła; jego szczegółowe umiejętności pozostają otwarte. W tej wersji uczył się przy ośrodku obserwacyjnym Aurelu, gdzie pomagał przygotowywać oznaczenia dróg dla ekip pracujących po zmroku.
+Mira kontrolowała urządzenia w Iglicy Zerath i prowadziła dokumentację stacji. Potrafiła sprzeciwić się przełożonym, gdy dostrzegała zagrożenie. Jej mąż Taren zabezpieczał ekipy naprawcze; ich synem jest Lucen.
 
-Podczas wyprawy zbyt pewnie wskazał przejście na podstawie dawnego znaku. Przewodniczka zauważyła, że zmienił się brzeg potoku, i zatrzymała grupę przed uszkodzoną przeprawą. Lucen zaproponował potem sposób oznaczania miejsc wymagających ponownej kontroli, ale nie przedstawił go jako zastępstwa dla wiedzy ludzi znających teren.
+Około szesnastu lat przed początkiem gry Mira zauważyła niepokojące odczyty i chciała zamknąć część stacji do kontroli. Taren uważał, że najpierw należy zabezpieczyć zasilanie sąsiednich osad. Pokłócili się. Trzynastoletni Lucen słyszał fragment rozmowy i widział, jak ojciec odchodzi. Kilka godzin później awaria zabiła Mirę.
 
-W Próbach chce wesprzeć zespoły, które naprawiają oznaczenia poza głównymi szlakami. Jego historia i wiek są nową propozycją, nie rozstrzygają pochodzenia ani umiejętności tej postaci w innych materiałach.
+Lucen znalazł fragment jej notatek i uznał, że ojciec zignorował ostrzeżenie. Taren twierdzi, że poszedł po ludzi i części potrzebne do zabezpieczenia stacji, ale wrócił za późno. Zapisy potwierdzają obawy Miry, lecz nie wyjaśniają przyczyny awarii ani tego, czy obecność Tarena mogła ją powstrzymać. Sam Taren nie zna odpowiedzi i zastanawia się, czy powinien był zostać.
 
+Po śmierci Miry Taren wrócił do pracy, sądząc, że utrzymując dom, chroni syna. Unikał rozmowy o ostatnim dniu żony, nie potrafiąc oddzielić faktów od poczucia winy. Lucen uznał milczenie za ukrywanie prawdy, nienawidził ojca i czuł się opuszczony. Uciekł do Aurelu, gdzie przyjęła go rodzina związana z obserwatorium. Taren szukał go, a gdy dowiedział się, że syn jest bezpieczny, pisał listy. Pierwsze wróciły nieotwarte. W końcu przestał pisać, sądząc, że daje mu czas; Lucen odebrał to jako kolejne porzucenie.
+
+W Aurelu Lucen uczył się Światła i oznaczania szlaków. Chciał, by ostrzeżenia docierały do ludzi na czas. Podczas wyprawy zbyt pewnie wskazał przejście według starego znaku; przewodnik zatrzymał grupę przed uszkodzoną przeprawą. Poprawił oznaczenie, choć trudno mu przyznać, że sam może przeoczyć zagrożenie.
+
+W 12 ET Lucen ma 29 lat. Chce, by wydobycie, transport, praca przy wieżach i innych niebezpiecznych urządzeniach podlegały regulacjom Rady. Uważa, że manipulowanie przy takich instalacjach bez wspólnego nadzoru grozi kolejną tragedią podobną do tej, w której zginęła Mira. Jego obawa wynika ze straty; przyczyna tamtej awarii pozostaje nieznana i nie dowodzi, że regulacje Rady mogłyby jej zapobiec. W Próbach wspiera ekipy naprawiające oznaczenia na odległych szlakach.
+
+Do kwalifikacji Wielkich Igrzysk zgłasza się po stronie wspólnego nadzoru. Taren dostrzega jego nazwisko na liście, choć sam chce reprezentować samodzielność krain. Lucen nie obiecał ojcu rozmowy ani pojednania; chciałby wiedzieć, dlaczego nie było go wtedy, gdy matka, a później on sam, najbardziej go potrzebowali.
 
 # English version
 
-**Status:** This file contains Polish and English versions. Niva, Liora and Elira's shared story and individual biographies are approved in their current form for the PoC, with no expansion currently planned. Dara's, Nocten's and Rian's stories are also approved for the PoC. Saila's thread follows established world premises; the other biographies and new details remain proposals awaiting approval. Expanded stories below complement the short sketches. Ages refer to the start of the game in 12 AT; ages not already established are proposed. Morrak's age remains unknown.
+**Status:** This file contains Polish and English versions. Niva, Liora and Elira's shared story and individual biographies are approved in their current form for the PoC, with no expansion currently planned. Dara's, Nocten's and Rian's stories are also approved for the PoC. The shared direction and ages of Taren and Lucen have also been accepted. Saila's thread follows established world premises; the other biographies and new details remain proposals awaiting approval. Expanded stories below complement the short sketches. Ages refer to the start of the game in 12 AT; ages not already established are proposed. Morrak's age remains unknown.
 
 ## First roster
 
@@ -521,7 +536,7 @@ For years, she maintained Vareth's furnaces and splotite shipments, learning to 
 He once secured mountain convoys and storehouses in the White Pass, where a poorly guarded road could cut entire settlements off from supplies. He enters the Trials to stand up for the pass communities, calling for accurate reserve records and backup routes while using his ice shield to protect those who follow him.
 
 ### Taren — Lightning
-He grew up among the relay workshops of Zerath Spire and helped shield crews repairing the energy conduits. He enters the Trials to win parts for nearby stations and keep their connection to the rest of the route reliable.
+Taren protected Zerath crews. After his wife Mira died in an unexplained accident, their son Lucen blamed him and fled to Aurel. Taren wants to represent local autonomy, believing Zerath receives too little in return for its contribution to the network. Lucen enters on the side of shared oversight.
 
 ### Thora — Nature
 After years spent restoring damaged fields in Rooted Landing, she learned that a good defender stays behind until everyone else is safe. She fights in the Trials for supplies and farm restoration, prioritizing irrigation and food infrastructure.
@@ -557,7 +572,7 @@ As a craftswoman in Stone Threshold, she repaired mining tools and safety equipm
 ### Elira — Light
 **Age in 12 AT:** 24; she is Liora's twin and Niva's younger sister.
 
-Born in Rooted Landing, she was raised by a family of route observers in Aurel, where she learned to use light to read terrain and chose mapping as her work. As an adult she found her sisters while studying incomplete copies of evacuation records. During the flood of 9 AT, she gave rescuers a route from a map she had not checked after the thaw; no one died because of her error, but the response was delayed. She admitted her mistake instead of blaming a faulty relay. In the Trials, she wants smaller towns to receive current maps—and clear notice of what remains unknown.
+Born in Rooted Landing, she was raised by a family of route observers in Aurel, where she learned to use light to read terrain and chose mapping as her work. As an adult, she searched for both sisters in incomplete copies of evacuation records. She tracked down Liora’s home in Verdan and found Niva there too. During the flood of 9 AT, she gave rescuers a route from a map she had not checked after the thaw; no one died because of her error, but the response was delayed. She admitted her mistake instead of blaming a faulty relay. In the Trials, she wants smaller towns to receive current maps—and clear notice of what remains unknown.
 
 ### Nocten — Darkness
 **Story approved for the PoC.**
@@ -569,7 +584,7 @@ Nocten is 68. Official records place his birth in a northern Riftoryn settlement
 Rian was a saboteur who knowingly made money by disabling towers. After serving her sentence, she began teaching young craftspeople to spot structural weaknesses before someone could use them against others. In controlled Trials, she still breaks defenses with precision, but does not hide who she was or expect forgiveness.
 
 ### Saila — Ice
-Saila was about eight when devices exploded at White Pass. She fled into the mountains and met her mentor that same year. Over nearly fifteen years she learned crystal magic and later worked on warehouse cooling systems; she is about twenty-three in 12 AT. She seeks access to the records of the failures and secure deliveries for the pass. Her experience with controlled systems proves neither what caused the Night nor that rapid expansion of mining would be safe.
+Saila was about eight when warehouse devices exploded at White Pass during the events of the Night of the Fallen Towers. She fled into the mountains, where Ruvan found and took her in. He taught her the first principles of Ice magic and how to guide crystal power patiently. Seeing her potential, he used old contacts to secure her a scholarship at the mages' school in Val Meris, the continent's unofficial capital. During school breaks, Saila returned to her home in White Pass, where Ruvan taught her the practical command of cold that the school did not develop well. She is about twenty-three in 12 AT and works with warehouse cooling systems. Charging crystals with her own power exhausts her. She seeks access to the failure records and secure deliveries for the pass; her experience proves neither what caused the Night nor that rapid expansion of mining would be safe.
 
 ### Zet — Lightning
 As a courier for Zerath Spire, he carried urgent messages between relay stations and learned to judge a road at a glance. He enters the Trials to support small stations at risk of closure and keep settlements connected.
@@ -588,7 +603,7 @@ He grew up among Shadow Harbor crews who protected convoys from having their rou
 
 ## Niva, Liora and Elira — separated by war, reunited by choice
 
-**Approved for the PoC.** The sisters were born in Rooted Landing. Their parents died in one of the final campaigns of the Seven Gates War, before the Night of the Darkened Towers; their deaths are not attributed to the catastrophe. During the evacuation, the girls ended up with different groups of displaced people. They were separated not by a family's decision, but by chaotic transport, incomplete lists and the effort to find each child a safe home. Each was taken in by a family from a different realm.
+**Approved for the PoC.** The sisters were born in Rooted Landing. Their parents died in one of the final campaigns of the Seven Gates War, before the Night of the Darkened Towers; their deaths are not attributed to the catastrophe. During the evacuation, the girls ended up with different groups of displaced people. They were separated not by a family's decision, but by chaotic transport, incomplete lists and the effort to find each child a safe home. Each found a home in a different part of Riftoryn.
 
 In 12 AT, Niva is 25 and one year older than the twins, Liora and Elira, who are 24. Their exact birthdays and the date of their separation remain undecided.
 
@@ -596,7 +611,7 @@ Liora and Elira felt the separation from each other especially deeply: before th
 
 Niva grew up among the White Pass communities, where local practitioners taught her ice magic and she learned the cost of a severed route. Liora was taken in by farmers and herbalists in another part of Verdan, who taught her nature magic, healing and patient restoration. Elira was raised by route observers in Aurel, where light became her tool for reading terrain and mapping became her trade. Their elements follow different paths, training and practice—not inherited destiny or an assumption that birthplace dictates character or magic. Each loved the family who took her in; finding her sisters did not erase those bonds.
 
-As adults, they found each other through Elira's work with incomplete copies of evacuation records. The record was not proof enough on its own: the sisters compared it with documents kept by their foster families and the account of a witness from Rooted Landing. Their reunion did not bring an instant feeling that they had always known each other. The twins were glad to be together again, but also discovered how much they did not know about each other's lives. All three felt relief, grief for the years they had lost, anxiety about comparing families and uncertainty about whether they had a right to expect closeness. They began with a simple gesture: laying out maps of the places where they had grown up and adding the routes each had travelled. It later became their family ritual—not a memory of a shared childhood, but a way to build a shared present.
+Niva and Liora met first as adults when they helped a convoy stopped by a landslide on a mountain route. Elira was still searching for both sisters in incomplete copies of evacuation records. The records and an account from a witness from Rooted Landing led her to Liora’s home in Verdan. Niva was already there. The sisters compared the records with documents kept by their foster families to confirm their shared history. Their reunion did not bring an instant feeling that they had always known each other. The twins were glad to be together again, but also discovered how much they did not know about each other's lives. All three felt relief, grief for the years they had lost, anxiety about comparing families and uncertainty about whether they had a right to expect closeness. They began with a simple gesture: laying out maps of the places where they had grown up and adding the routes each had travelled. It later became their family ritual—not a memory of a shared childhood, but a way to build a shared present.
 
 Several years before the game, during the thaw of 9 AT, rising water broke an old irrigation bank. The failure followed neglected repairs and severe weather, not any proven link to the Night. Elira gave rescuers a route from her map, unaware that the thaw had undermined the bridge. The response was delayed, though no one died because of her mistake; an experienced sluice keeper died when the bank collapsed. Elira publicly admitted that she had not checked the map and marked the route as uncertain rather than blaming the relay alone.
 
@@ -637,7 +652,7 @@ For years, Neris studied reports of disappearances and attacks along Shadow Harb
 
 ## Expanded hero stories
 
-Except for the approved biographies of Dara and the sisters, these biographies and new details are proposals for review. Ages refer to the start of the game in 12 AT; ages not already established are proposed. Morrak's age remains unknown. The sisters' stories complement their shared account above.
+See the approval status above. Other biographies and new details remain proposals for review. Ages refer to the start of the game in 12 AT; ages not already established are proposed. Morrak's age remains unknown. The sisters' stories complement their shared account above.
 
 ### Kael — 46
 
@@ -655,13 +670,19 @@ On one winter journey, a blizzard buried the usual route to a storehouse. He rai
 
 Iskar now teaches younger carriers when to turn back. In the Trials he seeks accurate reserve records and backup routes, even when others consider preparation a waste of time.
 
-### Taren — 38
+### Taren — 52
 
-Taren grew up among Zerath's relay workshops and guarded crews repairing energy conductors. He took pride in staying at a station under a heavy shield when others had to withdraw.
+Mira inspected equipment and kept station records in Zerath Spire. She challenged her superiors when she saw danger. Her husband Taren protected repair crews; their son is Lucen.
 
-During one repair he kept spare parts close while shielding a worksite. The repair succeeded, but another team had to wait for the parts, leaving its station disconnected longer. He realized that keeping everything under his own control did not protect the whole network.
+About sixteen years before the game, Mira found troubling readings and wanted part of the station closed for inspection. Taren believed they first had to secure power for neighboring settlements. They argued. Thirteen-year-old Lucen heard part of the exchange and saw his father leave. Hours later an accident killed Mira.
 
-Taren now plans the distribution of tools with the mechanics. He enters the Trials to obtain parts for smaller stations, learning to trust others as well as his armor.
+Lucen found a fragment of her notes and concluded his father had ignored her warning. Taren says he left to fetch the people and parts needed to secure the station, but returned too late. The records confirm Mira's concerns, but establish neither the cause of the accident nor whether Taren's presence could have prevented it. Taren does not know and wonders whether he should have stayed.
+
+After Mira's death Taren returned to work, believing he protected his son by keeping their home. Unable to separate facts from guilt, he avoided speaking about her last day. Lucen took his silence for concealment, hated his father and felt abandoned. He ran away to Aurel, where a family connected to an observatory took him in. Taren searched for him and sent letters once he knew he was safe. The first came back unopened. He eventually stopped, thinking he was giving Lucen time; Lucen saw it as another abandonment.
+
+Taren is 52 in 12 AT. For years he has watched himself and his neighbors in Zerath struggle to maintain their workshops and stations while others grew wealthy. Zerath supplies roughly half the energy fed into the shared network; Taren believes its people receive too little in return. He wants to represent local autonomy, giving realms more control over the use and sale of their resources. He still seeks parts for smaller stations. He values safety, but does not believe every decision requires the Council’s shared oversight.
+
+When he comes to sign up for the Great Games, he sees Lucen listed among the candidates for the qualifiers on the side of shared oversight. He wants to represent local autonomy, but does not want to fight against the son he has not seen for years. He seeks a chance to speak and rebuild their relationship, though he does not know whether Lucen will listen.
 
 ### Thora — 42
 
@@ -749,7 +770,7 @@ Before the Great Games, she wrote down the names of her former companions. When 
 
 Elira grew up in Aurel after separation from her sisters. She especially missed her twin Liora; her foster family of observers helped her find her own path in mapping and light.
 
-Elira found traces of her sisters in incomplete evacuation records, then learned to know them again without expecting the lost years to disappear. During the flood she gave rescuers an outdated route, delaying the response, though no one died because of her error. She admitted the mistake and began marking uncertain routes more clearly.
+As an adult, she searched for both sisters in incomplete copies of evacuation records. She tracked down Liora’s home in Verdan and found Niva there too. She learned to know them again without expecting the lost years to disappear. During the flood she gave rescuers an outdated route, delaying the response, though no one died because of her error. She admitted the mistake and began marking uncertain routes more clearly.
 
 In the Trials she seeks current maps and honest information about their limits for smaller towns. Her caution can be difficult for people waiting on urgent deliveries.
 
@@ -840,11 +861,13 @@ When a student asked why she had stopped, Rian replied, “I haven't.” She pla
 
 ### Saila — about 23
 
-As a child, Saila witnessed devices explode in White Pass and fled into the mountains. She does not know what caused the failures. A mentor taught her to guide crystal power carefully rather than force it.
+As a child, Saila witnessed warehouse devices explode in White Pass during the events of the Night of the Fallen Towers. She fled into the mountains, where Ruvan found and took her in. She does not know what caused the failures. Ruvan taught her the first principles of Ice magic and how to guide crystal power carefully rather than force it. Seeing her potential, he used old contacts to secure her a scholarship at the mages' school in Val Meris, the continent's unofficial capital. During school breaks, Saila returned to her home in White Pass, where Ruvan taught her the practical command of cold that the school did not develop well.
 
-Years of learning and later work on cold-storage devices showed her that equipment can behave predictably under controlled conditions. Neither that experience nor her memory proves what happened in the crisis. When a fast mountain shipment is proposed, she fears using devices without checking their history; others remind her that delay can cut people off from help.
+Nearly fifteen years of study and practice, followed by work with warehouse cooling systems, showed her that equipment can behave predictably under controlled conditions. Charging crystals with her own power exhausts her; she cannot replace a network or the work of many crews. Neither that experience nor her memory proves what happened in the crisis. When a fast mountain shipment is proposed, she fears using devices without checking their history; others remind her that delay can cut people off from help.
 
-Saila enters the Trials for secure supplies and access to the records, willing to listen without claiming certainty unsupported by evidence.
+Saila sees that greater freedom to use splotyt could let her and other people in Nivoren improve cold storage, heating and deliveries without waiting for every Council decision. Yet she fears that removing shared limits could let others act without enough care. She knows delaying repairs can harm people too, and her own skill cannot guarantee every device is safe.
+
+She enters the Trials for secure supplies and access to the records. She listens to different sides and has not yet chosen which to support in the Great Games.
 
 ### Zet — 27
 
@@ -1008,10 +1031,18 @@ A raven called Shadow began visiting when she left water in her yard. Neris lear
 
 At the Trials, Neris publicly promises a reliable warning system for carriers. Her real aim is to win their trust on a larger scale and gain more information and influence. Her reports and actions do not explain the cause of the Night of the Darkened Towers or establish that she was involved in it.
 
-### Lucen — 31
+### Lucen — 29
 
-Lucen is a proposed alternative Light Specialist; his detailed abilities remain open. In this version he trained at an Aurel observation center and helped prepare route markings for crews working after dark.
+Mira inspected equipment and kept station records in Zerath Spire. She challenged her superiors when she saw danger. Her husband Taren protected repair crews; their son is Lucen.
 
-On a journey he confidently indicated a passage from an old sign. A guide noticed that the stream bank had changed and stopped the group before a damaged crossing. Lucen later proposed marking places needing reinspection, not as a substitute for local knowledge.
+About sixteen years before the game, Mira found troubling readings and wanted part of the station closed for inspection. Taren believed they first had to secure power for neighboring settlements. They argued. Thirteen-year-old Lucen heard part of the exchange and saw his father leave. Hours later an accident killed Mira.
 
-In the Trials he seeks to support teams repairing signs beyond major roads. His age and biography are new proposals and do not settle his origin or abilities in other materials.
+Lucen found a fragment of her notes and concluded his father had ignored her warning. Taren says he left to fetch the people and parts needed to secure the station, but returned too late. The records confirm Mira's concerns, but establish neither the cause of the accident nor whether Taren's presence could have prevented it. Taren does not know and wonders whether he should have stayed.
+
+After Mira's death Taren returned to work, believing he protected his son by keeping their home. Unable to separate facts from guilt, he avoided speaking about her last day. Lucen took his silence for concealment, hated his father and felt abandoned. He ran away to Aurel, where a family connected to an observatory took him in. Taren searched for him and sent letters once he knew he was safe. The first came back unopened. He eventually stopped, thinking he was giving Lucen time; Lucen saw it as another abandonment.
+
+In Aurel Lucen trained in Light and route marking. He wanted warnings to reach people in time. On a journey he too confidently indicated a crossing based on an old sign; a guide stopped the group before a damaged crossing. He corrected the marker, though admitting he can overlook danger is hard for him.
+
+Lucen is 29 in 12 AT. He wants mining, transport, work on towers and other dangerous equipment to be subject to Council regulation. He fears that interference with such installations without shared oversight could cause a tragedy like the one that killed Mira. His fear comes from loss; the cause of that accident remains unknown and does not prove Council regulation could have prevented it. In the Trials he supports crews repairing markers on remote routes.
+
+He enters the Great Games qualifiers on the side of shared oversight. Taren sees his name, though he wants to represent local autonomy. Lucen has promised his father neither a conversation nor reconciliation; he wants to know why Taren was absent when his mother, and then Lucen himself, needed him most.

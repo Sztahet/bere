@@ -269,6 +269,15 @@
       "petHp": 45,
       "petAttack": 8,
       "petSpeed": 6.5
+    },
+    {
+      "id": "lucen",
+      "hp": 105,
+      "attack": 20,
+      "speed": 5.6,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
     }
   ]
 }

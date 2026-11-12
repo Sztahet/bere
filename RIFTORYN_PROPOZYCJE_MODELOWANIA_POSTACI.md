@@ -11,6 +11,9 @@
 - [Rian — arkusz postaci](assets/heroes/modeling-concepts/rian.png). Referencja do przyszłego modelowania; koncepcja przedstawia Ognistego Specjalistę i inżyniera żaru.
 - [Taren — arkusz postaci](assets/heroes/modeling-concepts/taren.png). Referencja do przyszłego modelowania; koncepcja przedstawia Tank Błyskawic z ciężkim pancerzem i futrzanym kołnierzem.
 - [Nocten — arkusz postaci](assets/heroes/modeling-concepts/nocten.png). Referencja do przyszłego modelowania; koncepcja przedstawia starszego Wsparcia Ciemności.
+- [Lucen — arkusz postaci](assets/heroes/modeling-concepts/lucen.png). Referencja do przyszłego modelowania Specjalisty Światła; przedstawia widoki postaci, strój, mimikę i przykładowe pozy.
+- [Neris i Shadow — arkusz postaci](assets/heroes/modeling-concepts/neris-blender-reference.png). Referencja do modelowania Neris i jej kruka.
+- [Adrien — arkusz postaci](riftoryn-unity/Assets/Concepts/Heroes/adrien-blender-reference.png). Referencja do modelowania Specjalisty Światła, przechowywana w projekcie Unity.
 - [Ana i Bob — arkusz koncepcyjny](assets/heroes/modeling-concepts/ana-bob.png). Grafika używa pisowni „Anna”; w GDD występuje „Ana”.
 - [Koneva i Pati — arkusz koncepcyjny](assets/heroes/modeling-concepts/koneva-pati.png). W GDD kotoperz nazywa się „Patka”; relacja nazw „Pati” i „Patka” pozostaje do ustalenia. Arkusz nazywa postacie ogólnie czarodziejką i kotoperzem.
 
@@ -42,9 +45,9 @@ Arkusze zawierają widoki postaci, twarze, przykładowe ekspresje, kolory, wymia
 
 ## Pokrycie kart koncepcyjnych bohaterów
 
-GDD wymienia 30 głównych bohaterów; Lucen jest dodatkową alternatywą dla kombinacji Specjalista / Światło. Karty z katalogu `assets/heroes/modeling-concepts/` pokazują obecnie 21 z nich: Ana, Brom, Dara, Eira, Elira, Iskar, Kael, Koneva, Liora, Miko, Morrak, Niva, Nocten, Orien, Pyrra, Rian, Saila, Solan, Taren, Thora i Zet. Lucen ma portret, ale nie ma jeszcze karty modelowania. Petów (Bob, Frost/Szron, Pati/Patka i Spark/Iskra) nie liczę jako bohaterów.
+GDD wymienia 30 głównych bohaterów oraz Lucena jako dodatkową alternatywę dla kombinacji Specjalista / Światło. W repozytorium są referencje modelowania 24 z 31 postaci: Ana, Brom, Dara, Eira, Elira, Iskar, Kael, Koneva, Liora, Miko, Morrak, Neris, Niva, Nocten, Orien, Pyrra, Rian, Saila, Solan, Taren, Thora, Zet, Adrien i Lucen. Arkusz Adriena jest w projekcie Unity, pozostałe w `assets/heroes/modeling-concepts/`. Petów nie liczymy jako bohaterów.
 
-Do przygotowania kart pozostaje 10 bohaterów: Varek, Eron, Kiran, Adrien, Morven, Volt, Rokan, Lumen, Neris i Lucen.
+Brakuje kart modelowania siedmiu bohaterów: Varek, Eron, Kiran, Morven, Volt, Rokan i Lumen. Każdy ma już portret, ale sam portret nie zastępuje arkusza z widokami do modelowania. Obecność arkusza nie oznacza istnienia gotowego modelu 3D.
 
 ## Pyrra i Iskra / Spark — nowa referencja
 

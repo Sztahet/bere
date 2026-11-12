@@ -1,22 +1,22 @@
 ---
 name: riftoryn-lore-continuity
-description: Maintain continuity across Riftoryn lore, character biographies, timelines, dates, and events using world_history.md as the accepted canon. Use when creating, editing, reviewing, or checking world history, character backstories, ages, chronology, factions, Trials, or setting details.
+description: Maintain continuity across Riftoryn lore, character biographies, timelines, dates, and events using the current Unity project and world_history.md. Use when creating, editing, reviewing, or checking world history, character backstories, ages, chronology, factions, Trials, or setting details.
 ---
 
 # Riftoryn Lore Continuity
 
-Maintain consistency in the game's history, characters, dates, and events. Treat `world_history.md` as the accepted canon.
+Maintain consistency in the current Unity game. Use `world_history.md` as the accepted reference for the history and rules of the world.
 
 ## Canon and source precedence
 
 Use this precedence when sources disagree:
 
 1. The user's latest explicit decision in the current task.
-2. The accepted `world_history.md`.
-3. Other project lore, character, timeline, and GDD documents.
+2. The current Unity project for the story players see, including biographies, comics, and the timeline in `riftoryn-unity/Assets/Resources/`.
+3. The accepted `world_history.md` for world history, chronology, and rules. Use other project lore and GDD documents as supporting material.
 4. Inference or new proposals.
 
-Do not silently harmonize a lower-priority source by changing the accepted history. Identify the conflict, cite both locations, and follow the user's requested scope. Treat any new lore not established by the sources as a proposal, not fact.
+The browser version is an archived proof of concept (PoC). Exclude its pages and data from current continuity checks unless the user explicitly asks about the archive. When current Unity content conflicts with the accepted history, identify the conflict, cite both locations, and follow the user's requested scope. Treat any new lore not established by the sources as a proposal.
 
 ## Working canon anchors
 
@@ -27,18 +27,19 @@ Do not silently harmonize a lower-priority source by changing the accepted histo
 - Saila witnessed crystal-powered equipment explode in White Pass during the Nivoren failures; she does not know the cause. The explosions and other storage failures are linked by timing and location, not by a proven common cause.
 - The direct cause, responsibility, order of events, and exact death toll at Val Meris remain uncertain. Overload, sabotage, synchronization failure, power interruption, and crystal instability are hypotheses unless the user approves one as fact.
 - The aftermath remains relevant to living characters, communities, reconstruction, and politics. Do not assume every character experienced the same event or remembers it in the same way.
-- The Treaty establishes the annual Igrzyska Szlaków as the central binding mechanism for political disputes between the krainy and allocation of a declared common splotyt pool. Local/private disputes and internal daily governance remain outside the Games.
-- Each kraina sends representatives. Participants can form mixed teams regardless of origin and register which kraina they represent for points. Points are results, not currency or crystals; a point is counted only once.
+- The Treaty establishes the Igrzyska Szlaków as a system of binding Trials convened as needed for specific deadlocks over shared resources or the order of agreed actions. Local and private disputes remain outside Treaty Trials. Each realm already holds regular sporting competitions before 12 AT, with sporting results carrying no Treaty authority on their own.
+- The Great Games in 12 AT are the first event of this rank. The separate Val Meris Agreement authorizes them to choose between two previously negotiated governance models. Another event of this rank would require a separate agreement for an exceptional occasion.
+- The parties to an ordinary Treaty Trial appoint their representatives. For the Great Games, champions apply for one of the two governance models. A series of qualification tests assesses tactics, execution, and teamwork. Each side selects its final lineups based on the results. Mercenaries take the same tests. Finalists register whom they represent and which model receives their points. Teams may mix origins. A point is counted only once.
 - Before each Próba, publish or establish its task, stakes, scoring, point-to-allocation conversion, resource source, and duration. The shared pool is limited; reserves for essential services, safety, and rescue are protected. Local mines and private reserves remain outside the pool unless their owners agree otherwise.
-- Team members agree and register the division of points before the Próba. Treaty outcomes are binding after approval; appeals concern procedural breaches, not merely an unfavorable result. The Rada executes outcomes and may restrict access to shared resources for noncompliance, but must protect civilians' essential services.
-- Mixed alliances can be temporary. Richer krainy often hire mercenaries. Registered contracts establish the mercenary's represented kraina and point division; differences in wealth, loyalty, recruitment, and fair representation are ongoing political tensions.
+- Team members agree and register the division of points before the Próba. Approved Treaty outcomes are binding. Parties may appeal on grounds of procedural breaches or new evidence. The Rada executes outcomes and may restrict access to shared resources for noncompliance while protecting civilians' essential services.
+- Mixed alliances can be temporary. Richer krainy often hire mercenaries. Alongside registered contracts, money and promises of better terms may be offered behind the scenes to sway a champion's choice of side. The registered representation and allocation of points govern the final matches.
 
 ## Continuity workflow
 
 For any lore, character, or timeline task:
 
-1. Read the relevant portions of `world_history.md` first.
-2. Find related material in `RIFTORYN_GDD.md`, character biography/profile files, timelines, and other relevant lore documents. Search narrowly by names, dates, events, and concepts; read the surrounding passages before judging.
+1. Read the relevant portions of `world_history.md` for background and the current Unity content the player sees.
+2. Find related material in `RIFTORYN_GDD.md` and the relevant character or lore documents. Search narrowly by names, dates, events, and concepts, then read the surrounding passages before judging.
 3. Extract the proposed facts: who, where, when, age, allegiance/represented kraina, event causes, consequences, and whether each claim is established, uncertain, or new.
 4. Check chronology and calculate ages from the character's birth or stated age and event date. Remember that 3 PT to 12 ET is fifteen years. If a date or age is missing, state the uncertainty rather than inventing precision.
 5. Check causal continuity: distinguish confirmed event timing and consequences from disputed explanations. Do not turn a hypothesis about the Noc into established canon.

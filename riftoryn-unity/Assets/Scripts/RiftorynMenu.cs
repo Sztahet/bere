@@ -4,7 +4,7 @@ using UnityEngine;
 
 [Serializable] public class HeroBiography { public string city,cityEn,specialty,story,storyEn,reason,family; public bool approvedForPoc; }
 [Serializable] public class CodexHero {
-    public string id,name,role,element,img,speed,desc,passName,pass,passNameEn,passEn,attackName,attack,defName,def,pet,concept,defense;
+    public string id,name,role,element,img,speed,desc,passName,pass,passNameEn,passEn,attackName,attack,attackNameEn,attackEn,defName,def,defNameEn,defEn,pet,concept,defense;
     public int hp,cd; public bool conceptOnly; public HeroBiography bio;
 }
 [Serializable] public class ComicRect { public float x,y,width,height; }
@@ -26,9 +26,12 @@ public static class RiftorynCodexData {
         for(int i=0;i<MinorFrom.Length;i++){if(MinorFrom[i]==heroElement&&MinorTo[i]==attackElement)value=5;if(MinorFrom[i]==attackElement&&MinorTo[i]==heroElement)value=-5;}
         return value+(isTank?5:0);
     }
+    public static int Resistance(CodexHero hero,string attackElement){
+        return Resistance(hero.element,attackElement,hero.role=="Tank")+(hero.id=="lucen"&&attackElement=="Błyskawice"?25:0);
+    }
     public static string ResistanceDescription(CodexHero hero){
         var rows=new List<string>();
-        foreach(var element in Elements){int value=Resistance(hero.element,element,hero.role=="Tank");rows.Add(RiftorynL10n.Translate(element)+" "+(value>0?"+":"")+value+"%");}
+        foreach(var element in Elements){int value=Resistance(hero,element);rows.Add(RiftorynL10n.Translate(element)+" "+(value>0?"+":"")+value+"%");}
         return string.Join("\n",rows);
     }
     public static CodexRoleBonus RoleBonus(CodexRoleBonus[] bonuses,string role){if(bonuses!=null)foreach(var bonus in bonuses)if(bonus!=null&&bonus.role==role)return bonus;return null;}
@@ -51,7 +54,7 @@ public partial class RiftorynMenu : MonoBehaviour {
     Texture2D Portrait(string id){if(string.IsNullOrEmpty(id))return null;if(!portraits.TryGetValue(id,out var tex)){tex=Resources.Load<Texture2D>("Portraits/"+id);portraits[id]=tex;}return tex;}
     void Picture(Rect rect,Texture2D texture){if(texture)GUI.DrawTexture(rect,texture,ScaleMode.ScaleAndCrop);else Fill(rect,panelAlt);}
     void PictureHead(Rect rect,Texture2D texture){if(!texture){Fill(rect,panelAlt);return;}float uvHeight=Mathf.Clamp01(((float)texture.width/texture.height)/(rect.width/rect.height));float bottom=Mathf.Clamp(.90f-uvHeight,0,1-uvHeight);GUI.DrawTextureWithTexCoords(rect,texture,new Rect(0,bottom,1,uvHeight));}
-    void OnGUI(){if(trial==null||!trial.menuOpen)return;Init();Matrix4x4 old=GUI.matrix;if(page==2&&tab==0&&storyOpen&&(Screen.width<1000||Screen.height<600)){GUI.matrix=Matrix4x4.identity;HeroStoryCompact();GUI.matrix=old;return;}float scale=Mathf.Min(Screen.width/1600f,Screen.height/900f);if(scale<=0)return;GUI.matrix=Matrix4x4.TRS(new Vector3((Screen.width-1600*scale)/2,(Screen.height-900*scale)/2,0),Quaternion.identity,new Vector3(scale,scale,1));Fill(new Rect(0,0,1600,900),bg);Top();if(page==0)Home();else if(page==1)Modes();else if(tab==0&&storyOpen)HeroStory();else Codex();GUI.matrix=old;}
+    void OnGUI(){if(trial==null||!trial.menuOpen)return;Init();if(sailaReaderOpen){DrawSailaReader();return;}Matrix4x4 old=GUI.matrix;if(page==2&&tab==0&&storyOpen&&(Screen.width<1000||Screen.height<600)){GUI.matrix=Matrix4x4.identity;HeroStoryCompact();GUI.matrix=old;return;}float scale=Mathf.Min(Screen.width/1600f,Screen.height/900f);if(scale<=0)return;GUI.matrix=Matrix4x4.TRS(new Vector3((Screen.width-1600*scale)/2,(Screen.height-900*scale)/2,0),Quaternion.identity,new Vector3(scale,scale,1));Fill(new Rect(0,0,1600,900),bg);Top();if(page==0)Home();else if(page==1)Modes();else if(tab==0&&storyOpen)HeroStory();else Codex();GUI.matrix=old;}
     void Top(){Fill(new Rect(0,0,1600,70),new Color(.065f,.055f,.10f));Fill(new Rect(0,69,1600,1),line);Text(new Rect(52,20,230,36),"RIFTORYN",brand);string[] labels={"MENU","GRAJ","KODEKS"};for(int i=0;i<3;i++){var n=new GUIStyle(nav);n.normal.textColor=page==i?gold:muted;if(RiftorynL10n.Button(new Rect(310+i*116,23,104,32),labels[i],n)){page=i;storyOpen=false;scroll=Vector2.zero;detailScroll=Vector2.zero;}}Text(new Rect(1270,24,220,25),"PRE-POC  ·  v0.2.2  ·  OFFLINE",heroBadge);if(GUI.Button(new Rect(1500,20,70,32),RiftorynL10n.CurrentCode+" ⇄"))RiftorynL10n.Toggle();}
     void Home(){Frame(new Rect(48,104,1504,694),panel);Picture(new Rect(832,105,719,692),Portrait("morrak"));Fill(new Rect(49,105,885,692),new Color(.095f,.08f,.13f,.97f));Fill(new Rect(828,105,106,692),new Color(.095f,.08f,.13f,.56f));Text(new Rect(110,175,600,25),"RIFTORYN  /  PIERWSZA PRÓBA",eyebrow);Text(new Rect(106,229,690,180),"BUDUJ.\nUCIEKAJ.\nADAPTUJ SIĘ.",title);Text(new Rect(110,430,590,70),"Wejdź do labiryntu, poznaj bohaterów i sprawdź swoje umiejętności pod ostrzałem wież.",mutedText);if(Click(new Rect(110,530,215,55),"ROZPOCZNIJ PRÓBĘ  →",true))trial.OpenTraining();if(Click(new Rect(340,530,205,55),"ODKRYJ KODEKS  ↗")){page=2;tab=0;}Fill(new Rect(110,660,580,1),line);Text(new Rect(110,683,240,24),"31 BOHATERÓW",eyebrow);Text(new Rect(110,710,260,40),"Historie, role i umiejętności",mutedText);Text(new Rect(390,683,260,24),"PIERWSZA PRÓBA 3D",eyebrow);Text(new Rect(390,710,290,40),"Trzy grywalne postacie",mutedText);Text(new Rect(50,830,1400,35),"Prototyp koncepcji. Zasady, opisy, oprawa i balans pozostają do testów.",mutedText);}
     void Modes(){Text(new Rect(50,110,500,22),"PRZYGOTUJ SIĘ  /  TRYBY GRY",eyebrow);Text(new Rect(48,145,700,55),"WYBIERZ SWOJĄ PRÓBĘ",section);Text(new Rect(50,194,1000,30),"Przygotuj bohatera i poznaj labirynt przed właściwą rozgrywką.",mutedText);ModeCard(new Rect(50,252,730,390),"DOSTĘPNE  /  PRE-POC","PRÓBA BOHATERA","Wybierz bohatera, przygotuj automatyczne wieże i przejdź spiralny labirynt sam lub z sojusznikiem AI.",true);ModeCard(new Rect(800,252,750,390),"W PRZYGOTOWANIU","MECZ DRUŻYNOWY","W przyszłości dwie drużyny zbudują obronę i zmierzą się z labiryntem przeciwnika.",false);}
@@ -96,11 +99,12 @@ public partial class RiftorynMenu : MonoBehaviour {
         bool small=Screen.width<1000||Screen.height<600;Rect entry=new(1105,483,425,small?64:42);bool open;
         if(small){Fill(entry,gold);var entryStyle=new GUIStyle(button){fontSize=23,alignment=TextAnchor.MiddleCenter};open=GUI.Button(entry,StoryButtonLabel(hero.id),entryStyle);}else open=Click(entry,StoryButtonLabel(hero.id),true);
         if(open){storyOpen=true;selectedComic=0;storyZoom=1f;storyScroll=Vector2.zero;comicListScroll=Vector2.zero;}
-        Rect detail=new(1105,small?557:535,425,small?263:285);detailScroll=GUI.BeginScrollView(detail,detailScroll,new Rect(0,0,395,900));float y=0;
+        if(hero.id=="saila" && Click(new Rect(1105,small?815:795,425,35),RiftorynCodexData.Text("CZYTAJ MINIOPOWIEŚĆ  →","READ THE STORY (PL)  →"),true)){sailaReaderOpen=true;sailaChapter=0;sailaScroll=Vector2.zero;}
+        Rect detail=new(1105,small?557:535,425,hero.id=="saila"?(small?245:250):(small?263:285));detailScroll=GUI.BeginScrollView(detail,detailScroll,new Rect(0,0,395,900));float y=0;
         Text(new Rect(0,y,380,56),hero.desc,mutedText);y+=62;
         if(hero.hp>0){Text(new Rect(0,y,380,26),RiftorynL10n.Format("HP  {0}     PRĘDKOŚĆ  {1}     ODNOWIENIE  {2} s",hero.hp,RiftorynL10n.Number(hero.speed),hero.cd),heroBadge);y+=42;}
         DrawPassives(hero,ref y);
-        if(hero.hp>0){Detail(ref y,hero.attackName,hero.attack);Detail(ref y,hero.defName,hero.def);}
+        if(hero.hp>0){Detail(ref y,RiftorynCodexData.Text(hero.attackName,hero.attackNameEn),RiftorynCodexData.Text(hero.attack,hero.attackEn));Detail(ref y,RiftorynCodexData.Text(hero.defName,hero.defNameEn),RiftorynCodexData.Text(hero.def,hero.defEn));}
         else{if(!string.IsNullOrEmpty(hero.pet))Detail(ref y,"TOWARZYSZ",hero.pet);Detail(ref y,"KONCEPCJA",hero.concept);if(!string.IsNullOrEmpty(hero.defense))Detail(ref y,"OBRONA",hero.defense);Text(new Rect(0,y,375,48),"Statystyki i umiejętności tej postaci pozostają w przygotowaniu.",mutedText);y+=55;}
         Text(new Rect(0,y,380,48),IsPlayable(hero.id)?"DOSTĘPNA W PRÓBIE 3D":"POSTAĆ W KODEKSIE  ·  NIEGRYWALNA W PRÓBIE",heroBadge);GUI.EndScrollView();
     }
@@ -285,7 +289,7 @@ public partial class RiftorynMenu : MonoBehaviour {
         const float gap=4,cellHeight=35;float cellWidth=(375-gap*3)/4;
         for(int i=0;i<RiftorynCodexData.Elements.Length;i++)
         {
-            int row=i/4,col=i%4,value=RiftorynCodexData.Resistance(hero.element,RiftorynCodexData.Elements[i],hero.role=="Tank");
+            int row=i/4,col=i%4,value=RiftorynCodexData.Resistance(hero,RiftorynCodexData.Elements[i]);
             float x=col*(cellWidth+gap),cy=y+row*(cellHeight+gap);
             Frame(new Rect(x,cy,cellWidth,cellHeight),panelAlt);
             var icon=Icon("elements",GridElementIcons[i]);if(icon)GUI.DrawTexture(new Rect(x+4,cy+3,16,16),icon,ScaleMode.ScaleToFit);

@@ -751,8 +751,8 @@
           "y": 0.72111,
           "width": 0.44,
           "height": 0.02282,
-          "pl": "Tam mistrz pokazał mi, że kryształów nie trzeba się bać.",
-          "en": "There, a mentor showed me I didn't have to fear the crystals."
+          "pl": "Tam Ruvan pokazał mi, że kryształów nie trzeba się bać.",
+          "en": "There, Ruvan taught me not to fear the crystals."
         },
         {
           "x": 0.53,
@@ -1321,8 +1321,8 @@
           "y": 0.958,
           "width": 0.445,
           "height": 0.029,
-          "pl": "Liora i Niva odnalazły się już wcześniej.",
-          "en": "Liora and Niva had already found each other."
+          "pl": "Niva już tam była. Wreszcie były we trzy.",
+          "en": "Niva was already there. All three were together."
         }
       ]
     },
@@ -1601,8 +1601,8 @@
           "y": 0.485,
           "width": 0.44,
           "height": 0.029,
-          "pl": "Elira odkryła, że droga na mapie jest zalana.",
-          "en": "Elira found that the mapped road was flooded."
+          "pl": "Nieaktualna trasa Eliry opóźniła ratunek.",
+          "en": "Elira’s outdated route delayed the rescue."
         },
         {
           "x": 0.028,
@@ -1617,8 +1617,8 @@
           "y": 0.713,
           "width": 0.44,
           "height": 0.029,
-          "pl": "Elira pomogła ratownikom znaleźć inną drogę.",
-          "en": "Elira helped the rescuers find another route."
+          "pl": "Elira przyznała błąd i pomogła zmienić trasę.",
+          "en": "Elira admitted her mistake and helped find another route."
         },
         {
           "x": 0.028,
@@ -1679,8 +1679,8 @@
           "y": 0.485,
           "width": 0.44,
           "height": 0.029,
-          "pl": "Elira odkryła, że droga na mapie jest zalana.",
-          "en": "Elira found that the mapped road was flooded."
+          "pl": "Nieaktualna trasa Eliry opóźniła ratunek.",
+          "en": "Elira’s outdated route delayed the rescue."
         },
         {
           "x": 0.028,
@@ -1695,8 +1695,8 @@
           "y": 0.713,
           "width": 0.44,
           "height": 0.029,
-          "pl": "Elira pomogła ratownikom znaleźć inną drogę.",
-          "en": "Elira helped the rescuers find another route."
+          "pl": "Elira przyznała błąd i pomogła zmienić trasę.",
+          "en": "Elira admitted her mistake and helped find another route."
         },
         {
           "x": 0.028,
@@ -1757,8 +1757,8 @@
           "y": 0.485,
           "width": 0.44,
           "height": 0.029,
-          "pl": "Elira odkryła, że droga na mapie jest zalana.",
-          "en": "Elira found that the mapped road was flooded."
+          "pl": "Nieaktualna trasa Eliry opóźniła ratunek.",
+          "en": "Elira’s outdated route delayed the rescue."
         },
         {
           "x": 0.028,
@@ -1773,8 +1773,8 @@
           "y": 0.713,
           "width": 0.44,
           "height": 0.029,
-          "pl": "Elira pomogła ratownikom znaleźć inną drogę.",
-          "en": "Elira helped the rescuers find another route."
+          "pl": "Elira przyznała błąd i pomogła zmienić trasę.",
+          "en": "Elira admitted her mistake and helped find another route."
         },
         {
           "x": 0.028,
@@ -1955,16 +1955,77 @@
       "resource": "Stories/dara-twarze-w-tlumie",
       "titlePl": "Twarze w tłumie",
       "titleEn": "Faces in the Crowd",
-      "titleRect": { "x": 0.19, "y": 0.012, "width": 0.62, "height": 0.035 },
+      "titleRect": {
+        "x": 0.19,
+        "y": 0.012,
+        "width": 0.62,
+        "height": 0.035
+      },
       "panels": [
-        { "x": 0.03, "y": 0.255, "width": 0.445, "height": 0.029, "pl": "Dara spisała nazwiska dawnego oddziału.", "en": "Dara wrote down her old unit's names." },
-        { "x": 0.53, "y": 0.255, "width": 0.445, "height": 0.029, "pl": "Na Igrzyska mieli przybyć ludzie z różnych krain.", "en": "People from many realms would come to the Games." },
-        { "x": 0.03, "y": 0.47, "width": 0.445, "height": 0.029, "pl": "Górnicy szukali kogoś, kto zna ich pracę.", "en": "The miners sought someone who knew their work." },
-        { "x": 0.53, "y": 0.47, "width": 0.445, "height": 0.029, "pl": "Mogła wesprzeć ekipę i szukać odpowiedzi.", "en": "She could support her crew and seek answers." },
-        { "x": 0.03, "y": 0.69, "width": 0.445, "height": 0.029, "pl": "„Szukam ludzi z dawnego oddziału” — wyznała.", "en": "“I'm looking for my old unit,” she confided." },
-        { "x": 0.53, "y": 0.69, "width": 0.445, "height": 0.029, "pl": "Zgłosiła się, by walczyć o bezpieczeństwo ekip.", "en": "She put herself forward for the crews' safety." },
-        { "x": 0.03, "y": 0.948, "width": 0.445, "height": 0.029, "pl": "Wśród przybyłych szukała znajomych twarzy.", "en": "Among the arrivals, she searched for familiar faces." },
-        { "x": 0.53, "y": 0.948, "width": 0.445, "height": 0.029, "pl": "Ktoś wydał jej się znajomy. Czy pozna prawdę?", "en": "Someone looked familiar. Would she learn the truth?" }
+        {
+          "x": 0.03,
+          "y": 0.255,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Dara spisała nazwiska dawnego oddziału.",
+          "en": "Dara wrote down her old unit's names."
+        },
+        {
+          "x": 0.53,
+          "y": 0.255,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Na Igrzyska mieli przybyć ludzie z różnych krain.",
+          "en": "People from many realms would come to the Games."
+        },
+        {
+          "x": 0.03,
+          "y": 0.47,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Górnicy szukali kogoś, kto zna ich pracę.",
+          "en": "The miners sought someone who knew their work."
+        },
+        {
+          "x": 0.53,
+          "y": 0.47,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Mogła wesprzeć ekipę i szukać odpowiedzi.",
+          "en": "She could support her crew and seek answers."
+        },
+        {
+          "x": 0.03,
+          "y": 0.69,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "„Szukam ludzi z dawnego oddziału” — wyznała.",
+          "en": "“I'm looking for my old unit,” she confided."
+        },
+        {
+          "x": 0.53,
+          "y": 0.69,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Zgłosiła się, by walczyć o bezpieczeństwo ekip.",
+          "en": "She put herself forward for the crews' safety."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Wśród przybyłych szukała znajomych twarzy.",
+          "en": "Among the arrivals, she searched for familiar faces."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.029,
+          "pl": "Ktoś wydał jej się znajomy. Czy pozna prawdę?",
+          "en": "Someone looked familiar. Would she learn the truth?"
+        }
       ]
     },
     {
@@ -1984,8 +2045,8 @@
           "y": 0.25,
           "width": 0.445,
           "height": 0.03,
-          "pl": "Nocten znalazł w archiwum mapę Eryndoru.",
-          "en": "Nocten found a map of Eryndor in the archive."
+          "pl": "Nocten znalazł w archiwum mapę Riftorynu.",
+          "en": "Nocten found a map of Riftoryn in the archive."
         },
         {
           "x": 0.53,
@@ -2086,8 +2147,8 @@
           "y": 0.482,
           "width": 0.445,
           "height": 0.03,
-          "pl": "„Urodziłem się na północy Eryndoru”.",
-          "en": "“I was born in northern Eryndor.”"
+          "pl": "„Urodziłem się na północy Riftorynu”.",
+          "en": "“I was born in northern Riftoryn.”"
         },
         {
           "x": 0.03,
@@ -2242,8 +2303,8 @@
           "y": 0.482,
           "width": 0.445,
           "height": 0.03,
-          "pl": "Wyłączyła obronę. Przez jedenaście minut Val Meris milczało.",
-          "en": "She silenced the defenses. Val Meris was quiet for eleven minutes."
+          "pl": "Wyłączyła alarm. Obrona bramy milczała 11 minut.",
+          "en": "She cut the alarm. The gate defenses went silent for 11 minutes."
         },
         {
           "x": 0.03,
@@ -2525,14 +2586,70 @@
         "height": 0.035
       },
       "panels": [
-        { "x": 0.03, "y": 0.25, "width": 0.445, "height": 0.03, "pl": "Neris znała trasy i terminy konwojów.", "en": "Neris knew the convoys’ routes and schedules." },
-        { "x": 0.53, "y": 0.25, "width": 0.445, "height": 0.03, "pl": "Przewoźnicy ufali jej ocenie.", "en": "The carriers trusted her judgment." },
-        { "x": 0.03, "y": 0.482, "width": 0.445, "height": 0.03, "pl": "To ona wskazała miejsce napaści.", "en": "She chose where the attack would happen." },
-        { "x": 0.53, "y": 0.482, "width": 0.445, "height": 0.03, "pl": "W raporcie zatarła ślady powiązań.", "en": "She erased the links from her report." },
-        { "x": 0.03, "y": 0.703, "width": 0.445, "height": 0.03, "pl": "Po wszystkim przyszła z pomocą.", "en": "Afterward, she arrived to help." },
-        { "x": 0.53, "y": 0.703, "width": 0.445, "height": 0.03, "pl": "Jej ostrzeżeniom ufano jeszcze bardziej.", "en": "Her warnings earned even more trust." },
-        { "x": 0.03, "y": 0.948, "width": 0.445, "height": 0.03, "pl": "Sprzedawała trasy, które sama kontrolowała.", "en": "She sold routes she secretly controlled." },
-        { "x": 0.53, "y": 0.948, "width": 0.445, "height": 0.03, "pl": "Dla Neris zaufanie było zyskiem.", "en": "To Neris, trust was another profit." }
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Neris znała trasy i terminy konwojów.",
+          "en": "Neris knew the convoys’ routes and schedules."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Przewoźnicy ufali jej ocenie.",
+          "en": "The carriers trusted her judgment."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "To ona wskazała miejsce napaści.",
+          "en": "She chose where the attack would happen."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "W raporcie zatarła ślady powiązań.",
+          "en": "She erased the links from her report."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Po wszystkim przyszła z pomocą.",
+          "en": "Afterward, she arrived to help."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Jej ostrzeżeniom ufano jeszcze bardziej.",
+          "en": "Her warnings earned even more trust."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Sprzedawała trasy, które sama kontrolowała.",
+          "en": "She sold routes she secretly controlled."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Dla Neris zaufanie było zyskiem.",
+          "en": "To Neris, trust was another profit."
+        }
       ]
     },
     {
@@ -2547,14 +2664,70 @@
         "height": 0.035
       },
       "panels": [
-        { "x": 0.03, "y": 0.25, "width": 0.445, "height": 0.03, "pl": "Przewoźnik przyniósł jej nowe informacje.", "en": "A carrier brought her new information." },
-        { "x": 0.53, "y": 0.25, "width": 0.445, "height": 0.03, "pl": "Neris cierpliwie wysłuchała jego prośby.", "en": "Neris patiently listened to his request." },
-        { "x": 0.03, "y": 0.482, "width": 0.445, "height": 0.03, "pl": "Każdy szczegół trafiał do jej rejestru.", "en": "She recorded every useful detail." },
-        { "x": 0.53, "y": 0.482, "width": 0.445, "height": 0.03, "pl": "Najemnicy poznali trasę i porę przejazdu.", "en": "The hired men learned the route and time." },
-        { "x": 0.03, "y": 0.703, "width": 0.445, "height": 0.03, "pl": "Inny konwój trafił w przygotowaną zasadzkę.", "en": "Another convoy rode into the planned ambush." },
-        { "x": 0.53, "y": 0.703, "width": 0.445, "height": 0.03, "pl": "Temu, który jej zapłacił, wskazała bezpieczny szlak.", "en": "The paying carrier received a safe passage." },
-        { "x": 0.03, "y": 0.948, "width": 0.445, "height": 0.03, "pl": "Z raportu znów zniknął ważny szczegół.", "en": "Once again, a key detail vanished from the report." },
-        { "x": 0.53, "y": 0.948, "width": 0.445, "height": 0.03, "pl": "Neris zamieniła cudze ryzyko w zysk.", "en": "Neris turned other people’s risk into profit." }
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Przewoźnik przyniósł jej nowe informacje.",
+          "en": "A carrier brought her new information."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Neris cierpliwie wysłuchała jego prośby.",
+          "en": "Neris patiently listened to his request."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Każdy szczegół trafiał do jej rejestru.",
+          "en": "She recorded every useful detail."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Najemnicy poznali trasę i porę przejazdu.",
+          "en": "The hired men learned the route and time."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Inny konwój trafił w przygotowaną zasadzkę.",
+          "en": "Another convoy rode into the planned ambush."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Temu, który jej zapłacił, wskazała bezpieczny szlak.",
+          "en": "The paying carrier received a safe passage."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Z raportu znów zniknął ważny szczegół.",
+          "en": "Once again, a key detail vanished from the report."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Neris zamieniła cudze ryzyko w zysk.",
+          "en": "Neris turned other people’s risk into profit."
+        }
       ]
     },
     {
@@ -2569,14 +2742,70 @@
         "height": 0.035
       },
       "panels": [
-        { "x": 0.03, "y": 0.25, "width": 0.445, "height": 0.03, "pl": "Neris obiecała uczciwy system ostrzeżeń.", "en": "Neris promised a fair warning system." },
-        { "x": 0.53, "y": 0.25, "width": 0.445, "height": 0.03, "pl": "Przewoźnicy powierzyli jej swoje mapy.", "en": "Carriers entrusted her with their maps." },
-        { "x": 0.03, "y": 0.482, "width": 0.445, "height": 0.03, "pl": "Jej prywatna mapa szybko się zapełniła.", "en": "Her private map quickly filled with routes." },
-        { "x": 0.53, "y": 0.482, "width": 0.445, "height": 0.03, "pl": "Jeden świadek rozpoznał znak napaści.", "en": "One witness recognized a mark from an attack." },
-        { "x": 0.03, "y": 0.703, "width": 0.445, "height": 0.03, "pl": "Neris nie zdradziła po sobie niepokoju.", "en": "Neris gave no sign of alarm." },
-        { "x": 0.53, "y": 0.703, "width": 0.445, "height": 0.03, "pl": "Publicznie ostrzegła ich przed realnym zagrożeniem.", "en": "In public, she warned them of a real danger." },
-        { "x": 0.03, "y": 0.948, "width": 0.445, "height": 0.03, "pl": "Świadek obiecał przekazać jej kolejny ślad.", "en": "The witness promised to bring her another clue." },
-        { "x": 0.53, "y": 0.948, "width": 0.445, "height": 0.03, "pl": "Neris dopisała jego trasę do rejestru.", "en": "Neris added his route to her ledger." }
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Neris obiecała uczciwy system ostrzeżeń.",
+          "en": "Neris promised a fair warning system."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Przewoźnicy powierzyli jej swoje mapy.",
+          "en": "Carriers entrusted her with their maps."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Jej prywatna mapa szybko się zapełniła.",
+          "en": "Her private map quickly filled with routes."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Jeden świadek rozpoznał znak napaści.",
+          "en": "One witness recognized a mark from an attack."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Neris nie zdradziła po sobie niepokoju.",
+          "en": "Neris gave no sign of alarm."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Publicznie ostrzegła ich przed realnym zagrożeniem.",
+          "en": "In public, she warned them of a real danger."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Świadek obiecał przekazać jej kolejny ślad.",
+          "en": "The witness promised to bring her another clue."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Neris dopisała jego trasę do rejestru.",
+          "en": "Neris added his route to her ledger."
+        }
       ]
     },
     {
@@ -2732,6 +2961,630 @@
           "height": 0.02345,
           "pl": "Po niezależnym teście konwój ruszył.",
           "en": "After an independent test, the convoy moved on."
+        }
+      ]
+    },
+    {
+      "heroId": "taren",
+      "resource": "Stories/taren-lucen-ostrzezenie",
+      "titlePl": "Ostatnie ostrzeżenie",
+      "titleEn": "The Last Warning",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Mira uczyła Lucena czytać plany.",
+          "en": "Mira taught Lucen to read plans."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Odczyty stacji zaniepokoiły Mirę.",
+          "en": "The station readings worried Mira."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Chciała zamknąć część stacji.",
+          "en": "She wanted part of the station closed."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren myślał o zasilaniu osad.",
+          "en": "Taren thought of power for the settlements."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Lucen słyszał tylko część kłótni.",
+          "en": "Lucen heard only part of the argument."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren odszedł ze sprzętem.",
+          "en": "Taren left carrying equipment."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Mira została przy stacji.",
+          "en": "Mira stayed at the station."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Awaria zabrała mu matkę.",
+          "en": "The accident took his mother."
+        }
+      ]
+    },
+    {
+      "heroId": "taren",
+      "resource": "Stories/taren-lucen-rozlaka",
+      "titlePl": "Dom, który ucichł",
+      "titleEn": "The House That Fell Silent",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Po śmierci Miry dom ucichł.",
+          "en": "After Mira died, the house fell silent."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Lucen chciał wiedzieć dlaczego.",
+          "en": "Lucen wanted to know why."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren nie umiał odpowiedzieć.",
+          "en": "Taren could not answer."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Wracał do pracy i wspomnień.",
+          "en": "He returned to work and memories."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Lucen postanowił odejść.",
+          "en": "Lucen decided to leave."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren szukał zaginionego syna.",
+          "en": "Taren searched for his missing son."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "W Aurelu Lucen znalazł nowy dom.",
+          "en": "In Aurel, Lucen found a new home."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Pierwsze listy wróciły nieotwarte.",
+          "en": "The first letters came back unopened."
+        }
+      ]
+    },
+    {
+      "heroId": "taren",
+      "resource": "Stories/taren-lucen-aurel",
+      "titlePl": "Droga do światła",
+      "titleEn": "The Road to Light",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "W Aurelu wspominał dzieciństwo z Mirą i Tarenem.",
+          "en": "In Aurel, he remembered growing up with Mira and Taren."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Lucen uczył się pracy ze Światłem.",
+          "en": "Lucen learned to work with Light."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Pomagał oznaczać szlaki.",
+          "en": "He helped mark the routes."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Wskazał drogę według starego znaku.",
+          "en": "He chose a path using an old marker."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Przewodnik zatrzymał wyprawę.",
+          "en": "A guide stopped the party."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Przeprawa była uszkodzona.",
+          "en": "The crossing was damaged."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Razem poprawili oznaczenie.",
+          "en": "Together they corrected the marker."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Na Igrzyska zabrał notatkę Miry.",
+          "en": "He took Mira’s note to the Games."
+        }
+      ]
+    },
+    {
+      "heroId": "taren",
+      "resource": "Stories/taren-lucen-spotkanie",
+      "titlePl": "Spotkanie na Igrzyskach",
+      "titleEn": "Meeting at the Games",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren chciał pomóc stacjom Zerath.",
+          "en": "Taren wanted to help Zerath’s stations."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Lucen zgłosił się po stronie wspólnego nadzoru.",
+          "en": "Lucen signed up to support shared oversight."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Po latach zobaczył ojca w tłumie.",
+          "en": "After years, he saw his father in the crowd."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren rozpoznał dorosłego syna.",
+          "en": "Taren recognized his grown son."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Stanęli naprzeciw siebie.",
+          "en": "They stood face to face."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Lucen pamiętał ostrzeżenie Miry.",
+          "en": "Lucen remembered Mira’s warning."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren nie znał wszystkich odpowiedzi.",
+          "en": "Taren did not have all the answers."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Nie było łatwego pojednania.",
+          "en": "There was no easy reconciliation."
+        }
+      ]
+    },
+    {
+      "heroId": "lucen",
+      "resource": "Stories/taren-lucen-ostrzezenie",
+      "titlePl": "Ostatnie ostrzeżenie",
+      "titleEn": "The Last Warning",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Mira uczyła Lucena czytać plany.",
+          "en": "Mira taught Lucen to read plans."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Odczyty stacji zaniepokoiły Mirę.",
+          "en": "The station readings worried Mira."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Chciała zamknąć część stacji.",
+          "en": "She wanted part of the station closed."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren myślał o zasilaniu osad.",
+          "en": "Taren thought of power for the settlements."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Lucen słyszał tylko część kłótni.",
+          "en": "Lucen heard only part of the argument."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren odszedł ze sprzętem.",
+          "en": "Taren left carrying equipment."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Mira została przy stacji.",
+          "en": "Mira stayed at the station."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Awaria zabrała mu matkę.",
+          "en": "The accident took his mother."
+        }
+      ]
+    },
+    {
+      "heroId": "lucen",
+      "resource": "Stories/taren-lucen-rozlaka",
+      "titlePl": "Dom, który ucichł",
+      "titleEn": "The House That Fell Silent",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Po śmierci Miry dom ucichł.",
+          "en": "After Mira died, the house fell silent."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Lucen chciał wiedzieć dlaczego.",
+          "en": "Lucen wanted to know why."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren nie umiał odpowiedzieć.",
+          "en": "Taren could not answer."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Wracał do pracy i wspomnień.",
+          "en": "He returned to work and memories."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Lucen postanowił odejść.",
+          "en": "Lucen decided to leave."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren szukał zaginionego syna.",
+          "en": "Taren searched for his missing son."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "W Aurelu Lucen znalazł nowy dom.",
+          "en": "In Aurel, Lucen found a new home."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Pierwsze listy wróciły nieotwarte.",
+          "en": "The first letters came back unopened."
+        }
+      ]
+    },
+    {
+      "heroId": "lucen",
+      "resource": "Stories/taren-lucen-aurel",
+      "titlePl": "Droga do światła",
+      "titleEn": "The Road to Light",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "W Aurelu wspominał dzieciństwo z Mirą i Tarenem.",
+          "en": "In Aurel, he remembered growing up with Mira and Taren."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Lucen uczył się pracy ze Światłem.",
+          "en": "Lucen learned to work with Light."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Pomagał oznaczać szlaki.",
+          "en": "He helped mark the routes."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Wskazał drogę według starego znaku.",
+          "en": "He chose a path using an old marker."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Przewodnik zatrzymał wyprawę.",
+          "en": "A guide stopped the party."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Przeprawa była uszkodzona.",
+          "en": "The crossing was damaged."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Razem poprawili oznaczenie.",
+          "en": "Together they corrected the marker."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Na Igrzyska zabrał notatkę Miry.",
+          "en": "He took Mira’s note to the Games."
+        }
+      ]
+    },
+    {
+      "heroId": "lucen",
+      "resource": "Stories/taren-lucen-spotkanie",
+      "titlePl": "Spotkanie na Igrzyskach",
+      "titleEn": "Meeting at the Games",
+      "titleRect": {
+        "x": 0.215,
+        "y": 0.012,
+        "width": 0.57,
+        "height": 0.035
+      },
+      "panels": [
+        {
+          "x": 0.03,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren chciał pomóc stacjom Zerath.",
+          "en": "Taren wanted to help Zerath’s stations."
+        },
+        {
+          "x": 0.53,
+          "y": 0.25,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Lucen zgłosił się po stronie wspólnego nadzoru.",
+          "en": "Lucen signed up to support shared oversight."
+        },
+        {
+          "x": 0.03,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Po latach zobaczył ojca w tłumie.",
+          "en": "After years, he saw his father in the crowd."
+        },
+        {
+          "x": 0.53,
+          "y": 0.482,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren rozpoznał dorosłego syna.",
+          "en": "Taren recognized his grown son."
+        },
+        {
+          "x": 0.03,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Stanęli naprzeciw siebie.",
+          "en": "They stood face to face."
+        },
+        {
+          "x": 0.53,
+          "y": 0.703,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Lucen pamiętał ostrzeżenie Miry.",
+          "en": "Lucen remembered Mira’s warning."
+        },
+        {
+          "x": 0.03,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Taren nie znał wszystkich odpowiedzi.",
+          "en": "Taren did not have all the answers."
+        },
+        {
+          "x": 0.53,
+          "y": 0.948,
+          "width": 0.445,
+          "height": 0.03,
+          "pl": "Nie było łatwego pojednania.",
+          "en": "There was no easy reconciliation."
         }
       ]
     }

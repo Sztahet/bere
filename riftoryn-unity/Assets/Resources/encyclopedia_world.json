@@ -11,7 +11,15 @@
       "color": "#e1bf80",
       "desc": "Odbudowany ośrodek przy centralnych szlakach. To tutaj doszło do Nocy Zgasłych Wież; dziś miasto gości neutralny ośrodek Prób i archiwum katastrofy.",
       "history": "Podczas wojny awaria sieci odcięła drogi ewakuacyjne. Przyczyna katastrofy pozostaje nieustalona.",
-      "trial": "Proponowana pierwsza arena: jednopoziomowy labirynt z trasą od środka do wyjścia, bez skrótów i ślepych zaułków w MVP."
+      "trial": "Proponowana pierwsza arena: jednopoziomowy labirynt z trasą od środka do wyjścia, bez skrótów i ślepych zaułków w MVP.",
+      "status12": "WĘZEŁ DZIAŁA · KONTROLE OPÓŹNIAJĄ PRZEJAZD",
+      "situation12": "Wspólne szlaki są przejezdne, lecz kontrola dokumentów zatrzymanego transportu wydłuża kolejki. Część dzielnic nadal pozostaje nieodbudowana.",
+      "risk12": "Zatory przy magazynach i ryzyko napięć między strażami; brak potwierdzonej przyczyny rozbieżności w rejestrach.",
+      "needs12": "Potrzebne są dodatkowi kontrolerzy, miejsce do bezpiecznego postoju wozów oraz naprawa nawierzchni przy magazynach.",
+      "status12En": "HUB OPEN · INSPECTIONS DELAY TRAFFIC",
+      "situation12En": "The main routes are open, but document checks on a detained shipment are causing queues. Some districts remain unreconstructed.",
+      "risk12En": "Congestion near the warehouses and tension between guards; the discrepancies in the records remain unexplained.",
+      "needs12En": "More inspectors, a safe waiting area for carts, and repairs to the warehouse approach are needed."
     },
     {
       "id": "fire",
@@ -24,7 +32,15 @@
       "color": "#ff9874",
       "desc": "Miasto pieców i warsztatów na skraju wulkanicznych wyżyn, połączone z drogami prowadzącymi do centrum.",
       "history": "Tradycje Vareth łączą obróbkę minerałów z utrzymaniem urządzeń i szlaków.",
-      "trial": "Odbudowana strażnica Żelazna Brama jest propozycją lokalnego ośrodka Prób. Szczegóły przyszłej areny nie są ustalone."
+      "trial": "Odbudowana strażnica Żelazna Brama jest propozycją lokalnego ośrodka Prób. Szczegóły przyszłej areny nie są ustalone.",
+      "status12": "WARSZTATY PRACUJĄ · BRAKUJE CZĘŚCI",
+      "situation12": "Warsztaty produkują narzędzia i ogrzewacze, lecz opóźnione dostawy rud i kryształów ograniczają mniejsze zakłady.",
+      "risk12": "Ciężkie wozy na stromych odcinkach i opóźnienia paliwa przed chłodnym sezonem.",
+      "needs12": "Potrzebne są ruda z Kharum, materiały na mocowania oraz wspólne transporty do małych warsztatów.",
+      "status12En": "WORKSHOPS OPEN · PARTS SCARCE",
+      "situation12En": "Workshops make tools and heaters, but late ore and crystal deliveries constrain smaller shops.",
+      "risk12En": "Heavy carts on steep roads and late fuel before the cold season.",
+      "needs12En": "Ore from Kharum, material for mountings, and shared deliveries to small workshops are needed."
     },
     {
       "id": "ice",
@@ -37,7 +53,15 @@
       "color": "#a9e5ff",
       "desc": "Osada magazynów i górskich przejść, z których zaopatrzenie rusza na północne szlaki.",
       "history": "Nivoren rozwinęło tradycje przechowywania zasobów oraz planowania podróży w trudnych warunkach.",
-      "trial": "Lodowe Wrota to proponowany ośrodek Prób dotyczących m.in. dostępu do szlaków. Śnieg nie oznacza ustalonej mechaniki poślizgu."
+      "trial": "Lodowe Wrota to proponowany ośrodek Prób dotyczących m.in. dostępu do szlaków. Śnieg nie oznacza ustalonej mechaniki poślizgu.",
+      "status12": "PRZEŁĘCZ OTWARTA WARUNKOWO",
+      "situation12": "Konwoje przechodzą po sprawdzeniu pogody; chłodnie i schronienia czekają na części przed zimą.",
+      "risk12": "Zamiecie mogą zamknąć górny odcinek; opóźnienie urządzeń chłodzących zagraża zapasom.",
+      "needs12": "Potrzebne są części do chłodni, przegląd podpór drogi, opał oraz zapas żywności w schronieniach.",
+      "status12En": "PASS OPEN WITH RESTRICTIONS",
+      "situation12En": "Convoys cross after weather checks; cold stores and shelters await parts before winter.",
+      "risk12En": "Blizzards can close the upper route; delays in cooling repairs put supplies at risk.",
+      "needs12En": "Cooling parts, road support inspections, fuel, and food reserves at shelters are needed."
     },
     {
       "id": "lightning",
@@ -50,7 +74,15 @@
       "color": "#f3da82",
       "desc": "Miasto przekaźników i warsztatów na wschodnich skalistych wybrzeżach.",
       "history": "Zerath słynie z rozwoju łączności oraz szybkiego przekazywania wiadomości.",
-      "trial": "Dziedziniec Impulsu — proponowana arena, której wygląd nawiązuje do sieci i przewodników energii."
+      "trial": "Dziedziniec Impulsu — proponowana arena, której wygląd nawiązuje do sieci i przewodników energii.",
+      "status12": "SIEĆ DZIAŁA · MAŁE STACJE CZEKAJĄ",
+      "situation12": "Iglica zasila przekaźniki, lecz część małych stacji czeka na części i obsługę.",
+      "risk12": "Burze utrudniają pracę ekip; uszkodzenie lokalnego przekaźnika może opóźnić ostrzeżenia.",
+      "needs12": "Potrzebne są zapasowe mocowania, przegląd stacji i wynagrodzenie ekip utrzymujących mniej dochodowe odcinki.",
+      "status12En": "NETWORK OPERATING · SMALL STATIONS WAIT",
+      "situation12En": "The Spire supplies relays, but some small stations await parts and crews.",
+      "risk12En": "Storms hinder repair crews; a damaged local relay can delay warnings.",
+      "needs12En": "Spare mountings, station inspections, and funding for crews on less profitable sections are needed."
     },
     {
       "id": "nature",
@@ -63,7 +95,15 @@
       "color": "#a9db8d",
       "desc": "Osada żyznej doliny, otoczona polami i szlakami biegnącymi wzdłuż rzek.",
       "history": "Społeczności Verdan wspierają leczenie i odbudowę terenów zniszczonych przez wojnę.",
-      "trial": "Krąg Korzeni — propozycja ośrodka Prób przy szlaku handlowym. Szczegóły mapy pozostają otwarte."
+      "trial": "Krąg Korzeni — propozycja ośrodka Prób przy szlaku handlowym. Szczegóły mapy pozostają otwarte.",
+      "status12": "DOSTAWY TRWAJĄ · WAŁ WYMAGA PRACY",
+      "situation12": "Żywność rusza ku centrum, a część zbiorów pozostaje w rezerwie dla okolicznych osad.",
+      "risk12": "Po deszczach osłabiony wał i rozmokłe drogi utrudniają przejazd; żywność może się zepsuć podczas zwłoki.",
+      "needs12": "Potrzebne są kamień i narzędzia do wału, wozy oraz miejsce w chłodniach Nivoren.",
+      "status12En": "DELIVERIES CONTINUE · LEVEE NEEDS WORK",
+      "situation12En": "Food travels toward the hub while some harvest is reserved for nearby settlements.",
+      "risk12En": "A weakened levee and muddy roads hinder traffic after rain; food may spoil during delays.",
+      "needs12En": "Stone and tools for the levee, carts, and space in Nivoren cold stores are needed."
     },
     {
       "id": "earth",
@@ -76,7 +116,15 @@
       "color": "#d7af81",
       "desc": "Miasto kopalń i warsztatów kamieniarskich, położone w surowych południowo-zachodnich górach.",
       "history": "Mieszkańcy Kharum zajmują się wydobyciem splotytu i bezpieczeństwem tuneli.",
-      "trial": "Kamienny Krąg to propozycja powierzchniowej areny w pobliżu szlaku do wyrobisk."
+      "trial": "Kamienny Krąg to propozycja powierzchniowej areny w pobliżu szlaku do wyrobisk.",
+      "status12": "WYROBISKO OGRANICZONE DO KONTROLI",
+      "situation12": "Kamieniołomy pracują, ale jedno wyrobisko czeka na ocenę podpór przed wznowieniem pełnej zmiany.",
+      "risk12": "Możliwe osłabienie stropu i utrata zarobku podczas przestoju; ciężki transport zużywa drogę.",
+      "needs12": "Potrzebne są inspekcja z udziałem górników, nowe podpory, narzędzia oraz żywność dla ekip.",
+      "status12En": "EXCAVATION LIMITED PENDING INSPECTION",
+      "situation12En": "Quarries operate, but one excavation awaits a support inspection before full shifts resume.",
+      "risk12En": "A potentially weakened roof and lost wages during downtime; heavy carts wear down the road.",
+      "needs12En": "A miners’ inspection, new supports, tools, and food for crews are needed."
     },
     {
       "id": "light",
@@ -89,7 +137,15 @@
       "color": "#f2dda8",
       "desc": "Nadmorski ośrodek latarni, archiwów i obserwatoriów.",
       "history": "Uczeni Aurelu dokumentują szlaki, zagrożenia oraz wyniki Prób; nie przesądza to o siedzibie całego Urzędu.",
-      "trial": "Plac Siedmiu Świateł — propozycja miejsca szkolenia obserwatorów i organizacji lokalnych Prób."
+      "trial": "Plac Siedmiu Świateł — propozycja miejsca szkolenia obserwatorów i organizacji lokalnych Prób.",
+      "status12": "LATARNIA DZIAŁA · MAPY W WERYFIKACJI",
+      "situation12": "Obserwatorzy porównują raporty o drogach; część oznaczeń wymaga potwierdzenia w terenie.",
+      "risk12": "Nieaktualna mapa lub niesprawne światło mogą skierować podróżnych na zamknięty odcinek.",
+      "needs12": "Potrzebne są ekipy terenowe, części do latarni oraz kopie aktualnych meldunków od przewoźników.",
+      "status12En": "LIGHTHOUSE OPERATING · MAPS UNDER REVIEW",
+      "situation12En": "Observers compare road reports; some markings still need field confirmation.",
+      "risk12En": "An outdated map or failed light could guide travelers onto a closed section.",
+      "needs12En": "Field crews, lighthouse parts, and copies of current carrier reports are needed."
     },
     {
       "id": "darkness",
@@ -102,7 +158,275 @@
       "color": "#cba6f7",
       "desc": "Osada Vesper na skraju ciemnych wyżyn, przy drogach do głębokich kopalń.",
       "history": "Techniki osłony i maskowania pomagają chronić konwoje oraz ratowników. Ciemność nie jest tu utożsamiana ze złem.",
-      "trial": "Brama Zmierzchu — proponowany ośrodek Prób na północno-zachodnim szlaku."
+      "trial": "Brama Zmierzchu — proponowany ośrodek Prób na północno-zachodnim szlaku.",
+      "status12": "KONWOJE KURSUJĄ · TRASY POUFNE",
+      "situation12": "Załogi prowadzą nocne przewozy i uzgadniają przekazanie planów wskazanym ratownikom.",
+      "risk12": "Napady na przewoźników i opóźniona pomoc, jeśli ratownicy nie dostaną trasy na czas.",
+      "needs12": "Potrzebne są bezpieczne schronienia, umówiony sposób alarmowania ratowników i potwierdzenia dostaw.",
+      "status12En": "CONVOYS RUNNING · ROUTES PRIVATE",
+      "situation12En": "Crews carry goods at night and arrange to share plans with designated rescuers.",
+      "risk12En": "Attacks on carriers and delayed help if rescuers receive the route too late.",
+      "needs12En": "Safe shelters, an agreed rescue alert, and delivery confirmations are needed."
+    }
+  ],
+  "routes": [
+    {
+      "id": "ice",
+      "name": "Przełęcz Północna",
+      "nameEn": "Northern Pass",
+      "status": "Ograniczony",
+      "statusEn": "Restricted",
+      "description": "Pogoda i kontrole decydują o czasie przejazdu; konwoje korzystają ze schronień.",
+      "descriptionEn": "Weather and inspections determine crossing times; convoys use shelters.",
+      "points": [
+        {
+          "x": 51,
+          "y": 51
+        },
+        {
+          "x": 49,
+          "y": 39
+        },
+        {
+          "x": 51,
+          "y": 19
+        }
+      ],
+      "fromId": "val",
+      "toId": "ice",
+      "secondary": false
+    },
+    {
+      "id": "fire",
+      "name": "Droga Żarowisk",
+      "nameEn": "Ember Road",
+      "status": "Przejezdny",
+      "statusEn": "Open",
+      "description": "Ciężkie wozy jadą wolno; dostawy części i rud bywają opóźnione.",
+      "descriptionEn": "Heavy wagons move slowly; parts and ore deliveries can be delayed.",
+      "points": [
+        {
+          "x": 51,
+          "y": 51
+        },
+        {
+          "x": 65,
+          "y": 39
+        },
+        {
+          "x": 72,
+          "y": 33
+        },
+        {
+          "x": 82,
+          "y": 22
+        }
+      ],
+      "fromId": "val",
+      "toId": "fire",
+      "secondary": false
+    },
+    {
+      "id": "lightning",
+      "name": "Droga Przekaźników",
+      "nameEn": "Relay Road",
+      "status": "Przejezdny",
+      "statusEn": "Open",
+      "description": "Stacje przekazują meldunki; miejscowe ekipy oczekują części zapasowych.",
+      "descriptionEn": "Stations relay messages; local crews await spare parts.",
+      "points": [
+        {
+          "x": 51,
+          "y": 51
+        },
+        {
+          "x": 66,
+          "y": 47
+        },
+        {
+          "x": 82,
+          "y": 51
+        }
+      ],
+      "fromId": "val",
+      "toId": "lightning",
+      "secondary": false
+    },
+    {
+      "id": "nature",
+      "name": "Szlak Doliny",
+      "nameEn": "Valley Route",
+      "status": "Utrudniony",
+      "statusEn": "Delayed",
+      "description": "Żywność dociera do węzła, ale rozmokłe odcinki spowalniają wozy.",
+      "descriptionEn": "Food reaches the hub, but muddy sections slow the carts.",
+      "points": [
+        {
+          "x": 51,
+          "y": 51
+        },
+        {
+          "x": 47,
+          "y": 63
+        },
+        {
+          "x": 53,
+          "y": 75
+        }
+      ],
+      "fromId": "val",
+      "toId": "nature",
+      "secondary": false
+    },
+    {
+      "id": "earth",
+      "name": "Droga Kamienia",
+      "nameEn": "Stone Road",
+      "status": "Utrudniony",
+      "statusEn": "Delayed",
+      "description": "Ciężkie ładunki kamienia zużywają nawierzchnię; przejazd pozostaje możliwy.",
+      "descriptionEn": "Heavy stone loads wear the road; passage remains possible.",
+      "points": [
+        {
+          "x": 51,
+          "y": 51
+        },
+        {
+          "x": 38,
+          "y": 59
+        },
+        {
+          "x": 22,
+          "y": 68
+        }
+      ],
+      "fromId": "val",
+      "toId": "earth",
+      "secondary": false
+    },
+    {
+      "id": "light",
+      "name": "Szlak Latarni",
+      "nameEn": "Lighthouse Route",
+      "status": "Przejezdny",
+      "statusEn": "Open",
+      "description": "Przewoźnicy mogą podróżować, lecz część oznaczeń wymaga sprawdzenia.",
+      "descriptionEn": "Carriers can travel, but some signs need verification.",
+      "points": [
+        {
+          "x": 51,
+          "y": 51
+        },
+        {
+          "x": 36,
+          "y": 45
+        },
+        {
+          "x": 18,
+          "y": 39
+        }
+      ],
+      "fromId": "val",
+      "toId": "light",
+      "secondary": false
+    },
+    {
+      "id": "darkness",
+      "name": "Droga Zmierzchu",
+      "nameEn": "Dusk Road",
+      "status": "Ograniczony",
+      "statusEn": "Restricted",
+      "description": "Nocne konwoje korzystają z umówionych schronień i przekazują plan wybranym ratownikom.",
+      "descriptionEn": "Night convoys use agreed shelters and share their plans with designated rescuers.",
+      "points": [
+        {
+          "x": 51,
+          "y": 51
+        },
+        {
+          "x": 39,
+          "y": 37
+        },
+        {
+          "x": 29,
+          "y": 30
+        },
+        {
+          "x": 19,
+          "y": 22
+        }
+      ],
+      "fromId": "val",
+      "toId": "darkness",
+      "secondary": false
+    },
+    {
+      "id": "nature_lightning",
+      "fromId": "nature",
+      "toId": "lightning",
+      "secondary": true,
+      "name": "Trakt Wschodnich Pól",
+      "nameEn": "Eastern Fields Road",
+      "status": "Przejezdny · słabo strzeżony",
+      "statusEn": "Open · lightly guarded",
+      "description": "Bezpośrednia droga łączy Korzenną Przystań z Iglicą Zerath. Wozy wiozą żywność na wschód, a w drodze powrotnej zabierają części i narzędzia. Patrole są rzadsze niż na trasie przez Val Meris; podróżni umawiają wspólny przejazd i przekazują plan zaufanej stacji.",
+      "descriptionEn": "A direct road links Rooted Landing and Zerath Spire. Carts carry food east and return with parts and tools. Patrols are less frequent than on the route through Val Meris; travelers arrange shared convoys and leave their plans with a trusted station.",
+      "risk": "Rabunki na odludnych odcinkach, rozmokła droga po deszczu i dłuższe oczekiwanie na pomoc.",
+      "riskEn": "Robbery on isolated stretches, muddy roads after rain, and longer waits for help.",
+      "needs": "Potrzebne są umówione patrole, naprawa odwodnienia oraz punkt, w którym można zgłosić opóźnienie konwoju.",
+      "needsEn": "Scheduled patrols, drainage repairs, and a point for reporting delayed convoys are needed.",
+      "points": [
+        {
+          "x": 53,
+          "y": 75
+        },
+        {
+          "x": 66,
+          "y": 70
+        },
+        {
+          "x": 75,
+          "y": 64
+        },
+        {
+          "x": 82,
+          "y": 51
+        }
+      ]
+    },
+    {
+      "id": "nature_earth",
+      "fromId": "nature",
+      "toId": "earth",
+      "secondary": true,
+      "name": "Droga Kamienia i Zbóż",
+      "nameEn": "Stone and Grain Road",
+      "status": "Utrudniony · słabo strzeżony",
+      "statusEn": "Delayed · lightly guarded",
+      "description": "Bezpośredni szlak łączy Korzenną Przystań z Kamiennym Progiem. Żywność trafia do ekip górniczych, a kamień i materiały do napraw kanałów wracają do doliny. Mniej strażnic i rzadsze patrole niż na trasie przez Val Meris zwiększają ryzyko przejazdu.",
+      "descriptionEn": "A direct route links Rooted Landing and Stone Threshold. Food goes to mining crews, while stone and materials for canal repairs return to the valley. Fewer watch posts and patrols than on the route through Val Meris make the journey riskier.",
+      "risk": "Napady na wolne ciężkie wozy, uszkodzona przeprawa i opóźnione dotarcie ratowników.",
+      "riskEn": "Attacks on slow heavy carts, a damaged crossing, and delayed rescue.",
+      "needs": "Potrzebne są przegląd przeprawy, materiał do jej naprawy, wspólna eskorta i miejsce postoju dla wozów.",
+      "needsEn": "The crossing needs inspection and repair materials, a shared escort, and a stopping place for carts.",
+      "points": [
+        {
+          "x": 53,
+          "y": 75
+        },
+        {
+          "x": 45,
+          "y": 77
+        },
+        {
+          "x": 33,
+          "y": 76
+        },
+        {
+          "x": 22,
+          "y": 68
+        }
+      ]
     }
   ]
 }

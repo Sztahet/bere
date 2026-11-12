@@ -1,21 +1,26 @@
 # Riftoryn — historia świata Riftorynu
 
-**Status: jedyne źródło kanonu historii świata Riftorynu.** W razie rozbieżności z GDD, kodeksem lub innymi materiałami fabularnymi pierwszeństwo ma ten dokument. Przyczyny Nocy Zgasłych Wież pozostają niepotwierdzone w świecie opowieści.
+**Status: kanon historii świata Riftorynu.** Ten dokument ustala historię, chronologię i zasady świata. Bieżący projekt Unity jest źródłem aktualnej treści gry, w tym biografii i komiksów. Przyczyny Nocy Zgasłych Wież pozostają niepotwierdzone w świecie opowieści.
 
 ## Podstawowe fakty
 
 - Splotyt jest rzadkim kryształem, który może przyjmować, przechowywać i przewodzić energię; dostrojone urządzenia wykorzystują go do zasilania kanałów, latarni, przekaźników i wież.
+- Po osiedleniu się ludzi na kontynencie odnaleziono splotyt; najstarszy znany opis ładowania go magią Błyskawic pochodzi z Zerath. Kto pierwszy użył tej właściwości, pozostaje nieznane. Później rozwijano zastosowania innych żywiołów. Pochodzenie żywiołów i kryształu pozostaje nieznane.
+- Naładowany splotyt, zwłaszcza wielki, silnie naładowany lub skupiony w większej ilości, może przyciągać niektóre dzikie bestie, a rzadko także mityczne potwory. Nienaładowany kryształ nie wywołuje tego zjawiska; sposób, w jaki istoty wyczuwają ładunek, pozostaje nieznany.
+- Zerath jako pierwsze opracowało przesył energii między oddalonymi kryształami. Sieci na głównych szlakach ograniczają potrzebę przewożenia wielkich skupisk naładowanego splotytu, lecz wymagają zasilania, obsługi, ochrony i napraw.
+- Przesył zużywa energię i powoduje straty, które na ogół rosną z odległością. Niedawno nauczono się przesyłać energię między kryształami różnych typów żywiołowych; bezpieczeństwo tej nowej praktyki budzi spory.
+- Kryształy można ładować wielokrotnie, ale awarie mogą je uszkodzić. Rosnąca liczba urządzeń i stacji stale zwiększa zapotrzebowanie na splotyt; odpowiednio zaprojektowana gęstsza sieć może ograniczyć straty przesyłu.
 - Siedem żywiołów to siedem głównych, historycznie utrwalonych tradycji magii. Ich najstarsze znane szkoły rozwinęły się w siedmiu ośrodkach, lecz nie dowodzi to, że same żywioły pochodzą z tych miejsc ani że można ich używać wyłącznie tam.
 - Splotyt w prawidłowych warunkach zachowuje się bardzo stabilnie. Poważne zaburzenia wymagają wyjątkowej usterki, uszkodzenia lub niewłaściwych warunków pracy; ich przyczyny nie są jednakowe.
 - Niedobór kryształu, zależność od szlaków oraz rozwój połączonych sieci przyczyniają się do napięć i Wojny Siedmiu Bram.
-- Val Meris jest niezależnym, neutralnym miastem-węzłem, w którym spotykają się lub łączą szlaki z różnych krain; nie jest stolicą ani wspólnym rządem.
+- Val Meris jest niezależnym, neutralnym miastem-państwem i węzłem szlaków. Pełni rolę nieoficjalnej stolicy kontynentu, choć nie jest formalną stolicą krain ani ich wspólnym rządem.
 - Noc Zgasłych Wież jest katastrofą w Val Meris. Wieże zawodzą, drogi ewakuacyjne zostają odcięte, a przyczyna, kolejność zdarzeń i liczba ofiar pozostają niepewne.
 - Poważne awarie w kilku krainach następują w krótkim, kilkutygodniowym okresie wokół Nocy Zgasłych Wież. Ich współwystępowanie jest faktem, ale wspólna przyczyna pozostaje niepotwierdzona.
 - Katastrofa nie kończy wojny natychmiast, ale zmienia ocenę ryzyka i zwiększa presję na rozejm.
 - Igrzyska Szlaków obejmują wiążące Próby dotyczące określonych impasów w podziale wspólnych zasobów i kolejności działań. O winie i faktach decydują postępowania dowodowe, a warunki współpracy strony najpierw negocjują.
-- Zwykłe Próby dotyczą wcześniej określonych zasobów lub działań. Wyjątkowe Igrzyska w 12 ET mają rozstrzygnąć wybór między dwoma podpisanymi wariantami zarządzania. Żaden wynik nie dowodzi przyczyny Nocy ani winy za katastrofę.
+- Zwykłe Próby traktatowe odbywają się w miarę potrzeb i dotyczą wcześniej określonych zasobów lub działań. Wielkie Igrzyska w 12 ET są pierwszym wydarzeniem tej rangi. Zwołano je na mocy osobnego porozumienia, by wybrać jeden z dwóch podpisanych wariantów zarządzania. Żaden wynik nie dowodzi przyczyny Nocy ani winy za katastrofę.
 - Bogatsze krainy często zatrudniają najemników do reprezentowania ich w Igrzyskach. Ułatwia im to budowanie silnych składów, ale wywołuje spory o przewagę kupionego doświadczenia, lojalność i uczciwy podział punktów.
-- Próby i zawody są również sportem oraz rozrywką. Mniejsze ligi mają własne drużyny, kibiców i sponsorów; mieszkańcy śledzą wyniki, a część zawiera zakłady.
+- We wszystkich siedmiu krainach już przed Wielkimi Igrzyskami odbywają się regularne zawody sportowe. Mniejsze ligi mają własne drużyny, kibiców i sponsorów. Mieszkańcy śledzą wyniki, a część zawiera zakłady.
 
 ## Historia w skrócie
 
@@ -37,9 +42,55 @@ Akcja gry rozpoczyna się w 12 ET, piętnaście lat po Nocy Zgasłych Wież (3 P
 
 ### Przed wojną
 
-Splotyt jest krystalicznym minerałem występującym w złożach pod ziemią. Kryształy różnią się jakością, czystością i zachowaniem, a miasta nie zawsze stosują te same miary ani sposoby oceny. Ich pochodzenie geologiczne nie wiąże ich z jednym żywiołem ani jedną krainą. Lokalne społeczności używają różnych form wymiany; w handlu międzyregionowym wartość kryształu ustala się w umowach i zależy od jakości, dostępności oraz kosztu transportu.
+Splotyt jest rzadkim krystalicznym minerałem występującym na całym kontynencie, zarówno pod ziemią, jak i miejscami na powierzchni. W Zerath dostęp do złóż jest najłatwiejszy: kryształy często występują tam na powierzchni. W górach Nivoren można znaleźć je w jaskiniach, a w Vareth zdarza się, że wydostają się wraz z lawą. Kharum podczas wydobycia innych minerałów czasem natrafia na splotyt, lecz nie w ogromnych ilościach; kopalnie istnieją również w innych krainach, między innymi w Vesper. Warunki wydobycia i jakość złóż są różne, więc sama obecność kryształu nie gwarantuje łatwego ani bezpiecznego dostępu.
+
+Kryształy różnią się jakością, czystością i zachowaniem, a miasta nie zawsze stosują te same miary ani sposoby oceny. Ich pochodzenie geologiczne nie wiąże ich z jednym żywiołem ani jedną krainą. Lokalne społeczności używają różnych form wymiany; w handlu międzyregionowym wartość kryształu ustala się w umowach i zależy od jakości, dostępności oraz kosztu transportu.
+
+Selen jest jednostką wartości i monetą z rzadkiego selara; oprócz płatności monetami mieszkańcy rozliczają towary i usługi między sobą, czasem z dopłatą różnicy lub pomocą opłacanych pośredników. Nie ma oficjalnego podziału monety, choć ceny zapisuje się również w ułamkach selena. W każdej krainie używa się lokalnych środków drobnej wymiany, w tym drobnych selarów, i kantorów; sklepy często wydają resztę bez prowizji, a opłaty za rozmianę są niewielkie. Na północy środkiem wymiany bywają owoce z południa. Selar jest niereaktywny, nie łączy się z innymi materiałami i łatwo oddzielić go od skały z czystością przekraczającą 99,9%. Wartość metalu w monecie odpowiada wartości tej samej ilości selara jako surowca. W kopalniach Kharum selar znajduje się regularnie, ale w niewielkich ilościach; odkłada się go do ewentualnej sprzedaży za równowartość metalu w selenach. Od lat w obiegu jest około pięciu milionów selenów. Jedna moneta zawiera 10 g selara; z 1 kg powstaje 100 selenów, a tę samą masę surowca wycenia się identycznie. Specjalna mennica w Val Meris odmierza metal i wybija monety pod nadzorem Rady. Bez potrzeby unika się ich bicia, a znaczną część handlu rozlicza się towarem i kompensatą należności. Jeśli nowe monety okażą się potrzebne, koszt ich wybicia pokryje budżet Rady z wpłat krain; o potrzebie emisji decyduje Rada.
+
+Kontynent liczy około **76 tysięcy mieszkańców**, w tym 12 tys. w Verdan, po 11 tys. w Zerath i Vareth, po 9 tys. w Kharum i Aurel oraz po 8 tys. w Nivoren, Vesper i odrębnie liczonym Val Meris. Rada ustala równy na osobę przydział podstawowych dóbr, w tym żywności, dla mieszkańców wszystkich krain i Val Meris. Krainy i Val Meris wpłacają do wspólnej puli podatek solidarnościowy w wysokości 5 selenów rocznie za mieszkańca. Przydział obejmuje siedem prostych porcji żywności tygodniowo na osobę, podstawowy dostęp do wody i wsparcie ogrzewania dostosowane do warunków lokalnych. Z tej puli Rada wspiera przede wszystkim biedniejsze krainy; bogatsze zwykle korzystają z własnych zasobów i mogą nie potrzebować dodatkowej pomocy. Gdy Rada finansuje dostawy, płaci dostawcom bezpośrednio po cenach rynkowych. Równy przydział nie oznacza jednakowych dochodów ani równych dopłat dla krain. Val Meris także uczestniczy we wspólnym finansowaniu jako niezależny ośrodek. Rozbieżności w rejestrach i spory o wkłady utrudniają ocenę systemu. Przykładowe koszty, źródła dostaw i bilans opisuje [projekt gospodarki](./RIFTORYN_GOSPODARKA_I_WALUTA_PROPOZYCJA.md).
 
 Splotyt nie tworzy energii sam z siebie. Może ją przyjąć, przechować i przewodzić, a właściwie dostrojone urządzenie wykorzystuje zgromadzoną energię do pracy — na przykład do zasilania latarni, kanału, przekaźnika lub wieży. To urządzenie, jego konstrukcja i obsługa określają sposób użycia kryształu; sam splotyt nie jest gotowym źródłem konkretnego efektu magicznego. Przy prawidłowym wydobyciu, przechowywaniu i użytkowaniu zachowuje się bardzo stabilnie. Różnice jakości i stanu mają znaczenie dla wydajności oraz wymagań dostrojenia, lecz nie oznaczają, że zwykłe kryształy są z natury niestabilne.
+
+### Odkrycie i rozwój zastosowań
+
+Po osiedleniu się ludzi na kontynencie znajdowano splotyt w różnych częściach Riftorynu. Początkowo niewykorzystany kryształ był minerałem o nieznanych właściwościach; nie wiadomo, kto jako pierwszy go zobaczył ani gdzie znajdowało się pierwsze znalezisko. Według rozpowszechnionej opowieści zdolność gromadzenia energii zauważono, gdy piorun uderzył w kryształ w Zerath. Różni ludzie i rody przypisywali później odkrycie sobie lub przodkom; zachowane zapisy nie pozwalają ustalić, kto pierwszy wykorzystał tę właściwość ani potwierdzić szczegółów opowieści. Nie jest to źródłem istotnego konfliktu między krainami.
+
+Najstarszy znany zachowany opis ładowania splotytu magią Błyskawic i użycia energii do długotrwałej pracy mechanizmu pochodzi z Zerath i jest datowany na 154 PT. Zerath spopularyzowało tę praktykę, choć zapis nie dowodzi, kto użył jej pierwszy. Z czasem rzemieślnicy i magowie różnych krain nauczyli się dostrajać urządzenia i eksperymentować także z pozostałymi sześcioma nurtami.
+
+Mag przekazuje energię kryształowi podczas ładowania; potem odpowiednio przygotowany mechanizm może z niej korzystać bez nieustannej obecności maga. Naładowany splotyt zasila między innymi latarnie, ogrzewanie, chłodnie, pompy, narzędzia i automatyczne wieże. Urządzenia rolnicze mogą nawadniać pola, poruszać młyny i wspierać przechowywanie żywności, lecz nie tworzą jedzenia z niczego: nadal potrzebne są ziemia, woda, uprawy i praca ludzi. Kryształ wyczerpuje zapas i wymaga ponownego ładowania; czas działania zależy od zgromadzonej energii, jakości, urządzenia i obciążenia.
+
+Kryształ można ładować wielokrotnie. W prawidłowych warunkach samo używanie nie oznacza jego szybkiego zużycia, ale poważna awaria zasilanego urządzenia lub inny wypadek może go uszkodzić. Naprawa albo wymiana nie zawsze są możliwe na miejscu. Każdy kryształ musi być odpowiednio dostrojony do żywiołu, z którego energią ma pracować; samo pochodzenie ze złoża nie przypisuje go do jednego żywiołu.
+
+Magowie potrafią ładować splotyt własną mocą, lecz przy dużym zapotrzebowaniu jest to mało wydajne. Dlatego powstały urządzenia pobierające energię z otoczenia: w Zerath wykorzystuje się między innymi częste wyładowania atmosferyczne, a w Vareth instalacje czerpią energię z wulkanicznego ciepła. Inne krainy wypracowały własne sposoby, zależne od dostępnych źródeł i miejscowej wiedzy; ich szczegóły pozostają do opracowania. Potrzebne są sprawne urządzenia, obsługa i odpowiednie warunki — żadne źródło nie oznacza nieograniczonego, bezkosztowego ładowania.
+
+Większy kryształ może z reguły pomieścić więcej energii niż mniejszy porównywalnej jakości i pozwala zasilać większe lub dłużej pracujące instalacje. Sam rozmiar nie gwarantuje sprawności ani nieskończonej mocy: znaczenie mają także jakość, stan, dostrojenie i konstrukcja urządzenia. Duże kryształy są rzadsze, trudniejsze w wydobyciu i transporcie; skupienie większego zapasu w jednym miejscu ma zalety, ale zwiększa skutki kradzieży, uszkodzenia lub odcięcia tego miejsca.
+
+### Zagrożenie naładowanym splotytem
+
+Kiedy naładowanych kryształów zaczęto używać i gromadzić na większą skalę, mieszkańcy zauważyli, że część dzikich bestii kieruje się ku takim zapasom. Szczególnie zwracają uwagę duże lub silnie naładowane kryształy oraz wiele naładowanych kryształów zebranych razem. Spotkania z niebezpiecznymi bestiami są jednak bardzo rzadkie; mityczne potwory także mogą się pojawić, lecz należą do rzadkich zagrożeń. Nie każda bestia reaguje w ten sam sposób ani atakuje przy każdym spotkaniu. Różne zwierzęta mogą uciekać, badać źródło, bronić terenu lub próbować się zbliżyć; sposób wykrywania energii i szczegółowe zachowania poszczególnych istot nadal wymagają poznania.
+
+Nienaładowany splotyt sam nie przyciąga ich w ten sposób, choć konwój mogą zauważyć z innych powodów, a zarówno naładowane, jak i rozładowane kryształy są wartościowym celem rabusiów. Zagrożenie związane z przyciąganiem bestii nie oznacza, że prawidłowo przechowywany kryształ jest niestabilny lub samorzutnie wybucha. Korzyści z jego używania — ciepło zimą, światło, ochrona i pewniejsze dostawy — są tak duże, że mieszkańcy uczą się ograniczać ryzyko, zamiast całkowicie rezygnować ze splotytu.
+
+Na szlakach większym zagrożeniem są bandyci i napady ludzi. Rzadkie spotkania z bestiami budzą jednak silny lęk; niektórzy politycy i zwolennicy rozbudowy obrony mogą wyolbrzymiać ich częstotliwość, by uzasadnić wydatki lub naciskać na zmianę zasad. Nie oznacza to, że każde ostrzeżenie jest fałszywe ani że rzeczywiste zagrożenia można zignorować.
+
+Załogi Vesper rozwinęły sposoby maskowania promieniowania naładowanego splotytu, co pomaga chronić transporty przed dzikimi bestiami reagującymi na kryształy. Są również cenione za ochronę przewozów po ciemku i znajomość nocnych tras. Maskowanie ogranicza jedno z zagrożeń: nie usuwa ryzyka napadu, pogody ani przypadkowego spotkania ze zwierzęciem. Jego zasięg, koszt i szczegółowe ograniczenia wymagają dalszego ustalenia.
+
+### Sieć i ochrona szlaków
+
+Badacze Zerath jako pierwsi połączyli oddalone, odpowiednio dostrojone kryształy tak, by przekazywać między nimi zgromadzoną energię. W kolejnych latach stacje rozbudowano w sieci biegnące między dużymi miastami i wzdłuż uczęszczanych szlaków. Sieć przesyła energię między kryształami, nie przenosi samych kryształów; nie tworzy energii i nie jest tym samym co sieć przekazywania wiadomości, choć obie mogą korzystać z tych samych stacji.
+
+Sam przesył wymaga zasilenia przekaźników i powoduje straty. Im większa odległość, tym zazwyczaj większy udział energii trzeba zużyć lub traci się po drodze; znaczenie mają także stan, obciążenie i dostrojenie stacji. Odpowiednio zaprojektowana gęsta sieć z większą liczbą kryształów i bliższymi przekaźnikami może zmniejszyć straty, ale kosztuje więcej w budowie i utrzymaniu; nie usuwa strat automatycznie. Sąsiednie wieże i stacje mogą dzielić zasilanie na krótkich odcinkach. Daleki przesył jest zwykle kosztowny i służy najczęściej sytuacjom awaryjnym, a nie nieprzerwanemu zasilaniu całej krainy. Lokalne źródła, zapasy i transport nadal są ważne. Sieć przekazująca wiadomości może korzystać ze wspólnych stacji, lecz przekazanie informacji nie wymaga takiej samej ilości energii jak zasilenie miasta.
+
+W 8 PT, pięć lat przed Nocą Zgasłych Wież, uniwersytet w Aurel sfinansował laboratoryjną próbę dalekiego przesyłu. Badacze wybrali dwa duże, bardzo podobne kryształy dostrojone do Błyskawic. Pierwszy pozostawiono w Zerath i w pełni naładowano; drugi przewieziono drogą lądową do uniwersytetu. W próbie kryształ w Zerath oddał cały swój zapas, a kryształ w Aurel osiągnął około 10% swojej pojemności. Ponieważ kryształy były bardzo podobne, wynik wskazywał na przybliżoną stratę 90% w tym doświadczeniu; nie jest to dokładny uniwersalny współczynnik ani wynik testu konwersji żywiołów. Szczegółowy rozdział kosztów działania przekaźników i strat po drodze pozostaje nieustalony. Eksperyment nie jest powiązany z Nocą i nie wyjaśnia jej przyczyny.
+
+Niedawno nauczono się również przesyłać energię między kryształami dostrojonymi do różnych żywiołów. Kierunek określa się od żywiołu energii wysyłanej do żywiołu kryształu odbiorczego. Jeśli wysyłany żywioł zadaje odbiorczemu znacznie większe obrażenia, konwersja zachowuje około 95% energii docierającej do konwersji; przy zwykłej przewadze 90%, przy neutralności 80%, przy zwykłej słabości 70%, a przy dużej słabości 65%. W kierunku odwrotnym korzysta się z odwrotnej relacji macierzy; na przykład Błyskawice → Ogień to zwykła przewaga (90%), Ogień → Błyskawice to zwykła słabość (70%). Tego samego żywiołu nie trzeba konwertować: przy krótkim, sprawnym połączeniu do odbiorcy może dotrzeć niemal 100% energii. Wydajności konwersji nie są procentami obrażeń i nie zastępują ich zasad w grze. Straty po drodze i koszt pracy stacji są dodatkowe: 95% po konwersji nie oznacza, że 95% początkowego zapasu dotrze po dalekim przesyle.
+
+Praktyka konwersji jest nowa: jedni widzą w niej sposób pomocy miejscom bez dostępu do właściwego źródła, inni obawiają się jej skutków dla kryształów i sieci. Spór o bezpieczeństwo pozostaje otwarty; nie ustalono, że taki przesył powoduje awarie ani że był przyczyną Nocy Zgasłych Wież. Sposób zatwierdzania użycia wymaga doprecyzowania.
+
+Przesył pozwala ograniczyć przewóz dużych skupisk naładowanego splotytu, lecz nie eliminuje transportu: nadal trzeba dostarczać kryształy, części i zapasy, zwłaszcza poza siecią lub podczas napraw. Stacje i węzły same wymagają ochrony, bo zawierają naładowane kryształy, a ich awaria lub przeciążenie może pozbawić zasilania inne połączone urządzenia. Zabezpieczenia i odłączanie uszkodzonych odcinków ograniczają skutki, lecz wymagają utrzymania i nie dają gwarancji. Nie cała kraina ma dostęp do sieci; mniejsze osady korzystają także z lokalnych kryształów, zapasów i ręcznych rozwiązań.
+
+Bezpieczny szlak to droga, którą utrzymują ludzie: mapy, patrole, schronienia, łączność i wieże ostrzegawcze lub obronne. Wieża może działać bez obecności maga, lecz wymaga energii, obsługi i kontroli. Nie każda stacja jest wieżą bojową i nie każda wieża rozpoznaje zagrożenie bezbłędnie. Eskorty i załogi pomagają chronić podróżnych przed pomyłkami, bestiami, bandami i pogodą. Mapy wymagają aktualizacji, bo naprawa, awaria, burza albo migracja zwierząt mogą zmienić bezpieczeństwo odcinka. Rozbudowa jest kosztowna, dlatego nie da się osłonić wszystkich dróg jednocześnie.
 
 Pęknięcie i niekontrolowane uwolnienie energii są rzadkimi zdarzeniami związanymi z poważną awarią — na przykład wyjątkowym przeciążeniem, uszkodzeniem kryształu lub urządzenia, wadliwą regulacją albo nieodpowiednimi warunkami pracy. Nie są normalnym skutkiem użytkowania splotytu. Sam fakt pęknięcia nie wskazuje, co je spowodowało. W Nivoren zachowały się próbki jednej partii, która podczas późniejszych prób zachowała się nietypowo i uwalniała ciepło po odłączeniu chłodzenia. Był to wyjątek od zwykłego, stabilnego zachowania kryształu; nie ustalono, czy przyczyną były właściwości tej partii, sposób jej obróbki, urządzenie czy warunki testu.
 
@@ -50,6 +101,7 @@ Kryształ jest potrzebny zarówno do codziennego utrzymania infrastruktury, jak 
 Nie ma jednego sprawcy, który sam doprowadził do wojny. Napięcia narastają z kilku powodów:
 
 1. **Niedobór:** łatwo dostępne złoża się wyczerpują, a głębsze wydobycie jest kosztowniejsze i niebezpieczniejsze.
+   Rosnące miasta chcą więcej kryształów do nowych urządzeń i gęstszych sieci, a uszkodzone kryształy czasem trzeba zastąpić. Wielokrotne ładowanie zmniejsza potrzebę wymiany, ale nie pokrywa rosnącego popytu.
 2. **Współzależność:** kryształ, żywność, wiedza i bezpieczne szlaki są rozłożone nierówno.
 3. **Rozbudowa sieci:** wieże i urządzenia połączone w większe systemy wymagają stabilnych dostaw i utrudniają lokalne uniezależnienie.
 4. **Nieufność:** ograniczenie eksportu może być obroną mieszkańców albo próbą wymuszenia ustępstw; z zewnątrz trudno odróżnić jedno od drugiego.
@@ -71,7 +123,7 @@ Miasta łączą interesy handlowe, zależności infrastrukturalne i spory o dost
 - **Kamienny Próg i Korzenna Przystań:** Kharum dostarcza kamień i materiały potrzebne przy budowie oraz naprawie infrastruktury w wielu krainach. Niedobory w kamieniołomach i opóźnione dostawy utrudniają uzgadnianie napraw z Verdan, zwłaszcza gdy obie strony mają pilne potrzeby.
 - **Cienisty Port:** handel i sieć kurierów łączą go z odległymi osadami. Niektóre załogi są obciążane złą reputacją z powodu pogłosek o powiązaniach z bandami; nie jest to dowód przeciw wszystkim mieszkańcom ani przewoźnikom miasta.
 
-Zależności przecinają się również w Val Meris, neutralnym mieście-węźle. Niektóre główne szlaki z różnych krain spotykają się tam lub łączą z dalszymi trasami, dlatego przez miasto często przechodzą kupcy, kurierzy, delegacje i konwoje. Val Meris nie jest stolicą ani wspólnym rządem; jego neutralny status ma umożliwiać spotkania, wymianę i negocjacje, ale pozostaje kruchy, gdy strony rywalizują o dostęp do węzła.
+Zależności przecinają się również w Val Meris, niezależnym, neutralnym mieście-państwie. Jest nieoficjalną stolicą kontynentu: przy wspólnych szlakach spotykają się tu mieszkańcy wszystkich krain, kupcy i delegacje, a także znajdują się instytucje polityczne. Działają tu składy zapasów, centra przeładunkowe, tawerny i miejsca odpoczynku oraz świętowania. Miasto utrzymuje się głównie z pośrednictwa, handlu, usług i obsługi życia politycznego; rolnictwo, kopalnie i główna produkcja dóbr pozostają domeną krain. Mieszczą się tu szkoły, główne siedziby różnych gildii, Szkoła Magów oraz Ministerstwo Magów. Szkoła i Ministerstwo zachowują niezależność od politycznych obozów, choć poszczególni magowie mogą angażować się politycznie. Neutralny status miasta sprzyja spotkaniom i negocjacjom, ale nie usuwa sporów o kontrolę szlaków.
 
 ### Siedem żywiołów i ich tradycje
 
@@ -162,7 +214,7 @@ Pojedynek staje się argumentem za tym, by rywalizację przenieść z granic i k
 
 W 0 ET upoważnieni delegaci władz siedmiu krain podpisują Traktat po konsultacjach z miastami i strażami szlaków. Val Meris, niezależny węzeł, uczestniczy w rozmowach i gości archiwum, lecz nie podpisuje Traktatu jako ósma kraina. Powstają Rada Siedmiu Szlaków, złożona z przedstawicieli krain, oraz Urząd Prób odpowiedzialny za organizację aren. Żadna z instytucji nie jest właścicielem lokalnych kopalń.
 
-Każda kraina wnosi ustalony, ograniczony udział z wybranych źródeł lub opłat za wspólne szlaki. W zamian korzysta z ochrony tras przed jednostronną blokadą, pomocy przy naprawach i uzgodnionych minimalnych dostaw kryzysowych. Wielkość wkładów podlega okresowym przeglądom; spór o to, czy są uczciwe, nie znika. Zanim cokolwiek trafi do podziału, zabezpiecza się rezerwy na żywność, leczenie, podstawowe bezpieczeństwo i ratownictwo. Dopiero nadwyżka tworzy pulę możliwą do rozdziału w Próbie.
+Każda kraina wnosi podatek solidarnościowy naliczany od liczby mieszkańców oraz uzgodnione wkłady z wybranych źródeł lub opłat za wspólne szlaki. W zamian korzysta z ochrony tras przed jednostronną blokadą, pomocy przy naprawach i uzgodnionych minimalnych dostaw kryzysowych. Wielkość wkładów podlega okresowym przeglądom; spór o to, czy są uczciwe, nie znika. Zanim cokolwiek trafi do podziału, zabezpiecza się rezerwy na żywność, leczenie, podstawowe bezpieczeństwo i ratownictwo. Dopiero nadwyżka tworzy pulę możliwą do rozdziału w Próbie.
 
 Sprawy przechodzą trzy różne drogi. Inspektorzy zbierają jawne dowody, a niezależni arbitrzy ustalają fakty i odpowiedzialność. Strony negocjują następnie naprawy, rekompensaty lub dostęp do szlaków. Jeśli pozostaje impas dotyczący podziału wspólnego zasobu albo kolejności działań, mogą zostać uruchomione **Próby traktatowe** w ramach Igrzysk. Traktat przewiduje dla takich spraw ograniczone warianty stawek; wybór wariantu i warunki podaje się do wiadomości przed startem. Zwykła Próba nie stwierdza winy ani nie zmienia ogólnych przepisów wydobywczych. Wyjątkowe Igrzyska 12 ET odbywają się na mocy osobnego, dobrowolnie podpisanego porozumienia opisanego niżej.
 
@@ -176,9 +228,11 @@ Reprezentanci mogą tworzyć mieszane drużyny, również z najemnikami. Uzgadni
 
 ### Sport i życie wokół aren
 
-Zawody są częścią codziennego życia Riftorynu. Uczestnicy trenują, sprawdzają umiejętności i rywalizują o tytuły oraz nagrody, a widzowie kibicują ulubionym drużynom i zawodnikom. W miastach działają mniejsze ligi, kluby i szkoły; ich sezony i festiwale przyciągają lokalnych kibiców. Drużyny mogą utrzymywać się z nagród, wsparcia miast, gildii i sponsorów. Wokół aren działają też osoby przyjmujące zakłady na wyniki.
+Zawody są częścią codziennego życia Riftorynu. Jeszcze przed Wielkimi Igrzyskami każda kraina organizuje regularne zawody sportowe. Uczestnicy trenują, sprawdzają umiejętności i rywalizują o tytuły oraz nagrody, a widzowie kibicują ulubionym drużynom i zawodnikom. W miastach działają mniejsze ligi, kluby i szkoły. Ich sezony i festiwale przyciągają lokalnych kibiców. Drużyny mogą utrzymywać się z nagród, wsparcia miast, gildii i sponsorów. Wokół aren działają też osoby przyjmujące zakłady na wyniki.
 
 Te zawody mogą przynieść sławę, pieniądze i możliwość zdobycia doświadczenia, lecz same z siebie nie rozstrzygają spraw politycznych. Próba traktatowa otrzymuje moc wiążącą na podstawie Traktatu, a wyjątkowe Wielkie Igrzyska 12 ET — na podstawie osobnego Porozumienia Val Meris. Także te wydarzenia przyciągają kibiców i sponsorów; ich szczególna stawka sprawia, że zainteresowanie wykracza daleko poza arenę.
+
+Wielkie Igrzyska mają wspólny budżet na budowę labiryntów, tymczasowych wież i organizację zawodów. Do Val Meris przyjeżdżają również uzdrowiciele, projektanci, budowniczowie, rzemieślnicy i inni specjaliści. Ich praca oraz zamówienia na materiały pobudzają gospodarkę miasta. Wieże arenowe są celowo słabsze od trwałych wież obronnych; po zawodach rozbiera się je i odzyskuje dużą część elementów. Bezpieczeństwo uczestników zapewniają również pozostałe zabezpieczenia i opieka medyczna.
 
 ### Skąd wzięły się ograniczenia wydobycia
 
@@ -194,11 +248,13 @@ W piętnaście lat po Nocy wiele wież znów świeci, ale część dróg wciąż
 
 W 11 ET kilka miast odkrywa rozbieżności w księgach wydobycia i dostaw. Niektóre partie zapisano według różnych miar, innych dokumentów brakuje. Kontrola nie potwierdza ani kradzieży, ani niewinnego błędu, lecz wiadomość wyprzedza wyniki audytu. W jednej krainie ludzie pytają, dlaczego ich kopalnie stoją, kiedy sąsiad otrzymuje kolejne ładunki. W innej rodziny ocalałych obawiają się, że nacisk na szybsze wydobycie znów zagłuszy ostrzeżenia górników.
 
+Zerath, korzystając z częstych wyładowań atmosferycznych, dostarcza około połowy energii wprowadzanej do wspólnej sieci. Nie oznacza to połowy całej energii wytwarzanej lub zużywanej przez wszystkie krainy; po przesyle część energii ginie. Wielu mieszkańców uważa, że Zerath otrzymuje zbyt małe korzyści w porównaniu ze swoim wkładem, choć inni podkreślają wartość ochrony i wspólnych dostaw. Dokładny okres pomiaru, koszty i sposób rozliczania korzyści pozostają do określenia. W Nivoren trudniejsze ładowanie oraz niebezpieczny zimowy transport przez góry zwiększają zainteresowanie zagęszczeniem lokalnej sieci i stabilniejszym zasilaniem.
+
 Gdy jeden z transportów zostaje zatrzymany do wyjaśnienia dokumentów, lokalna straż żąda jego uwolnienia, a inspektorzy wzywają ochronę. Nikt nie ginie: dowódcy wycofują ludzi po interwencji ratowników i przedstawicieli miast. Incydent pokazuje jednak, jak łatwo zamknięty szlak może stać się powodem walki. Kolejne krainy wzmacniają straże; kupcy, górnicy i rodziny pamiętające wojnę domagają się rozmów, zanim ktoś wyda rozkaz, którego nie da się cofnąć.
 
 ### Dwie drogi dla siedmiu krain
 
-Zwolennicy **samodzielności krain** chcą odebrać Radzie władzę nad certyfikacją i przydziałem dostaw oraz przekazać te decyzje władzom poszczególnych krain. Uważają, że lokalni władcy lepiej znają potrzeby mieszkańców i mogą szybciej odpowiadać na niedobory. Nie wszyscy chcą likwidacji zabezpieczeń: część górników żąda lokalnych inspekcji i prawa do odmowy niebezpiecznej pracy. Inni widzą w reformie okazję do szybkiego zwiększenia wydobycia i zysków. Zwolennicy podkreślają też, że Rada już teraz wpływa na certyfikaty i wspólną pulę, choć nie jest właścicielem wszystkich kopalń.
+Zwolennicy **samodzielności krain** wskazują rozbieżności w księgach jako jeden z powodów, dla których nie ufają centralnemu nadzorowi. Chcą odebrać Radzie władzę nad certyfikacją i przydziałem dostaw oraz przekazać te decyzje władzom poszczególnych krain; niezgodności same w sobie nie dowodzą, kto zawinił. Chcą większej swobody gospodarowania i sprzedaży własnych zasobów po wypełnieniu wspólnych zobowiązań. Uważają, że lokalni władcy lepiej znają potrzeby mieszkańców i mogą szybciej odpowiadać na niedobory. Nie wszyscy chcą likwidacji zabezpieczeń: część górników żąda lokalnych inspekcji i prawa do odmowy niebezpiecznej pracy. Inni widzą w reformie okazję do szybkiego zwiększenia wydobycia i zysków. Zwolennicy podkreślają też, że Rada już teraz wpływa na certyfikaty i wspólną pulę, choć nie jest właścicielem wszystkich kopalń.
 
 Zwolennicy **wspólnego nadzoru** chcą zachować uprawnienia Rady do ustalania wspólnych ograniczeń, certyfikacji i koordynacji dostaw. Pamiętają awarie sprzed piętnastu lat i obawiają się, że decyzje podejmowane bez wspólnych zasad przeniosą ryzyko przez granice razem z kryształami i energią. Część domaga się niezależnych audytów i przejrzystszych decyzji Rady; inni boją się oddać jej jakąkolwiek władzę. W obu obozach są władcy, mieszkańcy, inżynierowie i bohaterowie z różnych krain. Żywioł ani pochodzenie nie przesądzają stanowiska.
 
@@ -214,28 +270,40 @@ Po wojnie jawne decyzje i dotrzymywanie publicznych zobowiązań stały się wa�
 
 W Val Meris negocjacje pozwalają ustalić dwa dopuszczalne warianty, ale nie dają zgody co do wyboru jednego z nich. Część uczestników obawia się, że przegrani w zwykłym głosowaniu uznają rozkład głosów za narzucony przez przeciwników; dalsza zwłoka grozi kolejnym starciem straży. Strony wybierają więc znaną mieszkańcom formę rywalizacji, której zasady, stawkę i sposób kontroli mogą wspólnie podpisać przed rozpoczęciem. To kompromis polityczny, a nie dowód, że arena lepiej od głosowania odkrywa prawdę.
 
-Sygnatariusze zawierają osobne **Porozumienie Val Meris** i zobowiązują się przyjąć wynik wyjątkowych Wielkich Igrzysk. Podpisują dwa jawne warianty:
+Mieszkańcy i kupcy naciskają na pokojowe rozwiązanie także dlatego, że blokady i mobilizacja spowalniają handel oraz odbudowę. Wielu uważa kolejną wojnę za barbarzyński sposób rozstrzygania sporu. Zwolennicy Igrzysk sądzą, że zawody przynajmniej w teorii wyłonią ludzi dobrze radzących sobie z kontrolą kryształów; umiejętność na arenie nie dowodzi jednak, kto lepiej będzie rządził, ani nie zastępuje wyboru czy kontroli władz.
 
-1. **Wariant krain:** władze krain ustalają lokalne limity wydobycia, wydają zezwolenia i certyfikują produkcję. Po wypełnieniu obowiązujących wspólnych zobowiązań decydują o zasobach pozostających w ich dyspozycji. Rada nie może jednostronnie narzucać nowych limitów lokalnym kopalniom ani zmieniać ich certyfikatów.
-2. **Wariant wspólnego nadzoru:** Rada może ustalać wspólne limity i zasady certyfikacji dla wydobycia oraz transportów objętych Traktatem, a także koordynować dostawy w tym systemie. Uprawnienia te nie obejmują wydobycia pozostającego poza wspólnym systemem i nie dają Radzie własności kopalń. Decyzje podlegają jawnym przeglądom, niezależnym audytom i odwołaniom.
+Sygnatariusze zawierają osobne **Porozumienie Val Meris** i zobowiązują się przyjąć wynik Wielkich Igrzysk. To pierwsze Igrzyska o takiej randze i stawce. Zwołanie kolejnych wymagałoby osobnego porozumienia na wyjątkową okazję. Sygnatariusze podpisują dwa jawne warianty:
+
+1. **Wariant krain:** każda kraina sama określa zasady wydobycia, przydziału i wykorzystania swoich kryształów, wydaje zezwolenia i odpowiada za lokalny nadzór. Po wypełnieniu obowiązujących wspólnych zobowiązań decyduje o zasobach pozostających w jej dyspozycji. Rada nie narzuca jej odgórnych limitów wykorzystania, lokalnego wydobycia ani jednostronnie nie zmienia lokalnych certyfikatów.
+2. **Wariant wspólnego nadzoru:** Rada ustala wspólne zasady i limity określające, kto, ile i do jakich zastosowań może wykorzystywać splotyt w krainach objętych Porozumieniem. Nadzoruje także wydobycie, certyfikację, transport i przydziały zgodnie z Traktatem. Nie daje jej to własności kopalń. Decyzje podlegają jawnym przeglądom, niezależnym audytom i odwołaniom.
 
 W obu wariantach pozostają chronione podstawowe dostawy, ratownictwo, jawne rejestry i niezależne dochodzenie w sprawie Nocy. Strony uzgadniają harmonogram przekazania lub utrzymania kompetencji oraz późniejszy wspólny przegląd skutków. Igrzyska wybiorą między tymi wariantami, ale nie udowodnią, kto spowodował katastrofę ani który system okaże się doskonały. Nie są automatycznym precedensem dla zwykłych Prób: wyjątkową stawkę nadaje im osobne porozumienie podpisane przez wszystkich uprawnionych sygnatariuszy.
+
+Obie strony ogłaszają również programy konkretnych przedsięwzięć i obietnic dla różnych krain, na przykład poprawy sieci w regionie zależnym od transportu. Uczestnicy z dowolnej krainy mogą zgłosić się do dowolnej strony także po to, by wesprzeć wybraną obietnicę. Wynik serii rozstrzyga między dwoma wariantami; wyniki indywidualne bohaterów, drużyn i reprezentowanych krain wpływają na kolejność realizacji obietnic w zwycięskim programie. Szczegółowe przeliczenie wyników na priorytety, wiążący zakres programów, ich finansowanie, rozstrzyganie remisów oraz los obietnic strony przegranej pozostają do ustalenia. Żaden plan nie znosi wcześniej chronionych dostaw ani ratownictwa.
+
+Konkretne projekty obu stron dla siedmiu krain i Val Meris, wraz z ich kosztami politycznymi i sposobami finansowania, przedstawia [propozycja programów Igrzysk](./RIFTORYN_PROGRAMY_STRON_IGRZYSK_PROPOZYCJA.md). Pozostaje ona do zatwierdzenia i nie przesądza wyniku zawodów.
+
+### Zgłoszenia i kwalifikacje
+
+Chętni championi zgłaszają się do Wielkich Igrzysk po stronie jednego z dwóch wariantów zarządzania. Przed naborem Urząd Prób ogłasza zasady kwalifikacji. Kandydaci przechodzą serię testów sprawdzających znajomość taktyki, wykonanie zadań i współpracę w drużynie. Na podstawie wyników każda strona wybiera najlepszych kandydatów do swoich składów finałowych. Właściwą klasyfikację Igrzysk rozlicza się od początku serii finałowej.
+
+Obie strony mogą zatrudniać najemników. Zdarza się również przekupywanie championów za kulisami: pieniądze lub obietnica lepszego kontraktu mogą skłonić zawodnika do zgłoszenia się po stronie, której wcześniej nie zamierzał poprzeć. Najemnicy przechodzą te same kwalifikacje co pozostali kandydaci. W składach finałowych obowiązuje zarejestrowana reprezentacja i wcześniej ustalony podział punktów.
 
 ### Seria meczów i wynik Igrzysk
 
 Wielkie Igrzyska 12 ET nie są jednym pojedynkiem dwóch drużyn, lecz serią meczów wielu drużyn. Przed rozpoczęciem sygnatariusze ogłaszają harmonogram, zasady punktacji, sposób rozliczania punktów oraz warunki dodatkowych meczów. Uczestnicy rejestrują, kogo reprezentują i na rzecz którego z dwóch wariantów liczą się ich punkty; podział punktów drużyn mieszanych ustala się przed startem. Pochodzenie, żywioł ani sam skład drużyny nie przesądzają o reprezentacji. Najemnicy również występują na podstawie wcześniej zarejestrowanych ustaleń.
 
-Punkty zdobyte w kolejnych meczach są przypisywane reprezentowanym stronom zgodnie z ogłoszonymi zasadami, a następnie zliczane dla obu wariantów. Tego samego punktu nie można przypisać dwukrotnie. Punkty klasyfikacji Igrzysk nie są tym samym co punkty za pary ataków, które służą do ustalenia wyniku pojedynczego meczu.
+Punkty zdobyte w kolejnych meczach są przypisywane reprezentowanym stronom zgodnie z ogłoszonymi zasadami, a następnie zliczane dla obu wariantów. Tego samego punktu nie można przypisać dwukrotnie. Punkty klasyfikacji Igrzysk nie są tym samym co punkty za pary ataków, które służą do ustalenia wyniku pojedynczego meczu. Wyniki indywidualne, drużynowe i krain służą również ustaleniu kolejności obietnic, ale dokładne reguły tego zestawienia pozostają otwarte.
 
 Pojedynczy mecz może zakończyć się remisem. Jeśli po zaplanowanej serii oba warianty mają tyle samo punktów, drużyny rozgrywają kolejne mecze na wcześniej ogłoszonych warunkach, aż po rozliczeniu meczu jeden wariant uzyska przewagę. Dopóki utrzymuje się remis, Igrzyska nie są rozstrzygnięte. Prawomocny wynik całej serii wskazuje wariant z większą liczbą punktów; przegrana w jednym meczu nie oznacza jeszcze przegranej w całych Igrzyskach.
 
-Dokładna liczba drużyn i meczów, punktacja za wyniki meczów, sposób przydziału punktów w mieszanych składach oraz dobór par w dodatkowych meczach pozostają do ustalenia. Muszą zostać uzgodnione i ogłoszone przed rozpoczęciem Igrzysk, bez zmieniania ich w trakcie rywalizacji.
+Dokładny format kwalifikacji, liczba drużyn i meczów, punktacja za wyniki meczów, sposób przydziału punktów w mieszanych składach oraz dobór par w dodatkowych meczach pozostają do ustalenia. Zasady kwalifikacji muszą zostać ogłoszone przed naborem, a zasady finałów przed rozpoczęciem serii meczów. Warunki pozostają wiążące w trakcie każdego z etapów.
 
 ### Protokół o kompetencjach i gwarancjach
 
 Załączony do Porozumienia **Protokół Val Meris** określa, jak wprowadzić wybrany wariant. Wysłannicy siedmiu krain przedstawiają jawne pełnomocnictwa do związania swoich władz wynikiem. Rada podpisuje protokół w zakresie wspólnych rejestrów, puli, usług i szlaków objętych Traktatem; przedstawiciele miast bezpośrednio objętych ustaleniami potwierdzają warunki dotyczące ich dostaw i infrastruktury. Niezależni arbitrzy sprawdzają pełnomocnictwa i przechowują podpisany tekst. Każda strona poznaje oba warianty, zasady rozstrzygnięcia i okres obowiązywania przed rozpoczęciem Igrzysk.
 
-Niezależnie od wyniku lokalna własność kopalń pozostaje bez zmian. Obowiązujące wkłady do wspólnej puli, zatwierdzone przydziały i umowy dostaw nie mogą zostać anulowane wstecznie pod pretekstem reformy. Wkłady pochodzą wyłącznie z wcześniej wskazanych źródeł lub opłat za szlaki, zgodnie z ogłoszonym harmonogramem; najpierw zabezpiecza się uzgodnione rezerwy na podstawowe usługi, bezpieczeństwo i ratownictwo. Wielkość i sposób obliczania przyszłych wkładów pozostają przedmiotem odrębnych uzgodnień. Po wniesieniu wkładu kraina nie może sama go wycofać ani zmienić zatwierdzonego wspólnego przydziału.
+Niezależnie od wyniku lokalna własność kopalń pozostaje bez zmian. Obowiązujące wkłady do wspólnej puli, zatwierdzone przydziały i umowy dostaw nie mogą zostać anulowane wstecznie pod pretekstem reformy. Wkłady, w tym podatek solidarnościowy, pochodzą z wcześniej wskazanych źródeł lub opłat za szlaki, zgodnie z ogłoszonym harmonogramem; najpierw zabezpiecza się uzgodnione rezerwy na podstawowe usługi, bezpieczeństwo i ratownictwo. Wielkość i sposób obliczania przyszłych wkładów pozostają przedmiotem odrębnych uzgodnień. Po wniesieniu wkładu kraina nie może sama go wycofać ani zmienić zatwierdzonego wspólnego przydziału.
 
 Rada w obu wariantach prowadzi wspólny rejestr, koordynuje uzgodnione szlaki oraz pomoc kryzysową i publikuje wyniki audytów. Nie może użyć podstawowych dostaw ani ratownictwa jako sankcji. Niezależni arbitrzy rozpatrują spory o wykonanie protokołu; sankcje mogą ograniczyć przyszłe dodatkowe korzyści ze wspólnych usług.
 
@@ -253,7 +321,9 @@ Przywódca, który po uczciwej przegranej dotrzymuje publicznego słowa, może z
 
 ### Bohaterowie na drodze do Igrzysk
 
-Wspólna historia Nivy, Liory i Eliry oraz ich indywidualne biografie zostały zatwierdzone na potrzeby PoC w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md); nie planuje się obecnie ich rozszerzania.
+Historie bohaterów mają być przedstawiane graczowi stopniowo: im więcej gra daną postacią, tym więcej może się o niej dowiedzieć. Wiedza gracza nie oznacza automatycznie, że pozostałe postacie znają te same fakty. Dokładne progi, sposób odblokowania i podział informacji pozostają do zaprojektowania.
+
+Wspólna historia Nivy, Liory i Eliry oraz ich indywidualne biografie zostały zatwierdzone na potrzeby PoC w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md). Niva i Liora odnalazły się pierwsze na górskim szlaku. Elira szukała obu sióstr w rejestrach ewakuacyjnych. Odszukała dom Liory w Verdan i zastała tam również Nivę. Cała trójka spotkała się przed powodzią w 9 ET.
 
 Historia Dary również została zatwierdzona na potrzeby PoC w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md). Na Igrzyskach chce wesprzeć bezpieczeństwo ekip i odnaleźć dawnych towarzyszy, by zapytać o wydarzenia sprzed Nocy; jej podejrzenia nie rozstrzygają przyczyny katastrofy.
 
@@ -267,12 +337,22 @@ Saila chce uzyskać dostęp do zapisów z Białego Przesmyku i zapewnić dostawy
 
 ## Siedem krain po wojnie
 
+### Jeden szlak — Biały Przesmyk
+
+Gdy zapowiedziano zimową dostawę części do chłodni, przewoźnicy z Białego Przesmyku znów sprawdzili dwa możliwe przejścia. Krótsza droga prowadziła przez górskie wąwozy, gdzie zamieć potrafiła zatrzymać ludzi na kilka dni. Dłuższa wymagała dodatkowych wozów, eskorty i zapasów. Uszkodzona stacja na krótszym odcinku oznaczała, że ostrzeżenie mogło nie dotrzeć do następnego schronienia.
+
+Załoga mogła uruchomić awaryjny przesył energii, lecz był kosztowny, a zasilanie nie zastąpiłoby uszkodzonej części. Miejscowi przewodnicy nalegali na sprawdzenie drogi przed wyjazdem; kupcy przypominali, że bez części zapasy żywności pozostaną zagrożone. Część mieszkańców popierała rozbudowę gęstszej sieci między schronieniami, inni pytali, skąd wziąć kryształy, załogi i pieniądze oraz kto zapłaci za ich utrzymanie.
+
+Saila chciała poznać historię urządzenia, zanim stacja zostanie ponownie uruchomiona. Zet znał trasę i koszt opóźnienia dostawy, a Rian sądziła, że może pomóc zabezpieczyć urządzenie, jeśli otrzyma potrzebne zapisy. Żadne z nich nie miało pełnej odpowiedzi. Dla kandydatów do Igrzysk obietnica naprawy tego odcinka mogła oznaczać konkretną decyzję: najpierw zapewnić części i bezpieczeństwo załodze, czy skierować ograniczone zasoby na inny pilny szlak. Nie przesądza to wyniku Igrzysk ani postaw wszystkich mieszkańców krainy.
+
 Opisane stanowiska są propozycją i nie oznaczają, że wszyscy mieszkańcy danej krainy myślą tak samo.
 Poniższe obrazy codzienności dotyczą konkretnych miejsc i zwyczajów, a nie wszystkich mieszkańców krainy. Ludzie korzystają z różnych żywiołów, wykonują rozmaite zawody i mogą nie uczestniczyć w opisanych praktykach.
 
 ### Vareth — tradycje Ognia
 
 Vareth broni znaczenia warsztatów, pieców i napraw. Część delegatów uważa, że bez silnych dostaw i rozwoju techniki miasta pozostaną bezbronne. Inni, pamiętając o przegrzanych urządzeniach z czasów wojny, promują ręczne zabezpieczenia i możliwość odłączenia pojedynczej wieży od sieci.
+
+Vareth obrabia metale i wytwarza narzędzia, części oraz urządzenia dla innych krain. Wykorzystuje też ciepło wulkanu do ładowania splotytu. Jednym z produktów jest urządzenie cieplne wynalezione w Aurel: mały kryształ splotytu dostrojony do Ognia zasila mechanizm, który powoli oddaje zgromadzoną energię jako ciepło, nawet przez wiele miesięcy przy odpowiednim użyciu. Czas działania zależy od kryształu i sposobu korzystania. Urządzenia można ładować u odbiorcy, lecz kosztuje to znacznie więcej; ładowanie w Vareth jest najtańsze. Dlatego istotną część transportów do Vareth stanowią rozładowane urządzenia wracające do ponownego naładowania, a gotowe wracają do użytkowników.
 
 **Codzienność i zwyczaje.** W Żarowisku dzień wielu warsztatów zaczyna się od sprawdzenia pieców i przewodów, a kończy wspólnym sprzątaniem stanowisk. W niektórych dzielnicach sąsiedzi przynoszą drobne przedmioty do naprawy przy wygaszanym piecu; za pomoc płacą pieniędzmi, materiałem albo własną pracą.
 
@@ -284,6 +364,8 @@ Vareth broni znaczenia warsztatów, pieców i napraw. Część delegatów uważa
 
 Nivoren wspiera planowanie dostaw i utrzymywanie zapasów. Zarazem rozumie, że niekontrolowany magazyn może stać się narzędziem nacisku. Jego przedstawiciele zabiegają o wspólne zasady ewidencji, ale nie chcą, by każdą lokalną rezerwę uznawano za podejrzaną.
 
+Nivoren jest najbiedniejszą krainą, patrząc na codzienny dostęp mieszkańców do technologii, żywności, energii i kryształów, a nie wyłącznie na majątek władz. Dostarcza lód i korzysta z chłodni, ale ma niewiele zasobów pozwalających łatwo zrównoważyć swoje potrzeby. Przy obecnym centralnym zarządzaniu Rady korzysta ze wspólnych zasad dostaw i nie musi samodzielnie pokrywać wszystkiego własnym wkładem. Chronione podstawowe dostawy i ratownictwo obowiązują w obu wariantach Porozumienia; nie oznacza to braku wszystkich niedoborów czy opóźnień. Przy większej samodzielności i handlu na innych zasadach mieszkańcy obawiają się, że wartość oferowanego lodu i usług może nie wystarczyć na pozostałe potrzeby. Dlatego szukają także innych sposobów wniesienia wkładu w życie kontynentu; ich wybór pozostaje otwarty.
+
 **Codzienność i zwyczaje.** W osadach przy Białym Przesmyku przed podróżą sprawdza się pogodę, stan przejść i zapasy na drogę. Niektóre rodziny zostawiają w schronieniach suche drewno lub jedzenie dla kolejnych podróżnych; nie każda osada może sobie na to pozwolić.
 
 **Miejsca spotkań.** Przy magazynach i schroniskach ludzie rozgrzewają się przy stole, wymieniają wiadomości o trasach i wypatrują konwojów. Zimą takie spotkania bywają jedyną okazją, by usłyszeć wieści z sąsiedniej doliny.
@@ -293,6 +375,8 @@ Nivoren wspiera planowanie dostaw i utrzymywanie zapasów. Zarazem rozumie, że 
 ### Zerath — tradycje Błyskawic
 
 Zerath chce odbudować łączność i szybki transport wiadomości. Wymaga jednak potwierdzania najważniejszych sygnałów niezależnym kanałem. Spiera się z tymi, którzy chcą wprowadzać tyle kontroli, że ostrzeżenia docierałyby za późno.
+
+Zerath ma najłatwiejszy dostęp do splotytu, a jego częste burze umożliwiają ładowanie kryształów. Dostarcza około połowy energii wprowadzanej do wspólnej sieci, lecz jego mieszkańcy różnią się w ocenie, czy otrzymują za to dość korzyści.
 
 **Codzienność i zwyczaje.** W okolicach Iglicy posłańcy, operatorzy i sąsiedzi dzielą się wiadomościami między kolejnymi zmianami. W części stacji ważną wiadomość powtarza się innym kanałem, lecz pilne ostrzeżenie może wymagać działania przed potwierdzeniem.
 
@@ -304,6 +388,8 @@ Zerath chce odbudować łączność i szybki transport wiadomości. Wymaga jedna
 
 Verdan traktuje irygację, żywność i leczenie jako priorytet w czasie niedoboru. Popiera lokalne naprawy i rozproszone zapasy. Ostrzega, że jednakowe zasady dostaw mogą być niesprawiedliwe wobec osad, które nie mają alternatywnego źródła wody ani innej drogi transportu.
 
+Verdan uchodzi za spokojną krainę rolniczą i ma najmniejsze zapotrzebowanie na splotyt, odnoszone do potrzeb mieszkańców. Dużą nadwyżkę żywności przekazuje do wymiany z innymi krainami. Nadal korzysta z kryształów tam, gdzie są potrzebne, a warunki i dobrobyt różnią się między osadami.
+
 **Codzienność i zwyczaje.** W dolinach praca zmienia się wraz z porą roku: mieszkańcy doglądają pól, naprawiają kanały i gromadzą nasiona. Niektóre rodziny wymieniają sadzonki i przepisy po zbiorach; inni utrzymują się z handlu, leczenia czy pracy na szlakach.
 
 **Miejsca spotkań.** W Korzennej Przystani targ i wspólne stoły przy ogrodach przyciągają zarówno hodowców, jak i podróżnych. Można tam kupić jedzenie, poprosić o pomoc przy naprawie albo obejrzeć próbę miejscowej drużyny.
@@ -312,7 +398,7 @@ Verdan traktuje irygację, żywność i leczenie jako priorytet w czasie niedobo
 
 ### Kharum — tradycje Ziemi
 
-Kharum domaga się bezpieczniejszego tempa wydobycia, niezależnych inspekcji i udziału górników w ocenie ryzyka. Inne krainy potrzebują jego kryształów, ale nie zawsze chcą ponosić koszty bezpieczniejszej pracy. Kharum obawia się także, że kontrola zewnętrzna może stać się pretekstem do przejęcia wpływów nad kopalniami.
+Kharum wydobywa i dostarcza na kontynent rudy, kamień oraz inne minerały; podczas prac czasem odkrywa niewielkie złoża splotytu. Domaga się bezpieczniejszego tempa wydobycia, niezależnych inspekcji i udziału górników w ocenie ryzyka. Inne krainy potrzebują jego surowców, ale nie zawsze chcą ponosić koszty bezpieczniejszej pracy. Kharum obawia się także, że kontrola zewnętrzna może stać się pretekstem do przejęcia wpływów nad kopalniami.
 
 **Codzienność i zwyczaje.** W Kamiennym Progu zmiany w kopalniach wyznaczają rytm części miasta, ale równie ważne są warsztaty, sklepy i domy na powierzchni. Przed zejściem niektóre ekipy wspólnie sprawdzają narzędzia i umawiają się, kto zgłosi zauważone pęknięcia.
 
@@ -324,6 +410,8 @@ Kharum domaga się bezpieczniejszego tempa wydobycia, niezależnych inspekcji i 
 
 Aurel porównuje raporty i przechowuje kopie świadectw. Jego archiwa są ważne, lecz nie nieomylne: część danych jest niepełna, a niektóre zapisy wykonano po czasie. Pozostałe krainy żądają kopii poza Aurel i prawa do niezależnego sprawdzania dokumentów.
 
+Aurel jest ośrodkiem wynalazków i badań. Jego wyspecjalizowane wieże oświetlają niektóre szlaki nocą, a wynalezione tu urządzenia cieplne wykorzystują kryształy ładowane między innymi w Vareth. Badacze zależą od materiałów, załóg i wiedzy innych krain.
+
 **Codzienność i zwyczaje.** W okolicach Latarni obserwatorzy notują pogodę i widoczność szlaków, a kopiści porównują mapy z relacjami podróżnych. Część rodzin zapisuje ważne wiadomości dla bliskich na wyjeździe; inni wolą przekazywać je osobiście.
 
 **Miejsca spotkań.** Czytelnie, nabrzeżne targi i ławy przy latarni służą mieszkańcom, marynarzom i przyjezdnym. Można tam przejrzeć udostępnioną mapę albo usłyszeć, jak ktoś poprawia ją na podstawie własnej wyprawy.
@@ -333,6 +421,8 @@ Aurel porównuje raporty i przechowuje kopie świadectw. Jego archiwa są ważne
 ### Vesper — tradycje Ciemności
 
 Vesper podkreśla, że osłony i maskowanie chronią konwoje oraz ratowników. Rozumie jednak, że te same techniki mogą utrudniać kontrolę ładunków. Opowiada się za ewidencją dostaw, ale sprzeciwia się ujawnianiu wszystkim dokładnego położenia ekip ratunkowych i zapasów.
+
+Jego rozpoznawalny wkład to dyskretna ochrona transportów i informacji: załogi potrafią maskować promieniowanie splotytu przed bestiami oraz skutecznie pracować w ciemności, osłaniając konwoje także nocą. Poufność może chronić ludzi przed bandytami, ale może też zostać wykorzystana do ukrycia nadużyć; Vesper nie jest jednolitą społecznością przestępców ani wyłącznie ratowników.
 
 **Codzienność i zwyczaje.** W Cienistym Porcie kurierzy i przewoźnicy planują przejścia między magazynami, schronieniami i drogami do kopalń. Niektórzy przekazują zaufanym osobom plan podróży na wypadek opóźnienia, nie ujawniając go wszystkim wokół.
 
@@ -346,9 +436,9 @@ Val Meris leży przy skrzyżowaniu tras, którymi podróżują kupcy, kurierzy i
 
 ## Ślady Nocy w historiach bohaterów
 
-Saila miała około ośmiu lat, gdy w Białym Przesmyku wybuchły urządzenia magazynowe; w 12 ET ma około dwudziestu trzech. Uciekła w góry, gdzie jeszcze w roku katastrofy spotkała mistrza. Najpierw poznawała kryształy i podstawy opanowania mocy, a dopiero z wiekiem pracowała przy urządzeniach chłodzących. Jej doświadczenie obejmuje zatem blisko piętnaście lat nauki i praktyki, nie piętnaście lat samodzielnej pracy.
+Saila miała około ośmiu lat, gdy podczas wydarzeń Nocy Zgasłych Wież w Białym Przesmyku wybuchły urządzenia magazynowe; w 12 ET ma około dwudziestu trzech. Uciekła w góry, gdzie znalazł ją Ruvan i przygarnął. Nauczył ją pierwszych podstaw magii Lodu i cierpliwego prowadzenia mocy kryształów. Widząc jej potencjał, wykorzystał dawne kontakty, by zdobyć dla niej stypendium w szkole magów w Val Meris, nieoficjalnej stolicy kontynentu. Podczas przerw wracała do rodzinnego Białego Przesmyku, gdzie Ruvan dodatkowo uczył ją praktycznego władania zimnem, którego szkoła nie rozwijała dostatecznie. Później pracowała przy urządzeniach chłodzących. Samodzielne ładowanie kryształów własną mocą ją wyczerpuje. Jej blisko piętnaście lat nauki i praktyki nie rozstrzyga ani przyczyny Nocy, ani bezpieczeństwa gwałtownego wzrostu wydobycia.
 
-W bieżącym sporze Saila chce uzyskać dostęp do zapisów z Przesmyku i doprowadzić do niezależnego sprawdzenia urządzeń oraz zabezpieczenia dostaw dla przełęczy. Wie, że kryształy potrafią działać przewidywalnie przy właściwej obsłudze; pamięta też, że nie zna warunków poprzedzających wybuch. Jej obserwacje nie dowodzą ani naturalnej niestabilności kryształów, ani bezpieczeństwa gwałtownego zwiększenia wydobycia. Może poprzeć konkretne rozwiązania różnych stron i zmienić zdanie pod wpływem dowodów.
+W bieżącym sporze Saila chce uzyskać dostęp do zapisów z Przesmyku i doprowadzić do niezależnego sprawdzenia urządzeń oraz zabezpieczenia dostaw dla przełęczy. Wie, że kryształy potrafią działać przewidywalnie przy właściwej obsłudze; pamięta też, że nie zna warunków poprzedzających wybuch. Jej obserwacje nie dowodzą ani naturalnej niestabilności kryształów, ani bezpieczeństwa gwałtownego zwiększenia wydobycia. Saila widzi, jak większa swoboda korzystania ze splotytu pozwoliłaby jej i innym mieszkańcom Nivoren rozwijać chłodnie, ogrzewanie i bezpieczniejsze dostawy bez oczekiwania na każdą decyzję Rady. Zarazem obawia się, że po zniesieniu wspólnych ograniczeń ktoś wykorzysta nową swobodę bez dostatecznej ostrożności. Wie też, że opóźnienie potrzebnych napraw ma własną cenę. Nie uważa własnych umiejętności za gwarancję bezpieczeństwa wszystkich urządzeń. Może poprzeć konkretne rozwiązania różnych stron i zmienić zdanie pod wpływem dowodów; nie wybrała jeszcze strony.
 
 Inni bohaterowie mogą mieć własne stawki w sporze, niezależne od stanowisk swoich krain: Rian zabiega o dostęp do wiedzy o bezpiecznej obsłudze urządzeń, Zet o utrzymanie małych stacji przekaźnikowych, a Eron o drogę łączącą odległe osady. Ich szczegółowe biografie pozostają w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md); przynależność do drużyny nie przesądza ich poglądów.
 
@@ -364,7 +454,7 @@ Siedem dużych ośrodków handlowych ustala zasady bezpiecznego podróżowania. 
 
 #### 154 PT — opisanie splotytu
 
-Badacze opisują kryształ zdolny przyjmować, przechowywać i przewodzić energię żywiołów. Opracowują pierwsze sposoby dostrajania go do urządzeń rolniczych, warsztatowych i obronnych. W prawidłowych warunkach splotyt okazuje się bardzo stabilny; zapiski odnotowują rzadkie awarie i różnice między kryształami, ale nie podają jednego progu bezpiecznego obciążenia dla wszystkich odmian.
+Najstarszy znany zachowany opis z Zerath dokumentuje ładowanie odnajdywanego wcześniej splotytu magią Błyskawic i wykorzystanie zapasu do pracy mechanizmu. Nie rozstrzyga, kto pierwszy poznał tę właściwość. Z czasem inne ośrodki rozwijają zastosowania pozostałych nurtów oraz urządzenia rolnicze, warsztatowe i obronne. W prawidłowych warunkach splotyt okazuje się stabilny; zapiski odnotowują różnice między kryształami i rzadkie awarie, ale nie podają jednego progu obciążenia dla wszystkich odmian.
 
 #### 128 PT — Umowa Siedmiu Szlaków
 
@@ -378,7 +468,7 @@ Na szlaku powstaje pierwsza udokumentowana wieża obronna zasilana splotytem.
 
 #### 91 PT — połączone wieże
 
-Kilka wież zostaje połączonych w sieć. Wspólne zasilanie zwiększa możliwości obrony, ale oznacza, że awaria jednego węzła może wpłynąć na inne urządzenia.
+Badacze Zerath jako pierwsi łączą oddalone kryształy, przesyłając między nimi wcześniej zgromadzoną energię. Pierwsza udokumentowana sieć obejmuje kilka wież; późniejsze stacje łączą miasta i główne szlaki. Wspólne zasilanie ogranicza przewóz dużych naładowanych zapasów, lecz awaria jednego węzła może wpłynąć na inne urządzenia.
 
 #### 76 PT — więź operatora
 
@@ -392,7 +482,7 @@ Badacze zaczynają systematycznie opisywać reakcje między żywiołami. Ich wyn
 
 Powstają pierwsze konstrukty zasilane splotytem, używane w transporcie i ratownictwie. Później pojawiają się odmiany wspierające uczestników Prób.
 
-### 41–3 PT — niedobór, wojna i kryzys
+### 41–2 PT — niedobór, wojna i kryzys
 
 #### 41 PT — łatwe złoża się wyczerpują
 
@@ -420,6 +510,10 @@ Operatorzy zgłaszają lokalne awarie i nietypowe odczyty, lecz nie istnieje wsp
 
 Zamknięcie dwóch przejść po serii ataków na konwoje zmusza miasta do objazdów i wciąga kolejnych dostawców w konflikt. Fortyfikacje powstrzymują szybkie zwycięstwo, ale pochłaniają kryształ potrzebny do życia. Lokalne zawieszenia broni pozwalają zebrać plony i wywieźć rannych, po czym walki wracają, bo żaden układ nie gwarantuje stronom dostępu do tras.
 
+#### 8 PT — eksperyment Zerath–Aurel
+
+Uniwersytet w Aurel finansuje laboratoryjną próbę dalekiego przesyłu między dwoma podobnymi kryształami dostrojonymi do Błyskawic; kryształ odbiorczy dostarczono do Aurelu drogą lądową. Po wyczerpaniu kryształu w Zerath drugi osiąga około 10% swojej pojemności. Wynik dotyczy tej próby i nie jest powiązany z późniejszą Nocą Zgasłych Wież.
+
 #### 3 PT — Noc Zgasłych Wież i seria awarii
 
 W Val Meris awaria wież odcina drogi ewakuacyjne. Jej dokładna przyczyna i pełna liczba ofiar pozostają nieustalone.
@@ -444,9 +538,9 @@ Spór o konwój do dwóch odciętych miast grozi zerwaniem rozejmu. Strony organ
 
 Wynik rozstrzyga warunki przejazdu konkretnego konwoju. Po raz pierwszy przedstawiciele obu stron uzgadniają również podział punktów i dostaw dla miast objętych sporem.
 
-#### 1 PT — pieczęcie bezpieczeństwa
+#### 1 PT — bezpieczeństwo aren
 
-Rzemieślnicy i medycy opracowują bezpieczniejsze pieczęcie arenowe.
+Rzemieślnicy i medycy rozwijają zabezpieczenia aren. W późniejszym systemie stosuje się specjalny gaz usypiający: osłabieni uczestnicy trafiają do centrum leczenia i po kilku dniach mogą wrócić do rywalizacji. Pomiędzy atakami meczu fabularnie upływa czas leczenia; w grze kolejne ataki odbywają się bez kilkudniowego oczekiwania. Ochrona towarzyszy i procedury przy awarii zabezpieczeń wymagają dalszego opracowania.
 
 Projektanci starają się odseparować zabezpieczenia aren od sieci obronnych, ale nie ma pewności, czy każda arena jest całkowicie niezależna od lokalnej infrastruktury.
 
@@ -510,7 +604,7 @@ Część miast uważa, że rozbieżności wynikają z różnych metod pomiaru st
 
 #### 12 ET — początek gry
 
-Po zatrzymaniu spornego transportu narasta groźba starcia straży. W Val Meris siedem krain, Rada i pozostali upoważnieni sygnatariusze podpisują osobne porozumienie o Wielkich Igrzyskach. Ich wynik wybierze jeden z dwóch wcześniej uzgodnionych modeli zarządzania; chronione dostawy, ratownictwo i niezależne dochodzenie pozostają w obu. Audyt rejestrów trwa, a przyczyna Nocy jest nadal nieznana.
+Po zatrzymaniu spornego transportu narasta groźba starcia straży. W Val Meris siedem krain, Rada i pozostali upoważnieni sygnatariusze podpisują osobne porozumienie o pierwszych Wielkich Igrzyskach tej rangi. Ich wynik wybierze jeden z dwóch wcześniej uzgodnionych modeli zarządzania. Chronione dostawy, ratownictwo i niezależne dochodzenie pozostają w obu. Audyt rejestrów trwa, a przyczyna Nocy jest nadal nieznana.
 
 ## Konflikty na przyszłość
 
@@ -537,4 +631,4 @@ Po zatrzymaniu spornego transportu narasta groźba starcia straży. W Val Meris 
 
 ## Zasada zgodności
 
-Ten dokument jest jedynym źródłem kanonu historii świata. [GDD](./RIFTORYN_GDD.md), kodeks i pozostałe materiały fabularne powinny być z nim zgodne. Opisy mechanik i balansu gry pozostają w GDD; kwestie fabularne oznaczone tutaj jako nieznane pozostają otwarte.
+Przy sprawdzaniu spójności porównuj aktualną treść Unity z historią, chronologią i zasadami świata opisanymi w tym dokumencie. Rozbieżności między nimi wymagają wyjaśnienia. [GDD](./RIFTORYN_GDD.md) opisuje projekt mechanik i balansu. Wersja przeglądarkowa jest archiwalnym PoC. Kwestie fabularne oznaczone tutaj jako nieznane pozostają otwarte.

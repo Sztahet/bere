@@ -15,10 +15,10 @@
         },
         {
           "date": "154 PT",
-          "titlePl": "Odkrycie splotytu",
-          "titleEn": "Splotite Discovered",
-          "textPl": "Badacze opisują kryształ zdolny przechowywać i przewodzić energię żywiołów. Splotyt zaczyna zasilać rolnictwo, rzemiosło, łączność i obronę.",
-          "textEn": "Researchers describe a crystal that can store and conduct elemental energy. Splotite begins to power farming, crafts, communications and defenses.",
+          "titlePl": "Pierwsze ładowanie splotytu",
+          "titleEn": "First Splotite Charging",
+          "textPl": "W Zerath badacze jako pierwsi dokumentują ładowanie znajdowanego wcześniej splotytu magią Błyskawic i zasilenie mechanizmu. Później inne krainy rozwijają zastosowania pozostałych żywiołów.",
+          "textEn": "Researchers in Zerath first document charging previously discovered splotite with Lightning magic and powering a mechanism. Other realms later develop uses for the remaining elements.",
           "dateEn": "154 BT"
         },
         {
@@ -49,10 +49,10 @@
         },
         {
           "date": "91 PT",
-          "titlePl": "Połączone wieże",
-          "titleEn": "Towers Linked",
-          "textPl": "Kilka wież zostaje połączonych w sieć. Wspólne zasilanie i badania zwiększają możliwości całego zespołu urządzeń.",
-          "textEn": "Several towers are linked into a network. Shared power and research improve the capabilities of the whole system.",
+          "titlePl": "Sieć splotu",
+          "titleEn": "Splotite Network",
+          "textPl": "Badacze Zerath łączą oddalone kryształy, przesyłając między nimi energię. Późniejsze sieci rozwijają się przy miastach i szlakach, lecz przesył wymaga zasilania, a na dalekich trasach powoduje duże straty.",
+          "textEn": "Researchers in Zerath connect distant crystals to transfer energy between them. Later networks grow around cities and routes, but transmission requires power and long-distance transfers incur heavy losses.",
           "dateEn": "91 BT"
         },
         {
@@ -85,7 +85,7 @@
       "rangeEn": "119–42 BT"
     },
     {
-      "range": "41–3 PT",
+      "range": "41–2 PT",
       "labelPl": "Kryzys i wojna",
       "labelEn": "Crisis and War",
       "events": [
@@ -122,6 +122,14 @@
           "dateEn": "26–18 BT"
         },
         {
+          "date": "8 PT",
+          "titlePl": "Próba Zerath–Aurel",
+          "titleEn": "The Zerath–Aurel Trial",
+          "textPl": "Uniwersytet w Aurel finansuje przesył między dwoma podobnymi kryształami Błyskawic. Po opróżnieniu pierwszego w Zerath drugi, przewieziony do Aurelu drogą lądową, osiąga około 10% pojemności. Wynik dotyczy tej próby; nie wiąże jej z Nocą Zgasłych Wież.",
+          "textEn": "The university in Aurel funds a transfer between two similar Lightning-attuned crystals. Once the first is emptied in Zerath, the second, carried overland to Aurel, reaches about 10% capacity. This result belongs to that trial; it does not connect the experiment to the Night of the Darkened Towers.",
+          "dateEn": "8 BT"
+        },
+        {
           "date": "3 PT",
           "titlePl": "Noc Zgasłych Wież",
           "titleEn": "Night of the Darkened Towers",
@@ -148,7 +156,7 @@
       ],
       "image": "Timeline/03-wojna-bram",
       "contextPl": "Rosnący niedobór kryształów zamienił fortyfikacje w narzędzie nacisku. Spory o drogi i złoża przerodziły się w wojnę.",
-      "rangeEn": "41–3 BT"
+      "rangeEn": "41–2 BT"
     },
     {
       "range": "1 PT – 0 ET",
@@ -249,8 +257,8 @@
           "date": "7 ET",
           "titlePl": "Próby stają się widowiskiem",
           "titleEn": "Trials Become a Public Spectacle",
-          "textPl": "Próby są sportem i widowiskiem. Mniejsze ligi przyciągają drużyny, kibiców oraz sponsorów; mieszkańcy śledzą wyniki i zawierają zakłady. Zawodnicy sprawdzają umiejętności i zdobywają nagrody. Wyniki zawodów sportowych nie mają same w sobie mocy traktatowej.",
-          "textEn": "Trials are both a sport and a public spectacle. Smaller leagues attract teams, supporters and sponsors; spectators follow the results and place bets. Competitors test their skills and earn prizes. Sporting results do not by themselves have force under the Treaty.",
+          "textPl": "Próby stają się widowiskiem. Przed 12 ET każda kraina organizuje regularne zawody sportowe. Mniejsze ligi przyciągają drużyny, kibiców oraz sponsorów, a mieszkańcy śledzą wyniki i zawierają zakłady. Zawodnicy sprawdzają umiejętności i zdobywają nagrody. Wyniki zawodów sportowych nie mają same w sobie mocy traktatowej.",
+          "textEn": "Trials become a public spectacle. Before 12 AT, every realm holds regular sporting competitions. Smaller leagues attract teams, supporters and sponsors, and spectators follow the results and place bets. Competitors test their skills and earn prizes. Sporting results do not by themselves have force under the Treaty.",
           "dateEn": "7 AT"
         },
         {
@@ -272,14 +280,22 @@
         {
           "date": "12 ET",
           "titlePl": "Wielkie Igrzyska",
-          "titleEn": "The Grand Games",
-          "textPl": "Spór o władzę nad wydobyciem grozi wojną, której wielu mieszkańców nie chce powtórzyć. W Val Meris uprawnieni przedstawiciele podpisują dwa warianty zarządzania i jawne zasady Wielkich Igrzysk. Protokół chroni własność kopalń, istniejące zobowiązania, podstawowe dostawy i niezależne śledztwo. Przez co najmniej rok nie można jednostronnie cofnąć wyniku; krytyka i odwołania od decyzji pozostają możliwe. Igrzyska nie rozstrzygają przyczyny Nocy.",
-          "textEn": "A dispute over control of mining threatens a war many residents refuse to relive. In Val Meris, authorized representatives sign two models of governance and public rules for the Grand Games. The protocol protects ownership of mines, existing commitments, essential supplies and the independent investigation. For at least a year, no party may unilaterally revoke the result; criticism and appeals against decisions remain possible. The Games cannot establish what caused the Night.",
+          "titleEn": "The Great Games",
+          "textPl": "Spór o władzę nad wydobyciem grozi wojną, której wielu mieszkańców nie chce powtórzyć. W Val Meris uprawnieni przedstawiciele podpisują dwa warianty zarządzania i jawne zasady pierwszych Wielkich Igrzysk tej rangi. Protokół chroni własność kopalń, istniejące zobowiązania, podstawowe dostawy i niezależne śledztwo. Przez co najmniej rok od wejścia wariantu w życie żadna strona nie może go jednostronnie cofnąć, a krytyka i odwołania od decyzji pozostają możliwe. Igrzyska nie rozstrzygają przyczyny Nocy. Dwie strony ogłaszają programy i obietnice dla krain. Wynik serii wybiera model zarządzania; wyniki bohaterów, drużyn i krain wpływają na kolejność realizacji obietnic. Zerath wnosi około połowy energii do wspólnej sieci; mieszkańcy spierają się o sprawiedliwy podział korzyści. Nowsza konwersja energii między różnymi żywiołami pozostaje przedmiotem sporów o bezpieczeństwo.",
+          "textEn": "A dispute over control of mining threatens a war many residents refuse to relive. In Val Meris, authorized representatives sign two governance models and the public rules for the Great Games, the first event of this scale. The protocol protects ownership of mines, existing commitments, essential supplies and the independent investigation. For at least a year after the chosen model takes effect, no party may revoke it unilaterally. Criticism and appeals against decisions remain possible. The Games cannot establish what caused the Night. The two sides present programs and promises for the realms. The series chooses a governance model; hero, team and realm results influence the order in which promises are fulfilled. Zerath contributes about half the energy fed into the shared network; its people debate whether the benefits are fairly shared. Newer conversion between different elements remains contested over safety.",
+          "dateEn": "12 AT"
+        },
+        {
+          "date": "12 ET",
+          "titlePl": "Kwalifikacje championów",
+          "titleEn": "Champion Qualifiers",
+          "textPl": "Championi zgłaszają się po stronie jednego z dwóch wariantów. Po serii testów taktyki i współpracy obie strony wybierają składy finałowe. Najemnicy przechodzą te same kwalifikacje. Obok jawnych kontraktów zdarzają się zakulisowe oferty pieniędzy za wystąpienie po wybranej stronie.",
+          "textEn": "Champions apply to represent one of the two governance models. After a series of tests in tactics and teamwork, each side selects its final lineups. Mercenaries take the same tests. Alongside registered contracts, some competitors receive offers of money behind the scenes to fight for a particular side.",
           "dateEn": "12 AT"
         }
       ],
       "image": "Timeline/05-era-prob",
-      "contextPl": "Zwykłe Próby rozstrzygają ograniczone impasy. Wyjątkowe Wielkie Igrzyska wybiorą uzgodniony model zarządzania, by zapobiec wojnie; prawda o Nocy pozostaje nieznana.",
+      "contextPl": "Próby traktatowe zwołuje się w miarę potrzeb. Każda kraina organizuje regularne zawody sportowe. Pierwsze Wielkie Igrzyska tej rangi wybiorą model zarządzania na mocy Porozumienia Val Meris.",
       "rangeEn": "1–12 AT"
     }
   ]
