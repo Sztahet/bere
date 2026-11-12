@@ -19,7 +19,7 @@ Tego dnia szłam sama.
 
 Miałam przy sobie mapę, ołówek, linkę i niewielki pakunek z jedzeniem. Na karcie obchodu odhaczałam kolejne punkty: znacznik przy dolnym rozwidleniu, osłonę nad odpływem, skrzynkę z sygnałem. Na końcu trasy czekała wieża obronna, stojąca nad odcinkiem, na którym droga zwężała się między skałami. Jej zadaniem było ostrzegać i zatrzymywać to, co mogło zagrozić podróżnym.
 
-Znałam jej zwykłe dźwięki. Niski pomruk zasilanego mechanizmu. Krótkie kliknięcie, kiedy wieża obracała głowicę podczas przeglądu. Sygnał próbny, który obsługa uruchamiała raz w tygodniu.
+Znałam jej zwykłe dźwięki. Kryształ wydawał cichy, równy ton. Czułam jego drżenie w piersi wyraźniej, niż słyszałam sam dźwięk. Raz w tygodniu obsługa sprawdzała alarm: trzy czyste nuty rozchodzące się po zboczu.
 
 Alarm brzmiał inaczej.
 
@@ -27,7 +27,7 @@ Najpierw usłyszałam jeden długi ton, przecięty dwoma krótkimi. Potem ciszę
 
 Nie był to sygnał ćwiczebny.
 
-Przez chwilę patrzyłam w stronę wieży. Nie widziałam jej jeszcze zza załomu, ale nad grzbietem poruszyła się smuga światła.
+Przez chwilę patrzyłam w stronę wieży. Nie widziałam jej jeszcze zza załomu, ale nad grzbietem rozbłysło światło.
 
 Ruszyłam biegiem.
 
@@ -43,49 +43,49 @@ Wiedziałam, że wieża mogła wykryć bandytę, bestię albo coś, czego nie um
 
 Za zakrętem zobaczyłam wieżę.
 
-Jej głowica obracała się krótkimi, szarpanymi ruchami. Kryształ w osłonie pulsował przy każdym strzale. Z lufy wyrywały się świetliste pociski, które roztrzaskiwały śnieg i kamień na zboczu. Wieża nie strzelała na oślep. Każdy ruch prowadził ją do celu.
+Stała nieruchomo na szerokim kamiennym cokole. Cztery filary podtrzymywały koronę, a na jej szczycie tkwił wielki, błękitnobiały kryształ Lodu. Cała obrona wieży skupiała się w tym jednym rdzeniu. Gdy alarm zabrzmiał ponownie, kryształ rozjaśnił się. Z jego faset wystrzelił lodowy pocisk i roztrzaskał śnieg oraz kamień na zboczu. Wieża nie ruszyła się ani o włos; blask kryształu wskazywał cel.
 
-Przy skale, kilka kroków niżej, stała mroźna bestia.
+Przy skale, kilka kroków niżej, stała Szronogrzbieta.
 
-Była większa od jucznego zwierzęcia, niska i szeroka w barkach. Gęste, popielatobiałe futro zlewało się ze śniegiem, ale na grzbiecie miała ciemniejszy pas, jak mokry kamień pod lodem. Sierść przy pysku i łapach zbijała się w drobne kryształki szronu. Szerokie stopy rozsuwały śnieg, a krótkie, zakrzywione pazury trzymały ją na stromym podłożu.
+Uczyłam się o niej w szkole magów; jej tropy i sylwetkę znałam z bestiariuszy oraz notatek z patroli. Parę razy widziałam Szronogrzbiety z oddali, wysoko na zboczach; nigdy wcześniej nie podchodziłam do nich blisko. Umiałam rozpoznać spadzisty grzbiet i ciemną grzywę, która odcinała się od zimowego futra. Wiedziałam też, że zwykle unikają ludzi, ale samica z młodymi może stanąć do obrony, gdy poczuje się osaczona.
 
-Nie rzucała się na wieżę.
+Była większa od jucznego zwierzęcia, a zarazem niska i szeroka w barkach. Gęste, popielatobiałe futro zlewało się ze śniegiem, a na grzbiecie miała ciemniejszy pas, jak mokry kamień pod lodem. Sierść przy pysku i łapach zbijała się w drobne kryształki szronu. Szerokie łapy rozgarniały śnieg, a krótkie, zakrzywione pazury trzymały ją na stromym podłożu.
 
-Pod jej brzuchem tuliły się dwa młode, nie większe od dużych psów. Jedno miało jasną łatę nad okiem. Drugie trzymało pysk wciśnięty w bok matki. Kiedy wieża obracała się w ich stronę, dorosła bestia ustawiała się między nią a młodymi.
+Pod jej brzuchem tuliły się dwa młode, nie większe od dużych psów. Jedno miało jasną łatę nad okiem. Drugie trzymało pysk wciśnięty w bok matki. Kiedy kryształ kierował blask ku młodym, Szronogrzbieta stawała na linii strzału.
 
 Alarm zawył ponownie.
 
-Wieża uniosła lufę.
+Wielki kryształ rozbłysnął. W jego wnętrzu zebrał się kolejny lodowy pocisk.
 
-**[MIEJSCE NA ILUSTRACJĘ 2 — wieża obronna mierzy w mroźną bestię; matka osłania własnym ciałem dwa młode, które kryją się przy skale.]**
+**[MIEJSCE NA ILUSTRACJĘ 2 — nieruchoma kamienna wieża z wielkim kryształem Lodu na szczycie kieruje świetlisty pocisk ku Szronogrzbiecie; samica osłania własnym ciałem dwa młode przy skale.]**
 
 ---
 
 ## 3. Cel
 
-W pierwszej chwili pomyślałam, że bestia zaatakuje.
+Wiedziałam, co oznacza jej postawa, ale kiedy uniosła kark i obnażyła zęby, sama cofnęłam się o krok.
 
-Jej grzbiet podniósł się pod gęstą sierścią. Z gardła wydobył się niski, chrapliwy dźwięk. Nie był podobny do ryku, który opisywali podróżni. Brzmiał raczej jak ostrzeżenie, krótkie i ciężkie, przeznaczone dla czegoś, co zbliżało się za bardzo.
+Sierść na jej grzbiecie zjeżyła się. Z gardła wydobył się niski, chrapliwy dźwięk. Znałam go z opisów: ostrzeżenie, które Szronogrzbieta wydawała, gdy ktoś zbliżał się do jej młodych.
 
 Wieża odpowiedziała strzałem.
 
-Pocisk uderzył w skałę tuż nad bestią. Odłamek przeleciał przez śnieg. Młode rzuciły się do matki, a ona cofnęła jedną łapę, nie odsłaniając ich ani na moment.
+Pocisk uderzył w skałę tuż nad Szronogrzbietą. Odłamki posypały się na śnieg. Młode przywarły do matki, a ona cofnęła jedną łapę, nie odsłaniając ich ani na moment.
 
 Wtedy zrozumiałam, że wcale nie patrzę na atak.
 
-Bestia nie próbowała dostać się do wieży. Nie szarpała przewodów ani nie wspinała się na podest. Przechodziła obok, może szukała zejścia, może schronienia przed wiatrem. Nie wiedziałam. Wiedziałam tylko, że za każdym razem, gdy głowica obracała się ku młodym, matka przesuwała się przed nimi.
+Szronogrzbieta nie próbowała zbliżyć się do wieży ani jej atakować. Nie wiedziałam, dokąd zmierzała, ale jej zachowanie było jasne: za każdym razem, gdy kryształ kierował światło ku młodym, matka przesuwała się przed nimi.
 
-Wieża nie wiedziała, że są młode. Widziała ruch i obecność w strefie, którą miała chronić. Jej zadanie było proste. Zatrzymać zagrożenie.
+Wieża nie rozróżniała matki od młodych. Reagowała na ruch w strefie, którą miała chronić. Jej zadanie było proste. Zatrzymać zagrożenie.
 
 Proste rzeczy też potrafią skrzywdzić.
 
-— Hej! — krzyknęłam, choć nie wiedziałam, do kogo mówię.
+— Hej! — krzyknęłam, nie wiedząc, czy zwracam się do matki, czy próbuję przebić się głosem przez alarm.
 
-Bestia spojrzała w moją stronę. Jej spojrzenie nie zdradzało zrozumienia. Był w nim strach i czujność; łapy trzymała napięte, gotowe do skoku. Potem znów odwróciła się ku wieży, całym ciałem zasłaniając młode.
+Szronogrzbieta spojrzała w moją stronę. Jej spojrzenie nie zdradzało zrozumienia. Widziałam w nim strach i czujność; łapy trzymała napięte, gotowe do skoku. Potem znów osłoniła młode własnym ciałem.
 
 Kolejny strzał rozświetlił zbocze.
 
-**[MIEJSCE NA ILUSTRACJĘ 3 — pocisk rozbija się o skałę obok matki; Saila stoi kilka kroków dalej, widząc, że bestia nie atakuje, tylko osłania młode.]**
+**[MIEJSCE NA ILUSTRACJĘ 3 — lodowy pocisk rozbija się o skałę obok Szronogrzbiety; Saila stoi kilka kroków dalej, widząc, że samica nie atakuje, tylko osłania młode.]**
 
 ---
 
@@ -101,59 +101,57 @@ Przez lata próbowałam oddzielać wspomnienie od wiedzy. Wiedza mówiła, że u
 
 Teraz nie mogłam uciec.
 
-Wieża nie była uszkodzona. Nie widziałam pęknięć ani dymu. Robiła dokładnie to, do czego ją przygotowano. Jej mechanizm nie potrafił rozpoznać, że bestia broni młodych. Dla niego każde kolejne poruszenie było potwierdzeniem zagrożenia.
+Wieża nie była uszkodzona. Nie widziałam pęknięć ani dymu; robiła dokładnie to, do czego ją przygotowano. Nie potrafiła rozpoznać, że Szronogrzbieta broni młodych — każdy ich ruch wystarczał, by kryształ wystrzelił ku nim kolejny pocisk.
 
-Mogłam pobiec po obsługę. Mogłam spróbować uruchomić sygnał ręczny. Mogłam też zostać i patrzeć, jak kolejny pocisk trafia coraz bliżej.
+Mogłam pobiec po obsługę, ale sprowadzenie jej zajęłoby cenne minuty. Mogłam też zostać i patrzeć, jak kolejny pocisk trafia coraz bliżej.
 
 Żaden z tych wyborów nie wydawał mi się bezpieczny.
 
-Jedno z młodych próbowało wyrwać się spod matki. Potknęło się na śliskim kamieniu. Bestia obróciła się, osłaniając je bokiem. W tej samej chwili głowica wieży znów podążyła za ruchem.
+Jedno z młodych próbowało wyrwać się spod matki. Potknęło się na śliskim kamieniu. Szronogrzbieta osłoniła je bokiem. W tej samej chwili kryształ rozbłysnął w ich stronę.
 
 Coś we mnie pękło.
 
-Nie był to gniew na bestię. Nie na wieżę, która nie umiała wybrać inaczej. Pękła myśl, że muszę czekać, aż ktoś inny zdecyduje, czyja krzywda liczy się bardziej.
+Nie był to gniew na bestię. Nie na wieżę, która nie umiała wybrać inaczej. Pękło we mnie przekonanie, że muszę czekać na czyjąś decyzję, zanim zrobię to, co mogłam.
 
 Ruszyłam.
 
-**[MIEJSCE NA ILUSTRACJĘ 4 — Saila biegnie w stronę wieży, a za nią rozmyte smugi światła i urwane wspomnienie dziecięcej ucieczki.]**
+**[MIEJSCE NA ILUSTRACJĘ 4 — Saila biegnie ku kamiennej wieży z wielkim kryształem, a za nią rozmyte smugi światła i urwane wspomnienie dziecięcej ucieczki.]**
 
 ---
 
 ## 5. Zatrzymać ruch
 
-Wieża obróciła się w moją stronę.
+Kryształ rozbłysnął mocniej. Jasna smuga przesunęła się ze zbocza ku mnie.
 
-Nie zdążyłam pomyśleć, czy uznała mnie za kolejne zagrożenie. Zobaczyłam tylko obręcz, po której przesuwała się głowica, i zębaty mechanizm pod osłoną. Wiedziałam, że nie mogę wyrwać kryształu. Nie wiedziałam, czy jego uszkodzenie nie uruchomi kolejnego wybuchu.
+Nie zdążyłam pomyśleć, czy wieża uznała mnie za kolejne zagrożenie. Z bliska widziałam kamienny cokół, cztery filary i wielki kryształ osadzony wysoko w koronie. Wieża pozostawała nieruchoma; zmieniało się tylko światło, które skupiało się na kolejnym celu. Wiedziałam, że nie mogę wyrwać kryształu ani ryzykować jego uszkodzenia.
 
 Nie próbowałam go naładować.
 
-Przyłożyłam dłonie do zimnego wspornika i szukałam w sobie tego spokojnego kierunku, którego uczył mnie Ruvan. Nie po to, by dodać energii. Tym razem musiałam zatrzymać to, co już płynęło.
+Przyłożyłam dłonie do chłodnego kamienia cokołu i szukałam w sobie tego spokojnego kierunku, którego uczył mnie Ruvan. Nie po to, by dodać energii. Tym razem musiałam zatrzymać to, co już płynęło.
 
-Nie znalazłam spokoju.
-
-Znalazłam strach, ciężki oddech i obraz małych ciał przyciśniętych do matki.
+Zamiast spokoju poczułam strach, urywany oddech i obraz małych ciał przyciśniętych do matki.
 
 Nie potrafiłam wyznaczyć granicy. Całą energię, którą umiałam z siebie wydobyć, skierowałam w wieżę.
 
-Moc wyrwała się ze mnie gwałtowniej, niż kiedykolwiek chciałam. Zimno popłynęło przez metalowy wspornik, rozeszło się po obręczy i wcisnęło między poruszające się zęby mechanizmu.
+Moc wyrwała się ze mnie gwałtowniej, niż kiedykolwiek chciałam. Zimno popłynęło przez kamienną podstawę i filary, aż dotarło do oprawy wielkiego kryształu.
 
 Przez moment nic się nie stało.
 
-Potem głowica szarpnęła się w połowie obrotu. Kryształ rozbłysnął. Lufa uniosła się o kilka palców i znieruchomiała. Na obręczy rozlała się biała warstwa lodu, gruba i nieprzejrzysta, przytrzymując mechanizm w miejscu.
+Potem kryształ rozbłysnął jeszcze raz. Światło, które miało uformować kolejny pocisk, cofnęło się w głąb kamienia. Lód oplótł oprawę i koronę wieży, nie naruszając samego kryształu.
 
-Alarm urwał się na pół tonu.
+Alarm urwał się w połowie tonu.
 
 Wieża przestała strzelać.
 
 Poczułam, jak siły odpływają mi z ramion. Spróbowałam odsunąć dłonie, ale nie byłam pewna, czy to ja nimi poruszyłam, czy tylko drgnęły. Kolana ugięły się pode mną.
 
-**[MIEJSCE NA ILUSTRACJĘ 5 — dłonie Saily na metalowym wsporniku; lód rozchodzi się po obręczy wieży, a kryształ w jej osłonie pulsuje za warstwą szronu.]**
+**[MIEJSCE NA ILUSTRACJĘ 5 — dłonie Saily przy kamiennym cokole; lód wspina się po filarach nieruchomej wieży ku wielkiemu kryształowi, którego blask właśnie gaśnie.]**
 
 ---
 
 ## 6. Spojrzenie
 
-Bestia nie uciekła od razu.
+Szronogrzbieta nie uciekła od razu.
 
 Najpierw odsunęła się o kilka kroków, wciąż osłaniając młode. Potem uniosła łeb i patrzyła na mnie, nieruchoma jak skała. Nie wiedziałam, co widzi: człowieka, który zatrzymał wieżę, czy tylko następne niebezpieczeństwo, które na chwilę zamilkło.
 
@@ -161,7 +159,7 @@ Przeniosła wzrok z wieży na mnie i znów na wieżę, jakby czekała na kolejny
 
 Nie wyciągnęłam do niej ręki.
 
-Młode wysunęło się spod jej boku. Jasna łata nad okiem zniknęła w śniegu. Drugie potknęło się, ale matka popchnęła je pyskiem w stronę wąskiego przejścia między skałami. Sama cofnęła się ostatnia.
+Jedno z młodych wysunęło się spod jej boku; jasna łata nad okiem mignęła na moment wśród śniegu. Drugie potknęło się, ale matka popchnęła je pyskiem w stronę wąskiego przejścia między skałami. Sama cofnęła się ostatnia.
 
 Przez krótką chwilę jej wzrok znów spotkał mój.
 
@@ -175,7 +173,7 @@ Moje ciało nie odpowiedziało.
 
 Upadłam na bok, najpierw na kolano, potem na ramię. Śnieg był twardszy, niż się spodziewałam. Nie poczułam bólu od razu. Poczułam tylko ciężar, jakby ktoś przykrył mnie wszystkim śniegiem z przełęczy.
 
-**[MIEJSCE NA ILUSTRACJĘ 6 — matka z młodymi znika za skalnym grzbietem; na pierwszym planie Saila osuwa się na śnieg, a wieża stoi unieruchomiona lodem.]**
+**[MIEJSCE NA ILUSTRACJĘ 6 — Szronogrzbieta z młodymi znika za skalnym grzbietem; na pierwszym planie Saila osuwa się na śnieg, a kamienna wieża z wielkim kryształem milczy.]**
 
 ---
 
@@ -183,23 +181,23 @@ Upadłam na bok, najpierw na kolano, potem na ramię. Śnieg był twardszy, niż
 
 Kiedy otworzyłam oczy, nie wiedziałam, ile czasu minęło.
 
-Świat był szary i cichy. Nad sobą miałam niebo, a obok, w zasięgu ręki, butelkę z wodą i zwiniętą płachtę. Ktoś znalazł mnie na trasie i sprowadził do schroniska. Nie pamiętałam drogi.
+Świat był szary i cichy. Nad sobą widziałam ciemne belki stropu; obok, w zasięgu ręki, stała butelka z wodą i leżała zwinięta płachta. Ktoś znalazł mnie na trasie i sprowadził do schroniska. Nie pamiętałam drogi.
 
 Opiekunka magazynu siedziała przy stole. Trzymała moje rękawice w dłoniach. Nie pytała od razu, co zrobiłam. Poczekała, aż napiję się wody i przestanę drżeć.
 
 — Wieża? — spytałam.
 
-— Zabezpieczona. Mechanizm zamarzł, ale kryształ jest cały. Nikt nie został ranny.
+— Zabezpieczona. Kryształ jest cały. Nikt nie został ranny.
 
 Zamknęłam oczy.
 
 Nie wiedziałam też, czy bestia i młode znalazły bezpieczne miejsce po drugiej stronie grzbietu. Nie miałam jak tego sprawdzić.
 
-Chciałam opowiedzieć, że wieża źle zadziałała. To nie byłoby prawdą. Zadziałała tak, jak ją zbudowano. Chciałam powiedzieć, że bestia była niewinna. Tego też nie mogłam wiedzieć.
+Chciałam powiedzieć, że wieża się pomyliła. Nie zrobiła tego; wykonała polecenie, które jej dano. Szronogrzbieta nie zaatakowała — osłaniała młode. Wiedziałam to po jej postawie, ale nie mogłam przewidzieć, co zrobiłaby, gdybyśmy podeszli bliżej.
 
-Mogłam powiedzieć tylko, że zobaczyłam matkę osłaniającą młode i wiedziałam, że jeśli nie zrobię nic, wieża znów wystrzeli.
+Kiedy później spisałam raport, zanotowałam tylko to, co widziałam: Szronogrzbieta osłaniała młode, a wieża odpowiadała na każdy ich ruch. Nie dopisałam, że była łagodna. Wiedziałam, że nie zaatakowała. Tego mogłam być pewna.
 
-Przez lata uczyłam się prowadzić moc do kryształów: wolno, równo, bez przekraczania granicy, po której ciało przestawało słuchać. Tego dnia po raz pierwszy poprowadziłam ją w inną stronę. Nie po to, by zasilić mechanizm, lecz by go zatrzymać.
+Przez lata uczyłam się prowadzić moc do kryształów: wolno, równo, bez przekraczania granicy, po której ciało przestawało słuchać. Tego dnia po raz pierwszy poprowadziłam ją w inną stronę. Nie po to, by zasilić kryształ, lecz by na chwilę przerwać działanie wieży.
 
 Nie czułam się silna. Czułam się wyczerpana i niepewna. Ale gdzieś pod tym zmęczeniem była nowa wiedza — nie o tym, ile mogę unieść, tylko o tym, co mogę powstrzymać.
 
@@ -207,11 +205,11 @@ Nie czułam się silna. Czułam się wyczerpana i niepewna. Ale gdzieś pod tym 
 
 ---
 
-### Roboczy opis mroźnej bestii
+### Roboczy opis gatunku: Szronogrzbieta
 
-Nazwa gatunku pozostaje do ustalenia. W tej wersji bestia jest dużym, czworonożnym zwierzęciem przystosowanym do wysokich, zimnych przełęczy. Ma szerokie łapy do poruszania się po śniegu i stromych skałach, gęste popielatobiałe futro z ciemniejszym pasem wzdłuż grzbietu oraz krótkie, zakrzywione pazury. Przy pysku i łapach osiada na nim szron. Młode mają podobne umaszczenie, lecz jaśniejsze znaczenia, po których Saila może je odróżnić.
+Szronogrzbieta jest dużym, hienowatym zwierzęciem wysokich, zimnych przełęczy. Ma spadzisty grzbiet, mocne barki, szerokie łapy do poruszania się po śniegu i stromych skałach oraz krótkie, zakrzywione pazury. Gęste, popielatobiałe futro ma ciemne plamy i pas grubszej sierści wzdłuż grzbietu; przy pysku i łapach osiada na nim szron. Młode są mniejsze i bardziej puszyste, z jaśniejszymi znaczeniami — jedno z nich ma łatę nad okiem.
 
-W tej scenie matka nie poluje na ludzi ani nie atakuje wieży: przechodzi w pobliżu z młodymi, a po wykryciu przez wieżę osłania je własnym ciałem. To zachowanie jest propozycją do dalszego dopracowania, nie ustaloną cechą wszystkich mroźnych bestii. Opowieść również nie rozstrzyga, dlaczego wieża uznała je za zagrożenie.
+W tej scenie Szronogrzbieta przechodzi w pobliżu wieży z młodymi. Nie atakuje podróżnych ani wieży; po wykryciu przez automat osłania młode własnym ciałem. Saila zna gatunek ze szkoły i wcześniejszych, dalekich obserwacji, a jej rozpoznanie oraz opis zachowania są częścią tego draftu, nie zatwierdzonym jeszcze kanonem.
 
 ### Robocza nota o zdolności
 
