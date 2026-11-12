@@ -40,7 +40,8 @@
           "text": "Nie powiedziałam, jak długo mogę próbować. Tego nie wiedziałam, dopóki nie zaczęłam."
         },
         {
-          "image": 1
+          "image": 1,
+          "alt": "Saila sprawdza oznaczenia górskiego szlaku o świcie."
         }
       ]
     },
@@ -84,7 +85,8 @@
           "text": "Zanotowałam godzinę i wynik na karcie. Moja ręka drżała tak lekko, że kreska wyszła krzywa. Poprawiłam ją, po czym skreśliłam poprawkę. Zapis powinien mówić prawdę o tym, co się stało, nie udawać, że wszystko przebiegło równo."
         },
         {
-          "image": 2
+          "image": 2,
+          "alt": "Saila ładuje kryształ w urządzeniu chłodni."
         }
       ]
     },
@@ -96,6 +98,10 @@
         },
         {
           "text": "Nad zakrętem stała wieża szlakowa. Na samej górze, w metalowej oprawie, spoczywała ogromna bryła splotytu. Świeciła mocnym, chłodnym błękitem, w którym przeskakiwały jaskrawożółte wyładowania Błyskawic. Nie dawała ciepła sama z siebie; zgromadzona w niej energia zasilała urządzenia wieży, które pomagały utrzymać połączenie na głównym trakcie."
+        },
+        {
+          "image": 3,
+          "alt": "Saila patrzy na wieżę Błyskawic przy górskim schronisku."
         },
         {
           "text": "Za przeglądy takich wież na wspólnych szlakach odpowiadała Rada. Organizowała obsługę, a miejscowe ekipy mogły w razie potrzeby doładować kryształ. Do utrzymania sieci dokładały się krainy, w tym bogatsze Zerath, gdzie łatwiej było pozyskiwać energię Błyskawic. Nie wiedziałam, czy tę bryłę ostatnio doładowali miejscowi, czy energia dotarła do niej połączeniem z Val Meris albo aż z Zerath."
@@ -129,9 +135,6 @@
         },
         {
           "text": "Nie odpowiedział. Zostawił mi za to małą paczkę suszonych jabłek z Verdan. Schowałam ją do kieszeni. Miała być dla magazynu, ale po drodze zjadłam jeden kawałek. Był kwaśny i słodki jednocześnie. Przypomniał mi, że gdzieś daleko ktoś zbierał owoce, nie wiedząc, w jakim schronisku zostaną zjedzone."
-        },
-        {
-          "image": 3
         }
       ]
     },
@@ -169,7 +172,8 @@
           "text": "Zastanawiałam się, czy jutro znów spróbuję dodać mu mocy."
         },
         {
-          "image": 4
+          "image": 4,
+          "alt": "Saila przy oknie; w szybie majaczy wspomnienie dziecka na górskim szlaku."
         }
       ]
     },
@@ -210,6 +214,10 @@
           "text": "Zatrzymałam się gwałtownie."
         },
         {
+          "image": 5,
+          "alt": "Wyczerpana Saila odsuwa dłonie od kryształu; obok stoi starszy mężczyzna."
+        },
+        {
           "text": "Kryształ był naładowany, lecz nie tak, jak chciałam. Odsunęłam ręce. Przez chwilę nie mogłam wstać. Nie upadłam. Po prostu nie ufałam nogom na tyle, by od razu przenieść ciężar ciała."
         },
         {
@@ -223,9 +231,6 @@
         },
         {
           "text": "Ale łatwiej było to wiedzieć, niż zaakceptować."
-        },
-        {
-          "image": 5
         }
       ]
     },
@@ -254,7 +259,8 @@
           "text": "Pomyślałam o Ruvanie. Przypomniałam sobie, jak zatrzymywał ćwiczenie, zanim zaczynałam walczyć ze zmęczeniem. Wtedy uważałam, że każe mi robić mniej. Teraz rozumiałam, że uczył mnie kończyć pracę tak, by móc do niej wrócić."
         },
         {
-          "image": 6
+          "image": 6,
+          "alt": "Mieszkańcy wspólnie pracują w magazynie."
         }
       ]
     },
@@ -283,7 +289,8 @@
           "text": "Na szlaku ktoś zostawił nowy pakunek drewna. Obok leżał kawałek papieru z datą i krótką wiadomością: „Dla następnych”. Nie znałam tej osoby. Nie musiałam znać jej imienia, by wiedzieć, że jutro ktoś może dzięki temu rozpalić ogień."
         },
         {
-          "image": 7
+          "image": 7,
+          "alt": "Saila czyta wiadomość przy zapasie drewna."
         },
         {
           "text": "Wzięłam kartę pomiarową i dopisałam ostatni wynik. Obok zostawiłam puste miejsce na kolejny. Kryształ świecił słabo, lecz równo. Za oknem przełęcz czekała na poranny obchód."
@@ -298,7 +305,8 @@
           "text": "Tym razem nie musiałam robić tego sama."
         },
         {
-          "image": 8
+          "image": 8,
+          "alt": "Saila i mieszkanka zapisują pomiary przy stole w magazynie."
         }
       ]
     }
