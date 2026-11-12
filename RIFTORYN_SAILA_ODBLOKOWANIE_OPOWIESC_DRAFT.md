@@ -47,7 +47,7 @@ Stała nieruchomo na szerokim kamiennym cokole. Cztery filary podtrzymywały kor
 
 Przy skale, kilka kroków niżej, stała Szronogrzbieta.
 
-Uczyłam się o niej w szkole magów; jej tropy i sylwetkę znałam z bestiariuszy oraz notatek z patroli. Parę razy widziałam te zwierzęta z oddali, wysoko na zboczach; nigdy wcześniej nie podchodziłam do nich blisko. Umiałam rozpoznać spadzisty grzbiet i ciemną grzywę, która odcinała się od zimowego futra. Wiedziałam też, że zwykle unikają ludzi, ale samica z młodymi może stanąć do obrony, gdy poczuje się osaczona.
+Uczyłam się o niej w szkole magów; jej tropy i sylwetkę znałam z bestiariuszy oraz notatek z patroli. Parę razy widziałam Szronogrzbiety z oddali, wysoko na zboczach; nigdy wcześniej nie podchodziłam do nich blisko. Umiałam rozpoznać spadzisty grzbiet i ciemną grzywę, która odcinała się od zimowego futra. Wiedziałam też, że zwykle unikają ludzi, ale samica z młodymi może stanąć do obrony, gdy poczuje się osaczona.
 
 Miała rozmiary dużego osła, a przy tym była niska i szeroka w barkach. Gęste, popielatobiałe futro zlewało się ze śniegiem, a na grzbiecie miała ciemniejszy pas, jak mokry kamień pod lodem. Sierść przy pysku i łapach zbijała się w drobne kryształki szronu. Szerokie łapy rozgarniały śnieg, a krótkie, zakrzywione pazury trzymały ją na stromym podłożu.
 
@@ -65,7 +65,7 @@ Wielki kryształ rozbłysnął. W jego wnętrzu zebrał się kolejny lodowy poci
 
 Wiedziałam, co oznacza jej postawa, ale kiedy uniosła kark i obnażyła zęby, sama cofnęłam się o krok.
 
-Sierść na jej grzbiecie zjeżyła się. Z gardła wydobył się niski, chrapliwy dźwięk. Znałam go z opisów: tak samica ostrzegała, gdy ktoś zbliżał się do jej młodych.
+Sierść na jej grzbiecie zjeżyła się. Z gardła wydobył się niski, chrapliwy dźwięk. Znałam ten odgłos z opisów. Szronogrzbiety ostrzegają tak, gdy ktoś zbliża się do ich młodych.
 
 Wieża odpowiedziała strzałem.
 
@@ -81,7 +81,7 @@ Proste rzeczy też potrafią skrzywdzić.
 
 — Hej! — krzyknęłam, nie wiedząc, czy zwracam się do matki, czy próbuję przebić się głosem przez alarm.
 
-Samica spojrzała w moją stronę. Jej spojrzenie nie zdradzało zrozumienia. Widziałam w nim strach i czujność; łapy trzymała napięte, gotowe do skoku. Potem znów osłoniła młode własnym ciałem.
+Szronogrzbieta spojrzała w moją stronę. Jej spojrzenie nie zdradzało zrozumienia. Widziałam w nim strach i czujność; łapy trzymała napięte, gotowe do skoku. Potem znów osłoniła młode własnym ciałem.
 
 Kolejny strzał rozświetlił zbocze.
 
@@ -195,7 +195,7 @@ Nie wiedziałam też, czy bestia i młode znalazły bezpieczne miejsce za skalny
 
 Chciałam powiedzieć, że wieża się pomyliła. Nie zrobiła tego; wykonała polecenie, które jej dano. Matka nie zaatakowała — osłaniała młode. Wiedziałam to po jej postawie, ale nie mogłam przewidzieć, co zrobiłaby, gdybyśmy podeszli bliżej.
 
-Kiedy później spisałam raport, zanotowałam tylko to, co widziałam: samica osłaniała młode, a wieża odpowiadała na każdy ich ruch. Nie dopisałam, że była łagodna. Wiedziałam, że nie zaatakowała. Tego mogłam być pewna.
+Kiedy później spisałam raport, zanotowałam tylko to, co widziałam: Szronogrzbieta osłaniała młode, a wieża odpowiadała na każdy ich ruch. Nie dopisałam, że była łagodna. Wiedziałam, że nie zaatakowała. Tego mogłam być pewna.
 
 Przez lata uczyłam się prowadzić moc do kryształów: wolno, równo, bez przekraczania granicy, po której ciało przestawało słuchać. Tego dnia po raz pierwszy poprowadziłam ją w inną stronę. Nie po to, by zasilić kryształ, lecz by na chwilę przerwać działanie wieży.
 
@@ -215,7 +215,7 @@ Opiekunka wstała. Ja tylko patrzyłam, jak splotyt napełnia się energią.
 
 To duże, hienowate zwierzę wysokich, zimnych przełęczy. Ma spadzisty grzbiet, mocne barki, szerokie łapy do poruszania się po śniegu i stromych skałach oraz krótkie, zakrzywione pazury. Gęste, popielatobiałe futro ma ciemne plamy i pas grubszej sierści wzdłuż grzbietu; przy pysku i łapach osiada na nim szron. Młode są mniejsze i bardziej puszyste, z jaśniejszymi znaczeniami — jedno z nich ma łatę nad okiem.
 
-W tej scenie samica przechodzi w pobliżu wieży z młodymi. Nie atakuje podróżnych ani wieży; po wykryciu przez automat osłania potomstwo własnym ciałem. Saila zna gatunek ze szkoły i wcześniejszych, dalekich obserwacji, a jej rozpoznanie oraz opis zachowania są częścią tego draftu, nie zatwierdzonym jeszcze kanonem.
+W tej scenie samica przechodzi w pobliżu wieży z młodymi. Nie atakuje podróżnych ani wieży; po wykryciu przez automat osłania je własnym ciałem. Saila zna gatunek ze szkoły i wcześniejszych, dalekich obserwacji, a jej rozpoznanie oraz opis zachowania są częścią tego draftu, nie zatwierdzonym jeszcze kanonem.
 
 ### Robocza nota o zdolności
 
