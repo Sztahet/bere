@@ -43,7 +43,7 @@ Wiedziałam, że wieża mogła wykryć bandytę, bestię albo coś, czego nie um
 
 Za zakrętem zobaczyłam wieżę.
 
-Stała nieruchomo na szerokim kamiennym cokole. Cztery filary podtrzymywały koronę, a na jej szczycie tkwił wielki, błękitnobiały kryształ Lodu. Cała obrona wieży skupiała się w tym jednym rdzeniu. Gdy alarm zabrzmiał ponownie, kryształ rozjaśnił się. Z jego faset wystrzelił lodowy pocisk i roztrzaskał śnieg oraz kamień na zboczu. Wieża nie ruszyła się ani o włos; blask kryształu wskazywał cel.
+Stała nieruchomo na szerokim kamiennym cokole. Cztery filary podtrzymywały koronę, a na jej szczycie tkwił wielki, błękitny kryształ, przez który przebiegały żółte błyski Błyskawic. Na ciemnych panelach między filarami widniały złote znaki jej żywiołu. Gdy alarm zabrzmiał ponownie, kryształ rozjaśnił się. Z jego faset wystrzeliło żółtobiałe wyładowanie i uderzyło w zbocze, rozrzucając śnieg i odłamki kamienia. Wieża nie ruszyła się ani o włos; światło kryształu wskazywało cel.
 
 Przy skale, kilka kroków niżej, stała Szronogrzbieta.
 
@@ -55,9 +55,9 @@ Pod jej brzuchem tuliły się dwa młode, nie większe od dużych psów. Jedno m
 
 Alarm zawył ponownie.
 
-Wielki kryształ rozbłysnął. W jego wnętrzu zebrał się kolejny lodowy pocisk.
+Wielki kryształ rozbłysnął. W jego wnętrzu zadrżało kolejne żółtobiałe wyładowanie.
 
-**[MIEJSCE NA ILUSTRACJĘ 2 — nieruchoma kamienna wieża z wielkim kryształem Lodu na szczycie kieruje świetlisty pocisk ku samicy; osłania ona własnym ciałem dwa młode przy skale.]**
+**[MIEJSCE NA ILUSTRACJĘ 2 — nieruchoma kamienna wieża Błyskawic z wielkim błękitnym kryształem na szczycie kieruje wyładowanie ku samicy; osłania ona własnym ciałem dwa młode przy skale.]**
 
 ---
 
@@ -69,7 +69,7 @@ Sierść na jej grzbiecie zjeżyła się. Z gardła wydobył się niski, chrapli
 
 Wieża odpowiedziała strzałem.
 
-Pocisk uderzył w skałę tuż nad matką. Odłamki posypały się na śnieg. Młode przywarły do niej, a ona cofnęła jedną łapę, nie odsłaniając ich ani na moment.
+Wyładowanie uderzyło w skałę tuż nad matką. Odłamki posypały się na śnieg. Młode przywarły do niej, a ona cofnęła jedną łapę, nie odsłaniając ich ani na moment.
 
 Wtedy zrozumiałam, że wcale nie patrzę na atak.
 
@@ -85,7 +85,7 @@ Szronogrzbieta spojrzała w moją stronę. Jej spojrzenie nie zdradzało zrozumi
 
 Kolejny strzał rozświetlił zbocze.
 
-**[MIEJSCE NA ILUSTRACJĘ 3 — lodowy pocisk rozbija się o skałę obok matki; Saila stoi kilka kroków dalej, widząc, że samica nie atakuje, tylko osłania młode.]**
+**[MIEJSCE NA ILUSTRACJĘ 3 — wyładowanie Błyskawic uderza w skałę obok matki; Saila stoi kilka kroków dalej, widząc, że samica nie atakuje, tylko osłania młode.]**
 
 ---
 
@@ -101,9 +101,9 @@ Przez lata próbowałam oddzielać wspomnienie od wiedzy. Wiedza mówiła, że u
 
 Teraz nie mogłam uciec.
 
-Wieża nie była uszkodzona. Nie widziałam pęknięć ani dymu; robiła dokładnie to, do czego ją przygotowano. Nie potrafiła rozpoznać, że matka broni młodych — każdy ich ruch wystarczał, by kryształ wystrzelił ku nim kolejny pocisk.
+Wieża nie była uszkodzona. Nie widziałam pęknięć ani dymu; robiła dokładnie to, do czego ją przygotowano. Nie potrafiła rozpoznać, że matka broni młodych — każdy ich ruch wystarczał, by kryształ skierował ku nim kolejne wyładowanie.
 
-Mogłam pobiec po obsługę, ale sprowadzenie jej zajęłoby cenne minuty. Mogłam też zostać i patrzeć, jak kolejny pocisk trafia coraz bliżej.
+Mogłam pobiec po obsługę, ale sprowadzenie jej zajęłoby cenne minuty. Mogłam też zostać i patrzeć, jak kolejne wyładowanie uderza coraz bliżej.
 
 Żaden z tych wyborów nie wydawał mi się bezpieczny.
 
@@ -137,7 +137,7 @@ Moc wyrwała się ze mnie gwałtowniej, niż kiedykolwiek chciałam. Zimno popł
 
 Przez moment nic się nie stało.
 
-Potem kryształ rozbłysnął jeszcze raz. Światło, które miało uformować kolejny pocisk, cofnęło się w głąb kamienia. Lód oplótł oprawę i koronę wieży, nie naruszając samego kryształu.
+Potem kryształ rozbłysnął jeszcze raz. Żółty błysk, który miał przerodzić się w kolejne wyładowanie, cofnął się w głąb kamienia. Lód oplótł oprawę i koronę wieży, nie naruszając samego kryształu.
 
 Alarm urwał się w połowie tonu.
 
@@ -145,7 +145,7 @@ Wieża przestała strzelać.
 
 Poczułam, jak siły odpływają mi z ramion. Spróbowałam odsunąć dłonie, ale nie byłam pewna, czy to ja nimi poruszyłam, czy tylko drgnęły. Kolana ugięły się pode mną.
 
-**[MIEJSCE NA ILUSTRACJĘ 5 — dłonie Saily przy kamiennym cokole; lód wspina się po filarach nieruchomej wieży ku wielkiemu kryształowi, którego blask właśnie gaśnie.]**
+**[MIEJSCE NA ILUSTRACJĘ 5 — dłonie Saily przy kamiennym cokole; lód wspina się po filarach nieruchomej wieży ku oprawie wielkiego, wciąż świecącego kryształu; wyładowanie zanika.]**
 
 ---
 

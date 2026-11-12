@@ -1,6 +1,6 @@
 # Saila: Gdy wieża zamilkła — prompty do ilustracji
 
-Prompty do siedmiu scen oznaczonych w [opowieści](RIFTORYN_SAILA_ODBLOKOWANIE_OPOWIESC_DRAFT.md). To propozycja oprawy draftu, a nie nowe ustalenia kanonu. Każdy obraz generuj osobno. Przed generowaniem dołącz dostarczone przez autora referencje Saily, wieży Lodu i szronogrzbiety; w promptach wskazano, które są potrzebne w danej scenie. Jeśli generator pozwala opisać rolę referencji, podpisz je odpowiednio: **Saila — wygląd postaci**, **wieża Lodu — kształt konstrukcji**, **szronogrzbieta — anatomia i futro**. Do kolejnych ilustracji możesz również dołączyć zaakceptowany obraz jako referencję stylu i scenerii.
+Prompty do siedmiu scen oznaczonych w [opowieści](RIFTORYN_SAILA_ODBLOKOWANIE_OPOWIESC_DRAFT.md). To propozycja oprawy draftu, a nie nowe ustalenia kanonu. Każdy obraz generuj osobno. Przed generowaniem dołącz dostarczone przez autora referencje Saily, wieży Błyskawic i szronogrzbiety; w promptach wskazano, które są potrzebne w danej scenie. Jeśli generator pozwala opisać rolę referencji, podpisz je odpowiednio: **Saila — wygląd postaci**, **wieża Błyskawic — kształt konstrukcji**, **szronogrzbieta — anatomia i futro**. Do kolejnych ilustracji możesz również dołączyć zaakceptowany obraz jako referencję stylu i scenerii.
 
 ## Wspólne wskazówki
 
@@ -8,7 +8,7 @@ Ilustrowana opowieść fantasy, malarska ilustracja cyfrowa z czytelną kompozyc
 
 Saila jest młodą dorosłą kobietą. Zachowaj twarz, krótkie srebrzysto-lawendowe włosy, ubiór, lodowy naramiennik i sylwetkę z dostarczonego modelu. Jej emocje zmieniają się stopniowo: skupienie i niepokój, rozpoznanie zagrożenia, strach, determinacja, wysiłek, wyczerpanie, a na końcu zdumienie. Nie przedstawiaj jej jako dziecka poza ledwie zasugerowanym wspomnieniem w ilustracji 4.
 
-Wieżę i szronogrzbietę odwzoruj według dostarczonych modeli. Wieża jest **wieżą Lodu**: ma nieruchomy kamienny korpus, cztery filary, koronę i wielki błękitnobiały kryształ w oprawie na szczycie. To światło kryształu wskazuje cel; kryształ tworzy lodowe pociski. Wieża nie obraca się, nie ma lufy, głowy, twarzy ani ruchomej wieżyczki. W kolejnych obrazach zachowaj te same proporcje względem Saily.
+Wieżę i szronogrzbietę odwzoruj według dostarczonych modeli. Wieża jest **wieżą Błyskawic**: ma nieruchomy jasny kamienny korpus, cztery filary, ciemnoniebieskie panele ze złotymi znakami błyskawicy, koronę i wielki błękitny kryształ w metalowej oprawie na szczycie. To światło kryształu wskazuje cel; żółtobiałe wyładowania Błyskawic wydobywają się z kryształu. Żadnych lodowych pocisków ani lodowych strzał z wieży. Wieża nie obraca się, nie ma lufy, głowy, twarzy ani ruchomej wieżyczki. W kolejnych obrazach zachowaj te same proporcje względem Saily.
 
 Szronogrzbieta jest zwierzęciem wysokich przełęczy, o hienowatej sylwetce, mniej więcej wielkości dużego osła: mocne barki, spadzisty grzbiet, szerokie łapy i krótkie zakrzywione pazury. Gęste popielatobiałe futro, ciemniejsze plamy i pas sierści na grzbiecie. **Dwa młode** są mniejsze, bardziej puszyste; jedno ma jasną łatę nad okiem. Matka jest czujna i osłania młode; nie przedstawiaj jej jako potwora atakującego Sailę. Referencja modelu rozstrzyga szczegóły wyglądu w granicach opisu sceny.
 
@@ -16,39 +16,39 @@ Wspólne ograniczenia: poziomy kadr 3:2, bez tekstu, podpisów, ramek i znaków 
 
 ## 1. Alarm za załomem
 
-**Referencje:** Saila; opcjonalnie wieża Lodu jako wzór odległego sygnału.
+**Referencje:** Saila; opcjonalnie wieża Błyskawic jako wzór odległego sygnału.
 
 > Saila podczas samotnego obchodu zatrzymała się na ośnieżonym górskim szlaku i nasłuchuje. W jednej dłoni trzyma kartę obchodu lub złożoną mapę, przy pasie ma zwiniętą linkę i niewielki pakunek. Jej twarz wyraża skupienie i niepokój: coś przerwało zwyczajny rytm pracy. Szlak wznosi się między skałami, a świeże ślady częściowo zasypuje śnieg. Za skalnym załomem nie widać jeszcze samej wieży; tylko chłodny błysk alarmu rozświetla niebo ponad zboczem. Szeroki plan, wczesna zima, poczucie, że za zakrętem dzieje się coś nieznanego. Bez widocznych zwierząt i bez walki.
 
 ## 2. Wieża i matka
 
-**Referencje:** wieża Lodu, szronogrzbieta; Saila może pojawić się mała na dalszym planie.
+**Referencje:** wieża Błyskawic, szronogrzbieta; Saila może pojawić się mała na dalszym planie.
 
-> Szeroki kadr zza zakrętu szlaku, w którym widać relację przestrzenną między wieżą, skalnym schronieniem i zwierzętami. Nieruchoma kamienna wieża Lodu stoi na szerokim cokole; cztery filary podtrzymują koronę z dużym błękitnobiałym kryształem. Z kryształu wystrzeliwuje jeden lodowy pocisk w kierunku ośnieżonego zbocza. Kilka kroków niżej, przy skale, dorosła szronogrzbieta ustawia szeroki bok przed **dwoma** młodymi. Jedno młode ma jasną łatę nad okiem, drugie tuli pysk do matki. Zwierzęta są osaczone, a matka je zasłania, nie atakuje. Jeśli widoczna jest Saila, stoi daleko przy zakręcie i dopiero poznaje sytuację. Bez krwi i bez trafienia w zwierzęta.
+> Szeroki kadr zza zakrętu szlaku, w którym widać relację przestrzenną między wieżą, skalnym schronieniem i zwierzętami. Nieruchoma kamienna wieża Błyskawic stoi na szerokim cokole; cztery filary podtrzymują koronę z dużym błękitnym kryształem i złotymi znakami błyskawicy. Z kryształu wystrzeliwuje jedno żółtobiałe wyładowanie w kierunku ośnieżonego zbocza. Kilka kroków niżej, przy skale, dorosła szronogrzbieta ustawia szeroki bok przed **dwoma** młodymi. Jedno młode ma jasną łatę nad okiem, drugie tuli pysk do matki. Zwierzęta są osaczone, a matka je zasłania, nie atakuje. Jeśli widoczna jest Saila, stoi daleko przy zakręcie i dopiero poznaje sytuację. Bez krwi i bez trafienia w zwierzęta.
 
 ## 3. To nie jest atak
 
-**Referencje:** Saila, szronogrzbieta, wieża Lodu.
+**Referencje:** Saila, szronogrzbieta, wieża Błyskawic.
 
-> Chwila po uderzeniu lodowego pocisku w skałę nad szronogrzbietą: w powietrzu unoszą się śnieg i drobne odłamki kamienia. Matka ma napięte łapy, uniesiony kark i ostrzegawczo odsłonięte zęby, ale jej ciało stoi między zagrożeniem a dwoma młodymi przy skale. Saila znajduje się kilka kroków dalej; cofa się odruchowo, a jednocześnie dostrzega, że samica chroni potomstwo. Wieża pozostaje nieruchoma w tle, jej kryształ świeci. Wyraźnie pokaż dystans między Sailą a zwierzęciem; żadnego dotyku ani przyjaznego kontaktu. Napięcie i niejednoznaczność, bez krwi i bez zamieniania matki w napastnika.
+> Chwila po uderzeniu żółtobiałego wyładowania w skałę nad szronogrzbietą: w powietrzu unoszą się śnieg i drobne odłamki kamienia. Matka ma napięte łapy, uniesiony kark i ostrzegawczo odsłonięte zęby, ale jej ciało stoi między zagrożeniem a dwoma młodymi przy skale. Saila znajduje się kilka kroków dalej; cofa się odruchowo, a jednocześnie dostrzega, że samica chroni potomstwo. Wieża pozostaje nieruchoma w tle, jej kryształ świeci. Wyraźnie pokaż dystans między Sailą a zwierzęciem; żadnego dotyku ani przyjaznego kontaktu. Napięcie i niejednoznaczność, bez krwi i bez zamieniania matki w napastnika.
 
 ## 4. Decyzja mimo strachu
 
-**Referencje:** Saila, wieża Lodu; szronogrzbieta, jeśli jest widoczna w tle.
+**Referencje:** Saila, wieża Błyskawic; szronogrzbieta, jeśli jest widoczna w tle.
 
 > Saila rusza biegiem pod górę ku podstawie nieruchomej kamiennej wieży. Jej postawa zdradza jednocześnie strach i determinację; wiatr odrywa płaszcz od sylwetki, buty rozrzucają śnieg. W tle przy skale można dostrzec matkę osłaniającą dwa młode, a wysoko nad nimi rozświetlający się kryształ. Przy krawędzi kadru pojawia się ledwie zauważalna smuga białego światła i rozmyty urywek górskiej drogi — subiektywne wspomnienie dziecięcej ucieczki, niemal wtapiające się w bieżącą scenę. Obecna Saila pozostaje młodą dorosłą. Bez dosłownej rekonstrukcji wybuchu, bez pokazania jego przyczyny i bez zmiany wieży w płonącą ruinę.
 
 ## 5. Wieża milknie
 
-**Referencje:** Saila, wieża Lodu.
+**Referencje:** Saila, wieża Błyskawic.
 
-> Niski punkt widzenia przy szerokim kamiennym cokole, z zachowaniem czytelnej skali całej wieży. Saila przyciska obie dłonie do zimnego kamienia; jej ramiona są napięte, a kolana zaczynają się uginać z wysiłku. Lodowe żyłki i szron wspinają się od cokołu po czterech filarach, oplatając metalową oprawę i koronę. Wielki kryształ Lodu pozostaje **cały i nadal świeci**; światło, które miało stworzyć pocisk, cofa się w głąb kryształu. Alarm właśnie milknie, a wieża przestaje strzelać. Siła sceny wynika z kontrastu między małą sylwetką Saily a ogromem konstrukcji. Bez pękania kryształu, eksplozji, uszkodzenia wieży ani wielkiej lodowej ściany zasłaniającej postać.
+> Niski punkt widzenia przy szerokim kamiennym cokole, z zachowaniem czytelnej skali całej wieży. Saila przyciska obie dłonie do zimnego kamienia; jej ramiona są napięte, a kolana zaczynają się uginać z wysiłku. Lodowe żyłki i szron wspinają się od cokołu po czterech filarach, oplatając metalową oprawę i koronę. Wielki kryształ splotytu pozostaje **cały i nadal świeci**; żółty błysk, który miał zamienić się w wyładowanie, cofa się w głąb kryształu. Alarm właśnie milknie, a wieża przestaje strzelać. Siła sceny wynika z kontrastu między małą sylwetką Saily a ogromem konstrukcji. Bez pękania kryształu, eksplozji, uszkodzenia wieży ani wielkiej lodowej ściany zasłaniającej postać.
 
 ## 6. Droga odwrotu
 
-**Referencje:** Saila, szronogrzbieta, wieża Lodu.
+**Referencje:** Saila, szronogrzbieta, wieża Błyskawic.
 
-> Na pierwszym planie wyczerpana Saila osuwa się na śnieg przy kamiennym cokole, najpierw na kolano i ramię. Nie jest martwa ani zakrwawiona. W głębi kadru matka szronogrzbieta cofa się ostatnia za skalne wzniesienie, nadal osłaniając dwa młode. Jedno młode ma jasną łatę nad okiem. Matka spogląda krótko w stronę Saily, lecz obraz nie przypisuje jej wdzięczności ani zrozumienia. Nieruchoma wieża pozostaje widoczna, jej oprawę pokrywa lód, kryształ wciąż słabo świeci, nie ma pocisku. Chłodne światło i cisza po alarmie; bez ludzi przybywających na ratunek i bez sugestii, że zwierzęta są już na pewno bezpieczne.
+> Na pierwszym planie wyczerpana Saila osuwa się na śnieg przy kamiennym cokole, najpierw na kolano i ramię. Nie jest martwa ani zakrwawiona. W głębi kadru matka szronogrzbieta cofa się ostatnia za skalne wzniesienie, nadal osłaniając dwa młode. Jedno młode ma jasną łatę nad okiem. Matka spogląda krótko w stronę Saily, lecz obraz nie przypisuje jej wdzięczności ani zrozumienia. Nieruchoma wieża pozostaje widoczna, jej oprawę pokrywa lód, kryształ wciąż świeci, nie ma wyładowania. Chłodne światło i cisza po alarmie; bez ludzi przybywających na ratunek i bez sugestii, że zwierzęta są już na pewno bezpieczne.
 
 ## 7. Światło w schronisku
 
@@ -59,7 +59,25 @@ Wspólne ograniczenia: poziomy kadr 3:2, bez tekstu, podpisów, ramek i znaków 
 ## Uwagi do składu i spójności
 
 - Ilustrację 1 umieść przy chwili usłyszenia alarmu; ilustrację 2 przy pierwszym widoku wieży i matki. Obie nie muszą zdradzać zagrożenia przed jego opisem w tekście.
-- Ilustracje 2 i 3 pokazują dwa różne momenty: najpierw układ miejsca i obronę młodych, potem reakcję Saily i uderzenie pocisku w skałę.
-- Ilustracja 5 w oryginalnym znaczniku mówi o gasnącym blasku, ale dalszy tekst stwierdza, że kryształ nadal świeci. Prompt pokazuje cofające się światło pocisku i świecący, nieuszkodzony kryształ, żeby uniknąć sprzeczności.
+- Ilustracje 2 i 3 pokazują dwa różne momenty: najpierw układ miejsca i obronę młodych, potem reakcję Saily i uderzenie wyładowania w skałę.
+- W ilustracji 5 kryształ wciąż świeci, a wyładowanie zanika. Lód jest mocą Saily, która unieruchamia oprawę wieży, nie jej pociskiem.
 - Ilustracje 6 i 7 nie przesądzają losu zwierząt ani przyczyny nowego zachowania mocy. Światło lampy w scenie finałowej to zapowiedź, nie wyjaśnienie.
 - Referencje modeli autora należy dodać przed generowaniem. W razie sprzeczności między wyglądem modelu a opisem draftu warto najpierw ustalić, który element ma pierwszeństwo; nie dopisujemy samodzielnie nowego kanonu.
+
+## Korekty gotowych ilustracji
+
+Zachowaj przesłane obrazy jako referencje scen i postaci. Widać na nich już wieżę Błyskawic, dlatego nie trzeba zmieniać jej konstrukcji. Zmiany powinny dotyczyć tylko wskazanych fragmentów.
+
+**Ilustracja 2 — wieża i matka** (obraz z samotną Sailą daleko po lewej i zwierzętami przy skale):
+
+> Zachowaj kompozycję, wieżę Błyskawic z błękitnym kryształem i złotymi symbolami, schronisko, Sailę oraz stylistykę. Zamień wyłącznie lecącą z wieży lodową strzałę na cienkie, żółtobiałe wyładowanie Błyskawic skierowane w skałę obok rodziny zwierząt; bez lodowego pocisku i bez trafienia zwierząt. Przy matce pozostaw dokładnie dwa młode, jedno z jasną łatą nad okiem. Usuń nadmiarowe młode, nie zmieniając matki ani tła.
+
+**Ilustracja 3 — Saila i matka** (obraz z Sailą po lewej, matką i dwoma młodymi przy skale po prawej):
+
+> Zachowaj Sailę, matkę z dokładnie dwoma młodymi, wieżę i ustawienie postaci. Zamień tylko niebieski lodowy wybuch na ślad uderzenia żółtobiałego wyładowania Błyskawic w skałę powyżej zwierząt: kilka jasnych iskier oraz rozrzucone drobne odłamki kamienia i śniegu. Usuń lodowy pocisk i lodowy odprysk będący skutkiem strzału. Nie zmieniaj lodowego naramiennika Saily ani naturalnego śniegu na skałach.
+
+**Ilustracja 6 — odwrót** (obraz z osuwającą się Sailą i zwierzętami w oddali):
+
+> Zachowaj Sailę przy podstawie wieży, odchodzącą matkę z dokładnie dwoma młodymi, krajobraz i nastrój. Usuń z tła drugą, odległą wieżę oraz zastąp ją naturalnym skalnym grzbietem i śniegiem. Widoczna przy Saili wieża jest tą samą unieruchomioną wieżą Błyskawic. Nie dodawaj ludzi ani innych zwierząt.
+
+Wariant użycia wieży Błyskawic w tym drafcie nie przesądza, że Szronogrzbiety mają żywioł Lodu albo szczególną odporność. Przewaga Błyskawic nad Lodem występuje w GDD jako propozycja mechaniczna do testów; cechy gatunku wymagają osobnej decyzji.
