@@ -203,11 +203,13 @@ Na szlaku ktoś zostawił nowy pakunek drewna. Obok leżał kawałek papieru z d
 
 Wzięłam kartę pomiarową i dopisałam ostatni wynik. Obok zostawiłam puste miejsce na kolejny. Kryształ świecił słabo, lecz równo. Za oknem przełęcz czekała na poranny obchód.
 
-Jutro znów trzeba będzie sprawdzić drogę.
+Wciąż miałam wiele do nauczenia się o kryształach. O tym, jak prowadzić moc, jak rozpoznawać zmęczenie i kiedy poprosić kogoś o pomoc. Nie wiedziałam, ile czasu mi to zajmie.
 
-Jutro znów trzeba będzie zapytać, co wiem, a czego tylko się domyślam.
+Chciałam jednak zapisywać to, czego się dowiem — nie tylko dla siebie. Może pewnego dnia ktoś usiądzie przy tym samym stole, zajrzy do moich notatek i dopisze coś, czego ja jeszcze nie rozumiem.
 
-Tym razem nie musiałam robić tego sama.
+Pomyślałam o ludziach, którzy zostawiali drewno w schronisku i znaki na drodze. Każdy z nich przekazywał dalej to, co mógł. Ja też mogłam się uczyć, a potem dzielić się wiedzą, żeby następni umieli dbać o naszą krainę.
+
+Za oknem wiatr przesunął śnieg po ścieżce. Jutro znów trzeba będzie sprawdzić drogę. A potem opowiedzieć innym, co na niej znalazłam.
 
 **[MIEJSCE NA ILUSTRACJĘ 7 — mały zapas drewna i krótka wiadomość „Dla następnych” w schronisku; Saila czyta ją przy ciepłym świetle.]**
 
