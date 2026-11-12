@@ -27,7 +27,7 @@ Najpierw usłyszałam jeden długi ton, przecięty dwoma krótkimi. Potem ciszę
 
 Nie był to sygnał ćwiczebny.
 
-Przez chwilę patrzyłam w stronę wieży. Nie widziałam jej jeszcze zza załomu, ale nad grzbietem rozbłysło światło.
+Przez chwilę patrzyłam w stronę wieży. Nie widziałam jej jeszcze zza załomu, ale nad stokiem rozbłysło światło.
 
 Ruszyłam biegiem.
 
@@ -49,7 +49,7 @@ Przy skale, kilka kroków niżej, stała Szronogrzbieta.
 
 Uczyłam się o niej w szkole magów; jej tropy i sylwetkę znałam z bestiariuszy oraz notatek z patroli. Parę razy widziałam Szronogrzbiety z oddali, wysoko na zboczach; nigdy wcześniej nie podchodziłam do nich blisko. Umiałam rozpoznać spadzisty grzbiet i ciemną grzywę, która odcinała się od zimowego futra. Wiedziałam też, że zwykle unikają ludzi, ale samica z młodymi może stanąć do obrony, gdy poczuje się osaczona.
 
-Była większa od jucznego zwierzęcia, a zarazem niska i szeroka w barkach. Gęste, popielatobiałe futro zlewało się ze śniegiem, a na grzbiecie miała ciemniejszy pas, jak mokry kamień pod lodem. Sierść przy pysku i łapach zbijała się w drobne kryształki szronu. Szerokie łapy rozgarniały śnieg, a krótkie, zakrzywione pazury trzymały ją na stromym podłożu.
+Miała rozmiary dużego osła, a przy tym była niska i szeroka w barkach. Gęste, popielatobiałe futro zlewało się ze śniegiem, a na grzbiecie miała ciemniejszy pas, jak mokry kamień pod lodem. Sierść przy pysku i łapach zbijała się w drobne kryształki szronu. Szerokie łapy rozgarniały śnieg, a krótkie, zakrzywione pazury trzymały ją na stromym podłożu.
 
 Pod jej brzuchem tuliły się dwa młode, nie większe od dużych psów. Jedno miało jasną łatę nad okiem. Drugie trzymało pysk wciśnięty w bok matki. Kiedy kryształ kierował blask ku młodym, Szronogrzbieta stawała na linii strzału.
 
@@ -163,7 +163,7 @@ Jedno z młodych wysunęło się spod jej boku; jasna łata nad okiem mignęła 
 
 Przez krótką chwilę jej wzrok znów spotkał mój.
 
-Potem zniknęła za grzbietem.
+Potem zniknęła za skalnym wzniesieniem.
 
 Usłyszałam odległy szelest śniegu zsuwającego się z półki skalnej. Wieża trwała w bezruchu. Jej kryształ wciąż świecił, lecz alarm milczał.
 
@@ -173,7 +173,7 @@ Moje ciało nie odpowiedziało.
 
 Upadłam na bok, najpierw na kolano, potem na ramię. Śnieg był twardszy, niż się spodziewałam. Nie poczułam bólu od razu. Poczułam tylko ciężar, jakby ktoś przykrył mnie wszystkim śniegiem z przełęczy.
 
-**[MIEJSCE NA ILUSTRACJĘ 6 — Szronogrzbieta z młodymi znika za skalnym grzbietem; na pierwszym planie Saila osuwa się na śnieg, a kamienna wieża z wielkim kryształem milczy.]**
+**[MIEJSCE NA ILUSTRACJĘ 6 — Szronogrzbieta z młodymi znika za skalnym wzniesieniem; na pierwszym planie Saila osuwa się na śnieg, a kamienna wieża z wielkim kryształem milczy.]**
 
 ---
 
@@ -191,7 +191,7 @@ Opiekunka magazynu siedziała przy stole. Trzymała moje rękawice w dłoniach. 
 
 Zamknęłam oczy.
 
-Nie wiedziałam też, czy bestia i młode znalazły bezpieczne miejsce po drugiej stronie grzbietu. Nie miałam jak tego sprawdzić.
+Nie wiedziałam też, czy bestia i młode znalazły bezpieczne miejsce za skalnym wzniesieniem. Nie miałam jak tego sprawdzić.
 
 Chciałam powiedzieć, że wieża się pomyliła. Nie zrobiła tego; wykonała polecenie, które jej dano. Szronogrzbieta nie zaatakowała — osłaniała młode. Wiedziałam to po jej postawie, ale nie mogłam przewidzieć, co zrobiłaby, gdybyśmy podeszli bliżej.
 
@@ -199,9 +199,15 @@ Kiedy później spisałam raport, zanotowałam tylko to, co widziałam: Szronogr
 
 Przez lata uczyłam się prowadzić moc do kryształów: wolno, równo, bez przekraczania granicy, po której ciało przestawało słuchać. Tego dnia po raz pierwszy poprowadziłam ją w inną stronę. Nie po to, by zasilić kryształ, lecz by na chwilę przerwać działanie wieży.
 
-Nie czułam się silna. Czułam się wyczerpana i niepewna. Ale gdzieś pod tym zmęczeniem była nowa wiedza — nie o tym, ile mogę unieść, tylko o tym, co mogę powstrzymać.
+Nie czułam się silna. Byłam wyczerpana i niepewna. A jednak pod tym zmęczeniem czułam, że coś się we mnie zmieniło. Nie umiałam jeszcze nazwać tej zmiany.
 
-**[MIEJSCE NA ILUSTRACJĘ 7 — Saila odpoczywa przy stole w schronisku; obok leżą jej rękawice, a przez okno widać cichy, ośnieżony szlak.]**
+Opiekunka magazynu siedziała obok mnie, gdy spróbowałam wstać od stołu. Zachwiałam się i oparłam ramieniem o kryształ splotytu osadzony w lampie przy ścianie. Nie zamierzałam go ładować. Ledwie starczało mi sił, by utrzymać się na nogach.
+
+Matowy kryształ rozjarzył się pod moim ramieniem. Światło przebiegło przez niego w mgnieniu oka.
+
+Opiekunka wstała. Ja tylko patrzyłam, jak splotyt napełnia się energią.
+
+**[MIEJSCE NA ILUSTRACJĘ 7 — w pokoju schroniska Saila opiera się o lampę z kryształem splotytu, który rozbłyska pełnią światła; opiekunka magazynu patrzy na nią ze zdumieniem.]**
 
 ---
 
@@ -213,4 +219,4 @@ W tej scenie Szronogrzbieta przechodzi w pobliżu wieży z młodymi. Nie atakuje
 
 ### Robocza nota o zdolności
 
-Scena stanowi literacką genezę zdolności Saily „Zamrożenie mechanizmu”: pod wpływem strachu i współczucia po raz pierwszy kieruje mocą nie po to, by zasilić kryształ, lecz by na chwilę unieruchomić wieżę. Konkretne parametry zdolności w grze pozostają niezależne od tej sceny.
+Scena stanowi literacką genezę zdolności Saily „Zamrożenie mechanizmu”: pod wpływem strachu i współczucia po raz pierwszy kieruje mocą nie po to, by zasilić kryształ, lecz by na chwilę unieruchomić wieżę. Końcowe, niezamierzone naładowanie splotytu zapowiada zmianę w przepływie jej mocy; przyczyna i konsekwencje tego zdarzenia pozostają otwarte. Konkretne parametry zdolności w grze pozostają niezależne od tej sceny.
