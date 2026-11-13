@@ -1,5 +1,7 @@
 # Saila: Ciężar kryształu — prompty do ilustracji
 
+> Pierwotny zestaw promptów. Dla aktualnego tekstu użyj [promptów do podmiany 06 i 08 oraz wskazówek do składu](RIFTORYN_SAILA_PROMPTY_AKTUALIZACJA.md).
+
 Propozycja do miniksiążki, nie nowy kanon. Osiem osobnych ilustracji w kolejności miejsc oznaczonych w opowieści. Najlepiej generować każdą osobno, dołączając jako referencję [arkusz Saily](assets/heroes/modeling-concepts/saila.png); do ilustracji 3 także [podgląd wieży Błyskawic](../roblox-elemental-defense/assets/exports/premium_elemental_base_towers/Premium_Base_Tower_Lightning_Preview.png). Przy kolejnych scenach warto dołączać również zaakceptowaną pierwszą ilustrację jako referencję stylu.
 
 ## Wspólne wskazówki

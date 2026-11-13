@@ -1,11 +1,8 @@
-# Saila: Ciężar kryształu
+# Saila — Ciężar kryształu
 
-**Miniopowieść z perspektywy Saily**
-
-**Status:** propozycja literacka do dalszego dopracowania; nie ustanawia nowych faktów kanonu.
-**Miejsce w osi czasu:** Nivoren, 11 ET, późna jesień — kilka tygodni przed zimą.
-**Szacowany czas czytania:** około 20 minut z przerwami na ilustracje.
-**Proponowane ilustracje:** 8.
+**Status:** wersja literacka; nie ustanawia nowych faktów kanonu.
+**Miejsce w osi czasu:** Nivoren, późna jesień 11 ET.
+**Ilustracje:** sześć w czytniku, dwie sceny czekają na nowe kadry. [Prompty do podmiany](RIFTORYN_SAILA_PROMPTY_AKTUALIZACJA.md).
 
 ---
 
@@ -13,117 +10,299 @@
 
 W Nivoren dzień zaczyna się od sprawdzenia drogi.
 
-Była późna jesień. Górskie grzbiety przyprószył już pierwszy śnieg, lecz w dolinie chłodne dni wciąż przeplatały się z cieplejszymi.
+Nie pamiętam, kiedy ostatnio obudziłam się wypoczęta.
 
-Zanim otworzą się warsztaty i zanim ktokolwiek zajrzy do magazynu, ktoś wychodzi przed schronisko i patrzy na przełęcz. Nie po to, żeby zobaczyć, czy jest piękna. Po to, żeby sprawdzić, czy noc nie zmieniła jej w coś innego.
+Tego ranka śnieg leżał już na górnych zboczach Białego Przesmyku. W dolinie wciąż zdarzały się cieplejsze dni, ale nocny mróz pozostawiał na kamieniach cienką warstwę lodu. Z daleka wszystko wyglądało spokojnie. Z bliska było inaczej.
 
-Śnieg potrafi zasłonić głęboki rów i wygładzić ślad po osuwisku. Wiatr nawiewa go na kamienne znaczniki. Zamarznięty strumień wygląda jak skrót, dopóki nie pęknie pod ciężarem wozu. Dlatego na szlaku liczą się rzeczy małe: sznur zawiązany na słupku, świeży odcisk buta, odłamek ciemnego kamienia położony na jasnym śniegu. Każdy znak ma sens tylko wtedy, gdy ktoś pamięta, kto go zostawił i kiedy.
+Śnieg potrafił ukryć osuwisko, zasypać znaczniki albo przykryć pęknięcie w zamarzniętym strumieniu. Ktoś musiał sprawdzić drogę, zanim wyjadą nią pierwsze wozy.
 
-Tego ranka patrzyłam na grzbiet nad Białym Przesmykiem. Chmury wisiały nisko, ale nie schodziły jeszcze w dolinę. Na kamiennym słupku przy drodze widniała data ostatniego obchodu. Ktoś dopisał obok mały znak: „powrót przed zmrokiem”. Nie wiedziałam, kto go zostawił. Wiedziałam za to, że od wczoraj nikt nie potwierdził stanu górnego odcinka.
+Tym kimś od kilku dni byłam ja.
 
-Wróciłam do magazynu.
+Zwykle górny odcinek sprawdzał jeden ze strażników szlaku, lecz zachorował, a jego zastępca nie wrócił jeszcze z południowej osady. Wszyscy mieli swoje obowiązki. Ja również.
 
-Mieszkańcy Nivoren umieją czekać, ale czekanie nie oznacza bezczynności. Jedni sprawdzają zapasy na zimę, inni naprawiają drzwi schroniska albo wymieniają się wieściami o drodze. Przy stole ktoś zostawił kubek z wodą, obok niego leżała lista rzeczy potrzebnych następnemu konwojowi. Mąka, suszone warzywa, igły do szycia grubego płótna, smar do osi. Drobiazgi, dopóki ich nie zabraknie.
+Poprawiłam kołnierz płaszcza i ruszyłam przed świtem.
 
-W chłodni czekały dwie skrzynie żywności. Jedna przyjechała z Verdan, druga zawierała zapasy miejscowe. Wskaźnik temperatury drgnął, potem zatrzymał się o kreskę wyżej niż poprzedniego wieczoru.
+Na kamiennym słupku przy rozwidleniu wciąż widniała data ostatniego obchodu. Dopisałam nową, a potem sprawdziłam oznaczenia przy strumieniu. Jedno przewrócił wiatr. Podniosłam je, wbiłam głębiej w ziemię i obłożyłam kamieniami.
 
-— Dasz radę utrzymać stałą temperaturę? — spytała opiekunka magazynu. — Zapasy wciąż spływają. Muszą wytrzymać do zimy. Jeszcze kilka tygodni, a jeśli chłód się utrzyma, otworzymy chłodnie zewnętrzne.
+**[MIEJSCE NA ILUSTRACJĘ 1 — Saila sprawdza oznaczenia górskiego szlaku o świcie.]**
 
-Popatrzyłam na kryształ w obudowie. Był prawie pusty.
+Kiedy wróciłam, magazyn był już otwarty.
 
-— Mogę spróbować.
+W Nivoren przygotowania do zimy zaczynają się na długo przed pierwszą śnieżycą. Mieszkańcy naprawiają dachy, gromadzą drewno i sprawdzają zapasy. Każda skrzynia żywności ma znaczenie, bo przez kilka zimowych tygodni droga potrafi stać się nieprzejezdna.
 
-Nie powiedziałam, jak długo mogę próbować. Tego nie wiedziałam, dopóki nie zaczęłam.
+W chłodni czekały dwie skrzynie z Verdan, miejscowe zapasy i niewielka przesyłka lekarstw wymagających niskiej temperatury.
 
-**[MIEJSCE NA ILUSTRACJĘ 1 — Saila o świcie sprawdza oznaczenia na szlaku nad Białym Przesmykiem; w tle widać schronisko, magazyn i zasypany grzbiet.]**
+Opiekunka magazynu stała przy urządzeniu chłodzącym.
+
+— Znowu wzrosła — powiedziała, wskazując wskaźnik temperatury.
+
+Spojrzałam na kryształ w metalowej oprawie. Jego srebrzysty blask był słabszy niż poprzedniego wieczoru.
+
+— Ile zostało? — zapytałam.
+
+— Jeśli będziemy oszczędzać, może do wieczora. Ale jutro przyjdzie następna dostawa.
+
+Podeszłam bliżej.
+
+— Spróbuję go doładować.
+
+Opiekunka skinęła głową. Była wyraźnie zmęczona. Od tygodni pilnowała zapasów i wiedziałam, że ona także ma zbyt wiele pracy.
+
+— Dobrze, Saila. Bez ciebie nie wiem, co byśmy zrobili.
+
+Uśmiechnęłam się.
+
+Nie powiedziałam jej, że jeszcze przed świtem musiałam dwukrotnie zatrzymać się na szlaku, żeby złapać oddech.
+
+Nie powiedziałam też, jak bardzo chciałam wrócić do łóżka.
 
 ---
 
 ## 2. Ile mieści się w dłoniach
 
-Kryształ był niewielki, osadzony w ramie chłodzącego urządzenia. Nie dawał zimna sam z siebie. Przyjmował energię, przechowywał ją, a mechanizm wykorzystywał ją potem do pracy. Kiedy zapas malał, ściany chłodni powoli przestawały odbierać ciepło od skrzyń.
+Kryształy nie tworzą energii.
 
-Ułożyłam dłonie po obu stronach kryształu. Nie dotykałam go od razu. Najpierw uspokoiłam oddech i odsunęłam z myśli listę rzeczy, które jeszcze miałam zrobić: zapisać temperaturę, sprawdzić wentyl, odnieść narzędzia, wrócić na szlak, zajrzeć do schroniska.
+Mogą ją przyjąć, przechować i oddać urządzeniu, do którego zostały przystosowane. Ich zastosowanie zależy od konstrukcji, rodzaju mocy i sposobu obsługi.
 
-Ruvan uczył mnie, że nie wolno mylić skupienia z siłą. Kryształ nie był drzwiami, które należało wyważyć. Trzeba było znaleźć kierunek, w którym przyjmował moc, i prowadzić ją spokojnie.
+Tego nauczyłam się już dawno.
 
-Poczułam chłód pod skórą. Z początku był lekki jak oddech zimowego poranka. Potem zaczął ciążyć. Kryształ rozjaśnił się od środka, a drobne żyłki w jego powierzchni nabrały srebrnego blasku. Nie widziałam, ile energii już zgromadził. Mogłam jedynie kontrolować własny oddech i pilnować, by nie próbować przyspieszać.
+Ułożyłam dłonie po obu stronach niewielkiego splotytu. Zamknęłam oczy i spróbowałam uspokoić oddech.
 
-Po chwili ramiona zesztywniały mi od napięcia. Zatrzymałam przepływ.
+Ruvan mawiał, że kryształu nie należy zmuszać do przyjmowania mocy. Trzeba znaleźć właściwy przepływ, a potem cierpliwie go prowadzić.
 
-— Już? — spytała opiekunka magazynu.
+Poczułam znajomy chłód.
 
-— Na teraz.
+Z początku przypominał zimowe powietrze dotykające skóry. Potem przeniknął głębiej, rozchodząc się wzdłuż przedramion. W krysztale pojawiły się cienkie srebrne żyłki.
 
-Uśmiechnęła się, ale spojrzała na wskaźnik chłodni. Blask kryształu był słaby. Nie wystarczy na całą dobę. Być może wystarczy do wieczora, jeśli drzwi będą zamykane szybko.
+Przez chwilę wszystko przebiegało prawidłowo.
 
-Przez lata nauki i pracy nauczyłam się ładować kryształy bez gwałtownego wtłaczania w nie mocy. Nie nauczyłam się jednak robić tego bez wysiłku. Energia nie pojawiała się za darmo tylko dlatego, że byłam magiem. Po każdym ładowaniu ciało przypominało mi o granicy: ciężkimi rękami, suchością w ustach, zmęczeniem, które zbierało się pod żebrami.
+Potem zaczęły drżeć mi palce.
 
-Kiedy byłam młodsza, próbowałam tę granicę przesuwać. Wydawało mi się, że skoro potrafię coś zrobić, powinnam zrobić tego więcej. Że jeśli odpuszczę, ktoś będzie miał zimny posiłek albo nie doczeka się lekarstwa.
+Nie przerwałam.
 
-Teraz wiedziałam, że mogę przekazać kryształowi tylko tyle mocy, ile sama zdołam bezpiecznie z siebie wydobyć. Nie wiedziałam jeszcze, czy umiem zaakceptować, że to czasem za mało.
+Wiedziałam, że kryształ jest wciąż prawie pusty. Jeśli zatrzymam się teraz, chłodnia nie wytrzyma do wieczora. Lekarstwa trzeba będzie przenieść, a nie było gdzie. W innych komorach brakowało miejsca, a zimno na zewnątrz nie utrzymywało się jeszcze wystarczająco długo.
 
-Zanotowałam godzinę i wynik na karcie. Moja ręka drżała tak lekko, że kreska wyszła krzywa. Poprawiłam ją, po czym skreśliłam poprawkę. Zapis powinien mówić prawdę o tym, co się stało, nie udawać, że wszystko przebiegło równo.
+Skupiłam się mocniej.
 
-**[MIEJSCE NA ILUSTRACJĘ 2 — zbliżenie na dłonie Saily przy małym krysztale w ramie chłodni; światło kryształu jest subtelne, a na karcie obok widać nierówną kreskę pomiaru.]**
+Srebrne światło rozjaśniło się. Poczułam ciężar w ramionach, jakbym przez długi czas niosła kamienie. Gardło wyschło mi tak bardzo, że każdy oddech sprawiał trudność.
+
+Dopiero kiedy obraz zaczął rozmazywać mi się przed oczami, odsunęłam dłonie.
+
+Oparłam je o krawędź stołu.
+
+— Już? — zapytała opiekunka.
+
+Spojrzałam na kryształ.
+
+Był jaśniejszy, ale daleki od pełnego naładowania.
+
+— Na razie.
+
+— Wystarczy?
+
+— Do wieczora powinno.
+
+Nie byłam tego pewna.
+
+Przez kilka chwil stałam bez ruchu, czekając, aż przestaną drżeć mi nogi.
+
+Kiedyś ładowanie podobnego kryształu przychodziło mi łatwiej. A może tylko tak zapamiętałam tamte dni. Ostatnio każde kolejne wydawało się trudniejsze od poprzedniego.
+
+Zanotowałam wynik na karcie pomiarowej.
+
+Kreska wyszła krzywa.
+
+Próbowałam ją poprawić, ale dłoń drżała jeszcze mocniej.
+
+Zostawiłam ją taką.
+
+**[MIEJSCE NA ILUSTRACJĘ 2 — Saila ładuje kryształ w urządzeniu chłodni.]**
+
+Opiekunka spojrzała na listę dostaw.
+
+— Jutro trzeba będzie przygotować drugi kryształ do zimowego schronu.
+
+Wiedziałam.
+
+Od wczoraj myślałam o nim niemal bez przerwy.
+
+— Zajmę się nim — odpowiedziałam.
+
+Potem wzięłam płaszcz i wyszłam sprawdzić szlak.
 
 ---
 
 ## 3. Schronisko przy zakręcie
 
-Po ponad dwóch godzinach szybkiego marszu dotarłam do schroniska. Niosłam tylko lekki pakunek suchego drewna, ale ścieżka wiodła pod górę, a wiatr wciskał śnieg pod kołnierz. Schronisko stało na trasie, między osadą z chłodniami a przełęczą — daleko od miejskiego zgiełku, lecz dokładnie tam, gdzie podróżny mógł potrzebować dachu. Przy zakręcie dwie drogi rozchodziły się między skałami. Jedna była krótsza, ale prowadziła wąskim przejściem narażonym na wiatr. Druga omijała grzbiet, a podróż nią trwała prawie pół dnia dłużej. Żadna nie była zawsze bezpieczna.
+Droga do górnego schroniska zajmowała ponad dwie godziny szybkiego marszu.
 
-Nad zakrętem stała wieża szlakowa. Na samej górze, w metalowej oprawie, spoczywała ogromna bryła splotytu. Świeciła mocnym, chłodnym błękitem, w którym przeskakiwały jaskrawożółte wyładowania Błyskawic. Nie dawała ciepła sama z siebie; zgromadzona w niej energia zasilała urządzenia wieży, które pomagały utrzymać połączenie na głównym trakcie.
+Tego dnia szłam prawie trzy.
 
-Za przeglądy takich wież na wspólnych szlakach odpowiadała Rada. Organizowała obsługę, a miejscowe ekipy mogły w razie potrzeby doładować kryształ. Do utrzymania sieci dokładały się krainy, w tym bogatsze Zerath, gdzie łatwiej było pozyskiwać energię Błyskawic. Nie wiedziałam, czy tę bryłę ostatnio doładowali miejscowi, czy energia dotarła do niej połączeniem z Val Meris albo aż z Zerath.
+Niosłam niewielki pakunek suchego drewna. Nie był szczególnie ciężki, lecz po porannym ładowaniu kryształu czułam każdy krok. Wiatr wciskał mi śnieg pod kołnierz, a mokre rękawice zaczynały sztywnieć.
 
-Rano mały kryształ chłodni ledwie przyjął tyle mocy, ile zdołałam mu przekazać. Spojrzałam na ogromny błękitny kamień wysoko nad sobą i pomyślałam: dobrze, że tego nie muszę ładować.
+Schronisko stało przy rozwidleniu dwóch szlaków. Jeden prowadził przez wąskie przejście między skałami. Drugi omijał wzniesienia, ale podróż trwała nim prawie pół dnia dłużej.
 
-Nie była to ulga z lenistwa. Nie chciałam nawet zgadywać, ile kosztowałoby napełnienie takiej bryły ani ile sił wymagałoby to ode mnie. Wieża nie była moja; odpowiedzialność za jej zasilanie nie spoczywała na mnie. Przez krótką chwilę ta myśl wydała mi się niemal tak cenna jak światło na szczycie.
+Nad zakrętem wznosiła się wieża.
 
-W środku pachniało mokrą wełną, dymem i zupą, którą ktoś zostawił w garnku dla wracających z patrolu. Przy ścianie leżał stos drewna. Nie był duży. W Nivoren część rodzin zostawiała w schroniskach zapas dla następnych podróżnych, jeśli sama miała czym ogrzać dom. Inni mogli przynieść tylko garść szczap albo worek suszonych korzeni. Każda pomoc wyglądała inaczej.
+Na jej szczycie spoczywała ogromna bryła splotytu, rozświetlona chłodnym błękitem. W jej wnętrzu przeskakiwały jaskrawożółte wyładowania Błyskawic.
 
-Na stole leżała mapa. Jej róg obciążał kamień. Trasa do północnej osady miała trzy oznaczenia: jedno sprzed tygodnia, drugie bez daty i trzecie dopisane tego ranka. Przy każdej informacji ktoś wpisał inicjały. Przy ostatniej nie było żadnych.
+**[MIEJSCE NA ILUSTRACJĘ 3 — Saila patrzy na wieżę Błyskawic przy górskim schronisku.]**
 
-Usiadłam, żeby poprawić zapis. Dopisałam: „Niepotwierdzone. Ostatni wiarygodny obchód: wczoraj, do rozwidlenia”. Nie wiedziałam, czy dalej leży śnieg, czy droga jest zamknięta. Mapa nie stawała się lepsza od samego patrzenia na nią.
+Wieża pomagała utrzymać bezpieczeństwo głównego traktu. Jej obsługę organizowała Rada, a do zasilania sieci dokładały się różne krainy, między innymi bogate w energię Błyskawic Zerath.
 
-Lubiłam takie chwile. Przy stole ludzie mówili o sprawach, które w wielkich salach brzmiałyby zbyt mało ważnie: komu przemokły rękawice, kto oddał ostatnią świecę, ile jeszcze zostało mąki w górnym magazynie. Ale właśnie z takich rzeczy składało się bezpieczeństwo. Nie z jednej wieży ani jednego zaklęcia. Z wielu małych decyzji, których nie dało się podjąć raz na zawsze.
+Przez chwilę patrzyłam na kryształ wysoko nad sobą.
 
-Kiedy wracałam, minęłam dwa wozy jadące w dół. Na jednym widać było ślady niedawnej naprawy, a na drugim leżał worek przykryty płótnem. Przewoźnicy zapytali, czy droga przy strumieniu jest jeszcze otwarta. Powiedziałam, co wiedziałam, i dodałam, czego nie sprawdziłam.
+Był wielokrotnie większy od tych, które ładowałam w magazynie.
 
-— Czyli nie wiesz — powiedział jeden z nich.
+Zastanawiałam się, ile energii zgromadził.
+
+A potem, ile osób musiałoby pracować, żeby napełnić go od początku.
+
+Pomyślałam, że dobrze, iż nie należy do moich obowiązków.
+
+Zaraz poczułam się dziwnie winna tej myśli.
+
+W schronisku było zimno. Ogień w palenisku wygasł, a drewna zostało niewiele. Dołożyłam przyniesiony pakunek do zapasów, zebrałam popiół i sprawdziłam, czy dach nie przecieka.
+
+Na stole leżała mapa górnego szlaku. Ostatni zapis przy północnym przejściu nie miał daty.
+
+Dopisałam uwagę o niepotwierdzonym odcinku. Potem sprawdziłam okiennice i naprawiłam poluzowany zawias.
+
+Gdy skończyłam, usiadłam na ławie.
+
+**[MIEJSCE NA ILUSTRACJĘ 7 — Saila przegląda notatki przy zapasie drewna w schronisku.]**
+
+Chciałam odpocząć przez kilka minut.
+
+Tylko kilka.
+
+Zamknęłam oczy.
+
+Nie wiem, ile czasu minęło, zanim obudził mnie stukot kół.
+
+Przez okno zobaczyłam dwa wozy zmierzające w dół. Wyszłam przed schronisko, żeby ostrzec przewoźników przed oblodzeniem strumienia.
+
+— A północne przejście? — zapytał jeden z nich.
+
+— Nie zostało dziś sprawdzone.
+
+— Czyli nie wiesz, czy jest bezpieczne.
 
 — Wiem, gdzie kończą się moje informacje.
 
-Nie odpowiedział. Zostawił mi za to małą paczkę suszonych jabłek z Verdan. Schowałam ją do kieszeni. Miała być dla magazynu, ale po drodze zjadłam jeden kawałek. Był kwaśny i słodki jednocześnie. Przypomniał mi, że gdzieś daleko ktoś zbierał owoce, nie wiedząc, w jakim schronisku zostaną zjedzone.
+Mężczyzna westchnął.
 
-**[MIEJSCE NA ILUSTRACJĘ 3 — po długim marszu Saila z lekkim pakunkiem zatrzymuje się przy schronisku na szlaku i patrzy w górę na wieżę; na jej szczycie ogromny kryształ świeci błękitem, przez który przeskakują jaskrawożółte wyładowania.]**
+— Ciężko tu cokolwiek zaplanować.
+
+Nie odpowiedziałam.
+
+Miał rację.
+
+Na odchodnym podał mi zawiniątko suszonych jabłek z Verdan. Schowałam je do kieszeni, żeby zjeść po drodze.
+
+Kiedy wozy zniknęły za zakrętem, spojrzałam jeszcze raz na wieżę. Jej kryształ świecił mocno i równo.
+
+Zastanawiałam się, czy ktoś mieszkający w Val Meris w ogóle wiedział o małej chłodni pod Białym Przesmykiem.
+
+Nie miałam pretensji do nikogo konkretnego.
+
+Po prostu tutaj, w górach, wszystko było daleko.
+
+Pomoc, części zamienne, ludzie, którzy potrafili obsługiwać kryształy. Nawet wiadomości docierały do nas z opóźnieniem.
+
+A zima nadchodziła niezależnie od tego, czy byliśmy przygotowani.
+
+Ruszyłam z powrotem.
+
+Zanim dotarłam do magazynu, zapadł zmrok.
+
+Nie zjadłam obiadu.
 
 ---
 
 ## 4. Huk, którego nie umiem zmierzyć
 
-Wieczorem wiatr zaczął uderzać w okna. Nie był mocny, ale miał ten sam rytm co tamtego dnia: szarpnięcie, przerwa, szarpnięcie.
+Wieczorem wiatr zaczął uderzać w okiennice.
 
-Miałam osiem lat, kiedy podczas wydarzeń Nocy Zgasłych Wież urządzenia magazynowe w Białym Przesmyku zaczęły wybuchać.
+Szarpnięcie.
 
-Nie wiedziałam, dokąd biec. Uciekłam w góry, bo chciałam oddalić się od huków i świateł, których nie umiałam pojąć. Nie pamiętam całej drogi ani chwili, w której przestałam biec. Pamiętam tylko jej urywki: białą smugę na ścianie, czyjąś rękę na moim ramieniu, śnieg, który nagle przestał być jasny. Pamiętałam ciężar własnych nóg i to, że nie mogłam złapać tchu. Nie pamiętałam, co wydarzyło się tuż przed pierwszym hukiem.
+Przerwa.
 
-Przez długi czas powtarzałam sobie, że jeśli uda mi się odzyskać brakującą chwilę, zrozumiem wszystko. Dziecko chce, by groza miała przyczynę, którą można nazwać. Jeśli zna nazwę, może wyobrazić sobie, jak jej uniknąć.
+Szarpnięcie.
 
-Na zboczu znalazł mnie Ruvan. Nie wypytywał od razu o to, czego nie umiałam opowiedzieć. Przygarnął mnie i dał mi czas. Nie obiecywał, że wyjaśni tamten dzień. Pokazał mi pierwsze elementy magii Lodu i uczył prowadzić moc kryształów z uwagą, zamiast wymuszać na nich działanie. Pierwsze ćwiczenia trwały tak krótko, że złościłam się, gdy kazał mi przestać. Chciałam od razu umieć więcej. Ruvan mówił, że zmęczenie też jest informacją. Wtedy nie lubiłam tego zdania.
+Znałam ten rytm.
 
-Z czasem, widząc, jak szybko uczyłam się rozumieć kryształy, wykorzystał dawne kontakty i zdobył dla mnie stypendium w szkole magów w Val Meris, nieoficjalnej stolicy kontynentu. Szkoła dała mi teorię i szerokie podstawy, ale praktycznej kontroli zimna nie uczyła tak, jak potrzebowałam. Podczas przerw wracałam do rodzinnego Białego Przesmyku. Wtedy Ruvan pokazywał mi, jak władać chłodem w rzeczywistych warunkach: powoli, uważnie i bez walki z własnymi granicami.
+Miałam osiem lat, kiedy podczas Nocy Zgasłych Wież urządzenia magazynowe w Białym Przesmyku zaczęły wybuchać.
 
-Później pracowałam przy chłodzeniu magazynów. Widziałam kryształy, które działały równo, gdy były właściwie dobrane i obsługiwane. Widziałam urządzenia, które wymagały naprawy. Widziałam też, jak łatwo ludzie przypisują pewność temu, co akurat pomaga im podjąć decyzję.
+Nie pamiętam, co wydarzyło się tuż przed pierwszym hukiem.
 
-Żaden z tych widoków nie powiedział mi, dlaczego urządzenia wybuchły, kiedy byłam dzieckiem. Ani mój strach, ani wiedza, ani praca nie zamieniały się w dowód.
+Pamiętam białe światło. Krzyk, którego nie potrafię przypisać żadnej twarzy. Drżącą podłogę i zimne powietrze, kiedy wybiegłam na zewnątrz.
 
-Przyłożyłam dłoń do chłodnej ściany. Za nią skrzynie zachowywały temperaturę. Kryształ po porannym ładowaniu nie zgasł, ale jego blask osłabł.
+Uciekłam w góry.
 
-Zastanawiałam się, czy jutro znów spróbuję dodać mu mocy.
+Nie wiedziałam dokąd.
 
-**[MIEJSCE NA ILUSTRACJĘ 4 — Saila siedzi samotnie przy oknie; w szybie odbija się jej twarz, a za nią rozmyty zarys górskiego szlaku z dziecięcego wspomnienia.]**
+Pamiętam śnieg pod stopami, ból w płucach i moment, w którym nogi przestały mnie słuchać.
+
+Nie wiem, ile czasu spędziłam na zboczu.
+
+Znalazł mnie Ruvan.
+
+Nie pytał od razu, co widziałam. Nie próbował wyciągać ze mnie wspomnień. Zabrał mnie w bezpieczne miejsce, a później pokazał mi pierwsze ćwiczenia magii Lodu.
+
+Byłam niecierpliwa.
+
+Kiedy kazał mi przerwać ćwiczenie, złościłam się. Kiedy mówił, że na dziś wystarczy, prosiłam o jeszcze jedną próbę.
+
+— Zmęczenie też jest informacją, Saila — powtarzał.
+
+Nie rozumiałam tego.
+
+Chciałam umieć więcej. Wydawało mi się, że jeśli stanę się wystarczająco silna, nigdy więcej nie będę musiała uciekać.
+
+Później Ruvan pomógł mi zdobyć stypendium w szkole magów w Val Meris.
+
+Uczyłam się pilnie. Zrozumiałam wiele o strukturze kryształów, przepływie energii i właściwościach żywiołów. Podczas przerw wracałam w góry, gdzie Ruvan uczył mnie praktycznego posługiwania się chłodem.
+
+Z czasem zaczęłam pracować przy urządzeniach magazynowych.
+
+Nie dlatego, że uważałam to za wielkie powołanie.
+
+Chciałam być przydatna.
+
+Lubiłam widzieć, że dzięki mojej pracy żywność przetrwała kolejną noc, że lekarstwa nie straciły właściwości, że ludzie mogli bezpiecznie przygotować zapasy na zimę.
+
+Na początku dawało mi to radość.
+
+Nie pamiętam dokładnie, kiedy przestało.
+
+Siedziałam przy oknie w niewielkim pokoju nad magazynem. W szybie odbijała się moja twarz, blada w świetle lampy.
+
+Za oknem padał śnieg.
+
+**[MIEJSCE NA ILUSTRACJĘ 4 — Saila przy oknie; w szybie majaczy wspomnienie górskiego szlaku.]**
+
+Spróbowałam przypomnieć sobie ostatni dzień, w którym zrobiłam coś wyłącznie dla siebie.
+
+Nie potrafiłam.
+
+Chciałam przeczytać książkę, którą przywiozłam z Val Meris. Leżała nierozpakowana od tygodni. Chciałam napisać do Ruvana. Miałam mu tyle do opowiedzenia, a każdy kolejny list odkładałam na później.
+
+Najbardziej jednak chciałam spać.
+
+Położyłam głowę na skrzyżowanych ramionach.
+
+Na chwilę zrobiło się cicho.
+
+Wtedy ktoś zapukał do drzwi.
+
+— Saila? Przepraszam, że tak późno. W chłodni znowu podniosła się temperatura.
+
+Podniosłam głowę.
+
+Przez moment nie mogłam przypomnieć sobie, gdzie zostawiłam buty.
+
+— Już idę — odpowiedziałam.
 
 ---
 
@@ -131,92 +310,346 @@ Zastanawiałam się, czy jutro znów spróbuję dodać mu mocy.
 
 Następnego ranka chłodnia była cieplejsza.
 
-Niedużo. Wystarczająco, by zauważyć różnicę, ale zbyt mało, by wiedzieć, kiedy zapasy ucierpią. W magazynie czekały jeszcze dwa kryształy. Jeden zasilał urządzenie do przechowywania żywności. Drugi miał być przygotowany do zimowego schronu. Jeśli doładuję oba, chłodnia może wytrzymać dłużej. Jeśli spróbuję, mogę nie mieć siły dokończyć pracy.
+Pracowałam przy niej jeszcze w nocy, ale energia wystarczyła tylko na kilka dodatkowych godzin.
 
-Opiekunka magazynu nie prosiła mnie o cud. Powiedziała tylko, że dostawa części została opóźniona i nie wiadomo, kiedy dotrze następna.
+Na stole czekały dwa kolejne kryształy.
 
-— Mogę spróbować doładować jeszcze jeden — powiedziałam.
+Jeden miał zasilać zapasowe urządzenie chłodzące. Drugi przygotowano dla zimowego schronu, w którym przechowywano żywność na wypadek zamknięcia przełęczy.
 
-Usiadłam przy kryształach. Tym razem nie czekałam, aż oddech stanie się równy. Zaczęłam od razu, jakbym mogła nadrobić pośpiechem to, czego brakowało w zapasach.
+Oba potrzebowały energii.
 
-Moc lodu odpowiedziała. Przepływ ruszył, kryształ rozjaśnił się. Przez pierwsze chwile czułam tylko skupienie. Potem napięły mi się nadgarstki. Palce zrobiły się ciężkie. W gardle poczułam suchość, a oddech zaczął się rwać.
+Opiekunka magazynu przyniosła wiadomość od przewoźników.
+
+Dostawa części została opóźniona. W górach spadło więcej śniegu, niż przewidywano. Nie było wiadomo, kiedy wozy dotrą do Nivoren.
+
+— Może udałoby się naładować chociaż jeden? — zapytała.
+
+Spojrzałam na kryształy.
+
+— Spróbuję.
+
+— Nie chcę cię przemęczać.
+
+Powiedziała to szczerze.
+
+Ale obie wiedziałyśmy, że nie mamy innego rozwiązania.
+
+Nie było drugiego maga Lodu, który mógłby przejąć pracę. Najbliższa osoba o odpowiednich umiejętnościach przebywała daleko za przełęczą, a droga stawała się coraz trudniejsza.
+
+Zanim opiekunka wróciła do swoich obowiązków, położyła mi dłoń na ramieniu.
+
+**[MIEJSCE NA ILUSTRACJĘ 5 — Wyczerpana Saila przy stole z dwoma kryształami; opiekunka kładzie jej dłoń na ramieniu.]**
+
+Zostałam sama.
+
+Usiadłam przy stole i przyłożyłam dłonie do pierwszego kryształu.
+
+Nie czekałam, aż oddech się uspokoi.
+
+Byłam zmęczona jeszcze przed rozpoczęciem pracy. Wiedziałam, że jeśli będę czekać, aż poczuję się lepiej, nie zrobię dziś niczego.
+
+Zamknęłam oczy.
+
+Moc odpowiedziała.
+
+Przez chwilę prowadziłam ją spokojnie. Potem pojawiło się znajome napięcie w nadgarstkach. Palce zesztywniały, a w ramionach poczułam pieczenie.
+
+Kryształ rozjaśniał się powoli.
+
+Za powoli.
+
+Pomyślałam o zapasach, które miały wytrzymać całą zimę. O ludziach zamieszkujących odległe osady. O rodzinach, które liczyły na żywność i lekarstwa.
+
+Pomyślałam o dzieciach, które jeszcze nigdy nie widziały wiosny poza Nivoren.
 
 Mogłam przerwać.
 
 Nie przerwałam.
 
-Pomyślałam o żywności, która miała przetrwać zimę. O rodzinach, które liczyły na zapasy w schroniskach. O ludziach z innych krain, którzy wysyłali do nas to, czego nie mogliśmy sami wyhodować. Pomyślałam, że jeśli zatrzymam moc za wcześnie, zostawię ich z pustym kryształem.
+Poczułam, jak chłód zaczyna wymykać mi się spod kontroli. Energia przepływała nierówno, a każdy oddech stawał się krótszy.
 
-Wtedy dłonie zaczęły mi drżeć. Świat zwęził się do srebrnego światła i ciemnej krawędzi obudowy. Próbowałam oddychać wolniej, ale nie mogłam już odróżnić, czy prowadzę moc, czy tylko zaciskam ją w sobie.
+Próbowałam przypomnieć sobie słowa Ruvana.
 
-Zatrzymałam się gwałtownie.
+Powoli.
 
-Kryształ był naładowany, lecz nie tak, jak chciałam. Odsunęłam ręce. Przez chwilę nie mogłam wstać. Nie upadłam. Po prostu nie ufałam nogom na tyle, by od razu przenieść ciężar ciała.
+Uważnie.
 
-— Wystarczy na dziś — powiedziała opiekunka magazynu.
+Bez walki z własnym ciałem.
 
-Chciałam zaprzeczyć. Zamiast tego skinęłam głową.
+Ale wtedy pomyślałam, że jeśli zatrzymam się teraz, będę musiała wrócić do tego samego kryształu jutro.
 
-Zmęczenie nie było dowodem, że magia jest zła, ani że kryształy są niebezpieczne. Było tylko informacją o mnie: ile mogłam dać, zanim dalsza praca przestawała być rozsądna.
+A jutro czekał już następny.
 
-Ale łatwiej było to wiedzieć, niż zaakceptować.
+Zacisnęłam zęby.
 
-**[MIEJSCE NA ILUSTRACJĘ 5 — Saila przerywa ładowanie; kryształ świeci częściowo, jej dłonie drżą, a na stole widać jeszcze jeden nieuruchomiony kryształ.]**
+Światło rozlało się po obudowie.
 
----
+Nagle zrobiło mi się ciemno przed oczami.
 
-## 6. To, czego nie zrobię sama
+Odsunęłam ręce.
 
-Odpoczywałam przy piecu w schronisku. Ogień był niewielki; drewno trzeba było oszczędzać. Zjadłam kawałek chleba i suszone jabłko z poprzedniego dnia. Kwaśny smak ściągnął mi policzki.
+Przez chwilę siedziałam bez ruchu, z pochyloną głową. Słyszałam własny oddech, głośniejszy niż trzask drewna w piecu.
 
-Kiedy siły wróciły, wyszłam na zewnątrz. Z przełęczy schodził człowiek z pustym wózkiem. Powiedział, że na górnym odcinku śnieg przykrył jeden z kamiennych znaków. Nie wiedział, czy znacznik znajdował się tam wcześniej. Zapytałam, gdzie ostatnio widział znacznik, i zanotowałam odpowiedź. Nie mogłam sprawdzić całej drogi sama.
+Kryształ był częściowo naładowany.
 
-Wróciłam do magazynu i spojrzałam na dwa kryształy. Jeden wystarczył na pewien czas, drugi miał tylko część ładunku. Te dwa kryształy nie mogły zaspokoić wszystkich potrzeb. Można było jednak zmienić sposób korzystania z zapasów.
+Wystarczyło, by urządzenie zaczęło pracować.
 
-Poprosiłam, by chłodnia była otwierana tylko wtedy, gdy ktoś naprawdę musi wziąć skrzynię. Część jedzenia przenieśliśmy do najchłodniejszej komory, gdzie ściany trzymały zimno dłużej. Do schroniska zanieśliśmy drewno, a na mapie oznaczyliśmy odcinek, którego nikt tego dnia nie sprawdził. Nie było w tym nic wielkiego. Była za to praca, której nie musiałam wykonywać samymi dłońmi.
+Spróbowałam wstać.
 
-Wieczorem usiadłam przy stole i rozpisałam ładowanie na krótsze etapy. Zanotowałam, jak długo pracowałam, kiedy pojawiło się drżenie i ile energii przyjął kryształ. Nie chciałam, by następna osoba musiała zgadywać, czy mój wynik był normą. Nie chciałam też, żeby ktoś uznał, że skoro raz mi się udało, mogę robić to bez końca.
+Nogi się pode mną ugięły. Chwyciłam krawędź stołu i dopiero po chwili odzyskałam równowagę.
 
-Przy karcie zostawiłam miejsce na cudzy wpis. Ktoś mógł dopisać własny pomiar albo zauważyć błąd. Wspólny zapis nie sprawiał, że stawałam się mniej potrzebna. Sprawiał, że nie musiałam być jedyną osobą, od której zależało, czy chłodnia przetrwa noc.
+Miałam wrażenie, że mięśnie w moich ramionach zrobiły się cięższe od kamienia.
 
-Pomyślałam o Ruvanie. Przypomniałam sobie, jak zatrzymywał ćwiczenie, zanim zaczynałam walczyć ze zmęczeniem. Wtedy uważałam, że każe mi robić mniej. Teraz rozumiałam, że uczył mnie kończyć pracę tak, by móc do niej wrócić.
+Spojrzałam na drugi kryształ.
 
-**[MIEJSCE NA ILUSTRACJĘ 6 — wspólna praca w magazynie: Saila zapisuje pomiary, a mieszkańcy przenoszą zapasy i drewno; kryształy nie są jedynym źródłem ochrony.]**
+Wciąż był pusty.
 
----
+Pomyślałam, że powinnam odpocząć.
 
-## 7. Światło, które zostaje
+Potem spojrzałam na listę potrzeb schroniska.
 
-Kilka dni później śnieg przykrył ślady na górnej drodze. Nikt nie powiedział, że szlak jest otwarty. Ktoś poszedł sprawdzić pierwszy odcinek, wrócił i dopisał datę. Następnego dnia sprawdzono kolejny.
-
-Chłodnia działała. Nie idealnie. Nie dzięki jednemu długiemu ładowaniu. Kryształ oddawał energię powoli, a my zaglądaliśmy do niego, zapisywaliśmy pomiary i oszczędzaliśmy zapas. Kiedy przyszła pora na kolejne ładowanie, najpierw zjadłam posiłek i odpoczęłam.
-
-Nie czułam się przez to odważniejsza. Czułam się zwyczajnie zmęczona, jak po pracy, która zajęła cały dzień. Tym razem jednak wiedziałam, kiedy zrobić przerwę. Gdy palce zaczęły drżeć, odsunęłam dłonie od kryształu.
-
-W oknie magazynu odbijał się blask. Przez moment znów zobaczyłam białe światło z dzieciństwa. Potem poruszyłam głową i odbicie zmieniło się w małą lampę zawieszoną nad stołem.
-
-Nie wiedziałam, co wydarzyło się wtedy w Białym Przesmyku. Wciąż chciałam poznać zapisy, których nie mogłam przeczytać. Wciąż bałam się, że kiedyś podobny huk znów przerwie ciszę. Nie zamierzałam udawać, że te myśli zniknęły.
-
-Ale nie pozwoliłam im decydować za mnie o każdym kryształowym urządzeniu, które widziałam.
-
-Na szlaku ktoś zostawił nowy pakunek drewna. Obok leżał kawałek papieru z datą i krótką wiadomością: „Dla następnych”. Nie znałam tej osoby. Nie musiałam znać jej imienia, by wiedzieć, że jutro ktoś może dzięki temu rozpalić ogień.
-
-Wzięłam kartę pomiarową i dopisałam ostatni wynik. Obok zostawiłam puste miejsce na kolejny. Kryształ świecił słabo, lecz równo. Za oknem przełęcz czekała na poranny obchód.
-
-Wciąż miałam wiele do nauczenia się o kryształach. O tym, jak prowadzić moc, jak rozpoznawać zmęczenie i kiedy poprosić kogoś o pomoc. Nie wiedziałam, ile czasu mi to zajmie.
-
-Chciałam jednak zapisywać to, czego się dowiem — nie tylko dla siebie. Może pewnego dnia ktoś usiądzie przy tym samym stole, zajrzy do moich notatek i dopisze coś, czego ja jeszcze nie rozumiem.
-
-Pomyślałam o ludziach, którzy zostawiali drewno w schronisku i znaki na drodze. Każdy z nich przekazywał dalej to, co mógł. Ja też mogłam się uczyć, a potem dzielić się wiedzą, żeby następni umieli dbać o naszą krainę.
-
-Za oknem wiatr przesunął śnieg po ścieżce. Jutro znów trzeba będzie sprawdzić drogę. A potem opowiedzieć innym, co na niej znalazłam.
-
-**[MIEJSCE NA ILUSTRACJĘ 7 — mały zapas drewna i krótka wiadomość „Dla następnych” w schronisku; Saila czyta ją przy ciepłym świetle.]**
-
-**[MIEJSCE NA ILUSTRACJĘ 8 — finał: Saila przy stole zapisuje wynik ładowania kryształu; za oknem widać oznaczoną, częściowo sprawdzoną drogę przez śnieg.]**
+I zaczęłam zastanawiać się, czy po krótkiej przerwie zdołam napełnić jeszcze trochę.
 
 ---
 
-### Nota o ilustracjach
+## 6. To, czego nikt nie zrobi za mnie
 
-Ilustracje powinny budować wrażenie codzienności Nivoren: zmieniającego się szlaku, wspólnego schroniska, oszczędnych zapasów i pracy, której zwykle nikt nie zauważa. Ładowanie kryształu warto pokazać jako skupiony wysiłek Saily, a nie spektakularny wybuch magii. Jej dziecięce wspomnienie może wracać przez dźwięk, światło i urwane obrazy, bez pokazywania przyczyny Nocy Zgasłych Wież.
+Nie pamiętam, kiedy usnęłam.
+
+Obudziłam się przy stole z policzkiem opartym o rękaw.
+
+Kryształy leżały przede mną. Jeden świecił słabo. Drugi pozostawał ciemny.
+
+Za oknem było już późne popołudnie.
+
+Zjadłam kawałek chleba, który znalazłam w swojej torbie. Był suchy, ale nie miałam ochoty szukać niczego innego.
+
+W magazynie panowała cisza.
+
+Zaczęłam przeglądać zapisy temperatur.
+
+Jeśli ograniczymy otwieranie chłodni, energia wystarczy na dłużej. Jeśli przeniosę część zapasów do komory przy północnej ścianie, chłód będzie utrzymywał się tam nieco lepiej.
+
+To nie rozwiąże problemu.
+
+Ale może pozwoli nam zyskać jeden dzień.
+
+Przenosiłam skrzynie pojedynczo.
+
+Nie były bardzo ciężkie. Normalnie zajęłoby mi to niewiele czasu. Tego dnia musiałam kilkakrotnie przerywać, ponieważ dłonie odmawiały mi posłuszeństwa.
+
+Gdy skończyłam, usiadłam na podłodze między regałami.
+
+**[MIEJSCE NA ILUSTRACJĘ 6 — oczekuje na nowy kadr: Wyczerpana Saila siedzi sama na podłodze magazynu po przeniesieniu skrzyń.]**
+
+Przez kilka minut patrzyłam przed siebie.
+
+Nie myślałam o niczym.
+
+Potem przypomniałam sobie o mapie.
+
+Górny odcinek szlaku nadal wymagał sprawdzenia. Ktoś zgłosił, że śnieg przykrył jeden ze znaczników. Jeśli przewoźnicy pomylą drogę, mogą wjechać na stare osuwisko.
+
+Wiedziałam, że nie powinnam już wychodzić.
+
+Nie miałam siły przejść kolejnych kilku godzin.
+
+Zaznaczyłam więc niebezpieczny odcinek na mapie i przygotowałam ostrzeżenie dla podróżnych.
+
+Przynajmniej tyle mogłam zrobić.
+
+Wieczorem rozpisałam ładowanie kryształów na krótsze etapy. Wyliczyłam, ile energii potrzebujemy każdego dnia, ile mogę bezpiecznie przekazać i jak długo urządzenia będą pracować przy ograniczonym zużyciu.
+
+Liczby nie chciały się zgadzać.
+
+Sprawdzałam je trzy razy.
+
+Za każdym razem wynik był taki sam.
+
+Potrzebowaliśmy więcej energii, niż byłam w stanie dostarczyć.
+
+Przez chwilę siedziałam nieruchomo.
+
+W Val Meris uczono nas, że każdy system ma swoje ograniczenia. Jeśli potrzeby przekraczają możliwości, należy zmniejszyć obciążenie albo zwiększyć zasoby.
+
+Wiedziałam to.
+
+Tylko że nie mogłam zmniejszyć liczby ludzi, którzy potrzebowali żywności.
+
+Nie mogłam sprawić, by zima przyszła później.
+
+Nie mogłam też stworzyć drugiego maga Lodu.
+
+Pomyślałam o Ruvanie.
+
+Gdyby tu był, pewnie kazałby mi odłożyć notatki i odpocząć.
+
+Miałby rację.
+
+Ale Ruvana nie było.
+
+Nikt nie mógł zająć się kryształami, kiedy ja odpoczywałam. Nikt nie potrafił przekazać im energii, której brakowało. Mieszkańcy mieli własne obowiązki, własne rodziny i własne troski.
+
+Nie miałam im tego za złe.
+
+To nie była ich wina.
+
+Wzięłam czystą kartę i zaczęłam zapisywać kolejne pomiary. Może kiedyś znajdę sposób, by urządzenia zużywały mniej energii. Może uda się zdobyć lepsze kryształy.
+
+Ale nie tej zimy.
+
+Tej zimy musiałam pracować z tym, co mieliśmy.
+
+Zgasiłam lampę dopiero wtedy, gdy nie potrafiłam już utrzymać pióra.
+
+---
+
+## 7. Jutro też będzie zimno
+
+Minęło kilka dni.
+
+Śnieg zasypał górny odcinek szlaku. Dostawy przychodziły coraz rzadziej, a wieczorne mrozy utrzymywały się dłużej.
+
+Chłodnia nadal działała.
+
+Nie wiem, czy ktoś zauważył, jak wiele wysiłku mnie to kosztowało.
+
+Codziennie rano sprawdzałam temperaturę. Potem ładowałam kryształy, zapisywałam wyniki i próbowałam oszczędzać energię.
+
+Kiedy urządzenie zaczynało słabnąć, wracałam do niego.
+
+Czasem jeszcze przed świtem.
+
+Czasem długo po zmroku.
+
+Coraz częściej budziłam się zmęczona tak samo, jak zasypiałam.
+
+Nawet kiedy mogłam usiąść, myślałam o pracy, która na mnie czekała. Leżąc w łóżku, próbowałam przypomnieć sobie, który kryształ trzeba będzie naładować następnego dnia i ile czasu pozostało do kolejnej dostawy.
+
+Zaczęłam mylić dni.
+
+Czasami w połowie drogi zapominałam, po co wyszłam z magazynu. Musiałam wracać po notatki. Innym razem odkrywałam, że od rana nie jadłam.
+
+Pewnego wieczoru usiadłam na ławie w schronisku i zauważyłam, że drżą mi ręce.
+
+Nie prowadziłam wtedy żadnego zaklęcia.
+
+Po prostu drżały.
+
+Schowałam je pod płaszczem.
+
+Pamiętam, że kiedyś chciałam zobaczyć świat.
+
+W szkole w Val Meris słuchałam opowieści o odległych krainach. O lasach Verdan, gdzie drzewa rosną tak wysoko, że ich korony przesłaniają niebo. O miastach Zerath rozświetlonych mocą Błyskawic. O miejscach, w których zima nie trwa przez większą część roku.
+
+Chciałam podróżować.
+
+Chciałam poznawać nowych ludzi i uczyć się rzeczy, o których Ruvan nigdy mi nie opowiadał.
+
+Teraz, kiedy o tym myślałam, nie czułam już dawnego podekscytowania.
+
+Próbowałam wyobrazić sobie następną wiosnę.
+
+Śnieg stopnieje. Drogi znów będą przejezdne. Do magazynów dotrą nowe dostawy.
+
+Ale potem nadejdzie kolejna jesień.
+
+I kolejna zima.
+
+Kryształy znów będą potrzebowały energii.
+
+Ludzie znów będą pytali, czy wystarczy.
+
+A ja?
+
+Nie wiedziałam.
+
+Nie potrafiłam wyobrazić sobie przyszłości, w której nie jestem zmęczona.
+
+Tego wieczoru wróciłam do magazynu po raz ostatni tego dnia.
+
+Wskaźnik chłodni znajdował się nieco poniżej bezpiecznej granicy. Kryształ świecił słabo, ale jeszcze działał.
+
+Położyłam na nim dłonie.
+
+Chłód odpowiedział niemal natychmiast.
+
+Moc popłynęła nierówno. Bolały mnie ramiona, a każdy oddech wymagał skupienia.
+
+Chciałam przestać.
+
+Wiedziałam jednak, co stanie się z lekarstwami, jeśli temperatura wzrośnie zbyt wysoko.
+
+Wytrzymałam jeszcze chwilę.
+
+Potem kolejną.
+
+Kiedy odsunęłam ręce, kryształ był naładowany na tyle, by wystarczyć do rana.
+
+Powinnam była poczuć ulgę.
+
+Nie poczułam niczego.
+
+Zapisałam wynik. Odłożyłam pióro i długo patrzyłam na własne dłonie.
+
+Miałam jeszcze tyle do zrobienia.
+
+Rano trzeba będzie sprawdzić drogę. Uzupełnić zapasy drewna. Przygotować schronisko na kolejną śnieżycę.
+
+A potem znowu zająć się kryształami.
+
+Wstałam i podeszłam do okna.
+
+Za szybą padał śnieg.
+
+W świetle lampy widziałam własne odbicie. Krótkie srebrzysto-lawendowe włosy, podkrążone oczy i twarz, która wyglądała na starszą, niż powinna.
+
+Przez chwilę przypomniałam sobie siebie jako małą dziewczynkę, siedzącą przy piecu u Ruvana.
+
+Wtedy wierzyłam, że jeśli nauczę się wystarczająco dużo, będę mogła ochronić wszystkich.
+
+Teraz wiedziałam, że nie potrafię.
+
+Ale wciąż próbowałam.
+
+Nie dlatego, że czułam się silna.
+
+Nie dlatego, że wierzyłam, iż jutro będzie lepiej.
+
+Po prostu nie umiałam patrzeć, jak inni cierpią, kiedy mogłam zrobić cokolwiek, by temu zapobiec.
+
+Wróciłam do swojego pokoju.
+
+Nie rozpaliłam ognia. Nie miałam siły przynieść drewna.
+
+Zdjęłam buty, ale nie rozpięłam płaszcza. Usiadłam na łóżku i przez chwilę patrzyłam na zamknięte drzwi.
+
+Bałam się, że ktoś znowu zapuka.
+
+Że usłyszę swoje imię.
+
+Że kolejny kryształ przestanie działać.
+
+Położyłam się i zamknęłam oczy.
+
+**[MIEJSCE NA ILUSTRACJĘ 8 — oczekuje na nowy kadr: Saila leży w zapiętym płaszczu w zimnym pokoju; palenisko jest wygaszone.]**
+
+Nie marzyłam już o dalekich podróżach, wielkich odkryciach ani o zostaniu potężnym magiem.
+
+Nie chciałam nawet wiedzieć, co przyniesie jutro.
+
+Chciałam tylko zasnąć.
+
+I obudzić się kiedyś bez tego ciężaru.
+
+Bez bólu w ramionach.
+
+Bez drżenia dłoni.
+
+Bez strachu, że kiedy odpoczywam, ktoś inny za to zapłaci.
+
+Marzyłam o jednym dniu, w którym nikt nie będzie mnie potrzebował.
+
+Tylko jednym.
+
+*— Koniec —*

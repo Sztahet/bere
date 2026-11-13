@@ -4,25 +4,37 @@ import unittest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-RESOURCE = ROOT / 'riftoryn-unity/Assets/Resources/SailaStory'
+RESOURCES = ROOT / 'riftoryn-unity/Assets/Resources'
 
 
 class SailaStoryTests(unittest.TestCase):
-    def test_shared_content_and_illustrations(self):
-        story = json.loads((RESOURCE / 'story.json').read_text(encoding='utf-8-sig'))
+    def check_shared_story(self, folder, draft_name, expected_images):
+        resource = RESOURCES / folder
+        story = json.loads((resource / 'story.json').read_text(encoding='utf-8-sig'))
+        draft = (ROOT / draft_name).read_text(encoding='utf-8-sig')
+        source_chapters = re.split(r'(?m)^## (?=\d+\. )', draft)[1:]
         chapters = story['chapters']
         self.assertEqual(len(chapters), 7)
+        self.assertEqual(len(source_chapters), 7)
         images = []
-        for chapter in chapters:
-            self.assertTrue(chapter['title'])
+        for chapter, source in zip(chapters, source_chapters):
+            title, body = source.split('\n', 1)
+            self.assertEqual(chapter['title'], title)
+            body = body.split('\n### ', 1)[0]
+            paragraphs = [p.strip() for p in re.split(r'\n\s*\n', body.strip())
+                          if p.strip() not in {'---', '*— Koniec —*'} and 'MIEJSCE NA ILUSTRACJĘ' not in p]
+            self.assertEqual([b['text'] for b in chapter['blocks'] if 'text' in b], paragraphs)
             for block in chapter['blocks']:
                 if 'image' in block:
                     self.assertTrue(block.get('alt'))
                     images.append(block['image'])
-                    self.assertTrue((RESOURCE / f"{block['image']:02}.jpg").is_file())
+                    self.assertTrue((resource / f"{block['image']:02}.jpg").is_file())
                 else:
                     self.assertTrue(block.get('text'))
-        self.assertEqual(sorted(images), list(range(1, 9)))
+        self.assertEqual(images, expected_images)
+
+    def test_shared_content_and_illustrations(self):
+        self.check_shared_story('SailaStory', 'RIFTORYN_SAILA_MINIKSIAZKA_PROPOZYCJA.md', [1, 2, 3, 7, 4, 5])
 
     def test_html_reads_unity_story_without_copying_it(self):
         page = (ROOT / 'saila-opowiesc.html').read_text(encoding='utf-8-sig')
@@ -36,21 +48,7 @@ class SailaStoryTests(unittest.TestCase):
         self.assertFalse(re.search(r'<section\s+class="chapter"', page))
 
     def test_awakening_shared_draft_and_approved_images(self):
-        resource = ROOT / 'riftoryn-unity/Assets/Resources/SailaAwakening'
-        data = json.loads((resource / 'story.json').read_text(encoding='utf-8-sig'))
-        draft = (ROOT / 'RIFTORYN_SAILA_ODBLOKOWANIE_OPOWIESC_DRAFT.md').read_text(encoding='utf-8-sig')
-        source_chapters = re.split(r'(?m)^## (?=\d+\. )', draft)[1:]
-        self.assertEqual(len(data['chapters']), 7)
-        self.assertEqual(len(source_chapters), 7)
-        for chapter, source in zip(data['chapters'], source_chapters):
-            body = source.split('\n', 1)[1].split('### Roboczy opis gatunku')[0]
-            paragraphs = [x.strip() for x in re.split(r'\n\s*\n', body.strip())
-                          if x.strip() != '---' and 'MIEJSCE NA ILUSTRACJĘ' not in x]
-            self.assertEqual([b['text'] for b in chapter['blocks'] if 'text' in b], paragraphs)
-        images = [b['image'] for c in data['chapters'] for b in c['blocks'] if 'image' in b]
-        self.assertEqual(images, [1, 2, 4, 5, 6, 7])
-        for image in images:
-            self.assertTrue((resource / f'{image:02}.jpg').is_file())
+        self.check_shared_story('SailaAwakening', 'RIFTORYN_SAILA_ODBLOKOWANIE_OPOWIESC_DRAFT.md', [1, 2, 4, 5, 6, 7])
         page = (ROOT / 'saila-gdy-wieza-zamilkla.html').read_text(encoding='utf-8')
         self.assertIn('data-story="awakening"', page)
         self.assertIn('Propozycja literacka', page)
