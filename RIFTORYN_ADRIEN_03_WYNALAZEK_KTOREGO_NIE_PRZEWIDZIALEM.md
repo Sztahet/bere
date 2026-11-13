@@ -142,6 +142,8 @@ Wiedziałem o tym. Nie byłem pewien, czy musiała mówić takim tonem.
 
 Przygotowaliśmy dwie wersje stanowiska. Jedna zachowywała mój układ, w drugiej zmieniliśmy położenie cewki. Poprosiłem Lenę, żeby osobno sprawdziła mocowania, zanim uruchomimy kryształy. Przyszła, obejrzała oba i kazała wymienić jedną śrubę. Zrobiłem to.
 
+Zostawiła mi też notatkę, że Lucen może przyjść doładować kryształy po południu. Odpisałem, że tym razem zapasy wystarczą. Na razie.
+
 Przy krótkiej próbie zmieniony układ rzeczywiście potrzebował mniej energii. Nadal musieliśmy zbadać, czy utrzyma ten wynik w innych warunkach i czy da się go bezpiecznie powtórzyć. Nie rozwiązywało to kwestii luźnego mocowania w regulatorze Miko.
 
 Oszczędność była cenna. Zanim dostarczono kryształy do tych prób, zdążyłem dwa razy przypomnieć o zamówieniu. W szufladzie nadal trzymam szkice własnej instalacji do ładowania. Układ przyjmujący energię mogę poprawiać, ile chcę; wciąż brakuje mi dostępnego źródła, które pozwoliłoby przeprowadzić taką próbę, jaką zaplanowałem.

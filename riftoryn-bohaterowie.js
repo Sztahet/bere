@@ -21,5 +21,13 @@ const codexPreviews = [
     portrait: 'riftoryn-unity/Assets/Resources/Portraits/ruvan.png',
     desc: 'Mistrz magii Lodu z Nivoren. Nauczył Sailę prowadzić moc kryształów.',
     comingSoon: true
+  },
+  {
+    id: 'lena',
+    name: 'Lena',
+    role: 'Wsparcie',
+    element: 'Światło',
+    desc: 'Techniczka z Aurelu, która od młodości sprawdzała i zabezpieczała urządzenia w warsztacie Adriena.',
+    comingSoon: true
   }
 ];

@@ -8,6 +8,10 @@ Jako młody konstruktor udoskonalił istniejący piec grzewczy na splotyt dostro
 
 Adrien chce uniezależnić swoje badania od przydziałów i dostaw naładowanych kryształów. Marzy o własnej instalacji, która ładowałaby je energią z dostępnego źródła, bez proszenia magów o pomoc. Wie, że podobne instalacje istnieją w Zerath i Vareth; nie wymyśla ładowania z otoczenia od nowa. Jego własny układ pozostaje nieukończony przez całą trylogię, a jego przyszłość jest otwarta. Lekceważące uwagi Adriena o magii oddają jego punkt widzenia, nie obiektywną ocenę magów.
 
+Do warsztatu przysyła się magów doładowujących kryształy. W 3 ET trafia tam Lucen, syn Tarena i Miry, który po ucieczce do Aurelu uczy się magii Światła i konstrukcji; ma wówczas około 20 lat. Adrien początkowo nazywa go dzieciakiem, lecz po latach sam prosi o jego pomoc i ceni jego precyzję. Lucen ma 29 lat w 12 ET, a przyczyna śmierci Miry pozostaje niewyjaśniona.
+
+Lena jest techniczką z Aurelu, w 4 PT ma 16 lat, a w 12 ET około 32. Ostrzega Adriena przed wadą sygnalizatora i pozostaje przy pracy nad jego późniejszymi projektami. Jest przygotowywaną bohaterką Wsparcia Światła; jej wygląd, umiejętności i szczegółowe losy pozostają do opracowania.
+
 ## 1. Światło, które wskazało drogę
 
 Zapiski z 4 PT i późniejszej analizy awarii. Adrien, około 20–21-letni konstruktor, projektuje pryzmatyczny sygnalizator dla konwojów. Techniczka wskazuje naprężenie w mocowaniu kryształu. Adrien uważa, że zawiniła obsługa, i dopuszcza urządzenie bez kolejnej próby w terenie. Sygnał rozdziela się, przewodnik wjeżdża na zamkniętą drogę i ginie.

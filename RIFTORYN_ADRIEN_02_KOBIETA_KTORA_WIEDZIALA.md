@@ -150,6 +150,28 @@ Uniwersytet ograniczył mi przydział naładowanych kryształów. Musiałem prze
 
 Zostawiłem wniosek na biurku. Wrócił z prośbą o kosztorys. Na razie wróciłem do czekania na kryształy.
 
+**23 maja, 3 ET**
+
+Dziś wreszcie przysłali kogoś do ładowania. Jakiegoś dzieciaka. Przedstawił się jako Lucen i od razu spytał, gdzie zapisuję wyniki poprzednich prób. Przyszedł doładować kryształy, nie prowadzić dochodzenie w moim notatniku.
+
+Lena powiedziała mi później, że ma około dwudziestu lat, uczy się magii Światła i pracy z mechanizmami. Przez chwilę sądziłem, że żartuje. Sam pamiętam, jak miałem dwadzieścia lat, i z pewnością nie zadawałem tylu pytań.
+
+Kiedy Lucen ładował pierwszy kryształ, obserwował wskaźnik i zatrzymał przepływ, zanim wskazówka dotarła do kreski, którą narysowałem.
+
+— Jeszcze trochę — powiedziałem.
+
+— Najpierw sprawdźmy mocowanie. Rusza się.
+
+Lena sprawdziła. Ruszało się. Nie widzę jednak powodu, żeby Lucen stawiał swoje narzędzia na moich rysunkach.
+
+**12 września, 7 ET**
+
+Poprosiłem dzisiaj o Lucena. Konkretnie o niego, nie o dowolnego maga, którego akurat znajdą na korytarzu. Chciałem porównać dwie próby, a on potrafi uważnie doładować kryształy i rozumie, co dzieje się w obudowie.
+
+Przyszedł z własnym szkicem uchwytu. Wskazał miejsce, w którym moja osłona utrudniała kontrolę styku, po czym zaproponował zmianę. Powiedziałem, że ją rozważę. Rozważam ją właśnie po raz trzeci.
+
+Gdy Lena spytała, czy mam zastrzeżenia do jego pracy, odpowiedziałem, że wciąż zadaje zbyt wiele pytań. Nie musiałem dodawać, że większość z nich warto sobie zadać.
+
 **7 czerwca, 9 ET**
 
 Po odbyciu kary zaczęła uczyć młodych rzemieślników. Spotkałem ją przy stole z grupą uczniów; wyjaśniała im, dlaczego trzeba przewidzieć również ten błąd, który wydaje się niemożliwy. Podała jednemu z nich śrubokręt i czekała, aż sam znajdzie mocowanie. Trwało to bardzo długo.

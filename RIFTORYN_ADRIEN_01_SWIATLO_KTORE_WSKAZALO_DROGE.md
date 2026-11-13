@@ -18,7 +18,7 @@ Dwie wąskie linie przecięły kurz. Uczeń podniósł rękę.
 
 Nie słyszałem go z tej odległości, ale poruszał ustami w sposób sugerujący nadmierny entuzjazm. Wystarczyło. Zapisałem wynik.
 
-Kryształ wewnątrz przyrządu naładowano wcześniej. Kierownictwo warsztatu wydało mi jeden do prób i kazało oszczędzać zapas. Łatwo powiedzieć komuś, żeby zaprojektował sygnalizator, a potem liczyć mu każde uruchomienie.
+Kryształ wewnątrz przyrządu naładowano wcześniej. Kierownictwo warsztatu wydało mi jeden do prób i kazało oszczędzać zapas. Czasem przysyłają maga Światła, żeby doładował kryształy, ale ma też inne obowiązki i nigdy nie przychodzi wtedy, kiedy go potrzebuję. Łatwo powiedzieć komuś, żeby zaprojektował sygnalizator, a potem liczyć mu każde uruchomienie.
 
 Gdybym miał pod ręką źródło energii takie jak błyskawice w Zerath albo ciepło wulkanu w Vareth, sam zbudowałbym układ do ładowania kryształów. Tam już korzystają z takich instalacji; mnie wystarczyłaby własna, tutaj. Żadnego czekania na dostawę ani na maga, który wymachuje rękami nad stołem i wychodzi zmęczony, zanim zdążę skończyć pomiary.
 
@@ -38,7 +38,7 @@ Nie spytał, jak działają przesłony.
 
 — Najpierw próba na nierównym podłożu — odezwała się techniczka stojąca przy stole.
 
-Nazywała się Lena. Znała każdy warsztatowy przyrząd i uważała, że to wystarczający powód, by dotykać również moich.
+Nazywała się Lena. Miała szesnaście lat, znała każdy warsztatowy przyrząd i uważała, że to wystarczający powód, by dotykać również moich.
 
 Wskazała paznokciem mocowanie kryształu.
 
@@ -123,6 +123,8 @@ Miałem gotową odpowiedź. Zamiast jej udzielić, odwróciłem kartkę i zaczą
 **2 listopada, 4 PT**
 
 Przez ostatnie tygodnie poprawiałem konstrukcję. Lena sprawdzała ją na stole, potem na skrzyni przywiązanej do wozu. Jedna próba skończyła się pęknięciem śruby. Zaznaczyła je czerwonym ołówkiem i wróciła z nową listą uwag.
+
+Kiedy zabrakło mi naładowanego kryształu do następnej próby, to Lena przypomniała kierownictwu o moim zamówieniu. Przysłano maga dopiero nazajutrz. Lena zdążyła w tym czasie przygotować dwa zapasowe mocowania i zostawić je na moim stole. Jedno było jej projektu. Drugie też.
 
 Nie każda była trafna. Zapisywałem wszystkie.
 

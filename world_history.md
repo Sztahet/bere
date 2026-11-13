@@ -413,6 +413,8 @@ Aurel porównuje raporty i przechowuje kopie świadectw. Jego archiwa są ważne
 
 Aurel jest ośrodkiem wynalazków i badań. Jego wyspecjalizowane wieże oświetlają niektóre szlaki nocą, a urządzenia cieplne, w tym piece udoskonalone przez Adriena, wykorzystują kryształy ładowane między innymi w Vareth. Badacze zależą od materiałów, załóg i wiedzy innych krain.
 
+W warsztacie Adriena pracuje Lena, techniczka z Aurelu, która w 4 PT miała 16 lat, a w 12 ET ma około 32. Ostrzegała go przed wadą wojennego sygnalizatora, a po awarii pomagała sprawdzać poprawione konstrukcje. Współpracuje z nim również Lucen, syn Tarena i Miry: po przybyciu do Aurelu szkolił się w magii Światła oraz pracy z mechanizmami. Jako młody adept doładowywał kryształy w warsztacie, a po latach Adrien sam zaczął prosić o jego pomoc. Lucen łączy magię z konstrukcją urządzeń; nie zmienia to faktu, że przyczyna awarii, w której zginęła Mira, pozostaje nieznana.
+
 **Codzienność i zwyczaje.** W okolicach Latarni obserwatorzy notują pogodę i widoczność szlaków, a kopiści porównują mapy z relacjami podróżnych. Część rodzin zapisuje ważne wiadomości dla bliskich na wyjeździe; inni wolą przekazywać je osobiście.
 
 **Miejsca spotkań.** Czytelnie, nabrzeżne targi i ławy przy latarni służą mieszkańcom, marynarzom i przyjezdnym. Można tam przejrzeć udostępnioną mapę albo usłyszeć, jak ktoś poprawia ją na podstawie własnej wyprawy.

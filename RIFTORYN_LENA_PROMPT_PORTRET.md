@@ -1,0 +1,9 @@
+# Lena — prompt portretu
+
+Lena ma około 32 lat w 12 ET. Jest techniczką z Aurelu i przyszłą bohaterką Wsparcia Światła; jako szesnastolatka ostrzegała Adriena przed wadą wojennego sygnalizatora. Wygląd poniżej jest propozycją do stworzenia portretu, a umiejętności pozostają do opracowania.
+
+**Prompt:**
+
+> Polished painterly fantasy game character portrait for Riftoryn, portrait orientation, 4:5 aspect ratio, waist-up, a 32-year-old female Light support hero and experienced crystal-device technician from Aurel. Thoughtful, observant expression with quiet confidence and a hint of dry humor; a person who notices a loose screw before anyone else. Dark chestnut hair tied back in a practical low braid, a few loose strands, warm brown eyes, subtle traces of workshop work on her hands. Distinctive adult features, practical posture, recognizably a skilled technician rather than a royal mage. Layered ivory and muted navy work clothes with a fitted leather tool harness, restrained antique-gold trim and Aurel's geometric light motifs; practical gloves, no heavy armor. She holds a compact brass diagnostic instrument with a small softly glowing pale-gold crystal and a folded technical plan; a second small hand tool hangs at her belt. Subtle warm light reflected in her face, muted navy and deep violet background, gold and cream accents, refined detailed fantasy materials, cinematic soft lighting, clear silhouette, cohesive character selection portrait in the same painterly game-art style as the provided Riftoryn hero references. Her visual identity is her own, not a copy of Saila or Adrien. No text, lettering, logos, watermark, comic panels, extra arms, exaggerated magical explosions, or photorealism.
+
+**Wskazówka:** dołącz portrety Adriena i innych bohaterów jako odniesienie do stylu. Fryzura, kolor oczu i ubiór z promptu są propozycją — można je zmienić po zobaczeniu pierwszej wersji.
