@@ -64,9 +64,11 @@ Podpisałem dopuszczenie urządzenia. Lena nie podpisała protokołu próby tere
 
 ## Rozdział II — Droga zamknięta
 
-**5 października, 4 PT**
+**6 października, 4 PT**
 
-O awarii dowiedziałem się dwa dni później.
+Właśnie dowiedziałem się, że mój sygnalizator zawiódł. DWA DNI PO AWARII!
+
+Dwa dni. A przecież to ja go zaprojektowałem. Powinni byli zawiadomić mnie od razu, a nie zostawiać urządzenie komuś, kto być może nawet nie wie, od której strony zdjąć obudowę. Jak mam ustalić, co się stało, skoro przez ten czas każdy mógł przy nim grzebać?
 
 Rozszczepiony sygnał pojawił się na zboczu, kiedy przewodnik prowadził wóz na rozwidleniu. Zobaczył linię wskazującą przejazd. Fragment drogi był już zamknięty po osunięciu kamieni, ale wiadomość o tym nie dotarła do całego konwoju.
 
@@ -96,13 +98,13 @@ Resztę dnia spędziłem nad przyrządem. Nie mogłem go uruchomić bez wymiany 
 
 ## Rozdział III — Raport
 
-**6 października, 4 PT**
+**7 października, 4 PT**
 
 W raporcie opisałem usterkę. Napisałem też, że Lena ostrzegała mnie przed naprężeniem, a ja uznałem uszkodzenie za wynik niewłaściwego przenoszenia.
 
 Oficer podał mi imię przewodnika do raportu. Powinienem był wpisać je też w notatniku.
 
-Na końcu dodałem, że dowódca zdecydował o użyciu sygnalizatora przed próbą w terenie. Było to zgodne z prawdą i przez długi czas wydawało mi się najważniejszym zdaniem dokumentu.
+Na końcu dodałem, że dowódca zdecydował o użyciu sygnalizatora przed próbą w terenie. Podkreśliłem to zdanie. Skoro mam opisać, co doprowadziło do awarii, jego decyzja też powinna znaleźć się w raporcie.
 
 Lena przeczytała kopię przy moim stole. Kiedy skończyła, odłożyła kartkę na rysunek nowego mocowania.
 
