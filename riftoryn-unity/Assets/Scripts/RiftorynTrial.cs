@@ -13,9 +13,9 @@ public class RiftorynTrial : MonoBehaviour
     const float RollDuration=.35f, RollSpeed=12f, RollCooldown=10f, TowerWindup=.45f;
     static readonly Vector2[] Map = { new(400,330),new(475,330),new(475,245),new(315,245),new(315,410),new(550,410),new(550,170),new(240,170),new(240,485),new(625,485),new(625,95),new(165,95),new(165,560),new(700,560),new(700,35) };
     static readonly Vector2[] SlotMap = {new(445,205),new(405,205),new(365,205),new(275,290),new(275,350),new(355,450),new(415,450),new(475,450),new(590,360),new(590,290),new(590,220),new(510,130),new(450,130),new(390,130),new(330,130),new(200,235),new(200,320),new(200,400),new(305,525),new(385,525),new(465,525),new(545,525),new(665,450),new(665,370),new(665,290),new(665,210)};
-    const int LucenHero = 9;
-    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten","Lucen"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
-    static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115,105}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f,5.6f}, Cooldowns={22,16,18,20,18,20,20,20,20,20}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
+    const int LucenHero = 9, SailaHero = 10;
+    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten","Lucen","Saila"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
+    static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115,105,105}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f,5.6f,5.2f}, Cooldowns={22,16,18,20,18,20,20,20,20,20,24}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
     static readonly Color[] TowerColors={new(1f,.30f,.12f),new(.32f,.77f,1f),new(1f,.8f,.2f),new(.32f,.83f,.4f),new(.65f,.43f,.25f),new(1f,.91f,.55f),new(.55f,.28f,.75f)};
     class Runner { public int hero; public GameObject obj; public Vector3 velocity; public float hp,shield,shieldMax,shieldTick,cooldown,attackCooldown,boost,exposure,fogTick,along,damage; public bool done; public int uses; public float chillTime, hitFlash, slowImmunity; public readonly RiftorynPeriodicEffect burn=new(), poison=new(); }
     class FloatingCombatText { public Transform anchor; public Vector3 position; public string text; public Color color; public float started, offset; }
@@ -113,10 +113,10 @@ public class RiftorynTrial : MonoBehaviour
         var mesh=new Mesh{name="Warstwy mgły"};mesh.SetVertices(vertices);mesh.SetUVs(0,uv);mesh.SetTriangles(triangles,0);mesh.RecalculateBounds();return mesh;
     }
     void OnDestroy(){if(lan)lan.Stop();ClearLanShots();if(healingRing&&healingRing.material)Destroy(healingRing.material);if(fogMesh)Destroy(fogMesh);if(fogMaterial)Destroy(fogMaterial);foreach(var material in worldMaterials.Values)if(material)Destroy(material);worldMaterials.Clear();if(wallTexture)Destroy(wallTexture);if(floorTexture)Destroy(floorTexture);if(floorMaterial)Destroy(floorMaterial);}
-    Runner MakeRunner(int h,bool bot){var go=new GameObject(bot?"Sojusznik AI":"Gracz");go.transform.SetParent(runnerRoot.transform);go.transform.position=At(0)+(bot?Vector3.right*.8f:Vector3.zero);var body=GameObject.CreatePrimitive(PrimitiveType.Capsule);body.name="Bohater";body.transform.SetParent(go.transform,false);body.transform.localPosition=Vector3.up;body.transform.localScale=new Vector3(.85f,1,.85f);body.GetComponent<Renderer>().sharedMaterial=Mat(bot?new Color(.16f,.75f,.85f):new Color(.88f,.71f,.36f));body.GetComponent<Collider>().isTrigger=true;if(!bot&&genericModelPreview)AttachGenericPreview(go,body);if(h==3){body.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.22f,.12f,.28f));var prefab=Resources.Load<GameObject>("Pets/patka");if(prefab){var pet=Instantiate(prefab,go.transform);pet.name="Patka";pet.transform.localPosition=new Vector3(0,.05f,2f);pet.transform.localRotation=Quaternion.Euler(0,180,0);pet.transform.localScale=Vector3.one*.42f;var ph=pet.AddComponent<RiftorynPetHealth>();ph.petName="Patka";ph.maxHp=ph.currentHp=50;pet.AddComponent<RiftorynPatkaPreview>();}}var r=new Runner{hero=h,obj=go,hp=MaxHp[h]};return r;}
-    void AttachGenericPreview(GameObject runner,GameObject capsule)
+    Runner MakeRunner(int h,bool bot){var go=new GameObject(bot?"Sojusznik AI":"Gracz");go.transform.SetParent(runnerRoot.transform);go.transform.position=At(0)+(bot?Vector3.right*.8f:Vector3.zero);var body=GameObject.CreatePrimitive(PrimitiveType.Capsule);body.name="Bohater";body.transform.SetParent(go.transform,false);body.transform.localPosition=Vector3.up;body.transform.localScale=new Vector3(.85f,1,.85f);body.GetComponent<Renderer>().sharedMaterial=Mat(bot?new Color(.16f,.75f,.85f):new Color(.88f,.71f,.36f));body.GetComponent<Collider>().isTrigger=true;if(h==SailaHero)AttachCharacterModel(go,body,"Characters/saila-poc",true);else if(!bot&&genericModelPreview)AttachCharacterModel(go,body,"Characters/generic-prototype",false);if(h==3){body.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.22f,.12f,.28f));var prefab=Resources.Load<GameObject>("Pets/patka");if(prefab){var pet=Instantiate(prefab,go.transform);pet.name="Patka";pet.transform.localPosition=new Vector3(0,.05f,2f);pet.transform.localRotation=Quaternion.Euler(0,180,0);pet.transform.localScale=Vector3.one*.42f;var ph=pet.AddComponent<RiftorynPetHealth>();ph.petName="Patka";ph.maxHp=ph.currentHp=50;pet.AddComponent<RiftorynPatkaPreview>();}}var r=new Runner{hero=h,obj=go,hp=MaxHp[h]};return r;}
+    void AttachCharacterModel(GameObject runner,GameObject capsule,string resource,bool saila)
     {
-        var prefab=Resources.Load<GameObject>("Characters/generic-prototype");
+        var prefab=Resources.Load<GameObject>(resource);
         if(!prefab){Debug.LogWarning("Brak modelu testowego postaci; użyto kapsuły.");return;}
         var model=Instantiate(prefab,capsule.transform);
         model.name="Model testowy";
@@ -128,6 +128,7 @@ public class RiftorynTrial : MonoBehaviour
         bounds=renderers[0].bounds;foreach(var r in renderers)bounds.Encapsulate(r.bounds);
         model.transform.position+=runner.transform.position-new Vector3(bounds.center.x,bounds.min.y,bounds.center.z);
         capsule.GetComponent<Renderer>().enabled=false;
+        if(saila)model.AddComponent<RiftorynSailaMotion>().Initialize(runner.transform);
     }
     void Setup(){healingTime=0;healingTick=0;if(healingRing)healingRing.enabled=false;briefing=false;combatTexts.Clear();floatingSequence=0;selectingHero=-1;phase=Phase.Setup;elapsed=0;rollTime=rollCooldown=0;rollDirection=Vector3.zero;result="";message="";mouseCaptured=false;Cursor.lockState=CursorLockMode.None;Cursor.visible=true;foreach(var s in shots)if(s.obj)Destroy(s.obj);shots.Clear();foreach(var t in towers)if(t.obj)Destroy(t.obj);towers.Clear();ReplaceRunners();foreach(var f in fogTiles)f.SetActive(false);for(int i=0;i<slots.Length;i++)slots[i].SetActive(custom);if(!custom){int[] ss={2,5,9,15,23};for(int i=0;i<ss.Length;i++)AddTower(ss[i],i%4);}SetOverhead();}
     int AllyHero()=>allyChoice==0?(selectedHero==2?0:2):allyChoice==1?-1:allyChoice-2;
@@ -163,7 +164,7 @@ public class RiftorynTrial : MonoBehaviour
     void MovePlayer(float dt)
     {
         Vector3 dir=rollTime>0?rollDirection:MoveInput();
-        float mult=player.exposure>0?.9f:1f;if(player.boost>0)mult*=1.2f;if(player.chillTime>0)mult*=player.hero==4?.88f:.85f;
+        float mult=player.exposure>0?(player.hero==SailaHero?.915f:.9f):1f;if(player.boost>0)mult*=1.2f;if(player.chillTime>0)mult*=player.hero==4?.88f:player.hero==SailaHero?.8725f:.85f;
         float speed=rollTime>0?RollSpeed:Speed[player.hero]*mult;
         player.obj.transform.position=MoveAgainstWalls(player.obj.transform.position,dir*speed*dt);
         if(dir.sqrMagnitude>.01f)player.obj.transform.rotation=Quaternion.LookRotation(dir);
@@ -189,11 +190,17 @@ public class RiftorynTrial : MonoBehaviour
     void Skill(Runner r)
     {
         if(r.cooldown>0)return;
-        if(r.hero>=6&&r.hero!=LucenHero){if(r==player)Notify("Zdolność tej postaci nie jest jeszcze dostępna w próbie.");return;}
+        if(r.hero>=6&&r.hero!=LucenHero&&r.hero!=SailaHero){if(r==player)Notify("Zdolność tej postaci nie jest jeszcze dostępna w próbie.");return;}
         if(r.hero==4){Runner other=r==player?ally:player;Runner target=other!=null&&other.hp>0&&!other.done&&other.chillTime>0&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<=8?other:r;target.chillTime=0;target.slowImmunity=2;r.cooldown=18;r.uses++;return;}
         if(r.hero==5){healingPosition=r.obj.transform.position;healingTime=5;healingTick=1;UpdateHealingRing();r.cooldown=20;r.uses++;return;}
         Tower t=Nearest(r,17.4f);if(r.hero!=0&&r.hero!=3&&t==null){if(r==player)Notify("Podejdź bliżej wieży, aby użyć umiejętności.");return;}
         if(r.hero==3){var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.Fly()){if(r==player)Notify(RiftorynCodexData.Text("Patka jest niedostępna.","Patsy is unavailable."));return;}}
+        if(r.hero==SailaHero)
+        {
+            t.disabled=Mathf.Max(t.disabled,3f);r.cooldown=Cooldowns[SailaHero];r.uses++;
+            var motion=r.obj.GetComponentInChildren<RiftorynSailaMotion>();if(motion)motion.Cast();
+            ShowSailaFreeze(t);if(r==player)Notify("Zamrożenie mechanizmu · 3 s");return;
+        }
         if (r.hero == LucenHero)
         {
             t.disabled = Mathf.Max(t.disabled, 2.5f);
@@ -202,6 +209,12 @@ public class RiftorynTrial : MonoBehaviour
             return;
         }
         r.cooldown=Cooldowns[r.hero];r.uses++;if(r.hero==3){}else if(r.hero==0){AddShield(r,100);Runner other=r==player?ally:player;if(other!=null&&other.hp>0&&!other.done&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<9)AddShield(other,50);}else if(r.hero==1)HitTower(t,100);else{t.disabled=2;r.boost=2;}
+    }
+    void ShowSailaFreeze(Tower tower)
+    {
+        var fx=GameObject.CreatePrimitive(PrimitiveType.Sphere);fx.name="Lodowy błysk Saily";
+        fx.transform.SetParent(tower.obj.transform,false);fx.transform.localPosition=Vector3.up*3.2f;fx.transform.localScale=Vector3.one*1.2f;
+        Destroy(fx.GetComponent<Collider>());fx.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.35f,.85f,1f));Destroy(fx,3f);
     }
     void StepHealing(float dt)
     {
@@ -216,7 +229,7 @@ public class RiftorynTrial : MonoBehaviour
     }
     void Attack(Runner r){if(r.attackCooldown>0)return;Tower t=Nearest(r,7.8f);if(t==null){if(r==player)Notify("Podejdź bliżej wieży, aby ją zaatakować.");return;}r.attackCooldown=1;HitTower(t,25);}
     void HitTower(Tower t,float damage){t.hp-=damage;if(t.hp<=0){t.hp=0;t.marker.SetActive(false);foreach(var ren in t.obj.GetComponentsInChildren<Renderer>())ren.material.color=Color.gray;}}
-    void StepBot(float dt){if(ally.hp<=0||ally.done)return;Tower t=Nearest(ally,ally.hero==0?7.8f:17.4f);if(t!=null&&ally.cooldown<=0)Skill(ally);if(t!=null&&ally.hero==0&&ally.attackCooldown<=0)Attack(ally);float speed=Speed[ally.hero]*(ally.exposure>0?.9f:1f)*(ally.boost>0?1.2f:1)*(ally.chillTime>0?.85f:1f);ally.along=Mathf.Min(total,ally.along+speed*dt);Vector3 old=ally.obj.transform.position, next=At(ally.along);ally.obj.transform.position=next;if((next-old).sqrMagnitude>.00001f)ally.obj.transform.rotation=Quaternion.LookRotation(next-old);if(ally.along>=total){ally.done=true;ally.obj.SetActive(false);}}
+    void StepBot(float dt){if(ally.hp<=0||ally.done)return;Tower t=Nearest(ally,ally.hero==0?7.8f:17.4f);if(t!=null&&ally.cooldown<=0)Skill(ally);if(t!=null&&ally.hero==0&&ally.attackCooldown<=0)Attack(ally);float speed=Speed[ally.hero]*(ally.exposure>0?(ally.hero==SailaHero?.915f:.9f):1f)*(ally.boost>0?1.2f:1)*(ally.chillTime>0?(ally.hero==SailaHero?.8725f:.85f):1f);ally.along=Mathf.Min(total,ally.along+speed*dt);Vector3 old=ally.obj.transform.position, next=At(ally.along);ally.obj.transform.position=next;if((next-old).sqrMagnitude>.00001f)ally.obj.transform.rotation=Quaternion.LookRotation(next-old);if(ally.along>=total){ally.done=true;ally.obj.SetActive(false);}}
     // Solve |target + velocity * time - origin| = projectileSpeed * time.
     // If interception is impossible, aim at the current position instead.
     static Vector3 PredictAim(Vector3 origin, Vector3 target, Vector3 velocity, float projectileSpeed)
@@ -626,6 +639,7 @@ public class RiftorynTrial : MonoBehaviour
     {
         if(selectedHero==4)return "NIVA · Q: usuwa spowolnienie u najbliższego spowolnionego sojusznika w zasięgu, w przeciwnym razie u siebie; 2 s odporności.";
         if(selectedHero==5)return "LIORA · Q: pole pod postacią leczy pobliskich sojuszników przez 5 s.";
+        if(selectedHero==SailaHero)return "SAILA · Q: zamraża najbliższą wieżę w zasięgu na 3 s. Odnowienie 24 s.";
         if(selectedHero>=6&&selectedHero!=LucenHero)return HeroNames[selectedHero].ToUpperInvariant()+" · umiejętność niedostępna w tym prototypie.";
         if(selectedHero==0)return "KAEL · Q: osłona dla Ciebie i pobliskiego sojusznika. E: testowy atak na pobliską wieżę.";
         if(selectedHero==1)return "RIAN · Q: zadaje obrażenia pobliskiej wieży. Podejdź w jej zasięg.";
@@ -657,7 +671,7 @@ public class RiftorynTrial : MonoBehaviour
 
     int PlayableHero(string id)
     {
-        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;case "niva":return 4;case "liora":return 5;case "elira":return 6;case "dara":return 7;case "nocten":return 8;case "lucen":return LucenHero;default:return -1;}
+        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;case "niva":return 4;case "liora":return 5;case "elira":return 6;case "dara":return 7;case "nocten":return 8;case "lucen":return LucenHero;case "saila":return SailaHero;default:return -1;}
     }
     Texture2D DraftPortrait(string id)
     {
@@ -705,7 +719,7 @@ public class RiftorynTrial : MonoBehaviour
         if(ally.hp<=0||ally.done)return;
         if(lanRemoteAbility){Skill(ally);lanRemoteAbility=false;}if(lanRemoteAttack){if(ally.hero==0)Attack(ally);lanRemoteAttack=false;}
         Vector3 dir=Time.unscaledTime-lanInputAt<.5f?lanRemoteInput:Vector3.zero;
-        float mult=ally.exposure>0?.9f:1f;if(ally.boost>0)mult*=1.2f;if(ally.chillTime>0)mult*=ally.hero==4?.88f:.85f;
+        float mult=ally.exposure>0?(ally.hero==SailaHero?.915f:.9f):1f;if(ally.boost>0)mult*=1.2f;if(ally.chillTime>0)mult*=ally.hero==4?.88f:ally.hero==SailaHero?.8725f:.85f;
         ally.obj.transform.position=MoveAgainstWalls(ally.obj.transform.position,dir*Speed[ally.hero]*mult*dt);
         if(dir.sqrMagnitude>.01f)ally.obj.transform.rotation=Quaternion.LookRotation(dir);
         if(Vector3.Distance(ally.obj.transform.position,At(total))<1.5f)ally.done=true;

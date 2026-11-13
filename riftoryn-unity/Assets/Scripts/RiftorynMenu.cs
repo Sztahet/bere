@@ -301,7 +301,7 @@ public partial class RiftorynMenu : MonoBehaviour {
     }
     void DetailWithRoleIcon(ref float y,string label,string description){Text(new Rect(36,y,344,38),label,detailLabel);y+=38;var text=description??"";float height=Mathf.Max(55,mutedText.CalcHeight(new GUIContent(text),375));Text(new Rect(0,y,375,height),text,mutedText);y+=height+12;}
     bool HasBiography(CodexHero hero)=>hero.bio!=null&&!string.IsNullOrEmpty(hero.bio.story);
-    bool IsPlayable(string id)=>id=="kael"||id=="rian"||id=="zet";
+    bool IsPlayable(string id)=>id=="kael"||id=="rian"||id=="zet"||id=="saila";
     bool TimelineEntryAt(int index,out CodexTimelineEra era,out CodexTimelineEvent entry)
     {
         foreach(var group in timelineEras)if(group?.events!=null)foreach(var item in group.events){if(index--==0){era=group;entry=item;return true;}}
