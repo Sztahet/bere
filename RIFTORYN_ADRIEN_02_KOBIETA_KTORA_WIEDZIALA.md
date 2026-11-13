@@ -174,7 +174,7 @@ Gdy Lena spytała, czy mam zastrzeżenia do jego pracy, odpowiedziałem, że wci
 
 **7 czerwca, 9 ET**
 
-Po odbyciu kary zaczęła uczyć młodych rzemieślników. Spotkałem ją przy stole z grupą uczniów; wyjaśniała im, dlaczego trzeba przewidzieć również ten błąd, który wydaje się niemożliwy. Podała jednemu z nich śrubokręt i czekała, aż sam znajdzie mocowanie. Trwało to bardzo długo.
+Rian po odbyciu kary zaczęła uczyć młodych rzemieślników. Spotkałem ją przy stole z grupą uczniów; wyjaśniała im, dlaczego trzeba przewidzieć również ten błąd, który wydaje się niemożliwy. Podała jednemu z nich śrubokręt i czekała, aż sam znajdzie mocowanie. Trwało to bardzo długo.
 
 Kiedy skończyła, pokazałem jej przyrząd do stabilizacji przepływu. Rian obejrzała go, ale nie sięgnęła po narzędzia.
 
