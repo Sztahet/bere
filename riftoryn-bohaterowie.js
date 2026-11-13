@@ -12,3 +12,14 @@ const root='assets/heroes/portraits/';const heroes=[
 {id:'zet',name:'Zet',role:'Specjalista',element:'Błyskawice',img:'zet-lightning-specialist.png',hp:100,speed:'5,6',cd:18,desc:'Błyskawiczny zwiadowca wyszukujący słabe punkty obrony.',passName:'Iskra manewru',pass:'Po użyciu umiejętności porusza się szybciej przez 2 s.',attackName:'Atak · Elektroimpuls',attack:'Wyłącza jedną odkrytą wieżę na 2 s.',defName:'Obrona · Impuls zwiadu',def:'Na krótko wykrywa Runnerów i moby w wybranym obszarze.'},
 {id:'morven',name:'Morven',role:'Specjalista',element:'Ciemność',img:'morven-darkness-specialist-portrait.png',hp:105,speed:'5,3',cd:20,desc:'Mistrz zakłóceń, który zaciera informacje i dezorientuje automaty.',passName:'Krok w cień',pass:'Po użyciu zdolności trudniej go wykryć przez krótki czas.',attackName:'Atak · Zaburzenie celowania',attack:'Pogarsza celność automatycznego ognia wybranej wieży.',defName:'Obrona · Zasłona obrony',def:'Utrudnia odkrywanie nieznanych wież w wybranym obszarze.'}];
 
+const codexPreviews = [
+  {
+    id: 'ruvan',
+    name: 'Ruvan',
+    role: 'Specjalista',
+    element: 'Lód',
+    portrait: 'riftoryn-unity/Assets/Resources/Portraits/ruvan.png',
+    desc: 'Mistrz magii Lodu z Nivoren. Nauczył Sailę prowadzić moc kryształów.',
+    comingSoon: true
+  }
+];

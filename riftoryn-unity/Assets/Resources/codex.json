@@ -295,6 +295,15 @@
       "passEn": "Slow effects on her are 15% weaker."
     },
     {
+      "id": "ruvan",
+      "name": "Ruvan",
+      "role": "Specjalista",
+      "element": "Lód",
+      "desc": "Mistrz magii Lodu z Nivoren. Nauczył Sailę prowadzić moc kryształów.",
+      "descEn": "A master of Ice magic from Nivoren. He taught Saila how to guide the power of crystals.",
+      "comingSoon": true
+    },
+    {
       "id": "zet",
       "name": "Zet",
       "role": "Specjalista",

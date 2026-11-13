@@ -5,7 +5,8 @@ using UnityEngine;
 [Serializable] public class HeroBiography { public string city,cityEn,specialty,story,storyEn,reason,family; public bool approvedForPoc; }
 [Serializable] public class CodexHero {
     public string id,name,role,element,img,speed,desc,passName,pass,passNameEn,passEn,attackName,attack,attackNameEn,attackEn,defName,def,defNameEn,defEn,pet,concept,defense;
-    public int hp,cd; public bool conceptOnly; public HeroBiography bio;
+    public string descEn;
+    public int hp,cd; public bool conceptOnly,comingSoon; public HeroBiography bio;
 }
 [Serializable] public class ComicRect { public float x,y,width,height; }
 [Serializable] public class ComicPanel : ComicRect { public string pl,en; }
@@ -96,6 +97,12 @@ public partial class RiftorynMenu : MonoBehaviour {
         if(heroes.Length==0)return;selected=Mathf.Clamp(selected,0,heroes.Length-1);var hero=heroes[selected];
         PictureHead(new Rect(1086,271,463,200),Portrait(hero.id));Fill(new Rect(1086,404,463,67),new Color(.07f,.055f,.10f,.84f));
         Text(new Rect(1108,414,420,25),$"{RiftorynL10n.Translate(hero.role)}  /  {RiftorynL10n.Translate(hero.element)}",heroBadge);Text(new Rect(1107,438,420,36),hero.name.ToUpperInvariant(),detailTitle);
+        if(hero.comingSoon)
+        {
+            Text(new Rect(1105,486,425,26),"WKRÓTCE",heroBadge);
+            Text(new Rect(1105,521,425,72),RiftorynCodexData.Text(hero.desc,hero.descEn),body);
+            return;
+        }
         bool small=Screen.width<1000||Screen.height<600;Rect entry=new(1105,483,425,small?64:42);bool open;
         if(small){Fill(entry,gold);var entryStyle=new GUIStyle(button){fontSize=23,alignment=TextAnchor.MiddleCenter};open=GUI.Button(entry,StoryButtonLabel(hero.id),entryStyle);}else open=Click(entry,StoryButtonLabel(hero.id),true);
         if(open){storyOpen=true;selectedComic=0;storyZoom=1f;storyScroll=Vector2.zero;comicListScroll=Vector2.zero;}
@@ -273,6 +280,11 @@ public partial class RiftorynMenu : MonoBehaviour {
         Picture(new Rect(rect.x+2,rect.y+2,rect.width-4,rect.height-4),Portrait(hero.id));
         Fill(new Rect(rect.x+2,rect.y+rect.height-26,rect.width-4,24),new Color(.05f,.035f,.075f,.88f));
         var label=new GUIStyle(cardName){fontSize=compact?10:12};
+        if(hero.comingSoon)
+        {
+            Fill(new Rect(rect.x+2,rect.y+2,rect.width-4,18),new Color(.05f,.035f,.075f,.88f));
+            Text(new Rect(rect.x+4,rect.y+2,rect.width-8,18),"WKRÓTCE",label);
+        }
         Text(new Rect(rect.x+5,rect.y+rect.height-22,rect.width-10,20),hero.name.ToUpperInvariant(),label);
         if(RiftorynL10n.Button(rect,"",GUIStyle.none)){selected=index;detailScroll=Vector2.zero;}
     }

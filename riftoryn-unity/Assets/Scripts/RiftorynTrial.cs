@@ -944,6 +944,11 @@ public class RiftorynTrial : MonoBehaviour
         GUI.Label(new Rect(1305,192,245,52),hero.name.ToUpperInvariant(),draftHeroTitle);
         string availability=playable<0?"W PRZYGOTOWANIU":selectingHero==1&&playable==selectedHero?"WYBRANY PRZEZ GRACZA":"DOSTĘPNY W PRÓBIE";
         RiftorynL10n.Label(new Rect(1305,254,245,38),availability,small);
+        if(hero.comingSoon)
+        {
+            RiftorynL10n.Label(new Rect(1160,308,395,58),RiftorynCodexData.Text(hero.desc,hero.descEn),small);
+            return;
+        }
         string summary=!string.IsNullOrEmpty(hero.concept)&&hero.concept==hero.desc?(!string.IsNullOrEmpty(hero.pet)?"Najedź na towarzysza poniżej, aby zobaczyć opis.":"Opis koncepcji zobaczysz po najechaniu poniżej."):hero.desc??"";
         RiftorynL10n.Label(new Rect(1160,308,395,42),summary,small);
         RiftorynL10n.Label(new Rect(1160,352,395,20),playable>=0?"STATYSTYKI PRÓBY":"STATYSTYKI PROJEKTOWE",small);

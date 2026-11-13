@@ -4,6 +4,8 @@
 
 ## Referencje
 
+Arkusze do modelowania trzymamy w [assets/heroes/modeling-concepts](assets/heroes/modeling-concepts/). Portrety wczytywane przez Unity są w `riftoryn-unity/Assets/Resources/Portraits`.
+
 - [Niva — arkusz postaci](assets/heroes/modeling-concepts/niva.png). Koncepcja Wsparcia Lodu: jasny warkocz, futrzany płaszcz i lodowy kryształ.
 - [Liora — arkusz postaci](assets/heroes/modeling-concepts/liora.png). Koncepcja Wsparcia Natury: brązowy warkocz, kwiatowe ozdoby i zielono-kremowy strój.
 - [Elira — arkusz postaci](assets/heroes/modeling-concepts/elira.png). Koncepcja Wsparcia Światła: jasny warkocz, biało-złoty płaszcz i latarnia.
@@ -13,7 +15,8 @@
 - [Nocten — arkusz postaci](assets/heroes/modeling-concepts/nocten.png). Referencja do przyszłego modelowania; koncepcja przedstawia starszego Wsparcia Ciemności.
 - [Lucen — arkusz postaci](assets/heroes/modeling-concepts/lucen.png). Referencja do przyszłego modelowania Specjalisty Światła; przedstawia widoki postaci, strój, mimikę i przykładowe pozy.
 - [Neris i Shadow — arkusz postaci](assets/heroes/modeling-concepts/neris-blender-reference.png). Referencja do modelowania Neris i jej kruka.
-- [Adrien — arkusz postaci](riftoryn-unity/Assets/Concepts/Heroes/adrien-blender-reference.png). Referencja do modelowania Specjalisty Światła, przechowywana w projekcie Unity.
+- [Adrien — arkusz postaci](assets/heroes/modeling-concepts/adrien-blender-reference.png). Referencja do modelowania Specjalisty Światła.
+- [Ruvan — portret](riftoryn-unity/Assets/Resources/Portraits/ruvan.png). Specjalista Lodu z Nivoren i mentor Saily. W kodeksie widnieje jako postać w przygotowaniu.
 - [Ana i Bob — arkusz koncepcyjny](assets/heroes/modeling-concepts/ana-bob.png). Grafika używa pisowni „Anna”; w GDD występuje „Ana”.
 - [Koneva i Pati — arkusz koncepcyjny](assets/heroes/modeling-concepts/koneva-pati.png). W GDD kotoperz nazywa się „Patka”; relacja nazw „Pati” i „Patka” pozostaje do ustalenia. Arkusz nazywa postacie ogólnie czarodziejką i kotoperzem.
 
