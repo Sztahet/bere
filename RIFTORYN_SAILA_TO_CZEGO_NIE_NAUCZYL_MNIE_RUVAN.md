@@ -32,7 +32,7 @@ Przed magazynem zatrzymał się wóz z dolnej drogi. Przewoźnik przywiózł pac
 
 Ktoś spytał, czy zwycięzcy będą mogli sprowadzić do Nivoren więcej części do sieci. Ktoś inny chciał wiedzieć, kto za nie zapłaci. Przewoźnik rozłożył ręce. Przywiózł wiadomość. Na odpowiedzi trzeba było zaczekać.
 
-Jeśli dojdzie do Igrzysk, pojedzie Ruvan, pomyślałam. Wydawało mi się to równie oczywiste jak to, że wiosną strumień wystąpi z brzegów.
+Jeśli dojdzie do Igrzysk, pojedzie Ruvan, pomyślałam. Wydawało mi się to równie oczywiste jak to, że wiosną strumień wystąpi z brzegów. Nie przyszło mi do głowy, że on także mógłby chcieć zostać w domu.
 
 Schowałam książkę pod płaszczem i poszłam nad wodę.
 
@@ -93,6 +93,10 @@ Próbowałam przypomnieć sobie własne dłonie na cokole.
 Ruvan nie zapisał tego w notesie. Trzymał ołówek między palcami, lecz końcówka ani razu nie dotknęła papieru.
 
 O lampie powiedziałam mu sama. Była to najkrótsza część opowieści. Oparłam się o nią, a kryształ się napełnił. Wystarczyło jedno zdanie. Ruvan poprosił, żebym powiedziała je jeszcze raz.
+
+Powtórzyłam. Zwykle już po kilku słowach potrafił wskazać, co przeoczyłam. Tym razem nie poprawił mnie ani razu.
+
+Nie wiedziałam, czy powinnam być z siebie dumna, czy zaniepokojona.
 
 ## Rozdział III — Lekcja, której nie było
 
@@ -249,6 +253,8 @@ Złożyłam mapę. Przypomniałam sobie, ile czasu zajęło mu wejście po schod
 — Kogo masz na myśli?
 
 — Ciebie. Chciałbym, żebyś zgłosiła się do kwalifikacji, jeśli ogłoszą nabór.
+
+Ruvan przesunął kciukiem po zgięciu mapy.
 
 Roześmiałam się. Na tyle głośno, że opiekunka zajrzała przez drzwi, żeby sprawdzić, czy wszystko w porządku.
 
