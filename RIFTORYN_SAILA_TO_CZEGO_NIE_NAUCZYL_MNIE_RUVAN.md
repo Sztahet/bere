@@ -148,7 +148,7 @@ Spojrzałam na nie. Leżał na nim tylko płaszcz.
 
 — Nic.
 
-— Masz go na prawym ramieniu.
+— Naramiennik. Nosisz go na prawym ramieniu.
 
 — Od lat.
 
