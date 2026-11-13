@@ -18,7 +18,7 @@ Dwie wąskie linie przecięły kurz. Uczeń podniósł rękę.
 
 Nie słyszałem go z tej odległości, ale poruszał ustami w sposób sugerujący nadmierny entuzjazm. Wystarczyło. Zapisałem wynik.
 
-Kryształ wewnątrz przyrządu naładowano wcześniej. Kierownictwo warsztatu wydało mi jeden do prób i kazało oszczędzać zapas. Czasem przysyłają maga Światła, żeby doładował kryształy, ale ma też inne obowiązki i nigdy nie przychodzi wtedy, kiedy go potrzebuję. Łatwo powiedzieć komuś, żeby zaprojektował sygnalizator, a potem liczyć mu każde uruchomienie.
+Kryształ wewnątrz przyrządu był już naładowany. Dostałem jeden do prób i polecenie, żeby oszczędzać zapas. Oczywiście. Znowu będę musiał prosić maga o doładowanie. A on znowu powie, że ma inne zajęcia i moje kryształy mogą poczekać. Szkoda tylko, że razem z nimi musi czekać mój sygnalizator.
 
 Gdybym miał pod ręką źródło energii takie jak błyskawice w Zerath albo ciepło wulkanu w Vareth, sam zbudowałbym układ do ładowania kryształów. Tam już korzystają z takich instalacji; mnie wystarczyłaby własna, tutaj. Żadnego czekania na dostawę ani na maga, który wymachuje rękami nad stołem i wychodzi zmęczony, zanim zdążę skończyć pomiary.
 
