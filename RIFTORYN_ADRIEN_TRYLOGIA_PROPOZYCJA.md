@@ -20,7 +20,9 @@ Po odbyciu kary Rian może sama decydować o dalszej współpracy. Zaczyna też 
 
 ## 3. Wynalazek, którego nie przewidziałem
 
-W 12 ET Miko odwiedza Adriena z prototypem. Jest jednym z jego nielicznych przyjaciół. Adrien lubi z nim rozmawiać o wynalazkach i nie rozumie, dlaczego Miko dopuszcza przypadkowe wyniki. Miko widzi potencjał w odkryciu, którego nie planował. Adrien domaga się powtarzalnego pomiaru. Rian może sprawdzić, co dzieje się z mechanizmem w obu wariantach.
+W 12 ET Miko odwiedza Adriena z prototypem. Jest jednym z jego nielicznych przyjaciół i lubią rozmawiać o wynalazkach. Miko ma umiejętności, ćwiczy i cierpliwie poprawia swoje konstrukcje, ale Adrien nie docenia tej pracy: widzi w nim szczęściarza, któremu przypadkiem wychodzi to, czego nie zaplanował. Najbardziej denerwuje go, że kiedy Miko odniesie sukces, efekt często okazuje się lepszy od jego własnego rozwiązania. Adrien zazdrości mu, choć woli tłumaczyć wynik szczęściem, niż przyznać to nawet w notatkach.
+
+Miko widzi potencjał w odkryciu, którego nie planował, i sprawdza je kolejnymi próbami. Adrien domaga się powtarzalnego pomiaru, a równocześnie próbuje ustalić, dlaczego jego własny projekt wypadł gorzej. Rian może sprawdzić, co dzieje się z mechanizmem w obu wariantach. Ich przyjaźń nie znosi rywalizacji: Adrien nadal szuka okazji do rozmowy z Miko, nawet jeśli ten właśnie przyprawił go o wyjątkowo zły humor.
 
 Przykładowa scena, w jego głosie:
 
@@ -30,7 +32,11 @@ Przykładowa scena, w jego głosie:
 >
 > Powiedział, że właśnie próbuje się dowiedzieć.
 >
-> Normalnie zakończyłbym rozmowę. Niestety, urządzenie wciąż działało.
+> Normalnie zakończyłbym rozmowę. Niestety, urządzenie wciąż działało. I zużywało mniej energii niż moje.
+>
+> Powiedziałem mu, że miał szczęście. Odparł, że owszem, za siedemnastą próbą.
+>
+> Nie zmienia to faktu, że miał szczęście.
 
 Wieści o Wielkich Igrzyskach docierają do uniwersytetu. Adrien zgłasza się dla sławy i potwierdzenia własnego geniuszu. Kwalifikacje, wybór strony i wynik pozostają oddzielnymi zdarzeniami. Spotkanie z Sailą można rozwinąć dopiero podczas Igrzysk. Zainteresuje go efekt jej zdolności, lecz jego pomiary nie muszą wyjaśnić jej źródła.
 
