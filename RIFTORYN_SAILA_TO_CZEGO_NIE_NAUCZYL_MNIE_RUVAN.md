@@ -1,6 +1,6 @@
 # Saila — To, czego nie nauczył mnie Ruvan
 
-*Riftoryn · Nivoren · 11 ET · Schyłek zimy*
+*Riftoryn · Nivoren · Początek 12 ET · Pierwsza odwilż*
 
 ## Rozdział I — Dzień, który należał do mnie
 
@@ -21,6 +21,8 @@ Raz spóźniłam się o ułamek chwili. Lód skleił zawór, a opiekunka magazyn
 Tego ranka sama sprawdziła mój zapis.
 
 — Wystarczy do pojutrza — powiedziała. — Idź, zanim znajdę ci coś do roboty.
+
+Od kilku dni wozy z doliny znów docierały do osady. Na górnym trakcie wciąż zalegał śnieg, ale dolną drogą przywieziono już leki i dwa naładowane ogniwa. Jeszcze niedawno, gdy wskaźnik zaczynał rosnąć, opiekunka szła po mnie. Teraz mogła najpierw sięgnąć po zapas.
 
 Poszłam na górę po książkę z Val Meris. Wciąż była w papierze, w którym przywiozłam ją jesienią. Rozpakowałam ją przy oknie. Otworzyła się od razu na ilustracji przedstawiającej drzewa z Verdan. Pod jednym z nich artysta narysował człowieka. Był tak mały, że wzięłam go najpierw za kleks.
 
@@ -326,7 +328,7 @@ Ruvan odłożył igłę. Płaszcz został mu na kolanach, zaszyty do połowy.
 
 Rozłożyłam przed nim kartę z chłodni. Na dole zostawiłam dwa wolne wiersze. Pierwszy na nazwisko osoby, która sprawdzi zapas ogniw przed następną dostawą. Drugi dla kogoś, kto będzie mógł ją zastąpić.
 
-— Mam warunek. Przed wyjazdem chcę wiedzieć, kto przejmuje dyżury przy chłodni i kto prowadzi obchody, jeśli drogi znowu zasypie. Musimy ustalić z posterunkiem, ile ogniw trzyma dla nas w zapasie. Jedno pożyczone wystarczyło na próbę. Potrzebujemy umowy na całą zimę.
+— Mam warunek. Przed wyjazdem chcę wiedzieć, kto przejmuje dyżury przy chłodni i kto sprawdza dolną drogę, gdy strumień przybierze. Musimy ustalić z posterunkiem, ile ogniw trzyma dla nas w zapasie. Jedno pożyczone wystarczyło na próbę. Ustalmy stały zapas na wypadek, gdyby następny wóz nie dojechał.
 
 Ruvan przyciągnął kartę bliżej.
 
@@ -338,7 +340,7 @@ Zapytał, kiedy chciałabym zacząć ćwiczenia. Wybrałam pojutrze. Nazajutrz p
 
 — Po obiedzie.
 
-Nazajutrz czekał na mnie przy starym rozwidleniu. Mieliśmy razem zejść do posterunku. W nocy przymroziło i na śniegu utworzyła się krucha skorupa. Ruvan spróbował jej końcem laski.
+Nazajutrz czekał na mnie przy starym rozwidleniu. Mieliśmy razem zejść do posterunku. W nocy znów przymroziło. W koleinach lód pękał pod butami, a na poboczu śnieg trzymał się jeszcze w cieniu. Ruvan stuknął końcem laski w lód na drodze.
 
 — Gotowa? — zapytał.
 
