@@ -13,9 +13,9 @@ public class RiftorynTrial : MonoBehaviour
     const float RollDuration=.35f, RollSpeed=12f, RollCooldown=10f, TowerWindup=.45f;
     static readonly Vector2[] Map = { new(400,330),new(475,330),new(475,245),new(315,245),new(315,410),new(550,410),new(550,170),new(240,170),new(240,485),new(625,485),new(625,95),new(165,95),new(165,560),new(700,560),new(700,35) };
     static readonly Vector2[] SlotMap = {new(445,205),new(405,205),new(365,205),new(275,290),new(275,350),new(355,450),new(415,450),new(475,450),new(590,360),new(590,290),new(590,220),new(510,130),new(450,130),new(390,130),new(330,130),new(200,235),new(200,320),new(200,400),new(305,525),new(385,525),new(465,525),new(545,525),new(665,450),new(665,370),new(665,290),new(665,210)};
-    const int LucenHero = 9, SailaHero = 10;
-    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten","Lucen","Saila"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
-    static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115,105,105}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f,5.6f,5.2f}, Cooldowns={22,16,18,20,18,20,20,20,20,20,24}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
+    const int LucenHero = 9, SailaHero = 10, PyrraHero = 11;
+    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten","Lucen","Saila","Pyrra"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
+    static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115,105,105,60}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f,5.6f,5.2f,5.2f}, Cooldowns={22,16,18,20,18,20,20,20,20,20,24,20}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
     static readonly Color[] TowerColors={new(1f,.30f,.12f),new(.32f,.77f,1f),new(1f,.8f,.2f),new(.32f,.83f,.4f),new(.65f,.43f,.25f),new(1f,.91f,.55f),new(.55f,.28f,.75f)};
     class Runner { public int hero; public GameObject obj; public Vector3 velocity; public float hp,shield,shieldMax,shieldTick,cooldown,attackCooldown,boost,exposure,fogTick,along,damage; public bool done; public int uses; public float chillTime, hitFlash, slowImmunity; public readonly RiftorynPeriodicEffect burn=new(), poison=new(); }
     class FloatingCombatText { public Transform anchor; public Vector3 position; public string text; public Color color; public float started, offset; }
@@ -113,7 +113,7 @@ public class RiftorynTrial : MonoBehaviour
         var mesh=new Mesh{name="Warstwy mgły"};mesh.SetVertices(vertices);mesh.SetUVs(0,uv);mesh.SetTriangles(triangles,0);mesh.RecalculateBounds();return mesh;
     }
     void OnDestroy(){if(lan)lan.Stop();ClearLanShots();if(healingRing&&healingRing.material)Destroy(healingRing.material);if(fogMesh)Destroy(fogMesh);if(fogMaterial)Destroy(fogMaterial);foreach(var material in worldMaterials.Values)if(material)Destroy(material);worldMaterials.Clear();if(wallTexture)Destroy(wallTexture);if(floorTexture)Destroy(floorTexture);if(floorMaterial)Destroy(floorMaterial);}
-    Runner MakeRunner(int h,bool bot){var go=new GameObject(bot?"Sojusznik AI":"Gracz");go.transform.SetParent(runnerRoot.transform);go.transform.position=At(0)+(bot?Vector3.right*.8f:Vector3.zero);var body=GameObject.CreatePrimitive(PrimitiveType.Capsule);body.name="Bohater";body.transform.SetParent(go.transform,false);body.transform.localPosition=Vector3.up;body.transform.localScale=new Vector3(.85f,1,.85f);body.GetComponent<Renderer>().sharedMaterial=Mat(bot?new Color(.16f,.75f,.85f):new Color(.88f,.71f,.36f));body.GetComponent<Collider>().isTrigger=true;if(h==SailaHero)AttachCharacterModel(go,body,"Characters/saila-poc",true);else if(!bot&&genericModelPreview)AttachCharacterModel(go,body,"Characters/generic-prototype",false);if(h==3){body.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.22f,.12f,.28f));var prefab=Resources.Load<GameObject>("Pets/patka");if(prefab){var pet=Instantiate(prefab,go.transform);pet.name="Patka";pet.transform.localPosition=new Vector3(0,.05f,2f);pet.transform.localRotation=Quaternion.Euler(0,180,0);pet.transform.localScale=Vector3.one*.42f;var ph=pet.AddComponent<RiftorynPetHealth>();ph.petName="Patka";ph.maxHp=ph.currentHp=50;pet.AddComponent<RiftorynPatkaPreview>();}}var r=new Runner{hero=h,obj=go,hp=MaxHp[h]};return r;}
+    Runner MakeRunner(int h,bool bot){var go=new GameObject(bot?"Sojusznik AI":"Gracz");go.transform.SetParent(runnerRoot.transform);go.transform.position=At(0)+(bot?Vector3.right*.8f:Vector3.zero);var body=GameObject.CreatePrimitive(PrimitiveType.Capsule);body.name="Bohater";body.transform.SetParent(go.transform,false);body.transform.localPosition=Vector3.up;body.transform.localScale=new Vector3(.85f,1,.85f);body.GetComponent<Renderer>().sharedMaterial=Mat(bot?new Color(.16f,.75f,.85f):new Color(.88f,.71f,.36f));body.GetComponent<Collider>().isTrigger=true;if(h==SailaHero)AttachCharacterModel(go,body,"Characters/saila-poc",true);else if(h==PyrraHero){AttachCharacterModel(go,body,"Characters/pyrra-poc",true);var follower=go.AddComponent<RiftorynSparkFollower>();follower.Initialize(go.transform);}else if(!bot&&genericModelPreview)AttachCharacterModel(go,body,"Characters/generic-prototype",false);if(h==3){body.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.22f,.12f,.28f));var prefab=Resources.Load<GameObject>("Pets/patka");if(prefab){var pet=Instantiate(prefab,go.transform);pet.name="Patka";pet.transform.localPosition=new Vector3(0,.05f,2f);pet.transform.localRotation=Quaternion.Euler(0,180,0);pet.transform.localScale=Vector3.one*.42f;var ph=pet.AddComponent<RiftorynPetHealth>();ph.petName="Patka";ph.maxHp=ph.currentHp=50;pet.AddComponent<RiftorynPatkaPreview>();}}var r=new Runner{hero=h,obj=go,hp=MaxHp[h]};return r;}
     void AttachCharacterModel(GameObject runner,GameObject capsule,string resource,bool saila)
     {
         var prefab=Resources.Load<GameObject>(resource);
@@ -640,6 +640,7 @@ public class RiftorynTrial : MonoBehaviour
         if(selectedHero==4)return "NIVA · Q: usuwa spowolnienie u najbliższego spowolnionego sojusznika w zasięgu, w przeciwnym razie u siebie; 2 s odporności.";
         if(selectedHero==5)return "LIORA · Q: pole pod postacią leczy pobliskich sojuszników przez 5 s.";
         if(selectedHero==SailaHero)return "SAILA · Q: zamraża najbliższą wieżę w zasięgu na 3 s. Odnowienie 24 s.";
+        if(selectedHero==PyrraHero)return "PYRRA · model i Iskra w próbie wizualnej; umiejętność w przygotowaniu.";
         if(selectedHero>=6&&selectedHero!=LucenHero)return HeroNames[selectedHero].ToUpperInvariant()+" · umiejętność niedostępna w tym prototypie.";
         if(selectedHero==0)return "KAEL · Q: osłona dla Ciebie i pobliskiego sojusznika. E: testowy atak na pobliską wieżę.";
         if(selectedHero==1)return "RIAN · Q: zadaje obrażenia pobliskiej wieży. Podejdź w jej zasięg.";
@@ -671,7 +672,7 @@ public class RiftorynTrial : MonoBehaviour
 
     int PlayableHero(string id)
     {
-        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;case "niva":return 4;case "liora":return 5;case "elira":return 6;case "dara":return 7;case "nocten":return 8;case "lucen":return LucenHero;case "saila":return SailaHero;default:return -1;}
+        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;case "niva":return 4;case "liora":return 5;case "elira":return 6;case "dara":return 7;case "nocten":return 8;case "lucen":return LucenHero;case "saila":return SailaHero;case "pyrra":return PyrraHero;default:return -1;}
     }
     Texture2D DraftPortrait(string id)
     {
@@ -910,7 +911,7 @@ public class RiftorynTrial : MonoBehaviour
         string cooldown=hero.cd>0?hero.cd+" s":"—";
         if(playable>=0)
         {
-            hp=MaxHp[playable].ToString("0");speed=RiftorynL10n.Format("{0:0.0}",Speed[playable]);cooldown=Cooldowns[playable]+" s";
+            hp=MaxHp[playable].ToString("0");speed=RiftorynL10n.Format("{0:0.0}",Speed[playable]);cooldown=playable==PyrraHero?"—":Cooldowns[playable]+" s";
             attack=playable==0?"25*":"—";
         }
         DraftStat(1160,462,94,"HP",hp);

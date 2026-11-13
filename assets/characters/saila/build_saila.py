@@ -1,3 +1,5 @@
+ROOT=r'D:\github\bere'
+CHARACTER='Saila'
 import bpy, math, os
 from mathutils import Vector
 rig=bpy.data.objects['Saila_Female_Rig']
@@ -50,8 +52,8 @@ panel('cape_left',[(-.15,.08,1.43),(-.04,.13,1.45),(-.02,.24,.48),(-.19,.23,.39)
 panel('cape_right',[(.04,.13,1.45),(.15,.08,1.43),(.28,.16,.58),(.19,.23,.39),(.02,.24,.48)],navy,'DEF-spine.003')
 panel('cape_mark',[(-.055,.245,.85),(0,.252,.91),(.055,.245,.85),(0,.25,.78)],trim,'DEF-spine.003')
 # Naramienniki: metalowa podstawa i asymetryczne odłamki lodu.
-ellipsoid('pauldron_L',(.16,.005,1.41),(.105,.085,.055),trim,'DEF-shoulder.L')
-ellipsoid('pauldron_R',(-.16,.005,1.41),(.078,.07,.045),purple,'DEF-shoulder.R')
+ellipsoid('pauldron_L',(.16,.005,1.41),(.085,.068,.035),trim,'DEF-shoulder.L')
+ellipsoid('pauldron_R',(-.16,.005,1.41),(.073,.065,.032),purple,'DEF-shoulder.R')
 def crystal(name,center,scale,bone):
  x,y,z=center; sx,sy,sz=scale
  vs=[(x-sx,y,z),(x,y-sy,z),(x+sx,y,z),(x,y+sy,z),(x,y,z+sz),(x,y,z-sz*.35)]
@@ -64,7 +66,7 @@ for i in range(7):
  x=-.072+i*.024
  panel('hair_fringe_'+str(i),[(x-.018,-.085,1.72),(x+.016,-.08,1.72),(x+.025,-.125,1.62-(i%3)*.012)],hair,'DEF-spine.006',.012)
 for i,x in enumerate([-.08,-.035,.02,.065]):
- panel('hair_spike_'+str(i),[(x-.026,.0,1.70),(x+.015,.035,1.69),(x+.03,.01,1.80-(i%2)*.018)],hair,'DEF-spine.006',.015)
+ panel('hair_spike_'+str(i),[(x-.026,.0,1.70),(x+.015,.035,1.69),(x+.03,.01,1.745-(i%2)*.008)],hair,'DEF-spine.006',.015)
 # Drobne oczy nadają twarzy czytelny punkt skupienia.
 for sign,side in [(1,'L'),(-1,'R')]:
  ellipsoid('eye_'+side,(sign*.031,-.145,1.623),(.013,.006,.007),deep,'DEF-spine.006',12,6)
@@ -75,11 +77,27 @@ for sign,side in [(1,'L'),(-1,'R')]:
  ellipsoid('bracer_'+side,(sign*.34,.03,1.13),(.045,.037,.058),purple,'DEF-forearm.'+side)
  ellipsoid('boot_trim_'+side,(sign*.08,.015,.22),(.045,.052,.012),trim,'DEF-shin.'+side+'.001')
 
-for o in bpy.context.selected_objects:o.select_set(False)
-for o in parts+new+[rig]:o.select_set(True)
-bpy.context.view_layer.objects.active=rig
-out=r'D:\github\bere\assets\characters\saila';os.makedirs(out,exist_ok=True)
-blend=os.path.join(out,'Saila_PoC.blend');fbx=os.path.join(out,'Saila_PoC.fbx')
+
+# Pasy i obrzeża wprowadzają czytelne detale na sylwetce w ujęciu z gry.
+panel('chest_strap',[(-.12,-.14,1.43),(-.09,-.155,1.44),(.12,-.145,1.18),(.09,-.155,1.17)],trim,'DEF-spine.003')
+panel('tabard_edge_L',[(-.13,-.168,1.07),(-.115,-.168,1.07),(-.15,-.148,.68),(-.17,-.148,.68)],trim,'DEF-spine')
+panel('tabard_edge_R',[(.115,-.168,1.07),(.13,-.168,1.07),(.17,-.148,.68),(.15,-.148,.68)],trim,'DEF-spine')
+
+# Zabudowane buty zakrywają modelowe palce i spinają sylwetkę.
+for sign,side in [(1,'L'),(-1,'R')]:
+ ellipsoid('boot_foot_'+side,(sign*.08,-.035,.07),(.050,.105,.065),boots,'DEF-foot.'+side,20,10)
+
+# Eksport obejmuje jedną siatkę i szkielet; poszczególne części zachowują wagi.
+bpy.ops.object.select_all(action='DESELECT')
+for o in parts+new:o.select_set(True)
+bpy.context.view_layer.objects.active=parts[0]
+bpy.ops.object.join()
+joined=bpy.context.object
+joined.name=CHARACTER+'_BodyAndOutfit'
+bpy.ops.object.select_all(action='DESELECT')
+joined.select_set(True);rig.select_set(True);bpy.context.view_layer.objects.active=rig
+out=os.path.join(ROOT,'assets','characters',CHARACTER.lower());os.makedirs(out,exist_ok=True)
+blend=os.path.join(out,CHARACTER+'_PoC.blend');fbx=os.path.join(out,CHARACTER+'_PoC.fbx')
 bpy.ops.wm.save_as_mainfile(filepath=blend,compress=True,copy=True)
 bpy.ops.export_scene.fbx(filepath=fbx,use_selection=True,object_types={'ARMATURE','MESH'},use_armature_deform_only=True,add_leaf_bones=False,bake_anim=False,axis_forward='-Z',axis_up='Y',apply_unit_scale=True)
-result={'parts':len(parts),'outfit_parts':len(new),'blend':blend,'fbx':fbx,'fbx_bytes':os.path.getsize(fbx)}
+print('EXPORT',fbx,'verts',len(joined.data.vertices),'materials',len(joined.data.materials))
