@@ -48,12 +48,12 @@ class SailaStoryTests(unittest.TestCase):
                           if x.strip() != '---' and 'MIEJSCE NA ILUSTRACJĘ' not in x]
             self.assertEqual([b['text'] for b in chapter['blocks'] if 'text' in b], paragraphs)
         images = [b['image'] for c in data['chapters'] for b in c['blocks'] if 'image' in b]
-        self.assertEqual(images, [1, 5, 7])
+        self.assertEqual(images, [1, 2, 4, 5, 6, 7])
         for image in images:
             self.assertTrue((resource / f'{image:02}.jpg').is_file())
         page = (ROOT / 'saila-gdy-wieza-zamilkla.html').read_text(encoding='utf-8')
         self.assertIn('data-story="awakening"', page)
-        self.assertIn('trzy ilustracje', page)
+        self.assertIn('Propozycja literacka', page)
 
 
 if __name__ == '__main__':

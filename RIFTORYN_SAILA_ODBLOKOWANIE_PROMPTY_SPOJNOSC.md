@@ -1,6 +1,6 @@
 # Saila: Gdy wieża zamilkła — trzy brakujące ilustracje
 
-Trzy zaakceptowane ilustracje znajdują się we wspólnym katalogu Unity: [początek](riftoryn-unity/Assets/Resources/SailaAwakening/01.jpg), [zatrzymanie wieży](riftoryn-unity/Assets/Resources/SailaAwakening/05.jpg) i [finał](riftoryn-unity/Assets/Resources/SailaAwakening/07.jpg). Ilustracje 2–3 dawnego planu łączymy w jeden obraz spotkania i pierwszego ostrzału, dzięki czemu docelowo powstanie sześć ilustracji. Obecna wersja opowieści zawiera tylko trzy zaakceptowane obrazy; poniższe prompty przygotowują następne trzy.
+Trzy zaakceptowane ilustracje znajdują się we wspólnym katalogu Unity: [początek](riftoryn-unity/Assets/Resources/SailaAwakening/01.jpg), [zatrzymanie wieży](riftoryn-unity/Assets/Resources/SailaAwakening/05.jpg) i [finał](riftoryn-unity/Assets/Resources/SailaAwakening/07.jpg). Ilustracje 2–3 dawnego planu łączymy w jeden obraz spotkania i pierwszego ostrzału, dzięki czemu docelowo powstanie sześć ilustracji. Opowieść zawiera już sześć ilustracji; poniższe prompty pozostają jako dokumentacja przygotowania trzech nowych obrazów.
 
 ## Wspólne referencje do każdego promptu
 
