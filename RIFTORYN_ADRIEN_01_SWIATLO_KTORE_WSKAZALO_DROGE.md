@@ -122,11 +122,9 @@ Miałem gotową odpowiedź. Zamiast jej udzielić, odwróciłem kartkę i zaczą
 
 **2 listopada, 4 PT**
 
-Przez ostatnie tygodnie poprawiałem konstrukcję. Lena sprawdzała ją na stole, potem na skrzyni przywiązanej do wozu. Jedna próba skończyła się pęknięciem śruby. Zaznaczyła je czerwonym ołówkiem i wróciła z nową listą uwag.
+Przez ostatnie tygodnie poprawiałem konstrukcję. Lena sprawdzała ją na stole, potem na skrzyni przywiązanej do wozu. Jedna próba skończyła się pęknięciem śruby. Lena zaznaczyła pęknięcie czerwonym ołówkiem i przyniosła mi nową listę uwag. Nie każda była trafna. Zapisałem wszystkie.
 
-Kiedy zabrakło mi naładowanego kryształu do następnej próby, to Lena przypomniała kierownictwu o moim zamówieniu. Przysłano maga dopiero nazajutrz. Lena zdążyła w tym czasie przygotować dwa zapasowe mocowania i zostawić je na moim stole. Jedno było jej projektu. Drugie też.
-
-Nie każda była trafna. Zapisywałem wszystkie.
+Przed następną próbą zabrakło mi naładowanego kryształu. Lena przypomniała kierownictwu o moim zamówieniu, ale maga przysłano dopiero nazajutrz. Przez ten czas przygotowała dwa zapasowe mocowania i zostawiła je na moim stole. Jedno było jej projektu. Drugie też.
 
 Dodałem też osobny sygnał, który nie korzystał z tej samej przesłony. Gdy pierwszy układ zawodził, drugi nie wskazywał już drogi. Nakazywał zatrzymanie.
 
@@ -138,4 +136,4 @@ Wpisałem imię przewodnika z raportu.
 
 Przyglądałem mu się przez chwilę. Nie wiedziałem, co robił przed wojną ani kto czekał, aż wróci. Nie wiedziałem nawet, czy umiał naprawić koło własnego wozu. Miałem jego imię, kilka pomiarów i urządzenie, którego nie powinienem był dopuścić bez kolejnej próby.
 
-Zamknąłem notatnik. Następnego dnia czekał nas test na drodze.
+Jutro kolejny test na drodze.
