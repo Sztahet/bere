@@ -1,0 +1,1159 @@
+{
+  "materials": [
+    {
+      "name": "Fire _ V2 _ Premium Stone _ cool limestone",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Fire _ V2 _ Premium Stone _ pale carved edges",
+      "metallic": 0.0,
+      "smoothness": 0.3500000238418579,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Fire _ V2 _ Premium Stone _ blue-grey variation",
+      "metallic": 0.0,
+      "smoothness": 0.18000000715255737,
+      "emission": [
+        0.007999999940395353,
+        0.005000000149011613,
+        0.0037500002048909686
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Fire _ V2 _ Premium Metal _ midnight steel",
+      "metallic": 0.7200000286102295,
+      "smoothness": 0.5999999940395355,
+      "emission": [
+        0.0025000000745058065,
+        0.0006250000186264516,
+        0.0003000000070780516
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Fire _ V2 _ Premium Metal _ pale silver",
+      "metallic": 0.6499999761581421,
+      "smoothness": 0.699999988079071,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Fire _ V2 _ Premium Metal _ antique silver-bronze",
+      "metallic": 0.6800000071525574,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.015750000115483997,
+        0.005000000149011613,
+        0.0011250000614672906
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Fire _ V2 _ Premium Crystal _ deep sapphire setting",
+      "metallic": 0.25,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.001999999985098838,
+        0.03199999976158141,
+        0.11200000214576722
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Fire _ Elemental primary",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        1.5499999523162842,
+        0.24799998682737368,
+        0.023249998765066282
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Fire _ Elemental shadow",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.5000000074505806,
+        0.043750000186264515,
+        0.00750000006519258
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Fire _ Elemental highlight",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        1.350000023841858,
+        0.9045000385046009,
+        0.1350000043958426
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Fire _ V2 _ Premium Base _ deep moss bed",
+      "metallic": 0.0,
+      "smoothness": 0.07999998331069946,
+      "emission": [
+        0.010399999386072167,
+        0.003600000062584874,
+        0.001599999928474427
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Fire _ V2 _ Premium Growth _ vivid moss",
+      "metallic": 0.0,
+      "smoothness": 0.12000000476837158,
+      "emission": [
+        0.03839999828338625,
+        0.006000000104308123,
+        0.0011999999463558203
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Fire _ V2 _ Premium Growth _ emerald leaves",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.05760000100135798,
+        0.009599999570846562,
+        0.001999999985098838
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Fire _ V2 _ Premium Growth _ fresh leaves",
+      "metallic": 0.0,
+      "smoothness": 0.2900000214576721,
+      "emission": [
+        0.07999999821186066,
+        0.024000000417232492,
+        0.0027999999493360517
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Fire _ V2 _ Premium Growth _ lime tips",
+      "metallic": 0.0,
+      "smoothness": 0.3199999928474426,
+      "emission": [
+        0.07999999821186066,
+        0.050399998492002496,
+        0.007999999940395353
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Ice _ V2 _ Premium Stone _ cool limestone",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Ice _ V2 _ Premium Stone _ pale carved edges",
+      "metallic": 0.0,
+      "smoothness": 0.3500000238418579,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Ice _ V2 _ Premium Stone _ blue-grey variation",
+      "metallic": 0.0,
+      "smoothness": 0.18000000715255737,
+      "emission": [
+        0.00950000002235174,
+        0.01425000003352761,
+        0.017499999962747093
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Ice _ V2 _ Premium Metal _ midnight steel",
+      "metallic": 0.7200000286102295,
+      "smoothness": 0.5999999940395355,
+      "emission": [
+        0.0011250000614672906,
+        0.002999999977648257,
+        0.004500000245869162
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Ice _ V2 _ Premium Metal _ pale silver",
+      "metallic": 0.6499999761581421,
+      "smoothness": 0.699999988079071,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Ice _ V2 _ Premium Metal _ antique silver-bronze",
+      "metallic": 0.6800000071525574,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.008500000216066839,
+        0.01550000035017729,
+        0.020000000596046452
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Ice _ V2 _ Premium Crystal _ deep sapphire setting",
+      "metallic": 0.25,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.001999999985098838,
+        0.03199999976158141,
+        0.11200000214576722
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Ice _ Elemental primary",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.09299999506026513,
+        0.8524999922513956,
+        1.4724999362230307
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Ice _ Elemental shadow",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.01874999958090484,
+        0.11250000447034836,
+        0.42500000447034836
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Ice _ Elemental highlight",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.9720000557899482,
+        1.2690000191926956,
+        1.350000023841858
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Ice _ V2 _ Premium Base _ deep moss bed",
+      "metallic": 0.0,
+      "smoothness": 0.07999998331069946,
+      "emission": [
+        0.006399999713897708,
+        0.013599999839067456,
+        0.019999999552965164
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Ice _ V2 _ Premium Growth _ vivid moss",
+      "metallic": 0.0,
+      "smoothness": 0.12000000476837158,
+      "emission": [
+        0.012000000208616246,
+        0.027999998897314082,
+        0.04159999754428867
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Ice _ V2 _ Premium Growth _ emerald leaves",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.017599999511241915,
+        0.03999999910593033,
+        0.055199998575448994
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Ice _ V2 _ Premium Growth _ fresh leaves",
+      "metallic": 0.0,
+      "smoothness": 0.2900000214576721,
+      "emission": [
+        0.03519999902248383,
+        0.05919999943971632,
+        0.071999996483326
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Ice _ V2 _ Premium Growth _ lime tips",
+      "metallic": 0.0,
+      "smoothness": 0.3199999928474426,
+      "emission": [
+        0.062399996316433004,
+        0.07439999890923499,
+        0.07999999821186066
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Lightning _ V2 _ Premium Stone _ cool limestone",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Lightning _ V2 _ Premium Stone _ pale carved edges",
+      "metallic": 0.0,
+      "smoothness": 0.3500000238418579,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Lightning _ V2 _ Premium Stone _ blue-grey variation",
+      "metallic": 0.0,
+      "smoothness": 0.18000000715255737,
+      "emission": [
+        0.00950000002235174,
+        0.010000000298023226,
+        0.009749999787658448
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Lightning _ V2 _ Premium Metal _ midnight steel",
+      "metallic": 0.7200000286102295,
+      "smoothness": 0.5999999940395355,
+      "emission": [
+        0.002999999977648257,
+        0.0021250000540167097,
+        0.0003000000070780516
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Lightning _ V2 _ Premium Metal _ pale silver",
+      "metallic": 0.6499999761581421,
+      "smoothness": 0.699999988079071,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Lightning _ V2 _ Premium Metal _ antique silver-bronze",
+      "metallic": 0.6800000071525574,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.01800000098347665,
+        0.011500000379979614,
+        0.0008750000167638064
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Lightning _ V2 _ Premium Crystal _ deep sapphire setting",
+      "metallic": 0.25,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.001999999985098838,
+        0.03199999976158141,
+        0.11200000214576722
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Lightning _ Elemental primary",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        1.5499999523162842,
+        1.023000009179114,
+        0.018599999589473004
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Lightning _ Elemental shadow",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.45000001788139343,
+        0.1875000074505806,
+        0.00375000003259629
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Lightning _ Elemental highlight",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        1.350000023841858,
+        1.2959999939203257,
+        0.7290000418424611
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Lightning _ V2 _ Premium Base _ deep moss bed",
+      "metallic": 0.0,
+      "smoothness": 0.07999998331069946,
+      "emission": [
+        0.007999999940395353,
+        0.007200000125169748,
+        0.001999999985098838
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Lightning _ V2 _ Premium Growth _ vivid moss",
+      "metallic": 0.0,
+      "smoothness": 0.12000000476837158,
+      "emission": [
+        0.025599998855590833,
+        0.020799998772144335,
+        0.0027999999493360517
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Lightning _ V2 _ Premium Growth _ emerald leaves",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.051199997711181666,
+        0.03839999828338625,
+        0.003199999856948854
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Lightning _ V2 _ Premium Growth _ fresh leaves",
+      "metallic": 0.0,
+      "smoothness": 0.2900000214576721,
+      "emission": [
+        0.06879999960660932,
+        0.055199998575448994,
+        0.006399999713897708
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Lightning _ V2 _ Premium Growth _ lime tips",
+      "metallic": 0.0,
+      "smoothness": 0.3199999928474426,
+      "emission": [
+        0.07999999821186066,
+        0.071999996483326,
+        0.024000000417232492
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Nature _ V2 _ Premium Stone _ cool limestone",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Nature _ V2 _ Premium Stone _ pale carved edges",
+      "metallic": 0.0,
+      "smoothness": 0.3500000238418579,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Nature _ V2 _ Premium Stone _ blue-grey variation",
+      "metallic": 0.0,
+      "smoothness": 0.18000000715255737,
+      "emission": [
+        0.009000000491738325,
+        0.011249999869614835,
+        0.007249999899417159
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Nature _ V2 _ Premium Metal _ midnight steel",
+      "metallic": 0.7200000286102295,
+      "smoothness": 0.5999999940395355,
+      "emission": [
+        0.0008750000167638064,
+        0.002250000122934581,
+        0.0008750000167638064
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Nature _ V2 _ Premium Metal _ pale silver",
+      "metallic": 0.6499999761581421,
+      "smoothness": 0.699999988079071,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Nature _ V2 _ Premium Metal _ antique silver-bronze",
+      "metallic": 0.6800000071525574,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.007000000134110451,
+        0.010499999828636641,
+        0.0035000000670552256
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Nature _ V2 _ Premium Crystal _ deep sapphire setting",
+      "metallic": 0.25,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.001999999985098838,
+        0.03199999976158141,
+        0.11200000214576722
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Nature _ Elemental primary",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.07749999877065417,
+        0.7129999909996982,
+        0.18599999012053026
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Nature _ Elemental shadow",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.01500000013038516,
+        0.16249999403953552,
+        0.043750000186264515
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Nature _ Elemental highlight",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.675000011920929,
+        1.133999984622001,
+        0.229500006467104
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Nature _ V2 _ Premium Base _ deep moss bed",
+      "metallic": 0.0,
+      "smoothness": 0.07999998331069946,
+      "emission": [
+        0.001999999985098838,
+        0.008799999755620957,
+        0.0023999998927116406
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Nature _ V2 _ Premium Growth _ vivid moss",
+      "metallic": 0.0,
+      "smoothness": 0.12000000476837158,
+      "emission": [
+        0.004799999785423281,
+        0.019999999552965164,
+        0.004399999877810479
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Nature _ V2 _ Premium Growth _ emerald leaves",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.006399999713897708,
+        0.03039999893903733,
+        0.005599999898672103
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Nature _ V2 _ Premium Growth _ fresh leaves",
+      "metallic": 0.0,
+      "smoothness": 0.2900000214576721,
+      "emission": [
+        0.015999999880790705,
+        0.04639999762773517,
+        0.007200000125169748
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Nature _ V2 _ Premium Growth _ lime tips",
+      "metallic": 0.0,
+      "smoothness": 0.3199999928474426,
+      "emission": [
+        0.04159999754428867,
+        0.062399996316433004,
+        0.009599999570846562
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Earth _ V2 _ Premium Stone _ cool limestone",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Earth _ V2 _ Premium Stone _ pale carved edges",
+      "metallic": 0.0,
+      "smoothness": 0.3500000238418579,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Earth _ V2 _ Premium Stone _ blue-grey variation",
+      "metallic": 0.0,
+      "smoothness": 0.18000000715255737,
+      "emission": [
+        0.01299999971687793,
+        0.009250000257045032,
+        0.0062500000931322575
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Earth _ V2 _ Premium Metal _ midnight steel",
+      "metallic": 0.7200000286102295,
+      "smoothness": 0.5999999940395355,
+      "emission": [
+        0.0032499999292194826,
+        0.0016249999646097413,
+        0.0007000000320374969
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Earth _ V2 _ Premium Metal _ pale silver",
+      "metallic": 0.6499999761581421,
+      "smoothness": 0.699999988079071,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Earth _ V2 _ Premium Metal _ antique silver-bronze",
+      "metallic": 0.6800000071525574,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.011999999910593029,
+        0.007750000175088645,
+        0.003999999970197676
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Earth _ V2 _ Premium Crystal _ deep sapphire setting",
+      "metallic": 0.25,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.001999999985098838,
+        0.03199999976158141,
+        0.11200000214576722
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Earth _ Elemental primary",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.9919999473094947,
+        0.46500000417232457,
+        0.11625000104308114
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Earth _ Elemental shadow",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.2749999985098839,
+        0.09999999776482582,
+        0.027499999850988388
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Earth _ Elemental highlight",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        1.2690000191926956,
+        0.8774999833106989,
+        0.32399999848008143
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Earth _ V2 _ Premium Base _ deep moss bed",
+      "metallic": 0.0,
+      "smoothness": 0.07999998331069946,
+      "emission": [
+        0.006399999713897708,
+        0.007999999940395353,
+        0.001999999985098838
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Earth _ V2 _ Premium Growth _ vivid moss",
+      "metallic": 0.0,
+      "smoothness": 0.12000000476837158,
+      "emission": [
+        0.015999999880790705,
+        0.019199999141693125,
+        0.004399999877810479
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Earth _ V2 _ Premium Growth _ emerald leaves",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.022399999594688413,
+        0.027199999678134912,
+        0.006000000104308123
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Earth _ V2 _ Premium Growth _ fresh leaves",
+      "metallic": 0.0,
+      "smoothness": 0.2900000214576721,
+      "emission": [
+        0.03439999980330466,
+        0.03839999828338625,
+        0.007999999940395353
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Earth _ V2 _ Premium Growth _ lime tips",
+      "metallic": 0.0,
+      "smoothness": 0.3199999928474426,
+      "emission": [
+        0.05280000091791148,
+        0.05199999693036084,
+        0.014400000250339495
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Light _ V2 _ Premium Stone _ cool limestone",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Light _ V2 _ Premium Stone _ pale carved edges",
+      "metallic": 0.0,
+      "smoothness": 0.3500000238418579,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Light _ V2 _ Premium Stone _ blue-grey variation",
+      "metallic": 0.0,
+      "smoothness": 0.18000000715255737,
+      "emission": [
+        0.015999999880790705,
+        0.017499999962747093,
+        0.019499999575316895
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Light _ V2 _ Premium Metal _ midnight steel",
+      "metallic": 0.7200000286102295,
+      "smoothness": 0.5999999940395355,
+      "emission": [
+        0.003999999970197676,
+        0.005000000149011613,
+        0.007000000134110451
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Light _ V2 _ Premium Metal _ pale silver",
+      "metallic": 0.6499999761581421,
+      "smoothness": 0.699999988079071,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Light _ V2 _ Premium Metal _ antique silver-bronze",
+      "metallic": 0.6800000071525574,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.017499999962747093,
+        0.020000000596046452,
+        0.023000000759959227
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Light _ V2 _ Premium Crystal _ deep sapphire setting",
+      "metallic": 0.25,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.001999999985098838,
+        0.03199999976158141,
+        0.11200000214576722
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Light _ Elemental primary",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        1.2089999184608473,
+        1.3949999201297771,
+        1.5499999523162842
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Light _ Elemental shadow",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.42500000447034836,
+        0.5999999865889549,
+        0.8500000089406967
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Light _ Elemental highlight",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        1.350000023841858,
+        1.350000023841858,
+        1.350000023841858
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Light _ V2 _ Premium Base _ deep moss bed",
+      "metallic": 0.0,
+      "smoothness": 0.07999998331069946,
+      "emission": [
+        0.022399999594688413,
+        0.027999998897314082,
+        0.03359999819993975
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Light _ V2 _ Premium Growth _ vivid moss",
+      "metallic": 0.0,
+      "smoothness": 0.12000000476837158,
+      "emission": [
+        0.03519999902248383,
+        0.043999999970197656,
+        0.05360000013709065
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Light _ V2 _ Premium Growth _ emerald leaves",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.048000000834464984,
+        0.056799997013807335,
+        0.06559999796152116
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Light _ V2 _ Premium Growth _ fresh leaves",
+      "metallic": 0.0,
+      "smoothness": 0.2900000214576721,
+      "emission": [
+        0.06079999787807466,
+        0.06800000038743015,
+        0.07439999890923499
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Light _ V2 _ Premium Growth _ lime tips",
+      "metallic": 0.0,
+      "smoothness": 0.3199999928474426,
+      "emission": [
+        0.07359999969005582,
+        0.07760000055432315,
+        0.07999999821186066
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Darkness _ V2 _ Premium Stone _ cool limestone",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Darkness _ V2 _ Premium Stone _ pale carved edges",
+      "metallic": 0.0,
+      "smoothness": 0.3500000238418579,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Darkness _ V2 _ Premium Stone _ blue-grey variation",
+      "metallic": 0.0,
+      "smoothness": 0.18000000715255737,
+      "emission": [
+        0.005249999914318321,
+        0.003999999970197676,
+        0.007249999899417159
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Darkness _ V2 _ Premium Metal _ midnight steel",
+      "metallic": 0.7200000286102295,
+      "smoothness": 0.5999999940395355,
+      "emission": [
+        0.0006250000186264516,
+        0.00020000001247972264,
+        0.0011250000614672906
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Darkness _ V2 _ Premium Metal _ pale silver",
+      "metallic": 0.6499999761581421,
+      "smoothness": 0.699999988079071,
+      "emission": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Darkness _ V2 _ Premium Metal _ antique silver-bronze",
+      "metallic": 0.6800000071525574,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.0062500000931322575,
+        0.0025000000745058065,
+        0.009749999787658448
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Darkness _ V2 _ Premium Crystal _ deep sapphire setting",
+      "metallic": 0.25,
+      "smoothness": 0.6800000071525574,
+      "emission": [
+        0.001999999985098838,
+        0.03199999976158141,
+        0.11200000214576722
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Darkness _ Elemental primary",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.3719999802410605,
+        0.03874999938532708,
+        0.8370000075101842
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Darkness _ Elemental shadow",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.011249999515712261,
+        0.0012500000593718141,
+        0.03125000046566129
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Darkness _ Elemental highlight",
+      "metallic": 0,
+      "smoothness": 0,
+      "emission": [
+        0.9720000557899482,
+        0.20250001162290587,
+        1.350000023841858
+      ],
+      "unlit": true
+    },
+    {
+      "name": "Darkness _ V2 _ Premium Base _ deep moss bed",
+      "metallic": 0.0,
+      "smoothness": 0.07999998331069946,
+      "emission": [
+        0.003600000062584874,
+        0.000959999986886978,
+        0.005599999898672103
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Darkness _ V2 _ Premium Growth _ vivid moss",
+      "metallic": 0.0,
+      "smoothness": 0.12000000476837158,
+      "emission": [
+        0.007999999940395353,
+        0.001999999985098838,
+        0.012799999427795417
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Darkness _ V2 _ Premium Growth _ emerald leaves",
+      "metallic": 0.0,
+      "smoothness": 0.24000000953674316,
+      "emission": [
+        0.015999999880790705,
+        0.003199999856948854,
+        0.024799999636411663
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Darkness _ V2 _ Premium Growth _ fresh leaves",
+      "metallic": 0.0,
+      "smoothness": 0.2900000214576721,
+      "emission": [
+        0.027199999678134912,
+        0.005599999898672103,
+        0.03999999910593033
+      ],
+      "unlit": false
+    },
+    {
+      "name": "Darkness _ V2 _ Premium Growth _ lime tips",
+      "metallic": 0.0,
+      "smoothness": 0.3199999928474426,
+      "emission": [
+        0.04639999762773517,
+        0.013599999839067456,
+        0.062399996316433004
+      ],
+      "unlit": false
+    }
+  ]
+}
