@@ -1,0 +1,117 @@
+# Adrien — Światło, które wskazało drogę
+
+*Riftoryn · Aurel i górski szlak · Końcowa faza Wojny Siedmiu Bram*
+
+## Rozdział I — Dwie linie światła
+
+Pierwszy prototyp wskazywał drogę z odległości, na której człowiek przestawał już być człowiekiem, a stawał się plamą na zboczu.
+
+Sprawdziłem to trzykrotnie. Poprosiłem ucznia z warsztatu, żeby stanął przy kamiennej ścianie za placem, i kazałem mu cofać się, dopóki nie przestanę widzieć jego twarzy. Potem włączyłem sygnalizator.
+
+Dwie wąskie linie przecięły kurz. Uczeń podniósł rękę.
+
+— Widzę! — krzyknął.
+
+Nie słyszałem go z tej odległości, ale poruszał ustami w sposób sugerujący nadmierny entuzjazm. Wystarczyło. Zapisałem wynik.
+
+Kryształ wewnątrz przyrządu był naładowany wcześniej. Nie potrafię przekazać mu energii tak jak mag; potrafię za to zaprojektować układ, który ją pobierze i skieruje tam, gdzie jest potrzebna. Dwie przesłony rozdzielały światło na sygnały. Jedna linia oznaczała drogę otwartą, dwie — zatrzymanie.
+
+Proste. O ile wie się, jak zbudować przesłony.
+
+Dowództwo potrzebowało czegoś, co pozwoli prowadzić wozy przez zadymione przełęcze. Latarnię zasłaniał dym, chorągiewki znikały w ciemności, a krzyk docierał za późno. Mój przyrząd mieścił się w skrzyni, którą dwóch ludzi mogło ustawić przy drodze.
+
+Oficer, któremu go pokazałem, spytał, ile czasu potrzebuję na wykonanie kolejnych.
+
+Nie spytał, jak działają przesłony.
+
+— Najpierw próba na nierównym podłożu — odezwała się techniczka stojąca przy stole.
+
+Nazywała się Lena. Znała każdy warsztatowy przyrząd i uważała, że to wystarczający powód, by dotykać również moich.
+
+Wskazała paznokciem mocowanie kryształu.
+
+— Tu pracuje za mocno. Przy wstrząsach może puścić.
+
+— Przy niewłaściwym ustawieniu — poprawiłem ją. — Prototyp spadł na bok, kiedy go przenoszono.
+
+— Wóz na górskiej drodze też nie będzie stał na stole.
+
+Wziąłem mocowanie do ręki. Istotnie, przy krawędzi widniała cienka kreska. Kazałem uczniowi przynieść nowe i wymieniłem część. Później sprawdziłem sygnał raz jeszcze. Działał.
+
+— Próba w terenie? — spytała Lena.
+
+— Po dostarczeniu.
+
+Oficer spojrzał na mapę rozłożoną pod oknem. Na jednej z dróg ktoś zaznaczył czarnym tuszem przerwany odcinek.
+
+— Konwój rusza jutro — powiedział.
+
+Można było go zatrzymać. Można też było wysłać go bez sygnału. Żadna z tych decyzji nie należała do mnie, co uznałem za wygodne.
+
+Podpisałem dopuszczenie urządzenia. Lena nie podpisała protokołu próby terenowej. Tej próby nie było.
+
+## Rozdział II — Droga zamknięta
+
+O awarii dowiedziałem się dwa dni później.
+
+Rozszczepiony sygnał pojawił się na zboczu, kiedy przewodnik prowadził wóz na rozwidleniu. Zobaczył linię wskazującą przejazd. Fragment drogi był już zamknięty po osunięciu kamieni, ale wiadomość o tym nie dotarła do całego konwoju.
+
+Pojechałem z ekipą odzyskać przyrząd. Zabrałem narzędzia, zapasowe mocowanie i notatnik. O zapasowym mocowaniu pomyślałem jeszcze w drzwiach, więc musiałem wrócić na piętro.
+
+Urządzenie leżało przy prowizorycznym stanowisku. Skrzynia nie była rozbita. Odkręciłem obudowę i zobaczyłem pęknięty uchwyt. Kryształ przesunął się pod niewielkim kątem; jedna z przesłon nie zasłaniała już całej wiązki.
+
+Narysowałem jego położenie. Zmierzyłem odległość między końcem uchwytu a śrubą. Na jednym z ramion mocowania znalazłem ślad, który Lena zaznaczyła przed wymianą. Nowa część pękła w tym samym miejscu.
+
+Zapytałem, gdzie jest przewodnik, ponieważ chciałem ustalić, co dokładnie widział.
+
+Jeden z ludzi przy drodze przestał zwijać linę.
+
+— Na dole — powiedział.
+
+Zrozumiałem, że wóz zsunął się ze zbocza. Nie zrozumiałem, dlaczego nikt go jeszcze nie sprowadził.
+
+— Muszę z nim porozmawiać.
+
+Mężczyzna podniósł wzrok.
+
+— Nie porozmawiasz.
+
+W notatniku miałem już trzy pomiary i rysunek mocowania. Pod nimi napisałem: *Przewodnik zginął.* Nie znałem jego imienia. W raporcie dowiedziałem się go od oficera; w notatniku zostawiłem miejsce na później.
+
+Resztę dnia spędziłem nad przyrządem. Nie mogłem go uruchomić bez wymiany części. Wóz na dole nie nadawał się do naprawy.
+
+## Rozdział III — Raport
+
+W raporcie opisałem usterkę. Napisałem też, że Lena ostrzegała mnie przed naprężeniem, a ja uznałem uszkodzenie za wynik niewłaściwego przenoszenia.
+
+Na końcu dodałem, że dowódca zdecydował o użyciu sygnalizatora przed próbą w terenie. Było to zgodne z prawdą i przez długi czas wydawało mi się najważniejszym zdaniem dokumentu.
+
+Lena przeczytała kopię przy moim stole. Kiedy skończyła, odłożyła kartkę na rysunek nowego mocowania.
+
+— Dobrze, że napisałeś o ostrzeżeniu — powiedziała.
+
+— Nie zamierzałem go ukrywać.
+
+— Wiem. Chcę obejrzeć nowe mocowanie.
+
+Podałem jej projekt. Wskazała miejsce, w którym chciałem wzmocnić uchwyt.
+
+— Tu może być lepiej. A jeśli puści druga strona?
+
+Miałem gotową odpowiedź. Zamiast jej udzielić, odwróciłem kartkę i zacząłem rysować dodatkowe podparcie.
+
+Przez następne tygodnie poprawiałem konstrukcję. Lena sprawdzała ją na stole, potem na skrzyni przywiązanej do wozu. Jedna próba skończyła się pęknięciem śruby. Zaznaczyła je czerwonym ołówkiem i wróciła z nową listą uwag.
+
+Nie każda była trafna. Zapisywałem wszystkie.
+
+Dodałem też osobny sygnał, który nie korzystał z tej samej przesłony. Gdy pierwszy układ zawodził, drugi nie wskazywał już drogi. Nakazywał zatrzymanie.
+
+Lena zapytała, czy chcę, żeby przed kolejnym użyciem obejrzał go ktoś spoza warsztatu. Powiedziałem, że tak. Nie dlatego, że obca osoba zrozumie mój projekt lepiej ode mnie. Po prostu będzie mogła sprawdzić miejsce, które ja uznam za niewarte sprawdzania.
+
+Wróciłem potem do notatnika z wyprawy. Pod pomiarami wciąż było puste miejsce.
+
+Wpisałem imię przewodnika z raportu.
+
+Przyglądałem mu się przez chwilę. Nie wiedziałem, co robił przed wojną ani kto czekał, aż wróci. Nie wiedziałem nawet, czy umiał naprawić koło własnego wozu. Miałem jego imię, kilka pomiarów i urządzenie, którego nie powinienem był dopuścić bez kolejnej próby.
+
+Zamknąłem notatnik. Następnego dnia czekał nas test na drodze.
