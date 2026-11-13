@@ -1,6 +1,7 @@
 (() => {
   "use strict";
-  const base = new URL("../Assets/Resources/SailaStory/", document.currentScript.src);
+  const storyFolder = document.currentScript.dataset.story === "awakening" ? "SailaAwakening" : "SailaStory";
+  const base = new URL(`../Assets/Resources/${storyFolder}/`, document.currentScript.src);
   const nav = document.getElementById("story-nav");
   const container = document.getElementById("story-chapters");
   const make = (tag, text, className) => {

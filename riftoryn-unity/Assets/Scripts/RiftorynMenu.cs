@@ -99,8 +99,8 @@ public partial class RiftorynMenu : MonoBehaviour {
         bool small=Screen.width<1000||Screen.height<600;Rect entry=new(1105,483,425,small?64:42);bool open;
         if(small){Fill(entry,gold);var entryStyle=new GUIStyle(button){fontSize=23,alignment=TextAnchor.MiddleCenter};open=GUI.Button(entry,StoryButtonLabel(hero.id),entryStyle);}else open=Click(entry,StoryButtonLabel(hero.id),true);
         if(open){storyOpen=true;selectedComic=0;storyZoom=1f;storyScroll=Vector2.zero;comicListScroll=Vector2.zero;}
-        if(hero.id=="saila" && Click(new Rect(1105,small?815:795,425,35),RiftorynCodexData.Text("CZYTAJ MINIOPOWIEŚĆ  →","READ THE STORY (PL)  →"),true)){sailaReaderOpen=true;sailaChapter=0;sailaScroll=Vector2.zero;}
-        Rect detail=new(1105,small?557:535,425,hero.id=="saila"?(small?245:250):(small?263:285));detailScroll=GUI.BeginScrollView(detail,detailScroll,new Rect(0,0,395,900));float y=0;
+        if(hero.id=="saila"){if(Click(new Rect(1105,small?775:755,425,32),"CIĘŻAR KRYSZTAŁU  →",true))OpenSailaStory(false);if(Click(new Rect(1105,small?812:792,425,32),"GDY WIEŻA ZAMILKŁA  →",true))OpenSailaStory(true);}
+        Rect detail=new(1105,small?557:535,425,hero.id=="saila"?(small?210:210):(small?263:285));detailScroll=GUI.BeginScrollView(detail,detailScroll,new Rect(0,0,395,900));float y=0;
         Text(new Rect(0,y,380,56),hero.desc,mutedText);y+=62;
         if(hero.hp>0){Text(new Rect(0,y,380,26),RiftorynL10n.Format("HP  {0}     PRĘDKOŚĆ  {1}     ODNOWIENIE  {2} s",hero.hp,RiftorynL10n.Number(hero.speed),hero.cd),heroBadge);y+=42;}
         DrawPassives(hero,ref y);

@@ -5,3 +5,7 @@ Tekst, kolejność rozdziałów i ilustracji oraz opisy alternatywne są w `Asse
 Po zmianie uruchom `python -m unittest discover -s tests`, sprawdź Unity i opublikuj stronę. Strona po wdrożeniu pobiera aktualny JSON; istniejący build Unity zawiera zasoby z chwili jego zbudowania, więc po zmianie zasobów potrzebuje nowego builda.
 
 Wspólne źródło obejmuje opowieść Saily. Pozostałe sekcje starszego prototypu HTML mają osobne dane i zasoby; nie zakładaj ich synchronizacji z Unity.
+
+## Gdy wieża zamilkła
+
+Druga opowieść korzysta z `Assets/Resources/SailaAwakening/story.json` i ilustracji z tego samego katalogu. HTML `saila-gdy-wieza-zamilkla.html` i czytnik w Unity pobierają te same rozdziały oraz obrazy. Wersja robocza zawiera trzy zatwierdzone ilustracje (01, 05 i 07); pozostałe trzy zostaną dodane po ich przygotowaniu. Tekst roboczy znajduje się także w `RIFTORYN_SAILA_ODBLOKOWANIE_OPOWIESC_DRAFT.md`.

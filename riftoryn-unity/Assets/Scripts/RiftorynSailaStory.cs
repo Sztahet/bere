@@ -11,11 +11,19 @@ public partial class RiftorynMenu
     int sailaChapter;
     Vector2 sailaScroll;
     SailaStoryData sailaStory;
+    string sailaStoryFolder="SailaStory", sailaStoryTitle="CIĘŻAR KRYSZTAŁU";
+
+    void OpenSailaStory(bool awakening)
+    {
+        sailaStoryFolder=awakening?"SailaAwakening":"SailaStory";
+        sailaStoryTitle=awakening?"GDY WIEŻA ZAMILKŁA":"CIĘŻAR KRYSZTAŁU";
+        sailaStory=null;sailaReaderOpen=true;sailaChapter=0;sailaScroll=Vector2.zero;
+    }
     GUIStyle sailaTitle, sailaBody, sailaSmall, sailaButton;
 
     void DrawSailaReader()
     {
-        if(sailaStory==null){var asset=Resources.Load<TextAsset>("SailaStory/story");if(asset)sailaStory=JsonUtility.FromJson<SailaStoryData>(asset.text);}
+        if(sailaStory==null){var asset=Resources.Load<TextAsset>(sailaStoryFolder+"/story");if(asset)sailaStory=JsonUtility.FromJson<SailaStoryData>(asset.text);}
         float w=Screen.width,h=Screen.height;
         Fill(new Rect(0,0,w,h),bg);
         if(sailaTitle==null){sailaTitle=Style(27,FontStyle.Bold,pale,true);sailaBody=Style(19,FontStyle.Normal,pale,true);sailaSmall=Style(13,FontStyle.Bold,gold,true);sailaButton=new GUIStyle(GUI.skin.button){fontSize=14};}
@@ -24,7 +32,7 @@ public partial class RiftorynMenu
         float right=w-pad;
         if(GUI.Button(new Rect(right-44,8,44,bar-10),"→",sailaButton) && sailaStory!=null && sailaChapter<sailaStory.chapters.Length-1){sailaChapter++;sailaScroll=Vector2.zero;}
         if(GUI.Button(new Rect(right-94,8,44,bar-10),"←",sailaButton) && sailaChapter>0){sailaChapter--;sailaScroll=Vector2.zero;}
-        GUI.Label(new Rect(pad+120,15,Mathf.Max(30,w-pad*2-230),25),"SAILA  /  CIĘŻAR KRYSZTAŁU",sailaSmall);
+        GUI.Label(new Rect(pad+120,15,Mathf.Max(30,w-pad*2-230),25),"SAILA  /  "+sailaStoryTitle,sailaSmall);
         if(sailaStory==null||sailaStory.chapters==null||sailaStory.chapters.Length==0){GUI.Label(new Rect(pad,70,w-pad*2,60),"Nie udało się wczytać opowieści.",sailaBody);return;}
         var chapter=sailaStory.chapters[Mathf.Clamp(sailaChapter,0,sailaStory.chapters.Length-1)];
         float width=Mathf.Min(780,w-pad*2-20), viewHeight=Mathf.Max(20,h-65), y=75;
@@ -39,7 +47,7 @@ public partial class RiftorynMenu
         GUI.Label(new Rect(inner,30,width,45),chapter.title,sailaTitle);
         foreach(var block in chapter.blocks)
         {
-            if(block.image>0){var image=Resources.Load<Texture2D>("SailaStory/"+block.image.ToString("00"));float height=width*2f/3f;if(image)GUI.DrawTexture(new Rect(inner,y,width,height),image,ScaleMode.ScaleToFit);y+=height+32;}
+            if(block.image>0){var image=Resources.Load<Texture2D>(sailaStoryFolder+"/"+block.image.ToString("00"));float height=width*2f/3f;if(image)GUI.DrawTexture(new Rect(inner,y,width,height),image,ScaleMode.ScaleToFit);y+=height+32;}
             else{string text=block.text??"";float height=sailaBody.CalcHeight(new GUIContent(text),width);GUI.Label(new Rect(inner,y,width,height+3),text,sailaBody);y+=height+22;}
         }
         GUI.Label(new Rect(inner,y,width,30),sailaChapter==sailaStory.chapters.Length-1?"✦  KONIEC OPOWIEŚCI":"✦  KOLEJNY ROZDZIAŁ: STRZAŁKA U GÓRY",sailaSmall);
