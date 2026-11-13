@@ -485,8 +485,7 @@
         },
         {
           "image": 7,
-          "alt": "Ruvan dokłada drewna do pieca, a Saila zostaje przy stole.",
-          "pending": true
+          "alt": "Ruvan dokłada drewna do paleniska. Saila siedzi przy stole z miską zupy."
         },
         {
           "text": "Przez następne dni nie wracał do listu. W magazynie obejrzał z opiekunką zapasową komorę. Pożyczył strażnikowi swoją linkę, kiedy ten poszedł poprawiać słupek nad strumieniem. Wieczorami czytałam książkę, a on w milczeniu cerował płaszcz po drugiej stronie stołu."
@@ -577,7 +576,8 @@
         {
           "image": 8,
           "alt": "Saila i Ruvan schodzą obok siebie szlakiem do posterunku.",
-          "pending": true
+          "width": 1535,
+          "height": 1024
         }
       ]
     }

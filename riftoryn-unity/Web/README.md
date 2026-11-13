@@ -14,4 +14,4 @@ Druga opowieść korzysta z `Assets/Resources/SailaAwakening/story.json` i ilust
 
 ## To, czego nie nauczył mnie Ruvan
 
-Finał korzysta z `Assets/Resources/SailaFinale/story.json`. Kadry `01.jpg`–`06.jpg` są w tekście, a kadr 04 jest również okładką strony. W rozdziałach VI i VII wpisy ilustracji 07 i 08 mają pole `"pending": true`, więc czytniki je pomijają. Po dodaniu odpowiedniego JPG do tego katalogu usuń pole `pending` z jego wpisu. Przy proporcjach innych niż 3:2 dopisz szerokość i wysokość w polach `width` i `height`. [Opisy scen i miejsca w tekście](../../RIFTORYN_SAILA_FINAL_PROMPTY_ILUSTRACJE.md).
+Finał korzysta z `Assets/Resources/SailaFinale/story.json`. Wszystkie osiem kadrów jest w tekście, a kadr 04 jest również okładką strony. [Opisy scen i miejsca w tekście](../../RIFTORYN_SAILA_FINAL_PROMPTY_ILUSTRACJE.md).

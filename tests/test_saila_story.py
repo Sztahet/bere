@@ -57,14 +57,8 @@ class SailaStoryTests(unittest.TestCase):
         self.assertIn('data-story="awakening"', page)
         self.assertIn('Propozycja literacka', page)
 
-    def test_finale_shared_story_and_reserved_art(self):
-        self.check_shared_story('SailaFinale', 'RIFTORYN_SAILA_TO_CZEGO_NIE_NAUCZYL_MNIE_RUVAN.md', [1, 2, 3, 4, 5, 6])
-        data = json.loads((RESOURCES / 'SailaFinale/story.json').read_text(encoding='utf-8'))
-        self.assertEqual(
-            [(number, block['image']) for number, chapter in enumerate(data['chapters'], 1)
-             for block in chapter['blocks'] if block.get('pending')],
-            [(6, 7), (7, 8)],
-        )
+    def test_finale_shared_story_and_illustrations(self):
+        self.check_shared_story('SailaFinale', 'RIFTORYN_SAILA_TO_CZEGO_NIE_NAUCZYL_MNIE_RUVAN.md', list(range(1, 9)))
         filename = 'saila-to-czego-nie-nauczyl-mnie-ruvan.html'
         self.assertIn(f'href="{filename}"', (ROOT / 'saila-gdy-wieza-zamilkla.html').read_text(encoding='utf-8'))
         self.assertIn('data-story="finale"', (ROOT / filename).read_text(encoding='utf-8'))
