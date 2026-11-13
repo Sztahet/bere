@@ -1,6 +1,10 @@
 (() => {
   "use strict";
-  const storyFolder = document.currentScript.dataset.story === "awakening" ? "SailaAwakening" : "SailaStory";
+  const storyFolders = new Map([
+    ["awakening", "SailaAwakening"],
+    ["finale", "SailaFinale"]
+  ]);
+  const storyFolder = storyFolders.get(document.currentScript.dataset.story) ?? "SailaStory";
   const base = new URL(`../Assets/Resources/${storyFolder}/`, document.currentScript.src);
   const nav = document.getElementById("story-nav");
   const container = document.getElementById("story-chapters");
@@ -25,6 +29,7 @@
         heading.append(make("span", `ROZDZIAŁ ${number}`), make("h2", title));
         const prose = make("div", null, "prose");
         chapter.blocks.forEach(block => {
+          if (block.pending) return;
           if (block.image > 0) {
             const figure = make("figure");
             const image = make("img");

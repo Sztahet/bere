@@ -12,13 +12,15 @@ class SailaStoryTests(unittest.TestCase):
         resource = RESOURCES / folder
         story = json.loads((resource / 'story.json').read_text(encoding='utf-8-sig'))
         draft = (ROOT / draft_name).read_text(encoding='utf-8-sig')
-        source_chapters = re.split(r'(?m)^## (?=\d+\. )', draft)[1:]
+        source_chapters = re.split(r'(?m)^## (?:Rozdział [IVX]+ — |(?=\d+\. ))', draft)[1:]
         chapters = story['chapters']
         self.assertEqual(len(chapters), 7)
         self.assertEqual(len(source_chapters), 7)
         images = []
-        for chapter, source in zip(chapters, source_chapters):
+        for number, (chapter, source) in enumerate(zip(chapters, source_chapters), 1):
             title, body = source.split('\n', 1)
+            if not re.match(r'^\d+\. ', title):
+                title = f'{number}. {title}'
             self.assertEqual(chapter['title'], title)
             body = body.split('\n### ', 1)[0]
             paragraphs = [p.strip() for p in re.split(r'\n\s*\n', body.strip())
@@ -27,6 +29,8 @@ class SailaStoryTests(unittest.TestCase):
             for block in chapter['blocks']:
                 if 'image' in block:
                     self.assertTrue(block.get('alt'))
+                    if block.get('pending'):
+                        continue
                     images.append(block['image'])
                     self.assertTrue((resource / f"{block['image']:02}.jpg").is_file())
                 else:
@@ -52,6 +56,18 @@ class SailaStoryTests(unittest.TestCase):
         page = (ROOT / 'saila-gdy-wieza-zamilkla.html').read_text(encoding='utf-8')
         self.assertIn('data-story="awakening"', page)
         self.assertIn('Propozycja literacka', page)
+
+    def test_finale_shared_story_and_reserved_art(self):
+        self.check_shared_story('SailaFinale', 'RIFTORYN_SAILA_TO_CZEGO_NIE_NAUCZYL_MNIE_RUVAN.md', [1, 2, 3, 4])
+        data = json.loads((RESOURCES / 'SailaFinale/story.json').read_text(encoding='utf-8'))
+        self.assertEqual(
+            [(number, block['image']) for number, chapter in enumerate(data['chapters'], 1)
+             for block in chapter['blocks'] if block.get('pending')],
+            [(4, 5), (5, 6), (6, 7), (7, 8)],
+        )
+        filename = 'saila-to-czego-nie-nauczyl-mnie-ruvan.html'
+        self.assertIn(f'href="{filename}"', (ROOT / 'saila-gdy-wieza-zamilkla.html').read_text(encoding='utf-8'))
+        self.assertIn('data-story="finale"', (ROOT / filename).read_text(encoding='utf-8'))
 
 
 if __name__ == '__main__':

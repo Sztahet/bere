@@ -11,3 +11,7 @@ Wspólne źródło obejmuje opowieść Saily. Pozostałe sekcje starszego protot
 ## Gdy wieża zamilkła
 
 Druga opowieść korzysta z `Assets/Resources/SailaAwakening/story.json` i ilustracji z tego samego katalogu. HTML `saila-gdy-wieza-zamilkla.html` i czytnik w Unity pobierają te same rozdziały oraz obrazy. Wersja robocza zawiera sześć ilustracji (01, 02, 04, 05, 06 i 07); numery zachowują oznaczenia scen z pierwotnego planu. Tekst roboczy znajduje się także w `RIFTORYN_SAILA_ODBLOKOWANIE_OPOWIESC_DRAFT.md`.
+
+## To, czego nie nauczył mnie Ruvan
+
+Finał korzysta z `Assets/Resources/SailaFinale/story.json`. Kadry `01.jpg`–`04.jpg` są w tekście, a kadr 04 jest również okładką strony. W rozdziałach IV–VII wpisy ilustracji 05–08 mają pole `"pending": true`, więc czytniki je pomijają. Po dodaniu odpowiedniego JPG do tego katalogu usuń pole `pending` z jego wpisu. Przy proporcjach innych niż 3:2 dopisz szerokość i wysokość w polach `width` i `height`. [Opisy scen i miejsca w tekście](../../RIFTORYN_SAILA_FINAL_PROMPTY_ILUSTRACJE.md).
