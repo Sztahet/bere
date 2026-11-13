@@ -43,6 +43,8 @@ Filary: budowanie trwałej obrony, zręcznościowa ucieczka, zespołowe decyzje,
 
 [USTALONE — FABUŁA] Championi zgłaszają się po stronie jednego z dwóch wariantów zarządzania. Każda strona wybiera składy finałowe na podstawie serii testów taktyki, wykonania zadań i współpracy. Najemnicy przechodzą te same kwalifikacje. Obok jawnych kontraktów zdarzają się zakulisowe oferty pieniędzy za wystąpienie po wybranej stronie. [OTWARTE] Format i punktacja kwalifikacji.
 
+[USTALONE — CHRONOLOGIA] Kwalifikacje rozpoczynają się 29 maja 12 ET. Seria właściwych rozgrywek ma rozpocząć się w lipcu i potrwać kilka miesięcy; dokładny termin zakończenia pozostaje otwarty.
+
 [USTALONE — FABUŁA] Finał Wielkich Igrzysk 12 ET obejmuje serię meczów wielu drużyn. Zakwalifikowani uczestnicy rejestrują, kogo reprezentują i na rzecz którego wariantu zarządzania liczą się ich punkty. Podział punktów drużyn mieszanych uzgadnia się przed startem. Pochodzenie i żywioł nie narzucają reprezentacji. Punkty uzyskane w meczach są przypisywane reprezentowanym stronom i sumowane dla obu wariantów, bez podwójnego liczenia.
 
 [USTALONE — FABUŁA] Obie strony ogłaszają programy i konkretne obietnice dla krain; reprezentanci dowolnej krainy mogą wesprzeć dowolną stronę i wybraną obietnicę. Wynik serii wybiera wariant zarządzania; wyniki indywidualne, drużyn i krain wpływają na kolejność realizacji obietnic. [OTWARTE] Sposób przeliczania wyników na kolejność, remisy, finansowanie, zakres wiążących obietnic i los programu przegranej strony. Chronione dostawy i ratownictwo obowiązują niezależnie od kolejności inwestycji.

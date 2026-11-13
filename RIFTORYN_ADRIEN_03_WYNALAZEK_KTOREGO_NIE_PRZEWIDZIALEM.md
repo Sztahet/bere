@@ -178,13 +178,25 @@ Zatrzymała się przy drzwiach.
 
 **20 kwietnia, 12 ET · wieczór**
 
-Wiadomość o Wielkich Igrzyskach dotarła na uniwersytet tego samego popołudnia. Przyniesiono ogłoszenie i zaczęto dyskutować, kto pojedzie do Val Meris, kto będzie reprezentował czyją sprawę i czy wynik powstrzyma kolejny konflikt.
+W końcu potwierdzono termin Wielkich Igrzysk. Kwalifikacje zaczną się 29 maja, a na serię właściwych rozgrywek od lipca organizatorzy planują kilka miesięcy. Na uniwersytecie od razu zaczęto dyskutować, kto pojedzie do Val Meris, czyją sprawę będzie reprezentował i czy wynik powstrzyma kolejny konflikt.
 
-Przez lata odmawiałem udziału w zawodach. Tłum ludzi obserwujących, jak ktoś trafia w cel albo zostaje trafiony, nie wydawał mi się dobrym sposobem spędzania czasu.
+Do mnie przysłano list. Zaproponowano mi udział w przygotowaniach jako konsultantowi. Konsultantowi!
 
-Te Igrzyska przyciągną jednak przedstawicieli wszystkich krain.
+Mam obejrzeć cudze projekty i powiedzieć, czy wieże nie rozpadną się po pierwszym uruchomieniu. Tymczasem ktoś inny będzie decydował, jak je zbudować. Zapewne potem dowiem się, że moje uwagi są bardzo cenne i zostaną rozważone, gdy skończą bez nich.
 
-Lena znalazła mnie nad formularzem zgłoszenia.
+Przez lata odmawiałem startu w zawodach. Przejście przez labirynt pod ostrzałem wież, a potem bronienie go przed drużyną przeciwną to wprawdzie coś więcej niż machanie bronią przed publicznością. Nadal jednak uważałem, że mam lepsze zajęcia niż bieganie po arenie i poprawianie cudzych błędów.
+
+Ale te Igrzyska obejrzą przedstawiciele wszystkich krain. Skoro organizatorzy chcą poznać moją opinię o swoich wieżach, mogę im ją pokazać. Na ich własnej arenie.
+
+Na odwrocie listu naszkicowałem dwa przenośne przyrządy. Jeden mógłby stabilizować pracę sojuszniczej wieży, drugi — zakłócać działanie mechanizmu przeciwnika. W obu potrzebuję odpowiednio dostrojonego kryształu i sposobu bezpiecznego prowadzenia energii. Na razie mam tylko szkice; zanim cokolwiek uruchomię, trzeba będzie sprawdzić konstrukcję i zasady dopuszczania urządzeń.
+
+Właśnie zastanawiałem się nad mocowaniem drugiego, kiedy Lena zajrzała mi przez ramię.
+
+— To odpowiedź na zaproszenie? — spytała.
+
+— Jeszcze nie.
+
+Rozłożyłem obok formularz zgłoszenia.
 
 — Chcesz pomóc rozwiązać spór? — spytała.
 
@@ -192,7 +204,7 @@ Lena znalazła mnie nad formularzem zgłoszenia.
 
 — To dużo prostsza odpowiedź.
 
-Wpisałem swoje imię. Znałem swoje możliwości, co w mojej ocenie stanowiło dobry początek.
+Wpisałem swoje imię. Znałem swoje możliwości, co w mojej ocenie stanowiło dobry początek. Przyrządy trzeba jeszcze zbudować — i zdobyć do nich naładowane kryształy. Szczegóły.
 
 Potem napisałem do Miko. Poinformowałem go o zgłoszeniu, wynikach próby i konieczności poprawienia śruby. Nie wspomniałem, że jego wynik wciąż mnie drażni. Nie było potrzeby utrwalać tego w korespondencji.
 

@@ -286,6 +286,8 @@ Konkretne projekty obu stron dla siedmiu krain i Val Meris, wraz z ich kosztami 
 
 ### Zgłoszenia i kwalifikacje
 
+Kwalifikacje do Wielkich Igrzysk 12 ET rozpoczynają się **29 maja 12 ET**. Właściwą serię rozgrywek zaplanowano od lipca na kilka miesięcy; dokładny termin zakończenia zależy od harmonogramu i ewentualnych dodatkowych meczów. Daty nie przesądzają, kto wystartuje ani jaki będzie wynik.
+
 Chętni championi zgłaszają się do Wielkich Igrzysk po stronie jednego z dwóch wariantów zarządzania. Przed naborem Urząd Prób ogłasza zasady kwalifikacji. Kandydaci przechodzą serię testów sprawdzających znajomość taktyki, wykonanie zadań i współpracę w drużynie. Na podstawie wyników każda strona wybiera najlepszych kandydatów do swoich składów finałowych. Właściwą klasyfikację Igrzysk rozlicza się od początku serii finałowej.
 
 Obie strony mogą zatrudniać najemników. Zdarza się również przekupywanie championów za kulisami: pieniądze lub obietnica lepszego kontraktu mogą skłonić zawodnika do zgłoszenia się po stronie, której wcześniej nie zamierzał poprzeć. Najemnicy przechodzą te same kwalifikacje co pozostali kandydaci. W składach finałowych obowiązuje zarejestrowana reprezentacja i wcześniej ustalony podział punktów.

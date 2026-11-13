@@ -46,7 +46,7 @@ Przykładowa scena, w jego głosie:
 >
 > Nie zmienia to faktu, że miał szczęście.
 
-Wieści o Wielkich Igrzyskach docierają do uniwersytetu. Adrien zgłasza się dla sławy i potwierdzenia własnego geniuszu. Trylogia kończy się na decyzji o starcie, bez opisywania kwalifikacji i dalszych wydarzeń. Spotkanie z Sailą można rozwinąć dopiero podczas Igrzysk. Zainteresuje go efekt jej zdolności, lecz jego pomiary nie muszą wyjaśnić jej źródła.
+W 12 ET potwierdzono termin kwalifikacji: 29 maja; serię właściwych rozgrywek zaplanowano od lipca na kilka miesięcy. Organizatorzy proponują Adrienowi rolę konsultanta, lecz nie powierzają mu kierowania przygotowaniami. Urażony konstruktor chce dowieść swojej wartości na arenie i szkicuje przenośne urządzenia do wspierania sojuszniczych oraz zakłócania przeciwnych wież. Ich wykonanie, dopuszczenie i skuteczność nie są jeszcze przesądzone. Zgłasza się także dla sławy i potwierdzenia własnego geniuszu. Trylogia kończy się na decyzji o starcie, bez opisywania przebiegu kwalifikacji i dalszych wydarzeń. Spotkanie z Sailą można rozwinąć dopiero podczas Igrzysk. Zainteresuje go efekt jej zdolności, lecz jego pomiary nie muszą wyjaśnić jej źródła.
 
 ## Głos i relacje
 
