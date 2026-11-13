@@ -2,7 +2,7 @@
 
 **Status:** wersja literacka; nie ustanawia nowych faktów kanonu.
 **Miejsce w osi czasu:** Nivoren, późna jesień 11 ET.
-**Ilustracje:** sześć w czytniku, dwie sceny czekają na nowe kadry. [Prompty do podmiany](RIFTORYN_SAILA_PROMPTY_AKTUALIZACJA.md).
+**Ilustracje:** osiem w czytniku. [Prompty do ilustracji](RIFTORYN_SAILA_PROMPTY_AKTUALIZACJA.md).
 
 ---
 
@@ -440,7 +440,7 @@ Nie były bardzo ciężkie. Normalnie zajęłoby mi to niewiele czasu. Tego dnia
 
 Gdy skończyłam, usiadłam na podłodze między regałami.
 
-**[MIEJSCE NA ILUSTRACJĘ 6 — oczekuje na nowy kadr: Wyczerpana Saila siedzi sama na podłodze magazynu po przeniesieniu skrzyń.]**
+**[MIEJSCE NA ILUSTRACJĘ 6 — Wyczerpana Saila siedzi sama na podłodze magazynu po przeniesieniu skrzyń.]**
 
 Przez kilka minut patrzyłam przed siebie.
 
@@ -632,7 +632,7 @@ Bałam się, że ktoś znowu zapuka.
 
 Położyłam się i zamknęłam oczy.
 
-**[MIEJSCE NA ILUSTRACJĘ 8 — oczekuje na nowy kadr: Saila leży w zapiętym płaszczu w zimnym pokoju; palenisko jest wygaszone.]**
+**[MIEJSCE NA ILUSTRACJĘ 8 — Saila leży w zapiętym płaszczu w zimnym pokoju. Obok łóżka stoją buty, a palenisko jest wygaszone.]**
 
 Nie marzyłam już o dalekich podróżach, wielkich odkryciach ani o zostaniu potężnym magiem.
 

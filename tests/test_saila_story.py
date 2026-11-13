@@ -34,7 +34,7 @@ class SailaStoryTests(unittest.TestCase):
         self.assertEqual(images, expected_images)
 
     def test_shared_content_and_illustrations(self):
-        self.check_shared_story('SailaStory', 'RIFTORYN_SAILA_MINIKSIAZKA_PROPOZYCJA.md', [1, 2, 3, 7, 4, 5])
+        self.check_shared_story('SailaStory', 'RIFTORYN_SAILA_MINIKSIAZKA_PROPOZYCJA.md', [1, 2, 3, 7, 4, 5, 6, 8])
 
     def test_html_reads_unity_story_without_copying_it(self):
         page = (ROOT / 'saila-opowiesc.html').read_text(encoding='utf-8-sig')

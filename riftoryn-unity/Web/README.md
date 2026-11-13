@@ -2,7 +2,7 @@
 
 Tekst, kolejność rozdziałów i ilustracji oraz opisy alternatywne są w `Assets/Resources/SailaStory/story.json`. Ilustracje `01.jpg`–`08.jpg` w tym samym katalogu są wspólne dla gry i strony. Edytuj te pliki, aby zmienić opublikowaną opowieść; `saila-opowiesc.html` jest tylko szkieletem czytnika. Kod i style strony są w `riftoryn-unity/Web/`. Plik `RIFTORYN_SAILA_MINIKSIAZKA_PROPOZYCJA.md` jest literackim szkicem, nie źródłem czytników — po zmianach tekstu należy świadomie zadbać o jego aktualność.
 
-W „Ciężarze kryształu” kadr 07 jest w rozdziale III, a poprzednie 06 i 08 pozostają poza składem do czasu podmiany. Miejsca wstawienia nowych obrazów zaznaczono w szkicu literackim. [Prompty i nazwy plików](../../RIFTORYN_SAILA_PROMPTY_AKTUALIZACJA.md).
+W „Ciężarze kryształu” kadr 07 jest w rozdziale III, a nowe kadry 06 i 08 są odpowiednio w rozdziałach VI i VII. [Prompty i nazwy plików](../../RIFTORYN_SAILA_PROMPTY_AKTUALIZACJA.md).
 
 Po zmianie uruchom `python -m unittest discover -s tests`, sprawdź Unity i opublikuj stronę. Strona po wdrożeniu pobiera aktualny JSON; istniejący build Unity zawiera zasoby z chwili jego zbudowania, więc po zmianie zasobów potrzebuje nowego builda.
 

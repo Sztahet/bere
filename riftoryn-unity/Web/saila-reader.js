@@ -31,7 +31,8 @@
             image.src = new URL(`${String(block.image).padStart(2, "0")}.jpg`, base).href;
             image.alt = block.alt || "Ilustracja do opowieści o Saili.";
             image.loading = "lazy";
-            image.width = 1536; image.height = 1024;
+            image.width = block.width ?? 1536;
+            image.height = block.height ?? 1024;
             figure.append(image); prose.append(figure);
           } else if (typeof block.text === "string") prose.append(make("p", block.text));
         });

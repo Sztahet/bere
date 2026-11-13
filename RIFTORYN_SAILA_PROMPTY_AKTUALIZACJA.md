@@ -1,6 +1,6 @@
 # Saila — prompty do aktualizacji ilustracji
 
-**Nowe obrazy:** `SailaStory/06.jpg` i `SailaStory/08.jpg`. W obecnej wersji czytnika stare kadry 6 i 8 są wyłączone, bo pokazują sceny z poprzedniego tekstu. Po podmianie plików trzeba ponownie wstawić oba kadry do składu w miejscach zaznaczonych w [opowieści](RIFTORYN_SAILA_MINIKSIAZKA_PROPOZYCJA.md).
+Nowe kadry [06](riftoryn-unity/Assets/Resources/SailaStory/06.jpg) i [08](riftoryn-unity/Assets/Resources/SailaStory/08.jpg) są już w czytniku „Ciężaru kryształu”. Zachowują proporcje dostarczonych obrazów. Poniżej zapisano prompty do tych scen.
 
 **Retusz bez zmiany kadrów:** `SailaAwakening/01.jpg`, `02.jpg`, `04.jpg`, `05.jpg` i `06.jpg`. W tych pięciu plenerach pogłębiamy zimę. Druga część nie potrzebuje żadnej nowej sceny; `03.jpg` nie jest potrzebny, a finałowy [`07.jpg`](riftoryn-unity/Assets/Resources/SailaAwakening/07.jpg) zostaje bez zmian.
 
@@ -10,13 +10,13 @@ Pliki obu części znajdują się w `riftoryn-unity/Assets/Resources/`. Zachowaj
 
 ### `SailaStory/06.jpg` — sama między regałami
 
-**Dołącz:** [obecne 06](riftoryn-unity/Assets/Resources/SailaStory/06.jpg) jako wzór magazynu i [05](riftoryn-unity/Assets/Resources/SailaStory/05.jpg) jako wzór wyglądu Saily. Poproś o nową kompozycję.
+Jako referencji magazynu użyj [kadru 06](riftoryn-unity/Assets/Resources/SailaStory/06.jpg), a jako referencji wyglądu Saily użyj [kadru 05](riftoryn-unity/Assets/Resources/SailaStory/05.jpg).
 
 > Stwórz nową poziomą ilustrację fantasy w malarskim stylu załączonych obrazów. Późne popołudnie w kamiennym magazynie Nivoren. Wyczerpana Saila właśnie skończyła przenosić skrzynie. Siedzi na podłodze pomiędzy wysokimi drewnianymi regałami, z plecami opartymi o słup regału. Jedna dłoń bezwładnie spoczywa na kolanie, druga na posadzce. Patrzy przed siebie; opadnięte ramiona i luźne dłonie pokazują, ile kosztowała ją ta prosta praca. Obok stoją pojedyncze przesunięte skrzynie, w głębi widać wejście do chłodni i słaby błękit jej kryształu. Jedna niewielka lampa oświetla najbliższe drewno i fragment twarzy. Kadr z poziomu siedzącej postaci; puste przejście między regałami powinno wyraźnie pokazywać, że jest sama. W pomieszczeniu nie ma innych ludzi. Saila nie pisze, nie rzuca zaklęcia i pozostaje przytomna.
 
 ### `SailaStory/08.jpg` — zimny pokój nad magazynem
 
-**Dołącz:** [04](riftoryn-unity/Assets/Resources/SailaStory/04.jpg) jako wzór Saily i jej pokoju. Obecne 08 przedstawia inną scenę, więc nie używaj go jako wzoru kompozycji.
+Jako referencji Saily i jej pokoju użyj [kadru 04](riftoryn-unity/Assets/Resources/SailaStory/04.jpg).
 
 > Stwórz nową poziomą ilustrację fantasy w malarskim stylu referencji. Późny wieczór w tym samym skromnym pokoju nad magazynem w Nivoren. Saila leży na boku na wąskim drewnianym łóżku, z zamkniętymi oczami, nadal w zapiętym ciemnogranatowo-fioletowym płaszczu. Zdjęte buty stoją na podłodze obok łóżka. Zasypia w ubraniu, bo zabrakło jej sił, żeby przynieść drewno i rozpalić. W kadrze widać zamknięte drzwi i wygaszone palenisko z szarym popiołem, bez ognia i żaru. Przez okno wpada słabe, chłodne światło odbite od padającego śniegu. Pokaż twarz w półprofilu i bezwładną dłoń na brzegu posłania. Kadr z drugiego końca pokoju, nieruchomy i cichy. Saila jest sama; bez łez, świecącej magii, ciepłego światła i dramatycznej pozy.
 
