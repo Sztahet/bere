@@ -100,7 +100,7 @@ Tym razem coś chciałem sprawdzić szczególnie mocno.
 
 Miko uśmiechnął się, lecz nie puścił skrzynki.
 
-— Jeśli wpiszesz moje nazwisko do wyników.
+— Jeśli wpiszesz moje imię do wyników.
 
 — Oczywiście, że wpiszę. Muszę wiedzieć, kogo obwinić, gdy się rozpadnie.
 
@@ -158,7 +158,7 @@ Miko spytał kiedyś, czy zamierzam sprowadzić do Aurelu burzę. Odpowiedziałe
 
 — Po tym, jak ci ją pokazał.
 
-Zapisałem wyniki. Dodałem nazwisko Miko, zanim przypomniała mi o tym Rian. Po chwili dopisałem jej nazwisko przy uwadze o śrubie i osobno nazwisko Leny przy kontroli mocowań.
+Zapisałem wyniki. Dopisałem imię Miko, zanim przypomniała mi o tym Rian. Po chwili dopisałem jej imię przy uwadze o śrubie i osobno imię Leny przy kontroli mocowań.
 
 Rian odłożyła narzędzia i sięgnęła po płaszcz.
 
@@ -192,7 +192,7 @@ Lena znalazła mnie nad formularzem zgłoszenia.
 
 — To dużo prostsza odpowiedź.
 
-Wpisałem nazwisko. Znałem swoje możliwości, co w mojej ocenie stanowiło dobry początek.
+Wpisałem swoje imię. Znałem swoje możliwości, co w mojej ocenie stanowiło dobry początek.
 
 Potem napisałem do Miko. Poinformowałem go o zgłoszeniu, wynikach próby i konieczności poprawienia śruby. Nie wspomniałem, że jego wynik wciąż mnie drażni. Nie było potrzeby utrwalać tego w korespondencji.
 

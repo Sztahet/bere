@@ -52,4 +52,6 @@ Wieści o Wielkich Igrzyskach docierają do uniwersytetu. Adrien zgłasza się d
 
 Historie Adriena mają formę datowanych zapisów w pierwszej osobie. W notatniku konstruktora obok wyników prób zapisuje rozmowy, własne reakcje i niechętnie przyznawane pomyłki. Używa standardowych nazw miesięcy i dat PT/ET. Rian i Miko mają swoje cele oraz prawo do odmowy. Narrator zna tylko własne myśli i to, co zobaczył lub usłyszał. Trylogie bohaterów kończą się zamiarem startu w Igrzyskach, przed kwalifikacjami i wydarzeniami zawodów.
 
+Postacie występują pod imionami; nie dopisujemy im nazwisk. Jeśli kiedyś będzie trzeba odróżnić osoby o tym samym imieniu, można wskazać ich pochodzenie lub inną czytelną cechę.
+
 Adrien pisze na bieżąco: zamiast chłodnego podsumowania pozwala sobie na irytację, pytania i uwagi o tym, jak cudze decyzje utrudniają mu pracę. Własną odpowiedzialność początkowo opisuje z dystansem; czytelnik dostrzega także to, co Adrien pomija lub usprawiedliwia. Emocje i ewentualne późniejsze wnioski wynikają z tego, co wie w dniu wpisu.

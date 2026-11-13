@@ -92,7 +92,7 @@ Wyszedłem z dwoma problemami, z których jeden był wyraźnie zaznaczony. To by
 
 **11 października, 1 ET**
 
-Dziś przyniosłem poprawiony schemat. Nie pozwolono mi jej go pokazać. Będę więc notował pytania. Na końcu listy dopisałem jej nazwisko i podkreśliłem je dwukrotnie.
+Dziś przyniosłem poprawiony schemat. Nie pozwolono mi jej go pokazać. Będę więc notował pytania. Na końcu listy dopisałem „Rian” i podkreśliłem dwukrotnie.
 
 ## Rozdział III — Wniosek
 
