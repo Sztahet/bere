@@ -352,7 +352,7 @@ Poniższe obrazy codzienności dotyczą konkretnych miejsc i zwyczajów, a nie w
 
 Vareth broni znaczenia warsztatów, pieców i napraw. Część delegatów uważa, że bez silnych dostaw i rozwoju techniki miasta pozostaną bezbronne. Inni, pamiętając o przegrzanych urządzeniach z czasów wojny, promują ręczne zabezpieczenia i możliwość odłączenia pojedynczej wieży od sieci.
 
-Vareth obrabia metale i wytwarza narzędzia, części oraz urządzenia dla innych krain. Wykorzystuje też ciepło wulkanu do ładowania splotytu. Jednym z produktów jest urządzenie cieplne wynalezione w Aurel: mały kryształ splotytu dostrojony do Ognia zasila mechanizm, który powoli oddaje zgromadzoną energię jako ciepło, nawet przez wiele miesięcy przy odpowiednim użyciu. Czas działania zależy od kryształu i sposobu korzystania. Urządzenia można ładować u odbiorcy, lecz kosztuje to znacznie więcej; ładowanie w Vareth jest najtańsze. Dlatego istotną część transportów do Vareth stanowią rozładowane urządzenia wracające do ponownego naładowania, a gotowe wracają do użytkowników.
+Vareth obrabia metale i wytwarza narzędzia, części oraz urządzenia dla innych krain. Wykorzystuje też ciepło wulkanu do ładowania splotytu. Piece grzewcze zasilane kryształem dostrojonym do Ognia znano od dawna. Jako młody konstruktor Adrien z Aurelu ulepszył ich mechanizm tak, by oszczędniej wykorzystywał zgromadzoną energię: tam, gdzie wcześniejszy piec działał przez dni, jego rozwiązanie pozwala małemu kryształowi dostarczać ciepło przez wiele tygodni przy odpowiednim użytkowaniu. Czas działania zależy od ładunku, kryształu, ustawień i warunków; urządzenie nie wytwarza energii samo z siebie. Piece i ich elementy powstają także w Vareth. Kryształy można ładować u odbiorcy, lecz kosztuje to znacznie więcej; ładowanie w Vareth jest najtańsze. Dlatego istotną część transportów do Vareth stanowią rozładowane urządzenia wracające do ponownego naładowania, a gotowe wracają do użytkowników.
 
 **Codzienność i zwyczaje.** W Żarowisku dzień wielu warsztatów zaczyna się od sprawdzenia pieców i przewodów, a kończy wspólnym sprzątaniem stanowisk. W niektórych dzielnicach sąsiedzi przynoszą drobne przedmioty do naprawy przy wygaszanym piecu; za pomoc płacą pieniędzmi, materiałem albo własną pracą.
 
@@ -410,7 +410,7 @@ Kharum wydobywa i dostarcza na kontynent rudy, kamień oraz inne minerały; podc
 
 Aurel porównuje raporty i przechowuje kopie świadectw. Jego archiwa są ważne, lecz nie nieomylne: część danych jest niepełna, a niektóre zapisy wykonano po czasie. Pozostałe krainy żądają kopii poza Aurel i prawa do niezależnego sprawdzania dokumentów.
 
-Aurel jest ośrodkiem wynalazków i badań. Jego wyspecjalizowane wieże oświetlają niektóre szlaki nocą, a wynalezione tu urządzenia cieplne wykorzystują kryształy ładowane między innymi w Vareth. Badacze zależą od materiałów, załóg i wiedzy innych krain.
+Aurel jest ośrodkiem wynalazków i badań. Jego wyspecjalizowane wieże oświetlają niektóre szlaki nocą, a urządzenia cieplne, w tym piece udoskonalone przez Adriena, wykorzystują kryształy ładowane między innymi w Vareth. Badacze zależą od materiałów, załóg i wiedzy innych krain.
 
 **Codzienność i zwyczaje.** W okolicach Latarni obserwatorzy notują pogodę i widoczność szlaków, a kopiści porównują mapy z relacjami podróżnych. Część rodzin zapisuje ważne wiadomości dla bliskich na wyjeździe; inni wolą przekazywać je osobiście.
 

@@ -18,6 +18,10 @@ Kryształ wewnątrz przyrządu był naładowany wcześniej. Nie potrafię przeka
 
 Proste. O ile wie się, jak zbudować przesłony.
 
+Wcześniej zajmowałem się piecami grzewczymi. Istniały na długo przed moim przyjściem do warsztatu: mały kryształ dostrojony do Ognia oddawał energię przez mechanizm, który ogrzewał pomieszczenie. Zwykle zapas starczał na dni. Zmieniłem sposób dozowania energii i przy odpowiednim użytkowaniu podobny kryształ pozwalał urządzeniu grzać przez wiele tygodni.
+
+Nie wynalazłem pieca. Udoskonaliłem go. Ta różnica umykała ludziom, którzy gratulowali mi wynalezienia ognia, i tym, którzy twierdzili, że skoro piec już istniał, nie zrobiłem nic szczególnego.
+
 Dowództwo potrzebowało czegoś, co pozwoli prowadzić wozy przez zadymione przełęcze. Latarnię zasłaniał dym, chorągiewki znikały w ciemności, a krzyk docierał za późno. Mój przyrząd mieścił się w skrzyni, którą dwóch ludzi mogło ustawić przy drodze.
 
 Oficer, któremu go pokazałem, spytał, ile czasu potrzebuję na wykonanie kolejnych.

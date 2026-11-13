@@ -6,6 +6,8 @@
 
 Miko przyniósł mi urządzenie zawinięte w płaszcz, który najwyraźniej wcześniej służył do wycierania narzędzi.
 
+Miałem wtedy trzydzieści siedem lat i uważałem, że niewiele urządzeń potrafi mnie jeszcze zaskoczyć. Miko niezmiennie traktował to jak wyzwanie.
+
 — Pomyślałem, że zechcesz zobaczyć — powiedział.
 
 — Płaszcz?

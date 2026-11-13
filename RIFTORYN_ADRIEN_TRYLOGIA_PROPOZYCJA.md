@@ -4,6 +4,8 @@
 
 Adrien pracuje na uniwersytecie w Aurelu. Projektuje przyrządy zasilane energią zgromadzoną w kryształach. Nie kieruje nią własną magią. Jest genialny i niecierpliwy. Dostrzega ludzi, którzy potrafią go intelektualnie zaskoczyć, ale łatwo sprowadza ich do tego, co mogą mu zaoferować. Jest przekonany, że zasługuje na większe uznanie. Zamówienia i uznanie już zdobył, lecz według niego nikt nie docenia skali jego osiągnięć.
 
+Jako młody konstruktor udoskonalił istniejący piec grzewczy na splotyt dostrojony do Ognia: przy odpowiednim użytkowaniu niewielki kryształ zasila jego rozwiązanie przez wiele tygodni, podczas gdy wcześniejsze piece działały przez dni. W 12 ET ma 37 lat; podczas wcześniejszego procesu Rian był młodszy, a jego dokładny wiek w tym momencie pozostaje nieustalony.
+
 ## 1. Światło, które wskazało drogę
 
 Zapiski z końca wojny i późniejszej analizy awarii. Adrien, około 21–22-letni konstruktor, projektuje pryzmatyczny sygnalizator dla konwojów. Techniczka wskazuje naprężenie w mocowaniu kryształu. Adrien uważa, że zawiniła obsługa, i dopuszcza urządzenie bez kolejnej próby w terenie. Sygnał rozdziela się, przewodnik wjeżdża na zamkniętą drogę i ginie.

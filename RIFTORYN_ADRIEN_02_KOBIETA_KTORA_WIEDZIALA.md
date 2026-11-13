@@ -8,6 +8,8 @@ Na sali brakowało miejsca na wszystkie skrzynie, więc dwie ustawiono pod ścia
 
 Przyszedłem, ponieważ komisja badająca wojenne sabotaże miała omawiać uszkodzenia mechanizmów obronnych. Uniwersytet otrzymał część urządzeń do analizy, a ja chciałem zobaczyć ich dokumentację przed innymi. Jeśli ktoś wśród tych papierów znalazł rysunek zabezpieczenia, którego jeszcze nie znałem, zamierzałem zanotować, jak działało.
 
+Byłem młodszy niż dzisiaj, ale miałem już za sobą pracę nad ulepszeniem pieca grzewczego i wojennym sygnalizatorem. To między innymi dzięki urządzeniom, które zaprojektowałem, uzyskałem miejsce na sali.
+
 Nie spodziewałem się, że zainteresuje mnie osoba składająca zeznania.
 
 Rian siedziała po drugiej stronie stołu. Na pytania odpowiadała wyraźnie, choć pod koniec dnia kazano jej powtarzać rzeczy, które sama powiedziała już dwa razy. Nie odmawiała. Kiedy nie pamiętała daty, mówiła, że jej nie pamięta. Kiedy podawano jej dokument, sprawdzała podpis, zanim zaczęła czytać.
