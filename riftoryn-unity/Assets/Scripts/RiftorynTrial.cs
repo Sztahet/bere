@@ -23,7 +23,7 @@ public class RiftorynTrial : MonoBehaviour
     class Shot { public GameObject obj; public Vector3 direction; public float remaining,damage; public Runner target; public RiftorynPatkaPreview petTarget; public int type; }
     enum Phase { Setup, Playing, Finished }
     public bool menuOpen = true;
-    Phase phase; int selectedHero=0, allyChoice=0, selectedType=0, selectingHero=-1, draftPreview=-1; bool initialDraft, briefing; CodexHero[] roster=Array.Empty<CodexHero>(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); RiftorynHeroStats[] heroStats=Array.Empty<RiftorynHeroStats>(); Vector2 abilityTooltipScroll; string lastAbilityTooltip=""; float abilityTooltipUntil; readonly Dictionary<string,Texture2D> draftPortraits=new(); bool custom, genericModelPreview; float elapsed,total, cameraYaw, pitch=18f, messageTimer, rollTime, rollCooldown; Vector3 rollDirection; string message="", result=""; int floatingSequence; readonly List<FloatingCombatText> combatTexts=new(); Runner player,ally; Camera cam; GameObject world,runnerRoot,slotRoot,fogRoot; GameObject[] slots; readonly List<Tower> towers=new(); readonly List<Shot> shots=new(); readonly List<GameObject> fogTiles=new(); readonly List<float> fogDistances=new(); float[] lengths; Mesh fogMesh; Material fogMaterial; GUIStyle title, small, heading, floatingStyle, hudCenterStyle, hudStatusStyle, draftHeroTitle, draftRoleStyle, draftCompactNameStyle,draftResistanceNameStyle,draftResistanceValueStyle; readonly Dictionary<string,Texture2D> statIcons=new(), statusIcons=new(); bool mouseCaptured;
+    Phase phase; int selectedHero=0, allyChoice=0, selectedType=0, selectingHero=-1, draftPreview=-1; bool initialDraft, briefing; CodexHero[] roster=Array.Empty<CodexHero>(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); RiftorynHeroStats[] heroStats=Array.Empty<RiftorynHeroStats>(); Vector2 abilityTooltipScroll; string lastAbilityTooltip=""; float abilityTooltipUntil; readonly Dictionary<string,Texture2D> draftPortraits=new(); bool custom, genericModelPreview; float elapsed,total, cameraYaw, pitch=18f, messageTimer, rollTime, rollCooldown; Vector3 rollDirection; string message="", result=""; int floatingSequence; readonly List<FloatingCombatText> combatTexts=new(); Runner player,ally; Camera cam; GameObject world,runnerRoot,slotRoot,fogRoot; GameObject[] slots; readonly List<Tower> towers=new(); readonly List<Shot> shots=new(); readonly List<GameObject> fogTiles=new(); readonly List<float> fogDistances=new(); float[] lengths; Mesh fogMesh; Material fogMaterial; GUIStyle title, small, heading, floatingStyle, hudCenterStyle, hudStatusStyle, draftHeroTitle, draftRoleStyle, draftCompactNameStyle,draftResistanceNameStyle,draftResistanceValueStyle,draftResistanceNoteStyle; readonly Dictionary<string,Texture2D> statIcons=new(), statusIcons=new(); bool mouseCaptured;
     [Serializable] class LanInput { public float x,z; public bool ability,attack; }
     [Serializable] class LanRunner { public float x,z,yaw,hp,shield,shieldMax,cooldown,exposure,damage; public bool done; public int uses; }
     [Serializable] class LanShot { public float x,y,z; public int type; }
@@ -924,29 +924,29 @@ public class RiftorynTrial : MonoBehaviour
         if(string.IsNullOrEmpty(abilityName)||string.IsNullOrEmpty(description))return null;
         bool hovered=row.Contains(Event.current.mousePosition);
         DraftFrame(row,hovered?new Color(.87f,.72f,.46f):new Color(.28f,.23f,.32f),new Color(.085f,.07f,.12f));
-        RiftorynL10n.Label(new Rect(row.x+8,row.y+5,75,row.height-8),key,small);
+        RiftorynL10n.Label(new Rect(row.x+8,row.y+1,75,row.height-2),key,small);
         string name=RiftorynL10n.Translate(abilityName);
         int separator=name.IndexOf(" · ",StringComparison.Ordinal);
         if(separator>=0)name=name.Substring(separator+3);
-        GUI.Label(new Rect(row.x+84,row.y+4,row.width-94,row.height-8),name,small);
+        GUI.Label(new Rect(row.x+84,row.y+1,row.width-94,row.height-2),name,small);
         return hovered?description:null;
     }
     void DrawDraftDetails(CodexHero hero)
     {
         int playable=PlayableHero(hero.id);
         var stats=FindHeroStats(hero.id);
-        Rect portraitRect=new(1160,150,180,225);
+        Rect portraitRect=new(1160,150,132,150);
         HudFill(portraitRect,new Color(.06f,.045f,.085f));
         var portrait=DraftPortrait(hero.id);
         if(portrait)GUI.DrawTexture(portraitRect,portrait,ScaleMode.ScaleAndCrop);
-        RiftorynL10n.Label(new Rect(1352,157,202,46),RiftorynL10n.Translate(hero.role)+"  /  "+RiftorynL10n.Translate(hero.element),small);
+        RiftorynL10n.Label(new Rect(1305,155,245,36),RiftorynL10n.Translate(hero.role)+"  /  "+RiftorynL10n.Translate(hero.element),small);
         if(draftHeroTitle==null)draftHeroTitle=new GUIStyle(title){fontSize=22,wordWrap=true};
-        GUI.Label(new Rect(1352,205,202,58),hero.name.ToUpperInvariant(),draftHeroTitle);
+        GUI.Label(new Rect(1305,192,245,52),hero.name.ToUpperInvariant(),draftHeroTitle);
         string availability=playable<0?"W PRZYGOTOWANIU":selectingHero==1&&playable==selectedHero?"WYBRANY PRZEZ GRACZA":"DOSTĘPNY W PRÓBIE";
-        RiftorynL10n.Label(new Rect(1352,285,200,52),availability,small);
+        RiftorynL10n.Label(new Rect(1305,254,245,38),availability,small);
         string summary=!string.IsNullOrEmpty(hero.concept)&&hero.concept==hero.desc?(!string.IsNullOrEmpty(hero.pet)?"Najedź na towarzysza poniżej, aby zobaczyć opis.":"Opis koncepcji zobaczysz po najechaniu poniżej."):hero.desc??"";
-        RiftorynL10n.Label(new Rect(1160,384,395,54),summary,small);
-        RiftorynL10n.Label(new Rect(1160,439,395,20),playable>=0?"STATYSTYKI PRÓBY":"STATYSTYKI PROJEKTOWE",small);
+        RiftorynL10n.Label(new Rect(1160,308,395,42),summary,small);
+        RiftorynL10n.Label(new Rect(1160,352,395,20),playable>=0?"STATYSTYKI PRÓBY":"STATYSTYKI PROJEKTOWE",small);
         string hp=stats!=null?stats.hp.ToString():"—", attack=stats!=null?stats.attack.ToString():"—", speed=stats!=null?RiftorynL10n.Format("{0:0.0}",stats.speed):"—";
         string cooldown=hero.cd>0?hero.cd+" s":"—";
         if(playable>=0)
@@ -954,22 +954,22 @@ public class RiftorynTrial : MonoBehaviour
             hp=MaxHp[playable].ToString("0");speed=RiftorynL10n.Format("{0:0.0}",Speed[playable]);cooldown=playable==PyrraHero?"—":Cooldowns[playable]+" s";
             attack=playable==0?"25*":"—";
         }
-        DraftStat(1160,462,94,"HP",hp);
-        DraftStat(1259,462,94,"ATAK",attack);
-        DraftStat(1358,462,94,"RUCH m/s",speed);
-        DraftStat(1457,462,98,"Q",cooldown);
+        DraftStat(1160,375,94,"HP",hp);
+        DraftStat(1259,375,94,"ATAK",attack);
+        DraftStat(1358,375,94,"RUCH m/s",speed);
+        DraftStat(1457,375,98,"Q",cooldown);
         if(stats!=null&&stats.petHp>0)
         {
             string petName=RiftorynL10n.Translate(hero.pet??"");
-            RiftorynL10n.Label(new Rect(1160,519,395,20),RiftorynL10n.Translate("TOWARZYSZ")+": "+petName,small);
-            DraftStat(1160,542,126,"HP",stats.petHp.ToString());
-            DraftStat(1292,542,126,"ATAK",stats.petAttack.ToString());
-            DraftStat(1424,542,131,"RUCH m/s",RiftorynL10n.Format("{0:0.0}",stats.petSpeed));
+            RiftorynL10n.Label(new Rect(1160,432,395,20),RiftorynL10n.Translate("TOWARZYSZ")+": "+petName,small);
+            DraftStat(1160,455,126,"HP",stats.petHp.ToString());
+            DraftStat(1292,455,126,"ATAK",playable==3?"—":stats.petAttack.ToString());
+            DraftStat(1424,455,131,"RUCH m/s",RiftorynL10n.Format("{0:0.0}",stats.petSpeed));
         }
-        else if(playable==0)RiftorynL10n.Label(new Rect(1160,519,395,20),"* Testowy atak E przeciw wieży.",small);
-        else if(playable>0)RiftorynL10n.Label(new Rect(1160,519,395,20),"Atak podstawowy niedostępny w próbie.",small);
-        float abilityShift=stats!=null&&stats.petHp>0?80f:0f;
-        RiftorynL10n.Label(new Rect(1160,545+abilityShift,395,22),"UMIEJĘTNOŚCI",heading);
+        else if(playable==0)RiftorynL10n.Label(new Rect(1160,432,395,20),"* Testowy atak E przeciw wieży.",small);
+        else if(playable>0)RiftorynL10n.Label(new Rect(1160,432,395,20),"Atak podstawowy niedostępny w próbie.",small);
+        float abilityShift=stats!=null&&stats.petHp>0?79f:20f;
+        RiftorynL10n.Label(new Rect(1160,438+abilityShift,395,22),"UMIEJĘTNOŚCI",heading);
         string hovered=null;
         string passive=RiftorynCodexData.Text(hero.pass,hero.passEn), active=RiftorynCodexData.Text(hero.attack,hero.attackEn), defense=RiftorynCodexData.Text(hero.def,hero.defEn);
         string passiveKey="P", defenseKey="OBRONA*";
@@ -979,37 +979,39 @@ public class RiftorynTrial : MonoBehaviour
         if(!string.IsNullOrEmpty(defense))defense=RiftorynL10n.Translate("Umiejętność projektowa, niedostępna w próbie. ")+RiftorynL10n.Translate(defense);
         int abilityRow=0;
         var roleBonus=RiftorynCodexData.RoleBonus(roleBonuses,hero.role);
-        if(roleBonus!=null){float rowY=570+abilityShift+abilityRow++*28;var roleIcon=Resources.Load<Texture2D>("CodexIcons/roles/"+roleBonus.icon);if(roleIcon)GUI.DrawTexture(new Rect(1163,rowY+2,20,20),roleIcon,ScaleMode.ScaleToFit);string roleName=RiftorynCodexData.Text(roleBonus.name,roleBonus.nameEn);string roleDescription=RiftorynCodexData.Text(roleBonus.description,roleBonus.descriptionEn);hovered=DraftAbility(new Rect(1188,rowY,367,25),RiftorynCodexData.Text("KLASA","CLASS"),roleName,roleDescription)??hovered;}
+        if(roleBonus!=null){float rowY=464+abilityShift+abilityRow++*24;var roleIcon=Resources.Load<Texture2D>("CodexIcons/roles/"+roleBonus.icon);if(roleIcon)GUI.DrawTexture(new Rect(1163,rowY+2,20,20),roleIcon,ScaleMode.ScaleToFit);string roleName=RiftorynCodexData.Text(roleBonus.name,roleBonus.nameEn);string roleDescription=RiftorynCodexData.Text(roleBonus.description,roleBonus.descriptionEn);hovered=DraftAbility(new Rect(1188,rowY,367,22),RiftorynCodexData.Text("KLASA","CLASS"),roleName,roleDescription)??hovered;}
         string passiveName=RiftorynCodexData.Text(hero.passName,hero.passNameEn);
         if(!string.IsNullOrEmpty(passiveName)&&!string.IsNullOrEmpty(passive))
-            hovered=DraftAbility(new Rect(1160,570+abilityShift+abilityRow++*28,395,25),passiveKey,passiveName,passive)??hovered;
+            hovered=DraftAbility(new Rect(1160,464+abilityShift+abilityRow++*24,395,22),passiveKey,passiveName,passive)??hovered;
         if(!string.IsNullOrEmpty(hero.attackName)&&!string.IsNullOrEmpty(active))
-            hovered=DraftAbility(new Rect(1160,570+abilityShift+abilityRow++*28,395,25),"Q",RiftorynCodexData.Text(hero.attackName,hero.attackNameEn),active)??hovered;
+            hovered=DraftAbility(new Rect(1160,464+abilityShift+abilityRow++*24,395,22),"Q",RiftorynCodexData.Text(hero.attackName,hero.attackNameEn),active)??hovered;
+        if(playable==3&&(string.IsNullOrEmpty(hero.attackName)||string.IsNullOrEmpty(active)))
+            hovered=DraftAbility(new Rect(1160,464+abilityShift+abilityRow++*24,395,22),"Q",RiftorynCodexData.Text("Manewr Patki","Patsy’s maneuver"),RiftorynCodexData.Text("Patka wznosi się na 4 s, odciąga ogień wież i podczas lotu ma 75% szansy uniknięcia trafienia.","Patsy flies for 4 seconds, draws tower fire and has a 75% chance to dodge hits while flying."))??hovered;
         if(!string.IsNullOrEmpty(hero.defName)&&!string.IsNullOrEmpty(defense))
-            hovered=DraftAbility(new Rect(1160,570+abilityShift+abilityRow++*28,395,25),defenseKey,RiftorynCodexData.Text(hero.defName,hero.defNameEn),defense)??hovered;
+            hovered=DraftAbility(new Rect(1160,464+abilityShift+abilityRow++*24,395,22),defenseKey,RiftorynCodexData.Text(hero.defName,hero.defNameEn),defense)??hovered;
         if(!string.IsNullOrEmpty(hero.pet))
         {
             string petDescription=!string.IsNullOrEmpty(hero.concept)?hero.concept:hero.desc;
             if(!string.IsNullOrEmpty(petDescription))
             {
-                petDescription=RiftorynL10n.Translate("Opis towarzysza — koncepcja niedostępna w próbie. ")+RiftorynL10n.Translate(petDescription);
-                hovered=DraftAbility(new Rect(1160,570+abilityShift+abilityRow++*28,395,25),"PET",hero.pet,petDescription)??hovered;
+                petDescription=playable==3?RiftorynCodexData.Text("Patka towarzyszy Konevie, może przyjmować trafienia i odciągać ogień wież po użyciu Q.","Patsy accompanies Koneva, can take hits and draws tower fire when Q is used."):RiftorynL10n.Translate("Opis towarzysza — koncepcja niedostępna w próbie. ")+RiftorynL10n.Translate(petDescription);
+                hovered=DraftAbility(new Rect(1160,464+abilityShift+abilityRow++*24,395,22),"PET",hero.pet,petDescription)??hovered;
             }
         }
         if(abilityRow==0)
         {
-            if(!string.IsNullOrEmpty(hero.concept))hovered=DraftAbility(new Rect(1160,570+abilityShift,395,25),"INFO","KONCEPCJA",hero.concept)??hovered;
-            else RiftorynL10n.Label(new Rect(1160,574+abilityShift,395,24),"Brak opisanych umiejętności.",small);
+            if(!string.IsNullOrEmpty(hero.concept))hovered=DraftAbility(new Rect(1160,464+abilityShift,395,22),"INFO","KONCEPCJA",hero.concept)??hovered;
+            else RiftorynL10n.Label(new Rect(1160,467+abilityShift,395,22),"Brak opisanych umiejętności.",small);
         }
-        float tooltipY=686+abilityShift;
-        bool overTooltip=new Rect(1160,tooltipY,395,Mathf.Min(143,845-tooltipY)).Contains(Event.current.mousePosition);
+        float tooltipY=667;
+        bool overTooltip=new Rect(1160,tooltipY,395,Mathf.Min(166,845-tooltipY)).Contains(Event.current.mousePosition);
         if(hovered!=null)abilityTooltipUntil=Time.unscaledTime+.3f;
         else if(!string.IsNullOrEmpty(lastAbilityTooltip)&&(overTooltip||Time.unscaledTime<abilityTooltipUntil))hovered=lastAbilityTooltip;
         if(hovered!=lastAbilityTooltip){abilityTooltipScroll=Vector2.zero;lastAbilityTooltip=hovered;}
-        Rect tooltipRect=new(1160,tooltipY,395,Mathf.Min(143,845-tooltipY));
+        Rect tooltipRect=new(1160,tooltipY,395,Mathf.Min(166,845-tooltipY));
         DraftFrame(tooltipRect,new Color(.28f,.23f,.32f),new Color(.065f,.055f,.09f));
-        RiftorynL10n.Label(new Rect(1170,tooltipY+7,375,20),string.IsNullOrEmpty(hovered)?RiftorynCodexData.Text("ODPORNOŚCI NA ŻYWIOŁY","ELEMENTAL RESISTANCES"):"OPIS",small);
-        if(string.IsNullOrEmpty(hovered))DrawDraftResistanceTable(new Rect(1170,tooltipY+27,375,tooltipRect.height-32),hero);
+        RiftorynL10n.Label(new Rect(1170,tooltipY+7,375,20),string.IsNullOrEmpty(hovered)?RiftorynCodexData.Text("ODPORNOŚCI NA ŻYWIOŁY","ELEMENTAL RESISTANCES"):RiftorynCodexData.Text("OPIS UMIEJĘTNOŚCI","ABILITY DETAILS"),heading);
+        if(string.IsNullOrEmpty(hovered))DrawDraftResistanceTable(new Rect(1170,tooltipY+33,375,124),hero);
         else
         {
             string text=RiftorynL10n.Translate(hovered);
@@ -1022,19 +1024,29 @@ public class RiftorynTrial : MonoBehaviour
     }
     void DrawDraftResistanceTable(Rect area,CodexHero hero)
     {
-        if(draftResistanceNameStyle==null){draftResistanceNameStyle=new GUIStyle(small){fontSize=10,fontStyle=FontStyle.Bold,wordWrap=false};draftResistanceValueStyle=new GUIStyle(small){fontSize=11,fontStyle=FontStyle.Bold,wordWrap=false};}
-        const float gap=3;float cellWidth=(area.width-gap*3)/4,cellHeight=(area.height-gap)/2;
+        if(draftResistanceNameStyle==null)
+        {
+            draftResistanceNameStyle=new GUIStyle(small){fontSize=12,fontStyle=FontStyle.Bold,wordWrap=false,alignment=TextAnchor.MiddleLeft};
+            draftResistanceValueStyle=new GUIStyle(heading){fontSize=15,fontStyle=FontStyle.Bold,wordWrap=false,alignment=TextAnchor.MiddleRight};
+            draftResistanceNoteStyle=new GUIStyle(small){fontSize=11,wordWrap=false,alignment=TextAnchor.MiddleLeft,normal={textColor=new Color(.76f,.72f,.81f)}};
+        }
+        const float gap=5, rowHeight=26;
+        float cellWidth=(area.width-gap)/2;
         for(int i=0;i<RiftorynCodexData.Elements.Length;i++)
         {
-            int row=i/4,col=i%4,value=RiftorynCodexData.Resistance(hero,RiftorynCodexData.Elements[i]);
-            float x=area.x+col*(cellWidth+gap),y=area.y+row*(cellHeight+gap);
-            DraftFrame(new Rect(x,y,cellWidth,cellHeight),new Color(.28f,.23f,.32f),new Color(.085f,.07f,.12f));
-            var icon=Resources.Load<Texture2D>("CodexIcons/elements/"+DraftElementIcons[i]);float iconSize=Mathf.Min(16,cellHeight-5);
-            if(icon)GUI.DrawTexture(new Rect(x+3,y+3,iconSize,iconSize),icon,ScaleMode.ScaleToFit);
-            RiftorynL10n.Label(new Rect(x+iconSize+5,y+2,cellWidth-iconSize-8,Mathf.Max(12,cellHeight*.48f)),RiftorynL10n.Translate(RiftorynCodexData.Elements[i]),draftResistanceNameStyle);
-            Color previous=GUI.color;GUI.color=value>0?new Color(.45f,.88f,.62f):value<0?new Color(1f,.46f,.43f):Color.white;
-            RiftorynL10n.Label(new Rect(x+iconSize+5,y+cellHeight*.48f,cellWidth-iconSize-8,Mathf.Max(12,cellHeight*.48f)),(value>0?"+":"")+value+"%",draftResistanceValueStyle);GUI.color=previous;
+            int row=i/2,col=i%2,value=RiftorynCodexData.Resistance(hero,RiftorynCodexData.Elements[i]);
+            float x=area.x+col*(cellWidth+gap),y=area.y+row*(rowHeight+3);
+            Color accent=value>0?new Color(.38f,.82f,.60f):value<0?new Color(.96f,.42f,.39f):new Color(.64f,.61f,.70f);
+            DraftFrame(new Rect(x,y,cellWidth,rowHeight),new Color(.25f,.21f,.31f),new Color(.105f,.085f,.15f));
+            HudFill(new Rect(x+1,y+1,3,rowHeight-2),accent);
+            var icon=Resources.Load<Texture2D>("CodexIcons/elements/"+DraftElementIcons[i]);
+            if(icon)GUI.DrawTexture(new Rect(x+8,y+3,21,21),icon,ScaleMode.ScaleToFit);
+            RiftorynL10n.Label(new Rect(x+34,y,cellWidth-88,rowHeight),RiftorynCodexData.Elements[i],draftResistanceNameStyle);
+            Color previous=GUI.color;GUI.color=accent;
+            GUI.Label(new Rect(x+cellWidth-53,y,46,rowHeight),(value>0?"+":"")+value+"%",draftResistanceValueStyle);
+            GUI.color=previous;
         }
+        RiftorynL10n.Label(new Rect(area.x,area.y+113,area.width,16),RiftorynCodexData.Text("Wartości projektowe · część nie działa jeszcze w próbie","Design values · some are not yet active in the trial"),draftResistanceNoteStyle);
     }
 
 }
