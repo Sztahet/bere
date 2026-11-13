@@ -8,3 +8,5 @@ Punkt wyjścia to widoczna w dostarczonym pliku `BodyChan - BodyKun Posable Draw
 - Test ponownego importu FBX do Blendera potwierdził 12 siatek, armaturę, przypisania grup, modyfikatory armatury oraz wysokość 1,80 m. Dodatkowo próbny obrót kości ramienia poruszył 648 wierzchołków siatki ramion. Nie jest to pełny test animacji ani poprawnego importu do Unity.
 
 Model zachowuje przeguby i segmentację manekina oraz istniejący rig; wymaga oceny i dalszego opracowania geometrii stawów, deformacji, animacji, materiałów, optymalizacji i importu do Unity. Warunki licencyjne oryginalnego pobranego modelu nie zostały zweryfikowane; przed użyciem w dystrybuowanej grze należy je ustalić.
+
+Źródło figury: [BodyChan - BodyKun | Posable Drawing Figures](https://blendswap.com/blend/23521), autor: vinchau, licencja CC0 według strony BlendSwap.
