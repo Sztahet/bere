@@ -133,7 +133,7 @@
           "text": "Ten nie był."
         },
         {
-          "text": "Nad skalnym załomem rozbłysło żółtobiałe światło."
+          "text": "Nad skalnym załomem rozbłysło błękitne światło."
         },
         {
           "text": "Po chwili usłyszałam głuchy huk."
@@ -281,7 +281,9 @@
         },
         {
           "image": 2,
-          "alt": "Saila widzi szronogrzbietę z dwoma młodymi, gdy wyładowanie wieży uderza w skałę."
+          "alt": "Saila widzi szronogrzbietę z dwoma młodymi, gdy wyładowanie wieży uderza w skałę.",
+          "width": 1448,
+          "height": 1086
         },
         {
           "text": "Kryształ rozbłysnął."
@@ -1015,7 +1017,7 @@
           "text": "Próbowałam wstać, ale kolana ugięły się pode mną."
         },
         {
-          "text": "Upadłam na śnieg."
+          "text": "Osunęłam się przy cokole. Ostra krawędź lodu rozcięła mi lewy policzek."
         },
         {
           "text": "Nie czułam zwykłego bólu po długim zaklęciu."
@@ -1111,7 +1113,7 @@
         },
         {
           "image": 6,
-          "alt": "Wyczerpana Saila przy zatrzymanej wieży; szronogrzbieta odchodzi z młodymi."
+          "alt": "Wyczerpana Saila z rozciętym policzkiem opiera się o cokół. Szronogrzbieta odchodzi z dwójką młodych."
         },
         {
           "text": "Nie wyglądała na wdzięczną."
@@ -1171,7 +1173,7 @@
           "text": "Spojrzałam na wieżę."
         },
         {
-          "text": "Ogromny kryształ nadal świecił łagodnym błękitem. W jego wnętrzu od czasu do czasu przeskakiwała niewielka żółta iskra."
+          "text": "Ogromny kryształ nadal świecił łagodnym błękitem. Wokół niego utrzymywała się cienka złota poświata."
         },
         {
           "text": "Lód obejmował oprawę, filary i część korony."
@@ -1383,7 +1385,10 @@
           "text": "Opiekunka przysunęła mi wodę."
         },
         {
-          "text": "— Nikt nie został ranny. To najważniejsze."
+          "text": "— Podróżnym nic się nie stało. To najważniejsze."
+        },
+        {
+          "text": "Dotknęłam lewego policzka. Zaschnięta krew ściągała skórę."
         },
         {
           "text": "Nie odpowiedziałam od razu."

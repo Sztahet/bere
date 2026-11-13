@@ -94,7 +94,7 @@ Znałam sygnały wieży. Raz w tygodniu obsługa sprawdzała jej system ostrzega
 
 Ten nie był.
 
-Nad skalnym załomem rozbłysło żółtobiałe światło.
+Nad skalnym załomem rozbłysło błękitne światło.
 
 Po chwili usłyszałam głuchy huk.
 
@@ -682,7 +682,7 @@ Palce miałam zdrętwiałe.
 
 Próbowałam wstać, ale kolana ugięły się pode mną.
 
-Upadłam na śnieg.
+Osunęłam się przy cokole. Ostra krawędź lodu rozcięła mi lewy policzek.
 
 Nie czułam zwykłego bólu po długim zaklęciu.
 
@@ -746,7 +746,7 @@ Sama ruszyła ostatnia.
 
 Przez krótką chwilę zatrzymała się i spojrzała w moją stronę.
 
-**[MIEJSCE NA ILUSTRACJĘ 6 — Wyczerpana Saila przy zatrzymanej wieży; szronogrzbieta odchodzi z młodymi.]**
+**[MIEJSCE NA ILUSTRACJĘ 6 — Wyczerpana Saila z rozciętym policzkiem opiera się o cokół. Szronogrzbieta odchodzi z dwójką młodych.]**
 
 Nie wyglądała na wdzięczną.
 
@@ -786,7 +786,7 @@ Wiedziałam tylko, że nie powinnam była być do tego zdolna.
 
 Spojrzałam na wieżę.
 
-Ogromny kryształ nadal świecił łagodnym błękitem. W jego wnętrzu od czasu do czasu przeskakiwała niewielka żółta iskra.
+Ogromny kryształ nadal świecił łagodnym błękitem. Wokół niego utrzymywała się cienka złota poświata.
 
 Lód obejmował oprawę, filary i część korony.
 
@@ -928,7 +928,9 @@ Widziałam przed sobą dwa małe stworzenia skulone pod brzuchem matki.
 
 Opiekunka przysunęła mi wodę.
 
-— Nikt nie został ranny. To najważniejsze.
+— Podróżnym nic się nie stało. To najważniejsze.
+
+Dotknęłam lewego policzka. Zaschnięta krew ściągała skórę.
 
 Nie odpowiedziałam od razu.
 
