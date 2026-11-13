@@ -4,6 +4,7 @@
 
 ## Podstawowe fakty
 
+- Rok w Riftorynie ma 365 dni i 12 miesięcy o znanych czytelnikowi nazwach i długościach, od stycznia do grudnia; nie stosuje się dnia przestępnego. Daty oznacza się latami przed Traktatem (PT) lub erą Traktatu (ET), z rokiem podpisania jako 0 ET.
 - Splotyt jest rzadkim kryształem, który może przyjmować, przechowywać i przewodzić energię; dostrojone urządzenia wykorzystują go do zasilania kanałów, latarni, przekaźników i wież.
 - Po osiedleniu się ludzi na kontynencie odnaleziono splotyt; najstarszy znany opis ładowania go magią Błyskawic pochodzi z Zerath. Kto pierwszy użył tej właściwości, pozostaje nieznane. Później rozwijano zastosowania innych żywiołów. Pochodzenie żywiołów i kryształu pozostaje nieznane.
 - Naładowany splotyt, zwłaszcza wielki, silnie naładowany lub skupiony w większej ilości, może przyciągać niektóre dzikie bestie, a rzadko także mityczne potwory. Nienaładowany kryształ nie wywołuje tego zjawiska; sposób, w jaki istoty wyczuwają ładunek, pozostaje nieznany.

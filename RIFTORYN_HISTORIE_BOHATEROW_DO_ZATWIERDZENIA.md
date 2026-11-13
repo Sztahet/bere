@@ -425,7 +425,7 @@ Podczas jednej wyprawy ograniczył informacje o planowanym przejściu tak mocno,
 
 Zaczął uzgadniać z załogami, komu i kiedy przekazać plan podróży. W Próbach występuje w imieniu przewoźników domagających się uczciwego dostępu do dróg. Nie chce ujawniać wszystkiego publicznie, ale nie uważa już ukrywania za odpowiedź na każde zagrożenie.
 
-### Miko — 29 lat
+### Miko — 42 lata
 
 Miko dorastał w warsztatach Zerath, rozbierając urządzenia i przekonując innych, że potrafi je złożyć. W szermierce cenił precyzję, choć w pracy często polegał na improwizacji.
 
@@ -949,7 +949,7 @@ Once he shared so little about a journey that a nearby rescue crew did not know 
 
 He now agrees with crews whom to tell about a route and when. In the Trials he represents carriers seeking fair access to roads, without treating concealment as the answer to every danger.
 
-### Miko — 29
+### Miko — 42
 
 Miko grew up taking devices apart in Zerath's workshops. He valued precision in fencing, though at his bench he often improvised.
 

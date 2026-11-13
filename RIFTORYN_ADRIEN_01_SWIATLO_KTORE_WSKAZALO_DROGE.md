@@ -2,7 +2,11 @@
 
 *Riftoryn · Aurel i górski szlak · Końcowa faza Wojny Siedmiu Bram*
 
+*Daty sprzed Traktatu oznaczono skrótem PT przy późniejszym porządkowaniu zapisków.*
+
 ## Rozdział I — Dwie linie światła
+
+**3 października, 4 PT**
 
 Pierwszy prototyp wskazywał drogę z odległości, na której człowiek przestawał już być człowiekiem, a stawał się plamą na zboczu.
 
@@ -56,6 +60,8 @@ Podpisałem dopuszczenie urządzenia. Lena nie podpisała protokołu próby tere
 
 ## Rozdział II — Droga zamknięta
 
+**5 października, 4 PT**
+
 O awarii dowiedziałem się dwa dni później.
 
 Rozszczepiony sygnał pojawił się na zboczu, kiedy przewodnik prowadził wóz na rozwidleniu. Zobaczył linię wskazującą przejazd. Fragment drogi był już zamknięty po osunięciu kamieni, ale wiadomość o tym nie dotarła do całego konwoju.
@@ -80,13 +86,17 @@ Mężczyzna podniósł wzrok.
 
 — Nie porozmawiasz.
 
-W notatniku miałem już trzy pomiary i rysunek mocowania. Pod nimi napisałem: *Przewodnik zginął.* Nie znałem jego imienia. W raporcie dowiedziałem się go od oficera; w notatniku zostawiłem miejsce na później.
+W notatniku miałem już trzy pomiary i rysunek mocowania. Pod nimi napisałem: *Przewodnik zginął.* Nie znałem jego imienia. Zostawiłem w notatniku miejsce, żeby je dopisać.
 
 Resztę dnia spędziłem nad przyrządem. Nie mogłem go uruchomić bez wymiany części. Wóz na dole nie nadawał się do naprawy.
 
 ## Rozdział III — Raport
 
+**6 października, 4 PT**
+
 W raporcie opisałem usterkę. Napisałem też, że Lena ostrzegała mnie przed naprężeniem, a ja uznałem uszkodzenie za wynik niewłaściwego przenoszenia.
+
+Oficer podał mi imię przewodnika do raportu. Powinienem był wpisać je też w notatniku.
 
 Na końcu dodałem, że dowódca zdecydował o użyciu sygnalizatora przed próbą w terenie. Było to zgodne z prawdą i przez długi czas wydawało mi się najważniejszym zdaniem dokumentu.
 
@@ -104,7 +114,9 @@ Podałem jej projekt. Wskazała miejsce, w którym chciałem wzmocnić uchwyt.
 
 Miałem gotową odpowiedź. Zamiast jej udzielić, odwróciłem kartkę i zacząłem rysować dodatkowe podparcie.
 
-Przez następne tygodnie poprawiałem konstrukcję. Lena sprawdzała ją na stole, potem na skrzyni przywiązanej do wozu. Jedna próba skończyła się pęknięciem śruby. Zaznaczyła je czerwonym ołówkiem i wróciła z nową listą uwag.
+**2 listopada, 4 PT**
+
+Przez ostatnie tygodnie poprawiałem konstrukcję. Lena sprawdzała ją na stole, potem na skrzyni przywiązanej do wozu. Jedna próba skończyła się pęknięciem śruby. Zaznaczyła je czerwonym ołówkiem i wróciła z nową listą uwag.
 
 Nie każda była trafna. Zapisywałem wszystkie.
 

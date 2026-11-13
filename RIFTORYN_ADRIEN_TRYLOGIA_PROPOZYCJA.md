@@ -8,7 +8,7 @@ Jako młody konstruktor udoskonalił istniejący piec grzewczy na splotyt dostro
 
 ## 1. Światło, które wskazało drogę
 
-Zapiski z końca wojny i późniejszej analizy awarii. Adrien, około 21–22-letni konstruktor, projektuje pryzmatyczny sygnalizator dla konwojów. Techniczka wskazuje naprężenie w mocowaniu kryształu. Adrien uważa, że zawiniła obsługa, i dopuszcza urządzenie bez kolejnej próby w terenie. Sygnał rozdziela się, przewodnik wjeżdża na zamkniętą drogę i ginie.
+Zapiski z 4 PT i późniejszej analizy awarii. Adrien, około 20–21-letni konstruktor, projektuje pryzmatyczny sygnalizator dla konwojów. Techniczka wskazuje naprężenie w mocowaniu kryształu. Adrien uważa, że zawiniła obsługa, i dopuszcza urządzenie bez kolejnej próby w terenie. Sygnał rozdziela się, przewodnik wjeżdża na zamkniętą drogę i ginie.
 
 W notatkach najpierw opisuje kąt rozszczepienia i stan mocowania. Informację o śmierci zapisuje później. W raporcie przyznaje się do wady i wskazuje decyzję dowódcy o użyciu nieprzetestowanego urządzenia. Rzeczywista wina za zlekceważenie ostrzeżenia pozostaje jego. Z czasem przebudowuje mocowanie, wprowadza niezależne testy i sygnał zapasowy. Ta praca nie zamyka jego stosunku do ofiary.
 
@@ -22,7 +22,7 @@ Po odbyciu kary Rian może sama decydować o dalszej współpracy. Zaczyna też 
 
 ## 3. Wynalazek, którego nie przewidziałem
 
-W 12 ET Miko odwiedza Adriena z prototypem. Jest jednym z jego nielicznych przyjaciół i lubią rozmawiać o wynalazkach. Miko ma umiejętności, ćwiczy i cierpliwie poprawia swoje konstrukcje, ale Adrien nie docenia tej pracy: widzi w nim szczęściarza, któremu przypadkiem wychodzi to, czego nie zaplanował. Najbardziej denerwuje go, że kiedy Miko odniesie sukces, efekt często okazuje się lepszy od jego własnego rozwiązania. Adrien zazdrości mu, choć woli tłumaczyć wynik szczęściem, niż przyznać to nawet w notatkach.
+W 12 ET Miko ma 42 lata i odwiedza Adriena z prototypem. Znają się od lat; Miko jest jednym z jego nielicznych przyjaciół i lubią rozmawiać o wynalazkach. Jest starszy od Adriena, choć jego żywiołowość i żartobliwość często sugerują coś innego. Miko ma umiejętności, ćwiczy i cierpliwie poprawia swoje konstrukcje, ale Adrien nie docenia tej pracy: widzi w nim szczęściarza, któremu przypadkiem wychodzi to, czego nie zaplanował. Najbardziej denerwuje go, że kiedy Miko odniesie sukces, efekt często okazuje się lepszy od jego własnego rozwiązania. Adrien zazdrości mu, choć woli tłumaczyć wynik szczęściem, niż przyznać to nawet w notatkach.
 
 Miko widzi potencjał w odkryciu, którego nie planował, i sprawdza je kolejnymi próbami. Adrien domaga się powtarzalnego pomiaru, a równocześnie próbuje ustalić, dlaczego jego własny projekt wypadł gorzej. Rian może sprawdzić, co dzieje się z mechanizmem w obu wariantach. Ich przyjaźń nie znosi rywalizacji: Adrien nadal szuka okazji do rozmowy z Miko, nawet jeśli ten właśnie przyprawił go o wyjątkowo zły humor.
 
@@ -40,8 +40,8 @@ Przykładowa scena, w jego głosie:
 >
 > Nie zmienia to faktu, że miał szczęście.
 
-Wieści o Wielkich Igrzyskach docierają do uniwersytetu. Adrien zgłasza się dla sławy i potwierdzenia własnego geniuszu. Kwalifikacje, wybór strony i wynik pozostają oddzielnymi zdarzeniami. Spotkanie z Sailą można rozwinąć dopiero podczas Igrzysk. Zainteresuje go efekt jej zdolności, lecz jego pomiary nie muszą wyjaśnić jej źródła.
+Wieści o Wielkich Igrzyskach docierają do uniwersytetu. Adrien zgłasza się dla sławy i potwierdzenia własnego geniuszu. Trylogia kończy się na decyzji o starcie, bez opisywania kwalifikacji i dalszych wydarzeń. Spotkanie z Sailą można rozwinąć dopiero podczas Igrzysk. Zainteresuje go efekt jej zdolności, lecz jego pomiary nie muszą wyjaśnić jej źródła.
 
 ## Głos i relacje
 
-Historie mają pierwszoosobową perspektywę przypominającą pamiętnik. Adrien może prowadzić notatnik konstruktora, w którym obok wyników prób zapisuje rozmowy, własne reakcje i niechętnie przyznawane pomyłki. Rian i Miko mają swoje cele oraz prawo do odmowy. Narrator zna tylko własne myśli i to, co zobaczył lub usłyszał.
+Historie Adriena mają formę datowanych zapisów w pierwszej osobie. W notatniku konstruktora obok wyników prób zapisuje rozmowy, własne reakcje i niechętnie przyznawane pomyłki. Używa standardowych nazw miesięcy i dat PT/ET. Rian i Miko mają swoje cele oraz prawo do odmowy. Narrator zna tylko własne myśli i to, co zobaczył lub usłyszał. Trylogie bohaterów kończą się zamiarem startu w Igrzyskach, przed kwalifikacjami i wydarzeniami zawodów.

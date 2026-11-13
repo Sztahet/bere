@@ -52,7 +52,7 @@ Zerath wnosi około połowy energii wprowadzanej do wspólnej sieci; nie jest to
 
 Warsztaty Vareth wytapiają i obrabiają metale, naprawiają urządzenia i produkują elementy potrzebne w pozostałych krainach: od narzędzi rolniczych po mocowania kryształów i części wież. Nie muszą produkować wszystkiego same — inne krainy także mają własnych rzemieślników i warsztaty.
 
-Vareth wykorzystuje energię wulkanu. Wynalezione w Aurel urządzenie powoli oddaje ciepło z małego kryształu splotytu dostrojonego do Ognia, nawet przez wiele miesięcy zależnie od użycia. Rozładowane urządzenia często wracają do Vareth, gdzie ich ładowanie jest najtańsze; lokalne ładowanie u klienta jest możliwe, lecz znacznie droższe. Nie tworzą energii z niczego.
+Vareth wykorzystuje energię wulkanu. Adrien z Aurelu udoskonalił istniejący piec, który powoli oddaje ciepło z małego kryształu splotytu dostrojonego do Ognia: przy odpowiednim użytkowaniu pracuje przez wiele tygodni, podczas gdy wcześniejsze piece działały przez dni. Rozładowane urządzenia często wracają do Vareth, gdzie ich ładowanie jest najtańsze; lokalne ładowanie u klienta jest możliwe, lecz znacznie droższe. Nie tworzą energii z niczego.
 
 **Pytanie polityczne:** ile trwałych urządzeń cieplnych powinno trafić do biedniejszych miejscowości przed zimą, a ile do odbiorców gotowych zapłacić za nie więcej?
 

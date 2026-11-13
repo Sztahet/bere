@@ -4,9 +4,11 @@
 
 ## Rozdział I — Siedemnasta próba
 
+**18 kwietnia, 12 ET · rano**
+
 Miko przyniósł mi urządzenie zawinięte w płaszcz, który najwyraźniej wcześniej służył do wycierania narzędzi.
 
-Miałem wtedy trzydzieści siedem lat i uważałem, że niewiele urządzeń potrafi mnie jeszcze zaskoczyć. Miko niezmiennie traktował to jak wyzwanie.
+Mam trzydzieści siedem lat i uważam, że niewiele urządzeń potrafi mnie jeszcze zaskoczyć. Miko ma czterdzieści dwa i niezmiennie traktuje to jak wyzwanie. Znamy się od lat. Kto widzi, jak podskakuje z radości nad nową cewką, rzadko zgaduje, że jest ode mnie starszy.
 
 — Pomyślałem, że zechcesz zobaczyć — powiedział.
 
@@ -60,6 +62,8 @@ Spojrzałem na niego.
 
 ## Rozdział II — Lepszy wynik
 
+**18 kwietnia, 12 ET · po południu**
+
 Przez następne dwie godziny usiłowałem wykazać, że wynik Miko jest przypadkowy.
 
 Nie wystarczyło odłączyć urządzenia i uruchomić go ponownie. Miko zgodził się na powtórzenia, ale nalegał, żebyśmy za każdym razem sprawdzali również temperaturę obudowy i stan mocowania. Twierdził, że podczas jednej z poprzednich prób część poluzowała się dopiero po dłuższej pracy.
@@ -109,6 +113,8 @@ Miko uśmiechnął się, lecz nie puścił skrzynki.
 Zapisałem oba warunki. Miko zostawił mi urządzenie i zabrał płaszcz.
 
 ## Rozdział III — Osoba od trudnych pytań
+
+**20 kwietnia, 12 ET**
 
 Rian przyszła dwa dni później. Była już po karze i prowadziła zajęcia dla młodych rzemieślników. Przedstawiłem jej oba regulatory. Nie powiedziałem, który jest mój.
 
@@ -164,6 +170,8 @@ Zatrzymała się przy drzwiach.
 
 ## Rozdział IV — Powód zgłoszenia
 
+**20 kwietnia, 12 ET · wieczór**
+
 Wiadomość o Wielkich Igrzyskach dotarła na uniwersytet tego samego popołudnia. Przyniesiono ogłoszenie i zaczęto dyskutować, kto pojedzie do Val Meris, kto będzie reprezentował czyją sprawę i czy wynik powstrzyma kolejny konflikt.
 
 Przez lata odmawiałem udziału w zawodach. Tłum ludzi obserwujących, jak ktoś trafia w cel albo zostaje trafiony, nie wydawał mi się dobrym sposobem spędzania czasu.
@@ -178,7 +186,7 @@ Lena znalazła mnie nad formularzem zgłoszenia.
 
 — To dużo prostsza odpowiedź.
 
-Wpisałem nazwisko. Nie wiedziałem jeszcze, czy przejdę kwalifikacje ani z kim przyjdzie mi współpracować. Znałem natomiast swoje możliwości, co w mojej ocenie stanowiło dobry początek.
+Wpisałem nazwisko. Znałem swoje możliwości, co w mojej ocenie stanowiło dobry początek.
 
 Potem napisałem do Miko. Poinformowałem go o zgłoszeniu, wynikach próby i konieczności poprawienia śruby. Nie wspomniałem, że jego wynik wciąż mnie drażni. Nie było potrzeby utrwalać tego w korespondencji.
 

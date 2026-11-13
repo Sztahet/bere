@@ -4,11 +4,13 @@
 
 ## Rozdział I — Jedenaście minut
 
+**10 października, 1 ET**
+
 Na sali brakowało miejsca na wszystkie skrzynie, więc dwie ustawiono pod ścianą za mną. Co jakiś czas ktoś je otwierał, a wtedy musiałem przesuwać nogi. Po trzecim razie przestałem.
 
 Przyszedłem, ponieważ komisja badająca wojenne sabotaże miała omawiać uszkodzenia mechanizmów obronnych. Uniwersytet otrzymał część urządzeń do analizy, a ja chciałem zobaczyć ich dokumentację przed innymi. Jeśli ktoś wśród tych papierów znalazł rysunek zabezpieczenia, którego jeszcze nie znałem, zamierzałem zanotować, jak działało.
 
-Byłem młodszy niż dzisiaj, ale miałem już za sobą pracę nad ulepszeniem pieca grzewczego i wojennym sygnalizatorem. To między innymi dzięki urządzeniom, które zaprojektowałem, uzyskałem miejsce na sali.
+Miałem już za sobą pracę nad ulepszeniem pieca grzewczego i wojennym sygnalizatorem. To między innymi dzięki urządzeniom, które zaprojektowałem, uzyskałem miejsce na sali.
 
 Nie spodziewałem się, że zainteresuje mnie osoba składająca zeznania.
 
@@ -39,6 +41,8 @@ Podczas przerwy przeglądałem szkic. Rian opisała kolejność działania dźwi
 Uznałem, że warto z nią porozmawiać.
 
 ## Rozdział II — Pierwsza rozmowa
+
+**10 października, 1 ET · wieczór**
 
 Pierwsza okazja pojawiła się po kolejnej części zeznań. Pozwolono mi zadać jej pytanie w obecności osoby prowadzącej przesłuchanie. Rozłożyłem na stole własny szkic zabezpieczenia.
 
@@ -86,9 +90,13 @@ Chciałem zapytać, czy znalazła coś jeszcze, ale człowiek komisji przypomnia
 
 Wyszedłem z dwoma problemami, z których jeden był wyraźnie zaznaczony. To był najlepszy wynik całego tygodnia.
 
-Następnego dnia przyniosłem poprawiony schemat. Nie pozwolono mi jej go pokazać. Przez resztę przesłuchań notowałem więc pytania. Na końcu listy dopisałem jej nazwisko i podkreśliłem je dwukrotnie.
+**11 października, 1 ET**
+
+Dziś przyniosłem poprawiony schemat. Nie pozwolono mi jej go pokazać. Będę więc notował pytania. Na końcu listy dopisałem jej nazwisko i podkreśliłem je dwukrotnie.
 
 ## Rozdział III — Wniosek
+
+**29 listopada, 1 ET**
 
 Nie miałem wpływu na zeznania, dowody ani wyrok. Miałem natomiast stanowisko na uniwersytecie, kilku przełożonych, którzy cenili moje projekty, oraz przekonanie, że komisja i sąd powinny poznać moje zdanie o przydatności Rian.
 
@@ -106,13 +114,19 @@ Nie uważałem, żeby potrzebowała komentarza. Rian potrafiła znaleźć błęd
 
 Nie prosiłem o uniewinnienie. Przeczytałem dość dokumentów, żeby wiedzieć, iż nie byłoby powodu go żądać. Nie prosiłem też, żeby ktokolwiek jej wybaczył. To zadanie wydało mi się zarówno niewykonalne, jak i niepotrzebne do sprawdzenia mojego projektu.
 
-Wniosek przekazano dalej. Decyzja nie należała do mnie. Nie wiem, ile ważyły moje argumenty wobec jej własnych zeznań i pozostałych materiałów; wiem tylko, że możliwość nadzorowanej pracy przy próbach uniwersytetu znalazła się w ustalonych warunkach.
+Wniosek przekazano dalej. Decyzja nie należy do mnie. Pozostaje czekać.
+
+**20 grudnia, 1 ET**
+
+Nie wiem, ile ważyły moje argumenty wobec jej własnych zeznań i pozostałych materiałów; wiem tylko, że możliwość nadzorowanej pracy przy próbach uniwersytetu znalazła się w ustalonych warunkach.
 
 Rian została skazana. Straciła majątek i uprawnienia do pracy przy cywilnych systemach obronnych. Przez kolejne lata miała pomagać w odbudowie pod nadzorem; próby uniwersyteckich prototypów stanowiły część uzgodnionych obowiązków. Nie otrzymała swobodnego dostępu do działających instalacji.
 
-Kiedy ją później spotkałem, znała warunki. Nie wiedziała, kto wystąpił z propozycją ich uwzględnienia. Nie widziałem powodu, żeby jej mówić. Mogłaby uznać, że oczekuję wdzięczności, a ja potrzebowałem jej opinii o mechanizmach.
+Rian zna warunki. Nie wie, kto wystąpił z propozycją ich uwzględnienia. Nie widzę powodu, żeby jej mówić. Mogłaby uznać, że oczekuję wdzięczności, a ja potrzebuję jej opinii o mechanizmach.
 
 ## Rozdział IV — Drugi ołówek
+
+**14 stycznia, 2 ET**
 
 Pierwszą próbę przeprowadziliśmy na odłączonym modelu. Zgodnie z ustaleniami przy stole siedziała osoba nadzorująca, a wszystkie części policzono przed rozpoczęciem i po zakończeniu.
 
@@ -128,9 +142,13 @@ Rian obejrzała mój nowy uchwyt. Obróciła go w dłoniach, nacisnęła zabezpi
 
 Popatrzyła na mnie. Pytanie najwyraźniej było źle postawione.
 
+**22 maja, 3 ET**
+
 Przy kolejnych wizytach przynosiłem inne urządzenia. Niektóre krytykowała szybko, nad innymi spędzała godzinę. Zdarzyło się też, że po próbie oznajmiła, iż tego dnia musi wrócić do prac przy odbudowie. Nie pomogło moje wyjaśnienie, że nowy model jest interesujący.
 
-Po kilku latach zaczęła uczyć młodych rzemieślników. Spotkałem ją przy stole z grupą uczniów; wyjaśniała im, dlaczego trzeba przewidzieć również ten błąd, który wydaje się niemożliwy. Podała jednemu z nich śrubokręt i czekała, aż sam znajdzie mocowanie. Trwało to bardzo długo.
+**7 czerwca, 9 ET**
+
+Po odbyciu kary zaczęła uczyć młodych rzemieślników. Spotkałem ją przy stole z grupą uczniów; wyjaśniała im, dlaczego trzeba przewidzieć również ten błąd, który wydaje się niemożliwy. Podała jednemu z nich śrubokręt i czekała, aż sam znajdzie mocowanie. Trwało to bardzo długo.
 
 Kiedy skończyła, pokazałem jej przyrząd do stabilizacji przepływu. Rian obejrzała go, ale nie sięgnęła po narzędzia.
 
@@ -146,6 +164,6 @@ Miała rację, choć nie musiała mówić tego przy uczniach.
 
 — Jeśli przyniesie pan także wyniki poprzedniej próby.
 
-Zgodziłem się. W drodze do pracowni zdałem sobie sprawę, że nie zapytałem, czy wolałaby omówić przyrząd po zajęciach. Nie wróciłem. Zapisałem termin i dopilnowałem, żeby przyjść z wynikami.
+Zgodziłem się. W drodze do pracowni zdałem sobie sprawę, że nie zapytałem, czy wolałaby omówić przyrząd po zajęciach. Nie wróciłem. Zapisałem termin i przypomnienie, żeby zabrać wyniki.
 
 Wziąłem też drugi ołówek. Na wszelki wypadek.
