@@ -6,6 +6,8 @@ Adrien pracuje na uniwersytecie w Aurelu. Projektuje przyrządy zasilane energi�
 
 Jako młody konstruktor udoskonalił istniejący piec grzewczy na splotyt dostrojony do Ognia: przy odpowiednim użytkowaniu niewielki kryształ zasila jego rozwiązanie przez wiele tygodni, podczas gdy wcześniejsze piece działały przez dni. W 12 ET ma 37 lat; podczas wcześniejszego procesu Rian był młodszy, a jego dokładny wiek w tym momencie pozostaje nieustalony.
 
+Adrien chce uniezależnić swoje badania od przydziałów i dostaw naładowanych kryształów. Marzy o własnej instalacji, która ładowałaby je energią z dostępnego źródła, bez proszenia magów o pomoc. Wie, że podobne instalacje istnieją w Zerath i Vareth; nie wymyśla ładowania z otoczenia od nowa. Jego własny układ pozostaje nieukończony przez całą trylogię, a jego przyszłość jest otwarta. Lekceważące uwagi Adriena o magii oddają jego punkt widzenia, nie obiektywną ocenę magów.
+
 ## 1. Światło, które wskazało drogę
 
 Zapiski z 4 PT i późniejszej analizy awarii. Adrien, około 20–21-letni konstruktor, projektuje pryzmatyczny sygnalizator dla konwojów. Techniczka wskazuje naprężenie w mocowaniu kryształu. Adrien uważa, że zawiniła obsługa, i dopuszcza urządzenie bez kolejnej próby w terenie. Sygnał rozdziela się, przewodnik wjeżdża na zamkniętą drogę i ginie.

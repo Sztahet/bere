@@ -144,6 +144,10 @@ Przygotowaliśmy dwie wersje stanowiska. Jedna zachowywała mój układ, w drugi
 
 Przy krótkiej próbie zmieniony układ rzeczywiście potrzebował mniej energii. Nadal musieliśmy zbadać, czy utrzyma ten wynik w innych warunkach i czy da się go bezpiecznie powtórzyć. Nie rozwiązywało to kwestii luźnego mocowania w regulatorze Miko.
 
+Oszczędność była cenna. Zanim dostarczono kryształy do tych prób, zdążyłem dwa razy przypomnieć o zamówieniu. W szufladzie nadal trzymam szkice własnej instalacji do ładowania. Układ przyjmujący energię mogę poprawiać, ile chcę; wciąż brakuje mi dostępnego źródła, które pozwoliłoby przeprowadzić taką próbę, jaką zaplanowałem.
+
+Miko spytał kiedyś, czy zamierzam sprowadzić do Aurelu burzę. Odpowiedziałem, że gdyby potrafił zapakować jedną tak starannie jak swoje urządzenia, chętnie przyjmę dostawę.
+
 — Miał szczęście — powiedziałem.
 
 — Być może — odparła Rian. — I zauważył, że warto wrócić do próby.

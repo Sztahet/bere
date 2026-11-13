@@ -18,7 +18,11 @@ Dwie wąskie linie przecięły kurz. Uczeń podniósł rękę.
 
 Nie słyszałem go z tej odległości, ale poruszał ustami w sposób sugerujący nadmierny entuzjazm. Wystarczyło. Zapisałem wynik.
 
-Kryształ wewnątrz przyrządu był naładowany wcześniej. Nie potrafię przekazać mu energii tak jak mag; potrafię za to zaprojektować układ, który ją pobierze i skieruje tam, gdzie jest potrzebna. Dwie przesłony rozdzielały światło na sygnały. Jedna linia oznaczała drogę otwartą, dwie — zatrzymanie.
+Kryształ wewnątrz przyrządu naładowano wcześniej. Kierownictwo warsztatu wydało mi jeden do prób i kazało oszczędzać zapas. Łatwo powiedzieć komuś, żeby zaprojektował sygnalizator, a potem liczyć mu każde uruchomienie.
+
+Gdybym miał pod ręką źródło energii takie jak błyskawice w Zerath albo ciepło wulkanu w Vareth, sam zbudowałbym układ do ładowania kryształów. Tam już korzystają z takich instalacji; mnie wystarczyłaby własna, tutaj. Żadnego czekania na dostawę ani na maga, który wymachuje rękami nad stołem i wychodzi zmęczony, zanim zdążę skończyć pomiary.
+
+Na razie musiałem zadowolić się tym, co dostałem. Dwie przesłony rozdzielały światło na sygnały. Jedna linia oznaczała drogę otwartą, dwie — zatrzymanie.
 
 Proste. O ile wie się, jak zbudować przesłony.
 

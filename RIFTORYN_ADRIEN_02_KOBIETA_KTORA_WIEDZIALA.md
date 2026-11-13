@@ -146,6 +146,10 @@ Popatrzyła na mnie. Pytanie najwyraźniej było źle postawione.
 
 Przy kolejnych wizytach przynosiłem inne urządzenia. Niektóre krytykowała szybko, nad innymi spędzała godzinę. Zdarzyło się też, że po próbie oznajmiła, iż tego dnia musi wrócić do prac przy odbudowie. Nie pomogło moje wyjaśnienie, że nowy model jest interesujący.
 
+Uniwersytet ograniczył mi przydział naładowanych kryształów. Musiałem przesunąć dwie próby, chociaż urządzenia leżały gotowe na stole. Zapytałem o własne stanowisko do ładowania. Usłyszałem, że potrzebowałbym odpowiedniego źródła energii, miejsca i zgody na budowę. Odpowiedziałem, że bez trzech wymienionych rzeczy postęp rzeczywiście będzie powolny.
+
+Zostawiłem wniosek na biurku. Wrócił z prośbą o kosztorys. Na razie wróciłem do czekania na kryształy.
+
 **7 czerwca, 9 ET**
 
 Po odbyciu kary zaczęła uczyć młodych rzemieślników. Spotkałem ją przy stole z grupą uczniów; wyjaśniała im, dlaczego trzeba przewidzieć również ten błąd, który wydaje się niemożliwy. Podała jednemu z nich śrubokręt i czekała, aż sam znajdzie mocowanie. Trwało to bardzo długo.
