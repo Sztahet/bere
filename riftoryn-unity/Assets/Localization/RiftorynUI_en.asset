@@ -783,7 +783,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570042
-    m_Localized: AN ICE SABOTEUR WHO OPENS A SAFE PASSAGE FOR THE TEAM.
+    m_Localized: GUARDIAN OF THE PASS. SHE FREEZES TOWER MECHANISMS TO CLEAR A SAFE PATH FOR HER TEAM.
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570043
@@ -819,7 +819,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570051
-    m_Localized: An ice saboteur who opens a safe passage for the team.
+    m_Localized: Guardian of the Pass. She freezes tower mechanisms to clear a safe path for her team.
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570052

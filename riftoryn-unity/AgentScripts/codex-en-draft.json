@@ -234,7 +234,7 @@
       "hp": 105,
       "speed": "5,2",
       "cd": 24,
-      "desc": "An ice saboteur who opens a safe passage for the team.",
+      "desc": "Guardian of the Pass. She freezes tower mechanisms to clear a safe path for her team.",
       "passName": "Cold Step",
       "pass": "Slows effects acting on her by 15%.",
       "attackName": "Attack · Freezing Mechanism",

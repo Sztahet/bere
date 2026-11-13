@@ -274,7 +274,7 @@
       "hp": 105,
       "speed": "5,2",
       "cd": 24,
-      "desc": "Lodowa sabotażystka, która otwiera drużynie bezpieczne przejście.",
+      "desc": "Strażniczka Przesmyku. Zamraża mechanizmy wież, by otworzyć drużynie bezpieczne przejście.",
       "passName": "Zimny krok",
       "pass": "Spowolnienia działające na nią są o 15% słabsze.",
       "attackName": "Atak · Zamrożenie mechanizmu",

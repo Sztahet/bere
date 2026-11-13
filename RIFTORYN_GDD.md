@@ -380,7 +380,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 
 ### Specjaliści
 
-#### 9. Saila — Specjalistka Lodu: Lodowa Sabotażystka
+#### 9. Saila — Specjalistka Lodu: Strażniczka Przesmyku
 **HP:** 105. **Prędkość:** 5,5 m/s. Czasowo unieszkodliwia obronę.
 
 **Pasywka — Zimny krok:** spowolnienia ruchu na Saili są o 15% słabsze. W obronie ręcznie pilotowana przez nią wieża ma o 10% większy promień wykrywania.
