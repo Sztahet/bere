@@ -27,6 +27,7 @@ const codexPreviews = [
     name: 'Lena',
     role: 'Wsparcie',
     element: 'Światło',
+    portrait: 'riftoryn-unity/Assets/Resources/Portraits/lena.png',
     desc: 'Techniczka z Aurelu, która od młodości sprawdzała i zabezpieczała urządzenia w warsztacie Adriena.',
     comingSoon: true
   }

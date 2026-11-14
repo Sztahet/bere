@@ -19,3 +19,7 @@ Finał korzysta z `Assets/Resources/SailaFinale/story.json`. Wszystkie osiem kad
 ## Opowieści Adriena w grze
 
 Trzy opowieści są dostępne z karty Adriena w kodeksie Unity i korzystają odpowiednio z `Assets/Resources/AdrienStory1/story.json`, `AdrienStory2/story.json` i `AdrienStory3/story.json`. Są w języku polskim. Każda zawiera osiem oznaczonych jako `pending` miejsc na przyszłe ilustracje; czytnik je pomija, dopóki nie zostaną uzupełnione. [Plan miejsc i instrukcja dodawania obrazów](../../RIFTORYN_ADRIEN_ILUSTRACJE_PLAN.md). Teksty JSON można odtworzyć ze szkiców poleceniem `python scripts/build_adrien_stories.py`; istniejące bloki ilustracji zostają zachowane. Opowieści Adriena nie mają jeszcze osobnych stron HTML.
+
+## Splotyt w grze
+
+Przycisk **Splotyt** w kodeksie Unity otwiera poradnik w języku polskim, zapisany w `Assets/Resources/Splotyt/story.json`. Jego tekst pochodzi ze strony `splotyt.html`; po edycji strony odśwież zasób gry poleceniem `python scripts/build_splotyt_story.py`, sprawdź `python -m unittest discover -s tests` i zbuduj grę ponownie.

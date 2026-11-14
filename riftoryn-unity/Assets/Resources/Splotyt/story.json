@@ -1,0 +1,151 @@
+{
+  "chapters": [
+    {
+      "title": "1. Czym jest splotyt?",
+      "blocks": [
+        {
+          "text": "01 / PODSTAWY"
+        },
+        {
+          "text": "Splotyt to rzadki minerał krystaliczny występujący w różnych częściach Riftorynu. Potrafi przyjmować, przechowywać i przewodzić energię. Sam jej jednak nie tworzy: aby zasilał urządzenie, trzeba najpierw dostarczyć mu energię z innego źródła."
+        },
+        {
+          "text": "Poszczególne kryształy różnią się wielkością, jakością i stanem. Większy kryształ porównywalnej jakości na ogół pomieści więcej energii, ale jego rozmiar nie gwarantuje sprawności. Kryształ dostraja się do żywiołu, z którego energią ma pracować; miejsce wydobycia nie przypisuje go na stałe do jednego żywiołu."
+        },
+        {
+          "text": "Źródło → kryształ → zastosowanie Energia musi skądś pochodzić. Splotyt ją magazynuje lub przewodzi, a człowiek i odpowiednia konstrukcja nadają jej praktyczne zastosowanie."
+        }
+      ]
+    },
+    {
+      "title": "2. Magia i mechanizmy",
+      "blocks": [
+        {
+          "text": "02 / DWA SPOSOBY PRACY"
+        },
+        {
+          "text": "Praca z magią"
+        },
+        {
+          "text": "Mag może przekazać kryształowi własną energię. W Nivoren Saila ładuje kryształy potrzebne mieszkańcom i potrafi pracować z ich przepływem. Taka praca wymaga sił: przy dużym zapotrzebowaniu nie jest wydajnym zamiennikiem całej infrastruktury."
+        },
+        {
+          "text": "Praca z urządzeniami"
+        },
+        {
+          "text": "Mechanizmy mogą pobierać energię z otoczenia i wykorzystywać ją do ładowania kryształów. W Zerath korzysta się między innymi z wyładowań atmosferycznych, a w Vareth z ciepła wulkanicznego. Instalacje wymagają odpowiednich warunków, obsługi i napraw."
+        },
+        {
+          "text": "Naładowany kryształ może zasilać właściwie dostrojone urządzenie bez stałej obecności maga. Konstruktor taki jak Adrien nie musi sam władać magią: projektuje i obsługuje przyrządy wykorzystujące zgromadzoną w kryształach energię. Magia i technika mogą więc współpracować, choć nie działają w identyczny sposób."
+        }
+      ]
+    },
+    {
+      "title": "3. Urządzenia i wynalazki",
+      "blocks": [
+        {
+          "text": "03 / ŻYCIE W KRAINACH"
+        },
+        {
+          "text": "Od konstrukcji i dostrojenia urządzenia zależy, jak wykorzysta ono zgromadzoną energię. Oto przykłady znane mieszkańcom Riftorynu:"
+        },
+        {
+          "text": "Wieże"
+        },
+        {
+          "text": "Wieże obronne pomagają osłaniać szlaki, a niektóre konstrukcje w Aurel oświetlają je nocą. Automatyczna wieża może działać bez maga na miejscu, lecz potrzebuje zasilania, obsługi i napraw; nie każda jest bojowa."
+        },
+        {
+          "text": "Chłodnie"
+        },
+        {
+          "text": "Urządzenia chłodzące pomagają przechowywać żywność i leki. W swojej osadzie w Nivoren Saila ładuje kryształ chłodni, aby zapasy pozostały bezpieczne."
+        },
+        {
+          "text": "Piece grzewcze"
+        },
+        {
+          "text": "Piece wykorzystują energię kryształów dostrojonych do Ognia. Dawniejsze konstrukcje działały przez dni; ulepszenie młodego Adriena pozwoliło przy odpowiednim użytkowaniu ogrzewać pomieszczenie małym kryształem przez wiele tygodni. Czas zależy od ładunku i warunków."
+        },
+        {
+          "text": "Latarnie i lampy"
+        },
+        {
+          "text": "Naładowane kryształy zasilają światła w domach i na drogach. Właściwe urządzenie dozuje zapas, a kiedy go wyczerpie, kryształ trzeba ponownie naładować."
+        },
+        {
+          "text": "Pompy, nawadnianie i młyny"
+        },
+        {
+          "text": "Mechanizmy wspierają dostarczanie wody na pola i poruszanie młynów. Nadal potrzebne są woda, uprawy, obsługa i praca ludzi."
+        },
+        {
+          "text": "Stacje i przekaźniki"
+        },
+        {
+          "text": "Połączone stacje przesyłają energię między dostrojonymi kryształami. Infrastruktura może też wspierać przekazywanie wiadomości; przesył energii i łączność są odrębnymi zastosowaniami."
+        },
+        {
+          "text": "Sygnalizatory i narzędzia"
+        },
+        {
+          "text": "Warsztaty korzystają z przyrządów zasilanych splotytem. Pryzmatyczny sygnalizator Adriena wykorzystuje światło do przekazywania wskazówek konwojom; jego konstrukcja wymaga niezależnych prób i zabezpieczeń."
+        },
+        {
+          "text": "Konstrukty pomocnicze"
+        },
+        {
+          "text": "Zasilane kryształami konstrukty znalazły zastosowanie w transporcie i ratownictwie. Późniejsze odmiany wspierają także uczestników Prób."
+        },
+        {
+          "text": "Kryształ zużywa zgromadzony zapas i trzeba go ponownie naładować. Czas pracy zależy od ładunku, jakości kryształu, urządzenia i jego obciążenia. Sam kryształ można ładować wielokrotnie."
+        }
+      ]
+    },
+    {
+      "title": "4. Sieci i przesył",
+      "blocks": [
+        {
+          "text": "04 / POŁĄCZONE KRAINY"
+        },
+        {
+          "text": "Badacze Zerath jako pierwsi opracowali przesył energii między oddalonymi, odpowiednio dostrojonymi kryształami. Stacje i przekaźniki połączono później w sieci biegnące między miastami i wzdłuż głównych szlaków. Sieć przenosi energię, a nie same kryształy."
+        },
+        {
+          "text": "Przesył wymaga pracy stacji i wiąże się ze stratami, które zazwyczaj rosną wraz z odległością. Nowsze rozwiązania pozwalają także przesyłać energię między kryształami dostrojonymi do różnych żywiołów, ale konwersja powoduje dodatkowe straty. Lokalne źródła, zapasy i transport pozostają ważne — szczególnie poza siecią i podczas awarii."
+        }
+      ]
+    },
+    {
+      "title": "5. Zagrożenia i ograniczenia",
+      "blocks": [
+        {
+          "text": "05 / ODPOWIEDZIALNE UŻYCIE"
+        },
+        {
+          "text": "W prawidłowych warunkach splotyt zachowuje się stabilnie. Pęknięcie i niekontrolowane uwolnienie energii są rzadkie i mogą wiązać się z poważną usterką, uszkodzeniem albo niewłaściwymi warunkami pracy. Samo pęknięcie nie wyjaśnia jeszcze przyczyny awarii."
+        },
+        {
+          "text": "Duże, silnie naładowane kryształy oraz większe skupiska ładunku mogą przyciągać niektóre dzikie bestie. Nie każda reaguje tak samo, a niebezpieczne spotkania są bardzo rzadkie. Nienaładowany kryształ nie wywołuje tego zjawiska, choć nadal bywa cennym łupem dla rabusiów. Załogi Vesper stosują sposoby maskowania ładunku, ograniczając jedno z zagrożeń podróży."
+        },
+        {
+          "text": "O bezpieczne działanie dbają ludzie: magowie, konstruktorzy, operatorzy, górnicy i załogi naprawcze. Żadna sieć nie utrzyma się sama."
+        }
+      ]
+    },
+    {
+      "title": "6. Historia i tajemnice",
+      "blocks": [
+        {
+          "text": "06 / WIEDZA I NIEZNANE"
+        },
+        {
+          "text": "Najstarszy zachowany opis ładowania splotytu magią Błyskawic i wykorzystania zapasu do pracy mechanizmu pochodzi z Zerath, z 154 PT. Nie dowodzi jednak, kto pierwszy odkrył tę właściwość. Później inne ośrodki rozwijały urządzenia i zastosowania pozostałych żywiołów."
+        },
+        {
+          "text": "Pochodzenie splotytu i żywiołów pozostaje nieznane. Nie ustalono też przyczyny Nocy Zgasłych Wież ani tego, czy ówczesne awarie w różnych krainach miały wspólne źródło. Badania trwają, a zachowane świadectwa nie dają jednej pewnej odpowiedzi."
+        }
+      ]
+    }
+  ]
+}

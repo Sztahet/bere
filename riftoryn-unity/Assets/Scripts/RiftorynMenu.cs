@@ -42,7 +42,7 @@ public static class RiftorynCodexData {
 
 public partial class RiftorynMenu : MonoBehaviour {
     RiftorynTrial trial; CodexHero[] heroes; Texture2D white; readonly Dictionary<string,Texture2D> portraits=new();
-    int page, tab, selected,selectedComic,timelineSelected; bool storyOpen; float storyZoom=1f; Vector2 scroll,detailScroll,storyScroll,comicListScroll,timelineScroll,timelineDetailScroll; readonly Dictionary<string,Texture2D> timelineImages=new(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); HeroComic[] comics=Array.Empty<HeroComic>(); CodexTimelineEra[] timelineEras=Array.Empty<CodexTimelineEra>(); GUIStyle comicCaption,comicTitle,timelineDate,timelineBody; string[] tabs={"BOHATEROWIE","WIEŻE","STATUSY","ŻYWIOŁY","MAPA","ZASADY","ŚWIAT","DRZEWKO","OŚ CZASU"};
+    int page, tab, selected,selectedComic,timelineSelected; bool storyOpen; float storyZoom=1f; Vector2 scroll,detailScroll,storyScroll,comicListScroll,timelineScroll,timelineDetailScroll; readonly Dictionary<string,Texture2D> timelineImages=new(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); HeroComic[] comics=Array.Empty<HeroComic>(); CodexTimelineEra[] timelineEras=Array.Empty<CodexTimelineEra>(); GUIStyle comicCaption,comicTitle,timelineDate,timelineBody; string[] tabs={"BOHATEROWIE","WIEŻE","STATUSY","ŻYWIOŁY","MAPA","ZASADY","ŚWIAT","DRZEWKO","OŚ CZASU","SPLOTYT"};
     Color bg=new(.045f,.038f,.075f), panel=new(.10f,.085f,.14f), panelAlt=new(.13f,.11f,.18f), line=new(.29f,.25f,.34f), gold=new(.87f,.72f,.46f), muted=new(.68f,.64f,.72f), pale=new(.96f,.92f,.88f);
     GUIStyle brand,nav,title,section,eyebrow,body,mutedText,button,cardName,detailTitle,detailLabel,heroBadge,resistanceNameStyle,resistanceValueStyle,compactButton,compactHeading,compactText;
     void Awake(){trial=GetComponent<RiftorynTrial>();var data=Resources.Load<TextAsset>("codex");if(data){var roster=JsonUtility.FromJson<CodexRoster>(data.text);heroes=roster?.heroes??Array.Empty<CodexHero>();roleBonuses=roster?.roleBonuses??Array.Empty<CodexRoleBonus>();}else heroes=Array.Empty<CodexHero>();var comicData=Resources.Load<TextAsset>("comic_stories");if(comicData){var catalog=JsonUtility.FromJson<HeroComicCatalog>(comicData.text);comics=catalog?.comics??Array.Empty<HeroComic>();}var timelineData=Resources.Load<TextAsset>("codex_timeline");if(timelineData){var catalog=JsonUtility.FromJson<CodexTimelineCatalog>(timelineData.text);timelineEras=catalog?.eras??Array.Empty<CodexTimelineEra>();}white=Texture2D.whiteTexture;}
@@ -73,8 +73,8 @@ public partial class RiftorynMenu : MonoBehaviour {
             Fill(r,active?new Color(.19f,.16f,.22f):new Color(.09f,.075f,.13f));
             if(active)Fill(new Rect(r.x,r.yMax-3,r.width,3),gold);
             var style=new GUIStyle(nav){alignment=TextAnchor.MiddleCenter};style.normal.textColor=active?gold:muted;
-            string label=i==8?RiftorynCodexData.Text("OŚ CZASU","TIMELINE"):RiftorynL10n.Translate(tabs[i]);
-            if(GUI.Button(r,label,style)){tab=i;scroll=Vector2.zero;detailScroll=Vector2.zero;}
+            string label=i==8?RiftorynCodexData.Text("OŚ CZASU","TIMELINE"):i==9?RiftorynCodexData.Text("SPLOTYT","SPLOTITE"):RiftorynL10n.Translate(tabs[i]);
+            if(GUI.Button(r,label,style)){if(i==9)OpenSailaStory("Splotyt","SPLOTYT","KODEKS");else{tab=i;scroll=Vector2.zero;detailScroll=Vector2.zero;}}
             x+=width+8;
         }
         if(tab==0)HeroCodex();else if(tab==3)ElementEncyclopedia();else if(tab==6)WorldEncyclopedia();else if(tab==7)TreeEncyclopedia();else if(tab==8)TimelineCodex();else Catalog();
