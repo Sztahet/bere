@@ -128,7 +128,7 @@ Miko wyłączył zasilanie i odczekał, aż wskaźnik opadnie. Nie próbował za
 
 Usiedliśmy przy stole. Rozłożył kartki obok moich rysunków i bez pytania wziął ołówek. Tym razem podałem mu drugi, zanim zdążył użyć pierwszego.
 
-Rozmawialiśmy do południa. To znaczy: ja wskazywałem mu, dlaczego część jego decyzji była błędna, a on co pewien czas pytał, dlaczego w takim razie jego urządzenie uzyskało lepszy wynik. Jest jedną z niewielu osób, którym pozwalam zadawać takie pytania we własnej pracowni.
+Rozmawialiśmy do wieczora. To znaczy: ja wskazywałem mu, dlaczego część jego decyzji była błędna, a on co pewien czas pytał, dlaczego w takim razie jego urządzenie uzyskało lepszy wynik. Jest jedną z niewielu osób, którym pozwalam zadawać takie pytania we własnej pracowni.
 
 Nie wiem dokładnie, kiedy zaczęliśmy nazywać się przyjaciółmi. Pamiętam, że kiedyś przyjechał do Aurelu z uszkodzonym przyrządem i został na kolacji, bo obaj zapomnieliśmy o porze. Później przysyłał mi szkice. Większość wymagała poprawek, ale zawsze było w nich coś, co chciałem sprawdzić.
 
@@ -188,9 +188,9 @@ Zostawiła mi też notatkę, że Lucen może przyjść doładować kryształy po
 
 Przy krótkiej próbie zmieniony układ rzeczywiście potrzebował mniej energii. Nadal musieliśmy zbadać, czy utrzyma ten wynik w innych warunkach i czy da się go bezpiecznie powtórzyć. Nie rozwiązywało to kwestii luźnego mocowania w regulatorze Miko.
 
-Oszczędność była cenna. Zanim dostarczono kryształy do tych prób, zdążyłem dwa razy przypomnieć o zamówieniu. W szufladzie nadal trzymam szkice własnej instalacji do ładowania. Układ przyjmujący energię mogę poprawiać, ile chcę; wciąż brakuje mi dostępnego źródła, które pozwoliłoby przeprowadzić taką próbę, jaką zaplanowałem.
+Zauważyłem jednak, że wskazówka wracała wolniej przy każdym kolejnym impulsie. Rian chciała powtórzyć pomiar, więc poprosiłem ją, żeby najpierw sprawdziła mały styk pod przesłoną. Przewidziałem, że po kilku uruchomieniach będzie się nagrzewał i opóźni powrót mechanizmu.
 
-Miko spytał kiedyś, czy zamierzam sprowadzić do Aurelu burzę. Odpowiedziałem, że gdyby potrafił zapakować jedną tak starannie jak swoje urządzenia, chętnie przyjmę dostawę.
+Styk był ciepły. Po jego wymianie wskazówka wracała równo, a wynik oszczędniejszego układu się utrzymał. Rian sprawdziła pomiary i przyznała, że znalazłem przyczynę. Nie musiała tego mówić, ale nie przerwałem jej.
 
 — Miał szczęście — powiedziałem.
 
@@ -199,6 +199,10 @@ Miko spytał kiedyś, czy zamierzam sprowadzić do Aurelu burzę. Odpowiedziałe
 — Ja też to zauważyłem.
 
 — Po tym, jak ci ją pokazał.
+
+Oszczędność była cenna. Zanim dostarczono kryształy do tych prób, zdążyłem dwa razy przypomnieć o zamówieniu. W szufladzie nadal trzymam szkice własnej instalacji do ładowania. Układ przyjmujący energię mogę poprawiać, ile chcę; wciąż brakuje mi dostępnego źródła, które pozwoliłoby przeprowadzić taką próbę, jaką zaplanowałem.
+
+Miko spytał kiedyś, czy zamierzam sprowadzić do Aurelu burzę. Odpowiedziałem, że gdyby potrafił zapakować jedną tak starannie jak swoje urządzenia, chętnie przyjmę dostawę.
 
 Zapisałem wyniki. Dopisałem imię Miko, zanim przypomniała mi o tym Rian. Po chwili dopisałem jej imię przy uwadze o śrubie i osobno imię Leny przy kontroli mocowań.
 

@@ -174,17 +174,7 @@ Lucen nadal przyglądał się mechanizmowi.
 
 — Wówczas powinien uważniej wykonywać swoją pracę.
 
-Lucen odłożył narzędzie.
-
-— Czyli urządzenie jest bezpieczne pod warunkiem, że człowiek nie popełni błędu?
-
-— W dużym uproszczeniu.
-
-— Ludzie popełniają błędy.
-
-— Zauważyłem.
-
-— W takim razie zabezpieczenie powinno działać również wtedy, kiedy ktoś się pomyli.
+— Ludzie się mylą. Zabezpieczenie powinno działać także wtedy.
 
 Nie spodobał mi się sposób, w jaki to powiedział. Szczególnie że miał rację.
 
