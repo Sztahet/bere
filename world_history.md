@@ -2,6 +2,8 @@
 
 **Status: kanon historii świata Riftorynu.** Ten dokument ustala historię, chronologię i zasady świata. Bieżący projekt Unity jest źródłem aktualnej treści gry, w tym biografii i komiksów. Przyczyny Nocy Zgasłych Wież pozostają niepotwierdzone w świecie opowieści.
 
+Przy tworzeniu kolejnych historii korzystaj również z [notatek o relacjach i perspektywach bohaterów](RIFTORYN_RELACJE_I_PERSPEKTYWY.md); ich pomysły na przyszłe sceny pozostają propozycjami.
+
 ## Podstawowe fakty
 
 - Rok w Riftorynie ma 365 dni i 12 miesięcy o znanych czytelnikowi nazwach i długościach, od stycznia do grudnia; nie stosuje się dnia przestępnego. Daty oznacza się latami przed Traktatem (PT) lub erą Traktatu (ET), z rokiem podpisania jako 0 ET.

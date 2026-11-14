@@ -1,5 +1,7 @@
 # Adrien — propozycja trylogii
 
+Wspólne zasady perspektywy oraz zależności między bohaterami zapisano w [notatkach o relacjach](RIFTORYN_RELACJE_I_PERSPEKTYWY.md).
+
 **Status:** rozwinięcie do wspólnego dopracowania. Ustalono, że Adrien jest konstruktorem, ma 37 lat w 12 ET, zna Miko oraz wystąpił o złagodzenie wyroku Rian z myślą o własnej pracy. Kolejność szczegółowych scen i instytucjonalne rozwiązania poniżej są propozycją.
 
 Adrien pracuje na uniwersytecie w Aurelu. Projektuje przyrządy zasilane energią zgromadzoną w kryształach. Nie kieruje nią własną magią. Jest genialny i niecierpliwy. Dostrzega ludzi, którzy potrafią go intelektualnie zaskoczyć, ale łatwo sprowadza ich do tego, co mogą mu zaoferować. Jest przekonany, że zasługuje na większe uznanie. Zamówienia i uznanie już zdobył, lecz według niego nikt nie docenia skali jego osiągnięć.
