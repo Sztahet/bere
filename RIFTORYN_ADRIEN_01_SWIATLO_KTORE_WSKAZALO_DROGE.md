@@ -126,6 +126,34 @@ Przez ostatnie tygodnie poprawiałem konstrukcję. Lena sprawdzała ją na stole
 
 Przed następną próbą zabrakło mi naładowanego kryształu. Lena przypomniała kierownictwu o moim zamówieniu, ale maga przysłano dopiero nazajutrz. Przez ten czas przygotowała dwa zapasowe mocowania i zostawiła je na moim stole. Jedno było jej projektu. Drugie też.
 
+Później przyniosła trzecią wersję. Odrzuciłem dwie pierwsze, ponieważ były niepotrzebnie skomplikowane. Trzecia była jeszcze bardziej skomplikowana.
+
+— Po co dodatkowy wspornik? — zapytałem.
+
+— Żebyś nie musiał wymieniać całego mechanizmu, kiedy znowu coś pęknie.
+
+— Zakładasz, że znowu coś pęknie?
+
+— Ty zakładałeś, że nie pęknie.
+
+Nie odpowiedziałem.
+
+Przez następne dwie godziny sprawdzaliśmy obciążenia na stanowisku. Przy szóstej próbie moje mocowanie ustąpiło. Jej wytrzymało.
+
+W wynikach zapisałem, że konstrukcja Leny wykazuje większą odporność na wstrząsy. Nie widziałem potrzeby komentowania tego faktu.
+
+Lena zajrzała mi przez ramię.
+
+— Napisałeś moje imię?
+
+— Oczywiście.
+
+— Nie podpisałeś projektu swoim?
+
+— To byłoby niezgodne z dokumentacją.
+
+Uśmiechnęła się. Nie rozumiem, dlaczego ją to rozbawiło.
+
 Dodałem też osobny sygnał, który nie korzystał z tej samej przesłony. Gdy pierwszy układ zawodził, drugi nie wskazywał już drogi. Nakazywał zatrzymanie.
 
 Lena zapytała, czy chcę, żeby przed kolejnym użyciem obejrzał go ktoś spoza warsztatu. Powiedziałem, że tak. Nie dlatego, że obca osoba zrozumie mój projekt lepiej ode mnie. Po prostu będzie mogła sprawdzić miejsce, które ja uznam za niewarte sprawdzania.

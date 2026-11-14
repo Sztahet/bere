@@ -60,6 +60,48 @@ Spojrzałem na niego.
 
 — Potem ją przymocowałem — dodał.
 
+— I postanowiłeś tak ją zostawić?
+
+— Pod poprzednim kątem nie działała.
+
+— To nie jest uzasadnienie.
+
+— Jest, jeśli sprawdzisz poprzednie próby.
+
+Wróciłem do jego notatek. Przy kolejnych wynikach zaznaczył, który element zmieniał i co działo się z przepływem. Niektóre pomysły były absurdalne. Inne zaskakująco rozsądne.
+
+— Nie miałeś planu? — zapytałem.
+
+— Miałem.
+
+— Więc dlaczego go nie zrealizowałeś?
+
+— Bo nie działał.
+
+Spojrzałem na niego.
+
+— Miko, nie możesz po prostu zmieniać konstrukcji, dopóki przypadkiem nie zacznie działać.
+
+— Mogę. Właśnie ci pokazałem.
+
+— To nie jest metoda naukowa.
+
+— Dlatego zapisuję wyniki.
+
+Przez chwilę milczeliśmy. Potem wskazał jedną z moich cewek.
+
+— A próbowałeś odwrócić tę?
+
+— Oczywiście, że nie.
+
+— Dlaczego?
+
+— Bo nie ma żadnego powodu, żeby działała lepiej.
+
+— No właśnie.
+
+Nie cierpię, kiedy tak mówi.
+
 ## Rozdział II — Lepszy wynik
 
 **18 kwietnia, 12 ET · po południu**
@@ -213,3 +255,57 @@ Na końcu dopisałem: *Jeśli masz kolejne szkice, przywieź je.*
 Zastanawiałem się, czy nie skreślić tego zdania. Nie potrzebowałem następnej skrzynki z cewką, która znalazła właściwe miejsce, spadając ze stołu.
 
 Zostawiłem je. Chciałem wiedzieć, co wymyśli następnym razem.
+
+## Rozdział V — Jeszcze jedna próba
+
+**24 kwietnia, 12 ET**
+
+Pierwszy prototyp urządzenia do zakłócania wież działa. Przynajmniej w warunkach laboratoryjnych.
+
+Udało mi się wywołać krótkotrwałe zakłócenie przepływu w odłączonym modelu mechanizmu kierującego. Wykorzystałem przy tym mniej energii, niż zakładałem. Uważam wynik za obiecujący.
+
+Lena uważa go za niewystarczający.
+
+— Trzeba sprawdzić, co się stanie przy niestabilnym zasilaniu — powiedziała.
+
+— Wiem.
+
+— I przy uszkodzonym mocowaniu.
+
+— Wiem.
+
+— I kiedy urządzenie zostanie uderzone.
+
+— Leno, jestem świadomy, że podczas Igrzysk przeciwnicy nie będą obchodzili się z moimi wynalazkami delikatnie.
+
+— W takim razie nie podpiszesz dopuszczenia przed próbą.
+
+— Oczywiście, że nie.
+
+Spojrzała na mnie z pewnym zaskoczeniem.
+
+— Naprawdę?
+
+— Ostatnim razem, kiedy dopuściłem urządzenie bez wystarczających prób, ktoś zginął.
+
+Przez chwilę było cicho.
+
+— Dlatego — dodałem — tym razem zamierzam sprawdzić, czy działa prawidłowo, zanim pozwolę komukolwiek z niego korzystać.
+
+Lena skinęła głową.
+
+— Dobrze.
+
+— Oczywiście, że dobrze. To mój projekt.
+
+Wyszła, a ja wróciłem do schematów. Jeśli moje urządzenia mają trafić na arenę Wielkich Igrzysk, muszą być niezawodne. Nie zamierzam przegrywać dlatego, że ktoś źle dokręcił śrubę.
+
+Ani dlatego, że ja zapomniałem sprawdzić, czy może się poluzować.
+
+Zostało mi niewiele czasu. Potrzebuję kolejnych prób, nowego mocowania i odpowiednio naładowanych kryształów. Lucen powinien być dostępny w przyszłym tygodniu. Wysłałem do niego wiadomość.
+
+Poprosiłem też Lenę o dodatkową kontrolę projektu. Nie dlatego, że nie ufam własnym obliczeniom.
+
+Po prostu chciałbym, żeby tym razem wszystkie osoby uczestniczące w próbie wróciły później do domu.
+
+Najlepiej po obejrzeniu mojego zwycięstwa.

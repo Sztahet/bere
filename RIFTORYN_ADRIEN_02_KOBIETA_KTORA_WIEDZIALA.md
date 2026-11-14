@@ -164,6 +164,42 @@ Kiedy Lucen ładował pierwszy kryształ, obserwował wskaźnik i zatrzymał prz
 
 Lena sprawdziła. Ruszało się. Nie widzę jednak powodu, żeby Lucen stawiał swoje narzędzia na moich rysunkach.
 
+Lucen nadal przyglądał się mechanizmowi.
+
+— A co się stanie, jeśli operator nie zauważy uszkodzenia?
+
+— Po to właśnie jest wskaźnik.
+
+— A jeśli go nie zobaczy?
+
+— Wówczas powinien uważniej wykonywać swoją pracę.
+
+Lucen odłożył narzędzie.
+
+— Czyli urządzenie jest bezpieczne pod warunkiem, że człowiek nie popełni błędu?
+
+— W dużym uproszczeniu.
+
+— Ludzie popełniają błędy.
+
+— Zauważyłem.
+
+— W takim razie zabezpieczenie powinno działać również wtedy, kiedy ktoś się pomyli.
+
+Nie spodobał mi się sposób, w jaki to powiedział. Szczególnie że miał rację.
+
+Zapytałem, gdzie studiował projektowanie mechanizmów.
+
+— Nie studiowałem go tyle, ile pan.
+
+— To akurat widać.
+
+— Ale widziałem, co się dzieje, kiedy urządzenie przestaje działać tak, jak powinno.
+
+Nie rozwinął myśli. Dopisałem do projektu dodatkowe zabezpieczenie. Nie zamierzałem dziękować komuś za wskazanie problemu, którego rozwiązanie powinienem był przewidzieć sam.
+
+Mimo to zapamiętałem jego imię.
+
 **12 września, 7 ET**
 
 Poprosiłem dzisiaj o Lucena. Konkretnie o niego, nie o dowolnego maga, którego akurat znajdą na korytarzu. Chciałem porównać dwie próby, a on potrafi uważnie doładować kryształy i rozumie, co dzieje się w obudowie.
@@ -190,6 +226,28 @@ Miała rację, choć nie musiała mówić tego przy uczniach.
 
 — Jeśli przyniesie pan także wyniki poprzedniej próby.
 
-Zgodziłem się. W drodze do pracowni zdałem sobie sprawę, że nie zapytałem, czy wolałaby omówić przyrząd po zajęciach. Nie wróciłem. Zapisałem termin i przypomnienie, żeby zabrać wyniki.
+Zgodziłem się. Rian wróciła do uczniów, a ja obserwowałem ich przez chwilę. Jeden z chłopców nie potrafił prawidłowo ustawić zabezpieczenia. Trzeci raz popełniał ten sam błąd.
+
+— Powinnaś mu pokazać — powiedziałem.
+
+— Już pokazałam.
+
+— Więc dlaczego nadal robi to źle?
+
+— Bo jeszcze się uczy.
+
+— Mógłby nauczyć się szybciej.
+
+Rian spojrzała na mnie.
+
+— Ty też mogłeś.
+
+Nie wiedziałem, czy miała na myśli moje pierwsze projekty, czy coś innego.
+
+Chłopak w końcu poprawnie ustawił zabezpieczenie. Rian uśmiechnęła się do niego. Wyglądała na bardziej zadowoloną niż wtedy, gdy znalazła błąd w moim przyrządzie.
+
+Nie rozumiem tego. Odkrycie błędu w przyrządzie było znacznie trudniejsze.
+
+W drodze do pracowni zdałem sobie sprawę, że nie zapytałem, czy wolałaby omówić przyrząd po zajęciach. Nie wróciłem. Zapisałem termin i przypomnienie, żeby zabrać wyniki.
 
 Wziąłem też drugi ołówek. Na wszelki wypadek.
