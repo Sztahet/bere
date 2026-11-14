@@ -11,12 +11,13 @@ public partial class RiftorynMenu
     int sailaChapter;
     Vector2 sailaScroll;
     SailaStoryData sailaStory;
-    string sailaStoryFolder="SailaStory", sailaStoryTitle="CIĘŻAR KRYSZTAŁU";
+    string sailaStoryFolder="SailaStory", sailaStoryTitle="CIĘŻAR KRYSZTAŁU", storyHeroName="SAILA";
 
-    void OpenSailaStory(string folder, string title)
+    void OpenSailaStory(string folder, string title, string heroName="SAILA")
     {
         sailaStoryFolder=folder;
         sailaStoryTitle=title;
+        storyHeroName=heroName;
         sailaStory=null;sailaReaderOpen=true;sailaChapter=0;sailaScroll=Vector2.zero;
     }
     GUIStyle sailaTitle, sailaBody, sailaSmall, sailaButton;
@@ -35,7 +36,7 @@ public partial class RiftorynMenu
         float right=w-pad;
         if(GUI.Button(new Rect(right-44,8,44,bar-10),"→",sailaButton) && sailaStory!=null && sailaChapter<sailaStory.chapters.Length-1){sailaChapter++;sailaScroll=Vector2.zero;}
         if(GUI.Button(new Rect(right-94,8,44,bar-10),"←",sailaButton) && sailaChapter>0){sailaChapter--;sailaScroll=Vector2.zero;}
-        GUI.Label(new Rect(pad+120,15,Mathf.Max(30,w-pad*2-230),25),"SAILA  /  "+sailaStoryTitle,sailaSmall);
+        GUI.Label(new Rect(pad+120,15,Mathf.Max(30,w-pad*2-230),25),storyHeroName+"  /  "+sailaStoryTitle,sailaSmall);
         if(sailaStory==null||sailaStory.chapters==null||sailaStory.chapters.Length==0){GUI.Label(new Rect(pad,70,w-pad*2,60),"Nie udało się wczytać opowieści.",sailaBody);return;}
         var chapter=sailaStory.chapters[Mathf.Clamp(sailaChapter,0,sailaStory.chapters.Length-1)];
         float width=Mathf.Min(780,w-pad*2-20), viewHeight=Mathf.Max(20,h-65), y=75;

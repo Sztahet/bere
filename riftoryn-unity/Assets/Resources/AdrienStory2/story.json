@@ -1,0 +1,412 @@
+{
+  "chapters": [
+    {
+      "title": "1. Jedenaście minut",
+      "blocks": [
+        {
+          "text": "10 października, 1 ET"
+        },
+        {
+          "text": "Na sali brakowało miejsca na wszystkie skrzynie, więc dwie ustawiono pod ścianą za mną. Co jakiś czas ktoś je otwierał, a wtedy musiałem przesuwać nogi. Po trzecim razie przestałem."
+        },
+        {
+          "text": "Przyszedłem, ponieważ komisja badająca wojenne sabotaże miała omawiać uszkodzenia mechanizmów obronnych. Uniwersytet otrzymał część urządzeń do analizy, a ja chciałem zobaczyć ich dokumentację przed innymi. Jeśli ktoś wśród tych papierów znalazł rysunek zabezpieczenia, którego jeszcze nie znałem, zamierzałem zanotować, jak działało."
+        },
+        {
+          "text": "Miałem już za sobą pracę nad ulepszeniem pieca grzewczego i wojennym sygnalizatorem. To między innymi dzięki urządzeniom, które zaprojektowałem, uzyskałem miejsce na sali."
+        },
+        {
+          "text": "Nie spodziewałem się, że zainteresuje mnie osoba składająca zeznania."
+        },
+        {
+          "text": "Rian siedziała po drugiej stronie stołu. Na pytania odpowiadała wyraźnie, choć pod koniec dnia kazano jej powtarzać rzeczy, które sama powiedziała już dwa razy. Nie odmawiała. Kiedy nie pamiętała daty, mówiła, że jej nie pamięta. Kiedy podawano jej dokument, sprawdzała podpis, zanim zaczęła czytać."
+        },
+        {
+          "image": 1,
+          "alt": "Rian składa zeznania przed komisją.",
+          "pending": true
+        },
+        {
+          "text": "— Ile czasu alarm pozostawał wyłączony? — zapytał członek komisji."
+        },
+        {
+          "text": "— Jedenaście minut."
+        },
+        {
+          "text": "Wcześniej opisała bramę w Val Meris. Przyjęła zlecenie unieruchomienia obrony i wyłączyła również ostrzeżenie ewakuacyjne. Wiedziała, że może osłabić wieże, nie naruszając alarmu. Wybrała inne rozwiązanie, prostsze dla niej."
+        },
+        {
+          "text": "Ktoś zapytał, czy spodziewała się, że sygnał wróci."
+        },
+        {
+          "text": "— Tak. Myślałam, że po kilku minutach."
+        },
+        {
+          "text": "— A mieszkańcy?"
+        },
+        {
+          "text": "— Wiedziałam, że mogą nie dostać ostrzeżenia."
+        },
+        {
+          "text": "W sali zrobiło się cicho. Z tyłu ktoś przesunął ławę. Odwróciłem się, bo dźwięk przeszkodził mi w szkicowaniu, i zobaczyłem kobietę ściskającą brzeg chusty. Kiedy wróciłem wzrokiem do stołu, Rian nadal patrzyła na pytającego."
+        },
+        {
+          "text": "Jedenastu minut nie zapisałem od razu. Najpierw skończyłem rysunek wyłącznika."
+        },
+        {
+          "image": 2,
+          "alt": "Adrien słucha zeznań Rian, szkicując mechanizm.",
+          "pending": true
+        },
+        {
+          "text": "Rian nie twierdziła, że jej działania wyjaśniają wszystkie awarie w Val Meris. Mówiła o tej bramie, o zleceniach i o dokumentach, które przyniosła. Komisja pytała dalej; przyczyny pozostałych awarii nie stały się przez to jaśniejsze."
+        },
+        {
+          "text": "Podczas przerwy przeglądałem szkic. Rian opisała kolejność działania dźwigni, choć od tamtego dnia minęły lata. Zapamiętała również, która osłona została wymieniona przed jej przybyciem. Kiedy zwróciła na to uwagę, dwóch członków komisji zaczęło szukać właściwego dokumentu. Ona nie potrzebowała dokumentu, żeby wiedzieć, gdzie patrzeć."
+        },
+        {
+          "text": "Uznałem, że warto z nią porozmawiać."
+        }
+      ]
+    },
+    {
+      "title": "2. Pierwsza rozmowa",
+      "blocks": [
+        {
+          "text": "10 października, 1 ET · wieczór"
+        },
+        {
+          "text": "Pierwsza okazja pojawiła się po kolejnej części zeznań. Pozwolono mi zadać jej pytanie w obecności osoby prowadzącej przesłuchanie. Rozłożyłem na stole własny szkic zabezpieczenia."
+        },
+        {
+          "image": 3,
+          "alt": "Adrien pokazuje Rian szkic podczas pierwszej rozmowy.",
+          "pending": true
+        },
+        {
+          "text": "— Chcę wiedzieć, jak by je pani wyłączyła."
+        },
+        {
+          "text": "Spojrzała na rysunek, potem na mnie."
+        },
+        {
+          "text": "— Dzień dobry."
+        },
+        {
+          "text": "— Adrien. Uniwersytet w Aurelu."
+        },
+        {
+          "text": "— Rian. Nie wiem, czy mnie pan kojarzy, ale mówiłam dzisiaj przez kilka godzin."
+        },
+        {
+          "text": "Osoba pilnująca dokumentów ukryła uśmiech. Ja przesunąłem rysunek bliżej."
+        },
+        {
+          "text": "— Zauważyłem."
+        },
+        {
+          "text": "Rian przyjrzała się przekrojowi i poprosiła o ołówek. Nie dostała go ode mnie, ponieważ mój był zaostrzony. Drugi podał jej człowiek komisji."
+        },
+        {
+          "text": "Zaznaczyła obudowę, a później niewielką klapę przy mocowaniu."
+        },
+        {
+          "text": "— Odłączyłabym kontrolkę, zanim otworzyłabym główną osłonę."
+        },
+        {
+          "text": "— Kontrolka ma oddzielny obwód."
+        },
+        {
+          "text": "— Do tego miejsca. — Dotknęła kartki. — Dalej oba przechodzą przez ten sam uchwyt."
+        },
+        {
+          "text": "Nie przechodziły. Sprawdziłem projekt przed wyjściem."
+        },
+        {
+          "text": "Pochyliłem się nad kartką. Przechodziły."
+        },
+        {
+          "text": "— To można poprawić."
+        },
+        {
+          "text": "— Tak. Dlatego mówię panu teraz, a nie po zamontowaniu."
+        },
+        {
+          "text": "Chciałem zapytać, czy znalazła coś jeszcze, ale człowiek komisji przypomniał, że przerwa się skończyła. Rian odłożyła ołówek. Zostawiła na marginesie mały znak przy drugim połączeniu."
+        },
+        {
+          "text": "— To również? — spytałem."
+        },
+        {
+          "text": "— Możliwe. Nie zdążyłam sprawdzić."
+        },
+        {
+          "text": "— A jak pani sądzi?"
+        },
+        {
+          "text": "— Sądzę, że powinien pan sprawdzić."
+        },
+        {
+          "text": "Wyszedłem z dwoma problemami, z których jeden był wyraźnie zaznaczony. To był najlepszy wynik całego tygodnia."
+        },
+        {
+          "text": "11 października, 1 ET"
+        },
+        {
+          "text": "Dziś przyniosłem poprawiony schemat. Nie pozwolono mi jej go pokazać. Będę więc notował pytania. Na końcu listy dopisałem „Rian” i podkreśliłem dwukrotnie."
+        }
+      ]
+    },
+    {
+      "title": "3. Wniosek",
+      "blocks": [
+        {
+          "text": "29 listopada, 1 ET"
+        },
+        {
+          "text": "Nie miałem wpływu na zeznania, dowody ani wyrok. Miałem natomiast stanowisko na uniwersytecie, kilku przełożonych, którzy cenili moje projekty, oraz przekonanie, że komisja i sąd powinny poznać moje zdanie o przydatności Rian."
+        },
+        {
+          "text": "Wniosek pisałem trzy razy. Pierwszy zwrócono mi z uwagą, że „niezwykła sprawność umysłowa” nie jest propozycją wykonania kary. W drugim wyliczyłem zadania, które mogłaby wykonywać pod nadzorem: badanie odłączonych prototypów, wskazywanie wad i udział w próbach zabezpieczeń. W trzecim dopisałem, że odbudowa pozostaje częścią jej obowiązków, a dostęp do cywilnych systemów obronnych powinien być ograniczony."
+        },
+        {
+          "image": 4,
+          "alt": "Adrien przygotowuje wniosek dla komisji.",
+          "pending": true
+        },
+        {
+          "text": "Poprosiłem również, by możliwość tej pracy uwzględniono przy wymiarze kary."
+        },
+        {
+          "text": "— Robisz to dla niej? — spytała Lena, kiedy przeczytała kopię."
+        },
+        {
+          "text": "— Dla moich konstrukcji."
+        },
+        {
+          "text": "— To przynajmniej uczciwa odpowiedź."
+        },
+        {
+          "text": "Nie uważałem, żeby potrzebowała komentarza. Rian potrafiła znaleźć błędy, które przeoczyłem. Chciałem, żeby znalazła następne, zanim zobaczą je ludzie, którzy zechcą je wykorzystać."
+        },
+        {
+          "text": "Nie prosiłem o uniewinnienie. Przeczytałem dość dokumentów, żeby wiedzieć, iż nie byłoby powodu go żądać. Nie prosiłem też, żeby ktokolwiek jej wybaczył. To zadanie wydało mi się zarówno niewykonalne, jak i niepotrzebne do sprawdzenia mojego projektu."
+        },
+        {
+          "text": "Wniosek przekazano dalej. Decyzja nie należy do mnie. Pozostaje czekać."
+        },
+        {
+          "text": "20 grudnia, 1 ET"
+        },
+        {
+          "text": "Nie wiem, ile ważyły moje argumenty wobec jej własnych zeznań i pozostałych materiałów; wiem tylko, że możliwość nadzorowanej pracy przy próbach uniwersytetu znalazła się w ustalonych warunkach."
+        },
+        {
+          "text": "Rian została skazana. Straciła majątek i uprawnienia do pracy przy cywilnych systemach obronnych. Przez kolejne lata miała pomagać w odbudowie pod nadzorem; próby uniwersyteckich prototypów stanowiły część uzgodnionych obowiązków. Nie otrzymała swobodnego dostępu do działających instalacji."
+        },
+        {
+          "text": "Rian zna warunki. Nie wie, kto wystąpił z propozycją ich uwzględnienia. Nie widzę powodu, żeby jej mówić. Mogłaby uznać, że oczekuję wdzięczności, a ja potrzebuję jej opinii o mechanizmach."
+        }
+      ]
+    },
+    {
+      "title": "4. Drugi ołówek",
+      "blocks": [
+        {
+          "text": "14 stycznia, 2 ET"
+        },
+        {
+          "text": "Pierwszą próbę przeprowadziliśmy na odłączonym modelu. Zgodnie z ustaleniami przy stole siedziała osoba nadzorująca, a wszystkie części policzono przed rozpoczęciem i po zakończeniu."
+        },
+        {
+          "image": 5,
+          "alt": "Rian sprawdza model pod nadzorem.",
+          "pending": true
+        },
+        {
+          "text": "Rian obejrzała mój nowy uchwyt. Obróciła go w dłoniach, nacisnęła zabezpieczenie i odłożyła."
+        },
+        {
+          "text": "— Tym razem kontrolka pozostanie włączona."
+        },
+        {
+          "text": "— Wiem."
+        },
+        {
+          "text": "— Ale jeśli zablokuję trzpień, nie da się odłączyć zasilania."
+        },
+        {
+          "text": "— Kto chciałby blokować trzpień?"
+        },
+        {
+          "text": "Popatrzyła na mnie. Pytanie najwyraźniej było źle postawione."
+        },
+        {
+          "text": "22 maja, 3 ET"
+        },
+        {
+          "text": "Przy kolejnych wizytach przynosiłem inne urządzenia. Niektóre krytykowała szybko, nad innymi spędzała godzinę. Zdarzyło się też, że po próbie oznajmiła, iż tego dnia musi wrócić do prac przy odbudowie. Nie pomogło moje wyjaśnienie, że nowy model jest interesujący."
+        },
+        {
+          "text": "Uniwersytet ograniczył mi przydział naładowanych kryształów. Musiałem przesunąć dwie próby, chociaż urządzenia leżały gotowe na stole. Zapytałem o własne stanowisko do ładowania. Usłyszałem, że potrzebowałbym odpowiedniego źródła energii, miejsca i zgody na budowę. Odpowiedziałem, że bez trzech wymienionych rzeczy postęp rzeczywiście będzie powolny."
+        },
+        {
+          "text": "Zostawiłem wniosek na biurku. Wrócił z prośbą o kosztorys. Na razie wróciłem do czekania na kryształy."
+        },
+        {
+          "text": "23 maja, 3 ET"
+        },
+        {
+          "text": "Dziś wreszcie przysłali kogoś do ładowania. Jakiegoś dzieciaka. Przedstawił się jako Lucen i od razu spytał, gdzie zapisuję wyniki poprzednich prób. Przyszedł doładować kryształy, nie prowadzić dochodzenie w moim notatniku."
+        },
+        {
+          "text": "Lena powiedziała mi później, że ma około dwudziestu lat, uczy się magii Światła i pracy z mechanizmami. Przez chwilę sądziłem, że żartuje. Sam pamiętam, jak miałem dwadzieścia lat, i z pewnością nie zadawałem tylu pytań."
+        },
+        {
+          "text": "Kiedy Lucen ładował pierwszy kryształ, obserwował wskaźnik i zatrzymał przepływ, zanim wskazówka dotarła do kreski, którą narysowałem."
+        },
+        {
+          "image": 6,
+          "alt": "Młody Lucen ładuje kryształ w warsztacie Adriena.",
+          "pending": true
+        },
+        {
+          "text": "— Jeszcze trochę — powiedziałem."
+        },
+        {
+          "text": "— Najpierw sprawdźmy mocowanie. Rusza się."
+        },
+        {
+          "text": "Lena sprawdziła. Ruszało się. Nie widzę jednak powodu, żeby Lucen stawiał swoje narzędzia na moich rysunkach."
+        },
+        {
+          "text": "Lucen nadal przyglądał się mechanizmowi."
+        },
+        {
+          "text": "— A co się stanie, jeśli operator nie zauważy uszkodzenia?"
+        },
+        {
+          "text": "— Po to właśnie jest wskaźnik."
+        },
+        {
+          "text": "— A jeśli go nie zobaczy?"
+        },
+        {
+          "text": "— Wówczas powinien uważniej wykonywać swoją pracę."
+        },
+        {
+          "text": "— Ludzie się mylą. Zabezpieczenie powinno działać także wtedy."
+        },
+        {
+          "text": "Nie spodobał mi się sposób, w jaki to powiedział. Szczególnie że miał rację."
+        },
+        {
+          "text": "Zapytałem, gdzie studiował projektowanie mechanizmów."
+        },
+        {
+          "text": "— Nie studiowałem go tyle, ile pan."
+        },
+        {
+          "text": "— To akurat widać."
+        },
+        {
+          "text": "— Ale widziałem, co się dzieje, kiedy urządzenie przestaje działać tak, jak powinno."
+        },
+        {
+          "text": "Nie rozwinął myśli. Dopisałem do projektu dodatkowe zabezpieczenie. Nie zamierzałem dziękować komuś za wskazanie problemu, którego rozwiązanie powinienem był przewidzieć sam."
+        },
+        {
+          "text": "Mimo to zapamiętałem jego imię."
+        },
+        {
+          "text": "12 września, 7 ET"
+        },
+        {
+          "text": "Poprosiłem dzisiaj o Lucena. Konkretnie o niego, nie o dowolnego maga, którego akurat znajdą na korytarzu. Chciałem porównać dwie próby, a on potrafi uważnie doładować kryształy i rozumie, co dzieje się w obudowie."
+        },
+        {
+          "image": 7,
+          "alt": "Lucen i Adrien wspólnie badają konstrukcję.",
+          "pending": true
+        },
+        {
+          "text": "Przyszedł z własnym szkicem uchwytu. Wskazał miejsce, w którym moja osłona utrudniała kontrolę styku, po czym zaproponował zmianę. Powiedziałem, że ją rozważę. Rozważam ją właśnie po raz trzeci."
+        },
+        {
+          "text": "Gdy Lena spytała, czy mam zastrzeżenia do jego pracy, odpowiedziałem, że wciąż zadaje zbyt wiele pytań. Nie musiałem dodawać, że większość z nich warto sobie zadać."
+        },
+        {
+          "text": "7 czerwca, 9 ET"
+        },
+        {
+          "text": "Rian po odbyciu kary zaczęła uczyć młodych rzemieślników. Spotkałem ją przy stole z grupą uczniów; wyjaśniała im, dlaczego trzeba przewidzieć również ten błąd, który wydaje się niemożliwy. Podała jednemu z nich śrubokręt i czekała, aż sam znajdzie mocowanie. Trwało to bardzo długo."
+        },
+        {
+          "image": 8,
+          "alt": "Rian uczy młodych rzemieślników.",
+          "pending": true
+        },
+        {
+          "text": "Kiedy skończyła, pokazałem jej przyrząd do stabilizacji przepływu. Rian obejrzała go, ale nie sięgnęła po narzędzia."
+        },
+        {
+          "text": "— Dzisiaj nie — powiedziała. — Obiecałam im jeszcze jedną próbę."
+        },
+        {
+          "text": "— To zajmie kilka minut."
+        },
+        {
+          "text": "— Wiem. Potem znalazłby pan następny."
+        },
+        {
+          "text": "Miała rację, choć nie musiała mówić tego przy uczniach."
+        },
+        {
+          "text": "— W przyszłym tygodniu? — spytałem."
+        },
+        {
+          "text": "— Jeśli przyniesie pan także wyniki poprzedniej próby."
+        },
+        {
+          "text": "Zgodziłem się. Rian wróciła do uczniów, a ja obserwowałem ich przez chwilę. Jeden z chłopców nie potrafił prawidłowo ustawić zabezpieczenia. Trzeci raz popełniał ten sam błąd."
+        },
+        {
+          "text": "— Powinnaś mu pokazać — powiedziałem."
+        },
+        {
+          "text": "— Już pokazałam."
+        },
+        {
+          "text": "— Więc dlaczego nadal robi to źle?"
+        },
+        {
+          "text": "— Bo jeszcze się uczy."
+        },
+        {
+          "text": "— Mógłby nauczyć się szybciej."
+        },
+        {
+          "text": "Rian spojrzała na mnie."
+        },
+        {
+          "text": "— Ty też mogłeś."
+        },
+        {
+          "text": "Nie wiedziałem, czy miała na myśli moje pierwsze projekty, czy coś innego."
+        },
+        {
+          "text": "Chłopak w końcu poprawnie ustawił zabezpieczenie. Rian uśmiechnęła się do niego. Wyglądała na bardziej zadowoloną niż wtedy, gdy znalazła błąd w moim przyrządzie."
+        },
+        {
+          "text": "Nie rozumiem tego. Odkrycie błędu w przyrządzie było znacznie trudniejsze."
+        },
+        {
+          "text": "W drodze do pracowni zdałem sobie sprawę, że nie zapytałem, czy wolałaby omówić przyrząd po zajęciach. Nie wróciłem. Zapisałem termin i przypomnienie, żeby zabrać wyniki."
+        },
+        {
+          "text": "Wziąłem też drugi ołówek. Na wszelki wypadek."
+        }
+      ]
+    }
+  ]
+}

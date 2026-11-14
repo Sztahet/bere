@@ -15,3 +15,7 @@ Druga opowieść korzysta z `Assets/Resources/SailaAwakening/story.json` i ilust
 ## To, czego nie nauczył mnie Ruvan
 
 Finał korzysta z `Assets/Resources/SailaFinale/story.json`. Wszystkie osiem kadrów jest w tekście, a kadr 04 jest również okładką strony. [Opisy scen i miejsca w tekście](../../RIFTORYN_SAILA_FINAL_PROMPTY_ILUSTRACJE.md).
+
+## Opowieści Adriena w grze
+
+Trzy opowieści są dostępne z karty Adriena w kodeksie Unity i korzystają odpowiednio z `Assets/Resources/AdrienStory1/story.json`, `AdrienStory2/story.json` i `AdrienStory3/story.json`. Są w języku polskim. Każda zawiera osiem oznaczonych jako `pending` miejsc na przyszłe ilustracje; czytnik je pomija, dopóki nie zostaną uzupełnione. [Plan miejsc i instrukcja dodawania obrazów](../../RIFTORYN_ADRIEN_ILUSTRACJE_PLAN.md). Teksty JSON można odtworzyć ze szkiców poleceniem `python scripts/build_adrien_stories.py`; istniejące bloki ilustracji zostają zachowane. Opowieści Adriena nie mają jeszcze osobnych stron HTML.

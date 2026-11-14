@@ -116,8 +116,18 @@ public partial class RiftorynMenu : MonoBehaviour {
             if(Click(new Rect(1105,796,425,32),"TO, CZEGO NIE NAUCZYŁ MNIE RUVAN  →",true))
                 OpenSailaStory("SailaFinale","TO, CZEGO NIE NAUCZYŁ MNIE RUVAN");
         }
+        bool isAdrien=hero.id=="adrien";
+        if(isAdrien)
+        {
+            if(Click(new Rect(1105,720,425,32),"ŚWIATŁO, KTÓRE WSKAZAŁO DROGĘ  →",true))
+                OpenSailaStory("AdrienStory1","ŚWIATŁO, KTÓRE WSKAZAŁO DROGĘ","ADRIEN");
+            if(Click(new Rect(1105,758,425,32),"KOBIETA, KTÓRA WIEDZIAŁA  →",true))
+                OpenSailaStory("AdrienStory2","KOBIETA, KTÓRA WIEDZIAŁA","ADRIEN");
+            if(Click(new Rect(1105,796,425,32),"WYNALAZEK, KTÓREGO NIE PRZEWIDZIAŁEM  →",true))
+                OpenSailaStory("AdrienStory3","WYNALAZEK, KTÓREGO NIE PRZEWIDZIAŁEM","ADRIEN");
+        }
         float detailTop=small?557:535;
-        Rect detail=new(1105,detailTop,425,isSaila?712-detailTop:820-detailTop);detailScroll=GUI.BeginScrollView(detail,detailScroll,new Rect(0,0,395,900));float y=0;
+        Rect detail=new(1105,detailTop,425,isSaila||isAdrien?712-detailTop:820-detailTop);detailScroll=GUI.BeginScrollView(detail,detailScroll,new Rect(0,0,395,900));float y=0;
         Text(new Rect(0,y,380,56),hero.desc,mutedText);y+=62;
         if(hero.hp>0){Text(new Rect(0,y,380,26),RiftorynL10n.Format("HP  {0}     PRĘDKOŚĆ  {1}     ODNOWIENIE  {2} s",hero.hp,RiftorynL10n.Number(hero.speed),hero.cd),heroBadge);y+=42;}
         DrawPassives(hero,ref y);
