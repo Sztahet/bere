@@ -168,35 +168,37 @@ Do Nivoren ruszyłem drogą wskazaną przez Demę, licząc, że odnajdę kogoś,
 
 Przy pierwszym oblodzonym zejściu to ja potrzebowałem jej ręki. Nie wspominam o tym z dumą, ale wspominam, ponieważ nie byłoby uczciwe zapisać inaczej.
 
-Przy schronieniu spotkałem Ruvana. Zajmował się skrzynią z kryształami, które trzeba było zabezpieczyć przed podróżą. Nie znałem go wcześniej. Przewodniczka powiedziała, że mógł słyszeć wiele opowieści od ludzi przemierzających szlaki.
+Przy schronieniu zobaczyłem mężczyznę zabezpieczającego skrzynię z kryształami przed podróżą. Przewodniczka powiedziała, że to Ruvan, mistrz magii Lodu, i że przez lata poznał wielu ludzi przemierzających przełęcz.
 
-Poczekałem, aż skończy pracę. Następnie pokazałem mu odrys ze słupa i stronę księgi z ptasim znakiem.
+Nie znałem go wcześniej. Miałem ochotę od razu zapytać o handlarza, lecz na widok mistrza poprawiłem pas i poczekałem, aż skończy pracę. Kiedy podszedłem, przygotowane w drodze powitanie wydało mi się zbyt długie. Przedstawiłem się krótko i pokazałem mu odrys ze słupa oraz stronę księgi z ptasim znakiem.
 
 — Zna pan Bractwo Feniksa?
 
-— Nie mogę powiedzieć, że znam.
+— Nie.
 
 Oglądał kartę pod światło, trzymając ją ostrożnie za brzegi.
 
-— Widziałem podobny rysunek na metalowej płytce. Dawno temu, u człowieka, który przechodził przez przełęcz z innymi handlarzami. Może to był ptak. Może tylko tak to wtedy nazwał.
+— Podobny znak widziałem na płytce. Dawno temu. U handlarza na przełęczy. Mógł przedstawiać ptaka.
+
+Chciałem zapytać, czy na pewno pamięta ptaka, ale zawahałem się. Nie chciałem, żeby uznał mnie za natręta. Mimo to imię, które podała mi Dema, nie dawało mi spokoju.
 
 — Czy nazywał się Tovin?
 
 Ruvan zmarszczył brwi i jeszcze raz spojrzał na odrys.
 
-— Nie pamiętam jego imienia. Nie chcę go panu potwierdzać tylko dlatego, że brzmi znajomo.
+— Nie pamiętam.
 
 — Dokąd jechał?
 
-— Mówił o starym magazynie przy dolnej drodze. Jeśli ten magazyn jeszcze stoi, jest na południe stąd.
+— Mówił o magazynie przy dolnej drodze. Na południe stąd.
 
 Wskazał mi trasę na mapie. Kiedy poprosiłem, by zaznaczył miejsce dokładniej, zawahał się.
 
-— Pamiętam rozmowę. Nie widziałem tego budynku. A tamten człowiek mógł powtarzać cudzą opowieść.
+— Pamiętam rozmowę. Magazynu nie widziałem. On też mógł tylko o nim słyszeć.
 
 — Rozumiem.
 
-— Czy na pewno?
+— Na pewno?
 
 — Nie — przyznałem. — Ale pojadę.
 
