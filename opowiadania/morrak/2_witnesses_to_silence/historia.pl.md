@@ -14,9 +14,9 @@ Zapis Azmira: relacje dotyczące zawalenia w kopalni i późniejszej śmierci na
 
 — Należał do brata. Ja go znalazłam przy bramie.
 
-Nazywała się Nera. Jej brat pracował w kopalni na północ od portu. Po zawaleniu wyniesiono go na noszach; do domu wrócił bez przytomności i przez dwa dni nie rozpoznał własnej siostry. Lekarka powiedziała, że przeżyje. Nie wiedziała, czy wróci pod ziemię.
+Nazywała się Mirela. Jej brat pracował w kopalni na północ od portu. Po zawaleniu wyniesiono go na noszach; do domu wrócił bez przytomności i przez dwa dni nie rozpoznał własnej siostry. Lekarka powiedziała, że przeżyje. Nie wiedziała, czy wróci pod ziemię.
 
-Nera chciała, bym dołączył żeton do akt wypadku. Nie chciała natomiast, by ktokolwiek w kopalni się dowiedział, skąd pochodzi.
+Mirela chciała, bym dołączył żeton do akt wypadku. Nie chciała natomiast, by ktokolwiek w kopalni się dowiedział, skąd pochodzi.
 
 — Mówi pani, że znaleziono go w zamkniętej bramie. Zapiszę, kto go znalazł, i poproszę drugą osobę o potwierdzenie.
 
@@ -26,7 +26,7 @@ Nera chciała, bym dołączył żeton do akt wypadku. Nie chciała natomiast, by
 
 — Bo brat wciąż potrzebuje pracy.
 
-Przesunąłem żeton bliżej światła. Na jednej stronie wybito znak kopalni, na drugiej kreskę przecinającą małe koło. Nera nie znała jego znaczenia. Twierdziła, że przed wypadkiem widziała podobny w ręce nadzorcy.
+Przesunąłem żeton bliżej światła. Na jednej stronie wybito znak kopalni, na drugiej kreskę przecinającą małe koło. Mirela nie znała jego znaczenia. Twierdziła, że przed wypadkiem widziała podobny w ręce nadzorcy.
 
 — A pani brat?
 
@@ -44,7 +44,7 @@ Miała rację. Mimo to nie potrafiłem z samego przedmiotu wskazać człowieka.
 
 ## II. Pod ziemią
 
-Do kopalni pojechałem trzy dni później. Poproszono mnie o sporządzenie odpisów świadectw dla rodzin i komisji badającej wypadek. Nera nie chciała, żebym użył jej imienia w kopii dla zarządcy. Uznałem, że mogę przechować oryginał osobno, a w odpisie wskazać świadka bez imienia. Powiedziałem jej, kto będzie miał dostęp do pełnego dokumentu. Zgodziła się dopiero po przeczytaniu obu wersji.
+Do kopalni pojechałem trzy dni później. Poproszono mnie o sporządzenie odpisów świadectw dla rodzin i komisji badającej wypadek. Mirela nie chciała, żebym użył jej imienia w kopii dla zarządcy. Uznałem, że mogę przechować oryginał osobno, a w odpisie wskazać świadka bez imienia. Powiedziałem jej, kto będzie miał dostęp do pełnego dokumentu. Zgodziła się dopiero po przeczytaniu obu wersji.
 
 Przy wejściu naprawiano podpory. Dwóch górników dopasowywało belkę, a trzeci podawał kliny. Gdy spytałem o ranionych, starszy z nich odłożył młotek.
 
@@ -160,7 +160,7 @@ Poprawiłem podsumowanie i dopisałem, że strażnik użył żetonu po poleceniu
 
 — Żeby następna osoba wiedziała, że ktoś już raz uznał to zdanie za wystarczające.
 
-Tego samego dnia przyszedł posłaniec zarządcy. Chciał poznać imię świadka, który znalazł żeton. Odmówiłem wydania go wraz ze zwykłym odpisem i wskazałem drogę do pełnych akt, dostępnych prowadzącym sprawę. Wiedziałem, że nie daje to Nerze pewności, iż jej imię nie wyjdzie poza archiwum. Mogłem jej powiedzieć, komu je powierzam; nie mogłem obiecać, co zrobi z nim każdy następny człowiek.
+Tego samego dnia przyszedł posłaniec zarządcy. Chciał poznać imię świadka, który znalazł żeton. Odmówiłem wydania go wraz ze zwykłym odpisem i wskazałem drogę do pełnych akt, dostępnych prowadzącym sprawę. Wiedziałem, że nie daje to Mireli pewności, iż jej imię nie wyjdzie poza archiwum. Mogłem jej powiedzieć, komu je powierzam; nie mogłem obiecać, co zrobi z nim każdy następny człowiek.
 
 Napisałem do niej jeszcze tego wieczoru. Odpisała po dwóch dniach: „Brat przeczytał. Powiedział, że świadczyłby sam, gdyby lepiej pamiętał”. Pod spodem dodała: „Nadal nie chcę, żeby o mnie mówiono przy bramie”.
 
@@ -190,6 +190,6 @@ Na karcie czterdziestej drugiej zapisałem, kto widział ratunek, kto widział �
 
 Na końcu nie napisałem, czy Morrak jest Veshem. Napisałem, że nie potrafię tego ustalić na podstawie tych świadectw.
 
-Następnego ranka żeton zwrócono Nerze. Poprosiła, aby w aktach został jego rysunek. Vaelis narysowała go dokładniej, niż ja potrafiłbym opisać: nierówne koło, kreskę i małą szczerbę przy brzegu. Ta ostatnia nie rozstrzygała niczego. Nera powiedziała jednak, że po niej brat rozpoznał przedmiot.
+Następnego ranka żeton zwrócono Mireli. Poprosiła, aby w aktach został jego rysunek. Vaelis narysowała go dokładniej, niż ja potrafiłbym opisać: nierówne koło, kreskę i małą szczerbę przy brzegu. Ta ostatnia nie rozstrzygała niczego. Mirela powiedziała jednak, że po niej brat rozpoznał przedmiot.
 
 Uznałem, że warto ją zachować.

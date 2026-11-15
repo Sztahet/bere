@@ -75,7 +75,7 @@ Rada nie wydaje natychmiastowego wyroku ani nie przejmuje akt. Prosi o kopie pry
 
 ## Rękopisy robocze: dwie trylogie
 
-Poniższe sześć opowiadań to szkice oparte na powyższym założeniu. Nie dodają faktów do kanonu `world_history.md`. Azmir, Vaelis, Nera, Morrak, Taren i Lucen pozostają zgodni z tym, co wiadomo z istniejących opowiadań; nowe wydarzenia dotyczące tajnych akt i publicznego spotkania Morraka są propozycją.
+Poniższe sześć opowiadań to szkice oparte na powyższym założeniu. Nie dodają faktów do kanonu `world_history.md`. Azmir, Vaelis, Mirela, Morrak, Taren i Lucen pozostają zgodni z tym, co wiadomo z istniejących opowiadań; nowe wydarzenia dotyczące tajnych akt i publicznego spotkania Morraka są propozycją.
 
 ### Azmir — „Akta, których nie wysłałem”
 
