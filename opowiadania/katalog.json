@@ -241,5 +241,59 @@
         "draft": true
       }
     ]
+  },
+  {
+    "id": "azmir",
+    "name": "Azmir",
+    "region": "Vesper",
+    "portrait": "azmir-darkness-support.png",
+    "series": "Akta, których nie wysłałem",
+    "stories": [
+      {
+        "id": "to-czego-nie-odnaleziono",
+        "folder": "opowiadania/azmir/1_the_unrecovered",
+        "unity": "AzmirDraft1",
+        "draft": true
+      },
+      {
+        "id": "slowo-ktorego-nie-wpisalem",
+        "folder": "opowiadania/azmir/1_the_word_i_left_out",
+        "unity": "AzmirDraft2",
+        "draft": true
+      },
+      {
+        "id": "wiele-par-oczu",
+        "folder": "opowiadania/azmir/1_many_pairs_of_eyes",
+        "unity": "AzmirDraft3",
+        "draft": true
+      }
+    ]
+  },
+  {
+    "id": "vaelis",
+    "name": "Vaelis",
+    "region": "Vesper",
+    "portrait": "vaelis-darkness-support.png",
+    "series": "Wiedza pod pieczęcią",
+    "stories": [
+      {
+        "id": "zamknieta-kopia",
+        "folder": "opowiadania/vaelis/1_the_sealed_copy",
+        "unity": "VaelisDraft1",
+        "draft": true
+      },
+      {
+        "id": "brakujace-strony",
+        "folder": "opowiadania/vaelis/1_the_missing_pages",
+        "unity": "VaelisDraft2",
+        "draft": true
+      },
+      {
+        "id": "publiczny-zapis",
+        "folder": "opowiadania/vaelis/1_the_public_record",
+        "unity": "VaelisDraft3",
+        "draft": true
+      }
+    ]
   }
 ]

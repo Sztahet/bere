@@ -8,13 +8,13 @@ W praktyce używa Ciemności do niewielkich, precyzyjnych osłon. Woli chronić 
 
 Jako przyszły bohater gry jest proponowany do roli **Specjalisty Ciemności**. Mechanika, wygląd, portret, statystyki i ewentualny udział w Igrzyskach pozostają do opracowania. Azmir ma własną hipotezę o Morraku, ale nie zna jego prawdziwego imienia ani nie potrafi dowieść, że domyśla się jego pochodzenia.
 
-## Trylogia
+## Akta Morraka — trzy opowieści z narracją Azmira
 
 1. [Imię, którego nie wypowiedział](opowiadania/morrak/1_the_name_he_didnt_speak/historia.pl.md)
 2. [Świadkowie milczenia](opowiadania/morrak/1_witnesses_to_silence/historia.pl.md)
 3. [Imię na liście](opowiadania/morrak/1_a_name_on_the_list/historia.pl.md)
 
-Azmir prowadzi narrację w pierwszej osobie. Relacje świadków są ograniczone ich wiedzą. Kodeks gry przedstawia Morraka i Vesha jako dwa przydomki tej samej postaci; nie oznacza to, że Azmir potrafi samodzielnie dowieść tego ze zgromadzonych zeznań. Zgłoszenie po stronie Rady oraz sam Azmir są propozycjami tej trylogii, a nie zatwierdzeniem nowych faktów dla całego świata. Wydarzenia przy kopalni i na szlaku nawiązują do istniejących historii postaci.
+Azmir prowadzi narrację w pierwszej osobie. Relacje świadków są ograniczone ich wiedzą. Kodeks gry przedstawia Morraka i Vesha jako dwa przydomki tej samej postaci; nie oznacza to, że Azmir potrafi samodzielnie dowieść tego ze zgromadzonych zeznań. Te trzy opowieści są aktami Morraka, a nie własną trylogią Azmira. Wydarzenia przy kopalni i na szlaku nawiązują do istniejących historii postaci.
 
 ## Vaelis — przyszła archiwistka
 
@@ -26,7 +26,11 @@ Poniższy szkic rozwija postacie, ale nie rozstrzyga przyczyny Nocy Zgasłych Wi
 
 ### Azmir: dwie wersje akt
 
-W 3 PT Azmir ma około 53 lat i pracuje w archiwum Cienistego Portu. Po awarii osłon w Vesper sporządza zestawienie dla ratowników: gdzie zanikła ochrona, kto wrócił spod ziemi i które drogi można bezpiecznie otworzyć. Do Cienistego Portu docierają wtedy sprzeczne meldunki z Val Meris. Azmir nie był świadkiem samej Nocy, ale zna jej przebieg lepiej niż większość ludzi dzięki oryginalnym depeszom, roboczym kopiom i późniejszym zeznaniom.
+W 3 PT Azmir ma około 53 lat i pracuje w archiwum Cienistego Portu. W czasie Nocy jest w Val Meris przy zadaniach ewidencyjnych, ale nie widzi wież ani chwili ich awarii i nie zna przyczyny. Kilka dni później pomaga porządkować wykazy ofiar i rannych. Wojna trwa, konwoje ratunkowe mają krótkie okna przejazdu, poszukiwania są przerywane, a część ciał pozostaje nieodnaleziona. Rozbieżne listy nie pozwalają nawet ustalić, ilu ludzi wciąż brakuje.
+
+Azmir ogląda kilka ciał, na których widać zmiany niewyjaśnione zwykłymi obrażeniami. Medycy również nie potrafią wskazać przyczyny. W oficjalnych odpisach zapisuje „obrażenia nieklasyfikowane”, obawiając się, że dokładniejszy opis wywoła panikę i skieruje strach przeciw ocalałym. W prywatnym zeszycie zachowuje opisy, własny rysunek i pochodzenie każdej relacji. Osobno przechowuje meldunki o uszkodzonych kryształach splotytu; nie ma dowodu, że dotyczą tych samych miejsc i osób.
+
+Brak odnalezionych ciał oraz chaos ratowania i pochówków wciąż trwającej wojny pozostawiają pytanie, czy ktoś mógł przeżyć podobne zdarzenie. Azmir nie zna żadnego świadka, który potwierdzałby taki przypadek. Nie zapisuje więc odpowiedzi. Zostawia otwartą rubrykę i wraca do niej przez następne lata.
 
 Zauważa, że część meldunków ma ten sam nietypowy znak przerwy, choć pochodzi z różnych miejsc. W oficjalnym raporcie zapisuje tylko sprawdzalne fakty. W prywatnym zeszycie rysuje możliwą kolejność awarii, zaznacza różnice między zegarami i dopisuje, które dokumenty widział osobiście, a które zna wyłącznie z kopii. Nie ukrywa notatek po to, by zbudować sensację: boi się, że jego hipoteza skłoni ludzi do szukania winnego, zanim ustalą, czy ślady w ogóle opisują tę samą przyczynę.
 
@@ -50,11 +54,11 @@ Jej własny konflikt polega na tym, że służba Radzie wymaga pełnej szczeroś
 
 ### Punkt zwrotny: publiczne zapisy do Igrzysk
 
-Przez lata Azmir składa obraz Morraka z rozproszonych, często zasłyszanych relacji. Zmienia się to podczas zapisów do kwalifikacji Wielkich Igrzysk w 12 ET. Morrak pojawia się przy punkcie zgłoszeń, gdzie widzą go setki osób. To nie jest jego pierwsze pojawienie się ani pierwsza relacja o nim; to pierwszy raz, kiedy tak wielu świadków obserwuje go w tym samym miejscu i czasie.
+Przez lata Azmir składa obraz Morraka z rozproszonych, często zasłyszanych relacji. Zmienia się to 29 maja 12 ET, w dniu rozpoczęcia kwalifikacji Wielkich Igrzysk. Nie chodzi o wcześniejsze wywieszenie listy kandydatów: Morrak pojawia się przy publicznym punkcie przyjęć, gdzie widzą go setki osób. To nie jest jego pierwsze pojawienie się ani pierwsza relacja o nim; to pierwszy raz, kiedy tak wielu świadków obserwuje go w tym samym miejscu i czasie.
 
 Tłum nie tworzy setek równorzędnych zeznań. Większość widzi tylko kolejkę, ciemny płaszcz albo gest przy formularzu. Azmir i Vaelis zbierają mniejszy zestaw niezależnych relacji od urzędniczki, strażniczki, kandydatów i osób, które widziały go z bliska. Rozmawiają z nimi osobno i oddzielają naocznych świadków od tych, którzy rozpoznali Morraka po opowieściach innych. Ludzie, którzy nie znali wcześniejszych opisów, niezależnie podają te same charakterystyczne cechy: sposób poruszania się, cień przy sylwetce i krótką fioletową poświatę. W setkach osób nie ma jednej wspólnej opowieści; jest jeden widoczny człowiek, opisany przez wiele par oczu.
 
-Publiczny wpis Morraka na listę i niezależne relacje potwierdzają dla Azmira bez reszty, że Morrak istnieje naprawdę, a wcześniejsi świadkowie opisywali rzeczywisty, powtarzalny wygląd, nie wspólne omamy. Azmir poprawia oficjalne notatki, w których dotąd odsuwał te zeznania jako niewiarygodne, i uznaje, że wiele z nich dotyczy tej samej realnej postaci. Nie oznacza to, że zna jego imię ani przeszłość. Prywatna hipoteza, że Morrak pojawił się po Nocy jako zwykły człowiek trwale zmieniony wybuchem pękniętego kryształu splotytu, pozostaje nieudowodniona: nikt nie widział przemiany ani nie potwierdził, że Morrak był przy wybuchu.
+Publiczny udział w kwalifikacjach i niezależne relacje potwierdzają dla Azmira, że istnieje rzeczywisty człowiek odpowiadający części wcześniejszych opisów; świadectw tych nie można już odrzucać jako wspólnego omamu. Azmir poprawia oficjalne notatki: rozdziela opisy zgodne z bezpośrednią obserwacją od zasłyszanych i zaznacza, że nie dowiódł, iż wszystkie dotyczą tej samej osoby. Nie oznacza to, że zna imię ani przeszłość człowieka. Prywatna hipoteza, że Morrak pojawił się po Nocy jako zwykły człowiek trwale zmieniony wybuchem pękniętego kryształu splotytu, pozostaje nieudowodniona: nikt nie widział przemiany ani nie potwierdził, że był przy wybuchu.
 
 Vaelis wysyła Radzie pełny raport o zdarzeniu: także o hipotezie Azmira, różnicach między świadkami i tym, czego nie potwierdzają. Azmir odkrywa, że raporty trafiają do Rady, i pyta ją o to wprost. Vaelis pokazuje mu kopię meldunku; nie pominęła ani jego zamkniętych akt, ani własnych zastrzeżeń. Azmir czuje się zdradzony, lecz prosi, by Rada otrzymała również notatki o tym, czego nie wie — nie samą atrakcyjną hipotezę.
 
@@ -67,4 +71,20 @@ Rada nie wydaje natychmiastowego wyroku ani nie przejmuje akt. Prosi o kopie pry
 - Kto w Radzie prowadzi tajny nadzór Vaelis i kto poza nim ma dostęp do jej raportów?
 - Czy Rada chce jedynie sprawdzić kompletność akt, czy też podejmie decyzję polityczną na podstawie prywatnych hipotez Azmira?
 - Czy Vaelis pozostanie łączniczką Rady, gdy jej raporty zaczną wpływać na sposób, w jaki Azmir prowadzi dochodzenie?
-- Hipoteza Azmira o przemianie Morraka nie potwierdza związku z Nocą ani nie przesądza, kto lub co wywołało awarie. Czytelnik może poznać tę teorię, ale świat nie potwierdza jej jako prawdy.
+- Zmiany na niektórych ciałach są zapisane jako obserwacja, lecz ich przyczyna pozostaje nieznana. Hipoteza Azmira o przemianie Morraka nie potwierdza związku z Nocą ani nie przesądza, kto lub co wywołało awarie. Nieodnalezione ofiary i trudne wojenne porządki zostawiają miejsce na interpretację czytelnika, bez rozstrzygającego dowodu.
+
+## Rękopisy robocze: dwie trylogie
+
+Poniższe sześć opowiadań to szkice oparte na powyższym założeniu. Nie dodają faktów do kanonu `world_history.md`. Azmir, Vaelis, Nera, Morrak, Taren i Lucen pozostają zgodni z tym, co wiadomo z istniejących opowiadań; nowe wydarzenia dotyczące tajnych akt i publicznego spotkania Morraka są propozycją.
+
+### Azmir — „Akta, których nie wysłałem”
+
+1. [To, czego nie odnaleziono](opowiadania/azmir/1_the_unrecovered/historia.pl.md)
+2. [Słowo, którego nie wpisałem](opowiadania/azmir/1_the_word_i_left_out/historia.pl.md)
+3. [Wiele par oczu](opowiadania/azmir/1_many_pairs_of_eyes/historia.pl.md)
+
+### Vaelis — „Wiedza pod pieczęcią”
+
+1. [Zamknięta kopia](opowiadania/vaelis/1_the_sealed_copy/historia.pl.md)
+2. [Brakujące strony](opowiadania/vaelis/1_the_missing_pages/historia.pl.md)
+3. [Publiczny zapis](opowiadania/vaelis/1_the_public_record/historia.pl.md)

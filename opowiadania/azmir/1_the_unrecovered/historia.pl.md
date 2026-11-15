@@ -1,0 +1,19 @@
+# To, czego nie odnaleziono
+
+## Val Meris, 3 PT
+
+Byłem w Val Meris, kiedy zgasło światło w sali ewidencji. Nie widziałem wież ani chwili ich awarii. Dopiero kilka dni później skierowano mnie do punktu opatrunkowego i wykazów ofiar. Widziałem miasto, które próbowało ustalić, kogo wciąż można znaleźć.
+
+Wojna nie poczekała, aż skończymy liczyć. Droga dla konwoju ratunkowego była otwarta tylko przez część dnia; potem znów ruszały wozy z zaopatrzeniem i straże pytały, po co przepuszczają obcych. Ludzie kopali w ruinach na zmiany. Jedni szukali żywych, inni ciał, jeszcze inni kawałka księgi, z którego dałoby się odczytać, kogo zabrano do lazaretu. Co kilka godzin ktoś przynosił listę z innymi liczbami.
+
+Na pierwszej karcie prowadziłem trzy rubryki: odnalezieni, wyniesieni do lazaretu, nieodnalezieni. Ktoś dopisał na marginesie, że brak ciała nie jest dowodem śmierci. Ktoś inny przekreślił „nieodnalezieni” i napisał „zaginieni”. Zostawiłem oba słowa. W tamtym czasie nie wiedzieliśmy, które z nich będzie uczciwsze.
+
+W punkcie opatrunkowym poproszono mnie o odpisy raportów, bo oryginały nasiąkły wodą. Jeden z medyków nie chciał, żebym przepisywał opis kilku ciał do zestawienia dla rodzin. Nie twierdził, że zna przyczynę. Chciał tylko, bym nie nazwał obrażeń zwykłym zmiażdżeniem. Na przedramieniu jednego zmarłego skóra układała się w twarde, rozchodzące się od nadgarstka linie. Palce drugiego były zrośnięte przy stawach, choć nie było widać urazu, który mógłby to wyjaśnić. Przy kolejnym twarz i szyja miały nierówną, ciemną powierzchnię, jakby ciało próbowało zarosnąć czymś, co nie było skórą.
+
+Zobaczyłem je sam. Nie umiałem określić, co się z nimi stało. Medyk również nie umiał. W jego karcie znalazłem zdanie: „zmiana ciała wykracza poza znane obrażenia”. W wykazie dla kancelarii skreśliłem je i wpisałem „obrażenia nieklasyfikowane”.
+
+Po południu przyniesiono meldunek o wybuchu przy pękniętym krysztale splotytu w jednej z uszkodzonych instalacji. Nie wiedziałem, czy dotyczył tych samych ulic, tych samych godzin ani tych samych zmarłych. Nie dopisałem więc kryształu do ich kart. Złożyłem oba dokumenty osobno.
+
+Moja decyzja nie sprawiła, że ludzie przestali szukać. Sprawiła za to, że rodziny nie dostały opisu, który mógłby zmienić żałobę w strach przed każdym ocalałym z ruin. W prywatnej księdze zachowałem dokładne słowa medyka i własny rysunek zmian. Dopisałem, że widziałem je na ciałach, lecz nie znam ich przyczyny.
+
+Nie zapisałem wtedy, że ktoś mógł przeżyć podobne zdarzenie. Nie miałem podstaw, by stawiać takie pytanie rodzinom, które czekały na imiona odnalezionych. Zostawiłem za to osobną rubrykę dla tych, których nie odnaleziono. Przez lata nie pozwoliłem jej zamknąć.

@@ -1,0 +1,31 @@
+# Publiczny zapis
+
+## Val Meris, 29 maja 12 ET
+
+W dzień rozpoczęcia kwalifikacji dziedziniec był pełen kandydatów, obsługi i widzów. Przy bramie stał stół z kartami. Znałam już imię Morrak; nie wiedziałam, czy sam je wybrał. Wiedziałam, że Azmir od lat zachowuje opisy człowieka w ciemnym płaszczu, który osłaniał innych.
+
+Nie powiedziałam o tym ludziom w kolejce. Zadałam każdemu to samo pierwsze pytanie: „Co pani widziała?” albo „Co pan widział?”. Dopiero później pytałam, czy zna imię kandydata i skąd je zna.
+
+W czasie zamieszania przy stole poluzował się klosz lampy. Dziewczyna z arkuszami odsunęła się, ale przewód oplótł jej torbę. Mężczyzna w ciemnym płaszczu złapał lampę, zanim upadła. Cień rozlał się na blacie w stronę jego dłoni. Na moment przeciął go fioletowy błysk. Z bliska widziałam dwa nierówne, jasne ściegi na rozdartym rękawie.
+
+Nikt nie musiał mi powiedzieć, co mam zobaczyć. Widziały to setki osób. Nie wszystkie widziały równie dużo. Jedni stali za plecami innych. Kilku ludzi powtórzyło słowa kogoś, kto był bliżej. Zapisałam to przy ich zeznaniach, żeby liczba świadków nie udawała liczby niezależnych źródeł.
+
+Azmir poprosił o osobne rozmowy z tymi, którzy byli najbliżej. Kobieta z arkuszami potwierdziła, że mężczyzna ją osłonił. Strażnik opisał błysk i rękaw. Kandydat, który stał przy stole, pamiętał tylko cień i sposób, w jaki mężczyzna odsunął lampę od przejścia. Ich opisy nie były identyczne. Łączyły je jednak szczegóły, które w dawnych aktach pojawiały się przed tym, jak tłum zaczął mówić o Morraku.
+
+Tego samego dnia Taren i Lucen czekali na dalsze polecenia. Widziałam ich przy liście. Wcześniej podnieśli do siebie ręce na powitanie, nie rozmawiając. Później ustawili się po różnych stronach dziedzińca. Nie dopisałam, co o sobie myśleli. Zapisuję zdarzenia, nie cudze wnętrza.
+
+Po przesłuchaniu świadków Azmir zapytał mnie, dla kogo sporządzam drugi zestaw notatek. Powiedziałam mu, że dla Rady. Otworzyłam własną kopię i podałam mu raport. Zawierał informację o jego prywatnych zapisach, o mojej roli i o decyzji Rady, by nie ujawniać opisów zmian na ciałach. Nie pominęłam też, że żadna z tych rzeczy nie dowodzi, iż Morrak był jedną z osób zaginionych po Nocy.
+
+Azmir przeczytał dokument do końca. Gdy oddał mi kartę, jego dłoń zatrzymała się na miejscu, gdzie opisałam pustą rubrykę dla nieodnalezionych.
+
+— Myślałem, że te strony zostaną między nami — powiedział.
+
+— Nie obiecałam, że ich nie przekażę. Mogę za to dopisać, czego nie wiemy.
+
+Przesunął raport w moją stronę.
+
+— Dopisz, że ten człowiek istniał. Tego już nie musimy nazywać hipotezą.
+
+Rada dostała pełny zapis. Nie ujawniła tajnych akt. Na publicznej karcie kwalifikacji Azmir potwierdził tylko, że w Val Meris wiele osób widziało człowieka odpowiadającego wcześniejszym relacjom. Jego wygląd przestał być wątpliwością. Jego przeszłość pozostała pytaniem.
+
+Nie wiem, czy któryś z nieodnalezionych przeżył wybuch. Nie wiem, czy zmiany widoczne na ciałach miały związek z splotytem. W raporcie Rady te pytania nadal stoją obok siebie, bez odpowiedzi. Nie skreśliłam ich.
