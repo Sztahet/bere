@@ -184,9 +184,9 @@ Adrien przejrzał wyniki mojego przyrządu. Znalazł dwie rzeczy do poprawy i je
 
 — Chcesz to zabrać do Val Meris? — zapytał.
 
-— Chcę sprawdzić, czy można go użyć podczas prób na arenie.
+— Chcę sprawdzić, czy można go użyć podczas Prób na arenie.
 
-— Dopuszczenie będzie wymagało prób.
+— Dopuszczenie będzie wymagało testów przyrządu.
 
 — Wiem. Już o nie zapytałam.
 

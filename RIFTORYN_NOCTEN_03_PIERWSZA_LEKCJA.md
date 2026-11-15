@@ -72,7 +72,7 @@ Przy oknie wydało mi się, że mój cień wykonał jeszcze krok, chociaż już 
 
 Po południu odpowiedziałem na propozycję. Pojadę. Chcę pomóc tam, gdzie moje umiejętności rzeczywiście okażą się potrzebne, i chcę porozmawiać z ludźmi z różnych stron Riftorynu. Może ktoś rozpozna miasto ze wspomnień. Nie będę od nikogo żądał, żeby potwierdził coś tylko dlatego, że ja tego potrzebuję.
 
-Jeżeli zdecyduję się startować, będę musiał poznać warunki i przejść wymagane próby. Sama podróż niczego jeszcze nie rozstrzyga.
+Jeżeli zdecyduję się startować, będę musiał poznać warunki i przejść wymagane kwalifikacje. Sama podróż niczego jeszcze nie rozstrzyga.
 
 ## V. Przed wyjazdem
 

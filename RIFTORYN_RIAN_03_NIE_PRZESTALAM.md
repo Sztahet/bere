@@ -104,11 +104,11 @@ Schowałam uśmiech w kołnierzu. Nie zdążyłam mu powiedzieć, że jego uwaga
 
 Przed zajęciami zapytałam uczniów, czy chcą rozmawiać o Igrzyskach. Większość chciała. Jedna osoba zapytała, czy pojadę.
 
-Powiedziałam, że nie zamierzam. Kilka dni wcześniej ktoś zasugerował, że przydałabym się przy kontrolowanych próbach wież. Widział moje stare schematy i nowe zabezpieczenia. Zaproponował, żebym zgłosiła się jako uczestniczka.
+Powiedziałam, że nie zamierzam. Kilka dni wcześniej ktoś zasugerował, że przydałabym się przy kontrolowanych Próbach na arenie. Widział moje stare schematy i nowe zabezpieczenia. Zaproponował, żebym zgłosiła się jako uczestniczka.
 
 Odmówiłam.
 
-Umiałabym znaleźć w labiryncie miejsce, przez które można zatrzymać mechanizm. Umiałabym też opisać to po zakończeniu próby i pokazać, jak zabezpieczyć go przed kolejną osobą. To mnie interesuje. Nadal czuję ten sam rodzaj radości, kiedy rozumiem konstrukcję.
+Umiałabym znaleźć w labiryncie miejsce, przez które można zatrzymać mechanizm. Umiałabym też opisać to po zakończeniu Próby i pokazać, jak zabezpieczyć go przed kolejną osobą. To mnie interesuje. Nadal czuję ten sam rodzaj radości, kiedy rozumiem konstrukcję.
 
 Właśnie dlatego nie byłam pewna, czy mam prawo pokazać tę radość na arenie. Są ludzie, dla których moje imię oznacza dzień, w którym nie usłyszeli ostrzeżenia. Nie muszą chcieć widzieć mnie między uczestnikami. Ludzie z drużyny również mogliby nie chcieć pracować obok mnie.
 
@@ -130,7 +130,7 @@ Odpowiedziałam jej więcej, niż planowałam. Że nie chcę, aby ktoś patrzył
 
 Chciałam jej powiedzieć, że jest młoda i nie rozumie, jak daleko niesie się czyjaś decyzja. Zamiast tego zapytałam, co zrobiłaby osoba w drużynie, która nie chce mi powierzyć swojego bezpieczeństwa.
 
-— Powinna móc to powiedzieć — odparła. — I powinna wiedzieć, jakie są zasady próby.
+— Powinna móc to powiedzieć — odparła. — I powinna wiedzieć, jakie są zasady Próby.
 
 Nie dała mi pozwolenia w imieniu wszystkich, których skrzywdziłam. Nie mogłaby. Zapytała, czy zamierzam dać innym wybór, a potem sama z niego skorzystać.
 
@@ -140,11 +140,11 @@ Nie dała mi pozwolenia w imieniu wszystkich, których skrzywdziłam. Nie mogła
 
 Poszłam zapytać o zasady. Po odbyciu kary nie odzyskałam przez sam upływ czasu swobodnego dostępu do cywilnych systemów obronnych. Nie chciałam, by ktoś wpisał mnie do składu, a dopiero potem zastanawiał się, co wolno mi zrobić.
 
-Rozmawialiśmy o kontrolowanych Próbach, ograniczonym dostępie do infrastruktury i nadzorze technicznym. Przeciwnicy mają znać zasady, móc się przygotować, odpowiedzieć albo przerwać próbę zgodnie z jej warunkami. Zaproponowano mi miejsce przy sprawdzaniu odłączonego modelu, zanim rozpatrzą zgłoszenie do udziału.
+Rozmawialiśmy o kontrolowanych Próbach, ograniczonym dostępie do infrastruktury i nadzorze technicznym. Przeciwnicy mają znać zasady, móc się przygotować, odpowiedzieć albo przerwać Próbę zgodnie z jej warunkami. Zaproponowano mi miejsce przy sprawdzaniu odłączonego modelu, zanim rozpatrzą zgłoszenie do udziału.
 
 Jedna z osób przy stole sprzeciwiła się od razu. Powiedziała, że człowiek, który celowo wyłączał ostrzeżenia, nie powinien dotykać niczego przy wieżach. Nie zapytała mnie, czy się zmieniłam. Zapytała organizatorów, kto sprawdzi, czy odcięcie rzeczywiście jest niezależne.
 
-— Ktoś inny niż ja — odpowiedziałam. — I przed próbą, i po niej.
+— Ktoś inny niż ja — odpowiedziałam. — I przed sprawdzeniem modelu, i po nim.
 
 Nie uspokoiło jej to. Poprosiła o kopię warunków i czas na decyzję. Dostała je. Ja też chciałam kopię; znałam już wartość rzeczy zapisanych tak, by można je było sprawdzić.
 
@@ -154,7 +154,7 @@ Zgłosiłam się pod własnym imieniem. Były protesty. Nie opowiedziałam komis
 
 Dopuszczono mnie do kontrolowanych Prób z ograniczonym dostępem i nadzorem technicznym. Nie wszyscy się z tym zgodzili. Nie wszyscy musieli. Zgoda na udział nie jest wyrokiem w sprawie tego, czy ktoś powinien mi wybaczyć.
 
-W formularzu zostało miejsce na uzasadnienie. Napisałam, że chcę sprawdzać konstrukcje w warunkach, które znają obie strony, i wyjaśniać błędy po próbie. Wykreśliłam zdanie o spłacaniu długu. Nikt nie zaproponował mi takiego rachunku.
+W formularzu zostało miejsce na uzasadnienie. Napisałam, że chcę sprawdzać konstrukcje w warunkach, które znają obie strony, i wyjaśniać błędy po Próbie. Wykreśliłam zdanie o spłacaniu długu. Nikt nie zaproponował mi takiego rachunku.
 
 ## V. „Nie”
 

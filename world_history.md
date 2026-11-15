@@ -248,6 +248,8 @@ Reprezentanci mogą tworzyć mieszane drużyny, również z najemnikami. Uzgadni
 
 ### Sport i życie wokół aren
 
+W codziennej mowie **Próby** to określenie zmagań bohaterów na arenie, zarówno sportowych, jak i traktatowych. W zapisie odróżniamy je wielką literą od zwykłych prób, ćwiczeń i testów urządzeń. Nazwa sama w sobie nie nadaje zawodom mocy traktatowej; o wiążącej stawce decydują właściwe warunki i porozumienia.
+
 Zawody są częścią codziennego życia Riftorynu. Jeszcze przed Wielkimi Igrzyskami każda kraina organizuje regularne zawody sportowe. Uczestnicy trenują, sprawdzają umiejętności i rywalizują o tytuły oraz nagrody, a widzowie kibicują ulubionym drużynom i zawodnikom. W miastach działają mniejsze ligi, kluby i szkoły. Ich sezony i festiwale przyciągają lokalnych kibiców. Drużyny mogą utrzymywać się z nagród, wsparcia miast, gildii i sponsorów. Wokół aren działają też osoby przyjmujące zakłady na wyniki.
 
 Te zawody mogą przynieść sławę, pieniądze i możliwość zdobycia doświadczenia, lecz same z siebie nie rozstrzygają spraw politycznych. Próba traktatowa otrzymuje moc wiążącą na podstawie Traktatu, a wyjątkowe Wielkie Igrzyska 12 ET — na podstawie osobnego Porozumienia Val Meris. Także te wydarzenia przyciągają kibiców i sponsorów; ich szczególna stawka sprawia, że zainteresowanie wykracza daleko poza arenę.

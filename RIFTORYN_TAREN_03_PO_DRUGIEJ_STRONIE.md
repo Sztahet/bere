@@ -66,7 +66,7 @@ Ruszyliśmy kawałek razem. Przy schodach podałem jej drugi, krótszy sposób d
 
 ## Val Meris, gdy ludzie schodzili się na zapisy
 
-Na porannej odprawie ktoś zapytał, czy uczestnicy z tej samej krainy mogą wybrać przeciwne strony. Człowiek przy tablicy odczytał odpowiedni punkt. Ludzie przy ławie zaczęli rozmawiać trochę głośniej. Jeden chłopak rozglądał się, jakby liczył, że ktoś mu zaraz zmieni miejsce w kolejce. Kobieta na jego lewo kazała mu zaczekać. Chciała usłyszeć, czy w przeciwnych obozach wciąż można się spotkać na jednym zadaniu. Prowadzący wskazał oddzielną stronę programu. Powiedział, że zapisy zbierają kandydatów i wyniki prób jeszcze zdecydują o składach.
+Na porannej odprawie ktoś zapytał, czy uczestnicy z tej samej krainy mogą wybrać przeciwne strony. Człowiek przy tablicy odczytał odpowiedni punkt. Ludzie przy ławie zaczęli rozmawiać trochę głośniej. Jeden chłopak rozglądał się, jakby liczył, że ktoś mu zaraz zmieni miejsce w kolejce. Kobieta na jego lewo kazała mu zaczekać. Chciała usłyszeć, czy w przeciwnych obozach wciąż można się spotkać na jednym zadaniu. Prowadzący wskazał oddzielną stronę programu. Powiedział, że zapisy zbierają kandydatów i wyniki kwalifikacji jeszcze zdecydują o składach.
 
 Poszedłem w stronę stołów, dopóki z przeciwka nie ruszyły dwa wozy na dziedziniec. Wcześniej zrobiłbym miejsce tylko ludziom, których osobiście znam. Tym razem podszedłem do pierwszego woźnicy i zapytałem, którędy chce wyjechać, kiedy wyładuje skrzynie. Wskazał drzwi dokładnie tam, gdzie ustawiła się kolejka. Zawołałem człowieka z odprawy. Rozsunął ludzi i zostawił przejazd. Potem ktoś przyniósł pusty arkusz na zgłoszenia tego dnia. Widziałem z daleka, gdzie trzymają pióra. Postanowiłem najpierw sprawdzić tablicę.
 
