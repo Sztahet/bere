@@ -2,7 +2,7 @@
 
 ## Cena drogi
 
-Pierwszy raz sprzedałem płaszcz dla kartki papieru. Drugi raz zamierzałem sprzedać rękawice, ale właścicielka archiwum w Aurelu oświadczyła, że rękawic nie potrzebuje, a za kopię przyjmie pieniądze.
+Pierwszy raz sprzedałem płaszcz dla kartki papieru. Drugi raz zamierzałem sprzedać rękawice, ale archiwistka w Aurelu oświadczyła, że rękawic nie potrzebuje, a za kopię przyjmie pieniądze. Przedstawiła się jako Lumen.
 
 — To bardzo dobre rękawice — powiedziałem.
 
@@ -78,7 +78,7 @@ Do obserwatorium skierowała mnie archiwistka. Powiedziała, że Orien zna stare
 
 — Zwłaszcza tych, które zaczynają się od słowa „tylko”.
 
-Znalazłem go na zewnątrz, przy zdemontowanej latarni. Starszy mężczyzna w roboczym fartuchu trzymał szklaną osłonę, a młoda pomocnica próbowała dopasować do niej metalowy zacisk. Zapytałem, czy rozmawiam z Orienem.
+Znalazłem go na zewnątrz, przy zdemontowanej latarni. Starszy mężczyzna w roboczym fartuchu trzymał szklaną osłonę, a młoda kobieta próbowała dopasować do niej metalowy zacisk. Zapytałem, czy rozmawiam z Orienem.
 
 — Jeśli przyszedł pan z nową częścią, to tak. Jeśli z kolejnym pytaniem, czy latarnia już działa, to również tak, ale odpowiedź brzmi: jeszcze nie.
 
@@ -99,6 +99,8 @@ Opowiedziałem mu o księdze ojca, o znaku przy drodze i o spisie z archiwum. Pr
 — Przepraszam.
 
 — Nic się nie stało — odparła. — Ale proszę już nie poprawiać postawy.
+
+Orien zwrócił się do niej po imieniu. Elira sprawdziła jeszcze zacisk, zanim pozwoliła mi puścić szkło.
 
 Kiedy skończyli, Orien umył dłonie i poprosił, żebym pokazał mu księgę. Rozłożył czyste płótno na stole. Pomyślałem, że zna wartość starych rzeczy; potem zobaczyłem, że trzyma płótno z dala od mokrej plamy po własnym kubku. To było jeszcze ważniejsze.
 
@@ -150,7 +152,7 @@ Odprowadziłem go do latarni, gdzie pomocnica sprawdzała nowy zacisk. Pokazała
 
 — Wiem. Ale jeśli pęknie na trasie, ktoś będzie musiał wracać po ciemku.
 
-Pomyślałem o Lenie, który zaufał mojej mapie tylko do pierwszego rozwidlenia, a potem sam pokazał mi właściwą drogę. Powiedziałem Orienowi, że mogę przytrzymać osłonę jeszcze raz. Przyjął pomoc bez przemowy i bez pytania, kto mnie pasował.
+Pomyślałem o Jorku, który zaufał mojej mapie tylko do pierwszego rozwidlenia, a potem sam pokazał mi właściwą drogę. Powiedziałem Orienowi, że mogę przytrzymać osłonę jeszcze raz. Przyjął pomoc bez przemowy i bez pytania, kto mnie pasował.
 
 Kopistka następnego dnia nie znalazła mojego znaku w wykazie, który miała pod ręką. Zaproponowała, żebym wrócił za kilka tygodni, kiedy przejrzy pozostałe zapisy. Nie mogłem zostać w Aurelu tak długo. Zostawiłem jej dokładny odrys i nazwę gospody, w której zamierzałem kiedyś znów się zatrzymać. Nie wiedziałem, czy list tam na mnie poczeka.
 

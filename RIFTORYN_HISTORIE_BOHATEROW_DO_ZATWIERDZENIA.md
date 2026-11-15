@@ -116,7 +116,7 @@ Ana wychowała się w Korzennej Przystani, gdzie pomagała rodzinom odbudowywać
 Rokan przez większość życia pracował przy kamieniołomach Kamiennego Progu. Kiedy nieumyślnie zabił pancernika, którego nie odróżnił od kamieni, zaopiekował się znalezionym w pobliżu młodym, nazwanym później Krzemieniem. Poczucie winy nie zniknęło, lecz z czasem narodziła się między nimi przyjaźń. W Próbach wspólnie zabiegają o bezpieczniejsze przejścia i warunki pracy.
 
 ### Lumen — Światło
-Lumen szkoliła się w obserwatorium Aurelu, gdzie sporządzała mapy i porównywała relacje podróżnych z odczytami latarni. W Próbach chce otworzyć dostęp do tych informacji mniejszym osadom, które zbyt często muszą ruszać w drogę bez wiarygodnych map.
+Lumen pracuje jako archiwistka w Aurelu. Szkoliła się w obserwatorium, gdzie sporządzała mapy i porównywała relacje podróżnych z odczytami latarni. W Próbach chce otworzyć dostęp do tych informacji mniejszym osadom, które zbyt często muszą ruszać w drogę bez wiarygodnych map.
 
 ### Koneva — Ciemność
 Koneva dorastała w Cienistym Porcie, gdzie jako kurierka nauczyła się poruszać dyskretnie i znajdować wyjście z pozornie zamkniętych sytuacji. W Próbach chce zebrać środki na niezależną sieć bezpiecznych tras, z której mogliby korzystać także mniej zamożni przewoźnicy.
@@ -485,7 +485,7 @@ Rokan nigdy nie zapomniał o zabitym zwierzęciu i wie, że nie może cofnąć t
 
 ### Lumen — 34 lata
 
-Lumen szkoliła się w obserwatorium Aurelu, porównując mapy, światła latarni i opowieści podróżnych. Lubiła wyraźne oznaczenia, choć szybko odkryła, że ludzie opisują tę samą drogę na różne sposoby.
+Lumen pracuje jako archiwistka w Aurelu; szkoliła się w obserwatorium, porównując mapy, światła latarni i opowieści podróżnych. Jej matka, Dema, piecze chleb w Aurelu. Lumen lubiła wyraźne oznaczenia, choć szybko odkryła, że ludzie opisują tę samą drogę na różne sposoby.
 
 W pobliżu jednej ze ścieżek zobaczyła młodego jelenia zaplątanego w porzuconą linę. Uwolniła go z pomocą przybyłej przewodniczki i przez kolejne dni obserwowała z daleka, czy zwierzę wraca do zdrowia. Jeleń, którego nazwała Blaskiem, później sam zaczął pojawiać się w pobliżu obserwatorium. Ich więź rozwijała się powoli, bez przymusu.
 
@@ -644,7 +644,7 @@ Ana grew up in Rooted Landing, helping families restore gardens and crops after 
 Rokan spent most of his life at Stone Threshold's quarries. After accidentally killing an armadillo he mistook for a stone, he cared for a young one found nearby, later named Flint. His guilt did not disappear, but over time they formed a friendship. Together they enter the Trials for safer passages and working conditions.
 
 ### Lumen — Light
-Lumen trained at the obserwatorium Aurelian Lighthouse, making maps and comparing travelers' accounts with beacon readings. In the Trials, she wants to open access to this information for smaller settlements that too often have to travel without reliable maps.
+Lumen works as an archivist in Aurel. She trained at the Aurelian observatory, making maps and comparing travelers' accounts with beacon readings. In the Trials, she wants to open access to this information for smaller settlements that too often have to travel without reliable maps.
 
 ### Koneva — Darkness
 Koneva grew up in Shadow Harbor, where working as a courier taught her to move quietly and find a way out of seemingly closed situations. In the Trials, she hopes to fund an independent network of safe routes that less wealthy carriers can use too.
@@ -1011,7 +1011,7 @@ Rokan never forgot the animal he killed and knows he cannot undo what happened. 
 
 ### Lumen — 34
 
-Lumen trained at an Aurel observatory, comparing maps, beacon readings and travelers' accounts. She liked clear marks but found people could describe the same road differently.
+Lumen works as an archivist in Aurel; she trained at an observatory, comparing maps, beacon readings and travelers' accounts. Her mother, Dema, is a baker in Aurel. Lumen liked clear marks but found people could describe the same road differently.
 
 Near a path she saw a young deer tangled in abandoned rope. With a guide's help she freed him, then watched from a distance as he recovered. The deer, whom she called Glimmer, later began visiting the observatory by choice. Their bond grew slowly, without coercion.
 

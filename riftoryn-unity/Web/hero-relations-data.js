@@ -23,6 +23,8 @@ const RIFTORYN_RELACJE = [
     ["liora","elira","Bliźniaczki","family","Rozdzielone w dzieciństwie bliźniaczki po latach uczą się na nowo swojej bliskości.","RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md"],
     ["azmir","vaelis","Mistrz i uczennica","work","Vaelis uczy się od Azmira pracy archiwistki i magii Ciemności, a zarazem poprawia jego błędy. Materiał do oceny.","RIFTORYN_AZMIR_POSTAC_I_TRYLOGIA_PROPOZYCJA.md"],
     ["veda","piecarius","Zlecenie · szkic","work","Veda wynajmuje Piecariusa do ochrony wozu z częściami do pompy. Razem docierają do osady mimo napadu.","opowiadania/piecarius/ksiega-bez-autora/historia.pl.md"],
+    ["piecarius","lumen","Spotkanie · szkic","work","Lumen przygotowuje odpis ze spisu i kieruje Piecariusa do swojej matki, Demy.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"],
+    ["piecarius","elira","Spotkanie · szkic","work","Elira pomaga Orienowi przy latarni, gdy Piecarius pyta o znak Feniksa.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"],
     ["piecarius","ruvan","Spotkanie · szkic","contact","W Nivoren Ruvan przekazuje mu niepewny trop o podobnym znaku.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"],
     ["piecarius","nocten","Spotkanie · szkic","contact","Nocten ogląda odrys znaku i zachęca Piecariusa do ostrożnej interpretacji.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"],
     ["piecarius","orien","Spotkanie · szkic","contact","W Aurelu pracują przy latarni i rozmawiają o księdze po ojcu Piecariusa.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"]

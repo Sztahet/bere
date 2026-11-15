@@ -28,9 +28,9 @@ Oberżysta potwierdził skinieniem. Wtedy kobieta odłożyła gruszkę.
 
 Oberżysta skrył uśmiech za kubkiem. Zapłaciłem za pokój ze śniadaniem miejscowymi drobnymi, po czym wyszedłem obejrzeć wóz.
 
-Veda miała dwa konie i pomocnika o imieniu Len. Młodzieniec znał trasę z poprzednich przejazdów. Ja znałem drogę z mapy, którą kupiłem wczoraj, i uważałem ją za wystarczającą. Mapa nie wspominała o tym, że przy pierwszym rozwidleniu trzeba skręcić w lewo, choć droga na prawo wygląda na szerszą i bardziej uczęszczaną.
+Veda miała dwa konie i pomocnika o imieniu Jorek. Młodzieniec znał trasę z poprzednich przejazdów. Ja znałem drogę z mapy, którą kupiłem wczoraj, i uważałem ją za wystarczającą. Mapa nie wspominała o tym, że przy pierwszym rozwidleniu trzeba skręcić w lewo, choć droga na prawo wygląda na szerszą i bardziej uczęszczaną.
 
-— Skręciłby pan tam? — spytał Len.
+— Skręciłby pan tam? — spytał Jorek.
 
 — Rozważałem obejście, aby sprawdzić tyły konwoju.
 
@@ -104,7 +104,7 @@ Napastnicy wybrali miejsce, w którym las schodził najbliżej drogi. Dwóch wys
 
 — To niech przyjdą po nie do nas — odpowiedział jeden.
 
-Zsiadłem z wozu. Najchętniej przedstawiłbym się zgodnie z obyczajem, lecz Len już próbował wyciągnąć spod siedzenia krótki nóż. Widziałem, że ręce mu drżą.
+Zsiadłem z wozu. Najchętniej przedstawiłbym się zgodnie z obyczajem, lecz Jorek już próbował wyciągnąć spod siedzenia krótki nóż. Widziałem, że ręce mu drżą.
 
 — Zostań przy koniach — powiedziałem.
 
@@ -114,9 +114,9 @@ Zsiadłem z wozu. Najchętniej przedstawiłbym się zgodnie z obyczajem, lecz Le
 
 Pierwszy napastnik ruszył, zanim wyciągnąłem miecz. Uderzył w bok wozu, próbując dosięgnąć Vedy. Wystawiłem przed siebie dłoń i poprowadziłem ogień w wąski łuk nad kołem. Chciałem zmusić go do odwrotu, nie podpalić plandeki. Żar odpowiedział szybciej, niż zamierzałem. Cofnąłem rękę, a płomień skurczył się do linii biegnącej po wilgotnym kamieniu.
 
-Drugi napastnik dopadł mnie od strony drzew. Uderzenie przyjąłem naramiennikiem i poczułem, jak puszcza naprawiany rano rzemień. Zbroja przesunęła się na ramieniu. Zasłoniłem lukę tarczą przedramienia i odepchnąłem napastnika. Kiedy cofnął się ku drzewom, dostrzegłem, że trzeci obchodzi wóz od tyłu. Krzyknąłem do Lena, by przytrzymał konie, a sam zastąpiłem napastnikowi drogę do skrzyni. Nie ruszyłem za uciekającym; przy wozie nadal byli ludzie, których miałem chronić.
+Drugi napastnik dopadł mnie od strony drzew. Uderzenie przyjąłem naramiennikiem i poczułem, jak puszcza naprawiany rano rzemień. Zbroja przesunęła się na ramieniu. Zasłoniłem lukę tarczą przedramienia i odepchnąłem napastnika. Kiedy cofnął się ku drzewom, dostrzegłem, że trzeci obchodzi wóz od tyłu. Krzyknąłem do Jorka, by przytrzymał konie, a sam zastąpiłem napastnikowi drogę do skrzyni. Nie ruszyłem za uciekającym; przy wozie nadal byli ludzie, których miałem chronić.
 
-Len puścił lejce. Koń szarpnął i wóz przekrzywił się na poboczu. Veda krzyknęła, że skrzynia się przesuwa. Chciałem jeszcze raz rozciągnąć ogień, lecz po pierwszym ruchu ręka drżała mi za mocno, by utrzymać go przy samej ziemi. Zamiast tego stanąłem przy kole i kazałem Lenowi złapać konia od pyska.
+Jorek puścił lejce. Koń szarpnął i wóz przekrzywił się na poboczu. Veda krzyknęła, że skrzynia się przesuwa. Chciałem jeszcze raz rozciągnąć ogień, lecz po pierwszym ruchu ręka drżała mi za mocno, by utrzymać go przy samej ziemi. Zamiast tego stanąłem przy kole i kazałem Jorkowi złapać konia od pyska.
 
 — A pan?
 
@@ -124,7 +124,7 @@ Len puścił lejce. Koń szarpnął i wóz przekrzywił się na poboczu. Veda kr
 
 Jeden z napastników ruszył ku skrzyni. Widział mnie, widział miecz i zdecydował się cofnąć. Pozostali zniknęli między drzewami; nie wiem, czy przestraszyła ich broń, ogień, czy to, że z dolnej drogi dobiegł turkot następnego wozu.
 
-Nie ścigałem ich. Pomogłem Vedzie opuścić skrzynię z powrotem na środek platformy. Len długo nie wypuszczał pyska konia, choć zwierzę już stało spokojnie.
+Nie ścigałem ich. Pomogłem Vedzie opuścić skrzynię z powrotem na środek platformy. Jorek długo nie wypuszczał pyska konia, choć zwierzę już stało spokojnie.
 
 — Uratował pan pompę — powiedziała Veda.
 
@@ -132,7 +132,7 @@ Nie ścigałem ich. Pomogłem Vedzie opuścić skrzynię z powrotem na środek p
 
 — Pompę też.
 
-Potem podała mi dwie gruszki. Przyjąłem je z należną powagą. Jedna była dojrzała i nieco obita; zjadłem ją, siedząc obok Lena na koźle. Drugą schowałem do sakwy.
+Potem podała mi dwie gruszki. Przyjąłem je z należną powagą. Jedna była dojrzała i nieco obita; zjadłem ją, siedząc obok Jorka na koźle. Drugą schowałem do sakwy.
 
 ## Księga
 
@@ -154,4 +154,4 @@ Nie wiem, czy mówiłem do ojca, czy do księgi. W gospodzie za ścianą ktoś �
 
 Złożyłem odrys i wsunąłem go między kartki. Nie jako dowód. Jako powód, żeby jeszcze kiedyś zapytać o stary kamień.
 
-Potem zjadłem drugą gruszkę, choć podczas kolacji mówiłem Lenowi o rycerskim umiarze. Nie sądzę, żeby mnie usłyszał.
+Potem zjadłem drugą gruszkę, choć podczas kolacji mówiłem Jorkowi o rycerskim umiarze. Nie sądzę, żeby mnie usłyszał.
