@@ -112,6 +112,8 @@ Nie pytał, czy żałuję. Nie pytał, dlaczego przyszłam. Interesował go uchw
 
 Zostałam skazana. Straciłam majątek i uprawnienia do pracy przy cywilnych systemach obronnych. Odbudowa pod nadzorem i próby odłączonych prototypów uniwersytetu stanowiły część warunków wykonania kary. Nie dostałam swobodnego dostępu do działających instalacji.
 
+Majątek zdobyty na sabotażu wynosił 25 000 selenów. Przekazano go Radzie Siedmiu Szlaków, która miała kierować pieniądze do potrzebujących rejonów. Kiedy odczytano kwotę, przypomniałam sobie, jak kiedyś liczyłam każdą zapłatę, żeby pośrednik mnie nie oszukał. Nie pytałam wtedy, kto zapłaci za skutki mojej pracy. Nie ma sumy, która mogłaby oddać ludziom tych, których stracili.
+
 Jedna z osób, które straciły bliskich, powiedziała mi, że nigdy mi nie wybaczy. Miałam przygotowanych wiele odpowiedzi na pytania o urządzenia. Na to nie miałam żadnej, której miałaby obowiązek słuchać.
 
 — Ma pani do tego prawo — powiedziałam.
