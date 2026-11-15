@@ -9,6 +9,7 @@
   const chapterNav = document.getElementById("chapters");
   const storyBody = document.getElementById("story");
   const storyNav = document.getElementById("story-navigation");
+  const partsNav = document.getElementById("parts-navigation");
   const parts = ["I", "II", "III"];
   const elements = [["Ogień", "fire"], ["Lód", "ice"], ["Błyskawice", "lightning"], ["Natura", "nature"], ["Ziemia", "earth"], ["Światło", "light"], ["Ciemność", "darkness"]];
   const roles = [["Tank", "tank"], ["Wsparcie", "support"], ["Specjalista", "specialist"], ["Przywoływacz", "summoner"]];
@@ -89,6 +90,13 @@
 
   function renderStory(hero, story) {
     const index = hero.stories.indexOf(story);
+    const partLinks = hero.stories.map((part, partIndex) => {
+      const entry = link(null, storyLink(hero, part), "parts-link");
+      entry.append(element("span", `CZĘŚĆ ${parts[partIndex]}`, "parts-label"), element("span", part.title, "parts-title"));
+      if (part === story) entry.setAttribute("aria-current", "page");
+      return entry;
+    });
+    partsNav.replaceChildren(...partLinks);
     document.getElementById("back-to-collection").href = `#${hero.id}`;
     document.getElementById("reader-series").textContent = hero.series || "Archiwum Riftoryn";
     document.getElementById("reader-meta").textContent = [

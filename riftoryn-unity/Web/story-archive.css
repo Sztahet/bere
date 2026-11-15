@@ -73,6 +73,12 @@ h1 { font-size: clamp(2.65rem, 6.5vw, 5.2rem); line-height: 1.04; }
 .read-link { color: var(--accent); font-size: .8rem; white-space: nowrap; }
 .reader-bar { padding-block: 1.2rem; border-bottom: 1px solid var(--line); }
 .reader-bar span { color: var(--muted); font-size: .85rem; text-align: end; }
+.parts-nav { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .5rem; margin-top: 1.1rem; }
+.parts-link { display: flex; flex-direction: column; gap: .3rem; min-width: 0; padding: .85rem 1rem; color: #d8cdd0; background: #211d29; border: 1px solid #544656; text-decoration: none; transition: border-color .2s, background .2s; }
+.parts-link:hover { border-color: var(--accent); background: #2d2632; }
+.parts-link[aria-current="page"] { color: #fff7ec; border-color: var(--accent); background: #3a3034; box-shadow: inset 0 -2px 0 var(--accent); }
+.parts-label { color: var(--accent); font: 700 .62rem/1.2 var(--sans); letter-spacing: .14em; }
+.parts-title { font: 1rem/1.25 var(--serif); }
 .reader-heading { position: relative; isolation: isolate; overflow: hidden; display: flex; align-items: center; min-height: 290px; padding: 3.5rem clamp(1.5rem, 5vw, 4rem); margin: 2rem 0 4rem; background: radial-gradient(ellipse at 80% 20%, #423346 0, transparent 55%), #1b1825; border: 1px solid #77604b70; }
 .reader-heading.has-cover { min-height: clamp(480px, 67vh, 680px); }
 .reader-cover { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; z-index: -2; }
@@ -104,6 +110,9 @@ h1 { font-size: clamp(2.65rem, 6.5vw, 5.2rem); line-height: 1.04; }
   .shell { width: calc(100% - 2rem); }
   .story-entry { grid-template-columns: 3.4rem minmax(0, 1fr) auto; gap: .5rem; padding-inline: .2rem; }
   .reader-layout { display: block; }
+  .parts-nav { grid-template-columns: 1fr; gap: .35rem; }
+  .parts-link { flex-direction: row; align-items: baseline; gap: .8rem; padding: .7rem .85rem; }
+  .parts-label { flex: 0 0 4.4rem; }
   .reader-layout aside { position: static; margin-bottom: 1.6rem; }
   .reader-layout nav { padding-bottom: .85rem; border-bottom: 1px solid var(--line); }
   .reader-heading { margin: 1rem 0 2.5rem; padding: 2rem 1.4rem; }
