@@ -20,7 +20,7 @@ Przy stole siedziała kobieta, która właśnie obgryzała gruszkę. Miała siwe
 
 Oberżysta potwierdził skinieniem. Wtedy kobieta odłożyła gruszkę.
 
-— Jestem Veda. Wóz należy do mnie. Wiezie zapasowe części do osady przy górnej drodze. Pan ma pilnować wozu, a nie wygłaszać mowy, kiedy go zatrzymamy.
+— Jestem Veda. Wóz należy do mnie. Wiezie zapasowe części do osady przy górnej drodze. Pan ma pilnować wozu, a nie wygłaszać mowy przy każdej wolnej chwili.
 
 — Droga damo, te dwa obowiązki nie muszą się wykluczać.
 
@@ -38,11 +38,11 @@ Veda miała dwa konie i pomocnika o imieniu Jorek. Młodzieniec znał trasę z p
 
 — Tym bardziej należy go dobrze strzec.
 
-Veda podała mi lejce, żebym potrzymał konie, a sama sprawdziła mocowanie skrzyni. Potem powiedziała, że na mapie brakuje mostka, który zmyła zeszłoroczna woda. Uzupełniłem znak własnym ołówkiem. Nie lubię przyznawać, że ktoś inny zna drogę lepiej ode mnie. Jeszcze mniej lubię wracać po własnych śladach. Zanim ruszyliśmy, przewiązałem nadwyrężony rzemień przy naramienniku. Węzeł miał wystarczyć do wieczora.
+Veda podała mi lejce, żebym potrzymał konie, a sama sprawdziła mocowanie skrzyni. Potem powiedziała, że zeszłoroczna woda zmyła mostek, a mapa tego nie pokazuje. Zaznaczyłem własnym ołówkiem miejsce, w którym nie dało się już przejechać. Nie lubię przyznawać, że ktoś inny zna drogę lepiej ode mnie. Jeszcze mniej lubię wracać po własnych śladach. Zanim ruszyliśmy, przewiązałem nadwyrężony rzemień przy naramienniku. Węzeł miał wystarczyć do wieczora.
 
 ## Stary kamień
 
-Przed południem zatrzymaliśmy się przy starym kamiennym słupie stojącym obok drogi. Veda miała dostarczyć list mieszkającemu tam starcowi. Wysiadła z wozu i zastukała laską w próg niskiej chaty.
+Przed południem zatrzymaliśmy się przy starym kamiennym słupie stojącym obok drogi. Veda miała dostarczyć list starcowi mieszkającemu w pobliskiej chacie. Wysiadła z wozu i zastukała laską w próg.
 
 Mężczyzna wyszedł po dłuższej chwili. Nazywał się Oren, a przynajmniej tak przedstawiła go Veda. Miał dłonie naznaczone poparzeniami i poruszał się powoli, ale kiedy zobaczył moją zbroję, wyprostował plecy.
 

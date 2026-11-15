@@ -14,7 +14,7 @@ Za kopię chciała prawie ćwierć selena w miejscowych drobnych. Zapytałem, cz
 
 — Owszem.
 
-— To wolę przeczytać ją jeszcze raz. Zrobię odpis sama i trochę panu opuszczę.
+— To wolę sama jeszcze raz przeczytać dokument. Zrobię odpis i trochę panu opuszczę.
 
 Zgodziłem się. Różnica mogła opłacić prosty posiłek, a ja nie zamierzałem spierać się z kobietą o cenę jej pracy przez całe przedpołudnie.
 
@@ -228,11 +228,11 @@ Nie widziałem pierwszego płomienia. Zobaczyłem, jak kobieta odskakuje od drew
 
 Chłopiec dobiegł od środka do drzwi, lecz belka osunęła się między nim a wyjściem. Zatrzymałem się na zewnątrz, przy progu; matka stała kilka kroków za mną. Ogień zajął już jedną ścianę.
 
-Sięgnąłem po moc, żeby odciągnąć płomień od wejścia. Gorąco posłuchało, przesuwając się ku pustemu placowi, ale wiatr pchał je z powrotem. Pod belką została szczelina. Trzymałem ogień z dala od progu i kazałem chłopcu się położyć, lecz nie miał dość miejsca, żeby przecisnąć się z drugiej strony.
+Sięgnąłem po moc, żeby odciągnąć płomień od wejścia. Gorąco posłuchało, przesuwając się ku pustemu placowi, ale wiatr pchał je z powrotem. Pod belką została szczelina, częściowo zastawiona deską. Trzymałem ogień z dala od progu i kazałem chłopcu się położyć, lecz nie miał dość miejsca, żeby przecisnąć się z drugiej strony.
 
 — Pod belką! — krzyknąłem do niego.
 
-Nie ruszył. Kiedy nazwałem go chłopcem od narzędzia i powiedziałem, że matka czeka tuż za mną, ukląkł przy belce. Zaczepił o nią ramieniem. Puściłem płomień na tyle, by wsunąć rękę przez szczelinę i odciągnąć kawałek leżącej przy nim deski. Gorąca krawędź deski otarła mi skórę pod rękawem. Wtedy chłopiec przeczołgał się do progu, a matka odciągnęła go na plac.
+Nie ruszył. Kiedy nazwałem go chłopcem od narzędzia i powiedziałem, że matka czeka tuż za mną, ukląkł przy belce. Zaczepił o nią ramieniem. Na chwilę osłabiłem kontrolę nad płomieniem, żeby wsunąć rękę przez szczelinę i odciągnąć deskę. Jej gorąca krawędź otarła mi skórę pod rękawem. Wtedy chłopiec przeczołgał się do progu, a matka odciągnęła go na plac.
 
 Wtedy dostrzegłem metal przy odsłoniętej skrzyni. Płytka wisiała na rzemyku przy narożniku. Na jej powierzchni był zarys skrzydeł.
 

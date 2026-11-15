@@ -4,7 +4,7 @@
 
 Powitanie ćwiczyłem przed wypolerowaną pokrywką od garnka. Miałem trzy wersje. Kiedy podniosłem rękę do ukłonu, pod rękawem odezwało się oparzenie po pożarze. Opuściłem ją i znów zobaczyłem skrzynię pod belką. Przez kilka nocy wracałem po tę płytkę we śnie; za każdym razem budziłem się, zanim zdążyłem jej dotknąć.
 
-Pierwsza była zbyt długa. W drugiej dwa razy użyłem słowa „zaszczyt”. Trzecia podobała mi się najbardziej, ale kiedy podniosłem podbródek przy słowie „Feniks”, zobaczyłem w pokrywce kawałek gruszki utknięty w brodzie.
+Pierwsza wersja powitania była zbyt długa. W drugiej dwa razy użyłem słowa „zaszczyt”. Trzecia podobała mi się najbardziej, ale kiedy podniosłem podbródek przy słowie „Feniks”, zobaczyłem w pokrywce kawałek gruszki utknięty w brodzie.
 
 Usunąłem go i zacząłem od początku.
 
@@ -126,7 +126,7 @@ Urzędnik podał jej formularz i zaprosił do stołu. Nie zrobiła niczego złeg
 
 Odsunąłem się od kolejki. Nie zgłosiłem się tego dnia. Wmawiałem sobie, że muszę wrócić do obowiązków przy transporcie, a potem przyjść, kiedy będzie mniej ludzi. Częściowo była to prawda.
 
-Drugą część zabrałem ze sobą.
+Drugą część prawdy — że przestraszyłem się kolejnych pytań — zabrałem ze sobą.
 
 ## Nagroda i imię
 
@@ -218,4 +218,4 @@ Odsunąłem się. Razem wydobyliśmy wodę.
 
 Nie zacząłem od przemowy. Spytałem go, skąd przyjechał.
 
-Opowiedział mi o swojej drodze, a ja wysłuchałem jej do końca. Dopiero potem zapytałem, czy słyszał kiedyś o Feniksie.
+Opowiedział mi o swojej drodze, a ja słuchałem do końca. Dopiero potem zapytałem, czy słyszał kiedyś o Feniksie.
