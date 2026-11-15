@@ -24,7 +24,7 @@ Wyjąłem gwóźdź z ust.
 
 — Na razie jeden list. Ktoś napisał, że taki człowiek nie istnieje. Nie podpisał się.
 
-Imię na liście widniało w naszych starych dokumentach od lat, choć żaden nie wyjaśniał, czy należy do człowieka, który po nie przyszedł.
+Imię na liście widniało w naszych starych dokumentach od lat, choć żaden nie wyjaśniał, czy należy do człowieka, którego wpisano na listę.
 
 — Chcesz wrócić do tamtych akt? — spytała Vaelis.
 
@@ -74,7 +74,7 @@ Przyjrzała mi się uważnie.
 
 Nie byłem, choć jej odpowiedź pomogła. Vela zapamiętała natomiast, że człowiek w płaszczu podniósł czyjąś upuszczoną laskę i oparł ją o ławę. Talma nie widziała tego ze swojego miejsca za stołem. Strażniczka przy drzwiach twierdziła, że laskę podniosła właścicielka.
 
-Zapytałem, czy nie mogła podnieść jej raz jedna osoba, a później druga. Obie rozmówczynie uznały, że mogła. Ani jedna nie chciała jednak zmienić swojej odpowiedzi.
+Zapytałem, czy laski nie mogła najpierw podnieść jedna osoba, a później druga. Obie rozmówczynie uznały, że tak. Ani jedna nie chciała jednak zmienić swojej odpowiedzi.
 
 ## III. Rubryka
 

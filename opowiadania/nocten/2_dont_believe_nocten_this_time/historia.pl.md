@@ -40,7 +40,7 @@ Jeśli nie istniała, skąd bierze się żal? Jeśli istniała, dlaczego nie umi
 
 11 stycznia, 11 ET
 
-Zepsuta osłona przy magazynie odbijała światło kryształu ku drodze. Poproszono mnie, żebym pomógł przeprowadzić ludzi i zapasy do sąsiedniego budynku, dopóki rzemieślnik nie zdejmie części. Dwóch przewoźników czekało już przy wejściu. Jeden chciał ruszyć natychmiast; drugi wolał zaczekać na naprawę.
+Zepsuta osłona przy magazynie odbijała światło kryształu ku drodze, oślepiając przechodniów. Poproszono mnie, żebym pomógł przeprowadzić ludzi i zapasy do sąsiedniego budynku, dopóki rzemieślnik nie zdejmie części. Dwóch przewoźników czekało już przy wejściu. Jeden chciał ruszyć natychmiast; drugi wolał zaczekać na naprawę.
 
 Mogłem osłonić krótki odcinek przy ścianie. Nie miałem pewności, czy utrzymam cień na całej drodze z ich ładunkiem i przy wietrze, który poruszał płachtą nad bramą. Zaproponowałem, żeby przenosili rzeczy po jednej skrzyni, a ja powiem, kiedy osłona osłabnie. Ten, który się spieszył, skrzywił się na widok zapasu czekającego przy drzwiach.
 

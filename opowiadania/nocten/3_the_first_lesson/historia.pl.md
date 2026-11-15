@@ -10,7 +10,7 @@ Kiedy znów zbiorą się przedstawiciele siedmiu żywiołów, musisz tam być.
 
 Pod spodem zapisana data: 29 maja, 12 ET.
 
-Nie pamiętam, bym napisał którekolwiek z tych zdań. Zeszyt jest stary; używałem go wiele razy. Nie wiem, kiedy pojawił się wpis ani czy data i zdanie powstały razem. Mogłem dopisać ją po otrzymaniu wiadomości o kwalifikacjach, choć nie pamiętam też tego. Jeśli znalazła się tam wcześniej, nie wiem, skąd mogłem ją znać.
+Nie pamiętam, bym napisał to zdanie ani dopisał datę. Zeszyt jest stary; używałem go wiele razy. Nie wiem, kiedy pojawił się wpis ani czy data i zdanie powstały razem. Mogłem dopisać ją po otrzymaniu wiadomości o kwalifikacjach, choć nie pamiętam też tego. Jeśli znalazła się tam wcześniej, nie wiem, skąd mogłem ją znać.
 
 Trzymam kartkę przy oknie i nie widzę różnicy w atramencie, której mógłbym zaufać. To zdanie nie mówi, kogo mam szukać ani dlaczego. Nazywa spotkanie koniecznością, jakby ktoś mógł wydać mi rozkaz przez pustą stronę.
 
@@ -98,7 +98,7 @@ W wynajętym pokoju stół jest za mały na wszystkie moje zeszyty. Właściciel
 
 Wyjąłem czystą kartkę. Chciałem zapisać rzeczy, od których mogę zacząć rozmowę, jeśli spotkam kogoś pytającego o moją przeszłość. Napisałem własne imię i miejsce urodzenia według dokumentów. Przez chwilę patrzyłem na te słowa. Wiedziałem, skąd pochodzi zapis o osadzie; wiedziałem też, że pamiętam inne miejsce.
 
-Na następnej stronie zobaczyłem znajome ostrzeżenie:
+Na następnej stronie zeszytu zobaczyłem znajome ostrzeżenie:
 
 Tym razem nie wierz Noctenowi.
 

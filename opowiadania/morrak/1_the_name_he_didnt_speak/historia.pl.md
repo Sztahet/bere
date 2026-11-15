@@ -78,7 +78,7 @@ Córka Meret wbiła igłę w materiał i powiedziała:
 
 Matka spojrzała na nią zdziwiona.
 
-— Tutaj — dziewczynka wskazała własny nadgarstek. — Taki pasek wisiał i był mokry. A obok były dwa jasne, krzywe ściegi.
+— Tutaj. — Dziewczynka wskazała własny nadgarstek. — Taki pasek wisiał i był mokry. A obok były dwa jasne, krzywe ściegi.
 
 Meret powiedziała, że ich nie zauważyła. Córka twierdziła, że widziała je, kiedy chwyciła nieznajomego za rękaw, wychodząc spod plandeki.
 
@@ -112,7 +112,7 @@ Podałem mu krzesło. Usiadł tak, żeby widzieć drzwi.
 
 — Nie wiem. Ten jeniec powiedział mi to później. Nie wiem też, co robił przed tamtym napadem.
 
-— Żywego?
+— Dowódcę znalazł pan żywego?
 
 Daren długo pocierał kciukiem zagłębienie na brzegu stołu.
 

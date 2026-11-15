@@ -6,7 +6,7 @@
 
 W piekarni nie dało się otworzyć drzwi. Zawias opadł tak nisko, że dolna krawędź szorowała po progu, a właścicielka od świtu wypuszczała klientów tylnym wyjściem. Kiedy przyszedłem po chleb, poprosiła mnie, żebym potrzymał skrzydło, póki jej syn nie przyniesie narzędzi.
 
-Zrobiłem to. Następnie pomogłem mu wyjąć sworzeń, a potem jeszcze raz, ponieważ upuścił go za beczkę i obaj uznaliśmy, że łatwiej będzie poruszyć beczkę niż podłogę.
+Zrobiłem to. Następnie pomogłem mu wyjąć sworzeń. Kiedy upuścił go za beczkę, pomogłem mu go stamtąd wydobyć — obaj uznaliśmy, że łatwiej będzie poruszyć beczkę niż podłogę.
 
 — Myślałam, że mag poradzi sobie szybciej — powiedziała właścicielka.
 
@@ -64,7 +64,7 @@ Było mi wstyd, jakbym przyszedł do niej z pretensją o własne niedbalstwo. A 
 
 Przez całą drogę do domu próbowałem przypomnieć sobie nazwę miasta. Na progu zorientowałem się, że zostawiłem kopię wykazu w archiwum. Musiałem po nią wrócić.
 
-Kupiłem dwa zeszyty. Jeden na zwyczajne sprawy, żeby sąsiad nie czekał na mnie ponownie przez moje rozmyślania. Drugi na to, co zapamiętałem, i na to, co zdołam sprawdzić. Jeżeli pomieszam te rzeczy, oba staną się bezużyteczne.
+Kupiłem dwa zeszyty. Jeden na zwyczajne sprawy, żeby sąsiad nie czekał na mnie ponownie przez moje rozmyślania. Drugi na to, co zapamiętałem, i na to, co zdołam sprawdzić. Muszę uważać, żeby nie pomylić wspomnień z tym, co udało mi się potwierdzić, ani nie zapisywać wszystkiego w tym samym zeszycie.
 
 ## III. Droga do szkoły
 

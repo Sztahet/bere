@@ -18,7 +18,7 @@ Nazywała się Mirela. Jej brat pracował w kopalni na północ od portu. Po zaw
 
 Mirela chciała, bym dołączył żeton do akt wypadku. Nie chciała natomiast, by ktokolwiek w kopalni się dowiedział, skąd pochodzi.
 
-— Mówi pani, że znaleziono go w zamkniętej bramie. Zapiszę, kto go znalazł, i poproszę drugą osobę o potwierdzenie.
+— Mówi pani, że znalazła go pani przy bramie. Zapiszę, kto go znalazł, i poproszę drugą osobę o potwierdzenie.
 
 — Wtedy nadzorca dowie się, że rozmawiałam z panem.
 
@@ -190,6 +190,6 @@ Na karcie czterdziestej drugiej zapisałem, kto widział ratunek, kto widział �
 
 Na końcu nie napisałem, czy Morrak jest Veshem. Napisałem, że nie potrafię tego ustalić na podstawie tych świadectw.
 
-Następnego ranka żeton zwrócono Mireli. Poprosiła, aby w aktach został jego rysunek. Vaelis narysowała go dokładniej, niż ja potrafiłbym opisać: nierówne koło, kreskę i małą szczerbę przy brzegu. Ta ostatnia nie rozstrzygała niczego. Mirela powiedziała jednak, że po niej brat rozpoznał przedmiot.
+Następnego ranka Mirela przyniosła żeton jeszcze raz. Poprosiła, aby w aktach został jego rysunek. Vaelis narysowała go dokładniej, niż ja potrafiłbym opisać: nierówne koło, kreskę i małą szczerbę przy brzegu. Ta ostatnia nie rozstrzygała niczego. Mirela powiedziała jednak, że po niej brat rozpoznał przedmiot.
 
 Uznałem, że warto ją zachować.
