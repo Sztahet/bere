@@ -304,6 +304,15 @@
       "comingSoon": true
     },
     {
+      "id": "orven",
+      "name": "Orven",
+      "role": "Wsparcie",
+      "element": "Ciemność",
+      "desc": "Starszy mag Ciemności i archiwista z Cienistego Portu. Zbiera świadectwa, wiedząc, jak wiele może zmienić jedno zapisane słowo.",
+      "descEn": "An elder Darkness mage and archivist from the Shadow Port, collecting testimony with care for the people behind it.",
+      "comingSoon": true
+    },
+    {
       "id": "ruvan",
       "name": "Ruvan",
       "role": "Specjalista",
