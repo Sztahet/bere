@@ -304,12 +304,12 @@
       "comingSoon": true
     },
     {
-      "id": "piecarus",
-      "name": "Piecarus",
+      "id": "piecarius",
+      "name": "Piecarius",
       "role": "Tank",
       "element": "Ogień",
-      "desc": "Tank żywiołu Ognia. Historia i umiejętności Piecarusa są w przygotowaniu.",
-      "descEn": "A Fire Tank. Piecarus's story and abilities are in development.",
+      "desc": "Tank żywiołu Ognia. Historia i umiejętności Piecariusa są w przygotowaniu.",
+      "descEn": "A Fire Tank. Piecarius's story and abilities are in development.",
       "comingSoon": true
     },
     {

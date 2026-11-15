@@ -1,0 +1,172 @@
+# Ślady w popiele
+
+*Piecarius — opowieść druga. Wersja do oceny.*
+
+## Cena drogi
+
+Pierwszy raz sprzedałem płaszcz dla kartki papieru. Drugi raz zamierzałem sprzedać rękawice, ale właścicielka archiwum w Aurelu oświadczyła, że rękawic nie potrzebuje, a za kopię przyjmie pieniądze.
+
+— To bardzo dobre rękawice — powiedziałem.
+
+— Wierzę. Nadal wolę pieniądze.
+
+Zapłaciłem. Kartka zawierała spis przedmiotów wyniesionych z dawnej sali spotkań: dwa lichtarze, skrzynię, zasłonę i żelazną płytkę z wyobrażeniem ptaka. Ptak mógł być feniksem. Mógł też być czymś innym; kopista nie narysował go ani nie zanotował barwy.
+
+— Czy płyta jeszcze istnieje? — spytałem.
+
+— Ten spis ma więcej lat niż ja. Nie wiem, co stało się z przedmiotami.
+
+— A ktoś starszy od pani?
+
+— Moja matka. Mieszka nad piekarnią. Proszę jej jednak nie pytać wyłącznie o płytkę.
+
+Nie zamierzałem pytać wyłącznie o płytkę, choć zamierzałem od niej zacząć. Matka archiwistki nazywała się Dema i piekła chleb dla połowy ulicy. Kiedy stanąłem w jej drzwiach, ugniatała ciasto.
+
+— Niech pan odłoży miecz. Zaczepi o worek — powiedziała.
+
+Odłożyłem. Wysłuchała mojej historii, nie przerywając pracy. O płycie nie wiedziała nic, ale pamiętała handlarza, który przywoził z północy różne stare przedmioty. Kiedyś pokazał jej metalowe pióro na rzemyku i mówił o kamieniu ze znakiem ptaka.
+
+— Kiedy to było?
+
+— Zanim moja córka zaczęła pracować w archiwum.
+
+Spojrzałem na siwe pasmo przy jej skroni i zrozumiałem, że pytanie o dokładny rok byłoby bezczelnością. Zapytałem więc, skąd przyjeżdżał handlarz. Podała nazwę drogi ku Nivoren i ostrzegła, że pamięć bywa bardziej podobna do ciasta, niż człowiek chciałby przyznać: łatwo wcisnąć w nią palec i zostawić ślad.
+
+Kiedy odchodziłem, dała mi kawałek ciepłego chleba. Przyjąłem go bez ceremonii, bo nie jadłem od rana. Wyjąłem za to jedyną gruszkę z sakwy i położyłem na stole.
+
+— Zapłata za gościnność.
+
+— Mówił pan, że ma pan tylko jedną.
+
+— Rycerz ma zawsze więcej, niż potrzebuje.
+
+— W takim razie niech pan weźmie drugą.
+
+Położyła obok pierwszej własną gruszkę. Nie próbowałem jej poprawiać.
+
+## Droga na północ
+
+W Nivoren pomyliłem dwa rozwidlenia. Na drugim dołączyła do mnie przewodniczka, która prowadziła niewielką grupę do schronienia przy szlaku. Powiedziała, że mogę iść z nimi, jeśli nie będę ich przyspieszał.
+
+— Nie mam takiego zamiaru — odparłem.
+
+— Mówił pan, że spieszy się pan do człowieka, który podobno widział znak.
+
+— Nadal się spieszę. Nie znaczy to, że wy będziecie zmuszeni dotrzymać mi kroku.
+
+Przy pierwszym oblodzonym zejściu to ja potrzebowałem jej ręki. Nie wspominam o tym z dumą, ale wspominam, ponieważ nie byłoby uczciwe zapisać inaczej.
+
+Przy schronieniu spotkałem Ruvana. Zajmował się skrzynią z kryształami, które trzeba było zabezpieczyć przed podróżą. Nie znałem go wcześniej. Przewodniczka powiedziała, że mógł słyszeć wiele opowieści od ludzi przemierzających szlaki.
+
+Poczekałem, aż skończy pracę. Następnie pokazałem mu odrys z kapliczki i stronę księgi z ptasim znakiem.
+
+— Zna pan Bractwo Feniksa?
+
+— Nie mogę powiedzieć, że znam.
+
+Oglądał kartę pod światło, trzymając ją ostrożnie za brzegi.
+
+— Widziałem podobny rysunek na metalowej płytce. Dawno temu, u człowieka, który przechodził przez przełęcz z innymi handlarzami. Może to był ptak. Może tylko tak to wtedy nazwał.
+
+— Dokąd jechał?
+
+— Mówił o starym magazynie przy dolnej drodze. Jeśli ten magazyn jeszcze stoi, jest na południe stąd.
+
+Wskazał mi trasę na mapie. Kiedy poprosiłem, by zaznaczył miejsce dokładniej, zawahał się.
+
+— Pamiętam rozmowę. Nie widziałem tego budynku. A tamten człowiek mógł powtarzać cudzą opowieść.
+
+— Rozumiem.
+
+— Czy na pewno?
+
+— Nie — przyznałem. — Ale pojadę.
+
+Ruvan oddał mi odrys. Zapytał, czy mam dość pieniędzy na podróż i powrót. Powiedziałem, że mam. Nie wyjaśniłem, iż liczę na pracę po drodze.
+
+Wieczorem przewodniczka poprosiła mnie o pomoc przy drewnie. Ruvan odłożył płytkę do naprawy i przyszedł z nami. Opowiedziałem im fragment wiersza o rycerzu, który wrócił na zgliszcza rodzinnego domu. Przewodniczka stwierdziła, że rycerz powinien był najpierw spytać sąsiadów, czy ktoś nie potrzebuje pomocy. Ruvan przyznał jej rację.
+
+Nie doszedłem do najładniejszej strofy.
+
+## Płytka
+
+Magazyn stał. To była pierwsza dobra wiadomość od kilku dni. Druga dotyczyła tego, że po sąsiedzku mieszkała starsza kobieta, która pamiętała handlarzy.
+
+Zła wiadomość była taka, że dach magazynu zapadł się częściowo do środka, a do zachodniej ściany ktoś dostawił skład opału. W środku przebywał chłopiec szukający zaginionego narzędzia. Jego matka krzyczała na niego od progu, kiedy z komina pobliskiej szopy wysypały się iskry.
+
+Nie widziałem pierwszego płomienia. Zobaczyłem, jak kobieta odskakuje od drewna i jak wiatr popycha dym pod uszkodzony dach.
+
+— Mój syn! — zawołała.
+
+Chłopiec wybiegł do drzwi, lecz belka osunęła się między nim a wyjściem. Mogłem obejść budynek albo próbować odsunąć ją od frontu. Ogień zajął już jedną ścianę.
+
+Sięgnąłem po moc, żeby odciągnąć płomień od wejścia. Gorąco posłuchało, przesuwając się ku pustemu placowi, ale wiatr pchał je z powrotem. Utrzymałem przejście tylko na tyle szerokie, by matka chłopca odsunęła się z drogi. Belka była za ciężka do podniesienia jedną ręką.
+
+— Za mną! — krzyknąłem do niego.
+
+Nie ruszył. Dopiero kiedy nazwałem go chłopcem od narzędzia i obiecałem, że matka na niego czeka, wczołgał się pod stół. Przesunęliśmy go razem ku otworowi pod belką. Gdy wyszedł, dym był tak gęsty, że nie widziałem jego butów.
+
+Wtedy dostrzegłem metal przy odsłoniętej skrzyni. Płytka wisiała na rzemyku przy narożniku. Na jej powierzchni był zarys skrzydeł.
+
+Zrobiłem krok w jej stronę. Belka zatrzeszczała. Za mną matka krzyczała, że w szopie są jeszcze dwie osoby, które pomagają ratować drewno. Mogłem sięgnąć po płytkę. Musiałbym jednak cofnąć się pod dach i zostawić przejście bez osłony.
+
+Wycofałem się.
+
+Przez następne chwile biegaliśmy z wiadrami, odsuwaliśmy opał, wyprowadzaliśmy ludzi z zadymionej szopy. Utrzymywałem płomienie z dala od drzwi, dopóki nie zaczęły mi drżeć nogi. Kiedy wreszcie przyszli sąsiedzi, jedna ściana magazynu osunęła się do środka.
+
+Długo siedziałem na kamieniu. Chłopiec oddał matce znaleziony młotek. Był tylko drewniany, z pękniętym trzonkiem. Oboje płakali nad nim tak, jakby był czymś znacznie cenniejszym.
+
+## Co pozostało
+
+Rano rozgrzebaliśmy to, co wystygło. Metalowej płytki nie znalazłem. Kobieta z sąsiedztwa powiedziała, że czasem do skrzyni przywiązywano znaki handlarzy; jej zdaniem ten przedstawiał koguta. Nie była pewna, bo widziała go po raz ostatni kilka zim temu.
+
+— Proszę mi powiedzieć szczerze — zwróciłem się do niej. — Czy coś pani mówi nazwa Bractwo Feniksa?
+
+— Nie.
+
+Czekałem, czy doda coś jeszcze. Nie dodała.
+
+Chłopiec podszedł z kubkiem wody. Rękaw miał przepalony przy łokciu.
+
+— Mama mówi, że mogę zapytać, co pan tam widział.
+
+— Płytkę.
+
+— Była ważna?
+
+— Być może.
+
+— To dlaczego pan jej nie wziął?
+
+Przez całą noc układałem odpowiedź tak, żeby brzmiała godnie. W świetle poranka zabrzmiałaby jednak jak mowa wygłoszona do człowieka, który pyta o godzinę.
+
+— Bo byłeś w środku — powiedziałem.
+
+Skinął głową, jakby to wystarczyło. Mnie nie wystarczyło tak łatwo. Kiedy wracałem drogą, wciąż myślałem o odległości między moją dłonią a skrzynią. O jednym kroku. O tym, jak niewiele brakowało.
+
+Nie wiedziałem, co było na płytce. Nie wiedziałem, czy rzemyk należał do handlarza opisanego przez Demę. Straciłem przedmiot, którego mogłem nawet nigdy nie rozpoznać.
+
+W gospodzie pokazałem Noctenowi, starszemu magowi, odrys z kapliczki. Poprosiłem, by spojrzał bez moich wyjaśnień. Obejrzał kartę, a potem herb na mojej piersi.
+
+— Nie znam tego znaku na tyle, by powiedzieć, co oznaczał na kamieniu — odparł. — Kto go odrysował?
+
+— Ja.
+
+— Widział pan skrzydła, zanim zaczął pan rysować?
+
+— Tak.
+
+— Warto pamiętać, że ktoś inny mógł widzieć coś innego.
+
+Nie była to odpowiedź, na którą czekałem. Już miałem powiedzieć, że całe życie uczono mnie rozpoznawać Feniksa, lecz przecież uczyła mnie jedna księga i jeden człowiek. Nocten nie próbował mi jej odebrać. Po prostu oddał odrys.
+
+Położyłem go na stole, obok kubka. Zapłaciłem za wodę i chleb, a potem policzyłem monety. Zostało ich niewiele. Musiałem znów znaleźć pracę przy konwoju.
+
+Przed wyjściem wyjąłem księgę. Podniosłem jej okładkę i dotknąłem pierwszej strony.
+
+— Wiem, co byś powiedział — mruknąłem.
+
+To nie było prawdą. Ojciec mógłby zapytać, czy nie należało użyć dłuższego drąga, albo czy chłopcu nic się nie stało. Mógłby też kazać mi najpierw umyć dłonie, zanim znów dotknę papieru.
+
+Poszedłem więc po wodę. Dopiero potem schowałem księgę i wyruszyłem szukać pracy.
+
