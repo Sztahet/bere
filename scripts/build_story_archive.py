@@ -11,104 +11,55 @@ WEB_DATA = ROOT / UNITY / "Web" / "story-archive-data.js"
 PORTRAITS = Path("assets/heroes/portraits")
 RESOURCES = UNITY / "Assets" / "Resources"
 
-CATALOG = [
-    ("nocten", "Nocten", "Vesper", "nocten-darkness-support.png", None, [
-        ("droga-ktorej-nie-bylo", "Droga, której nie było", "opowiadania/nocten/RIFTORYN_NOCTEN_01_DROGA_KTOREJ_NIE_BYLO.md"),
-        ("tym-razem-nie-wierz-noctenowi", "Tym razem nie wierz Noctenowi", "opowiadania/nocten/RIFTORYN_NOCTEN_02_TYM_RAZEM_NIE_WIERZ_NOCTENOWI.md"),
-        ("pierwsza-lekcja", "Pierwsza lekcja", "opowiadania/nocten/RIFTORYN_NOCTEN_03_PIERWSZA_LEKCJA.md"),
-    ]),
-    ("piecarius", "Piecarius", "Vareth", "piecarius-fire-tank.png", None, [
-        ("ksiega-bez-autora", "Księga bez autora", "opowiadania/piecarius/RIFTORYN_PIECARIUS_01_KSIEGA_BEZ_AUTORA.md"),
-        ("slady-w-popiele", "Ślady w popiele", "opowiadania/piecarius/RIFTORYN_PIECARIUS_02_SLADY_W_POPIELE.md"),
-        ("rycerz-bez-zakonu", "Rycerz bez zakonu", "opowiadania/piecarius/RIFTORYN_PIECARIUS_03_RYCERZ_BEZ_ZAKONU.md"),
-    ]),
-    ("morrak", "Morrak", "Vesper", "morrak-darkness-tank.png", None, [
-        ("imie-ktorego-nie-wypowiedzial", "Imię, którego nie wypowiedział", "opowiadania/morrak/RIFTORYN_MORRAK_01_IMIE_KTOREGO_NIE_WYPOWIEDZIAL.md"),
-        ("swiadkowie-milczenia", "Świadkowie milczenia", "opowiadania/morrak/RIFTORYN_MORRAK_02_SWIADKOWIE_MILCZENIA.md"),
-        ("nazwisko-na-liscie", "Nazwisko na liście", "opowiadania/morrak/RIFTORYN_MORRAK_03_NAZWISKO_NA_LISCIE.md"),
-    ]),
-    ("saila", "Saila", "Biały Przesmyk", "saila-cold-specialist-portrait.png", None, [
-        ("ciezar-krysztalu", "Ciężar kryształu", "SailaStory"),
-        ("gdy-wieza-zamilkla", "Gdy wieża zamilkła", "SailaAwakening"),
-        ("to-czego-nie-nauczyl-mnie-ruvan", "To, czego nie nauczył mnie Ruvan", "SailaFinale"),
-    ]),
-    ("adrien", "Adrien", "Aurel", "adrien-light-specialist-v4.png", None, [
-        ("swiatlo-ktore-wskazalo-droge", "Światło, które wskazało drogę", "AdrienStory1"),
-        ("kobieta-ktora-wiedziala", "Kobieta, która wiedziała", "AdrienStory2"),
-        ("wynalazek-ktorego-nie-przewidzialem", "Wynalazek, którego nie przewidziałem", "AdrienStory3"),
-    ]),
-    ("lena", "Lena", "Aurel", "../../../riftoryn-unity/Assets/Resources/Portraits/lena.png", None, [
-        ("ludzie-sa-ciekawsi-od-krysztalow", "Ludzie są ciekawsi od kryształów", "LenaStory1"),
-        ("imiona-ktore-zostaja", "Imiona, które zostają", "LenaStory2"),
-        ("znam-kogos-kto-potrafi", "Znam kogoś, kto potrafi", "LenaStory3"),
-    ]),
-    ("rian", "Rian", "Vareth", "../../../riftoryn-unity/Assets/Resources/Portraits/rian.png", "Cena wyboru", [
-        ("jedenascie-minut", "Jedenaście minut", "opowiadania/rian/RIFTORYN_RIAN_01_JEDENASCIE_MINUT.md"),
-        ("drugi-olowek", "Drugi ołówek", "opowiadania/rian/RIFTORYN_RIAN_02_DRUGI_OLOWEK.md"),
-        ("nie-przestalam", "Nie przestałam", "opowiadania/rian/RIFTORYN_RIAN_03_NIE_PRZESTALAM.md"),
-    ]),
-    ("lucen", "Lucen", "Aurel", "lucen-light-specialist.png", "Własna droga", [
-        ("z-tego-co-ocalalo", "Z tego, co ocalało", "opowiadania/lucen/RIFTORYN_LUCEN_01_Z_TEGO_CO_OCALALO.md"),
-        ("nauka-kontroli", "Nauka kontroli", "opowiadania/lucen/RIFTORYN_LUCEN_02_NAUKA_KONTROLI.md"),
-        ("nie-przeciwko-tobie", "Nie przeciwko tobie", "opowiadania/lucen/RIFTORYN_LUCEN_03_NIE_PRZECIWKO_TOBIE.md"),
-    ]),
-    ("taren", "Taren", "Iglica Zerath", "taren-lightning-tank.png", "Ciężar obowiązku", [
-        ("to-co-pozostalo", "To, co pozostało", "opowiadania/taren/RIFTORYN_TAREN_01_TO_CO_POZOSTALO.md"),
-        ("cena-lojalnosci", "Cena lojalności", "opowiadania/taren/RIFTORYN_TAREN_02_CENA_LOJALNOSCI.md"),
-        ("po-drugiej-stronie", "Po drugiej stronie", "opowiadania/taren/RIFTORYN_TAREN_03_PO_DRUGIEJ_STRONIE.md"),
-    ]),
-]
+# The catalogue and manuscripts are the only editable story sources.
+_MANIFEST = json.loads((ROOT / "opowiadania/katalog.json").read_text(encoding="utf-8"))
+CATALOG = [(h["id"], h["name"], h["region"], h["portrait"], h["series"],
+            [(s["id"], None, s["folder"]) for s in h["stories"]]) for h in _MANIFEST]
+_INDEX = {s["folder"]: s for h in _MANIFEST for s in h["stories"]}
 
 
-def markdown_chapters(source, title):
-    text = (ROOT / source).read_text(encoding="utf-8")
-    filename = Path(source).name
-    pieces = re.split(r"(?m)^## (.+)$", text)
-    if len(pieces) < 3 or not (pieces[0].splitlines()[0].endswith(f" — {title}") or pieces[0].splitlines()[0] == f"# {title}"):
-        raise ValueError(f"Nie znaleziono tytułu lub rozdziałów w {source}")
-    chapters = [
-        {
-            "title": heading,
-            "blocks": [{"text": (re.sub(r"\*(.*?)\*", r"\1", re.sub(r"\*\*(.*?)\*\*", r"\1", paragraph.strip()))
-                                  if filename.startswith("RIFTORYN_RIAN_") else paragraph.strip())}
-                       for paragraph in re.split(r"\n\s*\n", body) if paragraph.strip()],
-        }
-        for heading, body in zip(pieces[1::2], pieces[2::2])
-    ]
-    if filename.startswith("RIFTORYN_MORRAK_"):
-        preamble = pieces[0].splitlines()
-        metadata = [line.strip().strip("*") for line in preamble if "Archiwum Cienistego Portu" in line or line.startswith("*Zapis Azmira:")]
-        chapters[0]["blocks"][:0] = [{"text": line} for line in metadata]
-    for chapter in chapters:
-        for block in chapter["blocks"]:
-            block["text"] = re.sub(r"\*\*(.*?)\*\*", r"\1", block["text"])
-            block["text"] = re.sub(r"\*(.*?)\*", r"\1", block["text"])
-    return chapters
+def load_story(slug, title, source, include_pending=False, language="pl"):
+    info = _INDEX[source]
+    directory = ROOT / source
+    raw = (directory / f"historia.{language}.md").read_text(encoding="utf-8")
+    pieces = re.split(r"(?m)^## (.+)$", raw)
+    first = pieces[0].strip()
+    if not first.startswith("# ") or len(pieces) < 3:
+        raise ValueError(f"Nieprawidłowy rękopis: {source}")
+    actual_title = first[2:].strip()
+    images = json.loads((directory / "ilustracje.json").read_text(encoding="utf-8"))
+    chapters=[]
+    for heading, body in zip(pieces[1::2], pieces[2::2]):
+        chapter={"title": heading, "blocks": []}
+        for paragraph in re.split(r"\n\s*\n", body.strip()):
+            match=re.fullmatch(r"<!-- ilustracja: (\d+) -->", paragraph.strip())
+            if match:
+                number=match.group(1)
+                if number not in images: raise ValueError(f"Brak ilustracji {number}: {source}")
+                block={"image": int(number), **images[number]}
+                if language == "en" and block.get("altEn"): block["alt"] = block["altEn"]
+                if block.get("pending"):
+                    if include_pending: chapter["blocks"].append(block)
+                    continue
+                original = directory / "ilustracje" / f"{int(number):02}.jpg"
+                if not original.is_file(): raise FileNotFoundError(original)
+                image=RESOURCES / info["unity"] / f"{int(number):02}.jpg"
+                if not (ROOT / image).is_file(): raise FileNotFoundError(image)
+                block["src"]=image.as_posix()
+                chapter["blocks"].append(block)
+            elif paragraph.strip(): chapter["blocks"].append({"text":paragraph.strip()})
+        chapters.append(chapter)
+    story={"id":slug,"title":actual_title}
+    if info["draft"]: story["draft"]=True
+    story["chapters"]=chapters
+    return story
 
 
-def load_story(slug, title, source):
-    story = {"id": slug, "title": title}
-    if source.endswith(".md"):
-        if not Path(source).name.startswith("RIFTORYN_RIAN_"):
-            story["draft"] = True
-        story["chapters"] = markdown_chapters(source, title)
-        return story
-
-    directory = RESOURCES / source
-    story["chapters"] = json.loads((ROOT / directory / "story.json").read_text(encoding="utf-8"))["chapters"]
-    for chapter in story["chapters"]:
-        chapter["title"] = re.sub(r"^\d+\.\s*", "", chapter["title"])
-        visible = []
-        for block in chapter["blocks"]:
-            if block.get("pending"):
-                continue
-            if block.get("image"):
-                image = directory / f"{block['image']:02}.jpg"
-                if not (ROOT / image).is_file():
-                    raise FileNotFoundError(image)
-                block["src"] = image.as_posix()
-            visible.append(block)
-        chapter["blocks"] = visible
+def load_translations(entry):
+    story = load_story(*entry)
+    if (ROOT / entry[2] / "historia.en.md").is_file():
+        translated = load_story(*entry, language="en")
+        story["en"] = {"title": translated["title"], "chapters": translated["chapters"]}
     return story
 
 
@@ -124,7 +75,7 @@ def render_data():
             "region": region,
             "portrait": image.as_posix(),
             "series": series,
-            "stories": [load_story(*entry) for entry in entries],
+            "stories": [load_translations(entry) for entry in entries],
         })
     roster_data = json.loads((ROOT / RESOURCES / "codex.json").read_text(encoding="utf-8"))["heroes"]
     roster = []

@@ -1,0 +1,34 @@
+{
+  "01": {
+    "alt": "Adrien sprawdza sygnalizator na placu.",
+    "pending": true
+  },
+  "02": {
+    "alt": "Adrien pracuje nad piecem zasilanym kryształem.",
+    "pending": true
+  },
+  "03": {
+    "alt": "Młoda Lena ostrzega Adriena o mocowaniu.",
+    "pending": true
+  },
+  "04": {
+    "alt": "Adrien otrzymuje wiadomość o awarii.",
+    "pending": true
+  },
+  "05": {
+    "alt": "Adrien bada uszkodzony sygnalizator przy drodze.",
+    "pending": true
+  },
+  "06": {
+    "alt": "Adrien przygotowuje raport po awarii.",
+    "pending": true
+  },
+  "07": {
+    "alt": "Lena i Adrien sprawdzają dwa mocowania.",
+    "pending": true
+  },
+  "08": {
+    "alt": "Adrien wpisuje imię przewodnika do notatnika.",
+    "pending": true
+  }
+}

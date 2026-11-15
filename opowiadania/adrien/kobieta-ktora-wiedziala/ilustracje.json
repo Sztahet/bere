@@ -1,0 +1,34 @@
+{
+  "01": {
+    "alt": "Rian składa zeznania przed komisją.",
+    "pending": true
+  },
+  "02": {
+    "alt": "Adrien słucha zeznań Rian, szkicując mechanizm.",
+    "pending": true
+  },
+  "03": {
+    "alt": "Adrien pokazuje Rian szkic podczas pierwszej rozmowy.",
+    "pending": true
+  },
+  "04": {
+    "alt": "Adrien przygotowuje wniosek dla komisji.",
+    "pending": true
+  },
+  "05": {
+    "alt": "Rian sprawdza model pod nadzorem.",
+    "pending": true
+  },
+  "06": {
+    "alt": "Młody Lucen ładuje kryształ w warsztacie Adriena.",
+    "pending": true
+  },
+  "07": {
+    "alt": "Lucen i Adrien wspólnie badają konstrukcję.",
+    "pending": true
+  },
+  "08": {
+    "alt": "Rian uczy młodych rzemieślników.",
+    "pending": true
+  }
+}

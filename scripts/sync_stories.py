@@ -1,0 +1,56 @@
+"""Generate offline archive and Unity story resources from the shared manuscripts."""
+import json
+import uuid
+import shutil
+from pathlib import Path
+from build_story_archive import CATALOG, ROOT, RESOURCES, WEB_DATA, _INDEX, load_story, render_data
+
+
+def sync():
+    for hero, _, _, _, _, entries in CATALOG:
+        for entry in entries:
+            folder = ROOT / RESOURCES / _INDEX[entry[2]]["unity"]
+            folder.mkdir(parents=True, exist_ok=True)
+            source = ROOT / entry[2]
+            illustrations = json.loads((source / "ilustracje.json").read_text(encoding="utf-8"))
+            for number, image in illustrations.items():
+                if image.get("pending"):
+                    continue
+                original = source / "ilustracje" / (number + ".jpg")
+                if not original.is_file():
+                    raise FileNotFoundError(original)
+                target = folder / (number + ".jpg")
+                if not target.is_file() or original.read_bytes() != target.read_bytes():
+                    shutil.copyfile(original, target)
+            story = load_story(*entry, include_pending=True)
+            chapters = story["chapters"]
+            for number, chapter in enumerate(chapters, 1):
+                if hero in {"saila", "adrien", "lena"}:
+                    chapter["title"] = f"{number}. {chapter['title']}"
+                for block in chapter["blocks"]:
+                    block.pop("src", None)
+            (folder / "story.json").write_text(json.dumps({"title": story["title"], "chapters": chapters}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            for meta, directory in ((folder.with_name(folder.name + ".meta"), True), (folder / "story.json.meta", False)):
+                if not meta.exists():
+                    importer = "DefaultImporter" if directory else "TextScriptImporter"
+                    meta.write_text("fileFormatVersion: 2\nguid: " + uuid.uuid4().hex + "\n" + ("folderAsset: yes\n" if directory else "") + importer + ":\n  externalObjects: {}\n  userData: \n  assetBundleName: \n  assetBundleVariant: \n", encoding="utf-8")
+    for _, _, _, _, _, entries in CATALOG:
+        for entry in entries:
+            english = ROOT / entry[2] / "historia.en.md"
+            if not english.is_file():
+                continue
+            info = _INDEX[entry[2]]
+            story = load_story(*entry, include_pending=True, language="en")
+            folder = ROOT / RESOURCES / info["unity"]
+            for chapter in story["chapters"]:
+                for block in chapter["blocks"]: block.pop("src", None)
+            out = folder / "story_en.json"
+            out.write_text(json.dumps({"title": story["title"], "chapters": story["chapters"]}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            meta = out.with_name(out.name + ".meta")
+            if not meta.exists():
+                meta.write_text("fileFormatVersion: 2\nguid: " + uuid.uuid4().hex + "\nTextScriptImporter:\n  externalObjects: {}\n  userData: \n  assetBundleName: \n  assetBundleVariant: \n", encoding="utf-8")
+    WEB_DATA.write_text(render_data(), encoding="utf-8")
+
+
+if __name__ == "__main__":
+    sync()

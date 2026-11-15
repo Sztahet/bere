@@ -15,6 +15,7 @@
   const roles = [["Tank", "tank"], ["Wsparcie", "support"], ["Specjalista", "specialist"], ["Przywoływacz", "summoner"]];
   const iconRoot = "riftoryn-unity/Assets/Resources/CodexIcons";
   let currentView;
+  let storyLanguage = "pl";
   const sailaCovers = {
     "ciezar-krysztalu": {src: "riftoryn-unity/Assets/Resources/SailaStory/03.jpg", intro: "Przed zimą Saila utrzymuje w ruchu chłodnię, od której zależą zapasy przełęczy. Każde ładowanie kryształu kosztuje ją więcej sił."},
     "gdy-wieza-zamilkla": {src: "riftoryn-unity/Assets/Resources/SailaAwakening/05.jpg", intro: "Alarm na górskim szlaku zastaje Sailę w trakcie obchodu. Wieża strzela, a obsługa jest zbyt daleko, by zdążyć z pomocą."},
@@ -90,6 +91,8 @@
 
   function renderStory(hero, story) {
     const index = hero.stories.indexOf(story);
+    if (!story.en) storyLanguage = "pl";
+    const translated = storyLanguage === "en" && story.en ? story.en : story;
     const partLinks = hero.stories.map((part, partIndex) => {
       const entry = link(null, storyLink(hero, part), "parts-link");
       entry.append(element("span", `CZĘŚĆ ${parts[partIndex]}`, "parts-label"), element("span", part.title, "parts-title"));
@@ -102,7 +105,7 @@
     document.getElementById("reader-meta").textContent = [
       hero.name, `Część ${parts[index]}`, story.draft && "Wersja robocza"
     ].filter(Boolean).join(" · ");
-    storyTitle.textContent = story.title;
+    storyTitle.textContent = translated.title;
     const cover = hero.id === "saila" ? sailaCovers[story.id] : null;
     const coverImage = document.getElementById("reader-cover");
     coverImage.hidden = !cover;
@@ -115,8 +118,14 @@
     document.getElementById("reader-start").href = `${storyLink(hero, story)}/rozdzial-1`;
 
     chapterNav.replaceChildren(element("strong", "Spis treści"));
+    if (story.en) {
+      const language = element("button", storyLanguage === "pl" ? "English" : "Polski");
+      language.type = "button";
+      language.addEventListener("click", () => { storyLanguage = storyLanguage === "pl" ? "en" : "pl"; renderStory(hero, story); });
+      chapterNav.append(language);
+    }
     storyBody.replaceChildren();
-    story.chapters.forEach((chapter, chapterIndex) => {
+    translated.chapters.forEach((chapter, chapterIndex) => {
       const id = `rozdzial-${chapterIndex + 1}`;
       const section = element("section", null, "story-chapter");
       section.id = id;

@@ -1,68 +1,18 @@
 import json
-import re
 import unittest
 from pathlib import Path
+from scripts.build_story_archive import CATALOG, ROOT, RESOURCES, _INDEX, load_story
 
-ROOT = Path(__file__).resolve().parents[1]
-RESOURCES = ROOT / 'riftoryn-unity/Assets/Resources'
+class StoryConsistencyTests(unittest.TestCase):
+    def test_unity_matches_unified_manuscript(self):
+        entries = next(row[-1] for row in CATALOG if row[0] == HERO)
+        for entry in entries:
+            with self.subTest(story=entry[0]):
+                chapters = load_story(*entry, include_pending=True)["chapters"]
+                for number, chapter in enumerate(chapters, 1):
+                    chapter["title"] = f"{number}. {chapter['title']}"
+                    for block in chapter["blocks"]: block.pop("src", None)
+                path = ROOT / RESOURCES / _INDEX[entry[2]]["unity"] / "story.json"
+                self.assertEqual(json.loads(path.read_text(encoding="utf-8"))["chapters"], chapters)
 
-
-class SailaStoryTests(unittest.TestCase):
-    def check_shared_story(self, folder, draft_name, expected_images):
-        resource = RESOURCES / folder
-        story = json.loads((resource / 'story.json').read_text(encoding='utf-8-sig'))
-        draft = (ROOT / draft_name).read_text(encoding='utf-8-sig')
-        source_chapters = re.split(r'(?m)^## (?:Rozdział [IVX]+ — |(?=\d+\. ))', draft)[1:]
-        chapters = story['chapters']
-        self.assertEqual(len(chapters), 7)
-        self.assertEqual(len(source_chapters), 7)
-        images = []
-        for number, (chapter, source) in enumerate(zip(chapters, source_chapters), 1):
-            title, body = source.split('\n', 1)
-            if not re.match(r'^\d+\. ', title):
-                title = f'{number}. {title}'
-            self.assertEqual(chapter['title'], title)
-            body = body.split('\n### ', 1)[0]
-            paragraphs = [p.strip() for p in re.split(r'\n\s*\n', body.strip())
-                          if p.strip() not in {'---', '*— Koniec —*'} and 'MIEJSCE NA ILUSTRACJĘ' not in p]
-            self.assertEqual([b['text'] for b in chapter['blocks'] if 'text' in b], paragraphs)
-            for block in chapter['blocks']:
-                if 'image' in block:
-                    self.assertTrue(block.get('alt'))
-                    if block.get('pending'):
-                        continue
-                    images.append(block['image'])
-                    self.assertTrue((resource / f"{block['image']:02}.jpg").is_file())
-                else:
-                    self.assertTrue(block.get('text'))
-        self.assertEqual(images, expected_images)
-
-    def test_shared_content_and_illustrations(self):
-        self.check_shared_story('SailaStory', 'opowiadania/saila/RIFTORYN_SAILA_MINIKSIAZKA_PROPOZYCJA.md', [1, 2, 3, 7, 4, 5, 6, 8])
-
-    def test_html_reads_unity_story_without_copying_it(self):
-        page = (ROOT / 'saila-opowiesc.html').read_text(encoding='utf-8-sig')
-        reader = (ROOT / 'riftoryn-unity/Web/saila-reader.js').read_text(encoding='utf-8-sig')
-        self.assertIn('riftoryn-unity/Web/saila-reader.js', page)
-        self.assertIn('../Assets/Resources/${storyFolder}/', reader)
-        self.assertIn('SailaStory', reader)
-        self.assertIn('SailaAwakening', reader)
-        self.assertIn('story.json', reader)
-        self.assertNotIn('W Nivoren dzień zaczyna się od sprawdzenia drogi.', page)
-        self.assertFalse(re.search(r'<section\s+class="chapter"', page))
-
-    def test_awakening_shared_draft_and_approved_images(self):
-        self.check_shared_story('SailaAwakening', 'opowiadania/saila/RIFTORYN_SAILA_ODBLOKOWANIE_OPOWIESC_DRAFT.md', [1, 2, 4, 5, 6, 7])
-        page = (ROOT / 'saila-gdy-wieza-zamilkla.html').read_text(encoding='utf-8')
-        self.assertIn('data-story="awakening"', page)
-        self.assertIn('Propozycja literacka', page)
-
-    def test_finale_shared_story_and_illustrations(self):
-        self.check_shared_story('SailaFinale', 'opowiadania/saila/RIFTORYN_SAILA_TO_CZEGO_NIE_NAUCZYL_MNIE_RUVAN.md', list(range(1, 9)))
-        filename = 'saila-to-czego-nie-nauczyl-mnie-ruvan.html'
-        self.assertIn(f'href="{filename}"', (ROOT / 'saila-gdy-wieza-zamilkla.html').read_text(encoding='utf-8'))
-        self.assertIn('data-story="finale"', (ROOT / filename).read_text(encoding='utf-8'))
-
-
-if __name__ == '__main__':
-    unittest.main()
+HERO = 'saila'

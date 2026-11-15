@@ -1,0 +1,245 @@
+[
+  {
+    "id": "nocten",
+    "name": "Nocten",
+    "region": "Vesper",
+    "portrait": "nocten-darkness-support.png",
+    "series": null,
+    "stories": [
+      {
+        "id": "droga-ktorej-nie-bylo",
+        "folder": "opowiadania/nocten/droga-ktorej-nie-bylo",
+        "unity": "NoctenDraft1",
+        "draft": true
+      },
+      {
+        "id": "tym-razem-nie-wierz-noctenowi",
+        "folder": "opowiadania/nocten/tym-razem-nie-wierz-noctenowi",
+        "unity": "NoctenDraft2",
+        "draft": true
+      },
+      {
+        "id": "pierwsza-lekcja",
+        "folder": "opowiadania/nocten/pierwsza-lekcja",
+        "unity": "NoctenDraft3",
+        "draft": true
+      }
+    ]
+  },
+  {
+    "id": "piecarius",
+    "name": "Piecarius",
+    "region": "Vareth",
+    "portrait": "piecarius-fire-tank.png",
+    "series": null,
+    "stories": [
+      {
+        "id": "ksiega-bez-autora",
+        "folder": "opowiadania/piecarius/ksiega-bez-autora",
+        "unity": "PiecariusDraft1",
+        "draft": true
+      },
+      {
+        "id": "slady-w-popiele",
+        "folder": "opowiadania/piecarius/slady-w-popiele",
+        "unity": "PiecariusDraft2",
+        "draft": true
+      },
+      {
+        "id": "rycerz-bez-zakonu",
+        "folder": "opowiadania/piecarius/rycerz-bez-zakonu",
+        "unity": "PiecariusDraft3",
+        "draft": true
+      }
+    ]
+  },
+  {
+    "id": "morrak",
+    "name": "Morrak",
+    "region": "Vesper",
+    "portrait": "morrak-darkness-tank.png",
+    "series": null,
+    "stories": [
+      {
+        "id": "imie-ktorego-nie-wypowiedzial",
+        "folder": "opowiadania/morrak/imie-ktorego-nie-wypowiedzial",
+        "unity": "MorrakDraft1",
+        "draft": true
+      },
+      {
+        "id": "swiadkowie-milczenia",
+        "folder": "opowiadania/morrak/swiadkowie-milczenia",
+        "unity": "MorrakDraft2",
+        "draft": true
+      },
+      {
+        "id": "nazwisko-na-liscie",
+        "folder": "opowiadania/morrak/nazwisko-na-liscie",
+        "unity": "MorrakDraft3",
+        "draft": true
+      }
+    ]
+  },
+  {
+    "id": "saila",
+    "name": "Saila",
+    "region": "Biały Przesmyk",
+    "portrait": "saila-cold-specialist-portrait.png",
+    "series": null,
+    "stories": [
+      {
+        "id": "ciezar-krysztalu",
+        "folder": "opowiadania/saila/ciezar-krysztalu",
+        "unity": "SailaStory",
+        "draft": false
+      },
+      {
+        "id": "gdy-wieza-zamilkla",
+        "folder": "opowiadania/saila/gdy-wieza-zamilkla",
+        "unity": "SailaAwakening",
+        "draft": false
+      },
+      {
+        "id": "to-czego-nie-nauczyl-mnie-ruvan",
+        "folder": "opowiadania/saila/to-czego-nie-nauczyl-mnie-ruvan",
+        "unity": "SailaFinale",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "adrien",
+    "name": "Adrien",
+    "region": "Aurel",
+    "portrait": "adrien-light-specialist-v4.png",
+    "series": null,
+    "stories": [
+      {
+        "id": "swiatlo-ktore-wskazalo-droge",
+        "folder": "opowiadania/adrien/swiatlo-ktore-wskazalo-droge",
+        "unity": "AdrienStory1",
+        "draft": false
+      },
+      {
+        "id": "kobieta-ktora-wiedziala",
+        "folder": "opowiadania/adrien/kobieta-ktora-wiedziala",
+        "unity": "AdrienStory2",
+        "draft": false
+      },
+      {
+        "id": "wynalazek-ktorego-nie-przewidzialem",
+        "folder": "opowiadania/adrien/wynalazek-ktorego-nie-przewidzialem",
+        "unity": "AdrienStory3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "lena",
+    "name": "Lena",
+    "region": "Aurel",
+    "portrait": "../../../riftoryn-unity/Assets/Resources/Portraits/lena.png",
+    "series": null,
+    "stories": [
+      {
+        "id": "ludzie-sa-ciekawsi-od-krysztalow",
+        "folder": "opowiadania/lena/ludzie-sa-ciekawsi-od-krysztalow",
+        "unity": "LenaStory1",
+        "draft": false
+      },
+      {
+        "id": "imiona-ktore-zostaja",
+        "folder": "opowiadania/lena/imiona-ktore-zostaja",
+        "unity": "LenaStory2",
+        "draft": false
+      },
+      {
+        "id": "znam-kogos-kto-potrafi",
+        "folder": "opowiadania/lena/znam-kogos-kto-potrafi",
+        "unity": "LenaStory3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "rian",
+    "name": "Rian",
+    "region": "Vareth",
+    "portrait": "../../../riftoryn-unity/Assets/Resources/Portraits/rian.png",
+    "series": "Cena wyboru",
+    "stories": [
+      {
+        "id": "jedenascie-minut",
+        "folder": "opowiadania/rian/jedenascie-minut",
+        "unity": "RianStory1",
+        "draft": false
+      },
+      {
+        "id": "drugi-olowek",
+        "folder": "opowiadania/rian/drugi-olowek",
+        "unity": "RianStory2",
+        "draft": false
+      },
+      {
+        "id": "nie-przestalam",
+        "folder": "opowiadania/rian/nie-przestalam",
+        "unity": "RianStory3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "lucen",
+    "name": "Lucen",
+    "region": "Aurel",
+    "portrait": "lucen-light-specialist.png",
+    "series": "Własna droga",
+    "stories": [
+      {
+        "id": "z-tego-co-ocalalo",
+        "folder": "opowiadania/lucen/z-tego-co-ocalalo",
+        "unity": "LucenStory1",
+        "draft": true
+      },
+      {
+        "id": "nauka-kontroli",
+        "folder": "opowiadania/lucen/nauka-kontroli",
+        "unity": "LucenStory2",
+        "draft": true
+      },
+      {
+        "id": "nie-przeciwko-tobie",
+        "folder": "opowiadania/lucen/nie-przeciwko-tobie",
+        "unity": "LucenStory3",
+        "draft": true
+      }
+    ]
+  },
+  {
+    "id": "taren",
+    "name": "Taren",
+    "region": "Iglica Zerath",
+    "portrait": "taren-lightning-tank.png",
+    "series": "Ciężar obowiązku",
+    "stories": [
+      {
+        "id": "to-co-pozostalo",
+        "folder": "opowiadania/taren/to-co-pozostalo",
+        "unity": "TarenStory1",
+        "draft": true
+      },
+      {
+        "id": "cena-lojalnosci",
+        "folder": "opowiadania/taren/cena-lojalnosci",
+        "unity": "TarenStory2",
+        "draft": true
+      },
+      {
+        "id": "po-drugiej-stronie",
+        "folder": "opowiadania/taren/po-drugiej-stronie",
+        "unity": "TarenStory3",
+        "draft": true
+      }
+    ]
+  }
+]

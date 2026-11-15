@@ -1,13 +1,18 @@
 # Opowiadania Riftoryn
 
-Rękopisy są podzielone na katalogi według imienia bohatera. Pliki o numerach 01–03 to kolejne części. Można je edytować dowolnym edytorem tekstu obsługującym UTF-8. Nagłówki i numerację rozdziałów należy zachować: skrypty używają ich do podziału opowieści.
+Każdy bohater ma swój katalog, a każda część osobny podkatalog. W nim edytuj `historia.pl.md`. Pierwszy nagłówek `#` to tytuł, a `##` rozpoczyna rozdział. Zachowuj puste linie między akapitami.
 
-HTML i Unity nie pobierają tych plików automatycznie. Po edycji należy uruchomić odpowiednie polecenia z głównego katalogu repozytorium:
+Opcjonalne tłumaczenie zapisz obok jako `historia.en.md`, w tym samym układzie. Dopóki go nie ma, czytnik nie oferuje angielskiej wersji. Nie wpisuj polskiego tekstu do angielskiego pliku jako zastępnika.
 
-- **Piecarius, Nocten, Morrak:** `python scripts/build_draft_stories.py`, a następnie `python scripts/build_story_archive.py`. Powstają dane dla Unity i archiwum HTML.
-- **Adrien:** `python scripts/build_adrien_stories.py`, a następnie `python scripts/build_story_archive.py`. Skrypt zachowuje istniejące bloki ilustracji.
-- **Lena:** `python scripts/build_lena_stories.py`, a następnie `python scripts/build_story_archive.py`.
-- **Rian, Lucen, Taren:** `python scripts/build_story_archive.py` odświeża archiwum HTML. Te pełne opowieści nie mają obecnie osobnych czytników w Unity.
-- **Saila:** rękopisy są w katalogu `saila`, ale źródłem tekstu i ilustracji czytników są obecnie pliki `riftoryn-unity/Assets/Resources/SailaStory/story.json`, `SailaAwakening/story.json` i `SailaFinale/story.json`. Zmiany tekstu trzeba uzgodnić w obu wersjach, zachowując ilustracje i ich opisy, a następnie uruchomić `python scripts/build_story_archive.py`. Testy sprawdzają zgodność tekstów.
+Ilustrację wstaw w obu tekstach znacznikiem `<!-- ilustracja: 01 -->`. W `ilustracje.json` zapisz numer, opis alternatywny `alt` i opcjonalnie `altEn`. Znacznik z `pending: true` rezerwuje miejsce bez wyświetlania pustego obrazka. Gotowy plik `01.jpg` umieść w podfolderze `ilustracje` obok tekstu i usuń `pending: true`; skrypt skopiuje go do zasobów Unity. Ilustracja jest wspólna dla obu języków.
 
-Po aktualizacji uruchom `python -m unittest discover -s tests`. Gotowy build Unity zawiera zasoby z chwili budowania, więc po zmianach wymaga nowego builda. Pliki koncepcji, biografii i materiały ilustracyjne pozostają na razie poza tym katalogiem.
+Kolejność części, statusy i powiązania z zasobami Unity są w `katalog.json`. Relacje grafu są w `riftoryn-unity/Web/hero-relations-data.js`, każda para występuje raz.
+
+Po każdej zmianie uruchom z głównego katalogu:
+
+```text
+python scripts/sync_stories.py
+python -m unittest discover -s tests
+```
+
+Skrypt aktualizuje dane archiwum HTML i zasoby Unity. Istniejący build Unity trzeba przebudować, aby zawierał zmienione zasoby. Poprzednie rękopisy i ich notatki zachowano w `_archiwum`; nie są źródłem czytników i nie służą do bieżącej edycji.

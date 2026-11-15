@@ -1,0 +1,34 @@
+{
+  "01": {
+    "alt": "Miko przynosi Adrienowi swój prototyp.",
+    "pending": true
+  },
+  "02": {
+    "alt": "Adrien i Miko porównują zapisy prób.",
+    "pending": true
+  },
+  "03": {
+    "alt": "Adrien i Miko testują regulator w warsztacie.",
+    "pending": true
+  },
+  "04": {
+    "alt": "Rian analizuje regulatory Adriena i Miko.",
+    "pending": true
+  },
+  "05": {
+    "alt": "Adrien i Rian sprawdzają przyczynę odchylenia.",
+    "pending": true
+  },
+  "06": {
+    "alt": "Adrien szkicuje urządzenia dla areny.",
+    "pending": true
+  },
+  "07": {
+    "alt": "Adrien i Lena sprawdzają prototyp w pracowni.",
+    "pending": true
+  },
+  "08": {
+    "alt": "Adrien wraca do projektu i zapisuje plan prób.",
+    "pending": true
+  }
+}

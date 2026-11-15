@@ -1,0 +1,157 @@
+# Po drugiej stronie
+
+## Droga do Val Meris, maj 12 ET
+
+W drodze miałem siedzenie przy zapasowym kole. Kierowca wziął za nie mniej niż za miejsce w środku, pod warunkiem że pomogę mu, gdy trzeba będzie zmienić koło. Jego pies przez całą pierwszą godzinę opierał łeb o mój but. Człowiek, który wsiadł za mną, niósł na kolanach trójkątny kawałek blachy owinięty płótnem. Kiedy na wyboju przycisnął mi nim łokieć, odłożyłem spis części na drugą stronę.
+
+— Wiozę do porównania — powiedział. — Każdy rysunek wygląda dobrze, dopóki śruba nie trafi w blachę.
+
+Pokazałem mu wymiary, które miałem od ślusarki. Odnalazł ten sam numer przy jednej z pozycji. Jego blacha miała od spodu inne nacięcie. Powiedział, że na jego stacji ten element od dwóch zmian składa się z zapasu i pożyczonego wkrętu. Potrzebował nowego najpierw dla siebie. Spytałem, do kogo jedzie. Miał adres człowieka, który prowadzi stoisko części na dziedzińcu w pobliżu zapisów.
+
+— To obaj pójdziemy w to samo miejsce — powiedziałem.
+
+— A jeśli będzie tylko jedna?
+
+Pokazałem mu dwa adresy osad z mojego spisu. U niego pompa stała za domem. U mnie na krótszej linii woda również szła na zmianę. Gdziekolwiek trafi część, jedna brygada nadal wesprze się starym napędem. Zapytałem, czy umie rozpoznać model po samym spodzie. Odwinął płótno i pokazał mi małe wgłębienie, o które opiera się śruba od góry. Miał je tylko jeden typ. W swoim spisie narysowałem profil. Tamten człowiek wypisał obok nazwę osady. Obiecaliśmy rozdzielić poszukiwania, jeśli na stoisku będzie trzeba wypisać dwa zamówienia oddzielnie.
+
+Na ostatnim postoju pies zszedł z mojego buta i poszedł pić. Pojechałem ze spisem na kolanach. Przy bramie przewodnik z wozu podał ludziom tablicę z pierwszymi zasadami zapisów. Przeczytałem nagłówek. Od tej chwili wszystko, co obiecywałem w Zerath, zaczynało przypominać rzecz, pod którą ktoś naprawdę mógł wpisać moje imię.
+
+## Val Meris, rano przy składach
+
+W pierwszym składzie odesłano mnie do człowieka od wykazów. Otworzył księgę, ale zamiast zamówienia poprosił mnie o nazwę cechu. Nie umiałem jej podać. Przyniosłem spis od warsztatu i zamierzałem pokazać, których części szukam przed zapisami. Kiedy pokazałem mu pieczęć stacji, zdjął z półki drugi rejestr. W nim ten sam numer przypisano do nazw używanych przez lokalne składy. Ustawił oba tomy tak, żebym mógł sam przekładać kartki.
+
+— Kto prosi o część? — zapytał.
+
+— Dwie osady przy stacji bocznej.
+
+— A kto ją odbiera?
+
+— Mogę ja. Jeśli przyjdzie później, magazyn w Zerath.
+
+Pod drugim pytaniem było miejsce na jedną nazwę. Wyjaśnił, że jeżeli wpisze lokalny skład, ludzie na miejscu sami sprawdzą część przed wydaniem jej brygadzie. Jeżeli wpisze mnie i odda mi część w ręce, musi oprócz tego wpisać człowieka, który sprawdzi jej zgodność ze stanowiskiem. Powiedziałem, że przecież zna numer. Obrócił mój arkusz. Kiedy zobaczyłem własny rysunek profilu, zaczekałem, aż skończy.
+
+— Możemy zrobić tak — powiedziałem. — Tu zostawimy dwa wymiary i obie nazwy. Ja pójdę po zgodę do miejscowych ludzi, a ty sprawdzisz, czy coś takiego już jest w którymś składzie.
+
+Przepisał nazwę od ślusarki i spytał, co robię w mieście poza polowaniem na uchwyty. Powiedziałem, że rozważam zgłoszenie. Chciał wiedzieć, po której stronie. Wskazałem samodzielność krain. W głównym wykazie liczyły się przestoje, a w naszej ulicy przez tydzień ktoś zamiast iść do warsztatu stał przy korbie. Znałem go z imienia. Człowiek od składu spytał, co stałoby się z drugim zamówieniem, gdybyśmy załatwili sobie wszystkie uchwyty u siebie. Przypomniałem sobie blachę z wozu. Powiedziałem, że tamten człowiek i tak będzie potrzebował podobnej.
+
+— Widzi pan, to zaczniemy od dwóch zamówień — powiedział i wyrwał stronę z podwójnego bloczka.
+
+Nie mógł zagwarantować żadnego terminu. Mogłem odejść z pustymi rękami albo wystarać się przynajmniej o dwa miejsca w kolejce. Wziąłem oba kwity. Jeden zostawiłem dla człowieka z wozu u stróża przy głównej bramie. Na dole napisałem, żeby szukał mnie pod tablicą na dziedzińcu. Potem wróciłem do składu i dopisałem trzeci numer, gdy przypomniałem sobie o śrubie od Varek.
+
+## Val Meris, przy otwartym wykazie
+
+W kwaterze mieli jeszcze kartę dla zespołów przyjezdnych. Można było wpisać się jako ochotnik do pomocy i dać komuś wiadomość, że przez tydzień będzie się do znalezienia. Przy wpisie stała kobieta z koszem ubrań. Ułożyła na brzegu kartkę z dwoma imionami. Chciała wpisać ludzi od siebie do tej samej zmiany. Osoba przy stole powiedziała jej, że chętnych jest więcej, niż potrzeba. Jeśli oboje trafią do jednego wykazu, prawdopodobnie rozdzielą ich na dwie godziny pracy.
+
+— Mąż się myli, kiedy szybko liczy — powiedziała. — Wiem, w którym miejscu mu się to zdarza. Mogę pilnować zapisu.
+
+Osoba przy stole zapytała, czy mąż wie, że ona pilnuje jego zapisu. Powiedziała, że wie, bo przy ostatnim wspólnym ładowaniu sam ją poprosił. Ustaliły, że wpiszą oboje do jednej zmiany, z uwagą o podziale pracy. Reszta chętnych miała poczekać w rezerwie. Gdy zrobiło się wolne miejsce, wyjąłem kartę z wykazem dla Zerath. Mogłem zostawić adres kwatery. Pomyślałem, że gdyby Lucen też przyjechał i chciał mnie znaleźć, wiedziałby, gdzie pytać.
+
+— Chce pan wpisać się do pomocy? — zapytano mnie.
+
+— Chciałbym tylko zostawić adres.
+
+— To proszę jeszcze powiedzieć, kto może o niego zapytać.
+
+Miałem przed sobą małe puste pole. Chciałem napisać, że każdy, kto przyjedzie ze stacji. Potem pomyślałem o człowieku z Aurelu, którego przez lata opisywałem ludziom w taki sposób, jakby wciąż był chłopcem w podróżnej kurtce. Napisałem wyłącznie moje imię i położyłem kartę na ławie. Jeśli ktoś o mnie zapyta, miał dostać ten adres. Po drugiej stronie wpisu podałem czas, do którego wiem, że tam będę. Osoba przy biurku odmówiła przyjęcia kartki bez określenia, gdzie się wyprowadzę, gdyby pobyt potrwał dłużej. Podałem numer w Zerath.
+
+Kobieta od wspólnej zmiany czekała przy bramie. Nie mogła rozpoznać miejsca zaznaczonego na jej mapie. Pokazałem jej drogę, którą właśnie przeszedłem rano. Przy końcu powiedziała, że nie tak dawno wysłała męża po odbiór części i omyłkowo podała mu stary adres. Wracał przez pół miasta. Nie chciała, żeby przeżywali tutaj ten sam dzień jeszcze raz.
+
+— A pytał, jak wyjść wcześniej? — spytałem.
+
+— Spytał. Powiedziałam mu, żeby na wszelki wypadek na mnie czekał.
+
+Ruszyliśmy kawałek razem. Przy schodach podałem jej drugi, krótszy sposób dojścia, na wypadek gdyby bramą ktoś wjeżdżał. Zapamiętała oba. Przed odejściem pokazała mi miejsce, gdzie rano można wejść na dziedziniec z listami. Zmieniłem w swojej karcie godzinę, dopóki jeszcze wiedziałem, kto mnie tam znajdzie.
+
+## Val Meris, gdy ludzie schodzili się na zapisy
+
+Na porannej odprawie ktoś zapytał, czy uczestnicy z tej samej krainy mogą wybrać przeciwne strony. Człowiek przy tablicy odczytał odpowiedni punkt. Ludzie przy ławie zaczęli rozmawiać trochę głośniej. Jeden chłopak rozglądał się, jakby liczył, że ktoś mu zaraz zmieni miejsce w kolejce. Kobieta na jego lewo kazała mu zaczekać. Chciała usłyszeć, czy w przeciwnych obozach wciąż można się spotkać na jednym zadaniu. Prowadzący wskazał oddzielną stronę programu. Powiedział, że zapisy zbierają kandydatów i wyniki kwalifikacji jeszcze zdecydują o składach.
+
+Poszedłem w stronę stołów, dopóki z przeciwka nie ruszyły dwa wozy na dziedziniec. Wcześniej zrobiłbym miejsce tylko ludziom, których osobiście znam. Tym razem podszedłem do pierwszego woźnicy i zapytałem, którędy chce wyjechać, kiedy wyładuje skrzynie. Wskazał drzwi dokładnie tam, gdzie ustawiła się kolejka. Zawołałem człowieka z odprawy. Rozsunął ludzi i zostawił przejazd. Potem ktoś przyniósł pusty arkusz na zgłoszenia tego dnia. Widziałem z daleka, gdzie trzymają pióra. Postanowiłem najpierw sprawdzić tablicę.
+
+## Val Meris, zapisy do kwalifikacji, maj 12 ET
+
+Na dziedzińcu ludzie stali przy tablicy. Człowiek z młotkiem przybijał do niej listę. Po każdym uderzeniu odganiał czyjąś rękę od papieru. Poczekałem, aż wbije ostatni gwóźdź. Chciałem zobaczyć, jak zapisują krainę przy nazwie obozu, żebym mógł potem wypełnić swój arkusz tak samo.
+
+Pod wspólnym nadzorem zobaczyłem wpis „Lucen, Aurel”. Od razu wiedziałem, że to mój syn. Przeczytałem cały wiersz drugi raz. Aurel było dopisane wyraźniej niż reszta, jakby skryba poprawił pióro w połowie. Przy adresie na pierwszym liście zdarzyło mi się to samo.
+
+Człowiek z Zerath, którego spotkałem przy bramie, podszedł po spis części. Powiedział, że rozmawiał w kolejce z młodym magiem. Tamten zapisał obie osady. Otworzyłem arkusz. Spytałem, czy pamięta, którą wymienił pierwszą. Wzruszył ramionami i zaczął pokazywać, przy którym stanowisku mogliby mieć dla nas uchwyty.
+
+Zapytałem, czy tamten mag powiedział mu, co poprze. Pokręcił głową. Zapamiętał tylko, że pytał o obie osady oddzielnie. Jeden adres podałem człowiekowi z wozu pod wieczór, drugi dopiero rano. Przez moment chciałem sprawdzić, czy ten młody mag zapisał dokładnie tak, jak mu podano. Szukałem odpowiedzi na pytanie o Lucena pod każdym drobiazgiem, który mogłem zmierzyć albo wskazać palcem.
+
+— Zawsze mówiłeś, że go chcesz zobaczyć — powiedział człowiek od części.
+
+Spytałem, komu to mówiłem. Podał mi nazwę oberży pod bramą w Zerath, do której wstępowaliśmy zimą przed ostatnią zmianą. Pewnie powiedziałem to kiedyś przy stole. Pamiętałem głównie, że prosiłem wtedy o przycięcie knota w lampie, bo kopcił nad szklankami.
+
+— Zobaczyć i spytać go, jak żyje. Tyle — odparłem.
+
+Człowiek rozwinął spis na kolanie i wskazał miejsce przy magazynie, gdzie miał wrócić po dokładniejszą miarę. Temu było łatwiej zaprzeczyć. Wymiar mieliśmy już na rysunku. Wziąłem od niego papier i pokazałem, gdzie go zapisałem. Gdy kucnął, żeby obejrzeć liczbę, ktoś za mną podniósł głos i kazał odejść od tablicy tym, którzy już się zapisali.
+
+Kiedy się odwróciłem, Lucen stał kilka kroków od tablicy. Miał twarz dorosłego człowieka. Poznałem go po tym, jak uniósł brodę, gdy się na mnie zapatrzył. Tak samo stał w kuchni z kartką matki. Wtedy patrzyłem głównie na papier. Pamiętałem, jak szurał po blacie, gdy Lucen zabrał go spod mojej ręki. Dopiero po latach pomyślałem o chwili, kiedy stanął w drzwiach i wciąż jeszcze mógł się odwrócić.
+
+Otworzyłem usta. Miałem w głowie zdanie o tym, że poszedłem po brygadę. Dawniej włożyłem w to zdanie prawie cały list. Teraz podniosłem rękę. Lucen podniósł swoją. Człowiek od części zdążył zwinąć arkusz i wsunąć mi go do kieszeni. Kiedy spojrzałem znowu, Lucen szedł ku wyjściu.
+
+## Val Meris, mały dziedziniec
+
+Po spotkaniu poszedłem w przeciwną stronę niż Lucen. Myślałem, że dojdę do stajni, ale przejście skończyło się przy poidle. Ktoś rozlewał wodę za murem. Słychać było człowieka, który wołał o drugie wiadro, i kroki biegnące od kranu. Usiadłem na brzegu i otworzyłem wykaz przy pierwszej osadzie. Wyjąłem z kieszeni czasy dostaw przepisane z księgi Miry. Z jednej strony przez papier przebijało pismo ze starej rubryki. Popatrzyłem i przypomniałem sobie, kiedy ją zapisywała.
+
+Mira kryła się wtedy w kuchni przed dzwonkiem stacji. Powiedziała, że ma jeszcze godzinę wolną, choć połowę zdążył jej zabrać człowiek, który przyniósł pytanie o skrzynię. Siedziała przy oknie z wykazem. Pamiętam, że poprosiła mnie, bym przełożył kilka czasów dostaw z poprzedniego arkusza. Miałem przyjść o określonej porze do bramy. Podniosłem papier, spytałem, czy nie można wpisać jednakowego czasu w każdym wierszu. Dwie osoby przy składzie od dawna prowadziły tę samą trasę.
+
+— To zapytaj je przy okazji, czy naprawdę tyle potrzebują — powiedziała.
+
+— Chcesz dostać wykaz dzisiaj czy za tydzień?
+
+Wskazała datę u góry. Mogła go oddać następnego dnia. Spytałem, czemu więc pracuje w kuchni akurat teraz. Odłożyła pióro i obróciła ręce dłońmi do góry. Przez pół dnia pomagała przy krzywej podłodze w budce operatora. Chciała skończyć, zanim ludzie do hal znowu zaczną ją wołać. Zgodziłem się zająć pierwszymi trzema wierszami. Przy czwartym rozpoznałem kobietę, która woziła części z synem. W zeszłym tygodniu wrócili parę godzin po zgodzie na odjazd. Pojechali tamtędy, bo przy krótszej drodze naprawiali przepust. Mira ściągnęła wąski stary arkusz i położyła go obok. Na nim przez pół roku widniał ten sam stały czas.
+
+— Jak dopiszesz „droga dłuższa”, to będę wiedziała, o co spytać, kiedy trzeba będzie wysłać kogoś na szybko — powiedziała.
+
+— A jak trzeba naprawdę na szybko, to i tak wybiorę tego, kto jest już przy wozie.
+
+— To pomyśl, co będzie, kiedy przy wozie nikogo nie ma.
+
+W przejściu stuknęło krzesło. Lucen wnosił do kuchni miskę i chciał się dowiedzieć, czy może trzymać swój plan na podłodze, skoro stół trzeba zwolnić do kolacji. Mira szybko wsunęła rejestr pod parapet. Zrobiliśmy miejsce. Widziałem go chwilę wcześniej na podwórzu i pamiętam, że pociągnął miskę zbyt blisko łokcia. Przesunąłem ją do środka. Do dzisiaj nie wiem, która z tych rozmów była przy tej samej kolacji, a w której siedziałem już w butach i wstałem, kiedy tylko dzwonek dał się usłyszeć.
+
+Przy poidle wyjąłem zapasowy papier. Wydawało mi się, że pamiętam wszystkie słowa, których wtedy nie powiedziałem. Po spotkaniu przy tablicy żadnego nie umiałem przenieść na kartkę w postaci całego zdania. Napisałem mu imię. Schowałem papier, kiedy ludzie zaczęli wchodzić na dziedziniec z wiadrami. Jednemu podtrzymałem drzwi. Spytał, czy czekam na kogoś. Odpowiedziałem, że zaraz sam pójdę się zapisać.
+
+## Val Meris, tego samego dnia
+
+Przed stołem zapisów przesunąłem się na koniec kolejki. Z przodu wisiały dwa wykazy. Przez chwilę czytałem zasady zmiany zgłoszenia, choć mojego jeszcze nie było. Pomyślałem, że mógłbym stanąć w tej samej kolejce co syn. Nawet wiedziałem, po której stronie stołu miałbym wtedy usiąść.
+
+Człowiek od części został ze mną. Spytał, czy zdołam stanąć naprzeciw Lucena, jeśli przyjdzie nam obu przejść kwalifikacje. Powiedziałem, że przed godziną stałem i umiałem tylko podnieść rękę. Potem zapytałem go, czy znalazł stanowisko z uchwytami. Znalazł, ale magazynier chciał znać rozstaw śrub. Rozłożyliśmy spis na krawędzi stołu. Dwie części miały ten sam numer, a każda pasowała do innego odcinka. Dopisaliśmy wymiary.
+
+Kiedy kolejne stanowisko się zwolniło, kobieta stojąca przede mną położyła na ławie dwie kopie porozumienia. Spomiędzy arkuszy wypadł jej klucz. Podniosłem go i podałem. Powiedziała, że prowadzi stację przy obcym szlaku i ma dwoje ludzi, którzy chcą się zapisać, jeśli skończą zmianę na czas. Sama już wiedziała, po której stronie stanie. Pokazała mi kolumnę wspólnego nadzoru. W punkcie o dostawach wskazała słowo, które pojawiało się w obu wariantach.
+
+— Wszyscy obiecujemy tu utrzymać podstawowy ruch — powiedziała. — A jak będzie coś do odcięcia, to kto pierwszy puści swoją pompę?
+
+Podałem jej godziny, w jakich przy rezerwie puściliśmy wodę do warsztatów. Chciała wiedzieć, jak długo zajęło uzgodnienie tego z ludźmi od głównego rozdzielnika. Pokazałem, że zmieściliśmy się w dwóch zmianach. Ci z dalszej drogi czekali jeszcze pół dnia na wiadomość, chociaż nikt im wtedy nie musiał wyłączać całości.
+
+— Wcale bym wam nie zabierała decyzji o wyłączeniu — powiedziała. — Chciałabym otrzymać uprzedzenie, zanim moje wozy staną.
+
+Przez chwilę rozpisywaliśmy jej trasę odcinkami. Wiedziałem, gdzie odpadają dwie godziny, jeśli woźnica musi czekać na znak. Wiedziała, kiedy robią pierwszy obchód. Pytała konkretnie o dzień świąteczny, bo w taki dzień zmiana rusza z opóźnieniem. Wstawiłem tam wiadomość z Zerath dużo wcześniej, niż zrobiliśmy to ostatnio. Zapytała, pod którym zapisem byłbym gotów się podpisać. Wskazałem dwa. Ten o utrzymaniu dostawy i ten o ostrzeżeniu. Później wskazałem jeszcze akapit o samodzielnej decyzji dla własnego urządzenia.
+
+— Ja bym chciała móc zakwestionować to przy wspólnym stole — powiedziała.
+
+— Wtedy poszedłbym do stołu z człowiekiem, który obsługuje pompę.
+
+Schowała klucz. Kiedy zobaczyłem, że znowu wypada jej spod płaszcza, poprosiłem o kawałek sznura. Przewiązałem go na prostą pętlę. Podziękowała i powiedziała, że przy jutrzejszej odprawie przyjdzie z tamtej strony stołu, bo taką ma sprawę. Odwróciła kartkę, na której rozpisałem trasę. U góry dopisała swoje imię. Chciała zabrać zapis do ludzi z jej stacji. Obiecałem przekazać im swój rozkład, jeśli będzie potrzebny. Przy naszym domu ludzie nauczyli się pukać dwa razy, zanim otworzą drzwi przy kotłowni. W Val Meris wystarczyła mi chwila, żeby pomyśleć, że żadna z naszych stron nie wyda jeszcze ostrzeżenia, gdy się o to nikogo osobiście nie poprosi.
+
+Kiedy przyszła moja kolej, zgłosiłem się po stronie samodzielności krain. Skryba spytał, czy może już zabrać papier. Przytrzymałem go jeszcze chwilę. Chciałem mieć pewność, że wyraźnie dopisałem „Zerath”.
+
+## Val Meris, przed zamknięciem bramy
+
+Wróciłem po wykaz części. Człowiek od składu znalazł dla nas jeden uchwyt, ale otwory na śruby nie pasowały do rysunku, który zrobiliśmy w drodze. Pokazał inny, należący do naprawianej linii pod miastem. Mógł udostępnić wzór do zmierzenia, natomiast na wysyłkę trzeba było poczekać. Człowiek od części chciał jeszcze objechać drugi koniec miasta. Powiedziałem, że rozumiem, jeśli jedzie po swój model jako pierwszy. Został jednak przy stole, dopóki razem nie poprawiliśmy numeru zamówienia. Położył mi przed ręką dwa odpisy z pieczęcią.
+
+— To co ja mam powiedzieć w Zerath? — spytał.
+
+— Że wrócę z datą i z rysunkiem.
+
+— A gdyby ich obchodziło, kogo spotkałeś?
+
+Przez chwilę oglądaliśmy papier, każdy od swojej strony. Powiedziałem, że mojego syna. Brzmiało to zwyczajniej, niż kiedy próbowałem te słowa powiedzieć sobie pod tablicą. Chciałem jeszcze dodać, że jest zdrowy, że nosi włosy krócej i dopytywał o obie osady. Człowiek przewiązał papiery sznurkiem i wsunął mi je do ręki. Za chwilę musiał iść odnieść blachę przed zamknięciem składu.
+
+— A następnym razem, kiedy się z nim zobaczysz? — spytał.
+
+— Chciałbym go posłuchać.
+
+Kiedy to powiedziałem, przypomniało mi się, że nasz kuchenny stół miał z boku ślad po rozwierconej dziurze. Lucen zawsze wciskał tam opuszek palca, kiedy chciał przemyśleć odpowiedź. Miało się wrażenie, że ogląda drewno. Ja nie mogłem przestać myśleć o tym, jak parę godzin bez snu zmieniało moje pytania w krótkie polecenia. Przy bramie stanąłem twarzą do dziedzińca. Lista wciąż wisiała. Nie podszedłem drugi raz. Zabrałem ze sobą dwa papiery i poszedłem zapytać w kwaterze, czy jest jakiś adres, pod którym człowiek może zostawić wiadomość dla kogoś, kto sam zdecyduje, kiedy ją odebrać.
+
+Na kwaterze wyjąłem czystą kartkę. Napisałem, że widziałem go przy tablicy. Drugie zdanie miało zaczynać się od tego, dokąd wtedy poszedłem. Posiedziałem chwilę przy otwartym oknie. Potem dopisałem tylko, pod którym numerem można mnie tu znaleźć. Po raz pierwszy od lat miałem list, w którym zostawiłem synowi swój adres.

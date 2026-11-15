@@ -1,0 +1,205 @@
+# Nie przeciwko tobie
+
+## Aurel, 23 maja 3 ET
+
+W pracowni Adriena były dwa wolne stołki. Na jednym leżały papiery, na drugim spał kot. Spytałem, gdzie znajdę wyniki poprzednich prób. Adrien przełożył papiery ze stołka na stół i wskazał mi kreskę na wskaźniku.
+
+Zacząłem ładować. W pewnej chwili odczyt się zmienił, chociaż podawałem moc w tym samym tempie. Przestałem. Potem dotknąłem mocowania. Ustąpiło od razu.
+
+— Jeszcze trochę — powiedział Adrien.
+
+Wolałem, żebyśmy najpierw sprawdzili mocowanie. Kobieta przy sąsiednim stole odstawiła narzędzie i poruszyła obejmą. Wystarczył jej jeden palec. Nazywa się Lena. Pokazała mi później, gdzie odkładają części do wymiany. Pod niską półką znalazłem dwie obejmy z poprzednich prób. Jedna miała wytarty ślad dokładnie tam, gdzie dotknąłem tej nowej.
+
+Adrien powiedział, że operator zobaczy ostrzeżenie na wskaźniku. Zapytałem, co będzie, jeśli akurat spojrzy gdzie indziej. Podczas gdy zastanawiał się nad odpowiedzią, Lena wyjęła kryształ i przyniosła imadło. Wziąłem od niej wytartą obejmę. Chciałem zobaczyć, skąd właściwie bierze się luz.
+
+Wieczorem obejrzałem własną lampę. Jej mocowanie było w porządku. Sprawdziłem je jeszcze raz rano, w świetle dziennym.
+
+## Aurel, po pierwszej próbie
+
+Lena znalazła mnie rano nad wytartą obejmą. Próbowałem odrysować ją na papierze. Na szkicu wyglądała prosto i wszystkie kreski spotykały się pod dobrym kątem. W ręce mogłem ją wygiąć. Skreśliłem jedną kreskę i zrobiłem drugą tam, gdzie kończył się metal. Lena przyniosła suwmiarkę. Poprosiła, żebym zmierzył obejmę również po przekątnej.
+
+— Jeśli ktoś zamówi następną według twojego rysunku, zrobi mu się luz — powiedziała.
+
+— Według którego miejsca mam ją odtworzyć?
+
+— Najpierw pokaż mi, które miejsce chcesz zachować.
+
+Przesunąłem palcem po brzegu. Lena kazała mi w rękawiczce sięgnąć tak samo. Nagle mogłem dotknąć tylko połowy metalu, a na rękawicy został tłusty ślad. Pod obejmą zmieściłaby się jeszcze cienka podkładka. Powiedziałem, że możemy zaznaczyć, jaki luz jest dopuszczalny, i sprawdzać ją po każdym doładowaniu. Lena przyniosła jednak konkretne pytanie. Gdyby człowiek, który przyjdzie doładować po mnie, nie zdążył sprawdzić obejmy, kto zgłosi luz do wymiany? U mnie w warsztacie miałby go usłyszeć każdy. W tej pracowni przychodzili ludzie z innych zajęć i odchodzili, kiedy skończyło się zlecenie.
+
+— Mogę zostawić notatkę w rejestrze.
+
+— Wiesz, gdzie dziś leży rejestr?
+
+Leżał pod rysunkami Adriena. Chciałem go wyjąć bez przesuwania papierów. Lena podniosła całą stertę, położyła obok i przyniosła mały haczyk. Zawiesiliśmy kartę przy wejściu. Podzieliłem ją na wynik ostatniej próby i stan sprzętu. Dopisała przy wyjściu, gdzie oddać niesprawną część. Półka, którą pokazała mi dzień wcześniej, była już w połowie pełna.
+
+Adrien przyszedł później. Spytał, czemu kryształ czeka na ładowanie. Pokazałem mu rysunek z oboma wymiarami i zaproponowałem, żeby gniazdo dostawało osobną kontrolę. Przeczytał pierwszą rubrykę na karcie, po czym chciał wiedzieć, ile czasu doliczę mu do kolejnej próby.
+
+— Jeśli nic się nie rusza, tyle co otwarcie osłony — powiedziałem.
+
+— A jeśli się rusza?
+
+— Wtedy doliczę tyle, ile trzeba na wymianę.
+
+Lena położyła na stole przygotowaną część. Mogła ją założyć w kwadrans, jeśli ktoś z nas przytrzyma obudowę. Adrien zaczął trzymać. Przy trzeciej śrubie poprosił mnie, żebym jednak wsunął mu drewienko pod rękę, bo za chwilę nie wytrzyma ciężaru. Zawiesiłem rysunek obok karty. Nazajutrz Adrien zwinął go i przycisnął do rogu stołu suwmiarką. Kartę zostawił tam, gdzie ją powiesiliśmy.
+
+## Aurel, czas zwykłej pracy
+
+Do pracowni przydzielali mnie, kiedy były potrzebne dodatkowe ręce. Pozostałe godziny spędzałem z ludźmi od latarni szlakowych. Jedna z monterek, Erna, od lat obsługiwała odcinek przy północnej drodze. Kiedy poznałem ją przy składzie, kazała mi najpierw przejść wokół wozu i zajrzeć pod płachtę. Kryształy leżały w wyłożonych materiałem skrzyniach. Na pokrywie jednego pudła był numer urządzenia, którego potrzebowała. Otworzyłem je i odczytałem oznaczenie ze środka. Nie pasowało.
+
+— Masz przed sobą dwa różne numery — powiedziała. — Który teraz wpiszesz?
+
+— Ten z kryształu.
+
+— I czym naładujesz latarnię?
+
+Przyniosłem jej drugi kryształ. Ten dało się dopasować bez zmiany ustawień. Kiedy sięgałem po niego, odwróciłem nie tę skrzynkę, którą wskazała, i znowu zobaczyłem niezgodność. Chciałem wyrównać wszystkie kartki na miejscu. Erna poprosiła, żebym najpierw zanotował, które skrzynki już otworzyłem. Przy okazji wyszło, że woźnica miał dostarczyć dwa ładunki w tej samej kolejności, w jakiej je przyjął. W składzie zmieniono pokrywy przy sprawdzaniu numerów i nikt nie poprawił wykazu.
+
+— A jeśli rano wyjadą z tym dalej? — spytałem.
+
+— Pójdziemy z twoją kartką do człowieka, który wypuszcza wozy.
+
+Podczas rozmowy dyżurny uznał, że wystarczy skreślić numer na wierzchu i wpisać właściwy. Erna zapytała, który dokument odeśle do miejsca nadania. Chciała, żeby ktoś tam też wiedział, że wychodzące numery były zamienione. Człowiek wyszedł po starszy rejestr. Gdy wrócił, dał nam po kawałku papieru, żeby przepisać te same cztery pozycje. Jedna kopia miała zostać we wsi przy drodze, druga wrócić do Aurelu. Podpisałem ją tak ciasno przy brzegu, że ledwo zmieściło się całe imię.
+
+Potem Erna zabrała mnie do pierwszej latarni. Musiałem stanąć trzy kroki dalej, niż chciałem, żeby zobaczyć, jak jej światło wypada z drogi, kiedy obudowa jest ustawiona krzywo. W domu długo liczyłem, jak duża była różnica. Erna wpisała przy swojej obserwacji krótką uwagę o wozach jadących ze wschodu. Następnego dnia poszedłem za nimi od rozwidlenia. Trafiłem pod latarnię od strony, z której sam bym szukał drogi znacznie dłużej.
+
+## Aurel, 12 września 7 ET
+
+Tym razem Adrien poprosił o mnie z imienia. Przygotował dwa układy do porównania i trzeba było naładować oba kryształy tak samo. Przyniosłem też szkic uchwytu. Przy jego osłonie, gdy przychodziło do oględzin styku, trzeba było rozkręcać pół stanowiska. Narysowałem wycięcie, przez które można zajrzeć pod spód. Adrien spytał, czy osłona dalej ochroni rękę. Powiedziałem, że sam chciałbym zobaczyć próbę.
+
+Lena wycięła otwór w kawałku blachy i podała nam rękawicę na drewnianym uchwycie. Musieliśmy poszerzyć otwór o palec, żeby było coś widać, i zostawić za nim rant, żeby rękawica nie ześlizgnęła się na styk. Pod wieczór wreszcie mogliśmy wrócić do ładowania. Adrien podszedł z drugiej strony i sam zajrzał przez otwór. Przed wyjściem poprosił, żebym zostawił mu rysunek z poprawkami.
+
+## Aurel, przed dłuższym objazdem
+
+Mieliśmy oznaczyć dwa punkty na zachód od miasta. W magazynie przewodnik chciał dołożyć do zestawu latarni skrzynkę z taśmami, gwoździami i tabliczkami. Po deszczach częściej trzeba zamykać drogę niż ją oświetlać. Powiedziałem, że gdy wrócimy z naszego zadania, będziemy wiedzieli, ile zostało miejsca na wozie.
+
+— A jak po drodze ktoś zobaczy coś, czego nie ma w twoim zadaniu? — zapytał.
+
+— Zapiszemy i zgłosimy z najbliższego posterunku.
+
+— A ten, kto jedzie za nami?
+
+Przesunął skrzynkę bliżej krawędzi. Wziąłem z niej zwykłą tabliczkę i zważyłem w ręce. Nie była ciężka. Cała skrzynka, z żelazem i dodatkowym młotkiem, ważyła więcej, niż chciałem dokładać do urządzeń. Magazynierka pokazała, że w wozie pod ławką zostawili miejsce na dwa nieużywane kliny. Włożyliśmy tam tabliczki i osobno mały młotek. Przewodnik oddał magazynierce resztę gwoździ, umówił się na dodatkową linę i zapytał, czy znam drogę do któregoś z tych miejsc.
+
+Powiedziałem, że do przeprawy trafię bez mapy. Rok wcześniej sam wpisywałem poprawione oznaczenie. Zapytał, czy wtedy było po dużym deszczu. Pamiętałem pogodę z tamtej wyprawy tak dobrze, że mogłem opisać, gdzie schnął mój płaszcz. Zamiast odpowiedzieć, wyjąłem zeszyt z odczytami terenowymi i pokazałem mu datę. Pod datą była też liczba kroków od znaku do zjazdu. Przewodnik zastanowił się, czy od tego czasu pień, przy którym skręcaliśmy, wciąż stał. Przecież kiedyś ludzie szli tamtędy jeszcze inną ścieżką, zanim latarnia miała własną podstawę.
+
+— Dojedziemy do rozwidlenia i zobaczymy — powiedziałem.
+
+— Właśnie tak planuję — odparł.
+
+Schowałem zeszyt przy mapie. Na wierzchu zostało tylko zlecenie. Tam wyraźnie podano, ile mamy dostarczyć, jak długo jechać i czy zapasowy zestaw ma wrócić. Na jego marginesie dopisałem godzinę, o której przewodnik chciał ruszyć. Gdybyśmy tego dnia zdążyli na dalszy posterunek, mógłbym zrobić odczyt, zanim zamkną skład w mieście.
+
+## Aurel, wieczór przy wykazie
+
+Przewodnik przyniósł dwa płaszcze. W kieszeni jednego zaszył kredę, w drugim nosił zapasowy wykaz. Zapytałem, po co mu kopia, skoro mam swój zeszyt. Opowiedział mi o człowieku, który oznaczał ścieżkę gałęziami. Zanim dotarł konwój, miejscowy gospodarz zdążył je sprzątnąć. Po resztę wyposażenia poszliśmy do szopy.
+
+W środku stała pomocnica ze złożoną płachtą. Próbowała przeciągnąć ją przez szparę w drzwiach. Przytrzymałem jeden róg. Przewodnik zapytał, czy na wyjeździe ktoś rozda woźnicom trasę. Odparła, że wykaz zostaje przy pierwszym wozie, a reszta ma po prostu trzymać się za nim. Jechała z nami tylko do rozwidlenia. Potem musiała zejść i odnieść na drugi posterunek wiadomość od człowieka, który dziś nie mógł w ogóle przyjść do pracy. Chciała dostać drugi egzemplarz, żeby w razie opóźnienia zaznaczyć, gdzie ją znajdziemy.
+
+— Masz — powiedział przewodnik i podał jej ten z płaszcza.
+
+Spojrzałem na nią, jak odsuwa żelazny klips, żeby wpisać własny przystanek. Na kartce nie było jeszcze godziny powrotu. Wyjaśniłem, jak daleko trzeba dojechać, zanim zacznę pomiar. Spytała, czy mogę zostawić część pory na sam koniec. Jeśli będzie z nami jeszcze przy rozwidleniu, poda godzinę sama. Przewodnik zapisał ją warunkowo. Pociągnął palcem po pustym drugim wierszu, gdy chciałem go na wszelki wypadek wypełnić.
+
+Przy rozplątywaniu sznura spytałem, ile razy przejeżdżał ostatnio tę trasę. Przez deszcze od dwóch tygodni prowadził wozy górą. Ostatni raz zaglądał do brodu dużo wcześniej. Ja znałem stary znak i pamiętałem przeprawę, a mimo to obie informacje w jego zapisie zmieściły się pod wspólną kreską. Chciał sprawdzić osobno to, czy ludzie znają drogę i czy nadal jest przejezdna. Podał mi kawałek kredy. Zrobiłem na skrzyni dwa małe znaki, żeby wiedzieć, którą stroną mam ją rano otworzyć. Drugi zrobił on, bo z jego miejsca pierwszy był niewidoczny.
+
+## Szlak pod Aurelem, jesień 11 ET
+
+Prowadziliśmy dwa wozy z osprzętem do oznaczania szlaku. Przed rozwidleniem obejrzałem znak. Strzałka w dół była stara, ale odczytałem ją bez trudu. Byłem tędy zeszłej jesieni. Powiedziałem woźnicy, że zdążymy przez bród, zanim zacznie padać.
+
+Przewodnik zastąpił drogę pierwszemu wozowi. Spytał, kiedy ostatnio byłem nad wodą. Powtórzyłem, że znak jest czytelny. Poprosił, żebym zszedł z nim kawałek.
+
+Z góry widać było oba brzegi i kamienie, po których rok wcześniej przeszedłem suchą nogą. Dopiero na dole zobaczyłem, ile ziemi woda wybrała spod zjazdu. Przewodnik wsunął tyczkę pod krawędź drogi. Weszła głęboko. Pierwszy wóz zdążył już skręcić i trzeba go było wycofać pod górę.
+
+Drugi wóz zaczął się cofać pierwszy. Wtedy znad rzeki przyszedł deszcz. Widziałem jeszcze rękę woźnicy na lejcach, potem tylko jasną plamę w miejscu, gdzie wisiała jego latarnia. Zawołał, że nie widzi koleiny. Przewodnik kazał mu zaciągnąć hamulec. Usłyszałem, jak drewno pierwszego wozu trzeszczy pod ciężarem skrzyń. Lewe koło stało na gruncie, pod który przed chwilą weszła tyczka.
+
+— Da się go wyciągnąć prosto? — zapytałem.
+
+— Do kamienia. Potem w prawo, przy murku. Jeśli odbije wcześniej, tylne koło pójdzie w wyrwę.
+
+Wyjąłem z zestawu trzy małe latarnie szlakowe. Kryształy przywieźliśmy rozładowane. Pierwszy zacząłem napełniać tak szybko, jak umiałem. Kiedy skierowałem latarnię ku wozom, deszcz przed szybą rozjarzył się na biało. Woźnica zasłonił twarz. Krawędzi drogi nadal nie było widać.
+
+— Niżej — zawołał przewodnik. — Świeć mi pod nogi.
+
+Przymknąłem osłonę i opuściłem latarnię prawie do ziemi. W wąskim snopie zobaczyłem kamień przy zakręcie i wodę, która omijała go od strony wyrwy. Napełniłem pozostałe kryształy po trochu. Przewodnik postawił dwie latarnie tam, gdzie sprawdził grunt tyczką. Trzecią trzymałem z boku, tak żeby woźnica widział miejsce, w którym ma zatrzymać tylne koło. Umówiliśmy się, że ruszy dopiero na głos przewodnika. Światła pokazywały mu, gdzie patrzeć.
+
+Drugi wóz przeszedł zakręt bez postoju. Przy pierwszym zgasła latarnia u kamienia. Przewodnik zawołał, żeby trzymać hamulec. Chciałem rozjarzyć pozostałe dwie mocniej, ale z miejsca, w którym stałem, jedna oświetliłaby woźnicy tylko bok płachty. Podałem swoją latarnię przewodnikowi. Poszedłem do kamienia, przykucnąłem i doładowałem kryształ, osłaniając szybę rękawem. Za pierwszym razem puściłem uchwyt, bo palce zaczęły mi drżeć. Oparłem łokieć o kamień i odczekałem dwa oddechy. Wystarczyło tyle mocy, by przez kilkanaście sekund było widać koleinę.
+
+— Teraz — powiedziałem.
+
+Przewodnik powtórzył to woźnicy. Pierwszy wóz cofnął się o pół obrotu koła i stanął. Z miejsca, w którym przed chwilą opierała się obręcz, osunął się płat ziemi. Woźnica odwrócił głowę w moją stronę. Przesunąłem latarnię za kamień. Tym razem poczekałem, aż przewodnik obejdzie wóz i da znak. Koło minęło murek. Kiedy oba wozy stały już na drodze powyżej rozwidlenia, wciąż trzymałem uchwyt, choć w latarni dawno nie było światła.
+
+Woźnica zapytał, ile stracimy na objeździe. Przewodnik podał mu czas. Ja wróciłem do znaku. Odwróciłem strzałkę do słupa i zawiesiłem tabliczkę o zamkniętej przeprawie. Ludzie nadjeżdżający z przeciwka dalej mogli trafić nad wodę, więc przewodnik pokazał mi, którędy dojść do drugiego oznaczenia. Poszliśmy razem. Wozy czekały ponad godzinę.
+
+## Przy rzece, po zatrzymaniu wozów
+
+Na drugi brzeg przeszliśmy po wąskiej kładce powyżej brodu. Z całego zapasu została nam jedna sucha tabliczka. Przewodnik przytrzymał ją pod pachą. Poprosiłem, żeby poczekał, aż odczytam stary numer na słupie. Pod warstwą farby widać było dwie cyfry. Sam je malowałem, więc wiedziałem, czego szukam. Kiedy przyłożyłem papier, zauważyłem, że palce mam pokryte błotem. Pokazałem przewodnikowi, że najpierw chciałbym przejść na twardszy grunt.
+
+— Tu się nie zapada — powiedział.
+
+— Przy pierwszym zjeździe też tak wyglądało.
+
+— Chcesz, żebym wszedł pierwszy?
+
+Podprowadziłem go do miejsca, gdzie wystawał kamień, a obok rosła trawa. Obszedł mnie i sprawdził tyczką z drugiej strony. Trawa się ugięła, a pod kamieniem trafił na podłoże. Poszliśmy tamtędy. Po chwili spytałem, czemu na rozwidleniu nie zabronił mi kierować woźnicą od razu. Czekał, czy sam pójdę sprawdzić. Kiedy zobaczył, że skręcam ręką za znakiem, musiał zastąpić drogę całemu wozowi.
+
+— Myślałem, że mi ufasz przy oznaczeniach.
+
+— Ufam, że potrafisz je robić. Wtedy patrzyłeś na mnie, jakbym zabrał ci drogę.
+
+Pokazałem mu w zeszycie zeszłoroczny pomiar. Widać było, że znak postawiłem po sprawdzeniu zjazdu. Przewodnik spytał o dzień, w którym ktoś miał obejrzeć go ponownie. Nie miałem takiego dnia. Wykaz mówił tylko, że przejście zostało przywrócone. Na nowej tabliczce napisałem „zamknięte” i datę. Zapytał, co zrobi człowiek od wschodu, kiedy odczyta tę datę za tydzień. Poniżej dopisałem, który posterunek ma wiadomość i którędy obecnie można przejechać. Do postawienia znaku tu pomogła nam kobieta z pobliskiego gospodarstwa. Wróciła z motyką, bo w miejscu, które wybraliśmy, bolec trafiał dokładnie na korzeń.
+
+— Kiedy znowu pójdę nad wodę, mam to zgłaszać wam czy naszym? — zapytała.
+
+Przewodnik podał nazwę bliższego posterunku. Ja podałem nazwę mojego. Powtórzyła obie. Więcej niż raz miała do czynienia z człowiekiem, który odsyłał ją na drugi brzeg, bo w jego księdze brakowało odpowiedniej rubryki. Powiedziała, że wybierze krótszą drogę i jeśli znów będzie trzeba iść dalej, każe im wysłać kogoś na własnym wozie.
+
+Przewodnik odszukał w kieszeni kartkę z naszym zgłoszeniem. Ja przepisałem numer i oba kierunki na drugi arkusz. Daliśmy jej kopię. Odszła, zanim skończyliśmy wbijać słup. Zostawiła nam motykę pod płotem. Po powrocie zrobiliśmy osobny wpis do wykazu, żeby pamiętać, czyje narzędzie trzeba oddać.
+
+W rejestrze przy starej strzałce widniał wpis z ubiegłego roku. Sporządziłem go sam. W raporcie napisałem najpierw, że znak był czytelny. Potem dopisałem, że skierowałem za nim dwa wozy przed sprawdzeniem przeprawy. Przewodnik przeczytał oba zdania. Wskazał wolną rubrykę i poprosił, żebym wpisał, gdzie wysłaliśmy ostrzeżenie. Poszło do posterunków po obu stronach rzeki.
+
+## Aurel, wiosna 12 ET
+
+Erna przyniosła na poranną zmianę warunki obu stron Igrzysk. Podłożyła je pod puste opakowanie, żeby arkusze nie odfrunęły przy otwieraniu bramy. Na pierwszym krainy same ustalały, ile splotytu wydobędą i do czego go użyją. Na drugim te zasady i limity ustalała dla wszystkich Rada Siedmiu Szlaków. Chciałem przeczytać wariant wspólnego nadzoru do końca. Zanim doszedłem do drugiej strony, Erna spytała, czy pójdę z nią przekazać zgłoszenie z północnej drogi. Brała ze sobą dwa odpisy. W domu u kogoś przy szlaku odnaleziono stary protokół otwarcia odcinka, z którego kazano nam wstrzymać ruch. Oryginał od dawna był nieaktualny. Na drugim posterunku wciąż ktoś się na niego powoływał, bo różnił się jednym słowem i figurował pod osobnym numerem.
+
+— Gdyby wszystkie posterunki wzięły wspólny sposób oznaczania, byłaby jedna sprawa do sprawdzenia — powiedziałem.
+
+— I kto by poprawił wpis, gdyby ten z urzędu zrobił go źle?
+
+Odszukałem punkt o odwołaniach. Erna przeczytała go sama. Chciała wiedzieć, kto na miejscu będzie mógł zamknąć przejście, kiedy ma przed sobą złą drogę i ruszający wóz. Odpowiedziałem, że rozumiem wspólną zasadę jako zobowiązanie, by obie strony odnotowały zamknięcie. Chciała sprawdzić, czy umiałbym tak samo szybko przyznać rację człowiekowi z małego posterunku, gdy podważy mój wpis. Położyłem na stole kopię z przeprawy. Pod numerem starego znaku widniało moje imię. Przez chwilę studiowaliśmy dwie daty, z zeszłego roku i z tego, jakby miały się w końcu złożyć w jeden pomiar.
+
+— Wiesz już, czemu tamten znak zostawili? — spytała.
+
+— Przygotowywałem nowe oznaczenie. Stare uznałem za załatwione.
+
+— To kiedy pojedziemy na ten odcinek?
+
+Ustaliliśmy, że pojadę po zakończeniu bieżącej zmiany dwa dni później. Potem zapytała o Igrzyska. Odłożyłem na widoczne miejsce wariant, który chciałem poprzeć. Powiedziałem, że jak wyjadę, ktoś będzie musiał przejąć moje dwa dalsze obchody. Erna zgodziła się na pierwszy. Drugi wziąłem na siebie przed podróżą. Przesunąłem wyjazd o jeden dzień.
+
+Wtedy po raz pierwszy wyjąłem w pracy kartkę matki. Erna odczytała margines i zapytała, co znaczy kreska przy ostatnim wyniku. Nie wiedziałem. Znam przyrządy tego rodzaju i potrafię powiedzieć, co zrobiliśmy dla ludzi w naszej ekipie. Na tamtej stacji wciąż brak mi skali i całego rejestru. Erna pomogła mi znaleźć w regulaminie miejsce, gdzie mógłbym poprzeć wspólną kontrolę, a jednocześnie domagać się wglądu w jej działanie. Opowiedziałem jej, że chciałbym kiedyś tylko usiąść z ojcem i dać mu cały czas, którego w kuchni mu odmówiłem. Potem powiedziałem, że nie wiem, czy potrafię mu dać nawet kwadrans. Złożyła oba arkusze, zaczynając od swojego. Zapytała, czy chcę pojechać dlatego, że mogę go tam spotkać.
+
+— Chcę pojechać — odpowiedziałem po chwili. — Nawet gdyby go tam miało nie być.
+
+Byłem jej wdzięczny, że wtedy zajęła się adresowaniem dwóch odpisów. Wyszedłem z pracy z oboma planami. Przeczytałem je w domu jeszcze raz i zacząłem pakować lampę.
+
+## Val Meris, zapisy do kwalifikacji, maj 12 ET
+
+Na stole do zapisów leżały dwa arkusze. Przeczytałem jeszcze raz warunki wspólnego nadzoru. Chcę, żeby ostrzeżenie wpisane przy jednej stacji można było sprawdzić w następnej krainie. Chcę też, żeby pracownik mógł zatrzymać urządzenie do kontroli i żeby po nim ktoś jeszcze przeczytał odczyty. Przy przeprawie miałem obok siebie doświadczonego przewodnika. W raporcie zmieścił się w jednej rubryce. Następnym razem może go przy mnie zabraknąć.
+
+O sprawie Zerath rozmawiałem w kolejce z człowiekiem, który przyjechał szukać części do stacji. Wymienił dwie osady czekające na naprawę i spytał, ile to ma jeszcze potrwać. Nie miałem dla niego daty. Zapisałem nazwy obu miejsc na odwrocie pokwitowania. W rubryce o tym, kogo reprezentuję, wpisałem wspólny nadzór.
+
+Człowiek od części stał jeszcze przy wyjściu. Podałem mu pokwitowanie, żeby sprawdził, czy dobrze zapisałem obie nazwy. Przy drugiej poprawił końcówkę. Zapytał, czy jestem z Aurelu. Odpowiedziałem, że mieszkam tam od dawna, a tej nazwy z Zerath po prostu nigdy wcześniej nie słyszałem.
+
+— To mała osada — powiedział. — W większej podobno mają zapas na cztery dni. Ktoś za każdym razem patrzy na tę większą i mówi, że u nas będzie tak samo.
+
+— A ile macie?
+
+— Na cztery dni, jeśli nikt przez cztery dni nie uruchomi warsztatu.
+
+Wskazał na moje zgłoszenie. Chciał wiedzieć, czy po stronie wspólnego nadzoru rozmawiałem już z kimś, kto mógłby wystawić mu skierowanie do składu. Powiedziałem, że dopiero przyjechałem i mogę go co najwyżej zaprowadzić do człowieka, który przyjmował moje papiery. Odmówił. Ktoś już dla niego załatwiał dokumenty. Chciał tylko wiedzieć, czy pytam o obie osady z ciekawości. Powiedziałem mu, że najpierw pytałem o zasilanie, ale po tej rozmowie chciałbym usłyszeć więcej o tym, ile kosztuje uruchomienie warsztatu. Odpowiedział, że gdybym kiedyś przyjechał, najłatwiej będzie po prostu spotkać się o szóstej rano. Zapisałem porę obok drugiej nazwy. Oddał mi pokwitowanie i spytał, czy w razie czego ma powiedzieć, że będę tu też jutro. Miałem ochotę ustalić z nim od razu godzinę. Zamiast tego pokazałem wejście, przez które właśnie wszedłem. Od tej strony naprawdę najłatwiej mnie było znaleźć.
+
+Wyszedłem na dziedziniec. Przypięli już listę kandydatów i ludzie podchodzili ją czytać. Ojca zauważyłem przy tablicy. Włosy miał krótsze, niż pamiętałem. Został mu biały kosmyk nad czołem. Rozmawiał z tym samym człowiekiem od części. Potem odwrócił się i zatrzymał na mnie wzrok.
+
+Miałem przy sobie kartkę matki. Odkąd przyjechałem, dwa razy sprawdzałem, czy wciąż jest w torbie. Pomyślałem, że mógłbym wreszcie zapytać, dokąd wtedy szedł ze sprzętem. Ułożyłem sobie to pytanie już dawno temu i znałem kilka odpowiedzi, które sam za niego wymyśliłem.
+
+Za plecami miałem otwartą bramę. Wystarczyłoby przepuścić człowieka, który właśnie przez nią wchodził, i pójść w drugą stronę. W kuchni też tak stałem, jedną stopą za progiem. Czekałem wtedy tylko na własne imię. Zacisnąłem dłoń na pokwitowaniu i cofnąłem stopę z przejścia.
+
+Ojciec otworzył usta. Tym razem zostałem, aż podniósł rękę na powitanie. Podniosłem swoją.
+
+Przy wyjściu spojrzałem jeszcze na pokwitowanie. Atrament rozmazał się od potu. Jedną nazwę musiałem odtworzyć z pamięci. Wieczorem przepisałem obie do zeszytu, pod datą kwalifikacji.

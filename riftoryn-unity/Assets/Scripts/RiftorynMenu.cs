@@ -91,6 +91,22 @@ public partial class RiftorynMenu : MonoBehaviour {
         }
     }
     bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="morrak";
+    bool HasExtraStories(string id)=>id=="rian"||id=="lucen"||id=="taren";
+    void DrawExtraStories(CodexHero hero)
+    {
+        string prefix; string[] titles;
+        switch(hero.id)
+        {
+            case "rian": prefix="Rian"; titles=new[]{"JEDENAŚCIE MINUT", "DRUGI OŁÓWEK", "NIE PRZESTAŁAM"}; break;
+            case "lucen": prefix="Lucen"; titles=new[]{"Z TEGO, CO OCALAŁO", "NAUKA KONTROLI", "NIE PRZECIWKO TOBIE"}; break;
+            case "taren": prefix="Taren"; titles=new[]{"TO, CO POZOSTAŁO", "CENA LOJALNOŚCI", "PO DRUGIEJ STRONIE"}; break;
+            default: return;
+        }
+        Text(new Rect(1105,690,425,25),"OPOWIEŚCI",heroBadge);
+        for(int i=0;i<titles.Length;i++)
+            if(Click(new Rect(1105,720+i*38,425,32),titles[i]+"  →",true))
+                OpenSailaStory(prefix+"Story"+(i+1),titles[i],hero.name.ToUpperInvariant(),hero.id!="rian");
+    }
     void DrawDraftStories(CodexHero hero)
     {
         string prefix; string[] titles;
@@ -118,6 +134,7 @@ public partial class RiftorynMenu : MonoBehaviour {
             Text(new Rect(1105,486,425,26),"WKRÓTCE",heroBadge);
             Text(new Rect(1105,521,425,72),RiftorynCodexData.Text(hero.desc,hero.descEn),body);
             if(HasDraftStories(hero.id))DrawDraftStories(hero);
+            if(HasExtraStories(hero.id))DrawExtraStories(hero);
             if(hero.id=="lena")
             {
                 if(Click(new Rect(1105,720,425,32),"LUDZIE SĄ CIEKAWSI OD KRYSZTAŁÓW  →",true))
@@ -134,6 +151,7 @@ public partial class RiftorynMenu : MonoBehaviour {
         if(open){storyOpen=true;selectedComic=0;storyZoom=1f;storyScroll=Vector2.zero;comicListScroll=Vector2.zero;}
         bool hasDraftStories=HasDraftStories(hero.id);
         if(hasDraftStories)DrawDraftStories(hero);
+        if(HasExtraStories(hero.id))DrawExtraStories(hero);
         bool isSaila=hero.id=="saila";
         if(isSaila)
         {
@@ -155,7 +173,7 @@ public partial class RiftorynMenu : MonoBehaviour {
                 OpenSailaStory("AdrienStory3","WYNALAZEK, KTÓREGO NIE PRZEWIDZIAŁEM","ADRIEN");
         }
         float detailTop=small?557:535;
-        Rect detail=new(1105,detailTop,425,isSaila||isAdrien||hasDraftStories?680-detailTop:820-detailTop);detailScroll=GUI.BeginScrollView(detail,detailScroll,new Rect(0,0,395,900));float y=0;
+        Rect detail=new(1105,detailTop,425,isSaila||isAdrien||hasDraftStories||HasExtraStories(hero.id)?680-detailTop:820-detailTop);detailScroll=GUI.BeginScrollView(detail,detailScroll,new Rect(0,0,395,900));float y=0;
         Text(new Rect(0,y,380,56),hero.desc,mutedText);y+=62;
         if(hero.hp>0){Text(new Rect(0,y,380,26),RiftorynL10n.Format("HP  {0}     PRĘDKOŚĆ  {1}     ODNOWIENIE  {2} s",hero.hp,RiftorynL10n.Number(hero.speed),hero.cd),heroBadge);y+=42;}
         DrawPassives(hero,ref y);

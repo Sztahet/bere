@@ -74,4 +74,4 @@
 - [Historie bohaterów i statusy biografii](RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md).
 - [Relacje i chronologia wspólnej nauki w Val Meris](RIFTORYN_RELACJE_I_PERSPEKTYWY.md#lucen-pyrra-zet-i-saila-w-val-meris).
 - [Kodeks gry](riftoryn-unity/Assets/Resources/codex.json).
-- [Trylogia Adriena — część I](opowiadania/adrien/RIFTORYN_ADRIEN_01_SWIATLO_KTORE_WSKAZALO_DROGE.md), [trylogia Leny — część III](opowiadania/lena/RIFTORYN_LENA_03_ZNAM_KOGOS_KTO_POTRAFI.md), [trylogia Rian — część I](opowiadania/rian/RIFTORYN_RIAN_01_JEDENASCIE_MINUT.md), [trylogia Saily — finał](opowiadania/saila/RIFTORYN_SAILA_TO_CZEGO_NIE_NAUCZYL_MNIE_RUVAN.md) oraz [trylogia Lucena — część II](opowiadania/lucen/RIFTORYN_LUCEN_02_NAUKA_KONTROLI.md).
+- [Trylogia Adriena — część I](opowiadania/adrien/swiatlo-ktore-wskazalo-droge/historia.pl.md), [trylogia Leny — część III](opowiadania/lena/znam-kogos-kto-potrafi/historia.pl.md), [trylogia Rian — część I](opowiadania/rian/jedenascie-minut/historia.pl.md), [trylogia Saily — finał](opowiadania/saila/to-czego-nie-nauczyl-mnie-ruvan/historia.pl.md) oraz [trylogia Lucena — część II](opowiadania/lucen/nauka-kontroli/historia.pl.md).
