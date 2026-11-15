@@ -44,7 +44,7 @@ Veda podała mi lejce, żebym potrzymał konie, a sama sprawdziła mocowanie skr
 
 ## Stary kamień
 
-Przed południem zatrzymaliśmy się przy kamiennej kapliczce stojącej obok drogi. Veda miała dostarczyć list mieszkającemu tam starcowi. Wysiadła z wozu i zastukała laską w próg niskiej chaty.
+Przed południem zatrzymaliśmy się przy starym kamiennym słupie stojącym obok drogi. Veda miała dostarczyć list mieszkającemu tam starcowi. Wysiadła z wozu i zastukała laską w próg niskiej chaty.
 
 Mężczyzna wyszedł po dłuższej chwili. Nazywał się Oren, a przynajmniej tak przedstawiła go Veda. Miał dłonie naznaczone poparzeniami i poruszał się powoli, ale kiedy zobaczył moją zbroję, wyprostował plecy.
 
@@ -62,11 +62,11 @@ Oren przyjął list i poprosił Vedę, żeby go przeczytała. Jego siostra pisa�
 
 Czekałem. Trzeba umieć czekać, choćby bardzo chciało się zadać pytanie.
 
-Gdy skończyła, spytałem o kapliczkę.
+Gdy skończyła, spytałem o słup.
 
 — Jest starsza ode mnie — powiedział. — Kiedy byłem chłopcem, kamień leżał przy starej drodze. Przenieśli go po osunięciu.
 
-Na bocznej ścianie, niemal przy ziemi, widniał zatarty znak. Dwa wygięte ramiona, między nimi coś, co mogło być głową ptaka albo pęknięciem.
+Na bocznej stronie słupa, niemal przy ziemi, widniał zatarty znak. Dwa wygięte ramiona, między nimi coś, co mogło być głową ptaka albo pęknięciem.
 
 — Kto go wykuł?
 

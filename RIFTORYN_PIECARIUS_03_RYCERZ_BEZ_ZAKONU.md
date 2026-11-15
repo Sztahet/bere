@@ -32,7 +32,7 @@ Położyła monety na stole. Jedna była mniejsza, lokalna; drugą mógłbym op�
 
 W 12 ET w mieście przybywało gości. Wielkie Igrzyska ściągały ludzi z krain, do których nie dotarłbym przez lata. Jedni przyjechali oglądać zawody, inni pracować przy dostawach, sprzedawać jedzenie albo spotkać krewnych. Rozważałem zgłoszenie do kwalifikacji. Na razie zatrudniłem się do ochrony transportu materiałów i jeszcze nie zdecydowałem, czy stanę przed urzędnikiem jako kandydat.
 
-Miałem w sakwie księgę ojca, odrys znaku z kapliczki i dwie gruszki. Jedną zostawiłem gospodyni w podziękowaniu za monety. Tym razem nie odmówiła.
+Miałem w sakwie księgę ojca, odrys znaku ze słupa i dwie gruszki. Jedną zostawiłem gospodyni w podziękowaniu za monety. Tym razem nie odmówiła.
 
 ## Kto pamięta ptaka
 

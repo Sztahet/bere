@@ -58,7 +58,7 @@ Przy pierwszym oblodzonym zejściu to ja potrzebowałem jej ręki. Nie wspominam
 
 Przy schronieniu spotkałem Ruvana. Zajmował się skrzynią z kryształami, które trzeba było zabezpieczyć przed podróżą. Nie znałem go wcześniej. Przewodniczka powiedziała, że mógł słyszeć wiele opowieści od ludzi przemierzających szlaki.
 
-Poczekałem, aż skończy pracę. Następnie pokazałem mu odrys z kapliczki i stronę księgi z ptasim znakiem.
+Poczekałem, aż skończy pracę. Następnie pokazałem mu odrys ze słupa i stronę księgi z ptasim znakiem.
 
 — Zna pan Bractwo Feniksa?
 
@@ -146,7 +146,7 @@ Skinął głową, jakby to wystarczyło. Mnie nie wystarczyło tak łatwo. Kiedy
 
 Nie wiedziałem, co było na płytce. Nie wiedziałem, czy rzemyk należał do handlarza opisanego przez Demę. Straciłem przedmiot, którego mogłem nawet nigdy nie rozpoznać.
 
-W gospodzie pokazałem Noctenowi, starszemu magowi, odrys z kapliczki. Poprosiłem, by spojrzał bez moich wyjaśnień. Obejrzał kartę, a potem herb na mojej piersi.
+W gospodzie pokazałem Noctenowi, starszemu magowi, odrys ze słupa. Poprosiłem, by spojrzał bez moich wyjaśnień. Obejrzał kartę, a potem herb na mojej piersi.
 
 — Nie znam tego znaku na tyle, by powiedzieć, co oznaczał na kamieniu — odparł. — Kto go odrysował?
 
