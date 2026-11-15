@@ -30,4 +30,4 @@ Nie była zadowolona z odpowiedzi. Powiedziała, że jeśli kiedyś ktoś inny b
 
 Na okładce nie napisałem „Morrak”. Napisałem „rzeczy, których nie potrafię połączyć”. Była to mniej efektowna nazwa, ale lepiej pasowała do zawartości.
 
-Tego wieczoru oficjalny odpis mówił, że źródła nie pozwalają ustalić, kto wydał rozkaz w kopalni. Prywatna księga mówiła coś jeszcze: że pewne opisy powracają, lecz ich powtarzalność nie jest dowodem wspólnej przyczyny. Nie miałem prawa zamienić jednego w drugie.
+Tego wieczoru oficjalny odpis mówił, że pracownik słyszał rozkaz nadzorcy, a według jego relacji żeton włożył strażnik. Nie rozstrzygał, czy pracownik widział użycie żetonu. Prywatna księga mówiła coś jeszcze: że pewne opisy powracają, lecz ich powtarzalność nie jest dowodem wspólnej przyczyny. Nie miałem prawa zamienić jednego w drugie.

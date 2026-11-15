@@ -94,6 +94,16 @@ Talma opowiadała dalej, stukając palcem w pusty róg księgi.
 
 — Nie. Patrzył na mnie.
 
+— Dlaczego wpisała pani imię, którego nie potwierdził?
+
+Talma odłożyła pióro i przez chwilę patrzyła na swoje dłonie.
+
+— Stał przede mną i czekał. Był ogromny, a spod płaszcza widziałam jego niezwykłą, nierówną skórę. Zapytałam go dwa razy, ale milczał. Kiedy ktoś podał imię, wpisałam je. Chciałam już skończyć, żeby odszedł.
+
+— Zagroził pani?
+
+— Nie. Nie zrobił nic, tylko czekał. Bałam się mimo to.
+
 Strażniczka przy drzwiach, Kera, zapamiętała tę chwilę inaczej: jej zdaniem nieznajomy patrzył na kartę. Obie zgadzały się co do jednego: nie usłyszały od niego imienia ani sprzeciwu wobec wpisu.
 
 — A wybór strony? — spytałem.
