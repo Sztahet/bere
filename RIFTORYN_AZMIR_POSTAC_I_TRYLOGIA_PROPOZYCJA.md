@@ -18,7 +18,7 @@ Azmir prowadzi narrację w pierwszej osobie. Relacje świadków są ograniczone 
 
 ## Vaelis — przyszła archiwistka
 
-Vaelis (imię zastępuje roboczą Inę) jest młodą maginią Ciemności z Vesper, około 23-letnią w 12 ET. Od kilku lat pracuje w archiwum Cienistego Portu; w 10 ET ma około 21 lat. Uczy się od Azmira prowadzenia zapisów i precyzyjnych osłon, ale zachowuje własny osąd: potrafi poprawić nauczyciela i nie zgodziła się jeszcze, by przejąć jego obowiązki. Jako kolejna przyszła bohaterka **Wsparcia Ciemności** otrzymuje status „wkrótce”. Jej umiejętności, statystyki i historia poza trylogią pozostają do opracowania.
+Vaelis (imię zastępuje roboczą Inę) jest młodą maginią Ciemności z Vesper, około 23-letnią w 12 ET. Od kilku lat pracuje w archiwum Cienistego Portu; w 10 ET ma około 21 lat. Uczy się od Azmira prowadzenia zapisów i precyzyjnych osłon, ale zachowuje własny osąd: potrafi poprawić nauczyciela i nie zgodziła się jeszcze, by przejąć jego obowiązki. Z polecenia Rady regularnie składa tajne raporty o tym, jakie materiały związane z Nocą bada Azmir i czy czegoś nie zataja. Jako kolejna przyszła bohaterka **Wsparcia Ciemności** otrzymuje status „wkrótce”. Jej umiejętności, statystyki i historia poza trylogią pozostają do opracowania.
 
 ## Bazowa historia Azmira i Vaelis — propozycja robocza
 
@@ -34,28 +34,29 @@ Przez kolejne lata porównuje zeznania i kopie z siedmiu raportów komisji. Jest
 
 W 12 ET Azmir ma dwie szafy z aktami. Pierwsza zawiera materiały dostępne innym archiwistom. Druga, zamknięta, mieści jego dzienniki: hipotezy, pomyłki, przekreślone wnioski i kopie, których pochodzenia nie udało mu się potwierdzić. Nie zamierza zabrać ich do grobu. Czeka jednak, aż będzie mógł przekazać je razem z opisem ich słabości.
 
-### Vaelis: raporty do Czytelnika
+### Vaelis: tajne raporty dla Rady
 
-Vaelis sporządza prywatne notatki dla luźnego łańcucha ludzi, którzy po Nocy zachowują i wymieniają kopie dokumentów: krewnych zaginionych, byłych kopistów, kurierów i archiwistów z różnych krain. Nie jest to tajna służba ani jedna organizacja z centralą. Każdy zna najwyżej jedną osobę przed sobą i jedną po sobie. Vaelis otrzymuje polecenia przez skrytki w oprawach atlasów i odsyła krótkie raporty tą samą drogą.
+Po latach sporów o Noc Rada chce wiedzieć, czy archiwista z Cienistego Portu przechowuje materiały, których nie ujawnia innym. Nie zakłada, że Azmir popełnił nadużycie. Chce mieć niezależny opis jego pracy, zanim plotka o tajnych aktach przerodzi się w oskarżenie albo ważne świadectwo zaginie. Vaelis dostaje zadanie przez kancelarię Rady, bo jest młodą archiwistką, zna warsztat Azmira i umie odróżnić oryginał od kopii.
 
-Jej kontaktem jest ktoś podpisujący się „Czytelnik”. Vaelis nie zna jego imienia ani nie wie, czy to jedna osoba. Początkowo ma obserwować Azmira: sprawdzić, czy zachowuje kopie relacji i czy nie usuwa świadectw niewygodnych dla archiwum. Ma raportować fakty, nie interpretacje. Właśnie dlatego jej notatki są „tajne”: ujawnienie ich mogłoby wskazać, kto przekazuje kopie, i zamknąć kanał, na którym polegają rodziny ofiar.
+Vaelis ma raportować wszystko: jakie dokumenty Azmir przegląda, co dopisuje do oficjalnych akt, jakie hipotezy trzyma w prywatnych zeszytach i czego nie udało jej się sprawdzić. Jej meldunki są tajne, bo Rada nie chce, by samo dochodzenie wpłynęło na zeznania świadków ani skłoniło archiwum do zmiany sposobu pracy. Vaelis prowadzi własny notes, w którym rozdziela obserwacje od interpretacji; następnie przekazuje Radzie pełny raport wraz z własnymi wątpliwościami.
 
-Vaelis zaczyna jednak wątpić, czy Azmir jest właściwym celem obserwacji. Widzi, że jego oficjalne raporty są ostrożniejsze niż jego prywatne wnioski — i że sam poprawia własne błędy. W jej notatniku pojawiają się więc dwie kolumny: „co Azmir zrobił” i „co ja o tym zakładam”. Nie chce zostać jego szpiegiem ani jego obrończynią; chce wiedzieć, komu jej milczenie może zaszkodzić.
+Zadanie nie jest dla niej proste. Azmir rzeczywiście ma zamkniętą szafę i prywatne notatki, ale zachowuje w nich również błędne tropy, poprawki i oznaczenia niepewności. Vaelis widzi, że nie próbuje usunąć świadectw — przeciwnie, boi się, że zbyt wczesny wniosek skrzywdzi niewinnych. Musi więc przekazać Radzie zarówno fakt, że Azmir ukrywa część materiałów przed publicznym rejestrem, jak i kontekst, który nie pozwala nazwać tego zatajeniem.
 
-Z czasem podejrzewa, że Czytelnik nie szuka informacji o Azmirze. Kolejne polecenia proszą ją o odnalezienie brakujących kopii, sprawdzenie dat i odnotowanie, kto miał dostęp do oryginału. To sugeruje, że dla łańcucha kopii ważniejsza jest możliwość niezależnego sprawdzenia zapisu niż zdobycie sekretu. Vaelis nadal nie wie jednak, czy wszyscy uczestnicy mają ten sam cel.
+Jej własny konflikt polega na tym, że służba Radzie wymaga pełnej szczerości, a zaufanie Azmira wymaga ujawnienia, kim jest. Vaelis nie rozwiązuje tego przez kłamstwo ani przez ciche pomijanie informacji. Gdy Azmir pyta ją wprost, mówi mu o zleceniu i pokazuje kopię ostatniego raportu. Nie wie, czy nadal będzie mógł jej zaufać. On zaś nie żąda, by przestała raportować; prosi, żeby przy każdym wniosku zapisała, skąd go wzięła i czego nie wie.
 
 ### Wspólny punkt zwrotny
 
-Azmir odnajduje dawną kopię meldunku, która podważa jego ulubioną kolejność awarii. Nie wpisuje jej do oficjalnego zestawienia, dopóki nie sprawdzi pochodzenia. Vaelis rozpoznaje znak kopisty, który widziała wcześniej w jednym z raportów Czytelnika. Może wysłać tę informację i zyskać zaufanie nieznanego kontaktu; zamiast tego najpierw pokazuje Azmirowi własną kopię i pyta, czy chce ją włączyć do akt wraz z informacją, skąd pochodzi.
+Azmir odnajduje dawną kopię meldunku, która podważa jego ulubioną kolejność awarii. Nie wpisuje jej do oficjalnego zestawienia, dopóki nie sprawdzi pochodzenia. Vaelis zauważa, że ten sam znak kopisty widziała na innej, niezależnej kopii. Zgodnie z poleceniem przekazuje Radzie pełny meldunek: o dokumencie, opóźnieniu publikacji, możliwym powiązaniu i ryzyku, że kopia jest wtórna. Dopisuje również, że sama nie potrafi potwierdzić, czy oba zapisy opisują ten sam moment.
 
-Azmir nie pyta, dla kogo pracuje. Prosi ją tylko, by nie przemilczała, że kopia może być wtórna. Vaelis wysyła Czytelnikowi krótki meldunek: „Znalazłam dokument, który zmienia kolejność. Nie wiem, czy jest prawdziwy. Azmir też jeszcze nie wie”. Nie otrzymuje pochwały ani rozkazu. W pustej skrytce znajduje jedynie prośbę, by zachowała własną kopię.
+Azmir odkrywa, że raporty Vaelis trafiają do Rady, i pyta ją o to wprost. Vaelis przyznaje, że miała sprawdzić, czy niczego nie zataja. Pokazuje mu przekazany meldunek; nie pominęła w nim ani zamkniętej szafy, ani tego, że Azmir wstrzymał publikację. Zachowała jednak rozróżnienie między ukrywaniem dokumentu przed czytelnikami a sprawdzaniem jego pochodzenia przed wpisaniem do publicznego rejestru. Azmir czuje się zdradzony, lecz nie może zarzucić jej fałszu. Prosi tylko, by Rada mogła zobaczyć także jego notatki o niepewności — nie samą atrakcyjną hipotezę.
 
-To nie rozwiązuje tajemnicy Nocy. Zmienia za to ich relację: Azmir wie, że Vaelis coś przed nim ukrywa, a Vaelis wie, że on nie próbuje jej zmusić do wyznania. Oboje zaczynają pracować nad tym samym pytaniem, ale każde prowadzi własny rejestr i nie ufa w pełni temu samemu źródłu.
+Rada nie wydaje natychmiastowego wyroku ani nie przejmuje akt. Prosi o kopie prywatnych materiałów wraz z opisem ich pochodzenia i poziomu pewności. Vaelis dostarczy je, a Azmir sam zaczyna przygotowywać taki zestaw. Tajemnica Nocy pozostaje nierozwiązana, ale ich praca staje się jawniejsza dla siebie nawzajem i sprawdzalna dla Rady.
 
 ### Otwarte decyzje na dalszy rozwój
 
 - Czy Azmir był w Cienistym Porcie podczas Nocy, czy dotarł tam dopiero po awarii? Obecny szkic zakłada, że zbierał meldunki jako archiwista, nie jako świadek wydarzeń w Val Meris.
 - Czy prywatne notatki Azmira zostaną kiedyś ujawnione w całości, czy tylko w częściach z opisem poziomu pewności?
-- Czy „Czytelnik” to jedna osoba, czy nazwa używana przez kolejnych uczestników łańcucha kopii?
-- Czy Vaelis nadal będzie szpiegiem, gdy odbiorcy zaczną prosić ją o wnioski, a nie o sprawdzone fakty?
+- Kto w Radzie prowadzi tajny nadzór Vaelis i kto poza nim ma dostęp do jej raportów?
+- Czy Rada chce jedynie sprawdzić kompletność akt, czy też podejmie decyzję polityczną na podstawie prywatnych hipotez Azmira?
+- Czy Vaelis pozostanie łączniczką Rady, gdy jej raporty zaczną wpływać na sposób, w jaki Azmir prowadzi dochodzenie?
 - Żaden z tych tropów nie potwierdza związku Morraka z Nocą ani nie przesądza, kto lub co wywołało awarie.
