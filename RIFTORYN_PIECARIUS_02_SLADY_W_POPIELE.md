@@ -44,6 +44,92 @@ Kiedy odchodziłem, dała mi kawałek ciepłego chleba. Przyjąłem go bez cerem
 
 Położyła obok pierwszej własną gruszkę. Nie próbowałem jej poprawiać.
 
+## Człowiek od latarni
+
+Do obserwatorium skierowała mnie archiwistka. Powiedziała, że Orien zna stare oznaczenia szlaków i czasem pomaga porównywać mapy z relacjami podróżnych. Zastrzegła przy tym, że nie zajmuje się spełnianiem życzeń rycerzy.
+
+— Nawet drobnych? — spytałem.
+
+— Zwłaszcza tych, które zaczynają się od słowa „tylko”.
+
+Znalazłem go na zewnątrz, przy zdemontowanej latarni. Starszy mężczyzna w roboczym fartuchu trzymał szklaną osłonę, a młoda pomocnica próbowała dopasować do niej metalowy zacisk. Zapytałem, czy rozmawiam z Orienem.
+
+— Jeśli przyszedł pan z nową częścią, to tak. Jeśli z kolejnym pytaniem, czy latarnia już działa, to również tak, ale odpowiedź brzmi: jeszcze nie.
+
+Przedstawiłem się i wyjaśniłem, czego szukam. Spojrzał na znak Feniksa, ale nie przerwał pracy.
+
+— Może pan potrzymać szkło? — zapytał.
+
+— Z przyjemnością. Choć mam przy sobie bardzo starą księgę i zależałoby mi…
+
+— Szkło najpierw. Jeśli je puścimy, będzie jeszcze starsze i w znacznie większej liczbie kawałków.
+
+Ująłem osłonę po obu stronach. Pomocnica wsunęła zacisk, a Orien przytrzymał śrubę. Musiałem stać nieruchomo dłużej, niż wydawało się możliwe. W zbroi człowiek przywyka do ciężaru, ale szkło nie pozwala oprzeć go o ziemię ani poprawić uchwytu, kiedy zdrętwieją palce.
+
+— Może pan mówić, kiedy pan trzyma — powiedział Orien.
+
+Opowiedziałem mu o księdze ojca, o znaku przy drodze i o spisie z archiwum. Przy słowach „rycerz Bractwa Feniksa” wyprostowałem się, przez co osłona przechyliła się niebezpiecznie. Pomocnica złapała jej brzeg.
+
+— Przepraszam.
+
+— Nic się nie stało — odparła. — Ale proszę już nie poprawiać postawy.
+
+Kiedy skończyli, Orien umył dłonie i poprosił, żebym pokazał mu księgę. Rozłożył czyste płótno na stole. Pomyślałem, że zna wartość starych rzeczy; potem zobaczyłem, że trzyma płótno z dala od mokrej plamy po własnym kubku. To było jeszcze ważniejsze.
+
+Otworzył księgę tam, gdzie wskazałem, i długo przyglądał się rysunkowi ptaka. Następnie wyjąłem odrys znaku ze słupa.
+
+— Te linie są podobne — powiedział.
+
+Serce zabiło mi szybciej.
+
+— Zna je pan?
+
+— Znam podobne oznaczenia z map i przedmiotów przewoźników. Ptaki i skrzydła pojawiają się na nich często. Nie umiem powiedzieć, kto wykuł ten znak ani czy miał na myśli to samo, co autor pańskiej księgi.
+
+— Ale dostrzega pan podobieństwo.
+
+— Dostrzegam. Nie chcę go tylko pomylić z odpowiedzią.
+
+Przyznam, że wolałbym, aby się pomylił. Przez chwilę miałem ochotę zabrać obie kartki i odejść, zanim zdąży powiedzieć coś jeszcze. Zamiast tego zapytałem, czy według niego powinienem przestać szukać.
+
+— Nie znam pańskiego ojca ani tego, czego pan potrzebuje — odparł. — Nie mogę zdecydować za pana.
+
+Opowiedziałem mu więc, jak ojciec czytał mi tę księgę i jak z czasem nauczyłem się rozpoznawać strony po śladach jego palców. Nie mówiłem o tym często. Ludzie pytali zwykle o zakon, a ja odpowiadałem o zakonie. Orien zapytał o ojca.
+
+— Wiedział, skąd pochodzi? — spytał.
+
+— Nigdy mi nie powiedział. Byłem młody, kiedy zmarł. Myślałem, że będę miał jeszcze czas zapytać.
+
+Orien zamknął księgę dopiero wtedy, gdy skinąłem głową.
+
+— Zostawił panu coś ważnego. Szkoda, że nie może pan już usłyszeć od niego reszty.
+
+Nie próbował mnie pocieszać zapewnieniem, że na pewno znajdę odpowiedź. Wskazał mi natomiast kopistkę, która prowadziła spis dawnych oznaczeń używanych przy przewozach. Mogła sprawdzić, czy znak ptaka występował na jakimś zachowanym wykazie. Uprzedził, że jej zapisów jest dużo i że może nie mieć czasu od razu.
+
+— Proszę nie mówić, że ja obiecałem odpowiedź — dodał.
+
+— Powiem tylko, że skierował mnie do niej człowiek o wielkiej rozwadze i niezwykłej gościnności.
+
+— To już brzmi jak obietnica.
+
+Uśmiechnął się, a ja dostrzegłem, że choć skończył pracę przy szkle, wciąż ogląda moje dłonie.
+
+— Skaleczyłem się? — spytałem.
+
+— Nie. Miałem nadzieję, że nie. Szkło przy dolnej krawędzi jest wyszczerbione.
+
+Odprowadziłem go do latarni, gdzie pomocnica sprawdzała nowy zacisk. Pokazała nam osłonę z bliska. Na brzegu rzeczywiście brakowało małego kawałka. Orien poprosił, by oznaczyła uszkodzenie przed ponownym montażem; najpierw chciał sprawdzić, czy szkło można bezpiecznie wykorzystać.
+
+— To opóźni pracę — zauważyła.
+
+— Wiem. Ale jeśli pęknie na trasie, ktoś będzie musiał wracać po ciemku.
+
+Pomyślałem o Lenie, który zaufał mojej mapie tylko do pierwszego rozwidlenia, a potem sam pokazał mi właściwą drogę. Powiedziałem Orienowi, że mogę przytrzymać osłonę jeszcze raz. Przyjął pomoc bez przemowy i bez pytania, kto mnie pasował.
+
+Kopistka następnego dnia nie znalazła mojego znaku w wykazie, który miała pod ręką. Zaproponowała, żebym wrócił za kilka tygodni, kiedy przejrzy pozostałe zapisy. Nie mogłem zostać w Aurelu tak długo. Zostawiłem jej dokładny odrys i nazwę gospody, w której zamierzałem kiedyś znów się zatrzymać. Nie wiedziałem, czy list tam na mnie poczeka.
+
+Kiedy odchodziłem od obserwatorium, zobaczyłem Oriena rozmawiającego z pomocnicą przy zdjętej osłonie. Odłożyli ją na osobny stół, zamiast od razu zamontować w latarni. Pomachał mi na pożegnanie. Odpowiedziałem mu i po raz pierwszy tego dnia nie próbowałem nadać gestowi uroczystej formy.
+
 ## Droga na północ
 
 W Nivoren pomyliłem dwa rozwidlenia. Na drugim dołączyła do mnie przewodniczka, która prowadziła niewielką grupę do schronienia przy szlaku. Powiedziała, że mogę iść z nimi, jeśli nie będę ich przyspieszał.
