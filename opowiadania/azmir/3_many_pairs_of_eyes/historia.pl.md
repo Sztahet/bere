@@ -4,7 +4,7 @@
 
 Przy wejściu na kwalifikacje powstał zator. Kandydaci ustawiali się w kolejce, a pozostali widzowie próbowali zobaczyć, kto już przeszedł przez bramę. Znałem tę przestrzeń z list i map. Nie znałem jej z takiej liczby ludzi, którzy patrzyli na jedno miejsce naraz.
 
-Przy stole leżały karty uczestników. Obok nich stała lampa z ciężkim, źle osadzonym kloszem. Kiedy ktoś zahaczył o przewód, klosz przechylił się nad dziewczyną niosącą arkusze. Odsunęła się, ale przewód oplótł jej torbę. Mężczyzna z kolejki wyciągnął rękę. Cień przeciął stół, choć lampa wciąż świeciła. Przez palce mężczyzny przebiegł krótki fioletowy błysk. Złapał lampę i odsunął ją od przejścia.
+Przy stole leżały karty uczestników. Obok nich stała lampa z ciężkim, źle osadzonym kloszem. Kiedy ktoś zahaczył o przewód, lampa przechyliła się nad dziewczyną niosącą arkusze, a klosz poluzował się w oprawie. Odsunęła się, ale przewód oplótł jej torbę. Mężczyzna z kolejki wyciągnął rękę. Cień przeciął stół, choć lampa wciąż świeciła. Przez palce mężczyzny przebiegł krótki fioletowy błysk. Złapał lampę i odsunął ją od przejścia.
 
 Nie krzyknął. Nie przedstawił się. Dopiero wtedy ludzie zaczęli mówić.
 
