@@ -13,19 +13,19 @@ RESOURCES = UNITY / "Assets" / "Resources"
 
 CATALOG = [
     ("nocten", "Nocten", "Vesper", "nocten-darkness-support.png", None, [
-        ("droga-ktorej-nie-bylo", "Droga, której nie było", "RIFTORYN_NOCTEN_01_DROGA_KTOREJ_NIE_BYLO.md"),
-        ("tym-razem-nie-wierz-noctenowi", "Tym razem nie wierz Noctenowi", "RIFTORYN_NOCTEN_02_TYM_RAZEM_NIE_WIERZ_NOCTENOWI.md"),
-        ("pierwsza-lekcja", "Pierwsza lekcja", "RIFTORYN_NOCTEN_03_PIERWSZA_LEKCJA.md"),
+        ("droga-ktorej-nie-bylo", "Droga, której nie było", "opowiadania/nocten/RIFTORYN_NOCTEN_01_DROGA_KTOREJ_NIE_BYLO.md"),
+        ("tym-razem-nie-wierz-noctenowi", "Tym razem nie wierz Noctenowi", "opowiadania/nocten/RIFTORYN_NOCTEN_02_TYM_RAZEM_NIE_WIERZ_NOCTENOWI.md"),
+        ("pierwsza-lekcja", "Pierwsza lekcja", "opowiadania/nocten/RIFTORYN_NOCTEN_03_PIERWSZA_LEKCJA.md"),
     ]),
     ("piecarius", "Piecarius", "Vareth", "piecarius-fire-tank.png", None, [
-        ("ksiega-bez-autora", "Księga bez autora", "RIFTORYN_PIECARIUS_01_KSIEGA_BEZ_AUTORA.md"),
-        ("slady-w-popiele", "Ślady w popiele", "RIFTORYN_PIECARIUS_02_SLADY_W_POPIELE.md"),
-        ("rycerz-bez-zakonu", "Rycerz bez zakonu", "RIFTORYN_PIECARIUS_03_RYCERZ_BEZ_ZAKONU.md"),
+        ("ksiega-bez-autora", "Księga bez autora", "opowiadania/piecarius/RIFTORYN_PIECARIUS_01_KSIEGA_BEZ_AUTORA.md"),
+        ("slady-w-popiele", "Ślady w popiele", "opowiadania/piecarius/RIFTORYN_PIECARIUS_02_SLADY_W_POPIELE.md"),
+        ("rycerz-bez-zakonu", "Rycerz bez zakonu", "opowiadania/piecarius/RIFTORYN_PIECARIUS_03_RYCERZ_BEZ_ZAKONU.md"),
     ]),
     ("morrak", "Morrak", "Vesper", "morrak-darkness-tank.png", None, [
-        ("imie-ktorego-nie-wypowiedzial", "Imię, którego nie wypowiedział", "RIFTORYN_MORRAK_01_IMIE_KTOREGO_NIE_WYPOWIEDZIAL.md"),
-        ("swiadkowie-milczenia", "Świadkowie milczenia", "RIFTORYN_MORRAK_02_SWIADKOWIE_MILCZENIA.md"),
-        ("nazwisko-na-liscie", "Nazwisko na liście", "RIFTORYN_MORRAK_03_NAZWISKO_NA_LISCIE.md"),
+        ("imie-ktorego-nie-wypowiedzial", "Imię, którego nie wypowiedział", "opowiadania/morrak/RIFTORYN_MORRAK_01_IMIE_KTOREGO_NIE_WYPOWIEDZIAL.md"),
+        ("swiadkowie-milczenia", "Świadkowie milczenia", "opowiadania/morrak/RIFTORYN_MORRAK_02_SWIADKOWIE_MILCZENIA.md"),
+        ("nazwisko-na-liscie", "Nazwisko na liście", "opowiadania/morrak/RIFTORYN_MORRAK_03_NAZWISKO_NA_LISCIE.md"),
     ]),
     ("saila", "Saila", "Biały Przesmyk", "saila-cold-specialist-portrait.png", None, [
         ("ciezar-krysztalu", "Ciężar kryształu", "SailaStory"),
@@ -43,25 +43,26 @@ CATALOG = [
         ("znam-kogos-kto-potrafi", "Znam kogoś, kto potrafi", "LenaStory3"),
     ]),
     ("rian", "Rian", "Vareth", "../../../riftoryn-unity/Assets/Resources/Portraits/rian.png", "Cena wyboru", [
-        ("jedenascie-minut", "Jedenaście minut", "RIFTORYN_RIAN_01_JEDENASCIE_MINUT.md"),
-        ("drugi-olowek", "Drugi ołówek", "RIFTORYN_RIAN_02_DRUGI_OLOWEK.md"),
-        ("nie-przestalam", "Nie przestałam", "RIFTORYN_RIAN_03_NIE_PRZESTALAM.md"),
+        ("jedenascie-minut", "Jedenaście minut", "opowiadania/rian/RIFTORYN_RIAN_01_JEDENASCIE_MINUT.md"),
+        ("drugi-olowek", "Drugi ołówek", "opowiadania/rian/RIFTORYN_RIAN_02_DRUGI_OLOWEK.md"),
+        ("nie-przestalam", "Nie przestałam", "opowiadania/rian/RIFTORYN_RIAN_03_NIE_PRZESTALAM.md"),
     ]),
     ("lucen", "Lucen", "Aurel", "lucen-light-specialist.png", "Własna droga", [
-        ("z-tego-co-ocalalo", "Z tego, co ocalało", "RIFTORYN_LUCEN_01_Z_TEGO_CO_OCALALO.md"),
-        ("nauka-kontroli", "Nauka kontroli", "RIFTORYN_LUCEN_02_NAUKA_KONTROLI.md"),
-        ("nie-przeciwko-tobie", "Nie przeciwko tobie", "RIFTORYN_LUCEN_03_NIE_PRZECIWKO_TOBIE.md"),
+        ("z-tego-co-ocalalo", "Z tego, co ocalało", "opowiadania/lucen/RIFTORYN_LUCEN_01_Z_TEGO_CO_OCALALO.md"),
+        ("nauka-kontroli", "Nauka kontroli", "opowiadania/lucen/RIFTORYN_LUCEN_02_NAUKA_KONTROLI.md"),
+        ("nie-przeciwko-tobie", "Nie przeciwko tobie", "opowiadania/lucen/RIFTORYN_LUCEN_03_NIE_PRZECIWKO_TOBIE.md"),
     ]),
     ("taren", "Taren", "Iglica Zerath", "taren-lightning-tank.png", "Ciężar obowiązku", [
-        ("to-co-pozostalo", "To, co pozostało", "RIFTORYN_TAREN_01_TO_CO_POZOSTALO.md"),
-        ("cena-lojalnosci", "Cena lojalności", "RIFTORYN_TAREN_02_CENA_LOJALNOSCI.md"),
-        ("po-drugiej-stronie", "Po drugiej stronie", "RIFTORYN_TAREN_03_PO_DRUGIEJ_STRONIE.md"),
+        ("to-co-pozostalo", "To, co pozostało", "opowiadania/taren/RIFTORYN_TAREN_01_TO_CO_POZOSTALO.md"),
+        ("cena-lojalnosci", "Cena lojalności", "opowiadania/taren/RIFTORYN_TAREN_02_CENA_LOJALNOSCI.md"),
+        ("po-drugiej-stronie", "Po drugiej stronie", "opowiadania/taren/RIFTORYN_TAREN_03_PO_DRUGIEJ_STRONIE.md"),
     ]),
 ]
 
 
 def markdown_chapters(source, title):
     text = (ROOT / source).read_text(encoding="utf-8")
+    filename = Path(source).name
     pieces = re.split(r"(?m)^## (.+)$", text)
     if len(pieces) < 3 or not (pieces[0].splitlines()[0].endswith(f" — {title}") or pieces[0].splitlines()[0] == f"# {title}"):
         raise ValueError(f"Nie znaleziono tytułu lub rozdziałów w {source}")
@@ -69,12 +70,12 @@ def markdown_chapters(source, title):
         {
             "title": heading,
             "blocks": [{"text": (re.sub(r"\*(.*?)\*", r"\1", re.sub(r"\*\*(.*?)\*\*", r"\1", paragraph.strip()))
-                                  if source.startswith("RIFTORYN_RIAN_") else paragraph.strip())}
+                                  if filename.startswith("RIFTORYN_RIAN_") else paragraph.strip())}
                        for paragraph in re.split(r"\n\s*\n", body) if paragraph.strip()],
         }
         for heading, body in zip(pieces[1::2], pieces[2::2])
     ]
-    if source.startswith("RIFTORYN_MORRAK_"):
+    if filename.startswith("RIFTORYN_MORRAK_"):
         preamble = pieces[0].splitlines()
         metadata = [line.strip().strip("*") for line in preamble if "Archiwum Cienistego Portu" in line or line.startswith("*Zapis Azmira:")]
         chapters[0]["blocks"][:0] = [{"text": line} for line in metadata]
@@ -88,7 +89,7 @@ def markdown_chapters(source, title):
 def load_story(slug, title, source):
     story = {"id": slug, "title": title}
     if source.endswith(".md"):
-        if not source.startswith("RIFTORYN_RIAN_"):
+        if not Path(source).name.startswith("RIFTORYN_RIAN_"):
             story["draft"] = True
         story["chapters"] = markdown_chapters(source, title)
         return story

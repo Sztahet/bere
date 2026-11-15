@@ -38,7 +38,7 @@ class SailaStoryTests(unittest.TestCase):
         self.assertEqual(images, expected_images)
 
     def test_shared_content_and_illustrations(self):
-        self.check_shared_story('SailaStory', 'RIFTORYN_SAILA_MINIKSIAZKA_PROPOZYCJA.md', [1, 2, 3, 7, 4, 5, 6, 8])
+        self.check_shared_story('SailaStory', 'opowiadania/saila/RIFTORYN_SAILA_MINIKSIAZKA_PROPOZYCJA.md', [1, 2, 3, 7, 4, 5, 6, 8])
 
     def test_html_reads_unity_story_without_copying_it(self):
         page = (ROOT / 'saila-opowiesc.html').read_text(encoding='utf-8-sig')
@@ -52,13 +52,13 @@ class SailaStoryTests(unittest.TestCase):
         self.assertFalse(re.search(r'<section\s+class="chapter"', page))
 
     def test_awakening_shared_draft_and_approved_images(self):
-        self.check_shared_story('SailaAwakening', 'RIFTORYN_SAILA_ODBLOKOWANIE_OPOWIESC_DRAFT.md', [1, 2, 4, 5, 6, 7])
+        self.check_shared_story('SailaAwakening', 'opowiadania/saila/RIFTORYN_SAILA_ODBLOKOWANIE_OPOWIESC_DRAFT.md', [1, 2, 4, 5, 6, 7])
         page = (ROOT / 'saila-gdy-wieza-zamilkla.html').read_text(encoding='utf-8')
         self.assertIn('data-story="awakening"', page)
         self.assertIn('Propozycja literacka', page)
 
     def test_finale_shared_story_and_illustrations(self):
-        self.check_shared_story('SailaFinale', 'RIFTORYN_SAILA_TO_CZEGO_NIE_NAUCZYL_MNIE_RUVAN.md', list(range(1, 9)))
+        self.check_shared_story('SailaFinale', 'opowiadania/saila/RIFTORYN_SAILA_TO_CZEGO_NIE_NAUCZYL_MNIE_RUVAN.md', list(range(1, 9)))
         filename = 'saila-to-czego-nie-nauczyl-mnie-ruvan.html'
         self.assertIn(f'href="{filename}"', (ROOT / 'saila-gdy-wieza-zamilkla.html').read_text(encoding='utf-8'))
         self.assertIn('data-story="finale"', (ROOT / filename).read_text(encoding='utf-8'))

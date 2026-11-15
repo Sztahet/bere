@@ -2,7 +2,7 @@
 
 **Status:** szkic literacki; kanoniczna jest opowieść w czytniku `SailaStory/story.json`.
 **Miejsce w osi czasu:** Nivoren, późna jesień 11 ET.
-**Ilustracje:** osiem w czytniku. [Prompty do ilustracji](RIFTORYN_SAILA_PROMPTY_AKTUALIZACJA.md).
+**Ilustracje:** osiem w czytniku. [Prompty do ilustracji](../../RIFTORYN_SAILA_PROMPTY_AKTUALIZACJA.md).
 
 ---
 

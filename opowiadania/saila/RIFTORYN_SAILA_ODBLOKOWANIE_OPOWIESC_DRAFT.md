@@ -2,7 +2,7 @@
 
 **Status:** szkic literacki; kanoniczna jest opowieść w czytniku `SailaAwakening/story.json`. Notatki robocze poniżej opowieści pozostają osobne.
 **Miejsce w osi czasu:** Nivoren, środek zimy 11 ET, po [„Ciężarze kryształu”](RIFTORYN_SAILA_MINIKSIAZKA_PROPOZYCJA.md).
-**Ilustracje:** sześć w czytniku. [Prompty do retuszu zimowej scenerii](RIFTORYN_SAILA_PROMPTY_AKTUALIZACJA.md).
+**Ilustracje:** sześć w czytniku. [Prompty do retuszu zimowej scenerii](../../RIFTORYN_SAILA_PROMPTY_AKTUALIZACJA.md).
 
 ---
 

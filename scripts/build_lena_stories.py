@@ -6,9 +6,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 RESOURCES = ROOT / 'riftoryn-unity/Assets/Resources'
 STORIES = [
-    ('RIFTORYN_LENA_01_LUDZIE_SA_CIEKAWSI_OD_KRYSZTALOW.md', 'LenaStory1'),
-    ('RIFTORYN_LENA_02_IMIONA_KTORE_ZOSTAJA.md', 'LenaStory2'),
-    ('RIFTORYN_LENA_03_ZNAM_KOGOS_KTO_POTRAFI.md', 'LenaStory3'),
+    ('opowiadania/lena/RIFTORYN_LENA_01_LUDZIE_SA_CIEKAWSI_OD_KRYSZTALOW.md', 'LenaStory1'),
+    ('opowiadania/lena/RIFTORYN_LENA_02_IMIONA_KTORE_ZOSTAJA.md', 'LenaStory2'),
+    ('opowiadania/lena/RIFTORYN_LENA_03_ZNAM_KOGOS_KTO_POTRAFI.md', 'LenaStory3'),
 ]
 
 

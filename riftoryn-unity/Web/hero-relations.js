@@ -6,10 +6,10 @@
     ["adrien","lucen","Współpraca","work","Lucen doładowuje kryształy w warsztacie. Z czasem Adrien sam prosi go o pomoc i ceni jego precyzję.","RIFTORYN_RELACJE_I_PERSPEKTYWY.md"],
     ["adrien","miko","Przyjaźń i rywalizacja","family","Znają się od lat i przyjaźnią, choć Adrien zazdrości Miko i nie docenia jego cierpliwej pracy.","RIFTORYN_RELACJE_I_PERSPEKTYWY.md"],
     ["adrien","rian","Współpraca","work","Adrien poznaje Rian po jej zeznaniach i zabiega o nadzorowaną współpracę. Jej decyzje i historia pozostają własne.","RIFTORYN_RELACJE_I_PERSPEKTYWY.md"],
-    ["lena","lucen","Współpraca","work","Poznają się w warsztacie Adriena, gdzie wspólnie sprawdzają mocowania i bezpieczeństwo urządzeń. Później Lucen pomaga Lenie w próbach jej przyrządu.","RIFTORYN_LENA_03_ZNAM_KOGOS_KTO_POTRAFI.md"],
-    ["lena","kiran","Znajomość i współpraca","work","Znają się z wcześniejszej pracy przy wskaźniku. Kiran później pomaga Lenie sprawdzić przyrząd w warunkach terenowych.","RIFTORYN_LENA_03_ZNAM_KOGOS_KTO_POTRAFI.md"],
-    ["lena","miko","Wspólne próby","work","Znali się wcześniej przelotnie; później wspólnie pracują nad próbami urządzeń i sygnału.","RIFTORYN_LENA_03_ZNAM_KOGOS_KTO_POTRAFI.md"],
-    ["lena","rian","Wspólne próby","work","Rian analizuje projekt Leny i pomaga sprawdzić zachowanie przyrządu w sytuacji awarii.","RIFTORYN_LENA_03_ZNAM_KOGOS_KTO_POTRAFI.md"],
+    ["lena","lucen","Współpraca","work","Poznają się w warsztacie Adriena, gdzie wspólnie sprawdzają mocowania i bezpieczeństwo urządzeń. Później Lucen pomaga Lenie w próbach jej przyrządu.","opowiadania/lena/RIFTORYN_LENA_03_ZNAM_KOGOS_KTO_POTRAFI.md"],
+    ["lena","kiran","Znajomość i współpraca","work","Znają się z wcześniejszej pracy przy wskaźniku. Kiran później pomaga Lenie sprawdzić przyrząd w warunkach terenowych.","opowiadania/lena/RIFTORYN_LENA_03_ZNAM_KOGOS_KTO_POTRAFI.md"],
+    ["lena","miko","Wspólne próby","work","Znali się wcześniej przelotnie; później wspólnie pracują nad próbami urządzeń i sygnału.","opowiadania/lena/RIFTORYN_LENA_03_ZNAM_KOGOS_KTO_POTRAFI.md"],
+    ["lena","rian","Wspólne próby","work","Rian analizuje projekt Leny i pomaga sprawdzić zachowanie przyrządu w sytuacji awarii.","opowiadania/lena/RIFTORYN_LENA_03_ZNAM_KOGOS_KTO_POTRAFI.md"],
     ["taren","lucen","Ojciec i syn","family","Po śmierci Miry ich więź zostaje zerwana. Nie doszło jeszcze do obiecanego pojednania.","RIFTORYN_RELACJE_I_PERSPEKTYWY.md"],
     ["orien","lucen","Opiekun i uczeń","work","Orien przyjął Lucena w Aurelu, dał mu pracę i uczył go Światła.","RIFTORYN_RELACJE_I_PERSPEKTYWY.md"],
     ["orien","aria","Ojciec i córka","family","Orien jest ojcem Arii i nauczył ją podstaw Światła. Ich późniejsza relacja pozostaje do rozwinięcia.","RIFTORYN_ARIA_POSTAC_I_UMIEJETNOSCI.md"],
@@ -24,10 +24,10 @@
     ["niva","elira","Siostry","family","Po rozłące odnajdują się dzięki zapisom i świadectwu; później wspólnie pomagają podczas powodzi.","RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md"],
     ["liora","elira","Bliźniaczki","family","Rozdzielone w dzieciństwie bliźniaczki po latach uczą się na nowo swojej bliskości.","RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md"],
     ["azmir","vaelis","Mistrz i uczennica","work","Vaelis uczy się od Azmira pracy archiwistki i magii Ciemności, a zarazem poprawia jego błędy. Materiał do oceny.","RIFTORYN_AZMIR_POSTAC_I_TRYLOGIA_PROPOZYCJA.md"],
-    ["veda","piecarius","Zlecenie · szkic","work","Veda wynajmuje Piecariusa do ochrony wozu z częściami do pompy. Razem docierają do osady mimo napadu.","RIFTORYN_PIECARIUS_01_KSIEGA_BEZ_AUTORA.md"],
-    ["piecarius","ruvan","Spotkanie · szkic","contact","W Nivoren Ruvan przekazuje mu niepewny trop o podobnym znaku.","RIFTORYN_PIECARIUS_02_SLADY_W_POPIELE.md"],
-    ["piecarius","nocten","Spotkanie · szkic","contact","Nocten ogląda odrys znaku i zachęca Piecariusa do ostrożnej interpretacji.","RIFTORYN_PIECARIUS_02_SLADY_W_POPIELE.md"],
-    ["piecarius","orien","Spotkanie · szkic","contact","W Aurelu pracują przy latarni i rozmawiają o księdze po ojcu Piecariusa.","RIFTORYN_PIECARIUS_02_SLADY_W_POPIELE.md"]
+    ["veda","piecarius","Zlecenie · szkic","work","Veda wynajmuje Piecariusa do ochrony wozu z częściami do pompy. Razem docierają do osady mimo napadu.","opowiadania/piecarius/RIFTORYN_PIECARIUS_01_KSIEGA_BEZ_AUTORA.md"],
+    ["piecarius","ruvan","Spotkanie · szkic","contact","W Nivoren Ruvan przekazuje mu niepewny trop o podobnym znaku.","opowiadania/piecarius/RIFTORYN_PIECARIUS_02_SLADY_W_POPIELE.md"],
+    ["piecarius","nocten","Spotkanie · szkic","contact","Nocten ogląda odrys znaku i zachęca Piecariusa do ostrożnej interpretacji.","opowiadania/piecarius/RIFTORYN_PIECARIUS_02_SLADY_W_POPIELE.md"],
+    ["piecarius","orien","Spotkanie · szkic","contact","W Aurelu pracują przy latarni i rozmawiają o księdze po ojcu Piecariusa.","opowiadania/piecarius/RIFTORYN_PIECARIUS_02_SLADY_W_POPIELE.md"]
   ].map(([a,b,label,type,description,source])=>({a,b,label,type,description,source}));
   const palette={family:"#cf9eab",work:"#cfa96f",contact:"#899aa9",secret:"#ab88bd"};
   const heroes=storyRoster.slice().sort((a,b)=>a.name.localeCompare(b.name,"pl"));

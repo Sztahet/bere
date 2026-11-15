@@ -20,17 +20,17 @@ Saila dorosła i potrafi rzeczy, które zaskakują mistrza; jego doświadczenie 
 
 Opowieść Saily pokazuje Ruvana przez jej wspomnienia i obserwacje. Ewentualna opowieść Ruvana mogłaby odsłonić jego własne myśli lub trudność w oddaniu odpowiedzialności uczennicy; ich dokładna treść pozostaje do stworzenia. Nie należy przedstawiać domysłów Saily jako potwierdzonych myśli Ruvana.
 
-Źródła: [historia świata](world_history.md), [finał trylogii Saily](RIFTORYN_SAILA_TO_CZEGO_NIE_NAUCZYL_MNIE_RUVAN.md).
+Źródła: [historia świata](world_history.md), [finał trylogii Saily](opowiadania/saila/RIFTORYN_SAILA_TO_CZEGO_NIE_NAUCZYL_MNIE_RUVAN.md).
 
 ## Orien i Lucen w Aurelu
 
-W 4 PT około 46-letni Orien daje trzynastoletniemu Lucenowi nocleg i pracę przy szkle. Lucen zostaje w domu Oriena przy obserwatorium, uczy się od niego magii Światła i z jego pomocą przygotowuje się do Szkoły Magów. Aria, córka Oriena, powiadamia Tarena, że Lucen jest bezpieczny, i podaje adres. Dwa pierwsze listy Tarena wracają zamknięte. Trzeci Aria świadomie zatrzymuje. Złości ją, ile czasu Orien poświęca Lucenowi. Po latach wysyła list do Val Meris i przyznaje, co zrobiła. [Przybycie do Aurelu](RIFTORYN_LUCEN_01_Z_TEGO_CO_OCALALO.md#aurel-4-pt) · [Wersja Tarena](RIFTORYN_TAREN_01_TO_CO_POZOSTALO.md#iglica-zerath-po-wiadomości-z-aurelu)
+W 4 PT około 46-letni Orien daje trzynastoletniemu Lucenowi nocleg i pracę przy szkle. Lucen zostaje w domu Oriena przy obserwatorium, uczy się od niego magii Światła i z jego pomocą przygotowuje się do Szkoły Magów. Aria, córka Oriena, powiadamia Tarena, że Lucen jest bezpieczny, i podaje adres. Dwa pierwsze listy Tarena wracają zamknięte. Trzeci Aria świadomie zatrzymuje. Złości ją, ile czasu Orien poświęca Lucenowi. Po latach wysyła list do Val Meris i przyznaje, co zrobiła. [Przybycie do Aurelu](opowiadania/lucen/RIFTORYN_LUCEN_01_Z_TEGO_CO_OCALALO.md#aurel-4-pt) · [Wersja Tarena](opowiadania/taren/RIFTORYN_TAREN_01_TO_CO_POZOSTALO.md#iglica-zerath-po-wiadomości-z-aurelu)
 
 **Aria — miejsce w przyszłej obsadzie.** W 12 ET jest planowana jako Tank Ciemności. Z czasem odrzuca zasady Światłości, których oczekiwano od niej w domu, i z własnej decyzji wyjeżdża do Cienistego Portu, gdzie zaczyna działać z Neris. Zazdrość o więź Oriena z Lucenem wyjaśnia decyzję o ukryciu listu. Jej wyjazd ma własną przyczynę. Aria świadomie uczestniczy w ustawionych napadach Neris, pozując na skuteczną obrończynię konwojów; szczegóły tej współpracy oraz wiek Arii i termin wyjazdu pozostają do ustalenia. Łączy Światło i Ciemność w potężnych osłonach, wykorzystując nauki Oriena.
 
 ## Lucen, Pyrra, Zet i Saila w Val Meris
 
-W chronologii opowiadania [„Nauka kontroli”](RIFTORYN_LUCEN_02_NAUKA_KONTROLI.md) wspólny rocznik zaczyna naukę w 3 PT i kończy szósty rok wiosną 3 ET. Lucen ma na początku około 14 lat, Pyrra 13, Zet 12. W 3 ET mają odpowiednio około 20, 19 i 18 lat. Saila ma wówczas około 14 lat i spotyka Lucena jako uczennica pierwszego roku podczas prowadzonego przez niego pokazu. Dokładne urodziny i tryb przyjęcia tych bohaterów pozostają otwarte.
+W chronologii opowiadania [„Nauka kontroli”](opowiadania/lucen/RIFTORYN_LUCEN_02_NAUKA_KONTROLI.md) wspólny rocznik zaczyna naukę w 3 PT i kończy szósty rok wiosną 3 ET. Lucen ma na początku około 14 lat, Pyrra 13, Zet 12. W 3 ET mają odpowiednio około 20, 19 i 18 lat. Saila ma wówczas około 14 lat i spotyka Lucena jako uczennica pierwszego roku podczas prowadzonego przez niego pokazu. Dokładne urodziny i tryb przyjęcia tych bohaterów pozostają otwarte.
 
 **Pomysł na późniejszą scenę.** Saila pokazuje Lucenowi, swojemu dawnemu tutorowi, nowy efekt magii, którego Ruvan nie umie wyjaśnić. Lucen prosi ją o powtórzenie próby i zapisuje, co spodziewa się zmierzyć. Gdy odczyty rozchodzą się z tym, co oboje widzą, Saila opisuje, co poczuła podczas próby, a Lucen szuka założenia, które przeoczył. Miejsce, moment oraz wynik próby pozostają otwarte.
 
@@ -46,4 +46,4 @@ W chronologii opowiadania [„Nauka kontroli”](RIFTORYN_LUCEN_02_NAUKA_KONTROL
 
 **Łuk Adriena.** W pierwszej części dopuszcza nie dość sprawdzony sygnalizator; ostrzeżenie Leny zostało zlekceważone, a w wyniku awarii ginie przewodnik. W finale sam domaga się prób bezpieczeństwa kolejnego urządzenia. To zmiana w jego postępowaniu, która nie usuwa skutków wcześniejszej decyzji ani jego dumy, ekscentryczności i poczucia wyższości.
 
-Źródła: [kierunek trylogii Adriena](RIFTORYN_ADRIEN_TRYLOGIA_PROPOZYCJA.md), [część I](RIFTORYN_ADRIEN_01_SWIATLO_KTORE_WSKAZALO_DROGE.md), [część II](RIFTORYN_ADRIEN_02_KOBIETA_KTORA_WIEDZIALA.md), [część III](RIFTORYN_ADRIEN_03_WYNALAZEK_KTOREGO_NIE_PRZEWIDZIALEM.md), [historie bohaterów](RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md).
+Źródła: [kierunek trylogii Adriena](RIFTORYN_ADRIEN_TRYLOGIA_PROPOZYCJA.md), [część I](opowiadania/adrien/RIFTORYN_ADRIEN_01_SWIATLO_KTORE_WSKAZALO_DROGE.md), [część II](opowiadania/adrien/RIFTORYN_ADRIEN_02_KOBIETA_KTORA_WIEDZIALA.md), [część III](opowiadania/adrien/RIFTORYN_ADRIEN_03_WYNALAZEK_KTOREGO_NIE_PRZEWIDZIALEM.md), [historie bohaterów](RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md).

@@ -10,9 +10,9 @@ Jako przyszły bohater gry jest proponowany do roli **Specjalisty Ciemności**. 
 
 ## Trylogia
 
-1. [Imię, którego nie wypowiedział](RIFTORYN_MORRAK_01_IMIE_KTOREGO_NIE_WYPOWIEDZIAL.md)
-2. [Świadkowie milczenia](RIFTORYN_MORRAK_02_SWIADKOWIE_MILCZENIA.md)
-3. [Nazwisko na liście](RIFTORYN_MORRAK_03_NAZWISKO_NA_LISCIE.md)
+1. [Imię, którego nie wypowiedział](opowiadania/morrak/RIFTORYN_MORRAK_01_IMIE_KTOREGO_NIE_WYPOWIEDZIAL.md)
+2. [Świadkowie milczenia](opowiadania/morrak/RIFTORYN_MORRAK_02_SWIADKOWIE_MILCZENIA.md)
+3. [Nazwisko na liście](opowiadania/morrak/RIFTORYN_MORRAK_03_NAZWISKO_NA_LISCIE.md)
 
 Azmir prowadzi narrację w pierwszej osobie. Relacje świadków są ograniczone ich wiedzą. Kodeks gry przedstawia Morraka i Vesha jako dwa przydomki tej samej postaci; nie oznacza to, że Azmir potrafi samodzielnie dowieść tego ze zgromadzonych zeznań. Zgłoszenie po stronie Rady oraz sam Azmir są propozycjami tej trylogii, a nie zatwierdzeniem nowych faktów dla całego świata. Wydarzenia przy kopalni i na szlaku nawiązują do istniejących historii postaci.
 

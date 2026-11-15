@@ -1,6 +1,6 @@
 # Archiwum Riftoryn
 
-Otwórz [archiwum-riftoryn.html](../../archiwum-riftoryn.html), aby wybrać bohatera i czytać kolejne części. Strona działa również po otwarciu pliku z dysku. Korzysta z danych przygotowanych poleceniem `python scripts/build_story_archive.py`. Uruchom je po każdej zmianie opowieści. Saila i Adrien korzystają z plików JSON gry. Lucen i Taren korzystają ze szkiców Markdown w głównym katalogu repozytorium. Katalog opowieści i kolejność części znajdują się w skrypcie.
+Otwórz [archiwum-riftoryn.html](../../archiwum-riftoryn.html), aby wybrać bohatera i czytać kolejne części. Strona działa również po otwarciu pliku z dysku. Korzysta z danych przygotowanych poleceniem `python scripts/build_story_archive.py`. Rękopisy znajdują się w katalogu [opowiadania](../../opowiadania/README.md), a sposób synchronizacji zależy od bohatera. Katalog opowieści i kolejność części znajdują się w skrypcie.
 
 ## Opowieść Saily — wspólne źródło
 
@@ -30,7 +30,7 @@ Trzy kanoniczne opowieści są dostępne z karty Leny w kodeksie i w Archiwum Ri
 
 ## Robocze trylogie Noctena, Piecariusa i Morraka
 
-Trzy części każdego bohatera są dostępne z jego karty w kodeksie Unity oraz w Archiwum Riftoryn. Są oznaczone jako wersje robocze. Źródłem tekstu są pliki `RIFTORYN_NOCTEN_*.md`, `RIFTORYN_PIECARIUS_*.md` i `RIFTORYN_MORRAK_*.md`. Po zmianie tekstu uruchom `python scripts/build_draft_stories.py`, a następnie `python scripts/build_story_archive.py` i `python -m unittest discover -s tests`. Test sprawdza zgodność tekstów Unity i archiwum HTML. Dostępność w istniejącym buildzie Unity wymaga jego przebudowania.
+Trzy części każdego bohatera są dostępne z jego karty w kodeksie Unity oraz w Archiwum Riftoryn. Są oznaczone jako wersje robocze. Źródłem tekstu są rękopisy w `opowiadania/nocten`, `opowiadania/piecarius` i `opowiadania/morrak`. Po zmianie tekstu uruchom `python scripts/build_draft_stories.py`, a następnie `python scripts/build_story_archive.py` i `python -m unittest discover -s tests`. Test sprawdza zgodność tekstów Unity i archiwum HTML. Dostępność w istniejącym buildzie Unity wymaga jego przebudowania.
 
 ## Splotyt w grze
 

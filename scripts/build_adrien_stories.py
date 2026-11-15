@@ -6,7 +6,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 RESOURCES = ROOT / "riftoryn-unity" / "Assets" / "Resources"
 STORIES = [
-    ("RIFTORYN_ADRIEN_01_SWIATLO_KTORE_WSKAZALO_DROGE.md", "AdrienStory1", [
+    ("opowiadania/adrien/RIFTORYN_ADRIEN_01_SWIATLO_KTORE_WSKAZALO_DROGE.md", "AdrienStory1", [
         ("Dwie wąskie linie przecięły kurz.", "Adrien sprawdza sygnalizator na placu."),
         ("Wcześniej zajmowałem się piecami grzewczymi.", "Adrien pracuje nad piecem zasilanym kryształem."),
         ("Wskazała paznokciem mocowanie kryształu.", "Młoda Lena ostrzega Adriena o mocowaniu."),
@@ -16,7 +16,7 @@ STORIES = [
         ("Przez następne dwie godziny sprawdzaliśmy obciążenia", "Lena i Adrien sprawdzają dwa mocowania."),
         ("Wpisałem imię przewodnika z raportu.", "Adrien wpisuje imię przewodnika do notatnika."),
     ]),
-    ("RIFTORYN_ADRIEN_02_KOBIETA_KTORA_WIEDZIALA.md", "AdrienStory2", [
+    ("opowiadania/adrien/RIFTORYN_ADRIEN_02_KOBIETA_KTORA_WIEDZIALA.md", "AdrienStory2", [
         ("Rian siedziała po drugiej stronie stołu.", "Rian składa zeznania przed komisją."),
         ("Jedenastu minut nie zapisałem od razu.", "Adrien słucha zeznań Rian, szkicując mechanizm."),
         ("Rozłożyłem na stole własny szkic zabezpieczenia.", "Adrien pokazuje Rian szkic podczas pierwszej rozmowy."),
@@ -26,7 +26,7 @@ STORIES = [
         ("Poprosiłem dzisiaj o Lucena.", "Lucen i Adrien wspólnie badają konstrukcję."),
         ("Rian po odbyciu kary zaczęła uczyć", "Rian uczy młodych rzemieślników."),
     ]),
-    ("RIFTORYN_ADRIEN_03_WYNALAZEK_KTOREGO_NIE_PRZEWIDZIALEM.md", "AdrienStory3", [
+    ("opowiadania/adrien/RIFTORYN_ADRIEN_03_WYNALAZEK_KTOREGO_NIE_PRZEWIDZIALEM.md", "AdrienStory3", [
         ("Miko przyniósł mi urządzenie zawinięte w płaszcz", "Miko przynosi Adrienowi swój prototyp."),
         ("Wróciłem do jego notatek.", "Adrien i Miko porównują zapisy prób."),
         ("Przy piątym uruchomieniu wynik", "Adrien i Miko testują regulator w warsztacie."),
