@@ -10,7 +10,7 @@ Nikt nie musiał mi powiedzieć, co mam zobaczyć. Na dziedzińcu były setki os
 
 Azmir poprosił o osobne rozmowy z tymi, którzy byli najbliżej. Nie pokazywaliśmy im dawnych opisów. Każdego pytałam najpierw, co widział, a dopiero później, czy zna imię kandydata i skąd je zna. Kobieta z arkuszami potwierdziła, że mężczyzna ją osłonił. Strażnik opisał błysk i rękaw. Kandydat, który stał przy stole, pamiętał tylko cień i sposób, w jaki mężczyzna odsunął lampę od przejścia. Ich opisy nie były identyczne. Łączyły je jednak szczegóły, które w dawnych aktach pojawiały się przed tym, jak tłum zaczął mówić o Morraku.
 
-Przy liście widziałam Tarena i Lucena. Powitali się gestem, bez rozmowy. Nie dopisałam, co o sobie myśleli. Zapisuję zdarzenia, nie cudze wnętrza.
+Poprzedniego dnia, podczas zapisów, widziałam przy liście Tarena i Lucena. Powitali się gestem, bez rozmowy. Nie dopisałam, co o sobie myśleli. Zapisuję zdarzenia, nie cudze wnętrza.
 
 Po przesłuchaniu świadków Azmir zapytał mnie, dla kogo sporządzam drugi zestaw notatek. Powiedziałam mu, że dla Rady. Otworzyłam własną kopię i podałam mu raport. Zawierał informację o jego prywatnych zapisach, o mojej roli i o decyzji Rady, by nie ujawniać opisów zmian na ciałach. Przez lata przekazywałam Radzie więcej niż oficjalne odpisy, o których wiedział. Nie pominęłam też, że żaden z zapisów nie dowodzi, iż człowiek opisywany jako Morrak był jedną z osób zaginionych po Nocy.
 

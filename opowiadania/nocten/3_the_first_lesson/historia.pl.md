@@ -90,9 +90,9 @@ Zapisałem to w zwykłym notesie. Następnie wpisałem do drugiego: rękawice s�
 
 ## VI. Następna strona
 
-Noc przed rozpoczęciem właściwych rozgrywek Wielkich Igrzysk, 12 ET
+27 maja, 12 ET · wieczór w Val Meris
 
-Przeszedłem kwalifikacje i znalazłem się w składzie na rozgrywki. Człowiek, który wręczał mi potwierdzenie, pogratulował mi tak serdecznie, jakbyśmy znali się od lat. Ucieszyłbym się jeszcze bardziej, gdybym miał pewność, że naprawdę go nie znam.
+Dotarłem do Val Meris i przeczytałem warunki zgłoszenia. Jutro muszę zdecydować, którą stronę poprzeć, i oddać formularz przed zamknięciem zapisów. Sam przyjazd nie daje mi miejsca w składzie; najpierw musiałbym jeszcze przejść kwalifikacje.
 
 W wynajętym pokoju stół jest za mały na wszystkie moje zeszyty. Właścicielka zaproponowała drugi, ale wtedy musiałbym przestawić łóżko, a nie wiem, czy miałbym dość cierpliwości, by przesuwać je codziennie przed snem.
 

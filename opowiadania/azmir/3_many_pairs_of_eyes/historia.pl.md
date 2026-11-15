@@ -12,7 +12,7 @@ Na liście z 12 maja widniało imię Morrak. Urzędniczka wpisała je po tym, ja
 
 Miałem ze sobą karty obserwacyjne. Vaelis znała wcześniejsze opisy, ale nie pokazywaliśmy ich nowym świadkom. Poprosiłem, byśmy rozmawiali osobno z tymi, którzy stali najbliżej. Najpierw pytaliśmy każdego, co widział, zanim padło jakiekolwiek imię. Kobieta z arkuszami powiedziała, że mężczyzna ją osłonił. Strażnik opisał błysk i rękaw. Kandydat przy stole pamiętał cień i sposób, w jaki mężczyzna odsunął lampę. Ci, którzy przyszli później, rozpoznawali go po tym, co usłyszeli w tłumie; ich słowa zapisaliśmy osobno.
 
-Na dziedzińcu widziałem też Tarena i Lucena. Przy tablicy z listą podnieśli do siebie ręce na powitanie, nie rozmawiając. Później stali w różnych częściach dziedzińca. Nie wiedziałem, co to dla nich znaczyło, więc nie dopisałem niczego do protokołu.
+Poprzedniego dnia, podczas zapisów, widziałem też Tarena i Lucena. Przy tablicy z listą podnieśli do siebie ręce na powitanie, nie rozmawiając. Nie wiedziałem, co to dla nich znaczyło, więc nie dopisałem niczego do protokołu.
 
 Zebrałem opisy do porównania. W oficjalnej karcie skreśliłem zdanie, że świadectwa o Morraku mogą wynikać wyłącznie z plotki. Napisałem, że w Val Meris wiele osób widziało człowieka odpowiadającego części wcześniejszych opisów. Przy imieniu zostawiłem znak zapytania i odesłałem do zapisu rozmowy z urzędniczką.
 

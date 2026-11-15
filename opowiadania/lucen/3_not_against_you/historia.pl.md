@@ -178,7 +178,7 @@ Wtedy po raz pierwszy wyjąłem w pracy kartkę matki. Erna odczytała margines 
 
 Byłem jej wdzięczny, że wtedy zajęła się adresowaniem dwóch odpisów. Wyszedłem z pracy z oboma planami. Przeczytałem je w domu jeszcze raz i zacząłem pakować lampę.
 
-## Val Meris, zapisy do kwalifikacji, maj 12 ET
+## Val Meris, zapisy do kwalifikacji, 28 maja 12 ET
 
 Na stole do zapisów leżały dwa arkusze. Przeczytałem jeszcze raz warunki wspólnego nadzoru. Chcę, żeby ostrzeżenie wpisane przy jednej stacji można było sprawdzić w następnej krainie. Chcę też, żeby pracownik mógł zatrzymać urządzenie do kontroli i żeby po nim ktoś jeszcze przeczytał odczyty. Przy przeprawie miałem obok siebie doświadczonego przewodnika. W raporcie zmieścił się w jednej rubryce. Następnym razem może go przy mnie zabraknąć.
 
@@ -202,4 +202,4 @@ Za plecami miałem otwartą bramę. Wystarczyłoby przepuścić człowieka, któ
 
 Ojciec otworzył usta. Tym razem zostałem, aż podniósł rękę na powitanie. Podniosłem swoją.
 
-Przy wyjściu spojrzałem jeszcze na pokwitowanie. Atrament rozmazał się od potu. Jedną nazwę musiałem odtworzyć z pamięci. Wieczorem przepisałem obie do zeszytu, pod datą kwalifikacji.
+Przy wyjściu spojrzałem jeszcze na pokwitowanie. Atrament rozmazał się od potu. Jedną nazwę musiałem odtworzyć z pamięci. Wieczorem przepisałem obie do zeszytu, pod datą zapisów.

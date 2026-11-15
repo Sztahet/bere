@@ -68,7 +68,7 @@ Na porannej odprawie ktoś zapytał, czy uczestnicy z tej samej krainy mogą wyb
 
 Poszedłem w stronę stołów, dopóki z przeciwka nie ruszyły dwa wozy na dziedziniec. Wcześniej zrobiłbym miejsce tylko ludziom, których osobiście znam. Tym razem podszedłem do pierwszego woźnicy i zapytałem, którędy chce wyjechać, kiedy wyładuje skrzynie. Wskazał drzwi dokładnie tam, gdzie ustawiła się kolejka. Zawołałem człowieka z odprawy. Rozsunął ludzi i zostawił przejazd. Potem ktoś przyniósł pusty arkusz na zgłoszenia tego dnia. Widziałem z daleka, gdzie trzymają pióra. Postanowiłem najpierw sprawdzić tablicę.
 
-## Val Meris, zapisy do kwalifikacji, maj 12 ET
+## Val Meris, zapisy do kwalifikacji, 28 maja 12 ET
 
 Na dziedzińcu ludzie stali przy tablicy. Człowiek z młotkiem przybijał do niej listę. Po każdym uderzeniu odganiał czyjąś rękę od papieru. Poczekałem, aż wbije ostatni gwóźdź. Chciałem zobaczyć, jak zapisują krainę przy nazwie obozu, żebym mógł potem wypełnić swój arkusz tak samo.
 
