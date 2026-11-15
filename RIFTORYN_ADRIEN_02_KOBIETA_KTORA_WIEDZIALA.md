@@ -122,7 +122,7 @@ Nie wiem, ile ważyły moje argumenty wobec jej własnych zeznań i pozostałych
 
 Rian została skazana. Straciła majątek i uprawnienia do pracy przy cywilnych systemach obronnych. Przez kolejne lata miała pomagać w odbudowie pod nadzorem; próby uniwersyteckich prototypów stanowiły część uzgodnionych obowiązków. Nie otrzymała swobodnego dostępu do działających instalacji.
 
-25 000 selenów. Tyle wynosił majątek, który zdobyła na sabotażu i który przekazano Radzie Siedmiu Szlaków na pomoc potrzebującym rejonom. Za takie pieniądze mógłbym myśleć o budowie własnego źródła energii i instalacji do ładowania kryształów. Musiałbym jeszcze znaleźć miejsce i zdobyć pozwolenia, ale przynajmniej miałbym z czym pójść do uniwersytetu. Zapisałem tę kwotę. Przez chwilę zastanawiałem się, ile urządzeń można za nią zbudować, zanim przypomniałem sobie, skąd się wzięła.
+25 000 selenów. Tyle wynosił majątek, który zdobyła na sabotażu i który przekazano Radzie Siedmiu Szlaków na pomoc potrzebującym rejonom. Za takie pieniądze mógłbym myśleć o budowie własnego źródła energii i instalacji do ładowania kryształów. Musiałbym jeszcze znaleźć miejsce i zdobyć pozwolenia, ale przynajmniej miałbym z czym pójść do uniwersytetu. Zapisałem tę kwotę obok szkicu instalacji. Muszę kiedyś przygotować kosztorys.
 
 Rian zna warunki. Nie wie, kto wystąpił z propozycją ich uwzględnienia. Nie widzę powodu, żeby jej mówić. Mogłaby uznać, że oczekuję wdzięczności, a ja potrzebuję jej opinii o mechanizmach.
 
