@@ -122,7 +122,7 @@ Przyznam, że wolałbym, aby się pomylił. Przez chwilę miałem ochotę zabra�
 
 — Nie znam pańskiego ojca ani tego, czego pan potrzebuje — odparł. — Nie mogę zdecydować za pana.
 
-Opowiedziałem mu więc, jak ojciec czytał mi tę księgę i jak z czasem nauczyłem się rozpoznawać strony po śladach jego palców. Nie mówiłem o tym często. Ludzie pytali zwykle o zakon, a ja odpowiadałem o zakonie. Orien zapytał o ojca.
+Opowiedziałem mu więc, jak ojciec czytał mi tę księgę i jak z czasem nauczyłem się rozpoznawać strony po śladach jego palców. Nie mówiłem o tym często. Ludzie pytali zwykle o Bractwo Feniksa; opowiadałem im wtedy o księdze ojca. Orien zapytał o ojca.
 
 — Wiedział, skąd pochodzi? — spytał.
 

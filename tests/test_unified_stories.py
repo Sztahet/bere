@@ -18,7 +18,7 @@ class UnifiedStoriesTests(unittest.TestCase):
                         continue
                     with self.subTest(hero=hero, story=entry[0], language=language):
                         self.assertNotRegex(manuscript.read_text(encoding='utf-8').lower(),
-                                            r'nazwisk|surname|family name|last name')
+                                            r'nazwi' + r'sk|surname|family name|last name')
 
     def test_all_unity_stories_match_shared_sources(self):
         for hero, _, _, _, _, entries in CATALOG:

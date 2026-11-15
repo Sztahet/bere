@@ -1,4 +1,4 @@
-# Rycerz bez zakonu
+# Przysięga z księgi ojca
 
 *Piecarius — opowieść trzecia. Wersja do oceny.*
 
@@ -164,7 +164,7 @@ Przy stole urzędnik zapytał o imię i stronę zgłoszenia. Powiedziałem, że 
 
 — Przynależność? — spytał urzędnik.
 
-Położyłem dłoń na okładce księgi. Przez chwilę chciałem po prostu podać nazwę. Ale wtedy mogłaby wyglądać jak potwierdzona przynależność do działającego zakonu.
+Położyłem dłoń na okładce księgi. Przez chwilę chciałem po prostu podać nazwę. Ale wtedy mogłoby to zabrzmieć tak, jakbym potwierdzał, że Bractwo nadal działa.
 
 — Zapiszcie mnie jako Piecariusa. Przysięgę Feniksa złożyłem sam, według zasad w księdze po ojcu. Nie mam dokumentu pasowania ani potwierdzonej przynależności do Bractwa.
 

@@ -1,6 +1,6 @@
 # Opowiadania Riftoryn
 
-Każdy bohater ma swój katalog, a każda część osobny podkatalog. W nim edytuj `historia.pl.md`. Pierwszy nagłówek `#` to tytuł, a `##` rozpoczyna rozdział. Zachowuj puste linie między akapitami.
+Każdy bohater ma swój katalog, a każda część osobny podkatalog nazwany w formacie `1_<english_title>`: prefiks `1_`, a po nim angielski tytuł zapisany małymi literami i z podkreśleniami. W nim edytuj `historia.pl.md`. Pierwszy nagłówek `#` to tytuł, a `##` rozpoczyna rozdział. Zachowuj puste linie między akapitami.
 
 Opcjonalne tłumaczenie zapisz obok jako `historia.en.md`, w tym samym układzie. Dopóki go nie ma, czytnik nie oferuje angielskiej wersji. Nie wpisuj polskiego tekstu do angielskiego pliku jako zastępnika.
 

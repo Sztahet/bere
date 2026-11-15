@@ -8,19 +8,19 @@
     "stories": [
       {
         "id": "droga-ktorej-nie-bylo",
-        "folder": "opowiadania/nocten/droga-ktorej-nie-bylo",
+        "folder": "opowiadania/nocten/1_the_road_that_wasnt_there",
         "unity": "NoctenDraft1",
         "draft": true
       },
       {
         "id": "tym-razem-nie-wierz-noctenowi",
-        "folder": "opowiadania/nocten/tym-razem-nie-wierz-noctenowi",
+        "folder": "opowiadania/nocten/1_dont_believe_nocten_this_time",
         "unity": "NoctenDraft2",
         "draft": true
       },
       {
         "id": "pierwsza-lekcja",
-        "folder": "opowiadania/nocten/pierwsza-lekcja",
+        "folder": "opowiadania/nocten/1_the_first_lesson",
         "unity": "NoctenDraft3",
         "draft": true
       }
@@ -35,19 +35,19 @@
     "stories": [
       {
         "id": "ksiega-bez-autora",
-        "folder": "opowiadania/piecarius/ksiega-bez-autora",
+        "folder": "opowiadania/piecarius/1_the_book_without_an_author",
         "unity": "PiecariusDraft1",
         "draft": true
       },
       {
         "id": "slady-w-popiele",
-        "folder": "opowiadania/piecarius/slady-w-popiele",
+        "folder": "opowiadania/piecarius/1_traces_in_the_ashes",
         "unity": "PiecariusDraft2",
         "draft": true
       },
       {
-        "id": "rycerz-bez-zakonu",
-        "folder": "opowiadania/piecarius/rycerz-bez-zakonu",
+        "id": "przysiega-z-ksiegi-ojca",
+        "folder": "opowiadania/piecarius/1_a_vow_from_my_fathers_book",
         "unity": "PiecariusDraft3",
         "draft": true
       }
@@ -62,19 +62,19 @@
     "stories": [
       {
         "id": "imie-ktorego-nie-wypowiedzial",
-        "folder": "opowiadania/morrak/imie-ktorego-nie-wypowiedzial",
+        "folder": "opowiadania/morrak/1_the_name_he_didnt_speak",
         "unity": "MorrakDraft1",
         "draft": true
       },
       {
         "id": "swiadkowie-milczenia",
-        "folder": "opowiadania/morrak/swiadkowie-milczenia",
+        "folder": "opowiadania/morrak/1_witnesses_to_silence",
         "unity": "MorrakDraft2",
         "draft": true
       },
       {
-        "id": "nazwisko-na-liscie",
-        "folder": "opowiadania/morrak/nazwisko-na-liscie",
+        "id": "imie-na-liscie",
+        "folder": "opowiadania/morrak/1_a_name_on_the_list",
         "unity": "MorrakDraft3",
         "draft": true
       }
@@ -89,19 +89,19 @@
     "stories": [
       {
         "id": "ciezar-krysztalu",
-        "folder": "opowiadania/saila/ciezar-krysztalu",
+        "folder": "opowiadania/saila/1_the_burden_of_the_crystal",
         "unity": "SailaStory",
         "draft": false
       },
       {
         "id": "gdy-wieza-zamilkla",
-        "folder": "opowiadania/saila/gdy-wieza-zamilkla",
+        "folder": "opowiadania/saila/1_when_the_tower_fell_silent",
         "unity": "SailaAwakening",
         "draft": false
       },
       {
         "id": "to-czego-nie-nauczyl-mnie-ruvan",
-        "folder": "opowiadania/saila/to-czego-nie-nauczyl-mnie-ruvan",
+        "folder": "opowiadania/saila/1_what_ruvan_didnt_teach_me",
         "unity": "SailaFinale",
         "draft": false
       }
@@ -116,19 +116,19 @@
     "stories": [
       {
         "id": "swiatlo-ktore-wskazalo-droge",
-        "folder": "opowiadania/adrien/swiatlo-ktore-wskazalo-droge",
+        "folder": "opowiadania/adrien/1_the_light_that_showed_the_way",
         "unity": "AdrienStory1",
         "draft": false
       },
       {
         "id": "kobieta-ktora-wiedziala",
-        "folder": "opowiadania/adrien/kobieta-ktora-wiedziala",
+        "folder": "opowiadania/adrien/1_the_woman_who_knew",
         "unity": "AdrienStory2",
         "draft": false
       },
       {
         "id": "wynalazek-ktorego-nie-przewidzialem",
-        "folder": "opowiadania/adrien/wynalazek-ktorego-nie-przewidzialem",
+        "folder": "opowiadania/adrien/1_the_invention_i_didnt_foresee",
         "unity": "AdrienStory3",
         "draft": false
       }
@@ -143,19 +143,19 @@
     "stories": [
       {
         "id": "ludzie-sa-ciekawsi-od-krysztalow",
-        "folder": "opowiadania/lena/ludzie-sa-ciekawsi-od-krysztalow",
+        "folder": "opowiadania/lena/1_people_are_more_interesting_than_crystals",
         "unity": "LenaStory1",
         "draft": false
       },
       {
         "id": "imiona-ktore-zostaja",
-        "folder": "opowiadania/lena/imiona-ktore-zostaja",
+        "folder": "opowiadania/lena/1_names_that_remain",
         "unity": "LenaStory2",
         "draft": false
       },
       {
         "id": "znam-kogos-kto-potrafi",
-        "folder": "opowiadania/lena/znam-kogos-kto-potrafi",
+        "folder": "opowiadania/lena/1_i_know_someone_who_can",
         "unity": "LenaStory3",
         "draft": false
       }
@@ -170,19 +170,19 @@
     "stories": [
       {
         "id": "jedenascie-minut",
-        "folder": "opowiadania/rian/jedenascie-minut",
+        "folder": "opowiadania/rian/1_eleven_minutes",
         "unity": "RianStory1",
         "draft": false
       },
       {
         "id": "drugi-olowek",
-        "folder": "opowiadania/rian/drugi-olowek",
+        "folder": "opowiadania/rian/1_the_second_pencil",
         "unity": "RianStory2",
         "draft": false
       },
       {
         "id": "nie-przestalam",
-        "folder": "opowiadania/rian/nie-przestalam",
+        "folder": "opowiadania/rian/1_i_didnt_stop",
         "unity": "RianStory3",
         "draft": false
       }
@@ -197,19 +197,19 @@
     "stories": [
       {
         "id": "z-tego-co-ocalalo",
-        "folder": "opowiadania/lucen/z-tego-co-ocalalo",
+        "folder": "opowiadania/lucen/1_from_what_was_saved",
         "unity": "LucenStory1",
         "draft": true
       },
       {
         "id": "nauka-kontroli",
-        "folder": "opowiadania/lucen/nauka-kontroli",
+        "folder": "opowiadania/lucen/1_learning_control",
         "unity": "LucenStory2",
         "draft": true
       },
       {
         "id": "nie-przeciwko-tobie",
-        "folder": "opowiadania/lucen/nie-przeciwko-tobie",
+        "folder": "opowiadania/lucen/1_not_against_you",
         "unity": "LucenStory3",
         "draft": true
       }
@@ -224,19 +224,19 @@
     "stories": [
       {
         "id": "to-co-pozostalo",
-        "folder": "opowiadania/taren/to-co-pozostalo",
+        "folder": "opowiadania/taren/1_what_remained",
         "unity": "TarenStory1",
         "draft": true
       },
       {
         "id": "cena-lojalnosci",
-        "folder": "opowiadania/taren/cena-lojalnosci",
+        "folder": "opowiadania/taren/1_the_cost_of_loyalty",
         "unity": "TarenStory2",
         "draft": true
       },
       {
         "id": "po-drugiej-stronie",
-        "folder": "opowiadania/taren/po-drugiej-stronie",
+        "folder": "opowiadania/taren/1_on_the_other_side",
         "unity": "TarenStory3",
         "draft": true
       }

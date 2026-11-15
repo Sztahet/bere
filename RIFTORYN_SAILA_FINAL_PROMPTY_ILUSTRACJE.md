@@ -1,6 +1,6 @@
 # Saila — To, czego nie nauczył mnie Ruvan
 
-Osiem promptów do [trzeciej części opowieści](opowiadania/saila/to-czego-nie-nauczyl-mnie-ruvan/historia.pl.md). Każdy kadr generuj osobno. Wklej poniższy wspólny opis i prompt wybranej sceny. Dołącz model koncepcyjny każdej postaci widocznej w kadrze i jeden kadr z wcześniejszych części jako referencję stylu lub miejsca.
+Osiem promptów do [trzeciej części opowieści](opowiadania/saila/1_what_ruvan_didnt_teach_me/historia.pl.md). Każdy kadr generuj osobno. Wklej poniższy wspólny opis i prompt wybranej sceny. Dołącz model koncepcyjny każdej postaci widocznej w kadrze i jeden kadr z wcześniejszych części jako referencję stylu lub miejsca.
 
 > Pozioma ilustracja fantasy 3:2 do opowieści o Saili. Malarska faktura i światło jak w załączonych ilustracjach. Początek 12 ET, pierwsza odwilż w górskim Nivoren. Na przełęczy wciąż zalega śnieg. Niżej przy drodze leżą nierówne płaty, spod których wychodzą mokre kamienie i ciemna ziemia. Przy brzegach strumienia kruszy się lód, gałęzie są jeszcze nagie. Wnętrza z kamienia, starego drewna i wełny, z miejscowym światłem pieca albo lampy. Zachowaj twarze, proporcje i stroje z modeli koncepcyjnych. Saila ma krótkie srebrzysto-lawendowe włosy i cienki, zagojony ślad na lewym policzku w miejscu rozcięcia z drugiej części. Ruvan to starszy mężczyzna o siwych włosach, białej brodzie i pomarszczonych dłoniach. Jeśli widać naramiennik Saily, ustaw go po stronie wskazanej w opisie sceny, według anatomii postaci. Bez napisów, ramek i znaków wodnych.
 

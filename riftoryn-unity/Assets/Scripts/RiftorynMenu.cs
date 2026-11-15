@@ -113,7 +113,7 @@ public partial class RiftorynMenu : MonoBehaviour {
         switch(hero.id)
         {
             case "nocten": prefix="Nocten"; titles=new[]{"DROGA, KTÓREJ NIE BYŁO", "TYM RAZEM NIE WIERZ NOCTENOWI", "PIERWSZA LEKCJA"}; break;
-            case "piecarius": prefix="Piecarius"; titles=new[]{"KSIĘGA BEZ AUTORA", "ŚLADY W POPIELE", "RYCERZ BEZ ZAKONU"}; break;
+            case "piecarius": prefix="Piecarius"; titles=new[]{"KSIĘGA BEZ AUTORA", "ŚLADY W POPIELE", "PRZYSIĘGA Z KSIĘGI OJCA"}; break;
             case "morrak": prefix="Morrak"; titles=new[]{"IMIĘ, KTÓREGO NIE WYPOWIEDZIAŁ", "ŚWIADKOWIE MILCZENIA", "IMIĘ NA LIŚCIE"}; break;
             default: return;
         }
