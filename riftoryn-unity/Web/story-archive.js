@@ -14,6 +14,11 @@
   const roles = [["Tank", "tank"], ["Wsparcie", "support"], ["Specjalista", "specialist"], ["Przywoływacz", "summoner"]];
   const iconRoot = "riftoryn-unity/Assets/Resources/CodexIcons";
   let currentView;
+  const sailaCovers = {
+    "ciezar-krysztalu": {src: "riftoryn-unity/Assets/Resources/SailaStory/03.jpg", intro: "Przed zimą Saila utrzymuje w ruchu chłodnię, od której zależą zapasy przełęczy. Każde ładowanie kryształu kosztuje ją więcej sił."},
+    "gdy-wieza-zamilkla": {src: "riftoryn-unity/Assets/Resources/SailaAwakening/05.jpg", intro: "Alarm na górskim szlaku zastaje Sailę w trakcie obchodu. Wieża strzela, a obsługa jest zbyt daleko, by zdążyć z pomocą."},
+    "to-czego-nie-nauczyl-mnie-ruvan": {src: "riftoryn-unity/Assets/Resources/SailaFinale/04.jpg", intro: "Do Nivoren wracają pierwsze wozy z doliny. Gdy Ruvan przyjeżdża z wieściami o Igrzyskach, Saila musi zdecydować, ile chce wziąć na siebie."}
+  };
 
   function element(tag, text, className) {
     const node = document.createElement(tag);
@@ -90,6 +95,16 @@
       hero.name, `Część ${parts[index]}`, story.draft && "Wersja robocza"
     ].filter(Boolean).join(" · ");
     storyTitle.textContent = story.title;
+    const cover = hero.id === "saila" ? sailaCovers[story.id] : null;
+    const coverImage = document.getElementById("reader-cover");
+    coverImage.hidden = !cover;
+    if (cover) coverImage.src = cover.src;
+    else coverImage.removeAttribute("src");
+    document.getElementById("reader-heading").classList.toggle("has-cover", Boolean(cover));
+    const intro = document.getElementById("reader-intro");
+    intro.textContent = cover?.intro || "";
+    intro.hidden = !cover;
+    document.getElementById("reader-start").href = `${storyLink(hero, story)}/rozdzial-1`;
 
     chapterNav.replaceChildren(element("strong", "Spis treści"));
     storyBody.replaceChildren();
@@ -97,9 +112,12 @@
       const id = `rozdzial-${chapterIndex + 1}`;
       const section = element("section", null, "story-chapter");
       section.id = id;
+      const headingWrap = element("div", null, "chapter-heading");
+      headingWrap.append(element("span", `ROZDZIAŁ ${chapterIndex + 1}`, "chapter-number"));
       const heading = element("h2", chapter.title);
       heading.tabIndex = -1;
-      section.append(heading);
+      headingWrap.append(heading);
+      section.append(headingWrap);
       for (const block of chapter.blocks) {
         if (block.src) {
           const figure = element("figure");

@@ -73,16 +73,30 @@ h1 { font-size: clamp(2.65rem, 6.5vw, 5.2rem); line-height: 1.04; }
 .read-link { color: var(--accent); font-size: .8rem; white-space: nowrap; }
 .reader-bar { padding-block: 1.2rem; border-bottom: 1px solid var(--line); }
 .reader-bar span { color: var(--muted); font-size: .85rem; text-align: end; }
-.reader-heading { padding: clamp(2.4rem, 6vw, 4.2rem) 0 2.1rem; }
-.reader-meta { margin-bottom: .55rem; }
+.reader-heading { position: relative; isolation: isolate; overflow: hidden; display: flex; align-items: center; min-height: 290px; padding: 3.5rem clamp(1.5rem, 5vw, 4rem); margin: 2rem 0 4rem; background: radial-gradient(ellipse at 80% 20%, #423346 0, transparent 55%), #1b1825; border: 1px solid #77604b70; }
+.reader-heading.has-cover { min-height: clamp(480px, 67vh, 680px); }
+.reader-cover { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; z-index: -2; }
+.reader-heading::before { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(90deg, #13111df7 0%, #151320d9 38%, #15132030 100%), linear-gradient(0deg, #14121ee8, transparent 42%); }
+.reader-heading-content { max-width: 600px; }
+.reader-eyebrow, .chapter-number { color: var(--accent); font: 700 .66rem/1.5 var(--sans); letter-spacing: .17em; text-transform: uppercase; }
+.reader-meta { margin: 2.4rem 0 .65rem; color: #e5c58f; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
+.reader-heading h1 { text-wrap: balance; text-shadow: 0 2px 20px #0008; }
+.reader-intro { max-width: 29rem; margin-top: 1.5rem; color: #ddd1d6; font: 1.13rem/1.75 var(--serif); }
+.reader-start { display: inline-block; margin-top: 2rem; padding: 1rem 1.2rem; color: #17121b; background: #d5b47e; text-decoration: none; font: 700 .7rem/1.2 var(--sans); letter-spacing: .12em; }
+.reader-start span { margin-left: 1.3rem; }
 .reader-layout { display: grid; grid-template-columns: minmax(145px, 210px) minmax(0, 69ch); gap: clamp(2rem, 7vw, 6rem); align-items: start; }
 .reader-layout aside { position: sticky; top: 1.5rem; }
-.reader-layout nav { display: grid; gap: .6rem; padding-top: .8rem; border-top: 1px solid var(--line); font-size: .9rem; }
-.story-chapter { margin-bottom: 2.65rem; scroll-margin-top: 1.75rem; }
-.story-chapter h2 { font-size: clamp(1.55rem, 3.5vw, 2.125rem); line-height: 1.2; margin-bottom: 1.05rem; }
-.story-chapter p { font: 1.2rem/1.79 var(--serif); margin-bottom: 1em; }
-.story-chapter figure { margin: 1.7rem 0; }
-.story-chapter img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: .35rem; }
+.reader-layout nav { display: grid; gap: 0; padding-top: .8rem; border-top: 1px solid #9b7956; font-size: .9rem; }
+.reader-layout nav strong { margin-bottom: .5rem; color: var(--accent); letter-spacing: .08em; text-transform: uppercase; font-size: .7rem; }
+.reader-layout nav a { padding: .7rem 0; border-bottom: 1px solid #ffffff12; color: #cfc2c8; text-decoration: none; }
+.reader-layout nav a:hover { color: var(--accent); }
+.story-chapter { margin-bottom: 5.5rem; scroll-margin-top: 1.75rem; }
+.chapter-heading { text-align: center; padding: .5rem 0 2rem; }
+.chapter-heading::after { content: '✦'; color: #ad8b62; font-size: .8rem; }
+.story-chapter h2 { font-size: clamp(2rem, 3.5vw, 3rem); line-height: 1.2; margin: .8rem 0; }
+.story-chapter p { font: 1.2rem/1.9 var(--serif); color: #e4dada; margin-bottom: 1.3em; }
+.story-chapter figure { margin: 3rem 0 3.5rem; }
+.story-chapter img { display: block; width: 100%; height: auto; border: 1px solid #9e896650; box-shadow: 0 20px 60px #0007; }
 .reader-end { display: flex; justify-content: space-between; gap: 1.2rem; padding: 1.25rem 0 3rem; border-top: 1px solid var(--line); font-size: .92rem; }
 .reader-end a:last-child { text-align: end; }
 
@@ -92,5 +106,10 @@ h1 { font-size: clamp(2.65rem, 6.5vw, 5.2rem); line-height: 1.04; }
   .reader-layout { display: block; }
   .reader-layout aside { position: static; margin-bottom: 1.6rem; }
   .reader-layout nav { padding-bottom: .85rem; border-bottom: 1px solid var(--line); }
+  .reader-heading { margin: 1rem 0 2.5rem; padding: 2rem 1.4rem; }
+  .reader-heading.has-cover { min-height: 460px; }
+  .reader-heading.has-cover::before { background: linear-gradient(90deg, #13111df2, #15132080), linear-gradient(0deg, #14121ef5, transparent 60%); }
+  .reader-cover { object-position: 60% center; }
+  .reader-meta { margin-top: 1.6rem; }
   .story-chapter p { font-size: 1.13rem; }
 }
