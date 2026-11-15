@@ -26,7 +26,7 @@ Opowieść Saily pokazuje Ruvana przez jej wspomnienia i obserwacje. Ewentualna 
 
 W 4 PT około 46-letni Orien daje trzynastoletniemu Lucenowi nocleg i pracę przy szkle. Lucen zostaje w domu Oriena przy obserwatorium, uczy się od niego magii Światła i z jego pomocą przygotowuje się do Szkoły Magów. Aria, córka Oriena, powiadamia Tarena, że Lucen jest bezpieczny, i podaje adres. Dwa pierwsze listy Tarena wracają zamknięte. Trzeci Aria świadomie zatrzymuje. Złości ją, ile czasu Orien poświęca Lucenowi. Po latach wysyła list do Val Meris i przyznaje, co zrobiła. [Przybycie do Aurelu](RIFTORYN_LUCEN_01_Z_TEGO_CO_OCALALO.md#aurel-4-pt) · [Wersja Tarena](RIFTORYN_TAREN_01_TO_CO_POZOSTALO.md#iglica-zerath-po-wiadomości-z-aurelu)
 
-**Aria — miejsce w przyszłej obsadzie.** W 12 ET ma być Wsparciem Ciemności. Z czasem odrzuca zasady Światłości, których oczekiwano od niej w domu, i z własnej decyzji wyjeżdża do Cienistego Portu, gdzie zaczyna działać z Neris. Zazdrość o więź Oriena z Lucenem wyjaśnia decyzję o ukryciu listu. Jej wyjazd ma własną przyczynę. Wiek Arii, termin wyjazdu i charakter współpracy z Neris pozostają do ustalenia.
+**Aria — miejsce w przyszłej obsadzie.** W 12 ET jest planowana jako Tank Ciemności. Z czasem odrzuca zasady Światłości, których oczekiwano od niej w domu, i z własnej decyzji wyjeżdża do Cienistego Portu, gdzie zaczyna działać z Neris. Zazdrość o więź Oriena z Lucenem wyjaśnia decyzję o ukryciu listu. Jej wyjazd ma własną przyczynę. Aria świadomie uczestniczy w ustawionych napadach Neris, pozując na skuteczną obrończynię konwojów; szczegóły tej współpracy oraz wiek Arii i termin wyjazdu pozostają do ustalenia. Łączy Światło i Ciemność w potężnych osłonach, wykorzystując nauki Oriena.
 
 ## Lucen, Pyrra, Zet i Saila w Val Meris
 

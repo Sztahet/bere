@@ -6,7 +6,7 @@ Azmir jest starszym magiem Ciemności z Cienistego Portu. W 12 ET ma około 68 l
 
 W praktyce używa Ciemności do niewielkich, precyzyjnych osłon. Woli chronić ludzi i dokumenty niż robić wrażenie. Osłona wymaga uwagi, a podział koncentracji może ją osłabić. To opis jego praktyki, nie nowa ogólna reguła dla całego żywiołu.
 
-Jako przyszły bohater gry jest proponowany do roli **Wsparcia Ciemności**. Mechanika, wygląd, portret, statystyki i ewentualny udział w Igrzyskach pozostają do opracowania. Znajomość relacji o Morraku nie oznacza, że zna jego pochodzenie, motywy ani prawdziwe imię.
+Jako przyszły bohater gry jest proponowany do roli **Specjalisty Ciemności**. Mechanika, wygląd, portret, statystyki i ewentualny udział w Igrzyskach pozostają do opracowania. Znajomość relacji o Morraku nie oznacza, że zna jego pochodzenie, motywy ani prawdziwe imię.
 
 ## Trylogia
 

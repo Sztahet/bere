@@ -306,10 +306,10 @@
     {
       "id": "aria",
       "name": "Aria",
-      "role": "Wsparcie",
+      "role": "Tank",
       "element": "Ciemność",
-      "desc": "Córka Oriena z Aurelu, która wybrała własną drogę w Vesper. Jej pochodzenie pozostaje częścią jej historii.",
-      "descEn": "Orien's daughter from Aurel, who chose her own path in Vesper. Her origins remain part of her story.",
+      "desc": "Córka Oriena z Aurelu, która w Vesper chroni konwoje, łącząc Światło i Ciemność w potężnych osłonach.",
+      "descEn": "Orien's daughter from Aurel protects convoys in Vesper, combining Light and Darkness in powerful shields.",
       "comingSoon": true
     },
     {
@@ -324,7 +324,7 @@
     {
       "id": "azmir",
       "name": "Azmir",
-      "role": "Wsparcie",
+      "role": "Specjalista",
       "element": "Ciemność",
       "desc": "Starszy mag Ciemności i archiwista z Cienistego Portu. Zbiera świadectwa, wiedząc, jak wiele może zmienić jedno zapisane słowo.",
       "descEn": "An elder Darkness mage and archivist from the Shadow Port, collecting testimony with care for the people behind it.",
