@@ -14,7 +14,7 @@ Dawniej zabezpieczał górskie konwoje i magazyny na Białym Przesmyku, gdzie je
 Taren zabezpieczał ekipy Iglicy Zerath. Po śmierci żony Miry w niewyjaśnionej awarii syn Lucen obwinił go i uciekł do Aurelu. Taren chce reprezentować samodzielność krain, przekonany, że Zerath otrzymuje zbyt mało w zamian za swój wkład do sieci. Lucen zgłasza się po stronie wspólnego nadzoru.
 
 ### Thora — Natura
-Po latach odbudowy zniszczonych pól w Korzennej Przystani nauczyła się, że dobry obrońca zostaje z tyłu, dopóki inni nie są bezpieczni. W Próbach walczy o zaopatrzenie dla doliny i środki na odbudowę gospodarstw, z pierwszeństwem dla irygacji i infrastruktury żywnościowej.
+Po latach odbudowy zniszczonych pól w Korzennej Przystani nauczyła się, że dobry obrońca zostaje z tyłu, dopóki inni nie są bezpieczni. W Próbach walczy o zaopatrzenie dla doliny i środki na odbudowę gospodarstw, z pierwszeństwem dla irygacji i infrastruktury żywnościowej. Nie szuka konfliktu, lecz wobec oczekiwań wspólnoty czuje się zobowiązana reprezentować jej interesy. Przed Wielkimi Igrzyskami ćwiczy w Val Meris współpracę przy wieżach, z którymi ma niewielkie doświadczenie.
 
 ### Brom — Ziemia
 Jako strażnik wyrobisk Kamiennego Progu chronił robotników podczas zawaleń i pomagał utrzymywać przejścia. Do Prób dołącza w imieniu górników zabiegających o bezpieczniejszy szlak, niezależne inspekcje i udział pracowników w ocenie zagrożeń.
@@ -164,7 +164,7 @@ Thora odbudowywała pola Korzennej Przystani razem z ludźmi, którzy po trudnyc
 
 Podczas burzy woda ruszyła w stronę osady. Thora skierowała mieszkańców na most i została za nimi, wzmacniając tarczę korzeniami, kiedy nurt zaczął poruszać kamienie przeprawy. Zyskała chwilę potrzebną ostatnim osobom do przejścia. Po powodzi sama potrzebowała pomocy przy zabezpieczeniu drogi i przyjęła ją, choć najchętniej wróciłaby od razu do pracy.
 
-W Próbach walczy o irygację i odbudowę gospodarstw. Jej siła daje innym czas, ale Thora coraz lepiej rozumie, że obrończyni również może polegać na wspólnocie.
+W Próbach walczy o irygację i odbudowę gospodarstw. Wielu mieszkańców Verdan nie chce konfliktu, ale obawia się, że bez reprezentacji potrzeby doliny zostaną pominięte; ich oczekiwania sprawiają, że Thora czuje się zobowiązana wystąpić. W Val Meris obserwuje przygotowania i wykorzystuje okazje do ćwiczenia współpracy pod ostrzałem wież, z którymi wcześniej rzadko miała do czynienia. Jej siła daje innym czas, ale Thora coraz lepiej rozumie, że obrończyni również może polegać na wspólnocie.
 
 ### Brom — 51 lat
 
@@ -692,7 +692,7 @@ Thora helped families rebuild Rooted Landing's fields after difficult seasons. S
 
 When a storm sent water toward the settlement, she directed residents across a bridge and stayed behind, reinforcing her shield with roots as the current shifted its stones. Her effort bought the last people time to cross. Afterwards she needed help securing the road and accepted it, though she wanted to return to work at once.
 
-In the Trials she seeks irrigation and farm restoration. Her strength gives others time, but she is learning that a defender can rely on the community too.
+In the Trials she seeks irrigation and farm restoration. Many people in Verdan dislike conflict but fear their valley's needs will be ignored without representation; their expectations make Thora feel obliged to take part. In Val Meris she watches the preparations and takes opportunities to practice cooperating under tower fire, which she has rarely faced before. Her strength gives others time, but she is learning that a defender can rely on the community too.
 
 ### Brom — 51
 

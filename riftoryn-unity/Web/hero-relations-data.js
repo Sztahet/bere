@@ -25,6 +25,8 @@ const RIFTORYN_RELACJE = [
     ["veda","piecarius","Zlecenie · szkic","work","Veda wynajmuje Piecariusa do ochrony wozu z częściami do pompy. Razem docierają do osady mimo napadu.","opowiadania/piecarius/ksiega-bez-autora/historia.pl.md"],
     ["piecarius","lumen","Spotkanie · szkic","work","Lumen przygotowuje odpis ze spisu i kieruje Piecariusa do swojej matki, Demy.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"],
     ["piecarius","elira","Spotkanie · szkic","work","Elira pomaga Orienowi przy latarni, gdy Piecarius pyta o znak Feniksa.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"],
+    ["piecarius","thora","Wspólny trening · szkic","work","Poznają się w zawodach w Val Meris i wspólnie osłaniają ładunek oraz rannego towarzysza.","opowiadania/piecarius/rycerz-bez-zakonu/historia.pl.md"],
+    ["piecarius","aria","Spotkanie · szkic","contact","Przy zapisach do Igrzysk rozmawiają o przysiędze Piecariusa i odpowiedzialności za cudze zaufanie.","opowiadania/piecarius/rycerz-bez-zakonu/historia.pl.md"],
     ["piecarius","ruvan","Spotkanie · szkic","contact","W Nivoren Ruvan przekazuje mu niepewny trop o podobnym znaku.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"],
     ["piecarius","nocten","Spotkanie · szkic","contact","Nocten ogląda odrys znaku i zachęca Piecariusa do ostrożnej interpretacji.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"],
     ["piecarius","orien","Spotkanie · szkic","contact","W Aurelu pracują przy latarni i rozmawiają o księdze po ojcu Piecariusa.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"]

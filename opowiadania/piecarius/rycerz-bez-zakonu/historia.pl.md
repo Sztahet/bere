@@ -82,7 +82,7 @@ Kiedy przyszła jego córka, pomogłem im podnieść torbę. Bered chciał ją n
 
 Przy punkcie zgłoszeń kandydatka stojąca przede mną pytała urzędnika, czy może przynieść brakujący dokument następnego dnia. Urzędnik wyjaśniał, że bez niego nie przyjmie pełnego zgłoszenia. Nie podnosił głosu, ale kolejka rosła, a ludzie za mną zaczynali się niecierpliwić.
 
-Kobieta spojrzała na moją pierś.
+Kandydatka przedstawiła się jako Aria. Kiedy zerknęła na znak na mojej piersi, podsunąłem jej go nieco bliżej.
 
 — Ładny znak — powiedziała. — Znam go?
 
@@ -108,11 +108,23 @@ Mogłem powiedzieć o księdze. Mogłem też wymówić nazwę jakiegoś odległe
 
 Kobieta uniosła brwi.
 
-— Więc nie jest pan rycerzem.
+— A mimo to pan się tak przedstawia.
 
 — Żyję według zasad opisanych w księdze Bractwa.
 
-— To nie to samo.
+Aria przyjrzała mi się uważnie.
+
+— Mój ojciec przez lata chronił ludzi na szlakach. Widziałam, jak łatwo zaufać komuś przez sam tytuł. Dlatego pytam, co on dla pana znaczy.
+
+Wspomniała, że jej ojcem jest Orien z Aurelu. Opowiedziałem o latarni, przy której pomagałem mu trzymać szkło. Uśmiechnęła się na wieść, że zatrzymał pracę z powodu szczerby.
+
+— To do niego podobne — powiedziała. — Lubi wiedzieć, czy osłona wytrzyma.
+
+Mogłem opowiedzieć o księdze, ale ktoś znów poruszył się za nami w kolejce. Zamiast tego poprawiłem pas.
+
+— To nie jest krótka odpowiedź — przyznałem.
+
+— Nie musi mi pan jej dawać teraz.
 
 Urzędnik podał jej formularz i zaprosił do stołu. Nie zrobiła niczego złego. Zadała zwykłe pytania, na które odpowiadałem z coraz większą trudnością.
 
@@ -124,23 +136,31 @@ Drugą część zabrałem ze sobą.
 
 Następnego ranka, zanim wróciłem do urzędu, wystartowałem w miejscowych zawodach. Organizatorzy ogłosili zadanie przed rozpoczęciem: przejść wyznaczony odcinek i utrzymać osłonę nad drewnianym ładunkiem, podczas gdy ćwiczebne urządzenia strzelały w jego stronę. Miejsce w klasyfikacji zależało od czasu i stanu ładunku.
 
-Opłaciłem wpisowe miejscowymi drobnymi i stanąłem obok dwojga zawodników, których poznałem dopiero przy losowaniu. Jeśli zajmiemy dobre miejsce, po odliczeniu wpisowego zostanie mi około pół selena. Jedna z moich towarzyszek, Meva, spytała, czy umiem przyjąć wskazówki.
+Opłaciłem wpisowe miejscowymi drobnymi i stanąłem obok dwojga zawodników, których poznałem dopiero przy losowaniu. Jeśli zajmiemy dobre miejsce, po odliczeniu wpisowego zostanie mi około pół selena. Jedna z moich towarzyszek przedstawiła się jako Thora. Miała szeroką tarczę i przyglądała się wieżom ćwiczebnym tak uważnie, jakbym ja oglądał znak wyryty w starym kamieniu.
+
+— Nie pracowałaś wcześniej z wieżami? — spytałem.
+
+— Niewiele. W Verdan częściej osłaniałam pola i ludzi przed burzą albo wodą. Tu zapisuję się, gdzie tylko pozwolą mi poćwiczyć z drużyną.
+
+Powiedziała, że ludzie w jej dolinie woleliby zająć się uprawami niż sporem. Oczekiwali jednak, że będzie bronić ich spraw na Igrzyskach, a ona nie umiała ich zostawić bez wsparcia. Przyjechała więc wcześniej, oglądała przygotowania i uczyła się współpracy pod ostrzałem. Nagroda nie była powodem jej udziału.
+
+Thora spytała, czy umiem przyjąć wskazówki.
 
 — Droga pani, jestem rycerzem. Słuchanie to jedna z moich najważniejszych cnót.
 
 — Dobrze. To kiedy powiem „w lewo”, nie idź w prawo.
 
-Osłonę utrzymałem przez pierwszą połowę trasy. Przy zakręcie pocisk uderzył w jej krawędź. Poczułem, że chcę odpowiedzieć silniejszym płomieniem, ale przypomniałem sobie plandekę wozu Vedy. Zamiast tego przycisnąłem ogień niżej i poprosiłem Mevę o zasłonięcie drugiej strony. Zdążyła wystawić tarczę. Potem kazała mi iść w lewo. Posłuchałem.
+Osłonę utrzymałem przez pierwszą połowę trasy. Przy zakręcie pocisk uderzył w jej krawędź. Poczułem, że chcę odpowiedzieć silniejszym płomieniem, ale przypomniałem sobie plandekę wozu Vedy. Zamiast tego przycisnąłem ogień niżej i poprosiłem Thorę o zasłonięcie drugiej strony. Zdążyła wystawić tarczę. Potem kazała mi iść w lewo. Posłuchałem.
 
-Trzeci zawodnik prowadził ładunek na pasach. Tuż przed metą poślizgnął się, a jeden z pasów owinął mu się wokół nogi. Meva krzyknęła, żebym trzymał osłonę, i przykucnęła przy nim. Mogłem pociągnąć skrzynię dalej; linia mety była o kilka kroków. Zamiast tego osłoniłem ich oboje, choć oznaczało to zatrzymanie i utratę czasu. Meva rozcięła pas, a nasz towarzysz uparł się, że przejdzie resztę sam. Doszedł, opierając się na moim ramieniu.
+Trzeci zawodnik prowadził ładunek na pasach. Tuż przed metą poślizgnął się, a jeden z pasów owinął mu się wokół nogi. Thora krzyknęła, żebym trzymał osłonę, i przykucnęła przy nim. Mogłem pociągnąć skrzynię dalej; linia mety była o kilka kroków. Zamiast tego osłoniłem ich oboje, choć oznaczało to zatrzymanie i utratę czasu. Thora rozcięła pas, a nasz towarzysz uparł się, że przejdzie resztę sam. Doszedł, opierając się na moim ramieniu.
 
-Skończyliśmy na miejscu premiowanym, choć przez postój straciliśmy szansę na wyższą nagrodę. Po odjęciu wpisowego wychodziłem na plus o jakieś pół selena za parę godzin roboty. Z mojej części dołożyłem się do opatrzenia nogi naszego towarzysza; zostanie mi mniej na odpis i posiłek, ale zadbaliśmy o niego, zanim ruszył do domu. Meva przyjęła moje podziękowanie za osłonienie skrzyni, po czym zapytała, czy zwykle słucham dopiero za drugim razem.
+Skończyliśmy na miejscu premiowanym, choć przez postój straciliśmy szansę na wyższą nagrodę. Po odjęciu wpisowego wychodziłem na plus o jakieś pół selena za parę godzin roboty. Z mojej części dołożyłem się do opatrzenia nogi naszego towarzysza; zostanie mi mniej na odpis i posiłek, ale zadbaliśmy o niego, zanim ruszył do domu. Thora przyjęła moje podziękowanie za osłonienie skrzyni, po czym zapytała, czy zwykle słucham dopiero za drugim razem.
 
 — Tylko wtedy, kiedy pierwsza wskazówka wymaga głębszego namysłu.
 
 — Na szczęście druga nie wymagała.
 
-Po południu wróciłem do punktu zgłoszeń. Kobieta, która poprzedniego dnia pytała o moje pasowanie, właśnie wychodziła z dokumentem w dłoni. Zatrzymałem ją.
+Po południu wróciłem do punktu zgłoszeń. Aria właśnie wychodziła z dokumentem w dłoni. Zatrzymałem ją.
 
 — Miała pani rację co do jednej rzeczy. Nikt mnie nie pasował.
 
@@ -150,9 +170,9 @@ Po południu wróciłem do punktu zgłoszeń. Kobieta, która poprzedniego dnia 
 
 Przyjrzała mi się, ale nie odsunęła z drogi.
 
-— Nadal nie wiem, czy nazwałabym pana rycerzem.
+— Nie mnie decydować, jak ma się pan nazywać. Ale ludzie będą ufać temu, co pan obiecuje.
 
-— Ma pani do tego prawo.
+— Wiem. I chcę na to zaufanie zasłużyć.
 
 — A pan zamierza się zgłosić?
 
@@ -176,7 +196,7 @@ Od dawna częściej nocowałem przy cudzych drogach niż pod jej dachami. Znałe
 
 Urzędnik zanotował mój wybór i wyjaśnił, że przed finałami trzeba będzie zarejestrować ustalenia dotyczące reprezentacji. Przy informacji o przysiędze zaznaczył, że pochodzi ode mnie. Potem podał termin kwalifikacji. Nie obiecał mi miejsca w składzie i ja też nie mogłem go sobie obiecać.
 
-Na zewnątrz odnalazłem kobietę z kolejki. Chciałem jej powiedzieć, że zostałem przyjęty na listę. Zobaczyłem jednak, że rozmawia z kimś o własnym formularzu, i nie przerywałem. Wiedziałem już, co chcę powiedzieć o sobie, jeśli ktoś zapyta ponownie.
+Na zewnątrz odnalazłem Arię. Chciałem jej powiedzieć, że zostałem przyjęty na listę. Zobaczyłem jednak, że rozmawia z kimś o własnym formularzu, i nie przerywałem. Wiedziałem już, co chcę powiedzieć o sobie, jeśli ktoś zapyta ponownie.
 
 ## Przysięga
 
@@ -186,7 +206,7 @@ Otworzyłem księgę na stronie, którą znałem najlepiej. Ojciec czytał ją n
 
 Dziś lepiej rozumiałem, ile cierpliwości kosztowała go taka odpowiedź.
 
-Kobieta w kolejce mogła mieć rację. Nie miałem mistrza ani dokumentu potwierdzającego pasowanie. Nie znałem drogi do siedziby, a jeśli ktoś wciąż pamiętał imiona dawnych rycerzy, jeszcze go nie spotkałem.
+Pytania Arii były słuszne. Nie miałem mistrza ani dokumentu potwierdzającego pasowanie. Nie znałem drogi do siedziby, a jeśli ktoś wciąż pamiętał imiona dawnych rycerzy, jeszcze go nie spotkałem.
 
 Miałem księgę. Miałem własną przysięgę. Wciąż bolało mnie, że nie potrafię powiedzieć, kto przede mną nazywał siebie rycerzem Feniksa. Nie wiedziałem jeszcze, czy kiedyś zdołam odpowiedzieć na to pytanie. Mogłem jednak dotrzymać przysięgi bez przypisywania sobie pasowania, którego nie było.
 
