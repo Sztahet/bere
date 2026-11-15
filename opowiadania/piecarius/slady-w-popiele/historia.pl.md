@@ -8,13 +8,13 @@ Pierwszy raz sprzedałem płaszcz dla kartki papieru. Drugi raz zamierzałem spr
 
 — Wierzę. Nadal wolę pieniądze.
 
-Zażądała równowartości 0,24 selena w miejscowych drobnych. Zapytałem, czy jeśli zaczekam na miejscu, aż skończy inną pracę, i sam przepiszę fragment pod jej okiem, wystarczy 0,16.
+Za kopię chciała prawie ćwierć selena w miejscowych drobnych. Zapytałem, czy zapłacę mniej, jeśli zaczekam, aż skończy inną pracę, i sam przepiszę fragment pod jej okiem.
 
 — Sam pan przepisywał ostatnio mapę? — spytała, oglądając moją kartę ze znakiem.
 
 — Owszem.
 
-— To wolę przeczytać ją jeszcze raz. Za 0,2 zrobię odpis ja.
+— To wolę przeczytać ją jeszcze raz. Zrobię odpis sama i trochę panu opuszczę.
 
 Zgodziłem się. Różnica mogła opłacić prosty posiłek, a ja nie zamierzałem spierać się z kobietą o cenę jej pracy przez całe przedpołudnie.
 
@@ -34,9 +34,9 @@ Przyjrzała mi się z takim zaciekawieniem, że uznałem za potrzebne wyjaśnien
 
 — A dobry odpis?
 
-Położyłem brakujący drobny selar na stole.
+Położyłem brakujący drobniak na stole.
 
-Zapłaciłem równowartość 0,2 selena w miejscowych drobnych. Kartka zawierała spis przedmiotów wyniesionych z dawnej sali spotkań: dwa lichtarze, skrzynię, zasłonę i żelazną płytkę z wyobrażeniem ptaka. Ptak mógł być feniksem. Mógł też być czymś innym; kopista nie narysował go ani nie zanotował barwy.
+Zapłaciłem miejscowymi drobnymi. Kartka zawierała spis przedmiotów wyniesionych z dawnej sali spotkań: dwa lichtarze, skrzynię, zasłonę i żelazną płytkę z wyobrażeniem ptaka. Ptak mógł być feniksem. Mógł też być czymś innym; kopista nie narysował go ani nie zanotował barwy.
 
 — Czy płyta jeszcze istnieje? — spytałem.
 
@@ -56,7 +56,7 @@ Odłożyłem. Wysłuchała mojej historii, nie przerywając pracy. O płycie nie
 
 — Zanim moja córka zaczęła pracować w archiwum.
 
-Spojrzałem na siwe pasmo przy jej skroni i zrozumiałem, że pytanie o dokładny rok byłoby bezczelnością. Zapytałem więc, skąd przyjeżdżał handlarz. Podała nazwę drogi ku Nivoren i ostrzegła, że pamięć bywa bardziej podobna do ciasta, niż człowiek chciałby przyznać: łatwo wcisnąć w nią palec i zostawić ślad.
+Spojrzałem na siwe pasmo przy jej skroni i zrozumiałem, że pytanie o dokładny rok byłoby bezczelnością. Zapytałem więc, skąd przyjeżdżał handlarz. Podała nazwę drogi ku Nivoren i przypomniała sobie jego imię: Tovin. Przywoził towary do jej matki, a zapisy dostaw mogły zostać w starych rachunkach piekarni. Obiecała sprawdzić, gdy znajdzie czas. Ostrzegła też, że pamięć bywa bardziej podobna do ciasta, niż człowiek chciałby przyznać: łatwo wcisnąć w nią palec i zostawić ślad.
 
 Kiedy odchodziłem, dała mi kawałek ciepłego chleba. Przyjąłem go bez ceremonii, bo nie jadłem od rana. Wyjąłem za to jedyną gruszkę z sakwy i położyłem na stole.
 
@@ -138,11 +138,11 @@ Nie próbował mnie pocieszać zapewnieniem, że na pewno znajdę odpowiedź. Ws
 
 — To już brzmi jak obietnica.
 
-Uśmiechnął się, a ja dostrzegłem, że choć skończył pracę przy szkle, wciąż ogląda moje dłonie.
+Kiedy wcześniej dopasowywaliśmy zacisk, szkło stuknęło o metal. Teraz Orien wziął osłonę pod światło, po czym spojrzał na moje dłonie.
 
 — Skaleczyłem się? — spytałem.
 
-— Nie. Miałem nadzieję, że nie. Szkło przy dolnej krawędzi jest wyszczerbione.
+— Mam nadzieję, że nie. Widzę szczerbę przy dolnej krawędzi; mogła powstać, kiedy zacisk uderzył o szkło.
 
 Odprowadziłem go do latarni, gdzie pomocnica sprawdzała nowy zacisk. Pokazała nam osłonę z bliska. Na brzegu rzeczywiście brakowało małego kawałka. Orien poprosił, by oznaczyła uszkodzenie przed ponownym montażem; najpierw chciał sprawdzić, czy szkło można bezpiecznie wykorzystać.
 
@@ -158,11 +158,11 @@ Kiedy odchodziłem od obserwatorium, zobaczyłem Oriena rozmawiającego z pomocn
 
 ## Droga na północ
 
-W Nivoren pomyliłem dwa rozwidlenia. Na drugim dołączyła do mnie przewodniczka, która prowadziła niewielką grupę do schronienia przy szlaku. Powiedziała, że mogę iść z nimi, jeśli nie będę ich przyspieszał.
+Do Nivoren ruszyłem drogą wskazaną przez Demę, licząc, że odnajdę kogoś, kto pamięta handlarza. Po sprzedaży płaszcza kupiłem gruby, używany kaftan; nie wyglądał rycersko, ale pod zbroją trzymał ciepło. Mimo to w Nivoren pomyliłem dwa rozwidlenia. Na drugim dołączyła do mnie przewodniczka, która prowadziła niewielką grupę do schronienia przy szlaku. Powiedziała, że mogę iść z nimi, jeśli nie będę ich przyspieszał.
 
 — Nie mam takiego zamiaru — odparłem.
 
-— Mówił pan, że spieszy się pan do człowieka, który podobno widział znak.
+— Mówił pan, że spieszy się pan szukać handlarza i jego znaku.
 
 — Nadal się spieszę. Nie znaczy to, że wy będziecie zmuszeni dotrzymać mi kroku.
 
@@ -196,7 +196,7 @@ Wskazał mi trasę na mapie. Kiedy poprosiłem, by zaznaczył miejsce dokładnie
 
 Ruvan oddał mi odrys. Zapytał, czy mam dość pieniędzy na podróż i powrót. Powiedziałem, że mam. Nie wyjaśniłem, iż liczę na pracę po drodze.
 
-Wieczorem przewodniczka poprosiła mnie o pomoc przy drewnie. Ruvan odłożył płytkę do naprawy i przyszedł z nami. Opowiedziałem im fragment wiersza o rycerzu, który wrócił na zgliszcza rodzinnego domu. Przewodniczka stwierdziła, że rycerz powinien był najpierw spytać sąsiadów, czy ktoś nie potrzebuje pomocy. Ruvan przyznał jej rację.
+Wieczorem przewodniczka poprosiła mnie o pomoc przy drewnie. Ruvan odłożył narzędzie, którym poprawiał mocowanie skrzyni, i przyszedł z nami. Opowiedziałem im fragment wiersza o rycerzu, który wrócił na zgliszcza rodzinnego domu. Przewodniczka stwierdziła, że rycerz powinien był najpierw spytać sąsiadów, czy ktoś nie potrzebuje pomocy. Ruvan przyznał jej rację.
 
 Nie doszedłem do najładniejszej strofy.
 
@@ -210,17 +210,17 @@ Nie widziałem pierwszego płomienia. Zobaczyłem, jak kobieta odskakuje od drew
 
 — Mój syn! — zawołała.
 
-Chłopiec wybiegł do drzwi, lecz belka osunęła się między nim a wyjściem. Mogłem obejść budynek albo próbować odsunąć ją od frontu. Ogień zajął już jedną ścianę.
+Chłopiec dobiegł od środka do drzwi, lecz belka osunęła się między nim a wyjściem. Zatrzymałem się na zewnątrz, przy progu; matka stała kilka kroków za mną. Ogień zajął już jedną ścianę.
 
-Sięgnąłem po moc, żeby odciągnąć płomień od wejścia. Gorąco posłuchało, przesuwając się ku pustemu placowi, ale wiatr pchał je z powrotem. Utrzymałem przejście tylko na tyle szerokie, by matka chłopca odsunęła się z drogi. Belka była za ciężka do podniesienia jedną ręką.
+Sięgnąłem po moc, żeby odciągnąć płomień od wejścia. Gorąco posłuchało, przesuwając się ku pustemu placowi, ale wiatr pchał je z powrotem. Pod belką została szczelina. Trzymałem ogień z dala od progu i kazałem chłopcu się położyć, lecz nie miał dość miejsca, żeby przecisnąć się z drugiej strony.
 
-— Za mną! — krzyknąłem do niego.
+— Pod belką! — krzyknąłem do niego.
 
-Nie ruszył. Dopiero kiedy nazwałem go chłopcem od narzędzia i obiecałem, że matka na niego czeka, wczołgał się pod stół. Przesunęliśmy go razem ku otworowi pod belką. Gdy wyszedł, dym był tak gęsty, że nie widziałem jego butów.
+Nie ruszył. Kiedy nazwałem go chłopcem od narzędzia i powiedziałem, że matka czeka tuż za mną, ukląkł przy belce. Zaczepił o nią ramieniem. Puściłem płomień na tyle, by wsunąć rękę przez szczelinę i odciągnąć kawałek leżącej przy nim deski. Wtedy przeczołgał się do progu, a matka odciągnęła go na plac.
 
 Wtedy dostrzegłem metal przy odsłoniętej skrzyni. Płytka wisiała na rzemyku przy narożniku. Na jej powierzchni był zarys skrzydeł.
 
-Zrobiłem krok w jej stronę. Belka zatrzeszczała. Za mną matka krzyczała, że w szopie są jeszcze dwie osoby, które pomagają ratować drewno. Mogłem sięgnąć po płytkę. Musiałbym jednak cofnąć się pod dach i zostawić przejście bez osłony.
+Zrobiłem krok w jej stronę. Belka zatrzeszczała. Matka krzyknęła, że w sąsiedniej szopie zostały dwie osoby. Przez otwarte drzwi widziałem, jak jedna próbuje przesunąć stos drewna, żeby druga mogła wyjść. Mogłem wpełznąć pod belkę i sięgnąć po płytkę, ale wtedy nie utrzymałbym ognia z dala od wejścia do szopy.
 
 Wycofałem się.
 
@@ -230,7 +230,7 @@ Długo siedziałem na kamieniu. Chłopiec oddał matce znaleziony młotek. Był 
 
 ## Co pozostało
 
-Rano rozgrzebaliśmy to, co wystygło. Metalowej płytki nie znalazłem. Kobieta z sąsiedztwa powiedziała, że czasem do skrzyni przywiązywano znaki handlarzy; jej zdaniem ten przedstawiał koguta. Nie była pewna, bo widziała go po raz ostatni kilka zim temu.
+Rano rozgrzebaliśmy to, co wystygło. Skrzynię zasypały belki i kamienie ze ściany. Nie mogliśmy odsunąć ich bez narzędzi ani wejść pod resztę dachu, który wciąż groził zawaleniem. Płytka mogła tam zostać; nie znalazłem jej w gruzie, do którego zdołaliśmy bezpiecznie dotrzeć. Kobieta z sąsiedztwa powiedziała, że czasem do skrzyni przywiązywano znaki handlarzy; jej zdaniem ten przedstawiał koguta. Nie była pewna, bo widziała go po raz ostatni kilka zim temu.
 
 — Proszę mi powiedzieć szczerze — zwróciłem się do niej. — Czy coś pani mówi nazwa Bractwo Feniksa?
 
@@ -252,13 +252,13 @@ Chłopiec podszedł z kubkiem wody. Rękaw miał przepalony przy łokciu.
 
 Przez całą noc układałem odpowiedź tak, żeby brzmiała godnie. W świetle poranka zabrzmiałaby jednak jak mowa wygłoszona do człowieka, który pyta o godzinę.
 
-— Bo byłeś w środku — powiedziałem.
+— Bo ty byłeś w magazynie, a potem inni zostali w szopie. Nie mogłem zostawić ich samych.
 
 Skinął głową, jakby to wystarczyło. Mnie nie wystarczyło tak łatwo. Kiedy wracałem drogą, wciąż myślałem o odległości między moją dłonią a skrzynią. O jednym kroku. O tym, jak niewiele brakowało.
 
 Nie wiedziałem, co było na płytce. Nie wiedziałem, czy rzemyk należał do handlarza opisanego przez Demę. Straciłem przedmiot, którego mogłem nawet nigdy nie rozpoznać. Została mi wiadomość o handlarzu, ale żadnego przedmiotu, który mógłbym pokazać kolejnemu świadkowi. Zamiast obiecywanej odpowiedzi musiałem teraz pytać, kto widział płytkę przed pożarem i czy pamięta, dokąd handlarz pojechał dalej.
 
-W gospodzie pokazałem Noctenowi, starszemu magowi, odrys ze słupa. Poprosiłem, by spojrzał bez moich wyjaśnień. Obejrzał kartę, a potem herb na mojej piersi.
+W gospodzie usłyszałem, jak starszy mag pyta gospodarza o dawne zapisy przewozów. Przedstawił się jako Nocten i szukał wiadomości o dokumentach z okolicy. Pokazałem mu odrys ze słupa i poprosiłem, by spojrzał bez moich wyjaśnień. Obejrzał kartę, a potem herb na mojej piersi.
 
 — Nie znam tego znaku na tyle, by powiedzieć, co oznaczał na kamieniu — odparł. — Kto go odrysował?
 

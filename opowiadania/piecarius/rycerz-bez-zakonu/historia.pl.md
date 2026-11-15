@@ -2,7 +2,7 @@
 
 ## Właściwe powitanie
 
-Powitanie ćwiczyłem przed wypolerowaną pokrywką od garnka. Miałem trzy wersje.
+Powitanie ćwiczyłem przed wypolerowaną pokrywką od garnka. Miałem trzy wersje. Kiedy podniosłem rękę do ukłonu, pod rękawem odezwało się oparzenie po pożarze. Opuściłem ją i znów zobaczyłem skrzynię pod belką. Przez kilka nocy wracałem po tę płytkę we śnie; za każdym razem budziłem się, zanim zdążyłem jej dotknąć.
 
 Pierwsza była zbyt długa. W drugiej dwa razy użyłem słowa „zaszczyt”. Trzecia podobała mi się najbardziej, ale kiedy podniosłem podbródek przy słowie „Feniks”, zobaczyłem w pokrywce kawałek gruszki utknięty w brodzie.
 
@@ -28,7 +28,7 @@ Podałem jej kosz, bo trudno wejść do pokoju z koszem i rozmawiać przez próg
 
 Położyła monety na stole. Jedna była mniejsza, lokalna; drugą mógłbym opłacić część podróży powrotnej, gdybym znalazł niedrogie miejsce przy cudzym wozie. Przez chwilę cieszyłem się pieniędzmi, które od początku należały do mnie.
 
-W 12 ET w mieście przybywało gości. Wielkie Igrzyska ściągały ludzi z krain, do których nie dotarłbym przez lata. Jedni przyjechali oglądać zawody, inni pracować przy dostawach, sprzedawać jedzenie albo spotkać krewnych. Rozważałem zgłoszenie do kwalifikacji. Na razie zatrudniłem się do ochrony transportu materiałów i jeszcze nie zdecydowałem, czy stanę przed urzędnikiem jako kandydat. Nie brakowało mi doświadczenia z lokalnych zawodów sportowych: startowałem w nich dosyć często, bo lubiłem rywalizację, a nagroda potrafiła szybko uzupełnić sakiewkę. Przegrana też była możliwa. Te zawody nie rozstrzygały spraw traktatowych i nie zapewniały miejsca na Wielkich Igrzyskach.
+Tego lata w Val Meris miały rozpocząć się Wielkie Igrzyska. Już teraz przybywali ludzie z krain, do których nie dotarłbym przez lata. Jedni przyjechali oglądać zawody, inni pracować przy dostawach, sprzedawać jedzenie albo spotkać krewnych. Rozważałem zgłoszenie do kwalifikacji. Na razie zatrudniłem się do ochrony transportu materiałów i jeszcze nie zdecydowałem, czy stanę przed urzędnikiem jako kandydat. W miejscowych zawodach startowałem dosyć często: lubiłem rywalizację, a nagroda potrafiła szybko uzupełnić sakiewkę. Bywało też, że wracałem bez niej. Za drogę z Nivoren, noclegi i naprawy zapłaciłem większością tego, co zarobiłem przy wozach; Tovin i stare rachunki piekarni były jeszcze daleko.
 
 Miałem w sakwie księgę ojca, odrys znaku ze słupa i dwie gruszki. Jedną zostawiłem gospodyni w podziękowaniu za monety. Tym razem nie odmówiła.
 
@@ -122,17 +122,19 @@ Drugą część zabrałem ze sobą.
 
 ## Nagroda i imię
 
-Następnego ranka, zanim wróciłem do urzędu, wystartowałem w miejscowych zawodach sportowych. Organizatorzy ogłosili zadanie przed rozpoczęciem: przejść wyznaczony odcinek i utrzymać osłonę nad drewnianym ładunkiem, podczas gdy ćwiczebne urządzenia strzelały w jego stronę. Miejsce w klasyfikacji zależało od czasu i stanu ładunku. Nie była to Próba rozstrzygająca spór między krainami.
+Następnego ranka, zanim wróciłem do urzędu, wystartowałem w miejscowych zawodach. Organizatorzy ogłosili zadanie przed rozpoczęciem: przejść wyznaczony odcinek i utrzymać osłonę nad drewnianym ładunkiem, podczas gdy ćwiczebne urządzenia strzelały w jego stronę. Miejsce w klasyfikacji zależało od czasu i stanu ładunku.
 
-Wpisowe wynosiło równowartość 0,2 selena, a mój udział w nagrodzie za miejsce drużyny — jeśli je zdobędziemy — 0,8 selena. Opłaciłem wpisowe miejscowymi drobnymi i stanąłem obok dwojga zawodników, których poznałem dopiero przy losowaniu. Jedna z nich, Meva, spytała, czy umiem przyjąć wskazówki.
+Opłaciłem wpisowe miejscowymi drobnymi i stanąłem obok dwojga zawodników, których poznałem dopiero przy losowaniu. Jeśli zajmiemy dobre miejsce, po odliczeniu wpisowego zostanie mi około pół selena. Jedna z moich towarzyszek, Meva, spytała, czy umiem przyjąć wskazówki.
 
 — Droga pani, jestem rycerzem. Słuchanie to jedna z moich najważniejszych cnót.
 
 — Dobrze. To kiedy powiem „w lewo”, nie idź w prawo.
 
-Osłonę utrzymałem przez pierwszą połowę trasy. Przy zakręcie pocisk uderzył w jej krawędź, a ja wzmocniłem płomień zbyt gwałtownie. Żar przesunął się ku drewnianej skrzyni; cofnąłem go, ale przez chwilę druga strona została odkryta. Meva zdążyła zasłonić ładunek własną tarczą. Potem rzeczywiście kazała mi iść w lewo. Posłuchałem.
+Osłonę utrzymałem przez pierwszą połowę trasy. Przy zakręcie pocisk uderzył w jej krawędź. Poczułem, że chcę odpowiedzieć silniejszym płomieniem, ale przypomniałem sobie plandekę wozu Vedy. Zamiast tego przycisnąłem ogień niżej i poprosiłem Mevę o zasłonięcie drugiej strony. Zdążyła wystawić tarczę. Potem kazała mi iść w lewo. Posłuchałem.
 
-Skończyliśmy na miejscu premiowanym. Odebrałem obiecaną nagrodę w miejscowych drobnych. Po odjęciu wpisowego wychodziłem na plus o jakieś pół selena za parę godzin roboty. Jeszcze musiałem zapłacić za jedzenie i ewentualną naprawę sprzętu, ale powinno wystarczyć na następny odpis i porządny posiłek. Meva przyjęła moje podziękowanie za osłonienie skrzyni, po czym zapytała, czy zwykle słucham dopiero za drugim razem.
+Trzeci zawodnik prowadził ładunek na pasach. Tuż przed metą poślizgnął się, a jeden z pasów owinął mu się wokół nogi. Meva krzyknęła, żebym trzymał osłonę, i przykucnęła przy nim. Mogłem pociągnąć skrzynię dalej; linia mety była o kilka kroków. Zamiast tego osłoniłem ich oboje, choć oznaczało to zatrzymanie i utratę czasu. Meva rozcięła pas, a nasz towarzysz uparł się, że przejdzie resztę sam. Doszedł, opierając się na moim ramieniu.
+
+Skończyliśmy na miejscu premiowanym, choć przez postój straciliśmy szansę na wyższą nagrodę. Po odjęciu wpisowego wychodziłem na plus o jakieś pół selena za parę godzin roboty. Z mojej części dołożyłem się do opatrzenia nogi naszego towarzysza; zostanie mi mniej na odpis i posiłek, ale mógł wrócić do domu bez dalszego kuśtykania. Meva przyjęła moje podziękowanie za osłonienie skrzyni, po czym zapytała, czy zwykle słucham dopiero za drugim razem.
 
 — Tylko wtedy, kiedy pierwsza wskazówka wymaga głębszego namysłu.
 
@@ -158,7 +160,7 @@ Tym razem odpowiedziałem, zanim zdążyłem ułożyć piękniejsze zdanie.
 
 — Tak.
 
-Przy stole urzędnik zapytał o imię i stronę zgłoszenia. Powiedziałem, że wybieram wariant wspólnego nadzoru Rady: zależało mi, by przy niebezpiecznych urządzeniach obowiązywały uzgodnione zabezpieczenia. Nie znałem odpowiedzi na każdy spór o władzę ani o przyczynę dawnych awarii. Wybór strony był warunkiem zgłoszenia i moją własną decyzją, nie dowodem na stanowisko Bractwa.
+Przy stole urzędnik zapytał o imię i stronę zgłoszenia. Powiedziałem, że wybieram wariant wspólnego nadzoru Rady. Pamiętałem, jak Orien odłożył wyszczerbione szkło, choć wszyscy czekali na latarnię, i jak łatwo sam omal nie przypaliłem plandeki Vedy. Chciałem, by przy niebezpiecznych urządzeniach obowiązywały uzgodnione zabezpieczenia. Nie znałem odpowiedzi na każdy spór o władzę ani o przyczynę dawnych awarii. Wybór strony był moją własną decyzją, nie stanowiskiem Bractwa.
 
 — Przynależność? — spytał urzędnik.
 
@@ -180,7 +182,7 @@ Dziś lepiej rozumiałem, ile cierpliwości kosztowała go taka odpowiedź.
 
 Kobieta w kolejce mogła mieć rację. Nie miałem mistrza ani dokumentu potwierdzającego pasowanie. Nie znałem drogi do siedziby, a jeśli ktoś wciąż pamiętał imiona dawnych rycerzy, jeszcze go nie spotkałem.
 
-Miałem księgę. Miałem własną przysięgę. I wiedziałem, że mogę dotrzymać tej przysięgi bez przypisywania sobie pasowania, którego nie było.
+Miałem księgę. Miałem własną przysięgę. Wciąż bolało mnie, że nie potrafię powiedzieć, kto przede mną nazywał siebie rycerzem Feniksa. Nie wiedziałem jeszcze, czy kiedyś zdołam odpowiedzieć na to pytanie. Mogłem jednak dotrzymać przysięgi bez przypisywania sobie pasowania, którego nie było.
 
 Nadal chciałem odpowiedzi. Chciałem wiedzieć, skąd ojciec wziął księgę i czy człowiek z pieśni Bereda znał ten sam znak. Nie uznałem za dowód tego, co chciałem usłyszeć. Jutro mogłem poszukać kogoś z rodziny dawnego przewoźnika, a później stawić się na kwalifikacje. Wyniku nie znałem.
 

@@ -10,7 +10,7 @@ Wszedłem do jego gospody w Kharum w wypolerowanej zbroi. Na piersi miałem znak
 
 — Piecarius — oznajmiłem. — Rycerz Bractwa Feniksa. Stawiam się zgodnie z umową, by przejąć pieczę nad pańskim transportem.
 
-Przy stole siedziała kobieta, która właśnie odgryzała gruszkę. Miała siwe włosy związane z tyłu i brązowe dłonie człowieka, który więcej czasu spędza na drodze niż przy stole. Spojrzała na mnie, potem na oberżystę.
+Przy stole siedziała kobieta, która właśnie obgryzała gruszkę. Miała siwe włosy związane z tyłu i brązowe dłonie człowieka, który więcej czasu spędza na drodze niż przy stole. Spojrzała na mnie, potem na oberżystę.
 
 — To on?
 
@@ -26,7 +26,7 @@ Oberżysta potwierdził skinieniem. Wtedy kobieta odłożyła gruszkę.
 
 — A gruszek pan nie dostanie, dopóki nie zobaczę, jak pan pracuje.
 
-Oberżysta skrył uśmiech za kubkiem. Za pokój ze śniadaniem zapłaciłem miejscowymi drobnymi równowartość 0,12 selena, po czym wyszedłem obejrzeć wóz.
+Oberżysta skrył uśmiech za kubkiem. Zapłaciłem za pokój ze śniadaniem miejscowymi drobnymi, po czym wyszedłem obejrzeć wóz.
 
 Veda miała dwa konie i pomocnika o imieniu Len. Młodzieniec znał trasę z poprzednich przejazdów. Ja znałem drogę z mapy, którą kupiłem wczoraj, i uważałem ją za wystarczającą. Mapa nie wspominała o tym, że przy pierwszym rozwidleniu trzeba skręcić w lewo, choć droga na prawo wygląda na szerszą i bardziej uczęszczaną.
 
@@ -38,7 +38,7 @@ Veda miała dwa konie i pomocnika o imieniu Len. Młodzieniec znał trasę z pop
 
 — Tym bardziej należy go dobrze strzec.
 
-Veda podała mi lejce, żebym potrzymał konie, a sama sprawdziła mocowanie skrzyni. Potem powiedziała, że na mapie brakuje mostka, który zmyła zeszłoroczna woda. Uzupełniłem znak własnym ołówkiem. Nie lubię przyznawać, że ktoś inny zna drogę lepiej ode mnie. Jeszcze mniej lubię wracać po własnych śladach.
+Veda podała mi lejce, żebym potrzymał konie, a sama sprawdziła mocowanie skrzyni. Potem powiedziała, że na mapie brakuje mostka, który zmyła zeszłoroczna woda. Uzupełniłem znak własnym ołówkiem. Nie lubię przyznawać, że ktoś inny zna drogę lepiej ode mnie. Jeszcze mniej lubię wracać po własnych śladach. Zanim ruszyliśmy, przewiązałem nadwyrężony rzemień przy naramienniku. Węzeł miał wystarczyć do wieczora.
 
 ## Stary kamień
 
@@ -62,7 +62,7 @@ Czekałem. Trzeba umieć czekać, choćby bardzo chciało się zadać pytanie.
 
 Gdy skończyła, spytałem o słup.
 
-— Jest starsza ode mnie — powiedział. — Kiedy byłem chłopcem, kamień leżał przy starej drodze. Przenieśli go po osunięciu.
+— Jest starszy ode mnie — powiedział. — Kiedy byłem chłopcem, kamień leżał przy starej drodze. Przenieśli go po osunięciu.
 
 Na bocznej stronie słupa, niemal przy ziemi, widniał zatarty znak. Dwa wygięte ramiona, między nimi coś, co mogło być głową ptaka albo pęknięciem.
 
@@ -74,7 +74,7 @@ Na bocznej stronie słupa, niemal przy ziemi, widniał zatarty znak. Dwa wygięt
 
 Pokręcił głową, ale nie wszedł do domu. Opowiedział, że przed wojną pracował w kuźni po drugiej stronie wzgórza i że stary kamień służył dzieciom za miejsce spotkań. Jedno z nich nazywało znak płonącą kurą. Imienia dziecka nie pamiętał; pamiętał za to, jak ukradło mu rękawice.
 
-Veda zaczęła mocować list do jego drzwi, żeby nie zapomniał go zabrać. Oren poprosił, bym jeszcze raz przeczytał imię jego wnuka. Przeczytałem. Potem spytałem, czy mogę odrysować znak.
+Veda oddała mu list, a Oren schował go ostrożnie za pazuchę. Poprosił, bym jeszcze raz przeczytał imię jego wnuka. Wyjął kartkę, przeczytałem i oddałem mu ją z powrotem. Potem spytałem, czy mogę odrysować znak.
 
 — Może pan. Tylko niech pan nie obiecuje ludziom, że to kura.
 
@@ -112,7 +112,7 @@ Zsiadłem z wozu. Najchętniej przedstawiłbym się zgodnie z obyczajem, lecz Le
 
 — Właśnie dlatego.
 
-Pierwszy napastnik ruszył, zanim wyciągnąłem miecz. Uderzył w bok wozu, próbując dosięgnąć Vedy. Wystawiłem przed siebie dłoń i poprowadziłem ogień w wąski łuk nad kołem. Chciałem zmusić go do odwrotu, nie podpalić plandekę. Żar odpowiedział szybciej, niż zamierzałem. Cofnąłem rękę, a płomień skurczył się do linii biegnącej po wilgotnym kamieniu.
+Pierwszy napastnik ruszył, zanim wyciągnąłem miecz. Uderzył w bok wozu, próbując dosięgnąć Vedy. Wystawiłem przed siebie dłoń i poprowadziłem ogień w wąski łuk nad kołem. Chciałem zmusić go do odwrotu, nie podpalić plandeki. Żar odpowiedział szybciej, niż zamierzałem. Cofnąłem rękę, a płomień skurczył się do linii biegnącej po wilgotnym kamieniu.
 
 Drugi napastnik dopadł mnie od strony drzew. Uderzenie przyjąłem naramiennikiem i poczułem, jak puszcza naprawiany rano rzemień. Zbroja przesunęła się na ramieniu. Zasłoniłem lukę tarczą przedramienia i odepchnąłem napastnika. Nie ruszyłem za nim; Veda wciąż siedziała na koźle.
 
@@ -132,11 +132,11 @@ Nie ścigałem ich. Pomogłem Vedzie opuścić skrzynię z powrotem na środek p
 
 — Pompę też.
 
-Potem podała mi gruszkę. Była dojrzała i nieco obita. Przyjąłem ją z należną powagą.
+Potem podała mi dwie gruszki. Przyjąłem je z należną powagą. Jedna była dojrzała i nieco obita; zjadłem ją, siedząc obok Lena na koźle. Drugą schowałem do sakwy.
 
 ## Księga
 
-Wieczorem dotarliśmy do osady. Veda zapłaciła mi zgodnie z umową jeden selen za ochronę na tej trasie, dodając miejscowymi drobnymi równowartość 0,08 selena za uszkodzony rzemień. Chciałem odmówić. Odmówiłem nawet raz, ale nie drugi, ponieważ naramiennik rzeczywiście wymagał naprawy.
+Wieczorem dotarliśmy do osady. Veda zapłaciła mi zgodnie z umową jednego selena za ochronę na tej trasie, dodając kilka miejscowych drobniaków za uszkodzony rzemień. Chciałem odmówić. Odmówiłem nawet raz, ale nie drugi, ponieważ naramiennik rzeczywiście wymagał naprawy.
 
 W izbie nad stajnią rozwinąłem księgę ojca. Okładka była stara, ciemna od dłoni, które dotykały jej przede mną. W kilku miejscach szycie puściło i dlatego przewracałem kartki wolno, podtrzymując je od spodu.
 
