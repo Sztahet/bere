@@ -92,16 +92,9 @@ Jak sprawnie postać rozumie, obsługuje, naprawia lub tworzy urządzenia w swoj
 
 Mieszkańców i postacie historyczne można opisywać tą samą skalą. Ich profil wynika z zawodu, wieku i tego, co pokazują w historii. Budżet 21 służy projektowaniu porównywalnej obsady grywalnej.
 
-## Przymiarka do obsady
+## Profile obsady
 
-Kolejność ocen to **Siła · Zręczność · Wytrzymałość · Rozeznanie · Wpływ · Magia · Technologia**. Wszystkie profile są robocze. Znaki zapytania przy dwóch ostatnich ocenach pochodzą z propozycji Magii i Technologii.
-
-- **Brom — 4 · 2 · 4 · 3 · 2 · 3? · 3? = 21.** Strażnik wyrobisk. Siłę i wytrzymałość uzasadniają zadania związane z utrzymywaniem przejść i ochroną górników podczas zawaleń.
-- **Miko — 2 · 4 · 3 · 3 · 3 · 1? · 5 = 21.** Szermierka daje mu mocną Zręczność, a eksperymenty z przyrządami Błyskawic wysoką Technologię. Przy próbie urządzenia losowe skutki opisuje jego zdolność w grze.
-- **Saila — 2 · 2 · 3 · 4 · 2 · 4? · 4? = 21.** Mocne strony to kontrola Lodu, praca przy chłodniach i ostrożna ocena warunków dostawy.
-- **Elira — 2 · 3 · 2 · 4 · 3 · 4? · 3? = 21.** Łączy rozeznanie w mapach i zapisach ewakuacji z praktyką Światła. Jej błąd podczas powodzi pokazuje, jak wiele zależy od aktualności danych.
-
-Źródła profili: [GDD i biografie bohaterów](RIFTORYN_GDD.md) oraz [oceny Magii i Technologii](RIFTORYN_BOHATEROWIE_MAGIA_I_TECHNOLOGIA_PROPOZYCJA.md#bohaterowie).
+[Splot bohaterów w 12 ET](RIFTORYN_SPLOT_CECH_BOHATEROW_PROPOZYCJA.md) zawiera robocze oceny oraz uzasadnienia dla 36 postaci, w tym Broma, Miko, Saily i Eliry.
 
 ## Do budowania świata
 
