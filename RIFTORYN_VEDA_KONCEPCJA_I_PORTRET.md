@@ -4,7 +4,7 @@ Koncepcja postaci do rozwinięcia. Veda zajmuje drugie miejsce wsparcia Ziemi, o
 
 Veda organizuje transporty części i innych potrzebnych rzeczy między osadami Kharum. Sama prowadzi wóz, dostarcza również listy, zna drogi i zatrudnia ochronę, kiedy trasa tego wymaga. Praktyczna magia Ziemi mogłaby pomagać jej stabilizować ładunek i doraźnie zabezpieczać trudne przejazdy; zakres jej zdolności pozostaje propozycją.
 
-W szkicu pierwszej opowieści Piecariusa wynajmuje go do ochrony części do pompy. Ich spotkanie odbywa się w Kharum; konkretna osada i dokładna trasa pozostają otwarte. Dla Vedy jest to jedno z wielu zleceń, choć zapamiętała rycerza i jego zachowanie podczas napadu.
+W szkicu pierwszej opowieści Piecariusa wynajmuje go do ochrony części do pompy. Ich spotkanie odbywa się w Kharum; konkretna osada i dokładna trasa pozostają otwarte. Dla Vedy jest to jedno z wielu codziennych zleceń, a nie najważniejsza podróż jej życia. Zapamiętała gadatliwego „rycerza”, który bywał bardziej skłonny do przemów niż namysłu, ale podczas napadu pomógł ocalić ładunek. W przyszłej historii Vedy wystarczy krótkie wspomnienie tego spotkania z jej perspektywy.
 
 Propozycja dwóch zdań do przyszłej historii Vedy, z jej perspektywy:
 

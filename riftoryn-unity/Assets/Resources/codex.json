@@ -308,6 +308,7 @@
       "name": "Veda",
       "role": "Wsparcie",
       "element": "Ziemia",
+      "img": "veda-earth-support.png",
       "desc": "Przewoźniczka i kurierka z Kharum. Organizuje dostawy części do osad i wynajmuje ochronę na niebezpieczne trasy. Postać i umiejętności w przygotowaniu.",
       "descEn": "A courier and carrier from Kharum. She organizes deliveries of spare parts to settlements and hires guards for dangerous routes. Character and abilities in development.",
       "comingSoon": true

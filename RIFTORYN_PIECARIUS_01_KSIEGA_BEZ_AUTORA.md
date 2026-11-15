@@ -6,7 +6,7 @@
 
 Gdyby o rycerskiej godności świadczyła liczba selenów w sakiewce, nie powinienem był tego ranka przedstawiać się nikomu.
 
-Miałem jedną monetę selena i miejscowe drobne o wartości około jednej piątej selena, a z tego należało jeszcze zapłacić za pokój, posiłek i naprawę rzemyka przy naramienniku. Olejek cynamonowy kupiłem poprzedniego dnia. Człowiek nie musi wybierać między skromnością a schludnością, choć oberżysta, któremu przedstawiłem to rozumowanie, najwyraźniej był innego zdania.
+Miałem jednego selena i parę miejscowych drobniaków, razem nie więcej niż półtora selena. Z tego należało jeszcze zapłacić za pokój, posiłek i naprawę rzemyka przy naramienniku. Olejek cynamonowy kupiłem poprzedniego dnia. Człowiek nie musi wybierać między skromnością a schludnością, choć oberżysta, któremu przedstawiłem to rozumowanie, najwyraźniej był innego zdania.
 
 Wszedłem do jego gospody w Kharum w wypolerowanej zbroi. Na piersi miałem znak Feniksa, przy pasie miecz, a pod pachą księgę owiniętą w płótno.
 

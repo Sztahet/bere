@@ -14,7 +14,7 @@ const root='assets/heroes/portraits/';const heroes=[
 
 const codexPreviews = [
   {
-    id: 'veda', name: 'Veda', role: 'Wsparcie', element: 'Ziemia',
+    id: 'veda', name: 'Veda', role: 'Wsparcie', element: 'Ziemia', portrait: 'riftoryn-unity/Assets/Resources/Portraits/veda.png',
     desc: 'Przewoźniczka i kurierka z Kharum. Organizuje dostawy części do osad i wynajmuje ochronę na niebezpieczne trasy. Postać i umiejętności w przygotowaniu.',
     comingSoon: true
   },
