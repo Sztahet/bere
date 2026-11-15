@@ -1,10 +1,10 @@
 # Świadkowie milczenia
 
-*Druga część trylogii. Zapiski Orvena. Wersja do oceny.*
+*Druga część trylogii. Zapiski Azmira. Wersja do oceny.*
 
 **Archiwum Cienistego Portu · 10 ET**
 
-*Zapis Orvena: relacje dotyczące zawalenia w kopalni i późniejszej śmierci nadzorcy; zebrane w kolejnych dniach.*
+*Zapis Azmira: relacje dotyczące zawalenia w kopalni i późniejszej śmierci nadzorcy; zebrane w kolejnych dniach.*
 
 ## I. Żeton
 

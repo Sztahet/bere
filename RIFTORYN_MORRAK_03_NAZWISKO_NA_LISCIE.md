@@ -1,10 +1,10 @@
 # Nazwisko na liście
 
-*Trzecia część trylogii. Zapiski Orvena. Wersja do oceny.*
+*Trzecia część trylogii. Zapiski Azmira. Wersja do oceny.*
 
 **Archiwum Cienistego Portu · 12 ET, przed 29 maja**
 
-*Zapis Orvena: weryfikacja zgłoszenia do kwalifikacji Wielkich Igrzysk i relacje świadków z punktu zapisów.*
+*Zapis Azmira: weryfikacja zgłoszenia do kwalifikacji Wielkich Igrzysk i relacje świadków z punktu zapisów.*
 
 ## I. Przekreślone
 

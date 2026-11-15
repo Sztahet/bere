@@ -1,10 +1,10 @@
 # Imię, którego nie wypowiedział
 
-*Pierwsza część trylogii. Zapiski Orvena, archiwisty z Cienistego Portu. Wersja do oceny.*
+*Pierwsza część trylogii. Zapiski Azmira, archiwisty z Cienistego Portu. Wersja do oceny.*
 
 **Archiwum Cienistego Portu · 7 ET**
 
-*Zapis Orvena: relacje o napadzie na transport, zebrane w kolejnych dniach po zdarzeniu.*
+*Zapis Azmira: relacje o napadzie na transport, zebrane w kolejnych dniach po zdarzeniu.*
 
 ## I. Mokry papier
 

@@ -308,13 +308,13 @@
       "name": "Vaelis",
       "role": "Wsparcie",
       "element": "Ciemność",
-      "desc": "Młoda magini Ciemności z Vesper, uczennica archiwisty Orvena. Uczy się chronić ludzi i ich świadectwa, zachowując własny osąd.",
-      "descEn": "A young Darkness mage from Vesper and apprentice to the archivist Orven. She learns to protect people and their testimony while keeping her own judgment.",
+      "desc": "Młoda magini Ciemności z Vesper, uczennica archiwisty Azmira. Uczy się chronić ludzi i ich świadectwa, zachowując własny osąd.",
+      "descEn": "A young Darkness mage from Vesper and apprentice to the archivist Azmir. She learns to protect people and their testimony while keeping her own judgment.",
       "comingSoon": true
     },
     {
-      "id": "orven",
-      "name": "Orven",
+      "id": "azmir",
+      "name": "Azmir",
       "role": "Wsparcie",
       "element": "Ciemność",
       "desc": "Starszy mag Ciemności i archiwista z Cienistego Portu. Zbiera świadectwa, wiedząc, jak wiele może zmienić jedno zapisane słowo.",
