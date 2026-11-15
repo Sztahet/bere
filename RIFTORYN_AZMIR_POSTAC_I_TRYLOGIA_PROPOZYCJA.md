@@ -6,7 +6,7 @@ Azmir jest starszym magiem Ciemności z Cienistego Portu. W 12 ET ma około 68 l
 
 W praktyce używa Ciemności do niewielkich, precyzyjnych osłon. Woli chronić ludzi i dokumenty niż robić wrażenie. Osłona wymaga uwagi, a podział koncentracji może ją osłabić. To opis jego praktyki, nie nowa ogólna reguła dla całego żywiołu.
 
-Jako przyszły bohater gry jest proponowany do roli **Specjalisty Ciemności**. Mechanika, wygląd, portret, statystyki i ewentualny udział w Igrzyskach pozostają do opracowania. Znajomość relacji o Morraku nie oznacza, że zna jego pochodzenie, motywy ani prawdziwe imię.
+Jako przyszły bohater gry jest proponowany do roli **Specjalisty Ciemności**. Mechanika, wygląd, portret, statystyki i ewentualny udział w Igrzyskach pozostają do opracowania. Azmir ma własną hipotezę o Morraku, ale nie zna jego prawdziwego imienia ani nie potrafi dowieść, że domyśla się jego pochodzenia.
 
 ## Trylogia
 
@@ -22,7 +22,7 @@ Vaelis (imię zastępuje roboczą Inę) jest młodą maginią Ciemności z Vespe
 
 ## Bazowa historia Azmira i Vaelis — propozycja robocza
 
-Poniższy szkic rozwija postacie, ale nie rozstrzyga przyczyny Nocy Zgasłych Wież ani związku Morraka z katastrofą.
+Poniższy szkic rozwija postacie, ale nie rozstrzyga przyczyny Nocy Zgasłych Wież. Związek Morraka z katastrofą pozostaje prywatną hipotezą Azmira, nie faktem świata.
 
 ### Azmir: dwie wersje akt
 
@@ -32,6 +32,10 @@ Zauważa, że część meldunków ma ten sam nietypowy znak przerwy, choć pocho
 
 Przez kolejne lata porównuje zeznania i kopie z siedmiu raportów komisji. Jest blisko odpowiedzi na pytanie, **co wydarzyło się po kolei**, ale nie wie jeszcze, czy wspólna anomalia wywołała awarie, czy pojawiła się już po ich rozpoczęciu. Prywatne notatki ujawniają także jego słabość: im więcej materiału zbiera, tym bardziej chce, by wszystko pasowało do jednej osi czasu. Vaelis wielokrotnie zmusza go do oddzielenia mocnego tropu od wygodnego domysłu.
 
+W tych samych prywatnych zeszytach Azmir od lat prowadzi osobną kartę dotyczącą Morraka. Najwcześniejsze wiarygodne wzmianki o milczącym strażniku pochodzą z miesięcy po Nocy; nie znalazł potwierdzonego świadectwa, że widziano go wcześniej. Azmir jest przekonany, że Morrak pojawił się dopiero po katastrofie. W relacjach powtarzają się fioletowa poświata przy dłoni, postać wyłaniająca się z cienia i opisy niezwykłych osłon. Azmir zestawia te szczegóły z raportami o pękniętych kryształach i anomaliach podczas awarii. Podejrzewa, że Morrak był wcześniej zwykłym człowiekiem, który przeżył wybuch uszkodzonego splotytu i został trwale zmieniony.
+
+To dla Azmira najbardziej prawdopodobne wyjaśnienie, nie pewność. Żaden świadek nie widział przemiany ani nie potwierdził, że postać z relacji o Morraku była obecna przy wybuchu. Fioletowa poświata i praca cienia mogą mieć inne źródło; podobieństwo opisów nie dowodzi tożsamości ani przyczyny. Azmir bliski jest zbudowania spójnej hipotezy, ale brakuje mu jednego łączącego dowodu — i właśnie tego braku nie potrafi zaakceptować.
+
 W 12 ET Azmir ma dwie szafy z aktami. Pierwsza zawiera materiały dostępne innym archiwistom. Druga, zamknięta, mieści jego dzienniki: hipotezy, pomyłki, przekreślone wnioski i kopie, których pochodzenia nie udało mu się potwierdzić. Nie zamierza zabrać ich do grobu. Czeka jednak, aż będzie mógł przekazać je razem z opisem ich słabości.
 
 ### Vaelis: tajne raporty dla Rady
@@ -40,15 +44,15 @@ Po latach sporów o Noc Rada chce wiedzieć, czy archiwista z Cienistego Portu p
 
 Vaelis ma raportować wszystko: jakie dokumenty Azmir przegląda, co dopisuje do oficjalnych akt, jakie hipotezy trzyma w prywatnych zeszytach i czego nie udało jej się sprawdzić. Jej meldunki są tajne, bo Rada nie chce, by samo dochodzenie wpłynęło na zeznania świadków ani skłoniło archiwum do zmiany sposobu pracy. Vaelis prowadzi własny notes, w którym rozdziela obserwacje od interpretacji; następnie przekazuje Radzie pełny raport wraz z własnymi wątpliwościami.
 
-Zadanie nie jest dla niej proste. Azmir rzeczywiście ma zamkniętą szafę i prywatne notatki, ale zachowuje w nich również błędne tropy, poprawki i oznaczenia niepewności. Vaelis widzi, że nie próbuje usunąć świadectw — przeciwnie, boi się, że zbyt wczesny wniosek skrzywdzi niewinnych. Musi więc przekazać Radzie zarówno fakt, że Azmir ukrywa część materiałów przed publicznym rejestrem, jak i kontekst, który nie pozwala nazwać tego zatajeniem.
+Zadanie nie jest dla niej proste. Azmir rzeczywiście ma zamkniętą szafę i prywatne notatki, w tym hipotezę, że Morrak został zmieniony przez wybuch pękniętego kryształu. Vaelis widzi, że zachowuje w nich również błędne tropy, poprawki i oznaczenia niepewności. Nie próbuje usuwać świadectw; boi się, że zbyt wczesny wniosek skrzywdzi niewinnych albo wskaże Morraka jako winnego katastrofy bez dowodu. Musi więc przekazać Radzie zarówno treść hipotezy, jak i to, czego Azmir nie potrafi potwierdzić.
 
 Jej własny konflikt polega na tym, że służba Radzie wymaga pełnej szczerości, a zaufanie Azmira wymaga ujawnienia, kim jest. Vaelis nie rozwiązuje tego przez kłamstwo ani przez ciche pomijanie informacji. Gdy Azmir pyta ją wprost, mówi mu o zleceniu i pokazuje kopię ostatniego raportu. Nie wie, czy nadal będzie mógł jej zaufać. On zaś nie żąda, by przestała raportować; prosi, żeby przy każdym wniosku zapisała, skąd go wzięła i czego nie wie.
 
 ### Wspólny punkt zwrotny
 
-Azmir odnajduje dawną kopię meldunku, która podważa jego ulubioną kolejność awarii. Nie wpisuje jej do oficjalnego zestawienia, dopóki nie sprawdzi pochodzenia. Vaelis zauważa, że ten sam znak kopisty widziała na innej, niezależnej kopii. Zgodnie z poleceniem przekazuje Radzie pełny meldunek: o dokumencie, opóźnieniu publikacji, możliwym powiązaniu i ryzyku, że kopia jest wtórna. Dopisuje również, że sama nie potrafi potwierdzić, czy oba zapisy opisują ten sam moment.
+Azmir odnajduje dawną kopię meldunku, która podważa jego ulubioną kolejność awarii. Nie wpisuje jej do oficjalnego zestawienia, dopóki nie sprawdzi pochodzenia. Na odwrocie znajduje się opis fioletowego rozbłysku przy pękniętym krysztale. Vaelis zauważa, że podobny szczegół pojawił się w niezależnej relacji o Morraku. Zgodnie z poleceniem przekazuje Radzie pełny meldunek: o dokumencie, hipotezie Azmira, opóźnieniu publikacji i ryzyku, że kopia jest wtórna. Dopisuje, że żaden ze świadków nie łączy bezpośrednio Morraka z wybuchem.
 
-Azmir odkrywa, że raporty Vaelis trafiają do Rady, i pyta ją o to wprost. Vaelis przyznaje, że miała sprawdzić, czy niczego nie zataja. Pokazuje mu przekazany meldunek; nie pominęła w nim ani zamkniętej szafy, ani tego, że Azmir wstrzymał publikację. Zachowała jednak rozróżnienie między ukrywaniem dokumentu przed czytelnikami a sprawdzaniem jego pochodzenia przed wpisaniem do publicznego rejestru. Azmir czuje się zdradzony, lecz nie może zarzucić jej fałszu. Prosi tylko, by Rada mogła zobaczyć także jego notatki o niepewności — nie samą atrakcyjną hipotezę.
+Azmir odkrywa, że raporty Vaelis trafiają do Rady, i pyta ją o to wprost. Vaelis przyznaje, że miała sprawdzić, czy niczego nie zataja. Pokazuje mu przekazany meldunek; nie pominęła ani zamkniętej szafy, ani hipotezy o przemianie Morraka po wybuchu. Zachowała jednak rozróżnienie między jego podejrzeniem a potwierdzonym faktem. Azmir czuje się zdradzony, lecz nie może zarzucić jej fałszu. Prosi tylko, by Rada zobaczyła także notatki o tym, czego nie wie — nie samą atrakcyjną hipotezę.
 
 Rada nie wydaje natychmiastowego wyroku ani nie przejmuje akt. Prosi o kopie prywatnych materiałów wraz z opisem ich pochodzenia i poziomu pewności. Vaelis dostarczy je, a Azmir sam zaczyna przygotowywać taki zestaw. Tajemnica Nocy pozostaje nierozwiązana, ale ich praca staje się jawniejsza dla siebie nawzajem i sprawdzalna dla Rady.
 
@@ -59,4 +63,4 @@ Rada nie wydaje natychmiastowego wyroku ani nie przejmuje akt. Prosi o kopie pry
 - Kto w Radzie prowadzi tajny nadzór Vaelis i kto poza nim ma dostęp do jej raportów?
 - Czy Rada chce jedynie sprawdzić kompletność akt, czy też podejmie decyzję polityczną na podstawie prywatnych hipotez Azmira?
 - Czy Vaelis pozostanie łączniczką Rady, gdy jej raporty zaczną wpływać na sposób, w jaki Azmir prowadzi dochodzenie?
-- Żaden z tych tropów nie potwierdza związku Morraka z Nocą ani nie przesądza, kto lub co wywołało awarie.
+- Hipoteza Azmira o przemianie Morraka nie potwierdza związku z Nocą ani nie przesądza, kto lub co wywołało awarie. Czytelnik może poznać tę teorię, ale świat nie potwierdza jej jako prawdy.
