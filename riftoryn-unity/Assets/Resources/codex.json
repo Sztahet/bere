@@ -304,6 +304,15 @@
       "comingSoon": true
     },
     {
+      "id": "piecarus",
+      "name": "Piecarus",
+      "role": "Tank",
+      "element": "Ogień",
+      "desc": "Tank żywiołu Ognia. Historia i umiejętności Piecarusa są w przygotowaniu.",
+      "descEn": "A Fire Tank. Piecarus's story and abilities are in development.",
+      "comingSoon": true
+    },
+    {
       "id": "aria",
       "name": "Aria",
       "role": "Tank",
