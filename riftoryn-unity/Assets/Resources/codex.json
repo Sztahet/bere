@@ -304,6 +304,15 @@
       "comingSoon": true
     },
     {
+      "id": "aria",
+      "name": "Aria",
+      "role": "Wsparcie",
+      "element": "Ciemność",
+      "desc": "Córka Oriena z Aurelu, która wybrała własną drogę w Vesper. Jej pochodzenie pozostaje częścią jej historii.",
+      "descEn": "Orien's daughter from Aurel, who chose her own path in Vesper. Her origins remain part of her story.",
+      "comingSoon": true
+    },
+    {
       "id": "vaelis",
       "name": "Vaelis",
       "role": "Wsparcie",
