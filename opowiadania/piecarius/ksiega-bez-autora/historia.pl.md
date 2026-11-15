@@ -74,7 +74,7 @@ Na bocznej stronie słupa, niemal przy ziemi, widniał zatarty znak. Dwa wygięt
 
 Pokręcił głową, ale nie wszedł do domu. Opowiedział, że przed wojną pracował w kuźni po drugiej stronie wzgórza i że stary kamień służył dzieciom za miejsce spotkań. Jedno z nich nazywało znak płonącą kurą. Imienia dziecka nie pamiętał; pamiętał za to, jak ukradło mu rękawice.
 
-Veda oddała mu list, a Oren schował go ostrożnie za pazuchę. Poprosił, bym jeszcze raz przeczytał imię wnuka jego siostry. Wyjął kartkę, przeczytałem i oddałem mu ją z powrotem. Potem spytałem, czy mogę odrysować znak.
+Veda oddała mu list, a Oren schował go ostrożnie za pazuchę. Poprosił, bym jeszcze raz przeczytał imię dziecka. Wyjął kartkę, przeczytałem i oddałem mu ją z powrotem. Potem spytałem, czy mogę odrysować znak.
 
 — Może pan. Tylko niech pan nie obiecuje ludziom, że to kura.
 

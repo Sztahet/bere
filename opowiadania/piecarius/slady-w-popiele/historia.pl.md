@@ -154,13 +154,13 @@ Odprowadziłem go do latarni, gdzie pomocnica sprawdzała nowy zacisk. Pokazała
 
 Pomyślałem o Jorku, który zaufał mojej mapie tylko do pierwszego rozwidlenia, a potem sam pokazał mi właściwą drogę. Powiedziałem Orienowi, że mogę przytrzymać osłonę jeszcze raz. Przyjął pomoc bez przemowy i bez pytania, kto mnie pasował.
 
-Kopistka następnego dnia nie znalazła mojego znaku w wykazie, który miała pod ręką. Zaproponowała, żebym wrócił za kilka tygodni, kiedy przejrzy pozostałe zapisy. Nie mogłem zostać w Aurelu tak długo. Zostawiłem jej dokładny odrys i nazwę gospody, w której zamierzałem kiedyś znów się zatrzymać. Nie wiedziałem, czy list tam na mnie poczeka.
+Kopistka następnego dnia nie znalazła mojego znaku w wykazie, który miała pod ręką. Zaproponowała, żebym wrócił za kilka tygodni, kiedy przejrzy pozostałe zapisy. Nie mogłem zostać w Aurelu tak długo. Zostawiłem jej kopię odrysu i nazwę gospody, w której zamierzałem kiedyś znów się zatrzymać. Oryginał schowałem do księgi. Nie wiedziałem, czy list tam na mnie poczeka.
 
 Kiedy odchodziłem od obserwatorium, zobaczyłem Oriena rozmawiającego z pomocnicą przy zdjętej osłonie. Odłożyli ją na osobny stół, zamiast od razu zamontować w latarni. Pomachał mi na pożegnanie. Odpowiedziałem mu i po raz pierwszy tego dnia nie próbowałem nadać gestowi uroczystej formy.
 
 ## Droga na północ
 
-Do Nivoren ruszyłem drogą wskazaną przez Demę, licząc, że odnajdę kogoś, kto pamięta handlarza. Po sprzedaży płaszcza kupiłem gruby, używany kaftan; nie wyglądał rycersko, ale pod zbroją trzymał ciepło. Mimo to w Nivoren pomyliłem dwa rozwidlenia. Na drugim dołączyła do mnie przewodniczka, która prowadziła niewielką grupę do schronienia przy szlaku. Powiedziała, że mogę iść z nimi, jeśli nie będę ich przyspieszał.
+Do Nivoren ruszyłem drogą wskazaną przez Demę, licząc, że odnajdę kogoś, kto pamięta handlarza. Po sprzedaży płaszcza kupiłem gruby, używany kaftan; nie wyglądał rycersko, ale pod zbroją trzymał ciepło. W Nivoren pomyliłem dwa rozwidlenia. Na drugim dołączyła do mnie przewodniczka, która prowadziła niewielką grupę do schronienia przy szlaku. Powiedziała, że mogę iść z nimi, jeśli nie będę ich przyspieszał.
 
 — Nie mam takiego zamiaru — odparłem.
 
@@ -270,7 +270,7 @@ Chłopiec podszedł z kubkiem wody. Rękaw miał przepalony przy łokciu.
 
 Przez całą noc układałem odpowiedź tak, żeby brzmiała godnie. W świetle poranka zabrzmiałaby jednak jak mowa wygłoszona do człowieka, który pyta o godzinę.
 
-— Bo ty byłeś w magazynie, a potem inni zostali w szopie. Nie mogłem zostawić ich samych.
+— Bo w szopie zostali ludzie. Gdybym poszedł po płytkę, nie mógłbym ich osłonić.
 
 Skinął głową, jakby to wystarczyło. Mnie nie wystarczyło tak łatwo. Kiedy wracałem drogą, wciąż myślałem o odległości między moją dłonią a skrzynią. O jednym kroku. O tym, jak niewiele brakowało.
 
@@ -292,7 +292,7 @@ Nocten jeszcze chwilę trzymał kartę, a potem oddał mi ją ostrożnie.
 
 Nie była to odpowiedź, na którą czekałem. Chciałem powiedzieć, że wtedy będę szukał dalej. Nie powiedziałem, bo nie wiedziałem, czy mam dość odwagi, by znaleźć coś, co zmieni moje wspomnienia o ojcu.
 
-Położyłem go na stole, obok kubka. Zapłaciłem za wodę i chleb, a potem policzyłem monety. Zostało ich niewiele. Musiałem znów znaleźć pracę przy konwoju.
+Położyłem odrys na stole, obok kubka. Zapłaciłem za wodę i chleb, a potem policzyłem monety. Zostało ich niewiele. Musiałem znów znaleźć pracę przy konwoju.
 
 Przed wyjściem wyjąłem księgę. Podniosłem jej okładkę i dotknąłem pierwszej strony.
 
