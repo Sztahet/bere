@@ -8,9 +8,9 @@ Rada zleciła mi raportować o jego pracy. Nie zakładała, że popełnia naduż
 
 Tamtego dnia wpisałam, że przyjęty do kwalifikacji kandydat nie potwierdził imienia Morrak. Wymieniłam relacje Talmy, Veli, Kery i Desa osobno, bo żadne z nich nie opisało tego samego gestu z tego samego miejsca. Dodałam, że Azmir nie zamierzał przypisywać kandydatowi powodu zgłoszenia. Rada odpisała jednym zdaniem: „Dziękujemy. Prosimy kontynuować bez wpływania na pracę archiwum”.
 
-Wtedy zrozumiałam, że moje raporty nie będą zleceniem na tydzień. Zaczęłam robić kopie wszystkich własnych meldunków. Jeśli miałam kiedyś ujawnić Azmirowi, co robię, chciałam móc pokazać dokładnie, co wysyłałam.
+Po latach raportowania liczyłam, że zgłoszenie kandydata i zbliżające się kwalifikacje doprowadzą moje zlecenie do końca. Z odpowiedzi wynikało, że mam je kontynuować. Zachowałam kopię nowego meldunku razem z wcześniejszymi. Jeśli miałam kiedyś ujawnić Azmirowi, co robię, chciałam móc pokazać dokładnie, co wysyłałam.
 
-Kilka dni później szukałam w rejestrze daty przyjęcia dokumentów z Nocy. Znalazłam pusty odstęp między numerami. Nie brakowało całej teczki, tylko kart, które powinny być w niej według wykazu. Zawołałam Azmira. Nie próbował zasłonić szuflady.
+Kilka dni później szukałam w rejestrze dokumentów z Nocy. Publiczny wykaz wymieniał obrażenia nieklasyfikowane, lecz nie zawierał ich dokładniejszych opisów. Wiedziałam, że Azmir zachowuje prywatne notatki z tamtego czasu. Zawołałam go i spytałam, czy znajdują się w nich szczegóły, których nie ma w odpisie. Nie próbował zasłonić szuflady.
 
 Wyjął z zamkniętej szafy własną księgę. Na jednej stronie widniały urzędowe opisy ciał z Val Meris: obrażenia nieklasyfikowane, brak możliwości ustalenia przyczyny. Na innej, zapisanej jego ręką, były szczegóły zmian, które sam widział i opisy medyków. Linie pod skórą, zrośnięte stawy, twarda ciemna powierzchnia na twarzy. Przy każdej notatce stało, czy opis pochodził z jego oczu, czy z raportu.
 

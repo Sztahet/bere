@@ -12,12 +12,14 @@ Azmir przeczytał zdanie o rozkazie wydanym przez nadzorcę. Ja znałam pierwsz�
 
 Azmir nie zaprzeczył. Dopisałam do odpisu, że pracownik słyszał rozkaz, a według jego relacji żeton włożył strażnik. Potem Azmir poprawił własne podsumowanie. Zapytał, czy oryginał i kopia są już rozdzielone. Nie chciał, żeby wersja dla zarządcy zdradziła Mirelę; nie chciał też, żeby brak jej imienia wyglądał jak brak świadka. Dodałam do kopii oznaczenie, że pełny zapis znajduje się w zamkniętej teczce z ograniczonym dostępem.
 
-Nie wiedziałam wtedy, że ktoś z Rady czyta moje raporty. Pierwszy list dostałam dopiero później, przez kancelarię, bez znaku żadnej prywatnej organizacji. Rada chciała wiedzieć, czy Azmir przechowuje materiały dotyczące Nocy poza oficjalnymi aktami. Miałam opisać wszystko, także jego niepewność. Nie dostałam polecenia, by wydać mu sąd. Dostałam obowiązek, by niczego nie przemilczeć.
+Kiedy wróciłam po podpis, szafa Azmira była otwarta. Spytałam, dla kogo są te zapisy. Odpowiedział, że na razie tylko dla niego. Powiedziałam, że jeśli ktoś inny będzie kiedyś sprawdzał karty, musi wiedzieć, co jest obserwacją, a co wnioskiem. Nie wiedziałam, które dokumenty Azmir przeglądał pod moją nieobecność.
 
-Zaczęłam od raportu o żetonie. Wpisałam, że Azmir oddzielił oryginał od kopii i poprawił zdanie, gdy zauważył, że źródło zostało zawyżone. Dopisałam, że sam żeton nie potwierdza rozkazu ani tożsamości człowieka z kopalni. Na koniec zanotowałam, że Azmir przechowuje zamknięte akta o Nocy, ale tego dnia ich nie otwierał.
+Później dostałam pierwszy list od Rady, przez kancelarię, bez znaku żadnej prywatnej organizacji. Rada chciała wiedzieć, czy Azmir przechowuje materiały dotyczące Nocy poza oficjalnymi aktami. Miałam opisać wszystko, także jego niepewność. Nie dostałam polecenia, by wydać mu sąd. Dostałam obowiązek, by niczego nie przemilczeć.
+
+Zaczęłam od raportu o żetonie. Wpisałam, że Azmir oddzielił oryginał od kopii i poprawił zdanie, gdy zauważył, że źródło zostało zawyżone. Dopisałam, że sam żeton nie potwierdza rozkazu ani tożsamości człowieka z kopalni. Zanotowałam też, że Azmir przechowuje zamknięte akta o Nocy, lecz nie wiedziałam, które z nich przeglądał, kiedy mnie nie było.
 
 Przed złożeniem raportu długo trzymałam go nad lampą. Wosk Rady miał przykryć treść przed każdym, kto nie powinien jej czytać. Przez chwilę pomyślałam, że powinnam uprzedzić Azmira. Potem przypomniałam sobie Mirelę, której obiecał wyjaśnić, kto dostanie pełny zapis, zanim zgodziła się na kopię.
 
-Nie wróciłam do archiwum z kłamstwem ani z wymówką. Wysłałam raport. Gdy Azmir zapytał następnego dnia, czy ktoś poza nim i mną widział poprawioną kartę, odpowiedziałam, że Rada otrzymała odpis. Nie zapytał, co w nim napisałam.
+Wysłałam tajny raport oraz osobno odpis poprawionej karty. Gdy Azmir zapytał następnego dnia, czy ktoś poza nim i mną widział kartę, odpowiedziałam, że Rada otrzymała odpis. Nie powiedziałam mu o raporcie ani o tym, co napisałam o jego zamkniętych aktach.
 
 Od tamtej pory mój tajny notes miał dwie kolumny: „co widziałam” i „czego z tego nie wolno wywnioskować”. Pierwsza była krótsza. Druga zajmowała coraz więcej stron.
