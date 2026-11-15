@@ -11,8 +11,8 @@ Jako przyszły bohater gry jest proponowany do roli **Specjalisty Ciemności**. 
 ## Akta Morraka — trzy opowieści z narracją Azmira
 
 1. [Imię, którego nie wypowiedział](opowiadania/morrak/1_the_name_he_didnt_speak/historia.pl.md)
-2. [Świadkowie milczenia](opowiadania/morrak/1_witnesses_to_silence/historia.pl.md)
-3. [Imię na liście](opowiadania/morrak/1_a_name_on_the_list/historia.pl.md)
+2. [Świadkowie milczenia](opowiadania/morrak/2_witnesses_to_silence/historia.pl.md)
+3. [Imię na liście](opowiadania/morrak/3_a_name_on_the_list/historia.pl.md)
 
 Azmir prowadzi narrację w pierwszej osobie. Relacje świadków są ograniczone ich wiedzą. Kodeks gry przedstawia Morraka i Vesha jako dwa przydomki tej samej postaci; nie oznacza to, że Azmir potrafi samodzielnie dowieść tego ze zgromadzonych zeznań. Te trzy opowieści są aktami Morraka, a nie własną trylogią Azmira. Wydarzenia przy kopalni i na szlaku nawiązują do istniejących historii postaci.
 

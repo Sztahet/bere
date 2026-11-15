@@ -2,7 +2,7 @@
 
 > Pierwotny plan siedmiu scen. Aktualny czytnik ma sześć kadrów; [nowe prompty do retuszu plenerów](RIFTORYN_SAILA_PROMPTY_AKTUALIZACJA.md) odnoszą się do istniejących JPG.
 
-Prompty do siedmiu scen oznaczonych w [opowieści](opowiadania/saila/1_when_the_tower_fell_silent/historia.pl.md). To propozycja oprawy draftu, a nie nowe ustalenia kanonu. Każdy obraz generuj osobno. Przed generowaniem dołącz dostarczone przez autora referencje Saily, wieży Błyskawic i szronogrzbiety; w promptach wskazano, które są potrzebne w danej scenie. Jeśli generator pozwala opisać rolę referencji, podpisz je odpowiednio: **Saila — wygląd postaci**, **wieża Błyskawic — kształt konstrukcji**, **szronogrzbieta — anatomia i futro**. Do kolejnych ilustracji możesz również dołączyć zaakceptowany obraz jako referencję stylu i scenerii.
+Prompty do siedmiu scen oznaczonych w [opowieści](opowiadania/saila/2_when_the_tower_fell_silent/historia.pl.md). To propozycja oprawy draftu, a nie nowe ustalenia kanonu. Każdy obraz generuj osobno. Przed generowaniem dołącz dostarczone przez autora referencje Saily, wieży Błyskawic i szronogrzbiety; w promptach wskazano, które są potrzebne w danej scenie. Jeśli generator pozwala opisać rolę referencji, podpisz je odpowiednio: **Saila — wygląd postaci**, **wieża Błyskawic — kształt konstrukcji**, **szronogrzbieta — anatomia i futro**. Do kolejnych ilustracji możesz również dołączyć zaakceptowany obraz jako referencję stylu i scenerii.
 
 ## Wspólne wskazówki
 

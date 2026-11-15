@@ -20,7 +20,7 @@ Saila dorosła i potrafi rzeczy, które zaskakują mistrza; jego doświadczenie 
 
 Opowieść Saily pokazuje Ruvana przez jej wspomnienia i obserwacje. Ewentualna opowieść Ruvana mogłaby odsłonić jego własne myśli lub trudność w oddaniu odpowiedzialności uczennicy; ich dokładna treść pozostaje do stworzenia. Nie należy przedstawiać domysłów Saily jako potwierdzonych myśli Ruvana.
 
-Źródła: [historia świata](world_history.md), [finał trylogii Saily](opowiadania/saila/1_what_ruvan_didnt_teach_me/historia.pl.md).
+Źródła: [historia świata](world_history.md), [finał trylogii Saily](opowiadania/saila/3_what_ruvan_didnt_teach_me/historia.pl.md).
 
 ## Orien i Lucen w Aurelu
 
@@ -30,7 +30,7 @@ W 4 PT około 46-letni Orien daje trzynastoletniemu Lucenowi nocleg i pracę prz
 
 ## Lucen, Pyrra, Zet i Saila w Val Meris
 
-W chronologii opowiadania [„Nauka kontroli”](opowiadania/lucen/1_learning_control/historia.pl.md) wspólny rocznik zaczyna naukę w 3 PT i kończy szósty rok wiosną 3 ET. Lucen ma na początku około 14 lat, Pyrra 13, Zet 12. W 3 ET mają odpowiednio około 20, 19 i 18 lat. Saila ma wówczas około 14 lat i spotyka Lucena jako uczennica pierwszego roku podczas prowadzonego przez niego pokazu. Dokładne urodziny i tryb przyjęcia tych bohaterów pozostają otwarte.
+W chronologii opowiadania [„Nauka kontroli”](opowiadania/lucen/2_learning_control/historia.pl.md) wspólny rocznik zaczyna naukę w 3 PT i kończy szósty rok wiosną 3 ET. Lucen ma na początku około 14 lat, Pyrra 13, Zet 12. W 3 ET mają odpowiednio około 20, 19 i 18 lat. Saila ma wówczas około 14 lat i spotyka Lucena jako uczennica pierwszego roku podczas prowadzonego przez niego pokazu. Dokładne urodziny i tryb przyjęcia tych bohaterów pozostają otwarte.
 
 **Pomysł na późniejszą scenę.** Saila pokazuje Lucenowi, swojemu dawnemu tutorowi, nowy efekt magii, którego Ruvan nie umie wyjaśnić. Lucen prosi ją o powtórzenie próby i zapisuje, co spodziewa się zmierzyć. Gdy odczyty rozchodzą się z tym, co oboje widzą, Saila opisuje, co poczuła podczas próby, a Lucen szuka założenia, które przeoczył. Miejsce, moment oraz wynik próby pozostają otwarte.
 
@@ -46,4 +46,4 @@ W chronologii opowiadania [„Nauka kontroli”](opowiadania/lucen/1_learning_co
 
 **Łuk Adriena.** W pierwszej części dopuszcza nie dość sprawdzony sygnalizator; ostrzeżenie Leny zostało zlekceważone, a w wyniku awarii ginie przewodnik. W finale sam domaga się prób bezpieczeństwa kolejnego urządzenia. To zmiana w jego postępowaniu, która nie usuwa skutków wcześniejszej decyzji ani jego dumy, ekscentryczności i poczucia wyższości.
 
-Źródła: [kierunek trylogii Adriena](RIFTORYN_ADRIEN_TRYLOGIA_PROPOZYCJA.md), [część I](opowiadania/adrien/1_the_light_that_showed_the_way/historia.pl.md), [część II](opowiadania/adrien/1_the_woman_who_knew/historia.pl.md), [część III](opowiadania/adrien/1_the_invention_i_didnt_foresee/historia.pl.md), [historie bohaterów](RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md).
+Źródła: [kierunek trylogii Adriena](RIFTORYN_ADRIEN_TRYLOGIA_PROPOZYCJA.md), [część I](opowiadania/adrien/1_the_light_that_showed_the_way/historia.pl.md), [część II](opowiadania/adrien/2_the_woman_who_knew/historia.pl.md), [część III](opowiadania/adrien/3_the_invention_i_didnt_foresee/historia.pl.md), [historie bohaterów](RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md).
