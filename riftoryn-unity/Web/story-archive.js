@@ -12,7 +12,6 @@
   const partsNav = document.getElementById("parts-navigation");
   const parts = ["I", "II", "III"];
   const elements = [["Ogień", "fire"], ["Lód", "ice"], ["Błyskawice", "lightning"], ["Natura", "nature"], ["Ziemia", "earth"], ["Światło", "light"], ["Ciemność", "darkness"]];
-  const roles = [["Tank", "tank"], ["Wsparcie", "support"], ["Specjalista", "specialist"], ["Przywoływacz", "summoner"]];
   const iconRoot = "riftoryn-unity/Assets/Resources/CodexIcons";
   let currentView;
   let storyLanguage = "pl";
@@ -40,39 +39,45 @@
   }
 
   function renderCollection(hero) {
+    const availablePeople = storyRoster.filter(person => storyArchive.some(entry => entry.id === person.id));
+    const upcomingPeople = storyRoster.filter(person => !storyArchive.some(entry => entry.id === person.id));
+
+    function makeCard(person, available) {
+      const card = available ? link(null, `#${person.id}`, "hero-card") : element("div", null, "hero-card unavailable");
+      card.setAttribute("aria-label", `${person.name} — ${person.element}, ${person.role} — ${available ? "opowiadania dostępne" : "opowiadania w przygotowaniu"}`);
+      if (available && person.id === hero.id) card.setAttribute("aria-current", "true");
+      if (person.portrait) {
+        const portrait = element("img", null, "hero-portrait");
+        portrait.src = person.portrait; portrait.alt = ""; portrait.loading = "lazy";
+        card.append(portrait);
+      }
+      const content = element("span", null, "hero-content");
+      const affinity = element("span", null, "hero-affinity");
+      const icon = elements.find(([name]) => name === person.element)?.[1];
+      if (icon) {
+        const image = element("img"); image.src = `${iconRoot}/elements/${icon}.png`; image.alt = "";
+        affinity.append(image);
+      }
+      affinity.append(element("span", person.element));
+      content.append(affinity, element("span", person.name, "hero-name"), element("span", person.role, "hero-role"));
+      card.append(content);
+      if (!available) card.append(element("span", "W przygotowaniu", "unavailable-label"));
+      return card;
+    }
+
+    const headingBar = element("div", null, "heroes-heading");
+    const headingText = element("div");
+    headingText.append(element("span", "OPOWIEŚCI BOHATERÓW", "section-eyebrow"), element("h2", "Wybierz swoją historię"));
+    headingBar.append(headingText, element("span", `${availablePeople.length} dostępnych historii`, "hero-count"));
     const grid = element("div", null, "hero-grid");
-    grid.append(element("div", null, "grid-corner"));
-    elements.forEach(([name, icon]) => {
-      const label = element("div", null, `grid-heading element-${icon}`);
-      const image = element("img"); image.src = `${iconRoot}/elements/${icon}.png`; image.alt = "";
-      label.append(image, element("span", name)); grid.append(label);
-    });
-    roles.forEach(([role, icon]) => {
-      const label = element("div", null, "grid-role");
-      const image = element("img"); image.src = `${iconRoot}/roles/${icon}.png`; image.alt = "";
-      label.append(image, element("span", role)); grid.append(label);
-      elements.forEach(([affinity]) => {
-        const cell = element("div", null, "grid-cell");
-        const matches = storyRoster.filter(person => person.role === role && person.element === affinity);
-        if (!matches.length) cell.append(element("span", "Wkrótce", "empty-cell"));
-        matches.forEach(person => {
-          const available = storyArchive.find(entry => entry.id === person.id);
-          const card = available ? link(null, `#${person.id}`, "hero-card") : element("div", null, "hero-card unavailable");
-          card.setAttribute("aria-label", `${person.name} — ${available ? "opowiadania dostępne" : "opowiadania w przygotowaniu"}`);
-          if (!available) card.title = `${person.name} — opowiadania w przygotowaniu`;
-          if (available === hero) card.setAttribute("aria-current", "true");
-          if (person.portrait) {
-            const portrait = element("img"); portrait.src = person.portrait; portrait.alt = ""; portrait.loading = "lazy";
-            card.append(portrait);
-          }
-          if (!available) card.append(element("span", "Wkrótce", "unavailable-label"));
-          card.append(element("span", person.name, "hero-name"));
-          cell.append(card);
-        });
-        grid.append(cell);
-      });
-    });
-    heroes.replaceChildren(grid);
+    grid.append(...availablePeople.map(person => makeCard(person, true)));
+    const upcoming = element("details", null, "upcoming-heroes");
+    const summary = element("summary");
+    summary.append(element("span", "Bohaterowie w przygotowaniu"), element("span", `${upcomingPeople.length} postaci`, "hero-count"));
+    const upcomingGrid = element("div", null, "hero-grid upcoming-grid");
+    upcomingGrid.append(...upcomingPeople.map(person => makeCard(person, false)));
+    upcoming.append(summary, upcomingGrid);
+    heroes.replaceChildren(headingBar, grid, upcoming);
 
     const heading = element("h2", hero.series || `Opowiadania · ${hero.name}`);
     heading.id = "collection-title";
