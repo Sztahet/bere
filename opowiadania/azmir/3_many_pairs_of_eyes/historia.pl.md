@@ -4,28 +4,40 @@
 
 Przy wejściu na kwalifikacje powstał zator. Kandydaci ustawiali się w kolejce, a pozostali widzowie próbowali zobaczyć, kto już przeszedł przez bramę. Znałem tę przestrzeń z list i map. Nie znałem jej z takiej liczby ludzi, którzy patrzyli na jedno miejsce naraz.
 
-Przy stole leżały karty uczestników. Obok nich stała lampa z ciężkim, źle osadzonym kloszem. Kiedy ktoś zahaczył o przewód, klosz przechylił się nad dziewczyną niosącą arkusze. Mężczyzna z kolejki wyciągnął rękę. Cień przeciął stół, choć lampa wciąż świeciła. Klosz zatrzymał się na tej ciemnej osłonie, a przez palce mężczyzny przebiegł krótki fioletowy błysk.
+Przy stole leżały karty uczestników. Obok nich stała lampa z ciężkim, źle osadzonym kloszem. Kiedy ktoś zahaczył o przewód, klosz przechylił się nad dziewczyną niosącą arkusze. Odsunęła się, ale przewód oplótł jej torbę. Mężczyzna z kolejki wyciągnął rękę. Cień przeciął stół, choć lampa wciąż świeciła. Przez palce mężczyzny przebiegł krótki fioletowy błysk. Złapał lampę i odsunął ją od przejścia.
 
-Nie krzyknął. Nie przedstawił się. Podniósł klosz i postawił go na podłodze, dalej od przejścia. Dopiero wtedy ludzie zaczęli mówić.
+Nie krzyknął. Nie przedstawił się. Dopiero wtedy ludzie zaczęli mówić.
 
-Na liście z 12 maja widniało imię Morrak. Kandydat go wtedy nie potwierdził. Teraz stał przede mną ten sam typ sylwetki, który przewijał się w zeznaniach: ciemny płaszcz, nierówne jasne ściegi na rozdarciu rękawa i ruch oszczędny, jakby każdy krok miał osłonić kogoś za nim. Nie mogłem dowieść, że wszystkie dawne relacje dotyczyły właśnie tego człowieka. Mogłem za to stwierdzić, że nie był wytworem czyjejś wyobraźni.
+Na liście z 12 maja widniało imię Morrak. Urzędniczka wpisała je po tym, jak podała je osoba z kolejki; sam kandydat go nie potwierdził. Talma opisała mi wtedy jego ciemny płaszcz i jasne ściegi przy mankiecie. Mężczyzna przy lampie również miał na sobie ciemny płaszcz, a na rozdarciu rękawa dostrzegłem jasne ściegi. Podobieństwo pozwalało porównać oba opisy, lecz nie dowodziło, że to ten sam kandydat ani że wszystkie dawne relacje dotyczyły jednego człowieka.
 
-Azmir przyszedł z kartami obserwacyjnymi. Nie pokazał mi dawnych opisów. Rozdzieliliśmy świadków i najpierw pytaliśmy każdego, co widział, zanim padło jakiekolwiek imię. Kobieta z arkuszami opisała cień i błysk. Strażnik przy bramie mówił o rękawie i sposobie stawiania kroków. Dwóch kandydatów nie zgadzało się co do koloru światła, ale obaj widzieli osłonę na stole. Ci, którzy przyszli później, rozpoznawali mężczyznę po tym, co usłyszeli w tłumie; ich słowa zapisaliśmy osobno.
+Miałem ze sobą karty obserwacyjne. Vaelis znała wcześniejsze opisy, ale nie pokazywaliśmy ich nowym świadkom. Poprosiłem, byśmy rozmawiali osobno z tymi, którzy stali najbliżej. Najpierw pytaliśmy każdego, co widział, zanim padło jakiekolwiek imię. Kobieta z arkuszami powiedziała, że mężczyzna ją osłonił. Strażnik opisał błysk i rękaw. Kandydat przy stole pamiętał cień i sposób, w jaki mężczyzna odsunął lampę. Ci, którzy przyszli później, rozpoznawali go po tym, co usłyszeli w tłumie; ich słowa zapisaliśmy osobno.
 
-Pośród kandydatów dostrzegłam Tarena i Lucena. Wcześniej widziałam ich przy tablicy z listą. Zatrzymali się wtedy, podnieśli ręce na powitanie i nie zamienili słów. Tego dnia stali w innych częściach dziedzińca. Nie dopisałam do protokołu, co to znaczyło. Nie wiedziałam.
+Na dziedzińcu widziałem też Tarena i Lucena. Przy tablicy z listą podnieśli do siebie ręce na powitanie, nie rozmawiając. Później stali w różnych częściach dziedzińca. Nie wiedziałem, co to dla nich znaczyło, więc nie dopisałem niczego do protokołu.
 
-Azmir zebrał kilka opisów do porównania. W oficjalnej karcie skreślił zdanie, że świadectwa o Morraku mogą wynikać wyłącznie z plotki. Napisał, że w Val Meris wiele osób widziało człowieka odpowiadającego części wcześniejszych opisów. Przy imieniu zostawił znak zapytania: podała je urzędniczce osoba z kolejki, a kandydat nie wypowiedział go sam.
+Zebrałem opisy do porównania. W oficjalnej karcie skreśliłem zdanie, że świadectwa o Morraku mogą wynikać wyłącznie z plotki. Napisałem, że w Val Meris wiele osób widziało człowieka odpowiadającego części wcześniejszych opisów. Przy imieniu zostawiłem znak zapytania i odesłałem do zapisu rozmowy z urzędniczką.
 
-Później przyniosłam Azmirowi zamkniętą kopertę. Przeczytał nagłówek Rady, a potem spojrzał na mnie.
+Vaelis porządkowała karty w dwa stosy. Zapytałem, dla kogo sporządza drugi zestaw notatek.
 
-— Jak długo? — spytał.
+— Dla Rady — odpowiedziała.
 
-Powiedziałam prawdę. Od kilku lat sporządzałam dla Rady regularne raporty. O tym, co sprawdzamy, co Azmir zachowuje poza publicznymi aktami i czego nie potrafimy potwierdzić. Pokazałam mu kopię ostatniego meldunku. Nie ukryłam w nim ani zamkniętych notatek, ani własnych zastrzeżeń.
+Podała mi kopię raportu. Pisała o moich prywatnych zapisach, o swoim zadaniu i o decyzji Rady, by nie ujawniać opisów zmian na ciałach. Nie pominęła zastrzeżenia, że nic z tego nie dowodzi, iż człowiek opisywany jako Morrak należał do zaginionych po Nocy.
 
-Nie podniósł głosu. Zamknął kartę obserwacji i długo trzymał na niej dłoń.
+— Jak długo?
 
-— W takim razie niech dostaną także to, czego nie wiemy — powiedział. — Nie samą odpowiedź, której wszyscy szukają.
+— Od kilku lat.
 
-Na końcu raportu wpisałam, że setki ludzi widziały rzeczywistego człowieka. To potwierdzało istnienie postaci opisywanej jako Morrak, nie jej pochodzenie. Nie wiedzieliśmy, czy należała do zaginionych po Nocy, czy przeżyła wybuch kryształu, ani czy zmiany na znalezionych ciałach miały z nią związek.
+Przeczytałem dokument do końca. Kiedy oddawałem go Vaelis, zatrzymałem dłoń na opisie pustej rubryki dla nieodnalezionych. Przypomniałem sobie, jak zamykałem przed nią szafę, a potem sam pokazywałem jej kolejne karty. Nie wiedziałem, ile razy wracała z nimi w myślach do tego drugiego zeszytu.
 
-Rada nie opublikowała akt o ciałach ani hipotezy Azmira. Zdecydowała, że nie będzie rozbudzać strachu, dopóki nie ma dowodu na przyczynę. W moim egzemplarzu zachowałam całą odpowiedź, razem z datą i pieczęcią.
+— Myślałem, że te strony zostaną między nami — powiedziałem.
+
+— Nie obiecałam, że ich nie przekażę. Mogę za to dopisać, czego nie wiemy.
+
+Przesunąłem raport w jej stronę.
+
+— Dopisz, że ten człowiek istniał. Tego już nie musimy nazywać hipotezą.
+
+Nie chciałem, żeby Rada dostała samą odpowiedź, której wszyscy szukali. Człowiek przy stole istniał; jego obecność nie dowodziła jednak, że był każdym z ludzi opisywanych w dawnych relacjach. Nie wiedzieliśmy też, czy ktoś z nieodnalezionych przeżył wybuch kryształu ani czy zmiany na ciałach miały z nim związek.
+
+Zamknąłem kartę obserwacji i przez chwilę trzymałem na niej dłoń. Przez lata sam wybierałem, co znajdzie się w odpisach dla innych. Teraz ktoś podejmował podobną decyzję o moich notatkach, nie pytając mnie o zdanie.
+
+Nie poprosiłem Vaelis, żeby przestała pisać. Postanowiłem przygotować kopie zamkniętych kart: razem ze źródłami, poprawkami i pytaniami, na które nie znalazłem odpowiedzi. Przy każdej chciałem zaznaczyć, co widziałem sam, a co znałem z cudzej relacji. Nie wiedziałem jeszcze, kto poza Radą powinien je otrzymać. Tej rubryki nie zamierzałem wypełniać w pośpiechu.

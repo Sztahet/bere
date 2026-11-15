@@ -2,7 +2,7 @@
 
 ## Cienisty Port, 10 ET
 
-Vaelis przyniosła mi odpis zeznania z kopalni. Zanim zdążyłem go podpisać, zatrzymała pióro nad jednym zdaniem.
+Vaelis przyniosła mi odpis zeznania z kopalni. Zanim zdążyłem podpisać odpis, zatrzymała pióro nad jednym zdaniem.
 
 — Tu napisałeś, że świadek widział rozkaz — powiedziała. — W pierwszej notatce jest, że go słyszał.
 
@@ -10,11 +10,11 @@ Przeczytałem oba zapisy. Różnica mieściła się w jednym słowie. W aktach z
 
 Sprawa dotyczyła zawalenia w kopalni i człowieka, który pojawił się przy bramie. Nera przyniosła żeton znaleziony po wypadku; nie chciała, by w kopii dla zarządcy znalazło się jej imię. Pracownik bramy słyszał rozkaz nadzorcy i opisał, co stało się z żetonem. W moim podsumowaniu połączyłem obie rzeczy tak, jakby jeden świadek widział całą sekwencję.
 
-Vaelis położyła obok oba arkusze i dopisała w odpisie, co pracownik rzeczywiście widział, a co tylko słyszał. Musiałem sam poprawić podsumowanie, które podpisałem.
+Vaelis położyła obok oba arkusze i dopisała w odpisie, co pracownik rzeczywiście widział, a co tylko słyszał. Musiałem sam poprawić osobne podsumowanie sprawy, które podpisałem wcześniej.
 
 — Pomyliłem źródło — powiedziałem. — Nie fakt. Źródło.
 
-Poprawiłem „widział rozkaz” na „słyszał rozkaz”. Zostawiłem osobno zdanie, że według świadka żeton włożył strażnik; nie dopisałem, że ten świadek widział to na własne oczy. Vaelis przysunęła kartę Nery, żeby nie zasłonić pustej rubryki. Nie chciała, bym dopisał tam imię jej brata tylko dlatego, że znałem je z innych dokumentów. Zostawiłem pole puste.
+Poprawiłem „widział rozkaz” na „słyszał rozkaz”. Zostawiłem osobno zdanie, że według świadka żeton włożył strażnik; nie dopisałem, że ten świadek widział to na własne oczy. Vaelis odsunęła kartę Nery, odsłaniając pustą rubrykę. Nie chciała, bym dopisał tam imię brata Nery tylko dlatego, że znałem je z innych dokumentów. Zostawiłem pole puste.
 
 Kiedy wyszła, otworzyłem zamkniętą księgę. Wróciłem do kart z Val Meris, których nie umieszczałem w publicznych odpisach. Pamiętałem dotyk sztywnego papieru w punkcie opatrunkowym i ciemne linie pod skórą zmarłych. Obok każdego opisu trzymałem źródło, datę otrzymania i to, czego sam nie widziałem. Żaden zapis nie dowodził, że za zmianami stał splotyt. Żaden też nie czynił ich zwykłymi obrażeniami.
 
