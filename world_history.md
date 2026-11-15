@@ -345,6 +345,8 @@ Przywódca, który po uczciwej przegranej dotrzymuje publicznego słowa, może z
 
 Historie bohaterów mają być przedstawiane graczowi stopniowo: im więcej gra daną postacią, tym więcej może się o niej dowiedzieć. Wiedza gracza nie oznacza automatycznie, że pozostałe postacie znają te same fakty. Dokładne progi, sposób odblokowania i podział informacji pozostają do zaprojektowania.
 
+**Kanoniczne opowieści:** trzy części historii Leny, trylogia Rian „Cena wyboru” („Jedenaście minut”, „Drugi ołówek”, „Nie przestałam”), trzy opowieści Adriena oraz trzy opowieści Saily („Ciężar kryształu”, „Gdy wieża zamilkła”, „To, czego nie nauczył mnie Ruvan”). Dla Saily źródłem tekstu są zasoby czytnika `SailaStory`, `SailaAwakening` i `SailaFinale`; dla Adriena i Leny — odpowiadające im rękopisy i zasoby czytnika, a dla Rian — rękopisy trylogii. Zatwierdzenie opowieści nie rozstrzyga pozostawionych w nich tajemnic ani nie zatwierdza automatycznie osobnych notatek, promptów i ilustracji.
+
 Wspólna historia Nivy, Liory i Eliry oraz ich indywidualne biografie zostały zatwierdzone na potrzeby PoC w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md). Niva i Liora odnalazły się pierwsze na górskim szlaku. Elira szukała obu sióstr w rejestrach ewakuacyjnych. Odszukała dom Liory w Verdan i zastała tam również Nivę. Cała trójka spotkała się przed powodzią w 9 ET.
 
 Historia Dary również została zatwierdzona na potrzeby PoC w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md). Na Igrzyskach chce wesprzeć bezpieczeństwo ekip i odnaleźć dawnych towarzyszy, by zapytać o wydarzenia sprzed Nocy; jej podejrzenia nie rozstrzygają przyczyny katastrofy.

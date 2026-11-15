@@ -1,6 +1,6 @@
 # Saila — Gdy wieża zamilkła
 
-**Status:** wersja literacka; nie ustanawia nowych faktów kanonu.
+**Status:** szkic literacki; kanoniczna jest opowieść w czytniku `SailaAwakening/story.json`. Notatki robocze poniżej opowieści pozostają osobne.
 **Miejsce w osi czasu:** Nivoren, środek zimy 11 ET, po [„Ciężarze kryształu”](RIFTORYN_SAILA_MINIKSIAZKA_PROPOZYCJA.md).
 **Ilustracje:** sześć w czytniku. [Prompty do retuszu zimowej scenerii](RIFTORYN_SAILA_PROMPTY_AKTUALIZACJA.md).
 
@@ -1102,7 +1102,7 @@ I nie wiedziałam, czy powinnam się tego bać.
 
 To duże, hienowate zwierzę wysokich, zimnych przełęczy. Ma spadzisty grzbiet, mocne barki, szerokie łapy do poruszania się po śniegu i stromych skałach oraz krótkie, zakrzywione pazury. Gęste, popielatobiałe futro ma ciemne plamy i pas grubszej sierści wzdłuż grzbietu; przy pysku i łapach osiada na nim szron. Młode są mniejsze i bardziej puszyste, z jaśniejszymi znaczeniami — jedno z nich ma łatę nad okiem.
 
-W tej scenie samica chroni młode na zboczu poniżej wieży. Nie atakuje podróżnych ani wieży; po wykryciu przez automat osłania je własnym ciałem. Saila zna gatunek ze szkoły i wcześniejszych, dalekich obserwacji, a jej rozpoznanie oraz opis zachowania są częścią tego draftu, nie zatwierdzonym jeszcze kanonem.
+W tej scenie samica chroni młode na zboczu poniżej wieży. Nie atakuje podróżnych ani wieży; po wykryciu przez automat osłania je własnym ciałem. Kanoniczny przebieg sceny określa tekst czytnika; dodatkowy opis gatunku pozostaje notatką roboczą.
 
 ### Robocza nota o zdolności
 

@@ -2,7 +2,7 @@
 
 *Riftoryn · Cena wyboru · Zapiski Rian, po wojnie–9 ET*
 
-*Propozycja opowieści. Nowe szczegóły scen pozostają do uzgodnienia.*
+*Opowieść kanoniczna.*
 
 ## I. Uczeń
 

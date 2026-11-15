@@ -2,7 +2,7 @@
 
 *Riftoryn · Cena wyboru · Wspomnienia Rian z czasów wojny*
 
-*Propozycja opowieści. Nowe szczegóły scen pozostają do uzgodnienia.*
+*Opowieść kanoniczna.*
 
 ## I. Część zamienna
 
