@@ -180,6 +180,12 @@ Oglądał kartę pod światło, trzymając ją ostrożnie za brzegi.
 
 — Widziałem podobny rysunek na metalowej płytce. Dawno temu, u człowieka, który przechodził przez przełęcz z innymi handlarzami. Może to był ptak. Może tylko tak to wtedy nazwał.
 
+— Czy nazywał się Tovin?
+
+Ruvan zmarszczył brwi i jeszcze raz spojrzał na odrys.
+
+— Nie pamiętam jego imienia. Nie chcę go panu potwierdzać tylko dlatego, że brzmi znajomo.
+
 — Dokąd jechał?
 
 — Mówił o starym magazynie przy dolnej drodze. Jeśli ten magazyn jeszcze stoi, jest na południe stąd.
@@ -216,7 +222,7 @@ Sięgnąłem po moc, żeby odciągnąć płomień od wejścia. Gorąco posłucha
 
 — Pod belką! — krzyknąłem do niego.
 
-Nie ruszył. Kiedy nazwałem go chłopcem od narzędzia i powiedziałem, że matka czeka tuż za mną, ukląkł przy belce. Zaczepił o nią ramieniem. Puściłem płomień na tyle, by wsunąć rękę przez szczelinę i odciągnąć kawałek leżącej przy nim deski. Wtedy przeczołgał się do progu, a matka odciągnęła go na plac.
+Nie ruszył. Kiedy nazwałem go chłopcem od narzędzia i powiedziałem, że matka czeka tuż za mną, ukląkł przy belce. Zaczepił o nią ramieniem. Puściłem płomień na tyle, by wsunąć rękę przez szczelinę i odciągnąć kawałek leżącej przy nim deski. Gorąca krawędź otarła mi skórę pod rękawem. Wtedy chłopiec przeczołgał się do progu, a matka odciągnęła go na plac.
 
 Wtedy dostrzegłem metal przy odsłoniętej skrzyni. Płytka wisiała na rzemyku przy narożniku. Na jej powierzchni był zarys skrzydeł.
 
@@ -231,6 +237,8 @@ Długo siedziałem na kamieniu. Chłopiec oddał matce znaleziony młotek. Był 
 ## Co pozostało
 
 Rano rozgrzebaliśmy to, co wystygło. Skrzynię zasypały belki i kamienie ze ściany. Nie mogliśmy odsunąć ich bez narzędzi ani wejść pod resztę dachu, który wciąż groził zawaleniem. Płytka mogła tam zostać; nie znalazłem jej w gruzie, do którego zdołaliśmy bezpiecznie dotrzeć. Kobieta z sąsiedztwa powiedziała, że czasem do skrzyni przywiązywano znaki handlarzy; jej zdaniem ten przedstawiał koguta. Nie była pewna, bo widziała go po raz ostatni kilka zim temu.
+
+Spytałem, czy pamięta handlarza imieniem Tovin. Przyznała, że przez lata przewinęło się tam wielu ludzi, ale to imię nic jej nie mówiło. Zanotowałem jej odpowiedź obok słów Ruvana; nie miałem podstaw, by uznać, że oboje opowiadali o tym samym człowieku.
 
 — Proszę mi powiedzieć szczerze — zwróciłem się do niej. — Czy coś pani mówi nazwa Bractwo Feniksa?
 

@@ -8,7 +8,7 @@ Miałem jednego selena i parę miejscowych drobniaków, razem nie więcej niż p
 
 Wszedłem do jego gospody w Kharum w wypolerowanej zbroi. Na piersi miałem znak Feniksa, przy pasie miecz, a pod pachą księgę owiniętą w płótno.
 
-— Piecarius — oznajmiłem. — Rycerz Bractwa Feniksa. Stawiam się zgodnie z umową, by przejąć pieczę nad pańskim transportem.
+— Piecarius — oznajmiłem. — Rycerz Bractwa Feniksa. Stawiam się zgodnie z umową, by objąć ochroną dzisiejszy transport.
 
 Przy stole siedziała kobieta, która właśnie obgryzała gruszkę. Miała siwe włosy związane z tyłu i brązowe dłonie człowieka, który więcej czasu spędza na drodze niż przy stole. Spojrzała na mnie, potem na oberżystę.
 
@@ -74,7 +74,7 @@ Na bocznej stronie słupa, niemal przy ziemi, widniał zatarty znak. Dwa wygięt
 
 Pokręcił głową, ale nie wszedł do domu. Opowiedział, że przed wojną pracował w kuźni po drugiej stronie wzgórza i że stary kamień służył dzieciom za miejsce spotkań. Jedno z nich nazywało znak płonącą kurą. Imienia dziecka nie pamiętał; pamiętał za to, jak ukradło mu rękawice.
 
-Veda oddała mu list, a Oren schował go ostrożnie za pazuchę. Poprosił, bym jeszcze raz przeczytał imię jego wnuka. Wyjął kartkę, przeczytałem i oddałem mu ją z powrotem. Potem spytałem, czy mogę odrysować znak.
+Veda oddała mu list, a Oren schował go ostrożnie za pazuchę. Poprosił, bym jeszcze raz przeczytał imię wnuka jego siostry. Wyjął kartkę, przeczytałem i oddałem mu ją z powrotem. Potem spytałem, czy mogę odrysować znak.
 
 — Może pan. Tylko niech pan nie obiecuje ludziom, że to kura.
 
@@ -114,7 +114,7 @@ Zsiadłem z wozu. Najchętniej przedstawiłbym się zgodnie z obyczajem, lecz Le
 
 Pierwszy napastnik ruszył, zanim wyciągnąłem miecz. Uderzył w bok wozu, próbując dosięgnąć Vedy. Wystawiłem przed siebie dłoń i poprowadziłem ogień w wąski łuk nad kołem. Chciałem zmusić go do odwrotu, nie podpalić plandeki. Żar odpowiedział szybciej, niż zamierzałem. Cofnąłem rękę, a płomień skurczył się do linii biegnącej po wilgotnym kamieniu.
 
-Drugi napastnik dopadł mnie od strony drzew. Uderzenie przyjąłem naramiennikiem i poczułem, jak puszcza naprawiany rano rzemień. Zbroja przesunęła się na ramieniu. Zasłoniłem lukę tarczą przedramienia i odepchnąłem napastnika. Nie ruszyłem za nim; Veda wciąż siedziała na koźle.
+Drugi napastnik dopadł mnie od strony drzew. Uderzenie przyjąłem naramiennikiem i poczułem, jak puszcza naprawiany rano rzemień. Zbroja przesunęła się na ramieniu. Zasłoniłem lukę tarczą przedramienia i odepchnąłem napastnika. Kiedy cofnął się ku drzewom, dostrzegłem, że trzeci obchodzi wóz od tyłu. Krzyknąłem do Lena, by przytrzymał konie, a sam zastąpiłem napastnikowi drogę do skrzyni. Nie ruszyłem za uciekającym; przy wozie nadal byli ludzie, których miałem chronić.
 
 Len puścił lejce. Koń szarpnął i wóz przekrzywił się na poboczu. Veda krzyknęła, że skrzynia się przesuwa. Chciałem jeszcze raz rozciągnąć ogień, lecz po pierwszym ruchu ręka drżała mi za mocno, by utrzymać go przy samej ziemi. Zamiast tego stanąłem przy kole i kazałem Lenowi złapać konia od pyska.
 

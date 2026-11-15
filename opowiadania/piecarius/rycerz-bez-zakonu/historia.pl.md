@@ -134,7 +134,7 @@ Osłonę utrzymałem przez pierwszą połowę trasy. Przy zakręcie pocisk uderz
 
 Trzeci zawodnik prowadził ładunek na pasach. Tuż przed metą poślizgnął się, a jeden z pasów owinął mu się wokół nogi. Meva krzyknęła, żebym trzymał osłonę, i przykucnęła przy nim. Mogłem pociągnąć skrzynię dalej; linia mety była o kilka kroków. Zamiast tego osłoniłem ich oboje, choć oznaczało to zatrzymanie i utratę czasu. Meva rozcięła pas, a nasz towarzysz uparł się, że przejdzie resztę sam. Doszedł, opierając się na moim ramieniu.
 
-Skończyliśmy na miejscu premiowanym, choć przez postój straciliśmy szansę na wyższą nagrodę. Po odjęciu wpisowego wychodziłem na plus o jakieś pół selena za parę godzin roboty. Z mojej części dołożyłem się do opatrzenia nogi naszego towarzysza; zostanie mi mniej na odpis i posiłek, ale mógł wrócić do domu bez dalszego kuśtykania. Meva przyjęła moje podziękowanie za osłonienie skrzyni, po czym zapytała, czy zwykle słucham dopiero za drugim razem.
+Skończyliśmy na miejscu premiowanym, choć przez postój straciliśmy szansę na wyższą nagrodę. Po odjęciu wpisowego wychodziłem na plus o jakieś pół selena za parę godzin roboty. Z mojej części dołożyłem się do opatrzenia nogi naszego towarzysza; zostanie mi mniej na odpis i posiłek, ale zadbaliśmy o niego, zanim ruszył do domu. Meva przyjęła moje podziękowanie za osłonienie skrzyni, po czym zapytała, czy zwykle słucham dopiero za drugim razem.
 
 — Tylko wtedy, kiedy pierwsza wskazówka wymaga głębszego namysłu.
 
@@ -168,7 +168,7 @@ Położyłem dłoń na okładce księgi. Przez chwilę chciałem po prostu poda�
 
 — Zapiszcie mnie jako Piecariusa. Przysięgę Feniksa złożyłem sam, według zasad w księdze po ojcu. Nie mam dokumentu pasowania ani potwierdzonej przynależności do Bractwa.
 
-Urzędnik zapytał jeszcze, czy podaję nazwę drużyny. Odpowiedziałem, że nie. Wpisał moje imię i wybraną stronę, a przy informacji o przysiędze zaznaczył, że pochodzi ode mnie. Potem podał termin kwalifikacji. Nie obiecał mi miejsca w składzie i ja też nie mogłem go sobie obiecać.
+Urzędnik zapytał jeszcze, czy podaję nazwę drużyny. Odpowiedziałem, że nie. Wyjaśnił, że zgłoszenie po stronie wybranego wariantu nie rozstrzyga jeszcze, kogo będę reprezentował w składzie; jeśli przejdę kwalifikacje, ustalenia dotyczące reprezentacji trzeba będzie zarejestrować przed finałami. Wpisał moje imię i wybraną stronę, a przy informacji o przysiędze zaznaczył, że pochodzi ode mnie. Potem podał termin kwalifikacji. Nie obiecał mi miejsca w składzie i ja też nie mogłem go sobie obiecać.
 
 Na zewnątrz odnalazłem kobietę z kolejki. Chciałem jej powiedzieć, że zostałem przyjęty na listę. Zobaczyłem jednak, że rozmawia z kimś o własnym formularzu, i nie przerywałem. Wiedziałem już, co chcę powiedzieć o sobie, jeśli ktoś zapyta ponownie.
 
