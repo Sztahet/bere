@@ -48,13 +48,17 @@ Zadanie nie jest dla niej proste. Azmir rzeczywiście ma zamkniętą szafę i pr
 
 Jej własny konflikt polega na tym, że służba Radzie wymaga pełnej szczerości, a zaufanie Azmira wymaga ujawnienia, kim jest. Vaelis nie rozwiązuje tego przez kłamstwo ani przez ciche pomijanie informacji. Gdy Azmir pyta ją wprost, mówi mu o zleceniu i pokazuje kopię ostatniego raportu. Nie wie, czy nadal będzie mógł jej zaufać. On zaś nie żąda, by przestała raportować; prosi, żeby przy każdym wniosku zapisała, skąd go wzięła i czego nie wie.
 
-### Wspólny punkt zwrotny
+### Punkt zwrotny: publiczne zapisy do Igrzysk
 
-Azmir odnajduje dawną kopię meldunku, która podważa jego ulubioną kolejność awarii. Nie wpisuje jej do oficjalnego zestawienia, dopóki nie sprawdzi pochodzenia. Na odwrocie znajduje się opis fioletowego rozbłysku przy pękniętym krysztale. Vaelis zauważa, że podobny szczegół pojawił się w niezależnej relacji o Morraku. Zgodnie z poleceniem przekazuje Radzie pełny meldunek: o dokumencie, hipotezie Azmira, opóźnieniu publikacji i ryzyku, że kopia jest wtórna. Dopisuje, że żaden ze świadków nie łączy bezpośrednio Morraka z wybuchem.
+Przez lata Azmir składa obraz Morraka z rozproszonych, często zasłyszanych relacji. Zmienia się to podczas zapisów do kwalifikacji Wielkich Igrzysk w 12 ET. Morrak pojawia się przy punkcie zgłoszeń, gdzie widzą go setki osób. To nie jest jego pierwsze pojawienie się ani pierwsza relacja o nim; to pierwszy raz, kiedy tak wielu świadków obserwuje go w tym samym miejscu i czasie.
 
-Azmir odkrywa, że raporty Vaelis trafiają do Rady, i pyta ją o to wprost. Vaelis przyznaje, że miała sprawdzić, czy niczego nie zataja. Pokazuje mu przekazany meldunek; nie pominęła ani zamkniętej szafy, ani hipotezy o przemianie Morraka po wybuchu. Zachowała jednak rozróżnienie między jego podejrzeniem a potwierdzonym faktem. Azmir czuje się zdradzony, lecz nie może zarzucić jej fałszu. Prosi tylko, by Rada zobaczyła także notatki o tym, czego nie wie — nie samą atrakcyjną hipotezę.
+Tłum nie tworzy setek równorzędnych zeznań. Większość widzi tylko kolejkę, ciemny płaszcz albo gest przy formularzu. Azmir i Vaelis zbierają mniejszy zestaw niezależnych relacji od urzędniczki, strażniczki, kandydatów i osób, które widziały go z bliska. Oddzielają naocznych świadków od tych, którzy rozpoznali Morraka po opowieściach innych. Powtarzające się szczegóły — jego sposób poruszania się, cień przy sylwetce i krótka fioletowa poświata zauważona przez część obecnych — są dla Azmira mocniejsze niż wcześniejsze, rozproszone pogłoski. Rozbieżności przypominają mu jednak, że nawet tłum może wspólnie powtarzać cudzą wersję.
 
-Rada nie wydaje natychmiastowego wyroku ani nie przejmuje akt. Prosi o kopie prywatnych materiałów wraz z opisem ich pochodzenia i poziomu pewności. Vaelis dostarczy je, a Azmir sam zaczyna przygotowywać taki zestaw. Tajemnica Nocy pozostaje nierozwiązana, ale ich praca staje się jawniejsza dla siebie nawzajem i sprawdzalna dla Rady.
+Publiczny wpis Morraka na listę zmienia stawkę. Azmir nie bada już wyłącznie dawnych meldunków: może porównać nazwę wpisaną przez urzędnika, zachowanie człowieka przy stole i późniejsze relacje tych samych świadków. Zestawia to z prywatną hipotezą, że Morrak pojawił się po Nocy jako człowiek trwale zmieniony przez wybuch pękniętego kryształu splotytu. Nadal nie ma bezpośredniego dowodu przemiany ani potwierdzenia, że Morrak był przy wybuchu.
+
+Vaelis wysyła Radzie pełny raport o zdarzeniu: także o hipotezie Azmira, różnicach między świadkami i tym, czego nie potwierdzają. Azmir odkrywa, że raporty trafiają do Rady, i pyta ją o to wprost. Vaelis pokazuje mu kopię meldunku; nie pominęła ani jego zamkniętych akt, ani własnych zastrzeżeń. Azmir czuje się zdradzony, lecz prosi, by Rada otrzymała również notatki o tym, czego nie wie — nie samą atrakcyjną hipotezę.
+
+Rada nie wydaje natychmiastowego wyroku ani nie przejmuje akt. Prosi o kopie prywatnych materiałów wraz z opisem ich pochodzenia i poziomu pewności. Vaelis dostarczy je, a Azmir sam zaczyna przygotowywać taki zestaw. Tajemnica Nocy pozostaje nierozwiązana, ale odtąd istnieje publiczne zdarzenie, wokół którego można niezależnie porównać wiele relacji.
 
 ### Otwarte decyzje na dalszy rozwój
 
