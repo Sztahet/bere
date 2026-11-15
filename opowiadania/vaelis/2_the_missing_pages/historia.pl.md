@@ -4,7 +4,7 @@
 
 Po rozmowie o imieniu wpisanym na liście niosłam odpisy pod płaszczem, żeby nie zmokły. Azmir zobaczył mnie przez okno i zawołał, żebym wzięła płócienną torbę z mocnym szwem. Podziękowałam i ruszyłam w stronę portu, choć miałam skręcić do kancelarii Rady.
 
-Rada zleciła mi raportować o jego pracy. Nie zakładała, że popełnia nadużycie. Chciała wiedzieć, czy jego prywatne zeszyty zawierają coś, czego nie ma w dostępnych aktach. Przez lata przesyłałam informacje o świadectwach, które sprawdzał, i o tym, co uznawał za niepewne. W raportach wymieniałam też własne błędy. Gdy przekazuję tylko cudze, łatwo pomylić szczerość z oskarżeniem.
+Rada zleciła mi raportować o jego pracy. W zleceniu nie zarzucano mu nadużyć. Pytano, czy jego prywatne zeszyty zawierają coś, czego nie ma w dostępnych aktach. Przez lata przesyłałam informacje o świadectwach, które sprawdzał, i o tym, co uznawał za niepewne. W raportach wymieniałam też własne błędy. Gdy przekazuję tylko cudze, łatwo pomylić szczerość z oskarżeniem.
 
 Tamtego dnia wpisałam, że przyjęty do kwalifikacji kandydat nie potwierdził imienia Morrak. Wymieniłam relacje Talmy, Veli, Kery i Desa osobno, bo żadne z nich nie opisało tego samego gestu z tego samego miejsca. Dodałam, że Azmir nie zamierzał przypisywać kandydatowi powodu zgłoszenia. Rada odpisała jednym zdaniem: „Dziękujemy. Prosimy kontynuować bez wpływania na pracę archiwum”.
 
@@ -22,6 +22,6 @@ Pokazał mi osobną notatkę o pękniętym krysztale splotytu. Nie łączył jej
 
 Nie zapytałam, czy bał się prawdy, czy reakcji ludzi na prawdę, której nie umiał dowieść. Nie byłoby to uczciwe pytanie. Sama nie wiedziałam, co zrobiłabym z takimi kartami w środku wojny.
 
-Wysłałam Radzie kopię opisów, źródła i ostrzeżenie: nie znaleźliśmy dowodu, że zmiany wywołał splotyt. Rada odpowiedziała, że nie ujawni tych zapisów publicznie. Obawiała się paniki i oskarżeń wobec tych, których ciał nie odnaleziono. Poleciła zachować pełną dokumentację w zamkniętym archiwum.
+Wysłałam Radzie kopię opisów, źródła i ostrzeżenie: nie znaleźliśmy dowodu, że zmiany wywołał splotyt. W odpowiedzi napisano, że zapisy nie zostaną ujawnione publicznie z obawy przed paniką i oskarżeniami wobec tych, których ciał nie odnaleziono. Polecono zachować pełną dokumentację w zamkniętym archiwum.
 
 Do mojego raportu dołączyłam również decyzję Rady. Nie chciałam, by za kilka lat ktoś mógł powiedzieć, że tylko Azmir coś ukrył. Teraz tajemnica miała więcej niż jednego autora.

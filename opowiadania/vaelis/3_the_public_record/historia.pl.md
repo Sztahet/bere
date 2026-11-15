@@ -4,13 +4,11 @@
 
 W dzień rozpoczęcia kwalifikacji dziedziniec był pełen kandydatów, obsługi i widzów. Przy bramie stał stół z kartami. Znałam już imię Morrak; nie wiedziałam, czy sam je wybrał. Wiedziałam, że Azmir od lat zachowuje opisy człowieka w ciemnym płaszczu, który osłaniał innych.
 
-Nie powiedziałam o tym ludziom w kolejce. Zadałam każdemu to samo pierwsze pytanie: „Co pani widziała?” albo „Co pan widział?”. Dopiero później pytałam, czy zna imię kandydata i skąd je zna.
-
-W czasie zamieszania przy stole poluzował się klosz lampy. Dziewczyna z arkuszami odsunęła się, ale przewód oplótł jej torbę. Mężczyzna w ciemnym płaszczu złapał lampę, zanim upadła. Cień rozlał się na blacie w stronę jego dłoni. Na moment przeciął go fioletowy błysk. Z bliska widziałam dwa nierówne, jasne ściegi na rozdartym rękawie.
+W czasie zamieszania ktoś zahaczył o przewód. Lampa przechyliła się, a jej klosz poluzował się w oprawie. Dziewczyna z arkuszami odsunęła się, ale przewód oplótł jej torbę. Mężczyzna w ciemnym płaszczu złapał lampę, zanim upadła. Cień rozlał się na blacie w stronę jego dłoni. Na moment przeciął go fioletowy błysk. Z bliska widziałam dwa nierówne, jasne ściegi na rozdartym rękawie.
 
 Nikt nie musiał mi powiedzieć, co mam zobaczyć. Na dziedzińcu były setki osób, ale nie wszystkie widziały samo zdarzenie. Jedni stali za plecami innych. Kilku ludzi powtórzyło słowa kogoś, kto był bliżej. Zapisałam to przy ich zeznaniach, żeby liczba obecnych nie udawała liczby niezależnych świadków.
 
-Azmir poprosił o osobne rozmowy z tymi, którzy byli najbliżej. Kobieta z arkuszami potwierdziła, że mężczyzna ją osłonił. Strażnik opisał błysk i rękaw. Kandydat, który stał przy stole, pamiętał tylko cień i sposób, w jaki mężczyzna odsunął lampę od przejścia. Ich opisy nie były identyczne. Łączyły je jednak szczegóły, które w dawnych aktach pojawiały się przed tym, jak tłum zaczął mówić o Morraku.
+Azmir poprosił o osobne rozmowy z tymi, którzy byli najbliżej. Nie pokazywaliśmy im dawnych opisów. Każdego pytałam najpierw, co widział, a dopiero później, czy zna imię kandydata i skąd je zna. Kobieta z arkuszami potwierdziła, że mężczyzna ją osłonił. Strażnik opisał błysk i rękaw. Kandydat, który stał przy stole, pamiętał tylko cień i sposób, w jaki mężczyzna odsunął lampę od przejścia. Ich opisy nie były identyczne. Łączyły je jednak szczegóły, które w dawnych aktach pojawiały się przed tym, jak tłum zaczął mówić o Morraku.
 
 Przy liście widziałam Tarena i Lucena. Powitali się gestem, bez rozmowy. Nie dopisałam, co o sobie myśleli. Zapisuję zdarzenia, nie cudze wnętrza.
 
