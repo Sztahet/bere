@@ -20,6 +20,7 @@ public static class RiftorynL10n
     {
         if(string.IsNullOrEmpty(text))return text;
         var locale=LocalizationSettings.SelectedLocale;
+        if(text=="Tank")return locale?.Identifier.Code=="en"?"Tank":"Obrońca";
         if(locale==null)return text;
         string code=locale.Identifier.Code;
         if(cachedLocale!=code){cache.Clear();cachedLocale=code;}

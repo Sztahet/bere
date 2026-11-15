@@ -121,7 +121,7 @@ Podczas przebywania w mgle Runner jest spowolniony o **10%** i co sekundę otrzy
 
 [PROPOZYCJA] Bazowa macierz żywiołów: każda para różnych żywiołów to główna przewaga/słabość 120%/80%, zwykła 110%/90% lub neutralność 100%. Każdy żywioł ma po jednej przewadze i słabości obu stopni oraz dwie neutralne relacje. Główne przewagi: Ogień → Natura; Lód → Światło; Błyskawice → Lód; Natura → Ziemia; Ziemia → Błyskawice; Światło → Ciemność; Ciemność → Ogień. Zwykłe przewagi: Ogień → Lód; Lód → Natura; Błyskawice → Ogień; Natura → Światło; Ziemia → Ciemność; Światło → Ziemia; Ciemność → Błyskawice. [PROPOZYCJA DO TESTÓW] Atak przeciw celowi tego samego żywiołu zadaje roboczo 50% obrażeń, jako silna odporność celu na własny żywioł. Dokładny zakres tej odporności i jej łączenie z innymi modyfikatorami pozostają do weryfikacji.
 
-[PROPOZYCJA DO TESTÓW — ODPORNOŚCI BOHATERÓW] Bohater dziedziczy odporności z relacji między swoim żywiołem a żywiołem atakującego: neutralny 0%; zwykła przewaga bohatera +5%, główna przewaga +10%; zwykła słabość −5%, główna słabość −10%. Relacja z własnym żywiołem bohatera jest neutralna. Tankowiec otrzymuje pasywnie dodatkowe +5% odporności na każdy żywioł; premie dodają się do wartości bazowej. Wartości i sposób łączenia wymagają testów.
+[PROPOZYCJA DO TESTÓW — ODPORNOŚCI BOHATERÓW] Bohater dziedziczy odporności z relacji między swoim żywiołem a żywiołem atakującego: neutralny 0%; zwykła przewaga bohatera +5%, główna przewaga +10%; zwykła słabość −5%, główna słabość −10%. Relacja z własnym żywiołem bohatera jest neutralna. Obrońca otrzymuje pasywnie dodatkowe +5% odporności na każdy żywioł; premie dodają się do wartości bazowej. Wartości i sposób łączenia wymagają testów.
 
 [USTALONE] Bohaterowie, wieże i moby mają żywioł; pet dziedziczy żywioł bohatera. Modyfikatory przewagi lub słabości żywiołu, technologii i odporności celu sumują się addytywnie. [PROPOZYCJA DO TESTÓW] Trafienie celu tym samym żywiołem zadaje roboczo 50% obrażeń; wartość i zakres wrogów objętych tą odpornością wymagają weryfikacji. [USTALONE — PoC] Po każdej parze ataków każdy gracz otrzymuje **150 g**; każdy gracz drużyny, która wygrała parę, otrzymuje dodatkowe **50 g**. Przy remisie obie drużyny dostają premię zwycięzcy. Są to wartości startowe do testów. [OTWARTE] Zachowanie odporności na ten sam żywioł wobec mobów i petów, kolejność łączenia modyfikatorów z osłonami, kolizje równoczesnych wpłat oraz zasady AFK. Cel około 20% kosztu całego drzewka na mecz wymaga wyceny po zdefiniowaniu reakcji i długości meczu.
 
@@ -249,7 +249,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 - Leczenie i naprawa nie przekraczają maksimum. Ponowne nałożenie tego samego efektu nie sumuje jego siły; utrzymuje silniejszy efekt i odświeża czas. Różne spowolnienia nie sumują się — działa najsilniejsze. Wartości są bez bonusów drzewka.
 - Zdolność użyta na nieprawidłowym celu nie uruchamia czasu odnowienia. Serwer sprawdza fazę, cel, zasięg, widoczność i wynik. Runner może wybrać jako cel wyłącznie odkrytą przez drużynę wieżę; jeśli opis wymaga widoczności, ściana blokuje celowanie. Defender widzi własne wieże. Wszystkie czasy, obrażenia i ograniczenia poniżej są propozycją do balansu.
 
-### Tankowie
+### Obrońcy
 
 #### 1. Brom — Tank Ziemi: Kamienna Tarcza
 **HP:** 180. **Prędkość:** 4,0 m/s (wartość startowa do testów). Powolny obrońca osłaniający przejście.
