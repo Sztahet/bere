@@ -28,6 +28,10 @@ Trzy opowieści są dostępne z karty Adriena w kodeksie Unity oraz w Archiwum R
 
 Trzy kanoniczne opowieści są dostępne z karty Leny w kodeksie i w Archiwum Riftoryn. Po zmianie rękopisów odtwórz zasoby `LenaStory1`–`LenaStory3` poleceniem `python scripts/build_lena_stories.py`, a następnie uruchom `python scripts/build_story_archive.py`. Opowieści nie mają jeszcze ilustracji. Sama bohaterka nadal jest w przygotowaniu.
 
+## Robocze trylogie Noctena, Piecariusa i Morraka
+
+Trzy części każdego bohatera są dostępne z jego karty w kodeksie Unity oraz w Archiwum Riftoryn. Są oznaczone jako wersje robocze. Źródłem tekstu są pliki `RIFTORYN_NOCTEN_*.md`, `RIFTORYN_PIECARIUS_*.md` i `RIFTORYN_MORRAK_*.md`. Po zmianie tekstu uruchom `python scripts/build_draft_stories.py`, a następnie `python scripts/build_story_archive.py` i `python -m unittest discover -s tests`. Test sprawdza zgodność tekstów Unity i archiwum HTML. Dostępność w istniejącym buildzie Unity wymaga jego przebudowania.
+
 ## Splotyt w grze
 
 Przycisk **Splotyt** w kodeksie Unity otwiera poradnik w języku polskim, zapisany w `Assets/Resources/Splotyt/story.json`. Jego tekst pochodzi ze strony `splotyt.html`; po edycji strony odśwież zasób gry poleceniem `python scripts/build_splotyt_story.py`, sprawdź `python -m unittest discover -s tests` i zbuduj grę ponownie.

@@ -7,14 +7,15 @@ using UnityEngine;
 
 public partial class RiftorynMenu
 {
-    bool sailaReaderOpen;
+    bool sailaReaderOpen, sailaStoryDraft;
     int sailaChapter;
     Vector2 sailaScroll;
     SailaStoryData sailaStory;
     string sailaStoryFolder="SailaStory", sailaStoryTitle="CIĘŻAR KRYSZTAŁU", storyHeroName="SAILA";
 
-    void OpenSailaStory(string folder, string title, string heroName="SAILA")
+    void OpenSailaStory(string folder, string title, string heroName="SAILA", bool draft=false)
     {
+        sailaStoryDraft=draft;
         sailaStoryFolder=folder;
         sailaStoryTitle=title;
         storyHeroName=heroName;
@@ -53,7 +54,7 @@ public partial class RiftorynMenu
         float viewWidth=Mathf.Min(w-pad*2,840), x=(w-viewWidth)*.5f;
         sailaScroll=GUI.BeginScrollView(new Rect(x,55,viewWidth,viewHeight),sailaScroll,new Rect(0,0,viewWidth-20,total));
         float inner=(viewWidth-20-width)*.5f;
-        GUI.Label(new Rect(inner,5,width,25),"ROZDZIAŁ "+(sailaChapter+1)+" / "+sailaStory.chapters.Length+"  ·  WERSJA POLSKA",sailaSmall);
+        GUI.Label(new Rect(inner,5,width,25),"ROZDZIAŁ "+(sailaChapter+1)+" / "+sailaStory.chapters.Length+"  ·  WERSJA POLSKA"+(sailaStoryDraft?"  ·  WERSJA ROBOCZA":""),sailaSmall);
         GUI.Label(new Rect(inner,30,width,45),chapter.title,sailaTitle);
         foreach(var block in chapter.blocks)
         {

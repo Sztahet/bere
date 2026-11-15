@@ -1,4 +1,6 @@
+import json
 import unittest
+from pathlib import Path
 
 from scripts.build_story_archive import CATALOG, WEB_DATA, load_story, render_data
 
@@ -18,3 +20,18 @@ class StoryArchiveTests(unittest.TestCase):
                     for chapter in story["chapters"]:
                         self.assertTrue(chapter["title"])
                         self.assertTrue(any(block.get("text") for block in chapter["blocks"]))
+
+    def test_draft_trilogies_match_unity_resources(self):
+        root = Path(__file__).resolve().parents[1]
+        folders = {"nocten": "Nocten", "piecarius": "Piecarius", "morrak": "Morrak"}
+        found = set()
+        for hero_id, _, _, _, _, entries in CATALOG:
+            if hero_id not in folders:
+                continue
+            found.add(hero_id)
+            for index, entry in enumerate(entries, 1):
+                story = load_story(*entry)
+                resource = root / "riftoryn-unity/Assets/Resources" / f"{folders[hero_id]}Draft{index}" / "story.json"
+                self.assertTrue(story.get("draft"))
+                self.assertEqual(json.loads(resource.read_text(encoding="utf-8"))["chapters"], story["chapters"])
+        self.assertEqual(found, set(folders))

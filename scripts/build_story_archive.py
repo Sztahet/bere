@@ -12,6 +12,21 @@ PORTRAITS = Path("assets/heroes/portraits")
 RESOURCES = UNITY / "Assets" / "Resources"
 
 CATALOG = [
+    ("nocten", "Nocten", "Vesper", "nocten-darkness-support.png", None, [
+        ("droga-ktorej-nie-bylo", "Droga, której nie było", "RIFTORYN_NOCTEN_01_DROGA_KTOREJ_NIE_BYLO.md"),
+        ("tym-razem-nie-wierz-noctenowi", "Tym razem nie wierz Noctenowi", "RIFTORYN_NOCTEN_02_TYM_RAZEM_NIE_WIERZ_NOCTENOWI.md"),
+        ("pierwsza-lekcja", "Pierwsza lekcja", "RIFTORYN_NOCTEN_03_PIERWSZA_LEKCJA.md"),
+    ]),
+    ("piecarius", "Piecarius", "Vareth", "piecarius-fire-tank.png", None, [
+        ("ksiega-bez-autora", "Księga bez autora", "RIFTORYN_PIECARIUS_01_KSIEGA_BEZ_AUTORA.md"),
+        ("slady-w-popiele", "Ślady w popiele", "RIFTORYN_PIECARIUS_02_SLADY_W_POPIELE.md"),
+        ("rycerz-bez-zakonu", "Rycerz bez zakonu", "RIFTORYN_PIECARIUS_03_RYCERZ_BEZ_ZAKONU.md"),
+    ]),
+    ("morrak", "Morrak", "Vesper", "morrak-darkness-tank.png", None, [
+        ("imie-ktorego-nie-wypowiedzial", "Imię, którego nie wypowiedział", "RIFTORYN_MORRAK_01_IMIE_KTOREGO_NIE_WYPOWIEDZIAL.md"),
+        ("swiadkowie-milczenia", "Świadkowie milczenia", "RIFTORYN_MORRAK_02_SWIADKOWIE_MILCZENIA.md"),
+        ("nazwisko-na-liscie", "Nazwisko na liście", "RIFTORYN_MORRAK_03_NAZWISKO_NA_LISCIE.md"),
+    ]),
     ("saila", "Saila", "Biały Przesmyk", "saila-cold-specialist-portrait.png", None, [
         ("ciezar-krysztalu", "Ciężar kryształu", "SailaStory"),
         ("gdy-wieza-zamilkla", "Gdy wieża zamilkła", "SailaAwakening"),
@@ -48,9 +63,9 @@ CATALOG = [
 def markdown_chapters(source, title):
     text = (ROOT / source).read_text(encoding="utf-8")
     pieces = re.split(r"(?m)^## (.+)$", text)
-    if len(pieces) < 3 or not pieces[0].splitlines()[0].endswith(f" — {title}"):
+    if len(pieces) < 3 or not (pieces[0].splitlines()[0].endswith(f" — {title}") or pieces[0].splitlines()[0] == f"# {title}"):
         raise ValueError(f"Nie znaleziono tytułu lub rozdziałów w {source}")
-    return [
+    chapters = [
         {
             "title": heading,
             "blocks": [{"text": (re.sub(r"\*(.*?)\*", r"\1", re.sub(r"\*\*(.*?)\*\*", r"\1", paragraph.strip()))
@@ -59,6 +74,15 @@ def markdown_chapters(source, title):
         }
         for heading, body in zip(pieces[1::2], pieces[2::2])
     ]
+    if source.startswith("RIFTORYN_MORRAK_"):
+        preamble = pieces[0].splitlines()
+        metadata = [line.strip().strip("*") for line in preamble if "Archiwum Cienistego Portu" in line or line.startswith("*Zapis Azmira:")]
+        chapters[0]["blocks"][:0] = [{"text": line} for line in metadata]
+    for chapter in chapters:
+        for block in chapter["blocks"]:
+            block["text"] = re.sub(r"\*\*(.*?)\*\*", r"\1", block["text"])
+            block["text"] = re.sub(r"\*(.*?)\*", r"\1", block["text"])
+    return chapters
 
 
 def load_story(slug, title, source):
