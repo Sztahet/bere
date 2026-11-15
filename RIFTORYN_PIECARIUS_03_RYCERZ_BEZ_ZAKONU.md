@@ -30,7 +30,7 @@ Podałem jej kosz, bo trudno wejść do pokoju z koszem i rozmawiać przez próg
 
 Położyła monety na stole. Jedna była mniejsza, lokalna; drugą mógłbym opłacić część podróży powrotnej, gdybym znalazł niedrogie miejsce przy cudzym wozie. Przez chwilę cieszyłem się pieniędzmi, które od początku należały do mnie.
 
-W 12 ET w mieście przybywało gości. Wielkie Igrzyska ściągały ludzi z krain, do których nie dotarłbym przez lata. Jedni przyjechali oglądać zawody, inni pracować przy dostawach, sprzedawać jedzenie albo spotkać krewnych. Rozważałem zgłoszenie do kwalifikacji. Na razie zatrudniłem się do ochrony transportu materiałów i jeszcze nie zdecydowałem, czy stanę przed urzędnikiem jako kandydat.
+W 12 ET w mieście przybywało gości. Wielkie Igrzyska ściągały ludzi z krain, do których nie dotarłbym przez lata. Jedni przyjechali oglądać zawody, inni pracować przy dostawach, sprzedawać jedzenie albo spotkać krewnych. Rozważałem zgłoszenie do kwalifikacji. Na razie zatrudniłem się do ochrony transportu materiałów i jeszcze nie zdecydowałem, czy stanę przed urzędnikiem jako kandydat. Nie brakowało mi doświadczenia z lokalnych zawodów sportowych: startowałem w nich dosyć często, bo lubiłem rywalizację, a nagroda potrafiła szybko uzupełnić sakiewkę. Przegrana też była możliwa. Te zawody nie rozstrzygały spraw traktatowych i nie zapewniały miejsca na Wielkich Igrzyskach.
 
 Miałem w sakwie księgę ojca, odrys znaku ze słupa i dwie gruszki. Jedną zostawiłem gospodyni w podziękowaniu za monety. Tym razem nie odmówiła.
 
@@ -122,39 +122,55 @@ Odsunąłem się od kolejki. Nie zgłosiłem się tego dnia. Wmawiałem sobie, �
 
 Drugą część zabrałem ze sobą.
 
-## Wąskie przejście
+## Nagroda i nazwisko
 
-Po południu eskortowałem wóz z drewnem i materiałem na zadaszenia. Przy bocznej ulicy ktoś źle zabezpieczył drugi wóz, załadowany belkami. Jedno koło osunęło się na pochyłym bruku. Belka wysunęła się spomiędzy lin i uderzyła w słup wspierający tymczasowe zadaszenie.
+Następnego ranka, zanim wróciłem do urzędu, wystartowałem w miejscowych zawodach sportowych. Organizatorzy ogłosili zadanie przed rozpoczęciem: przejść wyznaczony odcinek i utrzymać osłonę nad drewnianym ładunkiem, podczas gdy ćwiczebne urządzenia strzelały w jego stronę. Miejsce w klasyfikacji zależało od czasu i stanu ładunku. Nie była to Próba rozstrzygająca spór między krainami.
 
-Ludzie cofnęli się od razu. Pod płótnem została kobieta i dwoje dzieci. Jedno potrafiło iść, drugie miało nogę zaklinowaną między skrzynką a słupem.
+Wpisowe wynosiło równowartość 0,2 selena, a mój udział w nagrodzie za miejsce drużyny — jeśli je zdobędziemy — 0,8 selena. Opłaciłem wpisowe miejscowymi drobnymi i stanąłem obok dwojga zawodników, których poznałem dopiero przy losowaniu. Jedna z nich, Meva, spytała, czy umiem przyjąć wskazówki.
 
-Wbiegłem pod zadaszenie. Właściciel wozu próbował odciągnąć konie, ale splątane lejce trzymały je przy dyszlu. Koło przesunęło się jeszcze kawałek. Nie miałem miejsca, żeby od razu podnieść belkę.
+— Droga pani, jestem rycerzem. Słuchanie to jedna z moich najważniejszych cnót.
 
-— Podtrzymaj to — powiedziałem kobiecie, wskazując bok skrzynki. — Tylko nie ciągnij.
+— Dobrze. To kiedy powiem „w lewo”, nie idź w prawo.
 
-— Złamie mu nogę.
+Osłonę utrzymałem przez pierwszą połowę trasy. Przy zakręcie pocisk uderzył w jej krawędź, a ja wzmocniłem płomień zbyt gwałtownie. Żar przesunął się ku drewnianej skrzyni; cofnąłem go, ale przez chwilę druga strona została odkryta. Meva zdążyła zasłonić ładunek własną tarczą. Potem rzeczywiście kazała mi iść w lewo. Posłuchałem.
 
-— Dlatego ja najpierw odsunę słup.
+Skończyliśmy na miejscu premiowanym. Dostałem obiecane 0,8 selena, rozliczone miejscowymi środkami. Po odjęciu wpisowego zyskałem równowartość 0,6 selena, zanim zapłaciłem za jedzenie czy naprawę sprzętu. Nie była to fortuna, ale mogłem dzięki niej opłacić następny odpis i jeszcze zjeść porządny posiłek. Meva przyjęła moje podziękowanie za osłonienie skrzyni, po czym zapytała, czy zwykle słucham dopiero za drugim razem.
 
-Przyłożyłem ramię do drewna. Powinienem był wcześniej poluzować sprzączkę płaszcza; zapięcie wbiło mi się pod obojczyk. Słup drgnął, ale nie puścił.
+— Tylko wtedy, kiedy pierwsza wskazówka wymaga głębszego namysłu.
 
-Ktoś na zewnątrz krzyknął, że plandeka zaczyna się tlić od przewróconej lampy. Spróbowałem odciągnąć ciepło od tkaniny. Mogłem utrzymać mały płomień przy ziemi, lecz nie jednocześnie pchać słupa całym ciężarem i prowadzić ognia daleko od ludzi.
+— Na szczęście druga nie wymagała.
 
-— Woda! — zawołałem.
+Po południu wróciłem do punktu zgłoszeń. Kobieta, która poprzedniego dnia pytała o moje pasowanie, właśnie wychodziła z dokumentem w dłoni. Zatrzymałem ją.
 
-Głos odpowiedział z drugiej strony płótna. Ktoś przyniósł wiadro i polał lampę. Nie widziałem twarzy. W tym czasie kobieta wyjęła spod skrzynki but, ale noga chłopca wciąż tkwiła w środku.
+— Miała pani rację co do jednej rzeczy. Nikt mnie nie pasował.
 
-— Gdy powiem, ciągnij go do siebie. Nie za but.
+— Już mi to pan powiedział.
 
-Zaparłem się mocniej. Słup puścił na szerokość palców. Kobieta wyciągnęła dziecko. Starsza dziewczynka już czekała przy wyjściu. Kazałem im iść, a sam przytrzymałem słup do chwili, gdy ktoś z zewnątrz podparł go drągiem.
+— Tak. Potem odszedłem, zanim powiedziałem resztę. Mój ojciec zostawił mi księgę z zasadami Bractwa Feniksa. Nie znam jego siedziby ani nikogo, kto mógłby nadać mi tytuł. Nazywam siebie rycerzem, bo przyjąłem te zasady i staram się według nich żyć. To moja przysięga.
 
-Opuściłem ręce. Paliły mnie mięśnie, choć ogień nie dotknął zbroi. Właściciel wozu dziękował wszystkim naraz. Nie zapamiętałem, czy podziękował również mnie. Zapamiętałem chłopca, który domagał się odzyskania buta.
+Przyjrzała mi się, ale nie odsunęła z drogi.
 
-Wydobyliśmy go spod skrzynki. Miał urwany obcas.
+— Nadal nie wiem, czy nazwałabym pana rycerzem.
 
-— Da się naprawić — powiedziała matka.
+— Ma pani do tego prawo.
 
-Chłopiec przycisnął but do piersi. Nie wyglądał na przekonanego.
+— A pan zamierza się zgłosić?
+
+Tym razem odpowiedziałem, zanim zdążyłem ułożyć piękniejsze zdanie.
+
+— Tak.
+
+Przy stole urzędnik zapytał o imię i stronę zgłoszenia. Powiedziałem, że wybieram wariant wspólnego nadzoru Rady: zależało mi, by przy niebezpiecznych urządzeniach obowiązywały uzgodnione zabezpieczenia. Nie znałem odpowiedzi na każdy spór o władzę ani o przyczynę dawnych awarii. Wybór strony był warunkiem zgłoszenia i moją własną decyzją, nie dowodem na stanowisko Bractwa.
+
+— Przynależność? — spytał urzędnik.
+
+Położyłem dłoń na okładce księgi. Przez chwilę chciałem po prostu podać nazwę. Ale wtedy mogłaby wyglądać jak potwierdzona przynależność do działającego zakonu.
+
+— Zapiszcie mnie jako Piecariusa. Przysięgę Feniksa złożyłem sam, według zasad w księdze po ojcu. Nie mam dokumentu pasowania ani potwierdzonej przynależności do Bractwa.
+
+Urzędnik zapytał jeszcze, czy podaję nazwę drużyny. Odpowiedziałem, że nie. Wpisał moje imię i wybraną stronę, a przy informacji o przysiędze zaznaczył, że pochodzi ode mnie. Potem podał termin kwalifikacji. Nie obiecał mi miejsca w składzie i ja też nie mogłem go sobie obiecać.
+
+Na zewnątrz odnalazłem kobietę z kolejki. Chciałem jej powiedzieć, że zostałem przyjęty na listę. Zobaczyłem jednak, że rozmawia z kimś o własnym formularzu, i nie przerywałem. Wiedziałem już, co chcę powiedzieć o sobie, jeśli ktoś zapyta ponownie.
 
 ## Przysięga
 
@@ -166,9 +182,9 @@ Dziś lepiej rozumiałem, ile cierpliwości kosztowała go taka odpowiedź.
 
 Kobieta w kolejce mogła mieć rację. Nie miałem mistrza ani dokumentu potwierdzającego pasowanie. Nie znałem drogi do siedziby, a jeśli ktoś wciąż pamiętał nazwiska dawnych rycerzy, jeszcze go nie spotkałem.
 
-Miałem księgę. Miałem własną przysięgę. I wiedziałem, że kiedy dziecko utknęło pod belką, nie myślałem o tym, kto ma prawo tak mnie nazywać.
+Miałem księgę. Miałem własną przysięgę. I wiedziałem, że mogę dotrzymać tej przysięgi bez przypisywania sobie pasowania, którego nie było.
 
-Nadal chciałem odpowiedzi. Chciałem wiedzieć, skąd ojciec wziął księgę i czy człowiek z pieśni Bereda znał ten sam znak. Nie uznałem za dowód tego, co chciałem usłyszeć. Jutro mogłem poszukać kogoś z rodziny dawnego przewoźnika. Mogłem też wrócić do punktu zapisów i dopiero wtedy zdecydować, czy chcę się zgłosić.
+Nadal chciałem odpowiedzi. Chciałem wiedzieć, skąd ojciec wziął księgę i czy człowiek z pieśni Bereda znał ten sam znak. Nie uznałem za dowód tego, co chciałem usłyszeć. Jutro mogłem poszukać kogoś z rodziny dawnego przewoźnika, a później stawić się na kwalifikacje. Wyniku nie znałem.
 
 Na razie zanotowałem słowa pieśni czytelniej niż rano. Potem wsunąłem notes do sakwy, a księgę owinąłem płótnem.
 

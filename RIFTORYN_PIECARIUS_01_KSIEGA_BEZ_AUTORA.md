@@ -6,7 +6,7 @@
 
 Gdyby o rycerskiej godności świadczyła liczba selenów w sakiewce, nie powinienem był tego ranka przedstawiać się nikomu.
 
-Miałem jedną monetę i kilka drobnych, a z tego należało jeszcze zapłacić za pokój, posiłek i naprawę rzemyka przy naramienniku. Olejek cynamonowy kupiłem poprzedniego dnia. Człowiek nie musi wybierać między skromnością a schludnością, choć oberżysta, któremu przedstawiłem to rozumowanie, najwyraźniej był innego zdania.
+Miałem jedną monetę selena i miejscowe drobne o wartości około jednej piątej selena, a z tego należało jeszcze zapłacić za pokój, posiłek i naprawę rzemyka przy naramienniku. Olejek cynamonowy kupiłem poprzedniego dnia. Człowiek nie musi wybierać między skromnością a schludnością, choć oberżysta, któremu przedstawiłem to rozumowanie, najwyraźniej był innego zdania.
 
 Wszedłem do jego gospody w wypolerowanej zbroi. Na piersi miałem znak Feniksa, przy pasie miecz, a pod pachą księgę owiniętą w płótno.
 
@@ -28,7 +28,7 @@ Oberżysta potwierdził skinieniem. Wtedy kobieta odłożyła gruszkę.
 
 — A gruszek pan nie dostanie, dopóki nie zobaczę, jak pan pracuje.
 
-Oberżysta skrył uśmiech za kubkiem. Zapłaciłem mu za pokój i śniadanie, po czym wyszedłem obejrzeć wóz.
+Oberżysta skrył uśmiech za kubkiem. Za pokój ze śniadaniem zapłaciłem miejscowymi drobnymi równowartość 0,12 selena, po czym wyszedłem obejrzeć wóz.
 
 Veda miała dwa konie i pomocnika o imieniu Len. Młodzieniec znał trasę z poprzednich przejazdów. Ja znałem drogę z mapy, którą kupiłem wczoraj, i uważałem ją za wystarczającą. Mapa nie wspominała o tym, że przy pierwszym rozwidleniu trzeba skręcić w lewo, choć droga na prawo wygląda na szerszą i bardziej uczęszczaną.
 
@@ -138,7 +138,7 @@ Potem podała mi gruszkę. Była dojrzała i nieco obita. Przyjąłem ją z nale
 
 ## Księga
 
-Wieczorem dotarliśmy do osady. Veda zapłaciła mi zgodnie z umową, dodając niewielką sumę za uszkodzony rzemień. Chciałem odmówić. Odmówiłem nawet raz, ale nie drugi, ponieważ naramiennik rzeczywiście wymagał naprawy.
+Wieczorem dotarliśmy do osady. Veda zapłaciła mi zgodnie z umową jeden selen za ochronę na tej trasie, dodając miejscowymi drobnymi równowartość 0,08 selena za uszkodzony rzemień. Chciałem odmówić. Odmówiłem nawet raz, ale nie drugi, ponieważ naramiennik rzeczywiście wymagał naprawy.
 
 W izbie nad stajnią rozwinąłem księgę ojca. Okładka była stara, ciemna od dłoni, które dotykały jej przede mną. W kilku miejscach szycie puściło i dlatego przewracałem kartki wolno, podtrzymując je od spodu.
 

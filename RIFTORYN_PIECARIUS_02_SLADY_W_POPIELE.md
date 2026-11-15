@@ -10,7 +10,7 @@ Pierwszy raz sprzedałem płaszcz dla kartki papieru. Drugi raz zamierzałem spr
 
 — Wierzę. Nadal wolę pieniądze.
 
-Zapłaciłem. Kartka zawierała spis przedmiotów wyniesionych z dawnej sali spotkań: dwa lichtarze, skrzynię, zasłonę i żelazną płytkę z wyobrażeniem ptaka. Ptak mógł być feniksem. Mógł też być czymś innym; kopista nie narysował go ani nie zanotował barwy.
+Zapłaciłem równowartość 0,2 selena w miejscowych drobnych. Kartka zawierała spis przedmiotów wyniesionych z dawnej sali spotkań: dwa lichtarze, skrzynię, zasłonę i żelazną płytkę z wyobrażeniem ptaka. Ptak mógł być feniksem. Mógł też być czymś innym; kopista nie narysował go ani nie zanotował barwy.
 
 — Czy płyta jeszcze istnieje? — spytałem.
 
@@ -230,7 +230,7 @@ Przez całą noc układałem odpowiedź tak, żeby brzmiała godnie. W świetle 
 
 Skinął głową, jakby to wystarczyło. Mnie nie wystarczyło tak łatwo. Kiedy wracałem drogą, wciąż myślałem o odległości między moją dłonią a skrzynią. O jednym kroku. O tym, jak niewiele brakowało.
 
-Nie wiedziałem, co było na płytce. Nie wiedziałem, czy rzemyk należał do handlarza opisanego przez Demę. Straciłem przedmiot, którego mogłem nawet nigdy nie rozpoznać.
+Nie wiedziałem, co było na płytce. Nie wiedziałem, czy rzemyk należał do handlarza opisanego przez Demę. Straciłem przedmiot, którego mogłem nawet nigdy nie rozpoznać. Została mi wiadomość o handlarzu, ale żadnego przedmiotu, który mógłbym pokazać kolejnemu świadkowi. Zamiast obiecywanej odpowiedzi musiałem teraz pytać, kto widział płytkę przed pożarem i czy pamięta, dokąd handlarz pojechał dalej.
 
 W gospodzie pokazałem Noctenowi, starszemu magowi, odrys ze słupa. Poprosiłem, by spojrzał bez moich wyjaśnień. Obejrzał kartę, a potem herb na mojej piersi.
 
