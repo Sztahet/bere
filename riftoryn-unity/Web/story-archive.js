@@ -44,6 +44,8 @@
 
     function makeCard(person, available) {
       const card = available ? link(null, `#${person.id}`, "hero-card") : element("div", null, "hero-card unavailable");
+      const icon = elements.find(([name]) => name === person.element)?.[1];
+      if (icon) card.classList.add(`element-${icon}`);
       card.setAttribute("aria-label", `${person.name} — ${person.element}, ${person.role} — ${available ? "opowiadania dostępne" : "opowiadania w przygotowaniu"}`);
       if (available && person.id === hero.id) card.setAttribute("aria-current", "true");
       if (person.portrait) {
@@ -53,7 +55,6 @@
       }
       const content = element("span", null, "hero-content");
       const affinity = element("span", null, "hero-affinity");
-      const icon = elements.find(([name]) => name === person.element)?.[1];
       if (icon) {
         const image = element("img"); image.src = `${iconRoot}/elements/${icon}.png`; image.alt = "";
         affinity.append(image);
