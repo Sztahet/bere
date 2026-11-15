@@ -24,6 +24,7 @@
     ["niva","elira","Siostry","family","Po rozłące odnajdują się dzięki zapisom i świadectwu; później wspólnie pomagają podczas powodzi.","RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md"],
     ["liora","elira","Bliźniaczki","family","Rozdzielone w dzieciństwie bliźniaczki po latach uczą się na nowo swojej bliskości.","RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md"],
     ["azmir","vaelis","Mistrz i uczennica","work","Vaelis uczy się od Azmira pracy archiwistki i magii Ciemności, a zarazem poprawia jego błędy. Materiał do oceny.","RIFTORYN_AZMIR_POSTAC_I_TRYLOGIA_PROPOZYCJA.md"],
+    ["veda","piecarius","Zlecenie · szkic","work","Veda wynajmuje Piecariusa do ochrony wozu z częściami do pompy. Razem docierają do osady mimo napadu.","RIFTORYN_PIECARIUS_01_KSIEGA_BEZ_AUTORA.md"],
     ["piecarius","ruvan","Spotkanie · szkic","contact","W Nivoren Ruvan przekazuje mu niepewny trop o podobnym znaku.","RIFTORYN_PIECARIUS_02_SLADY_W_POPIELE.md"],
     ["piecarius","nocten","Spotkanie · szkic","contact","Nocten ogląda odrys znaku i zachęca Piecariusa do ostrożnej interpretacji.","RIFTORYN_PIECARIUS_02_SLADY_W_POPIELE.md"],
     ["piecarius","orien","Spotkanie · szkic","contact","W Aurelu pracują przy latarni i rozmawiają o księdze po ojcu Piecariusa.","RIFTORYN_PIECARIUS_02_SLADY_W_POPIELE.md"]
