@@ -2,9 +2,13 @@
 
 *Trzecia część trylogii. Zapiski Orvena. Wersja do oceny.*
 
+**Archiwum Cienistego Portu · 12 ET, przed 29 maja**
+
+*Zapis Orvena: weryfikacja zgłoszenia do kwalifikacji Wielkich Igrzysk i relacje świadków z punktu zapisów.*
+
 ## I. Przekreślone
 
-Ina przyniosła mi listę nazwisk do sprawdzenia, kiedy naprawiałem zawias szafy. Trzymałem w ustach gwóźdź i nie mogłem jej odpowiedzieć, więc położyła listę na stole i poczekała.
+Vaelis przyniosła mi listę nazwisk do sprawdzenia, kiedy naprawiałem zawias szafy. Trzymałem w ustach gwóźdź i nie mogłem jej odpowiedzieć, więc położyła listę na stole i poczekała.
 
 — Spójrz na siódmy wpis — powiedziała.
 
@@ -24,7 +28,7 @@ Wyjąłem gwóźdź z ust.
 
 Nazwisko na liście było tylko imieniem. Nasze stare dokumenty znały je od lat, choć żaden nie wyjaśniał, czy należy do człowieka, który po nie przyszedł.
 
-— Chcesz wrócić do tamtych akt? — spytała Ina.
+— Chcesz wrócić do tamtych akt? — spytała Vaelis.
 
 — Chcę wiedzieć, jak trafił na listę.
 
@@ -47,6 +51,8 @@ Tego ranka przed drzwiami stało kilkanaście osób. Nieznajomy w ciemnym płasz
 — Odsunął się? — spytałem.
 
 — Tak. O krok. Potem czekał.
+
+Talma zauważyła przy jego mankiecie dwa jasne ściegi, choć nie potrafiła powiedzieć, czy były krzywe. Zanotowałem to osobno, zanim zajrzałem do dawnych akt.
 
 W kolejce była też Vela, dostawczyni z Vesper, którą odnalazłem po południu. Twierdziła, że rozpoznała postać wcześniej niż reszta.
 
@@ -156,7 +162,7 @@ Kera, strażniczka, sądziła, że wybrał Radę. Przyznała jednak, że stała 
 
 Podziękowałem mu. Nie dowiedziałem się od niego niczego pewnego o kandydacie, ale lepiej rozumiałem, skąd brało się jego przypuszczenie.
 
-Po powrocie rozmawiałem z Iną. Przeczytała moje notatki, zatrzymując palec na zdaniu Talmy: „Nie zatrzymał mnie”.
+Po powrocie rozmawiałem z Vaelis. Miałem nadzieję, że kiedyś przejmie moją pracę; tymczasem prosiła mnie o trudniejsze sprawy, a nie tylko o przepisywanie. Dałem jej więc do sprawdzenia cały protokół. Przeczytała moje notatki, zatrzymując palec na zdaniu Talmy: „Nie zatrzymał mnie”.
 
 — Zostawisz to? — spytała.
 
@@ -172,7 +178,7 @@ Poprawiłem zdanie.
 
 Nie zaprzeczyłem. Po latach w archiwum nadal łapałem się na tym, że wolę zdecydowane zdanie od wiernego. Zdecydowane krócej zajmuje miejsce i łatwiej je odnaleźć w indeksie.
 
-Ina odłożyła kartę.
+Vaelis odłożyła kartę.
 
 — A jeśli naprawdę popiera Radę?
 
@@ -182,7 +188,7 @@ Ina odłożyła kartę.
 
 — Wpis w księdze i tak istnieje. Kandydat może się stawić jako zgłoszony po tej stronie. Nie wiem, co zamierza zrobić później.
 
-Wsunąłem notatki do teczki. Ina nie odeszła.
+Wsunąłem notatki do teczki. Vaelis nie odeszła.
 
 — Pamiętasz dziewczynkę z rozdartym rękawem?
 
@@ -206,7 +212,7 @@ Dołączyłem opis gestu i wskazałem, kto go widział. Oddzieliłem go od opini
 
 Pod spodem zostawiłem rubrykę „powód zgłoszenia”. Nie wpisałem w niej niczego.
 
-Ina spytała, czy nie powinno tam stanąć „nieznany”. Odpowiedziałem, że w podsumowaniu tak właśnie napisałem, ale tej rubryki nie chcę wypełniać za kandydata.
+Vaelis spytała, czy nie powinno tam stanąć „nieznany”. Odpowiedziałem, że w podsumowaniu tak właśnie napisałem, ale tej rubryki nie chcę wypełniać za kandydata.
 
 — Ktoś może uznać, że zapomniałeś.
 
@@ -220,7 +226,7 @@ Wieczorem zamknąłem szafę, której zawias wreszcie się nie zacinał. Na jedn
 
 Nie wiem, czy człowiek z kolejki stawi się na kwalifikacjach. Nie wiem, czy jest tym, którego widziała Meret, ani tym, którego bała się córka nadzorcy. Wiem, że jego imię zapisano, zanim je usłyszano od niego samego, a jego stronę wpisano na podstawie gestu.
 
-Kiedy gasiłem lampę, zobaczyłem przez okno Inę idącą w stronę portu. Niosła pod płaszczem odpisy i jedną ręką przytrzymywała je przed deszczem. Zawołałem, żeby wzięła płócienną torbę, tę z mocnym szwem.
+Kiedy gasiłem lampę, zobaczyłem przez okno Vaelis idącą w stronę portu. Niosła pod płaszczem odpisy i jedną ręką przytrzymywała je przed deszczem. Zawołałem, żeby wzięła płócienną torbę, tę z mocnym szwem.
 
 Wróciła po nią, choć powiedziała, że pada bardzo słabo. Poczekałem, aż schowa kartki, a potem zamknąłem drzwi.
 

@@ -2,6 +2,10 @@
 
 *Pierwsza część trylogii. Zapiski Orvena, archiwisty z Cienistego Portu. Wersja do oceny.*
 
+**Archiwum Cienistego Portu · 7 ET**
+
+*Zapis Orvena: relacje o napadzie na transport, zebrane w kolejnych dniach po zdarzeniu.*
+
 ## I. Mokry papier
 
 Najpierw przyniesiono mi mokry papier. Człowiek, który go niósł, trzymał zwitek pod płaszczem, lecz przemókł razem z płaszczem i połową ulicy. Rozwinąłem kartki na stole, przycisnąłem rogi kamieniami i kazałem posłańcowi usiąść z dala od pieca.
@@ -76,7 +80,9 @@ Córka Meret wbiła igłę w materiał i powiedziała:
 
 Matka spojrzała na nią zdziwiona.
 
-— Tutaj — dziewczynka wskazała własny nadgarstek. — Taki pasek wisiał i był mokry.
+— Tutaj — dziewczynka wskazała własny nadgarstek. — Taki pasek wisiał i był mokry. A obok były dwa jasne, krzywe ściegi.
+
+Meret powiedziała, że ich nie zauważyła. Córka twierdziła, że widziała je, kiedy chwyciła nieznajomego za rękaw, wychodząc spod plandeki.
 
 — Prawy czy lewy? — spytałem.
 
@@ -102,7 +108,11 @@ Podałem mu krzesło. Usiadł tak, żeby widzieć drzwi.
 
 — Co im zrobił?
 
-— Powiedzieli, że pozwolił im odejść. Potem znalazłem ich dowódcę.
+— Powiedzieli, że pozwolił im odejść. Jeden twierdził, że przyłączył się do napastników dobrowolnie i pomagał zatrzymywać wozy. Nie twierdził, że zmuszono go do udziału. Kiedy go znaleźliśmy, był rozbrojony, ale żywy. Potem znalazłem ich dowódcę.
+
+— Wie pan, czy człowiek w płaszczu słyszał to samo?
+
+— Nie wiem. Ten jeniec powiedział mi to później. Nie wiem też, co robił przed tamtym napadem.
 
 — Żywego?
 
@@ -192,5 +202,5 @@ Spojrzałem na mokry ślad po kubku, który zostawił podczas pierwszej wizyty. 
 
 — Ja też — powiedziałem.
 
-Zabrał dokument i wyszedł. Kartki o nieznajomym zostały u mnie. Nie wiedziałem jeszcze, że po latach będę do nich wracał częściej niż do rejestru utraconych skrzyń.
+Zabrał dokument i wyszedł. Kartki o nieznajomym zostały u mnie.
 

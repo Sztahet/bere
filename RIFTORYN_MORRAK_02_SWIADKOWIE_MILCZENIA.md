@@ -2,6 +2,10 @@
 
 *Druga część trylogii. Zapiski Orvena. Wersja do oceny.*
 
+**Archiwum Cienistego Portu · 10 ET**
+
+*Zapis Orvena: relacje dotyczące zawalenia w kopalni i późniejszej śmierci nadzorcy; zebrane w kolejnych dniach.*
+
 ## I. Żeton
 
 Żeton położyłem na stole między nami. Był wielkości dużego guzika, z wytartą krawędzią i śladem ciemnego wosku. Kobieta, która go przyniosła, nie usiadła.
@@ -134,7 +138,7 @@ Nie powiedziałem jej, że jeszcze nie wiem, co myśleć. Obawiam się, że zabr
 
 Po powrocie do portu rozłożyłem relacje na dwóch stołach. Pierwszego dnia wydawało mi się, że mam ich za mało. Drugiego — że mam ich aż nadto, by przypadkiem wybrać tylko te, które pasują do mojego wyobrażenia.
 
-Młoda kopistka Ina przyniosła mi odpis przygotowany dla zarządcy. Przeczytałem zdanie: „Świadek twierdzi, że widział rozkaz wydany osobiście przez nadzorcę”.
+Młoda kopistka Vaelis przyniosła mi odpis przygotowany dla zarządcy. Od niedawna uczyła się u mnie pracy archiwisty i magii Ciemności; chciałem z czasem przekazać jej moje obowiązki, choć ona sama jeszcze się na to nie zdecydowała. Przeczytałem zdanie: „Świadek twierdzi, że widział rozkaz wydany osobiście przez nadzorcę”.
 
 — Który świadek? — spytałem.
 
@@ -146,7 +150,7 @@ Wskazała moją kartę. Był na niej pracownik bramy.
 
 — To prawda. Ale kiedy za rok ktoś przeczyta tylko tę kartę, może uznać, że zobaczył również użycie żetonu.
 
-Ina wzięła odpis i usiadła naprzeciwko. Przez chwilę skrobała piórem.
+Vaelis wzięła odpis i usiadła naprzeciwko. Przez chwilę skrobała piórem.
 
 — Pan też napisał „widział” w podsumowaniu — powiedziała.
 
@@ -154,7 +158,7 @@ Miała rację. Przepisała moje zdanie bez błędu. To ja połączyłem dwie rel
 
 Poprawiłem podsumowanie i dopisałem, że strażnik użył żetonu po poleceniu nadzorcy. Nie usunąłem wersji pierwotnej; przekreśliłem ją tak, by dało się odczytać zmianę.
 
-— Po co ją zostawiać? — spytała Ina.
+— Po co ją zostawiać? — spytała Vaelis.
 
 — Żeby następna osoba wiedziała, że ktoś już raz uznał to zdanie za wystarczające.
 
@@ -166,11 +170,11 @@ Napisałem do niej jeszcze tego wieczoru. Odpisała po dwóch dniach: „Brat pr
 
 Dawne zapiski o drodze leżały w tej samej szafie. Wyjąłem je i porównałem z relacjami z kopalni. Ciemny płaszcz, milczenie, ludzie osłonięci przed zagrożeniem. Imiona Morrak i Vesh. Wszystko to się powtarzało, ale nie wszystkie szczegóły pochodziły od osób, które widziały postać z bliska.
 
-Jeden z górników opisał rozdarty rękaw. Sięgnąłem po kartę córki Meret i przez chwilę cieszyłem się, jakbym znalazł brakujący żeton do zamka. Potem sprawdziłem daty. Od napadu minęło kilka lat. Płaszcz można naprawić, wymienić albo rozedrzeć drugi raz. Górnik przyznał ponadto, że o rękawie usłyszał przy stole, już po wypadku.
+Jeden z górników mówił o dwóch jasnych, krzywych ściegach przy rękawie nieznajomego. Widział je, jak twierdził, gdy wspólnie podnosili belkę. Sięgnąłem po kartę córki Meret i przez chwilę cieszyłem się, jakbym znalazł brakujący żeton do zamka. Potem sprawdziłem daty. Od napadu minęły mniej więcej trzy lata. Płaszcz można naprawić, wymienić albo oddać drugiemu człowiekowi; dwa ściegi potrafi zrobić niejeden krawiec. Dziewczynka nie pamiętała, przy którym rękawie je widziała, a górnik nie chciał tego zgadywać. Opisał też rozdarcie, o którym — jak przyznał — usłyszał przy stole, już po wypadku.
 
 Odłożyłem kartę.
 
-Ina wróciła po podpis na odpisach. Zapytała, czy ten z drogi i ten z kopalni to jedna osoba.
+Vaelis wróciła po podpis na odpisach. Zapytała, czy ten z drogi i ten z kopalni to jedna osoba.
 
 — Nie wiem.
 
@@ -188,7 +192,7 @@ Na karcie czterdziestej drugiej zapisałem, kto widział ratunek, kto widział �
 
 Na końcu nie napisałem, czy Morrak jest Veshem. Napisałem, że nie potrafię tego ustalić na podstawie tych świadectw.
 
-Następnego ranka żeton zwrócono Nerze. Poprosiła, aby w aktach został jego rysunek. Ina narysowała go dokładniej, niż ja potrafiłbym opisać: nierówne koło, kreskę i małą szczerbę przy brzegu. Ta ostatnia nie rozstrzygała niczego. Nera powiedziała jednak, że po niej brat rozpoznał przedmiot.
+Następnego ranka żeton zwrócono Nerze. Poprosiła, aby w aktach został jego rysunek. Vaelis narysowała go dokładniej, niż ja potrafiłbym opisać: nierówne koło, kreskę i małą szczerbę przy brzegu. Ta ostatnia nie rozstrzygała niczego. Nera powiedziała jednak, że po niej brat rozpoznał przedmiot.
 
 Uznałem, że warto ją zachować.
 

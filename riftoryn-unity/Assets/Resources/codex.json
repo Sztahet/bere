@@ -304,6 +304,15 @@
       "comingSoon": true
     },
     {
+      "id": "vaelis",
+      "name": "Vaelis",
+      "role": "Wsparcie",
+      "element": "Ciemność",
+      "desc": "Młoda magini Ciemności z Vesper, uczennica archiwisty Orvena. Uczy się chronić ludzi i ich świadectwa, zachowując własny osąd.",
+      "descEn": "A young Darkness mage from Vesper and apprentice to the archivist Orven. She learns to protect people and their testimony while keeping her own judgment.",
+      "comingSoon": true
+    },
+    {
       "id": "orven",
       "name": "Orven",
       "role": "Wsparcie",
