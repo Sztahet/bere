@@ -134,7 +134,7 @@ Wpisowe wynosiło równowartość 0,2 selena, a mój udział w nagrodzie za miej
 
 Osłonę utrzymałem przez pierwszą połowę trasy. Przy zakręcie pocisk uderzył w jej krawędź, a ja wzmocniłem płomień zbyt gwałtownie. Żar przesunął się ku drewnianej skrzyni; cofnąłem go, ale przez chwilę druga strona została odkryta. Meva zdążyła zasłonić ładunek własną tarczą. Potem rzeczywiście kazała mi iść w lewo. Posłuchałem.
 
-Skończyliśmy na miejscu premiowanym. Dostałem obiecane 0,8 selena, rozliczone miejscowymi środkami. Po odjęciu wpisowego zyskałem równowartość 0,6 selena, zanim zapłaciłem za jedzenie czy naprawę sprzętu. Nie była to fortuna, ale mogłem dzięki niej opłacić następny odpis i jeszcze zjeść porządny posiłek. Meva przyjęła moje podziękowanie za osłonienie skrzyni, po czym zapytała, czy zwykle słucham dopiero za drugim razem.
+Skończyliśmy na miejscu premiowanym. Odebrałem obiecaną nagrodę w miejscowych drobnych. Po odjęciu wpisowego wychodziłem na plus o jakieś pół selena za parę godzin roboty. Jeszcze musiałem zapłacić za jedzenie i ewentualną naprawę sprzętu, ale powinno wystarczyć na następny odpis i porządny posiłek. Meva przyjęła moje podziękowanie za osłonienie skrzyni, po czym zapytała, czy zwykle słucham dopiero za drugim razem.
 
 — Tylko wtedy, kiedy pierwsza wskazówka wymaga głębszego namysłu.
 
