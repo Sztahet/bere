@@ -6,6 +6,7 @@ Przy tworzeniu kolejnych historii korzystaj również z [notatek o relacjach i p
 
 ## Podstawowe fakty
 
+- Mieszkańcy Riftorynu używają imion, nie nazwisk. W razie potrzeby rozróżniają osoby przez pochodzenie, zawód, funkcję lub inny kontekst. W oficjalnych wystąpieniach i księgach można podać tytuł albo instytucję, na przykład „Adrien, Uniwersytet Aurel” lub „Ruvan, Wielki Mistrz Magii Lodu” (ang. „Ruvan, Grand Master of Ice Magic”); na co dzień wystarcza imię.
 - Rok w Riftorynie ma 365 dni i 12 miesięcy o znanych czytelnikowi nazwach i długościach, od stycznia do grudnia; nie stosuje się dnia przestępnego. Daty oznacza się latami przed Traktatem (PT) lub erą Traktatu (ET), z rokiem podpisania jako 0 ET.
 - Splotyt jest rzadkim kryształem, który może przyjmować, przechowywać i przewodzić energię; dostrojone urządzenia wykorzystują go do zasilania kanałów, latarni, przekaźników i wież.
 - Po osiedleniu się ludzi na kontynencie odnaleziono splotyt; najstarszy znany opis ładowania go magią Błyskawic pochodzi z Zerath. Kto pierwszy użył tej właściwości, pozostaje nieznane. Później rozwijano zastosowania innych żywiołów. Pochodzenie żywiołów i kryształu pozostaje nieznane.
@@ -127,6 +128,22 @@ Miasta łączą interesy handlowe, zależności infrastrukturalne i spory o dost
 - **Cienisty Port:** handel i sieć kurierów łączą go z odległymi osadami. Niektóre załogi są obciążane złą reputacją z powodu pogłosek o powiązaniach z bandami; nie jest to dowód przeciw wszystkim mieszkańcom ani przewoźnikom miasta.
 
 Zależności przecinają się również w Val Meris, niezależnym, neutralnym mieście-państwie. Jest nieoficjalną stolicą kontynentu: przy wspólnych szlakach spotykają się tu mieszkańcy wszystkich krain, kupcy i delegacje, a także znajdują się instytucje polityczne. Działają tu składy zapasów, centra przeładunkowe, tawerny i miejsca odpoczynku oraz świętowania. Miasto utrzymuje się głównie z pośrednictwa, handlu, usług i obsługi życia politycznego; rolnictwo, kopalnie i główna produkcja dóbr pozostają domeną krain. Mieszczą się tu szkoły, główne siedziby różnych gildii, Szkoła Magów oraz Ministerstwo Magów. Szkoła i Ministerstwo zachowują niezależność od politycznych obozów, choć poszczególni magowie mogą angażować się politycznie. Neutralny status miasta sprzyja spotkaniom i negocjacjom, ale nie usuwa sporów o kontrolę szlaków.
+
+### Nauka i edukacja
+
+W krainach działają szkoły podstawowe, w których mieszkańcy zdobywają podstawy wiedzy i uczą się fachu. Praktyczne umiejętności przekazują także rodziny, warsztaty i lokalni mistrzowie. Osoby, które zdobyły odpowiednie przygotowanie i chcą rozwijać wiedzę, mogą ubiegać się o dalszą naukę, w tym o studia. Dostęp do niej zależy między innymi od możliwości kandydata i dostępnych miejsc; szczegółowe zasady, koszty i formy wsparcia pozostają nieustalone.
+
+**Uniwersytet w Aurel** jest najważniejszą i najbardziej cenioną szkołą wyższą kontynentu oraz ośrodkiem badań i wynalazków. To tam powstają jedne z największych osiągnięć Riftorynu. Uczniowie i badacze rozwijają wiedzę między innymi o splotycie, energii, urządzeniach i mapowaniu szlaków. Uniwersytet współpracuje z ludźmi z innych krain, których doświadczenie pomaga sprawdzać rozwiązania w praktyce; jego prestiż nie oznacza nieomylności ani tego, że wszystkie wynalazki powstają w Aurel. Liczba studentów i zasady przyjęć pozostają nieustalone.
+
+Szkoła Magów w Val Meris jest odrębną instytucją skupioną na nauce magii. Jej kształcenie nie zastępuje praktyki zdobywanej u lokalnych mistrzów ani nauki innych dziedzin na uniwersytecie.
+
+### Szkoła Magów w Val Meris
+
+Nauka w Szkole Magów trwa **sześć lat**. Szkoła może przyjąć **maksymalnie 30 nowych uczniów rocznie**. W każdym naborze po **trzy miejsca są zarezerwowane i wykorzystywane dla kandydatów z każdej z siedmiu krain**: Verdan, Kharum, Zerath, Vareth, Aurel, Nivoren i Vesper. Daje to łącznie 21 miejsc. Każda kraina co roku wybiera swoich przedstawicieli spośród osób o największym potencjale. Często są to ludzie młodzi, ale zdarza się, że kraina wysyła osobę dorosłą; wiek sam w sobie nie przesądza o potencjale kandydata.
+
+Pozostałe **dziewięć miejsc** przypada kandydatom wybranym przez magów szkoły ze względu na ich potencjał. Kandydaci mogą przybyć na próby kwalifikacyjne, podczas których magowie oceniają, komu warto przyznać **dziką kartę**, czyli jedno z tych miejsc. O dzikie karty mogą ubiegać się również mieszkańcy Val Meris oraz kandydaci z siedmiu krain. Val Meris jest niezależnym miastem-państwem, a nie ósmą krainą z osobną pulą trzech miejsc. Sam udział w próbach nie gwarantuje przyjęcia; szczegółowe zasady oceny i wyboru kandydatów na miejsca regionalne pozostają nieustalone.
+
+Przy pełnym naborze na sześciu rocznikach uczyłoby się jednocześnie **do 180 osób**; rzeczywista liczba może być niższa. Przykładowo 150 uczniów oznaczałoby średnio 25 na rok, ale nie jest to ustalona liczba uczniów. Nie wszyscy magowie kontynentu uczą się w Val Meris: wiedzę można zdobywać także w krainach i u lokalnych mistrzów. Saila zdobyła stypendium w szkole dzięki pomocy Ruvana; nie ustalono, czy zajęła miejsce regionalne, czy otrzymała dziką kartę.
 
 ### Siedem żywiołów i ich tradycje
 
@@ -334,7 +351,7 @@ Historia Dary również została zatwierdzona na potrzeby PoC w [historiach boha
 
 Historia Noctena została zatwierdzona na potrzeby PoC w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md). Jego sprzeczne wspomnienia i niewyjaśnione wskazówki pozostają otwarte; zatwierdzenie biografii nie ustala ich przyczyny.
 
-Historia Rian została zatwierdzona na potrzeby PoC w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md). Jej sabotaż przy jednej z bram Val Meris nie rozstrzyga przyczyny awarii całej sieci ani Nocy Zgasłych Wież.
+Historia Rian została zatwierdzona na potrzeby PoC w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md). Rian nie włada własną magią Ognia; konstruuje przyrządy wykorzystujące wcześniej naładowany splotyt, by uzyskać efekty związane z Ogniem. Jej sabotaż przy jednej z bram Val Meris nie rozstrzyga przyczyny awarii całej sieci ani Nocy Zgasłych Wież.
 
 Saila chce uzyskać dostęp do zapisów z Białego Przesmyku i zapewnić dostawy na czas. Gdy pojawia się propozycja przyspieszenia transportu przez przełęcz, obawia się użycia urządzeń bez sprawdzenia ich historii. Zet zna trasę i wie, że zwłoka może zamknąć ją przed zimą; jego załoga straciłaby jedyną szansę dostarczenia części do magazynów. Rian uważa, że potrafi zabezpieczyć urządzenie, ale potrzebuje dostępu do dokumentacji kontrolowanej przez Radę. Eron obawia się, że skierowanie całej ochrony na górski konwój zostawi dolinny szlak bez pomocy, gdy żywność będzie potrzebna w odciętych osadach.
 
@@ -418,6 +435,8 @@ Aurel porównuje raporty i przechowuje kopie świadectw. Jego archiwa są ważne
 Aurel jest ośrodkiem wynalazków i badań. Jego wyspecjalizowane wieże oświetlają niektóre szlaki nocą, a urządzenia cieplne, w tym piece udoskonalone przez Adriena, wykorzystują kryształy ładowane między innymi w Vareth. Badacze zależą od materiałów, załóg i wiedzy innych krain.
 
 W warsztacie Adriena pracuje Lena, techniczka z Aurelu, która w 4 PT miała 16 lat, a w 12 ET ma około 32. Ostrzegała go przed wadą wojennego sygnalizatora, a po awarii pomagała sprawdzać poprawione konstrukcje. Współpracuje z nim również Lucen, syn Tarena i Miry: po przybyciu do Aurelu szkolił się w magii Światła oraz pracy z mechanizmami. Jako młody adept doładowywał kryształy w warsztacie, a po latach Adrien sam zaczął prosić o jego pomoc. Lucen łączy magię z konstrukcją urządzeń; nie zmienia to faktu, że przyczyna awarii, w której zginęła Mira, pozostaje nieznana.
+
+Kanoniczną historię Leny przedstawiają opowieści „Ludzie są ciekawsi od kryształów”, „Imiona, które zostają” i „Znam kogoś, kto potrafi”. Lena jest przede wszystkim konstruktorką i diagnostką; jej niewielkie zdolności Światła pozwalają jej doładowywać bardzo małe kryształy splotytu. Wynik jej kwalifikacji do Igrzysk pozostaje otwarty.
 
 **Codzienność i zwyczaje.** W okolicach Latarni obserwatorzy notują pogodę i widoczność szlaków, a kopiści porównują mapy z relacjami podróżnych. Część rodzin zapisuje ważne wiadomości dla bliskich na wyjeździe; inni wolą przekazywać je osobiście.
 

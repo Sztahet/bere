@@ -152,11 +152,11 @@ Około szesnastu lat przed początkiem gry Mira zauważyła niepokojące odczyty
 
 Lucen znalazł fragment jej notatek i uznał, że ojciec zignorował ostrzeżenie. Taren twierdzi, że poszedł po ludzi i części potrzebne do zabezpieczenia stacji, ale wrócił za późno. Zapisy potwierdzają obawy Miry, lecz nie wyjaśniają przyczyny awarii ani tego, czy obecność Tarena mogła ją powstrzymać. Sam Taren nie zna odpowiedzi i zastanawia się, czy powinien był zostać.
 
-Po śmierci Miry Taren wrócił do pracy, sądząc, że utrzymując dom, chroni syna. Unikał rozmowy o ostatnim dniu żony, nie potrafiąc oddzielić faktów od poczucia winy. Lucen uznał milczenie za ukrywanie prawdy, nienawidził ojca i czuł się opuszczony. Uciekł do Aurelu, gdzie przyjęła go rodzina związana z obserwatorium. Taren szukał go, a gdy dowiedział się, że syn jest bezpieczny, pisał listy. Pierwsze wróciły nieotwarte. W końcu przestał pisać, sądząc, że daje mu czas; Lucen odebrał to jako kolejne porzucenie.
+Po śmierci Miry Taren wrócił do pracy, sądząc, że utrzymując dom, chroni syna. Unikał rozmowy o ostatnim dniu żony, nie potrafiąc oddzielić faktów od poczucia winy. Lucen uznał milczenie za ukrywanie prawdy, nienawidził ojca i czuł się opuszczony. Uciekł do Aurelu, gdzie przyjęli go Orien i jego córka Aria, mieszkający przy obserwatorium. Orien dał mu zajęcie przy szkle i uczył go magii Światła, a Aria powiadomiła Tarena, że Lucen jest bezpieczny. Taren szukał go, a gdy dowiedział się, że syn jest bezpieczny, pisał listy. Pierwsze wróciły nieotwarte. W końcu przestał pisać, sądząc, że daje mu czas; Lucen odebrał to jako kolejne porzucenie.
 
 W 12 ET Taren ma 52 lata. Przez lata obserwował, jak on i jego sąsiedzi z Zerath z trudem utrzymują warsztaty i stacje, podczas gdy inni się bogacą. Zerath dostarcza około połowy energii wprowadzanej do wspólnej sieci; Taren uważa, że mieszkańcy otrzymują zbyt mało w zamian. Chce reprezentować samodzielność krain, by miały większy wpływ na korzystanie ze swoich zasobów i ich sprzedaż. Nadal chce zdobyć części dla mniejszych stacji. Wie, że urządzenia wymagają bezpieczeństwa; nie wierzy jednak, że wszystkie decyzje muszą zapadać pod wspólnym nadzorem Rady.
 
-Gdy przychodzi na zapisy do Wielkich Igrzysk, widzi nazwisko Lucena na liście kandydatów do kwalifikacji po stronie wspólnego nadzoru. Chce stanąć po stronie samodzielności krain, ale nie chce walczyć przeciw synowi, którego nie widział od lat. Szuka okazji do rozmowy i odbudowania więzi, choć nie wie, czy Lucen będzie chciał go wysłuchać.
+Gdy przychodzi na zapisy do Wielkich Igrzysk, widzi na liście kandydatów do kwalifikacji po stronie wspólnego nadzoru wpis „Lucen, Aurel”. Od razu wie, że chodzi o jego syna. Chce stanąć po stronie samodzielności krain, ale nie chce walczyć przeciw synowi, którego nie widział od lat. Szuka okazji do rozmowy i odbudowania więzi, choć nie wie, czy Lucen będzie chciał go wysłuchać.
 
 ### Thora — 42 lata
 
@@ -178,6 +178,8 @@ Brom nie chce, aby bezpieczeństwo zależało wyłącznie od odwagi jednej osoby
 
 Orien opiekował się latarniami i konwojami prowadzącymi do Aurelu. Przez lata widział, jak mapa przechodzi z rąk do rąk i jak błędny znak potrafi narazić całą wyprawę.
 
+W 4 PT Orien i jego córka Aria przyjęli do domu przy obserwatorium trzynastoletniego Lucena, który uciekł z Zerath. Orien dał mu zajęcie przy szkle, uczył go magii Światła i pomógł mu przygotować się do nauki w Val Meris.
+
 Po wojnie pomógł odszukać kopie dokumentów rozproszonych po szlakach. Gdy pewna rodzina poprosiła o dostęp do starego zapisu, archiwum zwlekało ze sprawdzeniem jej prośby. Orien nie wiedział, czy dokument odpowie na jej pytania, ale nalegał, by mogła zobaczyć zachowaną kopię i poznać jej ograniczenia.
 
 W Próbach broni niezależności ośrodka przechowującego mapy i możliwości sprawdzania ich poza Aurelem. Jego upór bywa uciążliwy dla współpracowników, lecz sam stara się pamiętać, że ochrona archiwum nie może polegać na zamknięciu go przed ludźmi.
@@ -194,7 +196,7 @@ Podczas jednego napadu na konwój Morrak odciął napastnikom drogę do uciekaj�
 
 Po zawaleniu w kopalni robotnicy pokazali mu złamaną plombę bezpieczeństwa i pasujący do niej żeton rozkazu wyjęty z zamkniętej bramy; kilku niezależnych pracowników potwierdziło polecenie nadzorcy. Mimo ostrzeżeń wysłał on ludzi pod niestabilny strop; kilku zginęło, a inni zostali ranni. Morrak obejrzał rannych i uszkodzone wejście. Nie zagroził strażnikom ani nie obarczył winą rodziny nadzorcy. Tej nocy nadzorca szykował kolejny powrót pod ziemię, zanim naprawiono podpory. Morrak stanął między nim a robotnikami; strażnicy opuścili broń i odsunęli się. Dał nadzorcy ostatnią szansę, by przerwał pracę i się poddał, lecz ten sięgnął po broń i zaatakował. Morrak zabił go, po czym zniknął. O świcie robotnicy wspólnie wzmacniali podpory; jeden z nich obejrzał się na ciemne wejście, niepewny, czy czuje ulgę, czy strach.
 
-Morrak uczestniczy w Próbach i chroni ludzi, których spotyka na szlakach. Wielkie Igrzyska dają mu sposobność obserwowania tych, których decyzje mogą sprowadzić cierpienie na innych, ale sama obecność, nazwisko czy związek z dawnymi wydarzeniami nie są dla niego dowodem. Nie powiedział nikomu, kogo szuka ani dlaczego. Pierwsze zapisy o nim pojawiły się po Nocy; to jedyny pewny związek, jaki ktokolwiek potrafi wskazać. Żaden zapis nie wyjaśnia jego pochodzenia, a Morrak nie opowiada o sobie.
+Morrak uczestniczy w Próbach i chroni ludzi, których spotyka na szlakach. Wielkie Igrzyska dają mu sposobność obserwowania tych, których decyzje mogą sprowadzić cierpienie na innych, ale sama obecność, imię czy związek z dawnymi wydarzeniami nie są dla niego dowodem. Nie powiedział nikomu, kogo szuka ani dlaczego. Pierwsze zapisy o nim pojawiły się po Nocy; to jedyny pewny związek, jaki ktokolwiek potrafi wskazać. Żaden zapis nie wyjaśnia jego pochodzenia, a Morrak nie opowiada o sobie.
 
 ### Solan — 34 lata
 
@@ -238,7 +240,7 @@ Pewnego razu odłożyła otwarcie naprawionego przejścia, ponieważ niepokoił 
 
 Zaczęła wspólnie z robotnikami planować części zamienne i zapas pracy na czas przestoju. W Próbach zabiega o środki na bezpieczeństwo, nie traktując strat związanych z naprawą jako problemu, który ktoś inny powinien po prostu zaakceptować.
 
-Przed Wielkimi Igrzyskami spisała nazwiska dawnych towarzyszy. Gdy górnicy zaczęli szukać kogoś, kto zna ich pracę, zgłosiła swoją kandydaturę: chciała wesprzeć ekipę, ale miała też nadzieję wypatrzeć ludzi z dawnego oddziału wśród przybyłych z różnych krain. Jednej z górniczek powiedziała, że ich szuka, choć nie wyznała jeszcze, czego się obawia. W tłumie dostrzegła kogoś, kto wydał jej się znajomy, lecz nie wiedziała, czy to dawny towarzysz. Chce zapytać o kryształ i wieżę, choć boi się odpowiedzi; jej podejrzenia nadal nie dowodzą, co spowodowało Noc.
+Przed Wielkimi Igrzyskami spisała imiona dawnych towarzyszy. Gdy górnicy zaczęli szukać kogoś, kto zna ich pracę, zgłosiła swoją kandydaturę: chciała wesprzeć ekipę, ale miała też nadzieję wypatrzeć ludzi z dawnego oddziału wśród przybyłych z różnych krain. Jednej z górniczek powiedziała, że ich szuka, choć nie wyznała jeszcze, czego się obawia. W tłumie dostrzegła kogoś, kto wydał jej się znajomy, lecz nie wiedziała, czy to dawny towarzysz. Chce zapytać o kryształ i wieżę, choć boi się odpowiedzi; jej podejrzenia nadal nie dowodzą, co spowodowało Noc.
 
 ### Elira — 24 lata
 
@@ -269,7 +271,7 @@ Wrócił następnego dnia. Droga nadal była na mapie, ale prowadziła do innej 
 
 #### Zeszyt
 
-Nocten zaczął zapisywać daty, nazwiska, miejsca i sny. Z czasem zapiski zaczęły sobie przeczyć. Kobieta z jego wspomnień raz miała ciemne, a raz jasne włosy. Na jednej ze stron znalazł zdanie napisane własnym charakterem pisma: „Nigdy nie miałeś żony. Przestań ją wymyślać”. Nie pamiętał, kiedy je zapisał. Pod spodem widniała odpowiedź: „Więc dlaczego pamiętam, jak umierała?”.
+Nocten zaczął zapisywać daty, imiona, miejsca i sny. Z czasem zapiski zaczęły sobie przeczyć. Kobieta z jego wspomnień raz miała ciemne, a raz jasne włosy. Na jednej ze stron znalazł zdanie napisane własnym charakterem pisma: „Nigdy nie miałeś żony. Przestań ją wymyślać”. Nie pamiętał, kiedy je zapisał. Pod spodem widniała odpowiedź: „Więc dlaczego pamiętam, jak umierała?”.
 
 #### Cień
 
@@ -315,7 +317,7 @@ Jej sabotaż przy bramie był świadomym działaniem podczas oblężenia; nie wy
 
 #### Uczeń
 
-Niedługo po wojnie młody mechanik rozpoznał jej nazwisko i z dumą pokazał jej urządzenie oparte na jej dawnych projektach. Unieruchomił wieżę w pobliskiej osadzie, bo mieszkańcy nie chcieli zapłacić mu za ochronę. Chciał im udowodnić, że go potrzebują.
+Niedługo po wojnie młody mechanik rozpoznał jej imię i z dumą pokazał jej urządzenie oparte na jej dawnych projektach. Unieruchomił wieżę w pobliskiej osadzie, bo mieszkańcy nie chcieli zapłacić mu za ochronę. Chciał im udowodnić, że go potrzebują.
 
 Gdy bandyci napadli na osadę, mechanik wrócił do Rian po pomoc w naprawie. Dopiero wtedy dowiedziała się, że zginęli ludzie. „Nie chciałem nikogo zabić. Chciałem tylko, żeby wieża nie działała” — tłumaczył. Rian odpowiedziała: „Wiem”. Usłyszała w jego słowach własne dawne usprawiedliwienie i po raz pierwszy nie potrafiła się za nim schować. Nie stała się przez to od razu dobrą osobą; po prostu przestała umieć udawać przed sobą, że jej wybory nic nie znaczą.
 
@@ -515,13 +517,13 @@ Około szesnastu lat przed początkiem gry Mira zauważyła niepokojące odczyty
 
 Lucen znalazł fragment jej notatek i uznał, że ojciec zignorował ostrzeżenie. Taren twierdzi, że poszedł po ludzi i części potrzebne do zabezpieczenia stacji, ale wrócił za późno. Zapisy potwierdzają obawy Miry, lecz nie wyjaśniają przyczyny awarii ani tego, czy obecność Tarena mogła ją powstrzymać. Sam Taren nie zna odpowiedzi i zastanawia się, czy powinien był zostać.
 
-Po śmierci Miry Taren wrócił do pracy, sądząc, że utrzymując dom, chroni syna. Unikał rozmowy o ostatnim dniu żony, nie potrafiąc oddzielić faktów od poczucia winy. Lucen uznał milczenie za ukrywanie prawdy, nienawidził ojca i czuł się opuszczony. Uciekł do Aurelu, gdzie przyjęła go rodzina związana z obserwatorium. Taren szukał go, a gdy dowiedział się, że syn jest bezpieczny, pisał listy. Pierwsze wróciły nieotwarte. W końcu przestał pisać, sądząc, że daje mu czas; Lucen odebrał to jako kolejne porzucenie.
+Po śmierci Miry Taren wrócił do pracy, sądząc, że utrzymując dom, chroni syna. Unikał rozmowy o ostatnim dniu żony, nie potrafiąc oddzielić faktów od poczucia winy. Lucen uznał milczenie za ukrywanie prawdy, nienawidził ojca i czuł się opuszczony. Uciekł do Aurelu, gdzie przyjęli go Orien i jego córka Aria, mieszkający przy obserwatorium. Orien dał mu zajęcie przy szkle i uczył go magii Światła, a Aria powiadomiła Tarena, że Lucen jest bezpieczny. Taren szukał go, a gdy dowiedział się, że syn jest bezpieczny, pisał listy. Pierwsze wróciły nieotwarte. W końcu przestał pisać, sądząc, że daje mu czas; Lucen odebrał to jako kolejne porzucenie.
 
 W Aurelu Lucen szkolił się w magii Światła, konstrukcji urządzeń i oznaczaniu szlaków. Jako młody adept doładowywał kryształy w warsztacie Adriena; z czasem konstruktor sam prosił o jego pomoc, ceniąc precyzję Lucena i jego znajomość mechanizmów. Chciał, by ostrzeżenia docierały do ludzi na czas. Podczas wyprawy zbyt pewnie wskazał przejście według starego znaku; przewodnik zatrzymał grupę przed uszkodzoną przeprawą. Poprawił oznaczenie, choć trudno mu przyznać, że sam może przeoczyć zagrożenie.
 
 W 12 ET Lucen ma 29 lat. Chce, by wydobycie, transport, praca przy wieżach i innych niebezpiecznych urządzeniach podlegały regulacjom Rady. Uważa, że manipulowanie przy takich instalacjach bez wspólnego nadzoru grozi kolejną tragedią podobną do tej, w której zginęła Mira. Jego obawa wynika ze straty; przyczyna tamtej awarii pozostaje nieznana i nie dowodzi, że regulacje Rady mogłyby jej zapobiec. W Próbach wspiera ekipy naprawiające oznaczenia na odległych szlakach.
 
-Do kwalifikacji Wielkich Igrzysk zgłasza się po stronie wspólnego nadzoru. Taren dostrzega jego nazwisko na liście, choć sam chce reprezentować samodzielność krain. Lucen nie obiecał ojcu rozmowy ani pojednania; chciałby wiedzieć, dlaczego nie było go wtedy, gdy matka, a później on sam, najbardziej go potrzebowali.
+Do kwalifikacji Wielkich Igrzysk zgłasza się po stronie wspólnego nadzoru. Taren widzi na liście wpis „Lucen, Aurel” i od razu wie, że chodzi o jego syna. Sam chce reprezentować samodzielność krain. Lucen nie obiecał ojcu rozmowy ani pojednania; chciałby wiedzieć, dlaczego nie było go wtedy, gdy matka, a później on sam, najbardziej go potrzebowali.
 
 # English version
 
@@ -678,11 +680,11 @@ About sixteen years before the game, Mira found troubling readings and wanted pa
 
 Lucen found a fragment of her notes and concluded his father had ignored her warning. Taren says he left to fetch the people and parts needed to secure the station, but returned too late. The records confirm Mira's concerns, but establish neither the cause of the accident nor whether Taren's presence could have prevented it. Taren does not know and wonders whether he should have stayed.
 
-After Mira's death Taren returned to work, believing he protected his son by keeping their home. Unable to separate facts from guilt, he avoided speaking about her last day. Lucen took his silence for concealment, hated his father and felt abandoned. He ran away to Aurel, where a family connected to an observatory took him in. Taren searched for him and sent letters once he knew he was safe. The first came back unopened. He eventually stopped, thinking he was giving Lucen time; Lucen saw it as another abandonment.
+After Mira's death Taren returned to work, believing he protected his son by keeping their home. Unable to separate facts from guilt, he avoided speaking about her last day. Lucen took his silence for concealment, hated his father and felt abandoned. He ran away to Aurel, where Orien and his daughter Aria took him in at their home by the observatory. Orien gave him work cleaning glass and taught him Light magic. Aria let Taren know that Lucen was safe. Taren searched for him and sent letters once he knew he was safe. The first came back unopened. He eventually stopped, thinking he was giving Lucen time; Lucen saw it as another abandonment.
 
 Taren is 52 in 12 AT. For years he has watched himself and his neighbors in Zerath struggle to maintain their workshops and stations while others grew wealthy. Zerath supplies roughly half the energy fed into the shared network; Taren believes its people receive too little in return. He wants to represent local autonomy, giving realms more control over the use and sale of their resources. He still seeks parts for smaller stations. He values safety, but does not believe every decision requires the Council’s shared oversight.
 
-When he comes to sign up for the Great Games, he sees Lucen listed among the candidates for the qualifiers on the side of shared oversight. He wants to represent local autonomy, but does not want to fight against the son he has not seen for years. He seeks a chance to speak and rebuild their relationship, though he does not know whether Lucen will listen.
+When he comes to sign up for the Great Games, he sees the entry “Lucen, Aurel” on the list of candidates for the shared oversight side. He knows at once it is his son. He wants to represent local autonomy, but does not want to fight against the son he has not seen for years. He seeks a chance to speak and rebuild their relationship, though he does not know whether Lucen will listen.
 
 ### Thora — 42
 
@@ -703,6 +705,8 @@ Brom enters the Trials seeking inspections and a voice for workers in assessing 
 ### Orien — 62
 
 Orien tended Aurel's beacons and convoys, seeing how a wrong mark on a map could endanger an entire journey.
+
+In 4 BT, Orien and his daughter Aria welcomed thirteen-year-old Lucen into their home by the observatory after he fled Zerath. Orien gave him work cleaning glass, taught him Light magic, and helped him prepare to study in Val Meris.
 
 After the war he helped locate copies of records scattered along the routes. When a family requested an old document, the archive delayed checking their request. Orien could not promise the record would answer their questions, but insisted they should see the surviving copy and understand its limits.
 
@@ -1039,10 +1043,10 @@ About sixteen years before the game, Mira found troubling readings and wanted pa
 
 Lucen found a fragment of her notes and concluded his father had ignored her warning. Taren says he left to fetch the people and parts needed to secure the station, but returned too late. The records confirm Mira's concerns, but establish neither the cause of the accident nor whether Taren's presence could have prevented it. Taren does not know and wonders whether he should have stayed.
 
-After Mira's death Taren returned to work, believing he protected his son by keeping their home. Unable to separate facts from guilt, he avoided speaking about her last day. Lucen took his silence for concealment, hated his father and felt abandoned. He ran away to Aurel, where a family connected to an observatory took him in. Taren searched for him and sent letters once he knew he was safe. The first came back unopened. He eventually stopped, thinking he was giving Lucen time; Lucen saw it as another abandonment.
+After Mira's death Taren returned to work, believing he protected his son by keeping their home. Unable to separate facts from guilt, he avoided speaking about her last day. Lucen took his silence for concealment, hated his father and felt abandoned. He ran away to Aurel, where Orien and his daughter Aria took him in at their home by the observatory. Orien gave him work cleaning glass and taught him Light magic. Aria let Taren know that Lucen was safe. Taren searched for him and sent letters once he knew he was safe. The first came back unopened. He eventually stopped, thinking he was giving Lucen time; Lucen saw it as another abandonment.
 
 In Aurel Lucen trained in Light magic, device construction and route marking. As a young apprentice he recharged crystals in Adrien’s workshop; in time the inventor requested his help, valuing Lucen’s precision and knowledge of mechanisms. He wanted warnings to reach people in time. On a journey he too confidently indicated a crossing based on an old sign; a guide stopped the group before a damaged crossing. He corrected the marker, though admitting he can overlook danger is hard for him.
 
 Lucen is 29 in 12 AT. He wants mining, transport, work on towers and other dangerous equipment to be subject to Council regulation. He fears that interference with such installations without shared oversight could cause a tragedy like the one that killed Mira. His fear comes from loss; the cause of that accident remains unknown and does not prove Council regulation could have prevented it. In the Trials he supports crews repairing markers on remote routes.
 
-He enters the Great Games qualifiers on the side of shared oversight. Taren sees his name, though he wants to represent local autonomy. Lucen has promised his father neither a conversation nor reconciliation; he wants to know why Taren was absent when his mother, and then Lucen himself, needed him most.
+He enters the Great Games qualifiers on the side of shared oversight. Taren reads “Lucen, Aurel” on the list and knows at once it is his son. Taren himself wants to represent local autonomy. Lucen has promised his father neither a conversation nor reconciliation; he wants to know why Taren was absent when his mother, and then Lucen himself, needed him most.

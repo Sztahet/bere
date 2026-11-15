@@ -38,7 +38,7 @@ Nie spytał, jak działają przesłony.
 
 — Najpierw próba na nierównym podłożu — odezwała się techniczka stojąca przy stole.
 
-Nazywała się Lena. Miała szesnaście lat, znała każdy warsztatowy przyrząd i uważała, że to wystarczający powód, by dotykać również moich.
+Nazywała się Lena. Znała każdy warsztatowy przyrząd i uważała, że to wystarczający powód, by dotykać również moich.
 
 Wskazała paznokciem mocowanie kryształu.
 
@@ -47,6 +47,8 @@ Wskazała paznokciem mocowanie kryształu.
 — Przy niewłaściwym ustawieniu — poprawiłem ją. — Prototyp spadł na bok, kiedy go przenoszono.
 
 — Wóz na górskiej drodze też nie będzie stał na stole.
+
+Szesnaście lat i już poprawia mnie przy oficerze. Mógłbym jej wyjaśnić, jak zaprojektowałem uchwyt, ale oficer czekał na pokaz.
 
 Wziąłem mocowanie do ręki. Istotnie, przy krawędzi widniała cienka kreska. Kazałem uczniowi przynieść nowe i wymieniłem część. Później sprawdziłem sygnał raz jeszcze. Działał.
 

@@ -9,6 +9,7 @@
 - To samo wydarzenie można później pokazać oczami innej osoby. Nowa perspektywa może odsłonić wysiłek, motywację lub okoliczności, których pierwszy narrator nie zauważył, i zmienić ocenę sceny. Nie powinna bez uzasadnienia zmieniać już ustalonych faktów: kolejności, wieku, miejsca, obecnych osób ani widocznych działań.
 - Postacie drugoplanowe mają własne cele, granice i prawo odmówić. Ich decyzje nie powinny istnieć wyłącznie po to, by czegoś nauczyć narratora.
 - Przed napisaniem wspólnej sceny sprawdź datę, wiek, miejsce, stopień znajomości i to, co każda osoba mogła wtedy wiedzieć. Odróżniaj fakty od przekonań narratorów i pomysłów na późniejsze opowiadania.
+- Przy wspólnej nauce policz wiek w chwili przyjęcia i w roku sceny. Bohaterowie z jednego rocznika powinni mieć zbliżony wiek. Zajęcia różnych roczników mogą się spotkać podczas pokazu starszego ucznia dla początkujących. Przy ustalaniu przyjęcia sprawdź [zasady Szkoły Magów](world_history.md#szkoła-magów-w-val-meris).
 - Trylogie prowadzą bohaterów do zamiaru startu w Wielkich Igrzyskach. Przebieg kwalifikacji, Igrzysk i ich wyniki nie są zakończeniem tych historii.
 
 ## Saila i Ruvan
@@ -20,6 +21,18 @@ Saila dorosła i potrafi rzeczy, które zaskakują mistrza; jego doświadczenie 
 Opowieść Saily pokazuje Ruvana przez jej wspomnienia i obserwacje. Ewentualna opowieść Ruvana mogłaby odsłonić jego własne myśli lub trudność w oddaniu odpowiedzialności uczennicy; ich dokładna treść pozostaje do stworzenia. Nie należy przedstawiać domysłów Saily jako potwierdzonych myśli Ruvana.
 
 Źródła: [historia świata](world_history.md), [finał trylogii Saily](RIFTORYN_SAILA_TO_CZEGO_NIE_NAUCZYL_MNIE_RUVAN.md).
+
+## Orien i Lucen w Aurelu
+
+W 4 PT około 46-letni Orien daje trzynastoletniemu Lucenowi nocleg i pracę przy szkle. Lucen zostaje w domu Oriena przy obserwatorium, uczy się od niego magii Światła i z jego pomocą przygotowuje się do Szkoły Magów. Aria, córka Oriena, powiadamia Tarena, że Lucen jest bezpieczny, i podaje adres. Dwa pierwsze listy Tarena wracają zamknięte. Trzeci Aria świadomie zatrzymuje. Złości ją, ile czasu Orien poświęca Lucenowi. Po latach wysyła list do Val Meris i przyznaje, co zrobiła. [Przybycie do Aurelu](RIFTORYN_LUCEN_01_Z_TEGO_CO_OCALALO.md#aurel-4-pt) · [Wersja Tarena](RIFTORYN_TAREN_01_TO_CO_POZOSTALO.md#iglica-zerath-po-wiadomości-z-aurelu)
+
+**Aria — miejsce w przyszłej obsadzie.** W 12 ET ma być Wsparciem Ciemności. Z czasem odrzuca zasady Światłości, których oczekiwano od niej w domu, i z własnej decyzji wyjeżdża do Cienistego Portu, gdzie zaczyna działać z Neris. Zazdrość o więź Oriena z Lucenem wyjaśnia decyzję o ukryciu listu. Jej wyjazd ma własną przyczynę. Wiek Arii, termin wyjazdu i charakter współpracy z Neris pozostają do ustalenia.
+
+## Lucen, Pyrra, Zet i Saila w Val Meris
+
+W chronologii opowiadania [„Nauka kontroli”](RIFTORYN_LUCEN_02_NAUKA_KONTROLI.md) wspólny rocznik zaczyna naukę w 3 PT i kończy szósty rok wiosną 3 ET. Lucen ma na początku około 14 lat, Pyrra 13, Zet 12. W 3 ET mają odpowiednio około 20, 19 i 18 lat. Saila ma wówczas około 14 lat i spotyka Lucena jako uczennica pierwszego roku podczas prowadzonego przez niego pokazu. Dokładne urodziny i tryb przyjęcia tych bohaterów pozostają otwarte.
+
+**Pomysł na późniejszą scenę.** Saila pokazuje Lucenowi, swojemu dawnemu tutorowi, nowy efekt magii, którego Ruvan nie umie wyjaśnić. Lucen prosi ją o powtórzenie próby i zapisuje, co spodziewa się zmierzyć. Gdy odczyty rozchodzą się z tym, co oboje widzą, Saila opisuje, co poczuła podczas próby, a Lucen szuka założenia, które przeoczył. Miejsce, moment oraz wynik próby pozostają otwarte.
 
 ## Adrien i inni — szkic trylogii
 

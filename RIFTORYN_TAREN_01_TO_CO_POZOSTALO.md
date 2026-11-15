@@ -1,0 +1,169 @@
+# Taren — To, co pozostało
+
+*Ciężar obowiązku · Część I · Dziennik Tarena · Wersja robocza*
+
+## Iglica Zerath, 4 PT
+
+Po pogrzebie sąsiadka przyniosła nam garnek zupy. Lucen postawił na stole dwie miski. Trzecią znalazłem wieczorem na suszarce, odwróconą do góry dnem. Przywykłem, że Mira zostawia na stole plan albo zapasowy klucz. Tamtego wieczoru przesunąłem ręką po całym blacie. Był równy, czysty i pusty.
+
+Sąsiadka wróciła po garnek, kiedy Lucen był na podwórzu. Miała na płaszczu dwie różne rękawiczki wetknięte pod pas. Jedną znałem. Mira przycięła przy niej nitkę po lewej stronie, odkąd zaczepiła nią o śrubę. Sąsiadka powiedziała, że znaleziono rękawiczkę w szafce u wejścia. Chciała ją oddać wczoraj, ale wtedy ludzie już stali przed domem i ktoś przyniósł chleb.
+
+— Mogłaś zostawić w szafce — powiedziałem.
+
+Zabrała rękę od pasa. Przez chwilę staliśmy naprzeciwko siebie, jakbyśmy właśnie mieli ustalić, czy będzie wspólny obchód. W końcu rozprostowała rękawiczkę na stole.
+
+— Twój syn spytał mnie na pogrzebie, gdzie byłeś — powiedziała. — Myślałam, że chodzi mu o procesję. Chodziło mu o ten ranek.
+
+— Byłem pod składem części.
+
+— Powiedz to jemu.
+
+— Chcę sprawdzić, kiedy wóz wyjechał. W składzie wpisują godzinę, gdy podniosą szlaban.
+
+— A czego chcesz się z niej dowiedzieć?
+
+Zapytała spokojnie. Wpadłem na to, że mógłbym się dowiedzieć, czy przejazd trwał za długo. Zapisałem go w pamięci od pierwszej stacji do składu, potem od składu do skrzyżowania i od skrzyżowania pod bramę. Przy skrzyżowaniu wóz przepuszczał trzy osoby z noszami. Pamiętałem dwa płaszcze i czyjąś bosą stopę. Czasu, przez jaki staliśmy, nie pamiętałem.
+
+— Chcę mieć chociaż kolejność — powiedziałem.
+
+Sąsiadka zaczęła owijać uchwyt garnka ścierką. Zapytała, czy zasiądę z Lucenem do kolacji, gdy następnym razem wrócę późno. Powiedziałem, że będę chodził na dzienną zmianę i spóźnienie w ogóle nam nie grozi. Spojrzała na buty, które już postawiłem pod drzwiami. Zostawiła trochę zupy w mniejszym garnku. Przed wyjściem spytała, czy może odpocząć przy naszym stole, zanim będzie musiała zanieść trzeci garnek ludziom przy bramie. Usiadłem naprzeciwko niej. Przez chwilę milczała. W końcu powiedziała, że musiała wezwać własnego męża po raz drugi, bo za pierwszym razem spojrzała na niego i nie poznała go wśród ludzi wychodzących ze stacji.
+
+Położyłem rękawiczkę Miry na parapecie, żeby Lucen mógł ją zobaczyć, jeśli zechce wejść do kuchni. Było jeszcze jasno. Wyszedłem podwórzem, żeby przybić odpadającą listwę. Syn podawał mi gwoździe przez otwarte okno. Oboje byliśmy przed kolacją zajęci i ta godzina przeszła nam zupełnie dobrze.
+
+Nazajutrz poszedłem na stację. Przy bramie czekała brygada. W dolnym odcinku po awarii wciąż było za mało mocy, żeby puścić jednocześnie pompy i warsztat. Mistrz zmianowy chciał uruchomić warsztat. Miał sześciu ludzi, którym od trzech dni płacił z własnej kieszeni. Przy pompach stała kobieta z listą domów. W połowie z nich woda przestała dochodzić na piętro. Zabezpieczyłem przejście dla brygady i uzgodniłem z dyżurnym dwie godziny zasilania pomp. Mistrz zmianowy zapytał, czy sam powiem jego ludziom, że dziś znowu nie zarobią. Poszedłem z nim.
+
+Dwie godziny pomp dały wodę większości ulicy. Na jej końcu ktoś dostawał ją ostatni. Kobieta z listą domów zawróciła dwóch moich ludzi, kiedy już sprzątali miejsce pracy. Brakowało jej jednej godziny przy górnych mieszkaniach. Mistrz zmianowy wyszedł z warsztatu, kiedy usłyszał, że znowu mówimy o pompach. Spytał, czy od razu ma odprawić całą brygadę i zostawić narzędzia pod zamkiem.
+
+— Na trzecią godzinę nie umawialiśmy się z dyżurnym — powiedziałem.
+
+— Przez dwie nosiłam wiadra — odparła kobieta. — W moim domu na piętrze wciąż jest tyle samo wody co wcześniej.
+
+Zabrałem listę. Chciałem zobaczyć, który dom został pominięty. Pokazała mi pierwszą kreskę, którą obok niego postawiła. Oznaczała, że na parterze jest kran. Uznałem wcześniej, że kreska przy adresie oznacza załatwioną sprawę. Mistrz zmianowy przytrzymał nam drzwi. Kiedy stanęliśmy w środku przy stołku, wyjaśnił, że dwóch ludzi musi odejść przed wieczorem niezależnie od zasilania. Obiecali zastąpić sąsiada przy piecu po drugiej stronie kanału.
+
+— Ile zrobisz z resztą? — zapytałem.
+
+— Pięć zleceń na następny dzień. Możemy je skończyć, jeśli przynajmniej otworzymy dzisiaj warsztat.
+
+Kobieta spytała, do czego potrzebują pieca już teraz. Mistrz wskazał stojący pod ścianą uchwyt do rury. Bez dogrzania nie dało się go wygiąć. Zaczęliśmy patrzeć na listę jak na robotę, którą można rozpisać na ludzi, zamiast wymieniać się godzinami. Kobieta znała dwie osoby gotowe nosić wodę, jeśli dostaną pojemniki. Warsztat miał własną beczkę. Zaproponowałem, że pomożemy napełnić ją przy dolnym kranie, a potem puścimy warsztat na ograniczonym zasilaniu. Mistrz odnalazł jeszcze dwa wiadra, zniosłem je na dół i czekaliśmy we trójkę, aż ktoś przyniesie klucz do zaworu.
+
+— Mogłaś przyjść od razu z tą listą na górę — powiedział mistrz.
+
+— Byłam. Kazali mi znaleźć człowieka od pomp.
+
+Wyjąłem ołówek i dopisałem na wykazie swoje imię. Jeśli znów zgłosi zabraknięcie wody, miała prosić o mnie przy wejściu. Mistrz spojrzał na adres u dołu kartki. Poznał dom swojej pracownicy i zaproponował, że jeśli trzeba będzie umówić obchód na jutro, przyśle ją po pracy z normalnym dowozem. Kobieta spisała godzinę. Wyszła z dwoma wiadrami. Z trzecim poszedłem za nią na piętro, choć obiecałem Lucenowi, że przed kolacją wrócę.
+
+Po ciemku minąłem murek pod warsztatem Miry. Ktoś przestawił ławkę, na której podczas przerw składała papiery. Majster ze składu części siedział teraz na tej ławce, opierając łokcie o kolana. Zapytałem go, czy ma klucz do rejestru. Gdy ustalił, który rejestr mam na myśli, długo rozwiązywał pasek na kłódce szafki. W środku leżały dwie księgi. W jednej wpisywano datę i godzinę wydania części, w drugiej kiedy wydawano zgodę na odjazd wozu. Daty i godziny przy naszym wozie różniły się o kwadrans.
+
+— Stałem tam z chłopakami — powiedziałem. — Nie pamiętam kwadransa.
+
+— Tu po wydaniu części wpisują, kiedy wóz może ruszyć. Czy ruszył od razu, trzeba by spytać woźnicy.
+
+— Ty mu pomagałeś zapinać płachtę.
+
+— Pomagałem przy trzech wozach tamtego ranka. Chcesz, żebym wybrał, który wtedy stał przede mną?
+
+Poprosiłem, żeby pokazał mi miejsce, gdzie złożono pokwitowania za uchwyty. Były dwa. Otworzył teczkę i podał mi oba. Na drugim ponownie widniał mój znak. Może czekaliśmy przez to dłużej. Może wóz i tak stałby pod bramą. Może posłanie kogoś z ostrzeżeniem pomogłoby bardziej niż obie skrzynie. Przed otwarciem teczki miałem w głowie tyle wersji, że liczyłem na jedną stronę, która wybierze za mnie.
+
+— Możesz zabrać kopię — powiedział majster. — Tylko wpisz, że ją wziąłeś.
+
+Przepisałem godziny i znak z pokwitowania. Kazano mi dopisać powód. Przez chwilę chciałem podać nazwę kontroli, do której nikt mnie nie powołał. Napisałem, że do własnych zapisków. Majster dał mi świecę, żebym widział drogę. Przy furtce osłoniłem ją dłonią i zobaczyłem, że odcisk po uchwycie wiadra wciąż mam na skórze. Przesunąłem go kciukiem aż do bramy.
+
+Z tego odcinka widać schody, na których rozstałem się z Mirą. Chciała zatrzymać pracę części stacji. Powiedziałem, że trzeba najpierw zabezpieczyć zasilanie osad. Poszedłem po brygadę i zapasowe części. Uparłem się, żeby zabrać też drugą skrzynię, bo w pierwszej były mocowania do starszego modelu. Wracając, zobaczyłem przy bramie człowieka, który gnał pod górę bez czapki. Zostawiłem obie skrzynie na wozie.
+
+Od pogrzebu umiem już rozpoznać, kiedy w domu zgasła lampa w pokoju Lucena. Światło spod jego drzwi sięga dokładnie do trzeciej deski. Wracam, gdy na trzeciej desce jest już ciemno.
+
+## Iglica Zerath, przy stole z planami
+
+Kilka dni przed ucieczką Lucena przyniosłem do domu skrzynkę narzędzi Miry. Przejrzałem ją w obecności człowieka ze stacji. Zabrałem to, czego była właścicielką, oraz dwa zużyte klucze, o których własności obaj zdążyliśmy zapomnieć. Lucen wyszedł z pokoju, kiedy usłyszał zatrzask. Podszedł do skrzynki i spytał, czy jest w niej pudełko po stalówkach. Otworzyliśmy jaśniejszą przegródkę. Stalówki leżały w niej obok krótkiej linijki. Jedna ułamała się u nasady. Chciałem ją wyrzucić, ale Lucen powiedział, że od dawna była tak samo krótka i matka używała jej do poprawek.
+
+— Poprawki robi się tą starą? — zapytałem.
+
+— Tą, którą wygodniej.
+
+Całkiem możliwe, że jej używała, bo dobrze leżała w dłoni. Ja zapamiętałem głównie to, jak przy światle szukała krawędzi w papierze. Lucen odnalazł stary rysunek furtki. Spytał, czy naprawdę mógłby przejść przez nią, gdyby uniósł zamek. Powiedziałem, że od awarii stoi tam straż i chodzi się główną bramą. Wziął krótką linijkę i zmierzył na rysunku drogę od furtki do schodów.
+
+— Ile to robi w nogach? — spytał.
+
+Znałem odcinek. Powiedziałem, że w biegu mniej niż minuta, jeśli nie niesie się nic ciężkiego. Lucen schował linijkę tak nagle, że skrzynka przycięła mu palec. Zdążyłem oderwać wieko, zanim wyrwał rękę. Na skórze została czerwona kreska. Podstawiłem mu kubek z zimną wodą. Chciał go trzymać sam. Zabrałem łokieć ze stołu.
+
+— Byłeś pod składem wtedy, kiedy mama została? — zapytał.
+
+Miałem jeszcze w kieszeni odpis godzin. Poczułem papier pod dłonią. Chciałem go rozłożyć i powiedzieć, że wszystko ustalę, jak się dowiem od woźnicy, kiedy dokładnie wyjechał. Wtedy na schodach rozległo się stukanie obcasami. Człowiek z ekipy przyszedł po wykaz pomp, który miałem u siebie. Lucen odstawił kubek i zabrał pudełko ze stalówkami. Kiedy wróciłem do kuchni, zdążyłem przygotować trzy odpowiedzi. Usiadłem przy stole i czekałem, aż sam z pokoju wyjdzie.
+
+Wieczorem zmierzyłem odcinek na planie krótką linijką, którą zostawił pod skrzynką. Od furtki do schodów naliczyłem tyle samo co on. W kieszeni wyczułem ułamaną stalówkę. Nie pamiętam, kiedy ją tam włożyłem. Następnego ranka zostawiłem mu ją obok śniadania.
+
+## Iglica Zerath, kilka tygodni później
+
+Wróciłem z roboty i usiadłem do kolacji. Lucen rozłożył obok talerza kartkę Miry. Spytał, czy powiedziała mi o odczytach. Powiedziałem, że chciała zamknąć odcinek. Wtedy spytał, czemu wyszedłem.
+
+Przycisnąłem kciukiem zagięty róg. Myślałem, że mogę mu opowiedzieć o drodze po brygadę. Dalej musiałbym powiedzieć, jak długo wybieraliśmy części. W tym miejscu za każdym razem zaczynam liczyć czas od nowa. Lucen wziął kartkę. Zdołałem powiedzieć tylko, że jutro wrócę wcześniej.
+
+Zatrzymał się w drzwiach. Nad czołem miał biały kosmyk, który starał się rano przyczesać na bok. Chciałem powiedzieć mu, żeby usiadł. Pomyślałem, że przez noc znajdę lepsze słowa. Rano przy jego talerzu leżał mój nóż, a łóżko było puste. Rękaw już się nie czepiał drzazgi przy krześle Miry.
+
+Przez pierwsze dni chodziłem pod bramę i pytałem woźniców. Każdemu mówiłem o torbie i kurtce. O kosmyku przypomniałem sobie dopiero wtedy, kiedy strażnik zapytał, po czym poznać Lucena z daleka.
+
+## Iglica Zerath, przy bramie
+
+Z posterunku spisano wozy, które mogły wtedy wyjechać. Nie każdy wpis podawał nazwę podróżnego. Od strażnika dostałem trzy nazwy miejsc i dwie wiadomości o chłopcach, których ktoś widział pod zachodnim murem. Jeden chłopiec miał czapkę z czerwoną lamówką. Lucen takiej nie miał. A jednak poszedłem zapytać o niego do składu, zanim ruszyłem w drugą stronę. Chciałem mieć pewność, że nie kupił czapki, kiedy zrobiło mu się zimno.
+
+Przy skrzyniach spotkałem człowieka, który miewał obchód wozów. Poprosiłem, żeby rozpytał woźniców o chłopca z małą torbą. Chciał wiedzieć, jak go przekonać, jeżeli sam nie będzie chciał przyjść. Powiedziałem, że ma przede wszystkim sprawdzić, czy to Lucen.
+
+— A gdyby to był Lucen? — spytał.
+
+Zaproponowałem powiedzieć, że w domu czeka ciepła kurtka. Człowiek poprawił pas przy skrzyniach i pociągnął za sznur. Powiedział, że ciepłą kurtkę mógłby zamienić na nową nawet przy pierwszej karczmie. Chciał wiedzieć, co usłyszy od ojca, kiedy wróci.
+
+— Będę wiedział, jak będzie przede mną — odparłem.
+
+— To powiedz, że na niego czekasz.
+
+Zapisałem mu to na kawałku papieru. Zostawił kartkę u siebie, obok rejestru, i obiecał przekazać wiadomość następnemu człowiekowi, który będzie jechał do Aurelu. Zapytałem, skąd właśnie ten kierunek. Odpowiedział, że jeden z wozów widziano przy odnodze biegnącej do tamtejszego składu. Chciałem pojechać razem z następnym. Dał mi do ręki listę planowanych kursów. Najbliższy wyruszał dopiero za dwa dni.
+
+Następnego ranka rozmawiałem z dyżurnym o zejściu ze zmiany. Od razu znalazł zastępstwo. Kazał mi tylko zaczekać na człowieka, który miał wrócić ze składu, bo stamtąd nadchodziły już odpowiedzi. Czekałem pod bramą, dopóki nie zobaczyłem mojego zastępcy. Potem aż do wieczora chodziłem między wozami przy nabrzeżu. Pod koniec dnia sam poznałem po plecach niewłaściwego chłopca. Podszedłem o trzy kroki za blisko. Kiedy się odwrócił, zapytałem go o drogę, chociaż rozpoznawałem dom, przed którym stał.
+
+Sąsiadka zastała mnie wieczorem z torbą na stole. Chciałem jechać, jak tylko znajdę wóz. Powiedziała, że kiedy przyjeżdżała do tego miasta po raz pierwszy, dłużej czytała każdą wiadomość, w której ktoś napisał jej imię. Przyznałem, że od kilku dni sam wpisuję je w każdym wykazie. Zaproponowała, że jeśli dowiem się, gdzie Lucen jest, napiszę do niego, zanim za nim pojadę.
+
+— A jeśli nie odpisze? — zapytałem.
+
+— Wtedy będziesz wiedział, że wiadomość trzeba doręczyć inaczej albo dać mu czas. Teraz nawet nie wiesz, czy kartkę odbierze.
+
+Następnego dnia posłałem przez bramę dwa zapytania. Poszedłem też do ludzi ze zmiany i powiedziałem, dokąd idę, żeby tym razem za dostarczenie wiadomości odpowiadała jedna osoba. Kiedy wróciłem, sąsiadka czekała na schodach. Zostawiła mi klucz, który wyjąłem odruchowo z kieszeni razem z rejestrem. Zapytała, czy Lucen miał swój. Miał. Od tamtej pory zamykałem drzwi zawsze tak, żeby dało się je otworzyć z zewnątrz.
+
+## Iglica Zerath, po wiadomości z Aurelu
+
+Woźnica przywiózł kartkę z Aurelu. Podpisała się Aria, córka Oriena, u którego Lucen zamieszkał. Lucen ma gdzie spać. Je codziennie. Na dole kartki podała adres domu przy obserwatorium. Przeczytałem tę część tyle razy, że mógłbym bez patrzenia zaprowadzić kogoś pod jego drzwi.
+
+Pierwszy list zacząłem od wymieniania ludzi, po których poszedłem tamtego ranka. Napisałem, ile ważyła skrzynia z częściami. Wziąłem czysty arkusz. Zapytałem, czy ma dość ciepłą kurtkę, i dopisałem, że mogę przysłać zimową. Tę kartkę włożyłem do koperty. Kiedy list wrócił, pieczęć była cała. Napisałem jeszcze raz. Drugi wrócił razem z wykazem pustych skrzyń przeznaczonych do odesłania. Trzymałem obie koperty w kieszeni przez cały obchód.
+
+Poszedłem z kopertami do człowieka od transportu. Otworzył mi, kiedy właśnie wycierał z łap psa mokry śnieg. Wpuścił mnie pod dach i spytał, którą torbę chcę posłać. Pokazałem mu dwie koperty. Chciałem wiedzieć, czy któreś pieniądze trzeba zapłacić drugi raz, jeżeli przesyłka wróci. Powiedział, że woźnica bierze zapłatę w jedną stronę. Spojrzał na znaki na papierze i zapytał, czy te dwie oddano pod adresem, który podałem. Byłem pewien, że tak. Powiedział mi, po czym to poznać. Przy pierwszej pieczęci odcisnęli przy obsłudze drugi mały znak. Przy drugiej ten sam znak wystawiono w innym kolorze. Z treści obu wiedziałem teraz tyle, że list dotarł do domu przy schodach, a potem ktoś podjął trud, żeby wrócił tą samą drogą.
+
+— Mógł ktoś odmówić przyjęcia w jego imieniu? — spytałem.
+
+— Mógł. A może syn oddał list sam.
+
+— Może w ogóle nie wie, że ja go napisałem.
+
+Człowiek wyciągnął pierwszą kopertę spod drugiej. Zasłoniłem swój podpis palcem. W tej chwili zwrócił mi uwagę na to, że i tak wiedziałby od razu, kto pisze, bo na początku imienia prowadziłem pióro tak, jakby trzeba było dwukrotnie przejść po pierwszym śladzie. Lucen przez pół dzieciństwa oglądał zestawienia, które przynosiłem do domu. W domu mieliśmy jedno pióro z dobrą stalówką. Chciałem mu dać własną następną zimą, kiedy będzie umiał pisać bez rozlewania atramentu. Przynajmniej tak mu mówiłem. Pod koniec każdy z nas po prostu używał tej samej.
+
+— Czy umiesz się dowiedzieć, jak mu tam idzie? — spytałem.
+
+— Mogę przekazać pytanie ludziom spod obserwatorium, ale znów ktoś będzie musiał mu je zanieść.
+
+Przez chwilę szukaliśmy miejsca na koperty pod półką, żeby pies ich nie zamoczył. Człowiek od transportu spytał, czy mam jeszcze jedną rzecz do przesłania. Schowałem listy i wróciłem do domu. Postawiłem wtedy na stole trzy rzeczy, które umiałem spakować bez pisania. Kurtkę. Stalówki. Plan z furtką. Kurtkę trzymałem przez kilka dni na krześle. Wyprasowałem rękaw. Pod nim znalazłem miejsce, gdzie wiosną Lucen sam przyszył łatę grubą nicią, staranniej od środka niż z zewnątrz.
+
+Po tygodniu wysłałem jeszcze jedną kartkę. Napisałem pod adresem tylko, że jeśli czegoś potrzebuje, może powiedzieć o tym człowiekowi z wozu. U góry długo zostawiałem wolne miejsce. Byłem pewien, że powinienem tam zmieścić coś, czego dotąd nie powiedziałem. W końcu dopisałem, że kurtka poczeka w domu. Po powrocie z bramy przywiesiłem ją przy swoich roboczych rzeczach, pod koszulą, w której Lucen mógłby ją poznać z drugiego końca kuchni.
+
+## Iglica Zerath, pierwszy spokojniejszy obchód
+
+Przy dolnym odcinku stacji przestawiliśmy straż i znów można było wejść pod schody. Poszedłem tam po zmianie. Widziałem pracownika, który szorował ostatnie błoto z podestu. Zapytał, czy chciałbym zajrzeć do dawnej szafki Miry. Wpuścił mnie do środka. Na wewnętrznej stronie drzwiczek zostały dwie kartki i puste miejsce po rękawiczkach. Chciałem zabrać wszystko. Pracownik wskazał kartkę u góry. To była rozpiska o tym, do kogo dzwonić przy odcięciu pomp. Wymienił na niej własne imię, bo przejął już część obchodu.
+
+— Czemu wziąłeś tę zmianę? — zapytałem.
+
+— Bo chciałem się nauczyć jej odczytów. Przyszła do mnie kiedyś przed świtem i pokazała, co zdążyła wpisać. Potem kazała obejrzeć, jak wygląda stanowisko przy pełnym świetle. Nie wiedziałem, że po drodze można tyle zmierzyć.
+
+Spytałem, czy był wtedy przy niej, kiedy zaczęła przeglądać wykazy przed awarią. Przyłożył szmatę do drzwiczek i zaczął wycierać stary ślad. Był wtedy na innym odcinku. Pamiętał, gdzie stała skrzynka do ostatniego pomiaru, bo po awarii musiał ją odnieść. Kto ją tam postawił i kiedy użyto jej po raz ostatni, nie wiedział. Spytałem jeszcze, czy mam go kiedyś zastąpić na obchodzie. Powiedział, że rozpiska jest już uzupełniona, ale może mi pokazać szybko to miejsce na podeście, gdzie brakuje poręczy.
+
+Dokończyliśmy mycie pod ścianą. Trzymałem wiadro, a on szukał jeszcze jednej szczotki do uszczelki. Gdy skończyliśmy, zgodził się dostawić komuś na jutro stołek. Ponieważ to odcinek, którego nikt jeszcze nie obchodził po ciemku, wpisał moje imię obok swojego. Spytałem, czy może mi pozwolić zostawić dolną kartkę w szafce. Była tam prośba Miry o zmianę rozkładu dostaw w konkretnej ulicy. Zostawiliśmy obie. Wracając, przekazałem sąsiadce, że widziałem już szafkę i następnego dnia chciałbym zanieść wodę pod adres z kartki.
+
+Mira na planach zaznaczała domy, które miały własny zapas. Przy domu wdowy pod stacją rysowała zawsze małe kółko. Kiedyś spytałem, co to znaczy. Powiedziała, że tam trzeba zapukać mocniej, bo kobieta słabo słyszy.
+
+Dziś zaniosłem jej dwa wiadra. Potem wróciłem do domu i przestawiłem krzesło Miry bliżej stołu. Otarłem ostrze noża i wsunąłem go z powrotem do kieszeni. Tyle dni leżał przy talerzu, że już go szukałem na stole, kiedy miałem ukroić chleb.

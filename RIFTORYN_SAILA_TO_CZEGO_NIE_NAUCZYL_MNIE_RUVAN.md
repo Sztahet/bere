@@ -326,7 +326,7 @@ Ruvan odłożył igłę. Płaszcz został mu na kolanach, zaszyty do połowy.
 
 — Gdybym miała znów ładować kryształy od rana do nocy, odmówiłabym. Tam mogę spróbować zrobić coś z tym, że w ogóle musiałam.
 
-Rozłożyłam przed nim kartę z chłodni. Na dole zostawiłam dwa wolne wiersze. Pierwszy na nazwisko osoby, która sprawdzi zapas ogniw przed następną dostawą. Drugi dla kogoś, kto będzie mógł ją zastąpić.
+Rozłożyłam przed nim kartę z chłodni. Na dole zostawiłam dwa wolne wiersze. Pierwszy na imię osoby, która sprawdzi zapas ogniw przed następną dostawą. Drugi dla kogoś, kto będzie mógł ją zastąpić.
 
 — Mam warunek. Przed wyjazdem chcę wiedzieć, kto przejmuje dyżury przy chłodni i kto sprawdza dolną drogę, gdy strumień przybierze. Musimy ustalić z posterunkiem, ile ogniw trzyma dla nas w zapasie. Jedno pożyczone wystarczyło na próbę. Ustalmy stały zapas na wypadek, gdyby następny wóz nie dojechał.
 

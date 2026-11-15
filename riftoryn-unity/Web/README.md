@@ -1,4 +1,8 @@
-# Opowieść Saily — wspólne źródło
+# Archiwum Riftoryn
+
+Otwórz [archiwum-riftoryn.html](../../archiwum-riftoryn.html), aby wybrać bohatera i czytać kolejne części. Strona działa również po otwarciu pliku z dysku. Korzysta z danych przygotowanych poleceniem `python scripts/build_story_archive.py`. Uruchom je po każdej zmianie opowieści. Saila i Adrien korzystają z plików JSON gry. Lucen i Taren korzystają ze szkiców Markdown w głównym katalogu repozytorium. Katalog opowieści i kolejność części znajdują się w skrypcie.
+
+## Opowieść Saily — wspólne źródło
 
 Tekst, kolejność rozdziałów i ilustracji oraz opisy alternatywne są w `Assets/Resources/SailaStory/story.json`. Ilustracje `01.jpg`–`08.jpg` w tym samym katalogu są wspólne dla gry i strony. Edytuj te pliki, aby zmienić opublikowaną opowieść; `saila-opowiesc.html` jest tylko szkieletem czytnika. Kod i style strony są w `riftoryn-unity/Web/`. Plik `RIFTORYN_SAILA_MINIKSIAZKA_PROPOZYCJA.md` jest literackim szkicem, nie źródłem czytników — po zmianach tekstu należy świadomie zadbać o jego aktualność.
 
@@ -18,7 +22,11 @@ Finał korzysta z `Assets/Resources/SailaFinale/story.json`. Wszystkie osiem kad
 
 ## Opowieści Adriena w grze
 
-Trzy opowieści są dostępne z karty Adriena w kodeksie Unity i korzystają odpowiednio z `Assets/Resources/AdrienStory1/story.json`, `AdrienStory2/story.json` i `AdrienStory3/story.json`. Są w języku polskim. Każda zawiera osiem oznaczonych jako `pending` miejsc na przyszłe ilustracje; czytnik je pomija, dopóki nie zostaną uzupełnione. [Plan miejsc i instrukcja dodawania obrazów](../../RIFTORYN_ADRIEN_ILUSTRACJE_PLAN.md). Teksty JSON można odtworzyć ze szkiców poleceniem `python scripts/build_adrien_stories.py`; istniejące bloki ilustracji zostają zachowane. Opowieści Adriena nie mają jeszcze osobnych stron HTML.
+Trzy opowieści są dostępne z karty Adriena w kodeksie Unity oraz w Archiwum Riftoryn. Korzystają odpowiednio z `Assets/Resources/AdrienStory1/story.json`, `AdrienStory2/story.json` i `AdrienStory3/story.json`. Są w języku polskim. Czytniki pomijają miejsca na ilustracje oznaczone jako `pending`. [Plan miejsc i instrukcja dodawania obrazów](../../RIFTORYN_ADRIEN_ILUSTRACJE_PLAN.md). Teksty JSON można odtworzyć ze szkiców poleceniem `python scripts/build_adrien_stories.py`, które zachowuje istniejące bloki ilustracji. Następnie uruchom skrypt archiwum.
+
+## Opowieści Leny w grze
+
+Trzy kanoniczne opowieści są dostępne z karty Leny w kodeksie i w Archiwum Riftoryn. Po zmianie rękopisów odtwórz zasoby `LenaStory1`–`LenaStory3` poleceniem `python scripts/build_lena_stories.py`, a następnie uruchom `python scripts/build_story_archive.py`. Opowieści nie mają jeszcze ilustracji. Sama bohaterka nadal jest w przygotowaniu.
 
 ## Splotyt w grze
 

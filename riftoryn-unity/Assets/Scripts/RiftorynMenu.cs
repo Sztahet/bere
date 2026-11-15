@@ -101,6 +101,15 @@ public partial class RiftorynMenu : MonoBehaviour {
         {
             Text(new Rect(1105,486,425,26),"WKRÓTCE",heroBadge);
             Text(new Rect(1105,521,425,72),RiftorynCodexData.Text(hero.desc,hero.descEn),body);
+            if(hero.id=="lena")
+            {
+                if(Click(new Rect(1105,720,425,32),"LUDZIE SĄ CIEKAWSI OD KRYSZTAŁÓW  →",true))
+                    OpenSailaStory("LenaStory1","LUDZIE SĄ CIEKAWSI OD KRYSZTAŁÓW","LENA");
+                if(Click(new Rect(1105,758,425,32),"IMIONA, KTÓRE ZOSTAJĄ  →",true))
+                    OpenSailaStory("LenaStory2","IMIONA, KTÓRE ZOSTAJĄ","LENA");
+                if(Click(new Rect(1105,796,425,32),"ZNAM KOGOŚ, KTO POTRAFI  →",true))
+                    OpenSailaStory("LenaStory3","ZNAM KOGOŚ, KTO POTRAFI","LENA");
+            }
             return;
         }
         bool small=Screen.width<1000||Screen.height<600;Rect entry=new(1105,483,425,small?64:42);bool open;

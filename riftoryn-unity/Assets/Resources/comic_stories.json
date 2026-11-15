@@ -1945,7 +1945,7 @@
           "y": 0.948,
           "width": 0.445,
           "height": 0.03,
-          "pl": "Zapisała nazwiska dawnych towarzyszy. Czy zapyta ich o prawdę?",
+          "pl": "Zapisała imiona dawnych towarzyszy. Czy zapyta ich o prawdę?",
           "en": "She wrote her old companions’ names. Would she ask them the truth?"
         }
       ]
@@ -1967,7 +1967,7 @@
           "y": 0.255,
           "width": 0.445,
           "height": 0.029,
-          "pl": "Dara spisała nazwiska dawnego oddziału.",
+          "pl": "Dara spisała imiona ludzi z dawnego oddziału.",
           "en": "Dara wrote down her old unit's names."
         },
         {
@@ -2443,7 +2443,7 @@
           "y": 0.25,
           "width": 0.445,
           "height": 0.03,
-          "pl": "Przyniosła dowody i nazwiska zleceniodawców.",
+          "pl": "Przyniosła dowody i imiona zleceniodawców.",
           "en": "She brought evidence and the names of her clients."
         },
         {

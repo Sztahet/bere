@@ -4,6 +4,8 @@ Bieżąca wersja gry i kodeksu znajduje się w [projekcie Unity](riftoryn-unity/
 
 [Archiwalne PoC w przeglądarce](riftoryn-menu.html) obejmuje kodeks 0.2.2, symulator draftu i uproszczoną próbę. [Historia wydań](CHANGELOG.md).
 
+[Archiwum Riftoryn](archiwum-riftoryn.html) zawiera opowiadania Saily, Adriena, Lucena i Tarena. Plik HTML można otworzyć w przeglądarce bez uruchamiania serwera.
+
 Główny dokument projektu: [RIFTORYN_GDD.md](RIFTORYN_GDD.md).
 
 Propozycje przyszłego modelowania postaci: [Ana i Bob oraz Koneva i Pati](RIFTORYN_PROPOZYCJE_MODELOWANIA_POSTACI.md).

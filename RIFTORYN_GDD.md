@@ -403,6 +403,8 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 #### 11. Rian — Specjalista Ognia: Łamacz Żaru
 **HP:** 110. **Prędkość:** 5,6 m/s. Zadaje obrażenia wybranej wieży.
 
+Rian nie włada własną magią Ognia. Efekty Ognia uzyskuje za pomocą skonstruowanych przez siebie przyrządów i wcześniej naładowanego splotytu; klasyfikacja żywiołu opisuje działanie jej wyposażenia. Ograniczenia i zasilanie w opowieści nie zmieniają automatycznie zasad czasu odnowienia w grze.
+
 **Pasywka — Żaroodporność:** otrzymuje o 15% mniej obrażeń Ognia; w obronie ta sama premia chroni ręcznie pilotowaną wieżę przed zdolnościami Ognia.
 
 **Q w ataku — Skupiony żar:** zadaje 100 obrażeń jednej odkrytej wieży w zasięgu 12 m przy bezpośrednim widoku. Obrażenia najpierw trafiają w osłonę; wieża zostaje zniszczona po spadku HP do zera. **Odnowienie: 16 s.**
