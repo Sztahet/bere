@@ -9,6 +9,17 @@ from scripts import build_story_archive as archive
 
 
 class UnifiedStoriesTests(unittest.TestCase):
+    def test_stories_do_not_use_surnames(self):
+        for hero, _, _, _, _, entries in CATALOG:
+            for entry in entries:
+                for language in ('pl', 'en'):
+                    manuscript = ROOT / entry[2] / f'historia.{language}.md'
+                    if not manuscript.is_file():
+                        continue
+                    with self.subTest(hero=hero, story=entry[0], language=language):
+                        self.assertNotRegex(manuscript.read_text(encoding='utf-8').lower(),
+                                            r'nazwisk|surname|family name|last name')
+
     def test_all_unity_stories_match_shared_sources(self):
         for hero, _, _, _, _, entries in CATALOG:
             for entry in entries:

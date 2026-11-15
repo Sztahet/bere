@@ -114,7 +114,7 @@ public partial class RiftorynMenu : MonoBehaviour {
         {
             case "nocten": prefix="Nocten"; titles=new[]{"DROGA, KTÓREJ NIE BYŁO", "TYM RAZEM NIE WIERZ NOCTENOWI", "PIERWSZA LEKCJA"}; break;
             case "piecarius": prefix="Piecarius"; titles=new[]{"KSIĘGA BEZ AUTORA", "ŚLADY W POPIELE", "RYCERZ BEZ ZAKONU"}; break;
-            case "morrak": prefix="Morrak"; titles=new[]{"IMIĘ, KTÓREGO NIE WYPOWIEDZIAŁ", "ŚWIADKOWIE MILCZENIA", "NAZWISKO NA LIŚCIE"}; break;
+            case "morrak": prefix="Morrak"; titles=new[]{"IMIĘ, KTÓREGO NIE WYPOWIEDZIAŁ", "ŚWIADKOWIE MILCZENIA", "IMIĘ NA LIŚCIE"}; break;
             default: return;
         }
         Text(new Rect(1105,690,425,25),"OPOWIEŚCI · WERSJE ROBOCZE",heroBadge);

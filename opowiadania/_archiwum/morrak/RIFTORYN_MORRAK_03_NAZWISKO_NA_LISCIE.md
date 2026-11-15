@@ -1,4 +1,4 @@
-# Nazwisko na liście
+# Imię na liście
 
 *Trzecia część trylogii. Zapiski Azmira. Wersja do oceny.*
 
@@ -8,7 +8,7 @@
 
 ## I. Przekreślone
 
-Vaelis przyniosła mi listę nazwisk do sprawdzenia, kiedy naprawiałem zawias szafy. Trzymałem w ustach gwóźdź i nie mogłem jej odpowiedzieć, więc położyła listę na stole i poczekała.
+Vaelis przyniosła mi listę imion do sprawdzenia, kiedy naprawiałem zawias szafy. Trzymałem w ustach gwóźdź i nie mogłem jej odpowiedzieć, więc położyła listę na stole i poczekała.
 
 — Spójrz na siódmy wpis — powiedziała.
 
@@ -26,7 +26,7 @@ Wyjąłem gwóźdź z ust.
 
 — Na razie jeden list. Ktoś napisał, że taki człowiek nie istnieje. Nie podpisał się.
 
-Nazwisko na liście było tylko imieniem. Nasze stare dokumenty znały je od lat, choć żaden nie wyjaśniał, czy należy do człowieka, który po nie przyszedł.
+Imię na liście widniało w naszych starych dokumentach od lat, choć żaden nie wyjaśniał, czy należy do człowieka, który po nie przyszedł.
 
 — Chcesz wrócić do tamtych akt? — spytała Vaelis.
 

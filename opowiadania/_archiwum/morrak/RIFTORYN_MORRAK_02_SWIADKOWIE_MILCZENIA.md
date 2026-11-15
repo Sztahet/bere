@@ -46,7 +46,7 @@ Miała rację. Mimo to nie potrafiłem z samego przedmiotu wskazać człowieka.
 
 ## II. Pod ziemią
 
-Do kopalni pojechałem trzy dni później. Poproszono mnie o sporządzenie odpisów świadectw dla rodzin i komisji badającej wypadek. Nera nie chciała, żebym użył jej nazwiska w kopii dla zarządcy. Uznałem, że mogę przechować oryginał osobno, a w odpisie wskazać świadka bez imienia. Powiedziałem jej, kto będzie miał dostęp do pełnego dokumentu. Zgodziła się dopiero po przeczytaniu obu wersji.
+Do kopalni pojechałem trzy dni później. Poproszono mnie o sporządzenie odpisów świadectw dla rodzin i komisji badającej wypadek. Nera nie chciała, żebym użył jej imienia w kopii dla zarządcy. Uznałem, że mogę przechować oryginał osobno, a w odpisie wskazać świadka bez imienia. Powiedziałem jej, kto będzie miał dostęp do pełnego dokumentu. Zgodziła się dopiero po przeczytaniu obu wersji.
 
 Przy wejściu naprawiano podpory. Dwóch górników dopasowywało belkę, a trzeci podawał kliny. Gdy spytałem o ranionych, starszy z nich odłożył młotek.
 
@@ -162,7 +162,7 @@ Poprawiłem podsumowanie i dopisałem, że strażnik użył żetonu po poleceniu
 
 — Żeby następna osoba wiedziała, że ktoś już raz uznał to zdanie za wystarczające.
 
-Tego samego dnia przyszedł posłaniec zarządcy. Chciał nazwisko świadka, który znalazł żeton. Odmówiłem wydania go wraz ze zwykłym odpisem i wskazałem drogę do pełnych akt, dostępnych prowadzącym sprawę. Wiedziałem, że nie daje to Nerze pewności, iż nazwisko nie wyjdzie poza archiwum. Mogłem jej powiedzieć, komu je powierzam; nie mogłem obiecać, co zrobi z nim każdy następny człowiek.
+Tego samego dnia przyszedł posłaniec zarządcy. Chciał poznać imię świadka, który znalazł żeton. Odmówiłem wydania go wraz ze zwykłym odpisem i wskazałem drogę do pełnych akt, dostępnych prowadzącym sprawę. Wiedziałem, że nie daje to Nerze pewności, iż jej imię nie wyjdzie poza archiwum. Mogłem jej powiedzieć, komu je powierzam; nie mogłem obiecać, co zrobi z nim każdy następny człowiek.
 
 Napisałem do niej jeszcze tego wieczoru. Odpisała po dwóch dniach: „Brat przeczytał. Powiedział, że świadczyłby sam, gdyby lepiej pamiętał”. Pod spodem dodała: „Nadal nie chcę, żeby o mnie mówiono przy bramie”.
 

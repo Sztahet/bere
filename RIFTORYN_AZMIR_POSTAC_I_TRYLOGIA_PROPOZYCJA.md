@@ -12,7 +12,7 @@ Jako przyszły bohater gry jest proponowany do roli **Specjalisty Ciemności**. 
 
 1. [Imię, którego nie wypowiedział](opowiadania/morrak/imie-ktorego-nie-wypowiedzial/historia.pl.md)
 2. [Świadkowie milczenia](opowiadania/morrak/swiadkowie-milczenia/historia.pl.md)
-3. [Nazwisko na liście](opowiadania/morrak/nazwisko-na-liscie/historia.pl.md)
+3. [Imię na liście](opowiadania/morrak/nazwisko-na-liscie/historia.pl.md)
 
 Azmir prowadzi narrację w pierwszej osobie. Relacje świadków są ograniczone ich wiedzą. Kodeks gry przedstawia Morraka i Vesha jako dwa przydomki tej samej postaci; nie oznacza to, że Azmir potrafi samodzielnie dowieść tego ze zgromadzonych zeznań. Zgłoszenie po stronie Rady oraz sam Azmir są propozycjami tej trylogii, a nie zatwierdzeniem nowych faktów dla całego świata. Wydarzenia przy kopalni i na szlaku nawiązują do istniejących historii postaci.
 

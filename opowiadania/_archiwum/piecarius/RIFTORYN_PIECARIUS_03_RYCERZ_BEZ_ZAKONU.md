@@ -122,7 +122,7 @@ Odsunąłem się od kolejki. Nie zgłosiłem się tego dnia. Wmawiałem sobie, �
 
 Drugą część zabrałem ze sobą.
 
-## Nagroda i nazwisko
+## Nagroda i imię
 
 Następnego ranka, zanim wróciłem do urzędu, wystartowałem w miejscowych zawodach sportowych. Organizatorzy ogłosili zadanie przed rozpoczęciem: przejść wyznaczony odcinek i utrzymać osłonę nad drewnianym ładunkiem, podczas gdy ćwiczebne urządzenia strzelały w jego stronę. Miejsce w klasyfikacji zależało od czasu i stanu ładunku. Nie była to Próba rozstrzygająca spór między krainami.
 
@@ -180,7 +180,7 @@ Otworzyłem księgę na stronie, którą znałem najlepiej. Ojciec czytał ją n
 
 Dziś lepiej rozumiałem, ile cierpliwości kosztowała go taka odpowiedź.
 
-Kobieta w kolejce mogła mieć rację. Nie miałem mistrza ani dokumentu potwierdzającego pasowanie. Nie znałem drogi do siedziby, a jeśli ktoś wciąż pamiętał nazwiska dawnych rycerzy, jeszcze go nie spotkałem.
+Kobieta w kolejce mogła mieć rację. Nie miałem mistrza ani dokumentu potwierdzającego pasowanie. Nie znałem drogi do siedziby, a jeśli ktoś wciąż pamiętał imiona dawnych rycerzy, jeszcze go nie spotkałem.
 
 Miałem księgę. Miałem własną przysięgę. I wiedziałem, że mogę dotrzymać tej przysięgi bez przypisywania sobie pasowania, którego nie było.
 
