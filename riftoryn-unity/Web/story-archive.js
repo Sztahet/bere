@@ -10,6 +10,9 @@
   const storyBody = document.getElementById("story");
   const storyNav = document.getElementById("story-navigation");
   const parts = ["I", "II", "III"];
+  const elements = [["Ogień", "fire"], ["Lód", "ice"], ["Błyskawice", "lightning"], ["Natura", "nature"], ["Ziemia", "earth"], ["Światło", "light"], ["Ciemność", "darkness"]];
+  const roles = [["Tank", "tank"], ["Wsparcie", "support"], ["Specjalista", "specialist"], ["Przywoływacz", "summoner"]];
+  const iconRoot = "riftoryn-unity/Assets/Resources/CodexIcons";
   let currentView;
 
   function element(tag, text, className) {
@@ -30,15 +33,39 @@
   }
 
   function renderCollection(hero) {
-    heroes.replaceChildren(...storyArchive.map(person => {
-      const card = link(null, `#${person.id}`, "hero-card");
-      const image = element("img");
-      image.src = person.portrait;
-      image.alt = "";
-      if (person === hero) card.setAttribute("aria-current", "true");
-      card.append(image, element("span", person.name, "hero-name"), element("span", person.region, "hero-region"));
-      return card;
-    }));
+    const grid = element("div", null, "hero-grid");
+    grid.append(element("div", null, "grid-corner"));
+    elements.forEach(([name, icon]) => {
+      const label = element("div", null, `grid-heading element-${icon}`);
+      const image = element("img"); image.src = `${iconRoot}/elements/${icon}.png`; image.alt = "";
+      label.append(image, element("span", name)); grid.append(label);
+    });
+    roles.forEach(([role, icon]) => {
+      const label = element("div", null, "grid-role");
+      const image = element("img"); image.src = `${iconRoot}/roles/${icon}.png`; image.alt = "";
+      label.append(image, element("span", role)); grid.append(label);
+      elements.forEach(([affinity]) => {
+        const cell = element("div", null, "grid-cell");
+        const matches = storyRoster.filter(person => person.role === role && person.element === affinity);
+        if (!matches.length) cell.append(element("span", "Wkrótce", "empty-cell"));
+        matches.forEach(person => {
+          const available = storyArchive.find(entry => entry.id === person.id);
+          const card = available ? link(null, `#${person.id}`, "hero-card") : element("div", null, "hero-card unavailable");
+          card.setAttribute("aria-label", `${person.name} — ${available ? "opowiadania dostępne" : "opowiadania w przygotowaniu"}`);
+          if (!available) card.title = `${person.name} — opowiadania w przygotowaniu`;
+          if (available === hero) card.setAttribute("aria-current", "true");
+          if (person.portrait) {
+            const portrait = element("img"); portrait.src = person.portrait; portrait.alt = ""; portrait.loading = "lazy";
+            card.append(portrait);
+          }
+          if (!available) card.append(element("span", "Wkrótce", "unavailable-label"));
+          card.append(element("span", person.name, "hero-name"));
+          cell.append(card);
+        });
+        grid.append(cell);
+      });
+    });
+    heroes.replaceChildren(grid);
 
     const heading = element("h2", hero.series || `Opowiadania · ${hero.name}`);
     heading.id = "collection-title";
