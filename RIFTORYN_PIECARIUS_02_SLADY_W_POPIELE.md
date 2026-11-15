@@ -10,6 +10,34 @@ Pierwszy raz sprzedałem płaszcz dla kartki papieru. Drugi raz zamierzałem spr
 
 — Wierzę. Nadal wolę pieniądze.
 
+Zażądała równowartości 0,24 selena w miejscowych drobnych. Zapytałem, czy jeśli zaczekam na miejscu, aż skończy inną pracę, i sam przepiszę fragment pod jej okiem, wystarczy 0,16.
+
+— Sam pan przepisywał ostatnio mapę? — spytała, oglądając moją kartę ze znakiem.
+
+— Owszem.
+
+— To wolę przeczytać ją jeszcze raz. Za 0,2 zrobię odpis ja.
+
+Zgodziłem się. Różnica mogła opłacić prosty posiłek, a ja nie zamierzałem spierać się z kobietą o cenę jej pracy przez całe przedpołudnie.
+
+Gdy liczyłem drobne, spojrzała na fiolkę wystającą z mojej torby.
+
+— A za olejek też się pan targował?
+
+— To zupełnie inna sprawa.
+
+— Sprzedawca nie chciał ustąpić?
+
+— Nie pytałem.
+
+Przyjrzała mi się z takim zaciekawieniem, że uznałem za potrzebne wyjaśnienie:
+
+— Dobry cynamonowy olejek jest wart swojej ceny.
+
+— A dobry odpis?
+
+Położyłem brakujący drobny selar na stole.
+
 Zapłaciłem równowartość 0,2 selena w miejscowych drobnych. Kartka zawierała spis przedmiotów wyniesionych z dawnej sali spotkań: dwa lichtarze, skrzynię, zasłonę i żelazną płytkę z wyobrażeniem ptaka. Ptak mógł być feniksem. Mógł też być czymś innym; kopista nie narysował go ani nie zanotował barwy.
 
 — Czy płyta jeszcze istnieje? — spytałem.
