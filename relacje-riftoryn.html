@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sieć relacji — Riftoryn</title>
+  <link rel="stylesheet" href="riftoryn-unity/Web/hero-relations.css">
+  <script defer src="riftoryn-unity/Web/story-archive-data.js"></script>
+  <script defer src="riftoryn-unity/Web/hero-relations.js"></script>
+</head>
+<body>
+  <header class="top"><a href="archiwum-riftoryn.html">RIFTORYN <span>✦</span> ARCHIWUM</a><a href="archiwum-riftoryn.html">← Opowiadania</a></header>
+  <main class="shell">
+    <div class="intro"><p class="eyebrow">KODEKS ŚWIATA / SIEĆ POWIĄZAŃ</p><h1>Kim są dla siebie <em>bohaterowie?</em></h1><p>Wybierz postać, by zobaczyć jej rodzinę, znajomości i relacje z innymi bohaterami.</p></div>
+    <div class="workspace">
+      <aside class="sidebar"><label for="search">BOHATEROWIE <span id="hero-count"></span></label><input id="search" type="search" placeholder="Szukaj imienia…" autocomplete="off"><div class="hero-list" id="hero-list"></div></aside>
+      <section class="network" aria-label="Graf relacji">
+        <div class="network-top"><div><p class="eyebrow">WYBRANA POSTAĆ</p><h2 id="selected-name"></h2><p id="selected-meta"></p></div><span class="badge">✦ POWIĄZANIA</span></div>
+        <div class="graph-area"><svg id="graph" viewBox="0 0 900 600" role="group" aria-label="Graf — wybierz postać, aby zobaczyć jej relacje"></svg><div class="graph-note">Wybierz portret lub postać z listy</div></div>
+        <div class="legend"><span><i class="family"></i> Rodzina i bliskość</span><span><i class="work"></i> Praca i nauka</span><span><i class="contact"></i> Spotkania</span><span><i class="secret"></i> Tajne lub złożone</span></div>
+      </section>
+      <aside class="details" aria-live="polite"><p class="eyebrow">KARTA RELACJI</p><div id="details"></div></aside>
+    </div>
+    <p class="footnote">Graf obejmuje wyłącznie bohaterów z kodeksu. Brak połączenia oznacza, że nie umieszczono go jeszcze w grafie — nie dowodzi, że postacie się nie znają. Zawiera szczegóły fabuły i relacje ze szkiców.</p>
+  </main>
+</body>
+</html>
