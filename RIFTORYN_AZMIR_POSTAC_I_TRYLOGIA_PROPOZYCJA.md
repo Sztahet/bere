@@ -80,11 +80,11 @@ Poniższe sześć opowiadań to szkice oparte na powyższym założeniu. Nie dod
 ### Azmir — „Akta, których nie wysłałem”
 
 1. [To, czego nie odnaleziono](opowiadania/azmir/1_the_unrecovered/historia.pl.md)
-2. [Słowo, którego nie wpisałem](opowiadania/azmir/1_the_word_i_left_out/historia.pl.md)
-3. [Wiele par oczu](opowiadania/azmir/1_many_pairs_of_eyes/historia.pl.md)
+2. [Słowo, którego nie wpisałem](opowiadania/azmir/2_the_word_i_left_out/historia.pl.md)
+3. [Wiele par oczu](opowiadania/azmir/3_many_pairs_of_eyes/historia.pl.md)
 
 ### Vaelis — „Wiedza pod pieczęcią”
 
 1. [Zamknięta kopia](opowiadania/vaelis/1_the_sealed_copy/historia.pl.md)
-2. [Brakujące strony](opowiadania/vaelis/1_the_missing_pages/historia.pl.md)
-3. [Publiczny zapis](opowiadania/vaelis/1_the_public_record/historia.pl.md)
+2. [Brakujące strony](opowiadania/vaelis/2_the_missing_pages/historia.pl.md)
+3. [Publiczny zapis](opowiadania/vaelis/3_the_public_record/historia.pl.md)

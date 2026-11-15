@@ -257,13 +257,13 @@
       },
       {
         "id": "slowo-ktorego-nie-wpisalem",
-        "folder": "opowiadania/azmir/1_the_word_i_left_out",
+        "folder": "opowiadania/azmir/2_the_word_i_left_out",
         "unity": "AzmirDraft2",
         "draft": true
       },
       {
         "id": "wiele-par-oczu",
-        "folder": "opowiadania/azmir/1_many_pairs_of_eyes",
+        "folder": "opowiadania/azmir/3_many_pairs_of_eyes",
         "unity": "AzmirDraft3",
         "draft": true
       }
@@ -284,13 +284,13 @@
       },
       {
         "id": "brakujace-strony",
-        "folder": "opowiadania/vaelis/1_the_missing_pages",
+        "folder": "opowiadania/vaelis/2_the_missing_pages",
         "unity": "VaelisDraft2",
         "draft": true
       },
       {
         "id": "publiczny-zapis",
-        "folder": "opowiadania/vaelis/1_the_public_record",
+        "folder": "opowiadania/vaelis/3_the_public_record",
         "unity": "VaelisDraft3",
         "draft": true
       }
