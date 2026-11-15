@@ -56,7 +56,7 @@ Nie zdążyłem się pokłonić.
 
 W takich chwilach trzeba zachować spokój. Ptak o rozpostartych skrzydłach jest ptakiem nawet wtedy, gdy umieszczono go na zbroi rycerza.
 
-Oren przyjął list i poprosił Vedę, żeby go przeczytała. Jego siostra pisała z dolnej osady. Córka urodziła jej syna, dach znów przeciekał, a ogród w tym roku nie dał prawie nic. Oren słuchał bez słowa. Poprosił o powtórzenie imienia dziecka. Potem o to, by Veda przeczytała cały list jeszcze raz.
+Oren przyjął list i poprosił Vedę, żeby go przeczytała. Jego siostra pisała z dolnej osady. Jej córce urodził się syn, dach znów przeciekał, a ogród w tym roku nie dał prawie nic. Oren słuchał bez słowa. Poprosił o powtórzenie imienia dziecka. Potem o to, by Veda przeczytała cały list jeszcze raz.
 
 Czekałem. Trzeba umieć czekać, choćby bardzo chciało się zadać pytanie.
 
@@ -116,13 +116,13 @@ Pierwszy napastnik ruszył, zanim wyciągnąłem miecz. Uderzył w bok wozu, pr�
 
 Drugi napastnik dopadł mnie od strony drzew. Uderzenie przyjąłem naramiennikiem i poczułem, jak puszcza naprawiany rano rzemień. Zbroja przesunęła się na ramieniu. Zasłoniłem lukę tarczą przedramienia i odepchnąłem napastnika. Kiedy cofnął się ku drzewom, dostrzegłem, że trzeci obchodzi wóz od tyłu. Krzyknąłem do Jorka, by przytrzymał konie, a sam zastąpiłem napastnikowi drogę do skrzyni. Nie ruszyłem za uciekającym; przy wozie nadal byli ludzie, których miałem chronić.
 
-Jorek puścił lejce. Koń szarpnął i wóz przekrzywił się na poboczu. Veda krzyknęła, że skrzynia się przesuwa. Chciałem jeszcze raz rozciągnąć ogień, lecz po pierwszym ruchu ręka drżała mi za mocno, by utrzymać go przy samej ziemi. Zamiast tego stanąłem przy kole i kazałem Jorkowi złapać konia od pyska.
+Jorek puścił lejce. Koń szarpnął i wóz przekrzywił się na poboczu. Veda krzyknęła, że skrzynia się przesuwa, po czym wyciągnęła dłoń ku ziemi. Kamienie przy kole drgnęły i uniosły się pod obręcz, blokując ją, zanim wóz osunął się dalej. Veda zacisnęła palce drugiej dłoni na burcie; wóz przestał się przechylać, ale skrzynia nadal mogła spaść. Chciałem jeszcze raz rozciągnąć ogień, lecz po pierwszym ruchu ręka drżała mi za mocno, by utrzymać go przy samej ziemi. Zamiast tego stanąłem przy kole i kazałem Jorkowi złapać konia od pyska.
 
 — A pan?
 
 — Ja tu zostanę.
 
-Jeden z napastników ruszył ku skrzyni. Widział mnie, widział miecz i zdecydował się cofnąć. Pozostali zniknęli między drzewami; nie wiem, czy przestraszyła ich broń, ogień, czy to, że z dolnej drogi dobiegł turkot następnego wozu.
+Ten sam napastnik, któremu zastąpiłem drogę od tyłu, znów ruszył ku skrzyni, gdy pomagałem przy kole. Obróciłem się do niego z mieczem. Zatrzymał się i cofnął. Pozostali zniknęli między drzewami; nie wiem, czy przestraszyła ich broń, ogień, czy to, że z dolnej drogi dobiegł turkot następnego wozu.
 
 Nie ścigałem ich. Pomogłem Vedzie opuścić skrzynię z powrotem na środek platformy. Jorek długo nie wypuszczał pyska konia, choć zwierzę już stało spokojnie.
 

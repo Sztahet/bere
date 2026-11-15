@@ -170,7 +170,7 @@ Do Nivoren ruszyłem drogą wskazaną przez Demę, licząc, że odnajdę kogoś,
 
 Przy pierwszym oblodzonym zejściu to ja potrzebowałem jej ręki. Nie wspominam o tym z dumą, ale wspominam, ponieważ nie byłoby uczciwe zapisać inaczej.
 
-Przy schronieniu zobaczyłem mężczyznę zabezpieczającego skrzynię z kryształami przed podróżą. Przewodniczka powiedziała, że to Ruvan, mistrz magii Lodu, i że przez lata poznał wielu ludzi przemierzających przełęcz.
+Przy schronieniu zobaczyłem mężczyznę zabezpieczającego skrzynię z kryształami przed podróżą. Jeden z pakunków przechylił się, gdy wsuwał go do środka. Przytrzymał go dłonią, a cienka warstwa szronu na chwilę związała pękniętą podstawkę. Dopiero wtedy poprawił mocowanie. Przewodniczka powiedziała, że to Ruvan, mistrz magii Lodu, i że przez lata poznał wielu ludzi przemierzających przełęcz.
 
 Nie znałem go wcześniej. Miałem ochotę od razu zapytać o handlarza, lecz na widok mistrza poprawiłem pas i poczekałem, aż skończy pracę. Kiedy podszedłem, przygotowane w drodze powitanie wydało mi się zbyt długie. Przedstawiłem się krótko i pokazałem mu odrys ze słupa oraz stronę księgi z ptasim znakiem.
 
@@ -186,7 +186,7 @@ Chciałem zapytać, czy na pewno pamięta ptaka, ale zawahałem się. Nie chcia�
 
 — Czy nazywał się Tovin?
 
-Ruvan zmarszczył brwi i jeszcze raz spojrzał na odrys.
+Ruvan zmarszczył brwi i jeszcze raz spojrzał na odrys. Uniósł palec, jakby miał coś dodać, ale opuścił go na kartę. Czekałem.
 
 — Nie pamiętam.
 
@@ -203,6 +203,12 @@ Wskazał mi trasę na mapie. Kiedy poprosiłem, by zaznaczył miejsce dokładnie
 — Na pewno?
 
 — Nie — przyznałem. — Ale pojadę.
+
+Ruvan zwrócił mi mapę. Przy rozwidleniu, które pomyliłem, postawił krótki znak.
+
+— Nie tędy. Zwłaszcza po zmroku.
+
+Schowałem mapę bez dalszych zapewnień, że doskonale znam drogę.
 
 Ruvan oddał mi odrys. Zapytał, czy mam dość pieniędzy na podróż i powrót. Powiedziałem, że mam. Nie wyjaśniłem, iż liczę na pracę po drodze.
 
@@ -226,7 +232,7 @@ Sięgnąłem po moc, żeby odciągnąć płomień od wejścia. Gorąco posłucha
 
 — Pod belką! — krzyknąłem do niego.
 
-Nie ruszył. Kiedy nazwałem go chłopcem od narzędzia i powiedziałem, że matka czeka tuż za mną, ukląkł przy belce. Zaczepił o nią ramieniem. Puściłem płomień na tyle, by wsunąć rękę przez szczelinę i odciągnąć kawałek leżącej przy nim deski. Gorąca krawędź otarła mi skórę pod rękawem. Wtedy chłopiec przeczołgał się do progu, a matka odciągnęła go na plac.
+Nie ruszył. Kiedy nazwałem go chłopcem od narzędzia i powiedziałem, że matka czeka tuż za mną, ukląkł przy belce. Zaczepił o nią ramieniem. Puściłem płomień na tyle, by wsunąć rękę przez szczelinę i odciągnąć kawałek leżącej przy nim deski. Gorąca krawędź deski otarła mi skórę pod rękawem. Wtedy chłopiec przeczołgał się do progu, a matka odciągnęła go na plac.
 
 Wtedy dostrzegłem metal przy odsłoniętej skrzyni. Płytka wisiała na rzemyku przy narożniku. Na jej powierzchni był zarys skrzydeł.
 
@@ -276,13 +282,15 @@ W gospodzie usłyszałem, jak starszy mag pyta gospodarza o dawne zapisy przewoz
 
 — Ja.
 
-— Widział pan skrzydła, zanim zaczął pan rysować?
+— Czego pan szuka: znaku czy człowieka, który go panu pokazał?
 
-— Tak.
+— Jednego i drugiego. Mój ojciec czytał mi o Feniksie. Nie zdążyłem go zapytać, skąd miał księgę.
 
-— Warto pamiętać, że ktoś inny mógł widzieć coś innego.
+Nocten jeszcze chwilę trzymał kartę, a potem oddał mi ją ostrożnie.
 
-Nie była to odpowiedź, na którą czekałem. Już miałem powiedzieć, że całe życie uczono mnie rozpoznawać Feniksa, lecz przecież uczyła mnie jedna księga i jeden człowiek. Nocten nie próbował mi jej odebrać. Po prostu oddał odrys.
+— Jeśli znajdzie pan odpowiedź o znaku, może nie odpowiedzieć na pytanie o ojca.
+
+Nie była to odpowiedź, na którą czekałem. Chciałem powiedzieć, że wtedy będę szukał dalej. Nie powiedziałem, bo nie wiedziałem, czy mam dość odwagi, by znaleźć coś, co zmieni moje wspomnienia o ojcu.
 
 Położyłem go na stole, obok kubka. Zapłaciłem za wodę i chleb, a potem policzyłem monety. Zostało ich niewiele. Musiałem znów znaleźć pracę przy konwoju.
 

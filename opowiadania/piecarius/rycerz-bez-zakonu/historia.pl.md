@@ -114,11 +114,7 @@ Kobieta uniosła brwi.
 
 Aria przyjrzała mi się uważnie.
 
-— Mój ojciec przez lata chronił ludzi na szlakach. Widziałam, jak łatwo zaufać komuś przez sam tytuł. Dlatego pytam, co on dla pana znaczy.
-
-Wspomniała, że jej ojcem jest Orien z Aurelu. Opowiedziałem o latarni, przy której pomagałem mu trzymać szkło. Uśmiechnęła się na wieść, że zatrzymał pracę z powodu szczerby.
-
-— To do niego podobne — powiedziała. — Lubi wiedzieć, czy osłona wytrzyma.
+— Łatwo zaufać komuś przez sam tytuł. Dlatego pytam, co on dla pana znaczy.
 
 Mogłem opowiedzieć o księdze, ale ktoś znów poruszył się za nami w kolejce. Zamiast tego poprawiłem pas.
 
@@ -188,13 +184,13 @@ Położyłem dłoń na okładce księgi. Przez chwilę chciałem po prostu poda�
 
 — Zapiszcie mnie jako Piecariusa. Przysięgę Feniksa złożyłem sam, według zasad w księdze po ojcu. Nie mam dokumentu pasowania ani potwierdzonej przynależności do Bractwa.
 
-Urzędnik zapytał jeszcze, czy podaję nazwę drużyny. Odpowiedziałem, że nie. Chciał też wiedzieć, kogo zamierzam reprezentować, jeśli przejdę kwalifikacje.
+Urzędnik zapytał jeszcze o drużynę i krainę, z której pochodzę. Drużyny nie miałem.
 
 — Vareth — powiedziałem. — To moja kraina.
 
 Od dawna częściej nocowałem przy cudzych drogach niż pod jej dachami. Znałem jednak zapach rozgrzanego kamienia i głos ojca czytającego przy piecu. Nie musiałem mieszkać tam przez cały czas, żeby pamiętać, skąd pochodzę.
 
-Urzędnik zanotował mój wybór i wyjaśnił, że przed finałami trzeba będzie zarejestrować ustalenia dotyczące reprezentacji. Przy informacji o przysiędze zaznaczył, że pochodzi ode mnie. Potem podał termin kwalifikacji. Nie obiecał mi miejsca w składzie i ja też nie mogłem go sobie obiecać.
+Urzędnik zanotował moją odpowiedź. Przy informacji o przysiędze zaznaczył, że pochodzi ode mnie. Potem podał termin kwalifikacji. Nie obiecał mi miejsca w składzie i ja też nie mogłem go sobie obiecać.
 
 Na zewnątrz odnalazłem Arię. Chciałem jej powiedzieć, że zostałem przyjęty na listę. Zobaczyłem jednak, że rozmawia z kimś o własnym formularzu, i nie przerywałem. Wiedziałem już, co chcę powiedzieć o sobie, jeśli ktoś zapyta ponownie.
 

@@ -28,6 +28,6 @@ const RIFTORYN_RELACJE = [
     ["piecarius","thora","Wspólny trening · szkic","work","Poznają się w zawodach w Val Meris i wspólnie osłaniają ładunek oraz rannego towarzysza.","opowiadania/piecarius/rycerz-bez-zakonu/historia.pl.md"],
     ["piecarius","aria","Spotkanie · szkic","contact","Przy zapisach do Igrzysk rozmawiają o przysiędze Piecariusa i odpowiedzialności za cudze zaufanie.","opowiadania/piecarius/rycerz-bez-zakonu/historia.pl.md"],
     ["piecarius","ruvan","Spotkanie · szkic","contact","W Nivoren Ruvan przekazuje mu niepewny trop o podobnym znaku.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"],
-    ["piecarius","nocten","Spotkanie · szkic","contact","Nocten ogląda odrys znaku i zachęca Piecariusa do ostrożnej interpretacji.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"],
+    ["piecarius","nocten","Spotkanie · szkic","contact","Nocten ogląda odrys znaku i pyta, czy Piecarius szuka znaku, czy odpowiedzi o swoim ojcu.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"],
     ["piecarius","orien","Spotkanie · szkic","contact","W Aurelu pracują przy latarni i rozmawiają o księdze po ojcu Piecariusa.","opowiadania/piecarius/slady-w-popiele/historia.pl.md"]
   ].map(([a,b,label,type,description,source])=>({a,b,label,type,description,source}));
