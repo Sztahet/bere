@@ -6,7 +6,7 @@ Iglica Zerath · koniec zimy 11/12 ET
 
 Varek, która prowadziła brygadę przekaźników, postawiła przede mną lampę sygnałową. Nacisnęła przycisk. Lampa błysnęła trzy razy, za każdym razem słabiej. Potem posłała mnie na drugi koniec przejścia i powtórzyła sygnał. Stamtąd widziałem tylko pierwszy błysk.
 
-— Tyle dostajemy, kiedy kryształ jest prawie pusty — powiedziała. — Mamy wtedy potwierdzić ekipie, że może wracać.
+— Trzy błyski znaczą „możecie wracać” — powiedziała. — Jeśli ekipa zobaczy tylko jeden, musi zostać na miejscu i czekać, aż powtórzymy cały znak.
 
 Varek chciała, żeby lampa działała na tym, co zostawało w krysztale pod koniec zmiany. Poprosiła mnie też o obudowę, którą da się otworzyć w rękawicach. Według mojego pierwszego rysunku przy odkręcaniu pokrywy trzeba by przytrzymać nakrętkę od spodu. Varek położyła rękawice na stole. Wsunąłem je i spróbowałem podnieść ze stołu taką nakrętkę. Wypadła mi z palców. Skreśliłem mocowanie.
 
@@ -26,7 +26,7 @@ Varek wyznaczyła dwa okna, z których można było przekazywać sygnał ekipie 
 
 ## Szybka pomyłka
 
-Regulator był tylko jednym z przyrządów, które przywiozłem do Zerath. Po próbach ze spadającą blaszką w Aurelu zbudowałem też cewkę mocowaną do rękawicy. Mogłem sam wyzwalać impuls, który wtedy pojawił się przypadkiem. Przy prostym chwycie ręka ruszała szybciej. Teraz chciałem się przekonać, czy zdołam szybciej dobiec do modelu i przełożyć właściwy przewód.
+W Aurelu cewka do wyzwalania impulsu leżała na stole. Do Zerath przywiozłem mniejszą wersję, którą mogłem przypiąć do rękawicy. Chciałem sprawdzić, czy impuls pomoże mi szybciej dobiec do stanowiska i przełożyć przewód, nim skończy się czas.
 
 Na stole leżały dwa przewody. Miałem wpiąć ten z białą opaską, zanim wskazówka dojdzie do zera. Jeśli podepnę właściwy przewód na czas, lampka na modelu zostanie zapalona. Pokazałem Varek wyłącznik.
 
@@ -58,4 +58,4 @@ Przed pokazem Varek chciała przeprowadzić próbę sama. Otworzyła pokrywę w 
 
 Po pokazie zostawiliśmy ekipie wyniki i spis usterek, które wciąż wychodziły w próbach. Regulator zabrałem do dalszej pracy. Varek oddała mi pierwszy szkic, ten z przekreśloną śrubą. Pod rysunkiem dopisała, że przy kolejnej obudowie warto przytwierdzić nakrętkę od środka, tak żeby dało się odkręcić pokrywę jedną ręką.
 
-Wieczorem zacząłem przepisywać wyniki dla Adriena. Na osobnej kartce zapisałem pytania brygady. Pierwsze dotyczyło tego, co zrobić, jeśli na końcu zmiany widać tylko dwa błyski. Na to jeszcze nie miałem odpowiedzi.
+Wieczorem zacząłem przepisywać wyniki dla Adriena. Na osobnej kartce zapisałem pytania brygady. Pierwsze dotyczyło tego, jak długo ekipa powinna czekać na powtórzenie sygnału, jeśli z lampy widać tylko dwa błyski. Tego jeszcze nie ustaliliśmy.

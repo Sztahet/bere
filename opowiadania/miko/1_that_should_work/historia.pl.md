@@ -69,3 +69,19 @@ Usiadłem obok niego i położyłem szpadę na kolanach. Miałem w kieszeni kart
 Wieczorem narysowałem plan próby. Zaznaczyłem wyłącznik i miejsce, z którego Adrien mógł widzieć spadającą blaszkę i moją dłoń. Chciałem sprawdzić, czy po kolejnym impulsie znów zdążę ją złapać przed uderzeniem o stół.
 
 Położyłem podkładkę na kartce. Na górze planu dopisałem, od czego zaczniemy, jeśli opiekun odda nam klucz. Najpierw sprawdzimy każdą śrubę.
+
+## Jeszcze raz
+
+Kilka dni później mogłem znowu zacisnąć dłoń bez bólu. Opiekun przeczytał plan, obejrzał naprawioną lampkę i pozwolił nam wrócić do stołu. Adrien przyniósł podpórkę z nitką.
+
+Tym razem wyjęliśmy cewkę z lampki i podłączyliśmy ją osobno do słabo naładowanego kryształu. Od cewki poprowadziłem przewód do miedzianej opaski na prawym nadgarstku. Mogłem wywołać krótki impuls przełącznikiem pod lewą dłonią. Prawą położyłem z boku pustej obudowy, w tym samym miejscu, w którym miałem ją przy wypadku. Adrien stanął przy wyłączniku z nitką w ręce.
+
+Uzgodniliśmy, że gdy skinę głową, Adrien pociągnie za nitkę, a ja nacisnę przełącznik. Za pierwszym razem cewka była odłączona. Blaszka uderzyła o blat, zanim zdążyłem ją chwycić. Podłączyliśmy cewkę i ułożyliśmy blaszkę z powrotem na podpórce. Znów skinąłem głową i nacisnąłem przełącznik. Poczułem ukłucie w dłoni. Widziałem spadającą blaszkę i sięgnąłem po nią tak jak poprzednio. Tym razem zamknąłem na niej palce nad blatem.
+
+— Widziałeś? — spytałem.
+
+— Widziałem. Zrobimy jeszcze po jednej?
+
+Poczekaliśmy, aż ustanie drżenie palców. Powtórzyliśmy obie próby na ten sam znak. Bez impulsu blaszka stuknęła o stół. Po impulsie została mi w dłoni. Kiedy Adrien sięgnął po kartę, żeby zapisać wynik, odłożyłem blaszkę. Palce znów mi drżały.
+
+— Jutro od tego zaczniemy — powiedziałem. — Chcę zmierzyć, ile czasu ręka potrzebuje, żeby przestać drżeć.

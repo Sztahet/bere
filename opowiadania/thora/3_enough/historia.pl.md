@@ -4,19 +4,21 @@
 
 Val Meris · pierwsze dni kwalifikacji w 12 ET
 
-W zadaniu przy modelu śluzy miałam trzymać dźwignię, aż przewód przeprowadzi sygnał na drugą stronę. Sędzia pokazał nam miejsce odłączenia i powiedział, kiedy mamy przerwać. Miko miał za przegrodą przełożyć przewód, a trzecia osoba miała obserwować wskaźnik. W zestawie dopuszczono jego własne urządzenie do rękawicy. Obejrzeli mocowanie, nim nas wpuścili.
+Przy modelu śluzy sędzia pokazał mi dwa położenia dźwigni. W połowie drogi miałam ją przytrzymać, aż Miko przełoży przewód za przegrodą. Pociągnięcie do oporu wysyłało sygnał. Jeżeli zrobię to przed podłączeniem przewodu, stracimy jedyną szansę w tym podejściu. Trzecia osoba miała zawołać, kiedy wskazówka dojdzie do kreski. Wtedy musiałam puścić dźwignię. Sędzia sprawdził mocowanie cewki na rękawicy Miko i dopuścił ją do zadania.
 
-Miko powiedział „zaraz wracam”, przyjął impuls i obiegł przegrodę. Wskaźnik opadł, zanim zdołałam go spytać, czy wraca tą samą drogą. Z mojego stanowiska widziałam jego kapelusz przez szczelinę. Potem już tylko ciemność między deskami. Kiedy ze stanowiska obok zawołano, że wskaźnik opadł, puściłam dźwignię zgodnie z poleceniem sędziego.
+Miko powiedział „zaraz wracam”, przyjął impuls i obiegł przegrodę. Przez szczelinę widziałam przez chwilę jego kapelusz. Czekałam, aż powie mi, że mogę pociągnąć. Ze stanowiska obok dobiegło tylko wołanie, że wskazówka doszła do kreski. Puściłam dźwignię.
 
-— Mogłaś przytrzymać jeszcze chwilę — powiedział Miko, kiedy wrócił.
+— Myślałem, że zdążę — powiedział Miko, kiedy wrócił. — Długo czekałaś?
 
-— Nie widziałam twoich rąk.
+— Do kreski. Przez cały ten czas nie widziałam twoich rąk.
 
 Wziął mnie za słowo i przeszedł na moje miejsce. Stałam tam, gdzie przed chwilą był on. Spytałam, czy widzi przewód. Pokręcił głową. Kiedy wrócił pod przegrodę, stuknął dwa razy w deskę.
 
-— Po dwóch stuknięciach trzymaj. Przewód będzie już na miejscu.
+— Stuknę tak, gdy wtyk będzie w gnieździe. Wtedy pociągnij do końca.
 
-Za drugim razem usłyszałam pierwsze uderzenie niemal od razu. Na drugie czekałam na tyle długo, że zdążyłam poprawić uchwyt. Wtedy wskaźnik drgnął. Trzymałam dźwignię do znaku sędziego. Wykonaliśmy zadanie, chociaż wskaźnik zatrząsł się jeszcze raz, gdy Miko wyciągnął rękę spod przegrody. Sędzia zanotował oba przebiegi.
+— A jak zawołają, puszczam. Nawet jeśli zaraz potem stukniesz.
+
+Za drugim razem trzymałam dźwignię w połowie drogi. Widziałam, że wskazówka zbliża się do kreski. Usłyszałam dwa szybkie stuknięcia i pociągnęłam. Lampka po drugiej stronie przegrody rozbłysła. Z mojego miejsca widać było jej światło przez szczelinę. Na moment przygasło, zanim sędzia zakończył próbę i zapisał wynik.
 
 — Jeszcze jeden pomiar? — spytał mnie Miko, zanim dotknął urządzenia.
 
