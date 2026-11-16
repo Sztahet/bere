@@ -24,7 +24,7 @@ Po wojennej awarii sygnalizatora Adrien ma osobisty powód, by nie lekceważyć 
 
 ## Zdolność i jej granice
 
-**Propozycja fabularna:** po przyjęciu impulsu Błyskawic Miko przez krótki czas szybciej wykonuje wyuczone ruchy i reaguje. Bada zjawisko na sobie; nie wie jeszcze, czy dałoby się je wywołać u kogokolwiek innego. Urządzenie może pomóc mu dostarczyć impuls, ale nie każdy impuls musi dać taki sam wynik. W opowieści nie ustalamy w ten sposób ogólnej zasady magii ani działania elektryczności na innych ludzi.
+**Rękopis.** Po przyjęciu impulsu Błyskawic Miko przez krótki czas porusza się szybciej. Może wykorzystać ten efekt przy chwycie albo przy ruchu całego ciała, jeśli wcześniej wybierze, co chce zrobić. Obraz przed oczami się nie zmienia, a po wysiłku drżą mu palce. Przed drugą próbą z Thorą czeka, aż ręka się uspokoi. Bada zjawisko na sobie, a dokładny czas działania pozostaje przedmiotem prób.
 
 Szybszy ruch nie podpowiada mu dobrej decyzji, nie usuwa przeszkód i nie daje nieograniczonej kontroli. Miko musi wybrać kierunek, utrzymać równowagę i mieć miejsce na szpadę. Może szybko popełnić błąd. Efekt ustępuje; jego dokładny czas i sposób przedłużania są przedmiotem prób, a nie pewną regułą świata. Trafienie może boleć i mieć skutki — humor nie wymaga, by ciało Miko było niezniszczalne.
 
@@ -33,10 +33,10 @@ Szybszy ruch nie podpowiada mu dobrej decyzji, nie usuwa przeszkód i nie daje n
 ## Oś czasu i punkty wspólne
 
 - **Część I:** studia w Aurelu, przed wydarzeniami części II. Dokładny rok i długość studiów pozostają otwarte; Miko i Adrien już się znają.
-- **Część II:** późniejsze badania i praca przy przekaźnikach Zerath, przed wiosną 12 ET. Szczegółowe daty można ustalić podczas pisania. Projekt służy ekipom, a odkrycie związane z przyspieszeniem pozostaje jego osobnym zastosowaniem.
+- **Część II:** schyłek zimy 11/12 ET w Zerath. Varek prowadzi brygadę przekaźników i sprawdza z Miko regulator. Przy granicznej stacji brakuje wyniku próby mocowania z Aurelu, więc ekipa przez zmianę podaje znaki ręcznie. Projekt regulatora służy ekipom, a przyspieszenie Miko pozostaje jego osobnym zastosowaniem.
 - **18 kwietnia 12 ET:** w „Wynalazku, którego nie przewidziałem” Miko pokazuje Adrienowi regulator czytelnego impulsu przy mniejszym zapasie energii. Przy jednym ustawieniu osiąga lepszy wynik, lecz mocowanie luzuje się w dłuższej próbie. Miko sam wyłącza zasilanie, czeka na opadnięcie wskaźnika i sprawdza śrubę. Rian później bada projekt. To ustalona scena, nie dowód, że urządzenie jest gotowe.
 - **4 maja 12 ET:** w „Znam kogoś, kto potrafi” Miko przywozi poprawiony regulator i pomaga przy próbach Leny. Proponuje zmianę kształtu sygnału, a po przypomnieniu Rian sprawdza swoje mocowanie. Przyrząd Leny nadal nie jest wtedy gotowy. Nie dopisujemy do tej sceny wydarzeń zmieniających jej przebieg.
-- **Część III:** przygotowania do zgłoszenia i kwalifikacje rozpoczynające się 29 maja 12 ET. Seria właściwych Igrzysk zaczyna się od lipca. Nie przesądzamy udziału Miko w składzie finałowym ani wyniku Igrzysk.
+- **28 maja 12 ET:** przed odprawą Miko rozmawia z Tarenem przy składzie. Taren chce przybliżyć decyzje do ekip Zerath. Miko chce wspólnych zasad certyfikacji na szlaku i zgłasza się po stronie wspólnego nadzoru. Kwalifikacje zaczynają się 29 maja, a właściwe Igrzyska od lipca. Wynik kwalifikacji i udział Miko w składzie finałowym pozostają otwarte.
 
 ## I. „To powinno zadziałać”
 
@@ -98,9 +98,9 @@ Poniższe kwestie są materiałem do scen, nie obowiązkowymi puentami:
 ## Decyzje przed rozwinięciem opowieści
 
 1. Ustalić lata studiów i badań oraz sprawdzić je wobec chronologii wojny i dostępności Adriena. Ich pięcioletnia różnica wieku pozostaje zachowana.
-2. Wybrać stronę, reprezentację i konkretny powód zgłoszenia Miko po porównaniu aktualnych programów; nie utożsamiać jego decyzji z wyborem Adriena.
+2. Potwierdzić roboczy wybór Zerath i wspólnego nadzoru Rady oraz jego konsekwencje poza historią Miko.
 3. Zdecydować, czy nowa pasywka zastępuje dotychczasową, oraz przetestować jej parametry i współdziałanie z pozostałymi zdolnościami. Nie przenosić liczb z gry automatycznie do prozy.
-4. Dopracować samodzielną rolę mechaniczki i partnerki z kwalifikacji: imiona, kompetencje, cele i to, czy są odrębnymi osobami. Ich decyzje nie służą wyłącznie komentowaniu Miko.
+4. Rozwinąć współpracę z Varek i Thorą, uwzględniając obowiązki Varek wobec ekip oraz przygotowania Thory do obrony drużyny.
 5. Rozstrzygnąć, ile z opisanych kwalifikacji znajdzie się w finalnej wersji trylogii. Wcześniejszy szkic trylogii Adriena przyjmował zakończenie przed kwalifikacjami; tutaj proponujemy późniejszy punkt widzenia Miko, bez zmieniania zakończenia historii Adriena.
 
 ## Źródła ciągłości

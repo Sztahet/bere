@@ -18,7 +18,7 @@ Zgodziłem się, że rozsądnie zacząłby od siebie. Ustawił kreskę odniesien
 
 — Widziałem, że pytasz.
 
-Sięgnąłem po przesłonę. Puściło mocowanie i mały mosiężny krążek wysunął się z prowadnicy. W tej samej chwili poczułem impuls w prawej dłoni. Bolało, zanim zrozumiałem, co trzymam. Krążek leżał już w moich palcach. Na stole nie usłyszeliśmy żadnego uderzenia.
+Sięgnąłem po przesłonę. Puściło mocowanie i mały mosiężny krążek wysunął się z prowadnicy. W tej samej chwili poczułem impuls w prawej dłoni. Bolało, zanim zrozumiałem, co trzymam. Krążek leżał już w moich palcach. Ledwie zdążyłem go zobaczyć, nim zamknąłem dłoń. Gdy chciałem otworzyć ją z powrotem, palce zadrżały.
 
 Adrien odciął zasilanie. Kazał mi otworzyć dłoń. Zrobiłem to dopiero, gdy podsunął mi miskę.
 
@@ -51,6 +51,16 @@ Opiekun pracowni obejrzał obudowę, obejrzał moją dłoń i zabrał klucz do s
 — Dotyczy uruchamiania urządzenia, póki nie zobaczę twojego planu.
 
 Nie zdążyłem na szermierkę. Znalazłem Adriena na ławce pod salą. Przyniósł mi szpadę. Oddał ją rękojeścią do lewego boku, bo prawa dłoń wciąż była opatrzona.
+
+— Odmierzyłem nam kroki na podłodze — powiedział. — Czekałem, aż pokażesz mi, jak się cofasz przy wypadzie.
+
+Sam go na ten trening namówiłem. Chciałem sprawdzić, czy po dwóch tygodniach ćwiczeń wreszcie przestanę źle stawiać tylną nogę. Potem przyszło mi do głowy, że możemy mierzyć kroki obydwu. Adrien znalazł pustą salę i przeniósł własną pracę na wieczór.
+
+— Jeżeli jutro przyjdziemy wcześniej…
+
+— Jutro mam swój pomiar. Dzisiaj miałem czas dla ciebie.
+
+Szpada źle leżała w lewej dłoni. Usiadłem obok niego. Chciałem mu pokazać kartkę z pustą rubryką, bo od rana myślałem niemal wyłącznie o niej. Zapytałem, ile kroków zdążył odmierzyć. Opowiedział mi o wszystkich czterech.
 
 — Będziesz przy następnej próbie? — spytałem.
 
