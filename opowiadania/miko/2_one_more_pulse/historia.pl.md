@@ -8,7 +8,7 @@ Varek, która prowadziła brygadę przekaźników, postawiła przede mną lampę
 
 — Tyle dostajemy, kiedy kryształ jest prawie pusty — powiedziała. — Mamy wtedy potwierdzić ekipie, że może wracać.
 
-Mocniej naładowany kryształ wystarczyłby na pokaz w warsztacie. Varek chciała, żeby lampa działała na tym, co zostawało w krysztale pod koniec zmiany. Poprosiła mnie też o obudowę, którą da się otworzyć w rękawicach. Na pierwszym rysunku, żeby odkręcić pokrywę, trzeba było przytrzymać nakrętkę od spodu. Varek położyła rękawice na stole. Spróbowałem w nich chwycić nakrętkę i skreśliłem mocowanie.
+Varek chciała, żeby lampa działała na tym, co zostawało w krysztale pod koniec zmiany. Poprosiła mnie też o obudowę, którą da się otworzyć w rękawicach. Według mojego pierwszego rysunku przy odkręcaniu pokrywy trzeba by przytrzymać nakrętkę od spodu. Varek położyła rękawice na stole. Wsunąłem je i spróbowałem podnieść ze stołu taką nakrętkę. Wypadła mi z palców. Skreśliłem mocowanie.
 
 Przy pierwszych trzech ustawieniach regulatora lampa zużywała większość zapasu na pierwszy błysk. Przesunąłem cewkę. Pierwszy błysk stał się krótszy, a z końca przejścia dało się policzyć wszystkie trzy. Wysłałem Adrienowi tabelę. Odpisał, żebym zaznaczył, ile energii miał kryształ przed każdą próbą. Musiałem zajrzeć do dwóch innych kartek, żeby mu odpowiedzieć. Od następnej próby zapisywałem to w tej samej tabeli.
 
@@ -28,7 +28,7 @@ Varek wyznaczyła dwa okna, z których można było przekazywać sygnał ekipie 
 
 Regulator był tylko jednym z przyrządów, które przywiozłem do Zerath. Po próbach z krążkiem w Aurelu zbudowałem też cewkę mocowaną do rękawicy. Sam wyzwalałem impuls, który wtedy pojawił się przypadkiem. Przy prostym chwycie ręka ruszała szybciej. Teraz chciałem się przekonać, czy zdołam szybciej dobiec do modelu i przełożyć właściwy przewód.
 
-Na stole leżały dwa przewody. Miałem wybrać ten z białą opaską i wpiąć go, zanim lampka zgaśnie. Gdyby mi się udało, lampka znów by się zapaliła, a wskazówka przestałaby opadać. Pokazałem Varek wyłącznik modelu.
+Na stole leżały dwa przewody. Miałem wpiąć ten z białą opaską, zanim wskazówka dojdzie do zera. Jeśli podepnę właściwy przewód na czas, lampka na modelu zostanie zapalona. Pokazałem Varek wyłącznik.
 
 — Co ja mam obserwować? — spytała.
 
@@ -46,13 +46,13 @@ Czekaliśmy, aż obudowa ostygnie.
 
 Varek wskazała białą opaskę na przewodzie, który wciąż leżał na stole. Widziałem go także ze swojego miejsca. Po prostu sięgnąłem po pierwszy, jaki miałem pod ręką. Kiedy spróbowałem zapisać wynik, ołówek zaczął stukać o blat. Odłożyłem go i poczekałem, aż palce przestaną mi drżeć.
 
-Zapisałem, że dotarłem do stołu na czas i podłączyłem zły przewód. Przy następnej próbie miałem najpierw znaleźć wzrokiem oznaczenie, a dopiero potem po niego sięgnąć.
+Zapisałem, że dotarłem do stołu na czas i podłączyłem zły przewód. Przy następnej próbie miałem najpierw poszukać białej opaski, a dopiero wtedy sięgnąć po przewód.
 
 ## Wynik dla cudzych rąk
 
 Przed pokazem regulatora Varek poprosiła, żebyśmy uruchomili lampę kilka razy z rzędu. Trzy pierwsze sygnały widziałem wyraźnie z końca przejścia. Przy czwartym lampa zgasła w połowie sygnału. Otworzyłem odłączoną skrzynkę i znalazłem poluzowane mocowanie styku. Na karcie miałem już wypisaną godzinę pokazu. Przekreśliłem ją.
 
-Przez następne dni poprawiałem mocowanie. Za pierwszym razem styk trzymał się tak sztywno, że kryształ nie wchodził do końca. Spiłowałem kawałek uchwytu i spróbowałem ponownie. Kryształ wszedł na miejsce. Kilka razy włączyliśmy lampę, zanim Varek wyznaczyła nową porę pokazu.
+Przez następne dni poprawiałem mocowanie. Za pierwszym razem uchwyt wystawał na tyle daleko, że kryształ nie dochodził do styku. Spiłowałem wystający brzeg i spróbowałem ponownie. Kryształ wszedł na miejsce. Kilka razy włączyliśmy lampę, zanim Varek wyznaczyła nową porę pokazu.
 
 Przed pokazem Varek chciała przeprowadzić próbę sama. Otworzyła pokrywę w rękawicach, włożyła kryształ i zamknęła obudowę. Już szedłem jej pokazać, gdzie ustawić regulator, kiedy zobaczyłem, że czyta oznaczenia na obudowie. Cofnąłem się na koniec przejścia. Policzyłem trzy błyski. Przy powtórzeniu też zobaczyłem trzy.
 

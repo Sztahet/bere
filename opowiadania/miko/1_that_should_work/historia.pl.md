@@ -8,7 +8,7 @@ Po złożeniu skrzynki została mi na stole jedna podkładka. Byłem prawie pewi
 
 Adrien wszedł do pracowni z kartą pomiarową. Zauważył skrzynkę i zapytał, czy już wiem, co chcę zmierzyć.
 
-— Czy przy mniejszym zapasie energii da się jeszcze zobaczyć sygnał na drugim końcu stołu.
+— Chcę sprawdzić, czy z drugiego końca stołu widać błysk, gdy w krysztale zostało mało energii.
 
 — To ustal, kto będzie patrzył.
 
@@ -26,11 +26,11 @@ Adrien odciął zasilanie i podsunął mi miskę. Upuściłem do niej krążek.
 
 — Kiedy podniosłem głowę, już go trzymałeś. Pokaż palec.
 
-Adrien przyniósł bandaż. Kiedy owinęliśmy palec, narysowałem na odwrocie karty brzeg skrzynki i zaznaczyłem, na jakiej wysokości złapałem krążek. Zostawiłem miejsce na czas chwytu. Trudno było wpisać cokolwiek, skoro żaden z nas nie zdążył przyjrzeć się mojej ręce.
+Adrien przyniósł bandaż. Kiedy owinęliśmy palec, narysowałem na odwrocie karty brzeg skrzynki. Zaznaczyłem, gdzie mniej więcej złapałem krążek. Chciałem też zapisać czas od upuszczenia do chwytu, ale przecież niczego wtedy nie mierzyliśmy.
 
 ## Próba bez zasilania
 
-Pierwsze powtórzenie wykonaliśmy z odłączoną skrzynką. Adrien puszczał krążek, a ja próbowałem go łapać. Za trzecim razem umiałem już przewidzieć ruch jego kciuka. Za czwartym trafiłem w powietrze, bo celowo przytrzymał go trochę dłużej.
+Odłączyliśmy skrzynkę. Adrien puszczał krążek, a ja próbowałem go łapać. Za trzecim razem jego kciuk drgnął tuż przed tym, jak puścił krążek. Przy następnej próbie sięgnąłem, gdy tylko zobaczyłem ten ruch. Adrien przytrzymał krążek odrobinę dłużej, więc zamknąłem palce na powietrzu.
 
 — Jeśli patrzysz na moją rękę, mierzysz też to, jak dobrze mnie znasz — powiedział.
 
@@ -66,6 +66,6 @@ Usiadłem obok niego i położyłem szpadę na kolanach. Miałem w kieszeni kart
 
 — Przeczytam plan. Potem ci powiem.
 
-Wieczorem narysowałem plan próby. Zaznaczyłem wyłącznik i miejsce dla drugiej osoby. Stamtąd miała widzieć krążek i moją dłoń. Pod wynikami dopisałem, że raz udało mi się złapać krążek wcześniej niż w próbach bez zasilania. Żeby to sprawdzić, musiałem uzyskać ten sam wynik kilka razy.
+Wieczorem narysowałem plan próby. Zaznaczyłem wyłącznik i miejsce dla drugiej osoby. Stamtąd miała widzieć krążek i moją dłoń. Pod wynikami dopisałem, że przy lampce krążek prawdopodobnie złapałem wyżej niż przy odłączonej skrzynce. Przy kolejnych próbach chciałem mierzyć wysokość za każdym razem, także z włączonym zasilaniem.
 
 Położyłem podkładkę na kartce. Na górze planu dopisałem, od czego zaczniemy, jeśli opiekun odda nam klucz. Najpierw sprawdzimy każdą śrubę.

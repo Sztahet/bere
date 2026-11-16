@@ -6,7 +6,7 @@
 
 Po zimie spędzonej przy przekaźnikach w Zerath pojechałem na kilka dni do Aurelu. Adrien budował własny regulator. U niego mogliśmy zmierzyć, ile energii potrzebuje każdy przyrząd do tego samego zadania. Przed wyjazdem Varek poprosiła, żebym zapisał też warunki próby. Chciała ją powtórzyć na stacji.
 
-Przyjechałem poprzedniego wieczoru. Rano przyniosłem do pracowni regulator zawinięty w płaszcz. Z obudowy wystawała śruba, więc ułożyłem pod nią gruby szew, żeby nie przebiła materiału.
+Przyjechałem poprzedniego wieczoru. Rano przyniosłem do pracowni regulator zawinięty w płaszcz. Ułożyłem go tak, żeby wystająca śruba opierała się o grube obszycie kołnierza.
 
 Przy pierwszym pomiarze mój regulator zużył mniej energii niż przyrząd Adriena. Zamieniliśmy kryształy miejscami i powtórzyliśmy próbę. Wynik się utrzymał.
 
@@ -40,11 +40,11 @@ Taren złożył arkusz tak, żeby oba wymiary zostały na wierzchu.
 
 — U mnie ludzie po raz trzeci naprawiają tę samą część. Chcę, żeby mogli zamówić następną bliżej domu, bez pytania Rady o zgodę na każdą zmianę.
 
-— Ja chciałbym, żeby po drugiej stronie szlaku umieli ją sprawdzić z tego samego kwitu.
+— Ja chciałbym, żeby po drugiej stronie granicy z tego samego kwitu mogli wyczytać, czy część wytrzyma u nich.
 
 — To niech dostawca wpisze, przy jakim obciążeniu sprawdził część. Moi monterzy też chcą to wiedzieć.
 
-Przy wymiarach części Taren miał zapisane ciśnienie w obu pompach. Chciał porównać te liczby z wynikami prób u sprzedawcy, zanim cokolwiek kupi. Pożyczyłem od niego ołówek. Obok pieczęci na kwicie dopisałem, o którą liczbę chciałem zapytać w składzie.
+Przy wymiarach części Taren miał zapisane ciśnienie, pod jakim pracują jego pompy. Przed zakupem chciał się upewnić, że nowe części je wytrzymają. Pożyczyłem od niego ołówek. Na swoim kwicie zapisałem, o co zapytam przy następnym zamówieniu. Przy jakim obciążeniu sprawdzili to mocowanie?
 
 Przy zapisach obok listy kandydatów wisiały oba warianty Porozumienia. Wielkie Igrzyska miały rozstrzygnąć, który wejdzie w życie. Przeczytałem jeszcze raz ustęp o wspólnym nadzorze. Rada nadal ustalałaby zasady sprawdzania i dopuszczania splotytu do użytku. Musiałaby podawać podstawy swoich decyzji, a krainy mogłyby odwoływać się do arbitrów. Miałem w kieszeni kwit. Pomyślałem o następnej brygadzie, która dostanie skrzynię z drugiej strony granicy. Chciałem, żeby już przy odbiorze mogła ustalić, czy część nadaje się do pracy przy jej przekaźniku.
 
@@ -54,7 +54,7 @@ Wpisałem Zerath i wspólny nadzór Rady. Urzędnik zapytał, czy przyniosę na 
 
 Val Meris · pierwsze dni kwalifikacji w 12 ET
 
-Sędzia sprawdził mocowanie cewki i dopuścił ją do próby. Dostaliśmy model śluzy. Thora miała trzymać dźwignię, a ja przełożyć przewód za przegrodą, żeby puścić sygnał na drugą stronę modelu. Trzecia osoba pilnowała wskazówki. Jeśli opadnie do kreski, miała zawołać, a Thora puścić dźwignię.
+Sędzia sprawdził mocowanie cewki i dopuścił ją do próby. Dostaliśmy model śluzy. Thora miała trzymać dźwignię, a ja przełożyć przewód za przegrodą, żeby puścić sygnał na drugą stronę modelu. Trzecia osoba pilnowała wskazówki. Jeśli wskazówka opadnie do kreski, ta osoba miała zawołać, a Thora puścić dźwignię.
 
 Powiedziałem „zaraz wracam”, wyzwoliłem impuls i obiegłem przegrodę. Znalazłem właściwy przewód. Zaczęły mi drżeć palce i wtyk ześlizgnął się po krawędzi gniazda. Usłyszałem wołanie ze stanowiska obok, a potem stuk puszczonej dźwigni. Wycofałem rękę i wróciłem do Thory.
 
@@ -70,10 +70,10 @@ Wróciłem pod przegrodę i stuknąłem dwa razy w deskę.
 
 Zaczekałem, aż dłoń przestanie drżeć. Wyzwoliłem drugi impuls i stuknąłem w deskę, gdy dobiegłem do obudowy. Tym razem oparłem nadgarstek o jej brzeg. Wsunąłem wtyk i stuknąłem drugi raz. Thora trzymała dźwignię do znaku sędziego. Sygnał przeszedł na drugą stronę. Kiedy wyjmowałem rękę, wskazówka jeszcze raz drgnęła. Sędzia zanotował wyniki obu prób.
 
-Na karcie oba czasy dobiegnięcia do przegrody były prawie takie same. Przy drugim wyniku dopisałem, co oznaczało każde stuknięcie. Przy następnym podejściu ktoś inny mógł stanąć przy dźwigni i od razu wiedzieć, kiedy przewód jest już na miejscu.
+Na karcie oba czasy dobiegnięcia do przegrody były prawie takie same. Przy drugiej próbie dopisałem, co oznaczały stuknięcia. Gdyby ktoś zastąpił Thorę przy dźwigni, mógłby przeczytać, na jaki znak ma czekać.
 
 — Jeszcze jeden pomiar? — spytałem, nim dotknąłem urządzenia.
 
 — Po przerwie. Najpierw chcę zobaczyć, który przewód się odsunął.
 
-Przytrzymałem deskę, żeby mogła zajrzeć pod spód. Kartę z wynikami odłożyłem na bok.
+Odłożyłem kartę z wynikami i przytrzymałem deskę, żeby Thora mogła zajrzeć pod spód.
