@@ -1,8 +1,8 @@
 # Przy jednym stole
 
-*Jedno posiedzenie starszyzny Verdan opowiedziane przez cztery osoby. Szczegóły sceny są szkicem do wykorzystania w ich opowiadaniach.*
+*Jedno posiedzenie starszyzny Verdan opowiedziane przez cztery osoby. Strony posiedzenia wracają w [opowiadaniu Thory](opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md), [Liory](opowiadania/liora/1_the_handover/historia.pl.md), [Erona](opowiadania/eron/1_through_someones_field/historia.pl.md) i [Any z Bobem](opowiadania/ana/1_when_the_ground_dries/historia.pl.md).*
 
-**Korzenna Przystań, druga połowa marca 12 ET.** Starszyzna zbiera Thorę, Liorę, Erona i Anę przy wspólnym stole pod zadaszeniem obok ogrodów. Przychodzi z nimi Bob. Lista dotyczy wyjazdu na przygotowania i udziału w kwalifikacjach, które zaczynają się 29 maja. Thora wyjeżdża po przekazaniu pracy w dolinie i dociera do Val Meris pod koniec marca. Daty wyjazdu pozostałych zależą od ich opowiadań. [Kanon Verdan](world_history.md#verdan--tradycje-natury) · [Kalendarz kwalifikacji](world_history.md#zgłoszenia-i-kwalifikacje)
+**Korzenna Przystań, druga połowa marca 12 ET.** Starszyzna zbiera Thorę, Liorę, Erona i Anę przy wspólnym stole pod zadaszeniem obok ogrodów. Przychodzi z nimi Bob. Lista dotyczy udziału w kwalifikacjach, które zaczynają się 29 maja. Thora przekazuje pracę jeszcze tego dnia i od razu rusza w drogę. Dociera do Val Meris pod koniec marca. Liora przekazuje dyżury, Eron sprawdza przejazd, a Ana z Bobem kończą pracę przy ogrodach przed własnymi wyjazdami. [Kanon Verdan](world_history.md#verdan--tradycje-natury) · [Kalendarz kwalifikacji](world_history.md#zgłoszenia-i-kwalifikacje)
 
 ## Thora
 
@@ -12,13 +12,13 @@ Zdążyłam wbić trzy tyczki przy podmytym rowie. Czwartą oparłam o słup pod
 
 Spojrzałam na Erona. Umiał dojechać do Val Meris bez pytania w każdej gospodzie, czy dobrze skręcił. Właśnie miałam o tym powiedzieć, kiedy zobaczyłam jego imię obok mojego. Najwidoczniej wszyscy przy tym stole mieli już przydział pracy. Pomyślałam o robocie, której nie przydzielono nikomu.
 
-— Kto jutro obejrzy trzy pola pod wałem?
+— Kto obejrzy trzy pola pod wałem, kiedy wyjadę?
 
-— Pójdę z tobą o świcie. Pokażesz mi, gdzie sprawdzać wodę.
+— Pójdę z tobą zaraz po spotkaniu. Pokażesz mi, gdzie sprawdzać wodę.
 
 Przez chwilę miałam ochotę przedstawić całą kolejność. Przy pierwszym polu woda stała pod kamieniem. Przy drugim kamienia w ogóle nie było. Trzecie z góry wyglądało na suche, póki człowiek nie wszedł w nie po kostki. Zaczęłam liczyć na palcach. Starsza przesunęła ławę, żeby zrobić mi miejsce obok siebie.
 
-— Na dole kanału wypatruj brązowej wody — powiedziałam. — Resztę jutro pokażę.
+— Na dole kanału wypatruj brązowej wody — powiedziałam. — Resztę pokażę po drodze.
 
 Później Liora poprosiła o zmianę przy lecznicy, Eron rozwinął mapę, a Ana dopilnowała, żeby przy jej imieniu wpisano Boba. Ołówek wrócił do mnie pierwszy. Podpisałam się, przesunęłam listę do Liory i wstałam po tyczkę. Do wieczora wciąż mogłam skończyć oznaczanie brzegu.
 
@@ -28,7 +28,7 @@ Położyłam notes na stole stroną z dyżurami do dołu. Rano wpisałam tam dwi
 
 — Chcemy, żebyście stanęli do kwalifikacji w imieniu Verdan — powiedziała starsza.
 
-Thora zapytała o trzy pola pod wałem. Dobrze znałam jedno z nich. Podczas powodzi otworzyłam odpływ, żeby uratować lecznicę, a woda weszła na rodzinne zagony i pola sąsiadów. Zawsze pamiętam, którymi drzwiami wyprowadzaliśmy ludzi z lecznicy. Wciąż pamiętam też, co zobaczyłam później za ogrodzeniem. Kiedy starsza obiecała Thorze, że pójdzie z nią rano obejrzeć wodę, odwróciłam notes.
+Thora zapytała o trzy pola pod wałem. Dobrze znałam jedno z nich. Podczas powodzi otworzyłam odpływ, żeby uratować lecznicę, a woda weszła na rodzinne zagony i pola sąsiadów. Zawsze pamiętam, którymi drzwiami wyprowadzaliśmy ludzi z lecznicy. Wciąż pamiętam też, co zobaczyłam później za ogrodzeniem. Kiedy starsza obiecała Thorze, że pójdzie z nią do kanału zaraz po spotkaniu, odwróciłam notes.
 
 — Kto przejmie moje dyżury w lecznicy?
 
@@ -46,7 +46,7 @@ Na posiedzenie wziąłem mapę, chociaż nikt mnie o nią nie prosił. Przez ca�
 
 Idąc tam, zdążyłem ułożyć sobie kilka pytań o drogę. Thora zapytała o pola. Liora chciała wiedzieć, kto weźmie jej dyżury. Zaczekałem, aż starsza odpowie obu, i rozwinąłem mapę. Żeby się nie zwinęła, przytrzymałem krawędź dłonią.
 
-— Zanim ustalimy wyjazd, sprawdzę przepust i zapytam, którędy możemy przejechać.
+— Zanim wyjadę, sprawdzę przepust i zapytam, którędy wolno przejechać.
 
 Starsza pochyliła się nad mapą. Chwilę patrzyła na długi objazd, który narysowałem za rozwidleniem.
 

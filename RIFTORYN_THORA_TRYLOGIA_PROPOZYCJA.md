@@ -2,6 +2,8 @@
 
 *Szkic trylogii z odsyłaczem do wspólnej sceny wyboru*
 
+Robocze opowiadania można przeczytać w kolejności [„Ostatni korzeń”](opowiadania/thora/1_the_last_root/historia.pl.md), [„Dzień, który miał być spokojny”](opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md), [„Wystarczy”](opowiadania/thora/3_enough/historia.pl.md). Wersja „Ostatniego korzenia” powstała na podstawie komiksu i biografii.
+
 ## Thora i Verdan
 
 Thora ma 42 lata w 12 ET. Zna ziemię Korzennej Przystani z pracy przy rowach, sadzonkach i podmytych brzegach. Lubi patrzeć, jak ziemia pije wodę po długiej suszy. Przy naprawie wału tę samą cierpliwość widać w tym, jak sprawdza każdą szczelinę. Jest silna i potrafi długo utrzymać tarczę. Kiedy woda przelewa się górą, natychmiast decyduje, którędy wyprowadzić ludzi. W walce interesuje ją to, ile czasu może dać innym i do czego ten czas im się przyda.
@@ -24,7 +26,7 @@ Do sprawdzenia z pełnym rękopisem należy także związek tej powodzi z wydarz
 
 ## II. Dzień, który miał być spokojny
 
-1. Starszyzna wyznacza Thorę, Liorę, Erona i Anę na jednym posiedzeniu w Korzennej Przystani. Thora przychodzi z pracy przy podmytym rowie. Zanim podpisze listę, ustala, kto rano pójdzie z nią obejrzeć trzy pola pod wałem. [Wspólna scena z perspektywy Thory](RIFTORYN_VERDAN_WYBOR_KANDYDATOW_PROPOZYCJA.md#thora).
+1. Starszyzna wyznacza Thorę, Liorę, Erona i Anę na jednym posiedzeniu w Korzennej Przystani. Thora przychodzi z pracy przy podmytym rowie. Po spotkaniu pokazuje starszej trzy pola pod wałem i jeszcze tego dnia rusza w drogę. Pozostali przekazują obowiązki we własnym tempie. [Wspólna scena z perspektywy Thory](RIFTORYN_VERDAN_WYBOR_KANDYDATOW_PROPOZYCJA.md#thora).
 2. Po wyborze wyjeżdża do Val Meris. Roboczo można przyjąć przyjazd pod koniec marca 12 ET, około dwóch miesięcy przed zawodami z Piecariusem. Wyznaczenie przez starszyznę otwiera przygotowania. Formalne kwalifikacje zaczynają się 29 maja. W tych dwóch miesiącach wystarczą dwie lub trzy sceny pracy, w których Thora rzeczywiście coś zmienia w treningu. Za pierwszym razem patrzy na to, jak wieża trafia w ładunek. Później próbuje osłaniać dwie osoby, które poruszają się w innym tempie. Zaczyna używać krótkich poleceń, zdolnych przebić się przez hałas.
 3. **28 maja, miejscowe zawody.** Aktualny tekst Piecariusa nazywa rozdział „Nagroda”. Losuje się trzyosobowe składy. Thora kładzie nacisk na kierunek ruchu i sprawdza pętlę przy skrzyni. Uzgodnienie brzmi „Jak powiem «w lewo», idziesz w lewo. Umiemy tak?”. Piecarius odpowiada o cnocie cierpliwego słuchania, a Thora mówi „Zobaczymy po zakręcie”. Pod ostrzałem Piecarius obniża ogień, Thora zasłania lukę tarczą i kieruje go w lewo. Trzeci zawodnik wpada nogą w pas. Szarpnięcie Piecariusa zaciska pętlę. Thora przecina pas, Piecarius osłania oboje i pomaga zawodnikowi iść, a Thora ciągnie skrzynię. Kończą w nagradzanym miejscu. Piecarius kupuje płótno na opatrunek. Thora mówi o wodzie dla trzech pól i zadaje mu pytanie „Czy ktoś cię wysłał?”.
 
