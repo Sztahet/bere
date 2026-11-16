@@ -86,39 +86,39 @@ Oren złożył list wzdłuż starych zgięć. Gdy odjeżdżaliśmy, siedział na
 
 ### Na drodze
 
-Dwóch ludzi wyszło z lasu przed zaprzęg. Jorek ściągnął lejce i wóz stanął blisko miękkiego pobocza. Gdy obejrzałem się za siebie, zobaczyłem trzeciego. Szedł środkiem drogi z krótkim ostrzem opuszczonym przy udzie.
+Za chatą Orena droga zwężała się między lasem a rowem. Jechałem na tylnej burcie. Właśnie chowałem odrys do księgi, kiedy Jorek tak gwałtownie ściągnął lejce, że uderzyłem łokciem o deski.
 
-— Skrzynię — powiedział jeden z tych z przodu.
+Dwóch ludzi zastąpiło nam drogę. Ten z siekierą stanął przed końmi. Drugi przeszedł wzdłuż zaprzęgu, od strony lasu, aż znalazł się pod kozłem. Obejrzałem się. Za wozem trzeci człowiek wyszedł na drogę z nożem w ręku.
 
-Veda stanęła na koźle.
+— Skrzynię zdejmijcie — powiedział ten przy koźle.
 
-— Są w niej części do pompy. W osadzie na nie czekają.
+— Są w niej części do pompy — odparła Veda. — Komu je sprzedacie tutaj? Ludziom, którzy właśnie na nie czekają?
 
-— To niech do nas przyjdą po odbiór.
+Mężczyzna chwycił ją za kostkę. Wcisnąłem księgę do sakwy, zeskoczyłem z burty i puściłem ogień między jego buty a koło. Chciałem, żeby odskoczył od wozu. Puścił Vedę i cofnął się pod drzewa, ale płomień poszedł za wysoko. Róg plandeki zajął się tuż nad kołem. Zdusiłem ogień na płótnie. W tej samej chwili lewy koń uskoczył od żaru i pociągnął drugiego za sobą. Jorek próbował ściągnąć zaprzęg na środek drogi, lecz tylne koło zsunęło się z pobocza.
 
-Obszedł konie od lewej i sięgnął po jej nogę. Zeskoczyłem z burty. Spod mojej dłoni poszedł ogień, w zamyśle niski, w sam raz, żeby odgrodzić go od wozu. Płomień wstał aż pod plandekę. Poczułem smród gorącego płótna i zgasiłem górę łuku, zanim materiał zajął się na dobre. Napastnik odskoczył, zasłaniając twarz.
+Veda zeskoczyła od strony rowu. Ziemia pod kołem osypywała się z każdym szarpnięciem zaprzęgu. Przyłożyła do niej dłoń. Spod obręczy wysunęły się dwa kamienie i zaklinowały koło. Skrzynia uderzyła od środka o burtę. Trzymały ją jeszcze pasy.
 
-— Jorek, trzymaj konie!
+Usłyszałem kroki od strony koni. Człowiek z siekierą dobiegł do mnie, zanim podniosłem tarczę. Ostrze ześlizgnęło się po naramienniku, a rzemień, który rano zawiązałem, puścił. Naramiennik upadł pod wóz. Następny cios przyjąłem tarczą. Uderzenie odrzuciło mi rękę, ale zdążyłem zrobić krok naprzód. Napastnik musiał się cofnąć, żeby znowu wziąć zamach. Wyciągnąłem miecz.
 
-Ledwie zdążyłem zwrócić się ku niemu, drugi człowiek doskoczył od lasu. Cios ześlizgnął się po naramienniku, ale rzemień puścił i blacha zsunęła mi się na łokieć. Podbiłem jego rękę tarczą i przycisnąłem go do burty. Cofnął się pod drzewa. Wtedy usłyszałem, jak za moimi plecami ostrze trze o sprzączkę. Trzeci napastnik sięgnął zza wozu do pasów. Wyciągnąłem miecz. Ustąpił przed końcem ostrza, tylko na tyle daleko, bym musiał mieć go na oku.
+Wtedy za plecami trzasnął pas. Odwróciłem głowę. Człowiek z nożem stał już przy tylnej burcie i sięgał po drugi. Cofnąłem się wzdłuż wozu, trzymając ostrze w stronę siekiery. Przy tylnym kole odwróciłem miecz ku człowiekowi z nożem. Puścił pas i odstąpił. Zostałem przy burcie. Widziałem stamtąd obu.
 
-Lewy koń szarpnął po tym, jak poczuł ogień. Jedna z wodzy wyślizgnęła się Jorkowi. Wóz ruszył ukosem i tylne koło zjechało z drogi. Pod obręczą posypał się żwir. Veda zeskoczyła po przeciwnej stronie i wbiła piętę w ziemię. Kamienie, które jeszcze przed chwilą zsuwały się spod koła, spiętrzyły się pod nim jak klin. Wóz osiadł na nich z trzaskiem. Skrzynię trzymał odtąd jeden naprężony pas.
+— Jorek, spokojnie — powiedziała Veda. — Trzymaj tak, jak trzymasz.
 
-— Jorek, do łba konia. Podejdź z boku, nie od przodu.
+Jorek wciąż siedział na koźle z lejcami zaciśniętymi w obu dłoniach. Słyszałem, jak mówi coś do koni. Powtarzał to samo, coraz ciszej. Żaden z nich już nie szarpał.
 
-Ruszył. Chciałem jeszcze raz zagrodzić drogę ogniem, lecz po uderzeniu palce nie chciały mi się prostować, a płótno nad skrzynią wciąż dymiło. Stanąłem więc przy tylnej burcie z mieczem. Napastnik zrobił krok naprzód. Zrobiłem swój i poczułem za plecami drewno wozu. Przez chwilę słyszałem tylko ciężki oddech koni. Potem od dolnej drogi dobiegł turkot. Człowiek z ostrzem spojrzał w tamtą stronę, a gdy odwróciłem głowę ku jego towarzyszom, obaj byli już między drzewami. Zaraz poszedł za nimi.
+Od strony zakrętu za nami dobiegł turkot kół. Ktoś zawołał, żebyśmy zrobili miejsce. Mężczyzna, którego odgoniłem ogniem, gwizdnął spomiędzy drzew. Człowiek z siekierą pierwszy ruszył w jego stronę. Ten z nożem pobiegł za nim. Zostałem przy skrzyni, dopóki nie ucichły ich kroki.
 
-Veda podsunęła dłoń pod skrzynię. Oparłem miecz o burtę i razem przesunęliśmy ładunek na środek. Jorek wciąż trzymał konia za uzdę, choć ten już stał spokojnie. Kiedy Veda poprosiła go o zapasowy pas, pociągnął nosem. Dopiero po chwili zajrzał pod siedzenie.
+Na zakręcie stał drugi wóz. Woźnica czekał, aż zrobimy mu przejazd. Wdrapałem się na platformę i pociągnąłem za uchwyt skrzyni, a Veda pchnęła ją od strony rowu. Kiedy skrzynia znalazła się na środku, Jorek podał nam zapasowy pas. Veda podsunęła płaski kamień przed koło. Jorek poprowadził po nim wóz tak wolno, że widziałem każdy obrót obręczy. Kiedy wyjechał z rowu, podniosłem naramiennik z koleiny i przywiązałem go do burty.
 
-— Uratowaliśmy części do pompy — powiedziała Veda.
+— Nic ci nie jest? — zapytałem Jorka.
 
-— Ludzi, którzy jej potrzebują — odparłem.
+Pokręcił głową. Wciąż patrzył przed siebie. Veda wzięła od niego lejce i powiedziała, że teraz może usiąść obok niej.
 
-Sprawdziła przypalony róg plandeki.
+Potem odchyliła przypalony róg plandeki. W miejscu, gdzie płótno dotykało sprzączki, została dziura szeroka na dwa palce.
 
-— Jak ją uruchomią, może im pan to powiedzieć osobiście.
+— Jak zacznie padać, przykryjemy skrzynię płaszczem — powiedziała. — Niech pan sprawdzi, czy pas trzyma.
 
-Na koźle czekały na mnie dwie gruszki. Obitą zjadłem od razu. Drugą schowałem na wieczór.
+Sprawdziłem. Dopiero kiedy zerknęła, czy sam dociągnąłem sprzączkę, podała mi dwie gruszki. Obitą zjadłem w drodze. Drugą schowałem na wieczór.
 
 ### Księga
 
