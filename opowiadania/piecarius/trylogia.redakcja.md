@@ -8,7 +8,7 @@
 
 Gdyby o rycerskiej godności świadczyła liczba selenów w sakiewce, tego ranka nie powinienem był przedstawiać się nikomu. Po zakupie mapy i cynamonowego olejku zostało mi półtora selena w monecie i drobnych, a oberżysta czekał na zapłatę za nocleg.
 
-— Olejek — powiedział, kiedy odliczałem pieniądze. — A rzemyk dalej pęknięty.
+— Czuję cynamon — powiedział oberżysta, kiedy odliczałem pieniądze. Zerknął na mój naramiennik. — A rzemyk dalej pęknięty.
 
 Schowałem fiolkę i obiecałem sobie, że kiedyś wyjaśnię mu różnicę między schludnością a rozrzutnością. Na razie zaciągnąłem naderwany pasek przy naramienniku, wsunąłem pod pachę księgę w płóciennym zawiniątku i podszedłem do jedynej osoby w izbie, której nie znałem. Kobieta obierała gruszkę małym, wyszczerbionym nożem.
 
@@ -28,7 +28,9 @@ Oberżysta skinął głową. Kobieta zwinęła skórkę w palcach i odłożyła 
 
 — Droga damo, potrafię mówić w marszu.
 
-— Już widzę. Gruszki rozdaję po pracy.
+Przy jej łokciu stał koszyk gruszek. Pachniały tak słodko, że przez chwilę nie mogłem oderwać od nich wzroku. Veda przysunęła koszyk do siebie.
+
+— Gruszki rozdaję po pracy.
 
 Na podwórzu jej pomocnik, Jorek, dociskał skrzynię do platformy kolanem, żeby Veda mogła dociągnąć pasy. Kiedy skończyła, oparła o burtę kartę przewozową na drewnianej podkładce. Wpisała naszą trójkę. Przy moim imieniu dopisała drobnymi literami „Bractwo Feniksa” i podała mi ołówek.
 
