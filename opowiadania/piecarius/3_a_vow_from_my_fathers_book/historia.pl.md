@@ -2,220 +2,222 @@
 
 ## Właściwe powitanie
 
-Powitanie ćwiczyłem przed wypolerowaną pokrywką od garnka. Miałem trzy wersje. Kiedy podniosłem rękę do ukłonu, pod rękawem odezwało się oparzenie po pożarze. Opuściłem ją i znów zobaczyłem skrzynię pod belką. Przez kilka nocy wracałem po tę płytkę we śnie; za każdym razem budziłem się, zanim zdążyłem jej dotknąć.
-
-Pierwsza wersja powitania była zbyt długa. W drugiej dwa razy użyłem słowa „zaszczyt”. Trzecia podobała mi się najbardziej, ale kiedy podniosłem podbródek przy słowie „Feniks”, zobaczyłem w pokrywce kawałek gruszki utknięty w brodzie.
-
-Usunąłem go i zacząłem od początku.
+Powitanie przećwiczyłem trzy razy przed wypolerowaną pokrywką garnka. W pierwszej wersji za długo trzymałem rękę do ukłonu i oparzenie odezwało się pod rękawem. W drugiej dwa razy użyłem słowa „zaszczyt”. W trzeciej zobaczyłem kawałek gruszki, który tkwił mi w brodzie od śniadania.
 
 — Piecarius. Rycerz Bractwa Feniksa. Przybywam, by…
 
 Ktoś zastukał.
 
-— Jeśli pan jeszcze raz zacznie przemawiać do garnka, zapłaci pan za dwóch gości — powiedziała gospodyni zza drzwi.
+— Jeszcze raz odezwie się pan do garnka i policzę za dwóch gości — powiedziała gospodyni.
 
-Otworzyłem. Stała z koszem bielizny.
+Otworzyłem. Trzymała kosz z bielizną, a na wierzchu leżała moja koszula. Wyjęła z fartucha dwie monety, które zostawiłem w kieszeni. Jedna była miejscowa, drugą mogłem opłacić miejsce przy wozie przynajmniej na kawałek drogi powrotnej. Przez chwilę cieszyłem się pieniędzmi, które od początku należały do mnie. Oddałem jej ostatnią gruszkę, tę bez obić.
 
-— Przygotowuję się do spotkania z ludźmi z całego kontynentu.
+Przyjechałem do Val Meris z transportem części na areny. Kwalifikacje miały ruszyć pod koniec maja, choć same Wielkie Igrzyska zaczynały się dopiero latem. W warsztatach już palono światło do późna, a w gospodach dostawiano ławy. Zajrzałem pod wschodnią bramę, gdy tylko rozładowaliśmy wóz. Znalazłem miejsce Vedy pod zadaszeniem, oznaczone kredą na belce. Pisarz powiedział, że jej wóz jest w drodze i żebym zajrzał nazajutrz po południu, kiedy skończy rozładunek.
 
-— Garnka nie trzeba przekonywać. Ludzie pewnie będą trudniejsi.
+Odkąd zobaczyłem płytkę pod belką, przez kilka nocy wracałem po nią we śnie. Raz zdążyłem nawet dotknąć rzemyka. Obudziłem się z dłonią zaciśniętą na kocu.
 
-Podałem jej kosz, bo trudno wejść do pokoju z koszem i rozmawiać przez próg. Wyciągnęła z niego czystą koszulę, którą zostawiłem jej poprzedniego dnia. W kieszeni znalazła dwie monety.
+Rozważałem też zgłoszenie do kwalifikacji. Na miejscowych zawodach bywałem często. Lubiłem zwyciężać, a nagrody nieraz płaciły za nocleg. Tu trzeba było wpisać na formularzu, kto ma po Igrzyskach decydować o splotycie. Człowiek od odbioru naszego ładunku wstrzymał montaż całej skrzyni wkładów. Świadectwo z Vareth mówiło, że próbę przeprowadzono. Monter z Zerath zapytał, przy jakim obciążeniu. Pokazano mu samą pieczęć. Woźnica siedział na brzegu platformy, gotów zeskoczyć po pokwitowanie, i po raz trzeci pytał, kto zapłaci za postój, skoro stawił się o czasie. Monter kluczem podważył skraj papieru, jakby pod pieczęcią spodziewał się znaleźć brakującą liczbę. Potem odłożył klucz.
 
-— Należało sprawdzić przed praniem — oznajmiła.
-
-— Należało. Dziękuję.
-
-Położyła monety na stole. Jedna była mniejsza, lokalna; drugą mógłbym opłacić część podróży powrotnej, gdybym znalazł niedrogie miejsce przy cudzym wozie. Przez chwilę cieszyłem się pieniędzmi, które od początku należały do mnie.
-
-Tego lata w Val Meris miały rozpocząć się Wielkie Igrzyska. Już teraz przybywali ludzie z krain, do których nie dotarłbym przez lata. Jedni przyjechali oglądać zawody, inni pracować przy dostawach, sprzedawać jedzenie albo spotkać krewnych. Rozważałem zgłoszenie do kwalifikacji. Na razie zatrudniłem się do ochrony transportu materiałów i jeszcze nie zdecydowałem, czy stanę przed urzędnikiem jako kandydat. W miejscowych zawodach startowałem dosyć często: lubiłem rywalizację, a nagroda potrafiła szybko uzupełnić sakiewkę. Bywało też, że wracałem bez niej. Za drogę z Nivoren, noclegi i naprawy zapłaciłem większością tego, co zarobiłem przy wozach; Tovin i stare rachunki piekarni były jeszcze daleko.
-
-Miałem w sakwie księgę ojca, odrys znaku ze słupa i dwie gruszki. Jedną zostawiłem gospodyni w podziękowaniu za monety. Tym razem nie odmówiła.
+Wyszedłem z gospody z księgą pod pachą. Zamierzałem zajrzeć do punktu zgłoszeń i ustalić, jak długo mogę jeszcze odwlekać decyzję. Na placu były już tłumy.
 
 ## Kto pamięta ptaka
 
-Przed miejscem zapisów rozstawiono ławy dla przyjezdnych. Usiadłem obok starszego mężczyzny z Zerath, którego rozpoznałem po oznaczeniu na torbie, i zapytałem o drogę.
+Na ławie przed urzędem siedział starszy mężczyzna z pudełkiem narzędzi opartym o stopę. Na torbie miał znak Zerath. Spytałem, czy długo jechał. Bered, bo tak się nazywał, pokazał mi obtarte przez rzemień miejsce na dłoni. Córka prosiła go o dwa narzędzia, a wiózł jej całe pudełko.
 
-Lubię zaczynać od drogi. Ludzie mówią wtedy, skąd przybyli, kto im towarzyszył i co musieli zostawić w domu. Jeśli od razu pytam o Feniksa, często odpowiadają „nie” i wracają do własnych spraw.
-
-Mężczyzna nazywał się Bered. Przyjechał do córki. Wiózł jej drobne narzędzia, których potrzebowała do pracy przy urządzeniach, i narzekał, że za każdym razem prosi go o coś cięższego.
-
-— A jednak pan przyjechał — zauważyłem.
+— A jednak pan przyjechał — powiedziałem.
 
 — Wolałby pan, żebym wysłał narzędzia i nie zobaczył wnuczki?
 
-Nie wolałbym. Pokazał mi niewielki drewniany krążek, który dziewczynka zrobiła na jego ostatni przyjazd. Na krążku widniał koń, choć według Bereda równie dobrze mógł być psem.
+Wyjął zza pazuchy drewniany krążek. Dziewczynka narysowała na nim konia. Bered twierdził, że to pies. Obróciłem krążek w palcach i koń rzeczywiście zrobił się podobny do psa. Przypomniałem sobie rozmowę z Noctenem. Zamiast od razu pytać o Feniksa, wyjąłem odrys i spytałem Bereda, czy widział gdzieś taki znak.
 
-Dopiero potem zapytałem o ptaka.
+— Znałem przewoźnika, który nosił broszę w kształcie ptaka. Chyba ptaka. Śpiewał przy rozładunku: „Pióro nad drogą, popiół pod stopą”.
 
-— Feniksa? — powtórzył. — Znałem człowieka, który śpiewał o ognistym ptaku.
+Powtórzyłem wers po cichu. „Popiół pod stopą” brzmiał jak słowa, które ojciec mógł kiedyś pominąć, gdy czytał mi przy dogasającym piecu.
 
-— Czy pamięta pan słowa?
+— Pamięta pan, co śpiewał wcześniej?
 
-— „Pióro nad drogą, popiół pod stopą”. Dalej już nie.
+— Tego nie. Popiół sypaliśmy zimą na zjazd do składu, żeby wozy nie wpadły na konie. Przypominał nam śpiewem, jak znowu któregoś brakowało przy robocie.
 
-Mój ojciec nie czytał mi takich słów. Otworzyłem księgę na stronie z ozdobnym inicjałem.
+Oparłem notes o kolano. Zapisałem słowa tak, jak je podał, i dodałem uwagę o zjeździe. Dopiero potem zapytałem o człowieka.
 
-— Czy tamten człowiek nosił ten znak?
+— Umarł wiele lat temu — odpowiedział Bered. — Prawie go nie znałem. Pamiętam piosenkę, bo strasznie fałszował.
 
-Bered spojrzał uważnie.
-
-— Miał broszę. Z daleka mogła przypominać ptaka, ale nie jestem pewien. Był przewoźnikiem. Śpiewał przy rozładunku, bo podobno łatwiej mu było utrzymać rytm.
-
-— Gdzie go znajdę?
-
-— Umarł wiele lat temu.
-
-Przeprosiłem za pośpiech. Bered wzruszył ramionami.
-
-— Prawie go nie znałem. Pamiętam piosenkę, bo nie umiał śpiewać.
-
-Zapisałem słowa w notesie. Obok zanotowałem, od kogo je usłyszałem, i że nie ma pewności co do broszy. Bered przyjrzał się mojemu pismu i stwierdził, że litery wyglądają jak narzędzia wrzucone do skrzyni bez przegródek.
-
-— Ojciec mówił podobnie — odpowiedziałem.
-
-— Słusznie mówił.
-
-Kiedy przyszła jego córka, pomogłem im podnieść torbę. Bered chciał ją nieść sam. Oddałem mu lżejszy koniec, zachowując cięższy dla siebie. Nie zauważył albo był zbyt uprzejmy, by o tym wspomnieć.
+Nie przypominał sobie, by ktokolwiek wołał na niego Tovin. Oparł na chwilę drewniany krążek o mój odrys, jakby porównywał oba rysunki. Kiedy zobaczyliśmy jego córkę na placu, chwyciłem za uchwyt pudełka. Bered nie puścił. Ponieśliśmy je razem. Wiedział, która strona jest cięższa, i bez słowa podsunął mi właśnie tę.
 
 ## Nazwa
 
-Przy punkcie zgłoszeń kandydatka stojąca przede mną pytała urzędnika, czy może przynieść brakujący dokument następnego dnia. Urzędnik wyjaśniał, że bez niego nie przyjmie pełnego zgłoszenia. Nie podnosił głosu, ale kolejka rosła, a ludzie za mną zaczynali się niecierpliwić.
+W kolejce przede mną stała kandydatka, która chciała uzupełnić zgłoszenie nazajutrz. Urzędnik wskazał jej pustą rubrykę i wyjaśnił, gdzie ma przynieść brakujący dokument. Wyjrzała na plac. Zaprzęgiem przy studni ktoś właśnie zawracał.
 
-Kandydatka przedstawiła się jako Aria. Kiedy zerknęła na znak na mojej piersi, podsunąłem jej go nieco bliżej.
+— Mogę wrócić po rozładunku? — zapytała. — Przed południem wozy na mnie czekają.
 
-— Ładny znak — powiedziała. — Znam go?
+Urzędnik wskazał godzinę zamknięcia zapisaną na tablicy.
 
-— Feniks.
+Odstąpiła na bok i zauważyła mój herb.
 
-— To nazwa pańskiej drużyny?
+— Aria — przedstawiła się. — Pracuję przy konwojach. Skąd ten znak? Nie widziałam go na żadnym wozie.
 
-— Bractwa.
+— To Feniks. Jestem rycerzem Bractwa.
 
-— Gdzie ma siedzibę?
+— Gdzie macie siedzibę?
 
-Cisza trwała zaledwie chwilę. Później przez cały dzień wydawała mi się dłuższa.
+Wiedziałem, jak zbudować odpowiedź. Wystarczyłoby przywołać jakąś miejscowość, do której rzadko się zagląda. Gdyby dopytała, mógłbym podać wygląd domu, imię pierwszego rycerza, wagę miecza, który położył mi na ramieniu. Najtrudniej byłoby potem pamiętać, jakie imię wymyśliłem.
 
-— Nie znam obecnej siedziby — odpowiedziałem.
+— Nie znam siedziby — powiedziałem.
 
 — A kto pana pasował?
 
-Z tyłu ktoś poprosił, żebyśmy posunęli się bliżej stołu. Kobieta odwróciła się, wyjaśniła, że urzędnik nadal szuka jej formularza, i znów spojrzała na mnie.
+Ktoś za mną westchnął. Widziałem rękę urzędnika na brzegu stołu, gotową położyć przede mną formularz.
 
-Mogłem powiedzieć o księdze. Mogłem też wymówić nazwę jakiegoś odległego miejsca i liczyć, że nie zapyta drugi raz. Wtedy należałoby wymyślić ludzi, których tam spotkałem, salę, w której ukląkłem, oraz rękę trzymającą miecz nad moim ramieniem.
+— Nikt.
 
-— Nikt mnie nie pasował — powiedziałem.
+Aria chwilę czekała. Ja też. Wolałbym, żeby zadała następne pytanie, bo wtedy mógłbym dalej odpowiadać po jednym słowie.
 
-Kobieta uniosła brwi.
+— Przy wynajmie ochrony ludzie pytają mnie, z kim jeździłam — powiedziała w końcu. — Jeśli usłyszą od pana nazwę Bractwa, mogą pomyśleć, że ktoś za pana poręczy.
 
-— A mimo to pan się tak przedstawia.
+Chciałem jej opowiedzieć o ojcu i pokazać stronę z przysięgą. Trzymałem już palce na węźle płótna. Przypomniałem sobie kartę opartą o burtę wozu Vedy. Obok mojego podpisu była nazwa Bractwa. Sam wziąłem do ręki ołówek, mogłem ją wtedy przekreślić. Gdy urzędnik zawołał następną osobę, cofnąłem się, żeby przepuścić człowieka z kolejki. Do stołu już nie podszedłem.
 
-— Żyję według zasad opisanych w księdze Bractwa.
+## Nagroda
 
-Aria przyjrzała mi się uważnie.
+Nazajutrz wystartowałem w miejscowych zawodach. Zwycięzcy mieli dostać pieniądze, a za niższe miejsca też przewidziano nagrody. Wylosowana trójka miała przeciągnąć drewnianą skrzynię przez tor pod ostrzałem wież ćwiczebnych. Sędziowie mierzyli czas i liczyli ślady po pociskach na ładunku. Zapłaciłem wpisowe. Gdybym odpadł, kolejny odpis musiałby poczekać.
 
-— Łatwo zaufać komuś przez sam tytuł. Dlatego pytam, co on dla pana znaczy.
+Thora, jedna z dwojga ludzi w mojej drużynie, sprawdziła klamry szerokiej tarczy. Kiedy sędzia pokazał nam, którędy pójdzie ostrzał, przyglądała się wieży, a nie skrzyni.
 
-Mogłem opowiedzieć o księdze, ale ktoś znów poruszył się za nami w kolejce. Zamiast tego poprawiłem pas.
+— Ile razy walczyłaś pod taką? — zapytałem.
 
-— To nie jest krótka odpowiedź — przyznałem.
+— Mniej, niż bym chciała przed Igrzyskami. W Verdan najczęściej osłaniam ludzi przed wodą. Po ostatniej burzy poszły rowy na trzech polach. Ludzie z doliny chcą, żebym się za nimi upomniała, a tam pewnie nie będzie deszczu. Będą strzelać z tego.
 
-— Nie musi mi pan jej dawać teraz.
+Wskazała wieżę. Trzeci zawodnik ukląkł przy pasach i zawiązał na jednym pętlę, żeby nie wyślizgiwał mu się z ręki. Thora poprosiła go, by wsunął do środka dwa palce i sprawdził, czy w razie czego puści. Puścił.
 
-Urzędnik podał jej formularz i zaprosił do stołu. Nie zrobiła niczego złego. Zadała zwykłe pytania, na które odpowiadałem z coraz większą trudnością.
+— Jak powiem „w lewo”, idziesz w lewo — zwróciła się do mnie. — Umiemy tak?
 
-Odsunąłem się od kolejki. Nie zgłosiłem się tego dnia. Wmawiałem sobie, że muszę wrócić do obowiązków przy transporcie, a potem przyjść, kiedy będzie mniej ludzi. Częściowo była to prawda.
+— Cierpliwe słuchanie to jedna z cnót rycerskich — odparłem.
 
-Drugą część prawdy — że przestraszyłem się kolejnych pytań — zabrałem ze sobą.
+— Zobaczymy po zakręcie.
 
-## Nagroda i imię
+Przez pół trasy szedłem między skrzynią a wieżą. Ogień trzymałem przed sobą zwartą osłoną. Lekkie, tępe pociski, które szły prosto na nią, zbaczały i spadały w piach. W zakręcie jeden trafił w krawędź osłony. Płomień rozchylił się i przy następnym ruchu mógł liznąć pas na skrzyni. Czułem już pod nosem gorące płótno na wozie Vedy. Opuściłem dłoń i zawołałem do Thory. Zasunęła lukę tarczą.
 
-Następnego ranka, zanim wróciłem do urzędu, wystartowałem w miejscowych zawodach. Organizatorzy ogłosili zadanie przed rozpoczęciem: przejść wyznaczony odcinek i utrzymać osłonę nad drewnianym ładunkiem, podczas gdy ćwiczebne urządzenia strzelały w jego stronę. Miejsce w klasyfikacji zależało od czasu i stanu ładunku.
+— W lewo!
 
-Opłaciłem wpisowe miejscowymi drobnymi i stanąłem obok dwojga zawodników, których poznałem dopiero przy losowaniu. Jeśli zajmiemy dobre miejsce, po odliczeniu wpisowego zostanie mi około pół selena. Jedna z moich towarzyszek przedstawiła się jako Thora. Miała szeroką tarczę i przyglądała się wieżom ćwiczebnym tak uważnie, jakbym ja oglądał znak wyryty w starym kamieniu.
+Poszedłem za nią. Pocisk stuknął w jej tarczę, dokładnie na wysokości, na której przed chwilą miałem dłoń.
 
-— Nie pracowałaś wcześniej z wieżami? — spytałem.
+Do mety zostało kilka kroków, gdy trzeci zawodnik poślizgnął się przy skrzyni. Luźny pas obrócił mu się wokół kostki. Chwyciłem za drugi pas i szarpnąłem, myśląc, że zrobię mu miejsce, żeby mógł wstać. Skrzynia przesunęła się o piędź. Zawodnik krzyknął. Dopiero wtedy zobaczyłem, że pętla zaciągnęła mu się na nodze, i puściłem pas.
 
-— Niewiele. W Verdan częściej osłaniałam pola i ludzi przed burzą albo wodą. Tu zapisuję się, gdzie tylko pozwolą mi poćwiczyć z drużyną.
+Thora przyklękła przy nim z nożem. Osłoniłem ich. Dwa pociski ugrzęzły w piachu obok mojego buta, trzeci odbił się od skrzyni. W wieży zazgrzytał mechanizm. Kiedy przecięty pas opadł, zawodnik oparł się na moim ramieniu.
 
-Powiedziała, że ludzie w jej dolinie woleliby zająć się uprawami niż sporem. Oczekiwali jednak, że będzie bronić ich spraw na Igrzyskach, a ona nie umiała ich zostawić bez wsparcia. Przyjechała więc wcześniej, oglądała przygotowania i uczyła się współpracy pod ostrzałem. Nagroda nie była powodem jej udziału.
+— Do tej kreski mogę — powiedział.
 
-Thora spytała, czy umiem przyjąć wskazówki.
+Thora podniosła drugi pas. Do mety doszliśmy jego krokiem, przy wtórze następnej salwy. Sędzia opuścił chorągiewkę. Dopiero wtedy wieża ucichła.
 
-— Droga pani, jestem rycerzem. Słuchanie to jedna z moich najważniejszych cnót.
+Za miejsce, które zajęliśmy, dostałem tyle, że po odjęciu wpisowego zostało mi około pół selena. Zawodnik siedział na ławie i przepraszał, że zwolnił drużynę. Zapytałem, czy pociągnąłem za mocno. Skinął głową. Pozwolił mi kupić płótno na opatrunek, a potem pokazał Thorze, że może ruszać wszystkimi palcami. Dopiero wtedy powiedziała mu, jakie miejsce zajęliśmy.
 
-— Dobrze. To kiedy powiem „w lewo”, nie idź w prawo.
+— Masz już stronę? — zapytałem ją, kiedy odchodziliśmy od ławy.
 
-Osłonę utrzymałem przez pierwszą połowę trasy. Przy zakręcie pocisk uderzył w jej krawędź. Poczułem, że chcę odpowiedzieć silniejszym płomieniem, ale przypomniałem sobie plandekę wozu Vedy. Zamiast tego przycisnąłem ogień niżej i poprosiłem Thorę o zasłonięcie drugiej strony. Zdążyła wystawić tarczę. Potem kazała mi iść w lewo. Posłuchałem.
+— Przeczytałam oba warianty. Muszę jeszcze spytać, czy podciągną pod podstawowe dostawy wodę dla trzech pól. Pić jeszcze mamy co. Chcielibyśmy zdążyć z siewem. A ty?
 
-Trzeci zawodnik prowadził ładunek na pasach. Tuż przed metą poślizgnął się, a jeden z pasów owinął mu się wokół nogi. Thora krzyknęła, żebym trzymał osłonę, i przykucnęła przy nim. Mogłem pociągnąć skrzynię dalej; linia mety była o kilka kroków. Zamiast tego osłoniłem ich oboje, choć oznaczało to zatrzymanie i utratę czasu. Thora rozcięła pas, a nasz towarzysz uparł się, że przejdzie resztę sam. Doszedł, opierając się na moim ramieniu.
+Przesypałem resztę drobnych do drugiej ręki. Do zamknięcia urzędu było jeszcze trochę czasu. Na placu przewoźnicy już zbierali się przy składach.
 
-Skończyliśmy na miejscu premiowanym, choć przez postój straciliśmy szansę na wyższą nagrodę. Po odjęciu wpisowego wychodziłem na plus o jakieś pół selena za parę godzin roboty. Z mojej części dołożyłem się do opatrzenia nogi naszego towarzysza; zostanie mi mniej na odpis i posiłek, ale zadbaliśmy o niego, zanim ruszył do domu. Thora przyjęła moje podziękowanie za osłonienie skrzyni, po czym zapytała, czy zwykle słucham dopiero za drugim razem.
+— Wczoraj wyszedłem z kolejki, bo nie umiałem powiedzieć, w czyim imieniu stoję — odparłem.
 
-— Tylko wtedy, kiedy pierwsza wskazówka wymaga głębszego namysłu.
+— Czy ktoś cię wysłał?
 
-— Na szczęście druga nie wymagała.
+— Sam przyszedłem.
 
-Po południu wróciłem do punktu zgłoszeń. Aria właśnie wychodziła z dokumentem w dłoni. Zatrzymałem ją.
+Thora sięgnęła po tarczę. Przez resztę dnia miała jeszcze obejrzeć, jak trenują drużyny pod większą wieżą. Pożegnałem się z nią i poszedłem do urzędu, póki wciąż przyjmowano zgłoszenia.
 
-— Miała pani rację co do jednej rzeczy. Nikt mnie nie pasował.
+## Zgłoszenie
 
-— Już mi to pan powiedział.
+Przed urzędem zostały trzy osoby. Gdy przyszła moja kolej, ten sam urzędnik co wczoraj podał mi formularz. Wpisałem swoje imię. Przy następnej rubryce zapytał, po której stronie chcę wystąpić, jeżeli przejdę kwalifikacje.
 
-— Tak. Potem odszedłem, zanim powiedziałem resztę. Mój ojciec zostawił mi księgę z zasadami Bractwa Feniksa. Nie znam jego siedziby ani nikogo, kto mógłby nadać mi tytuł. Nazywam siebie rycerzem, bo przyjąłem te zasady i staram się według nich żyć. To moja przysięga.
+— Po stronie wspólnego nadzoru Rady.
 
-Przyjrzała mi się, ale nie odsunęła z drogi.
+Myślałem o człowieku, który nazajutrz znów przyjedzie z Vareth, położy przed monterem świadectwo i będzie stał przy skrzyni, dopóki ktoś nie ustali, co właściwie potwierdza pieczęć. Chciałem, żeby warunki sprawdzenia ustalano wspólnie i podawano, zanim wóz ruszy w drogę. W ogłoszonych zasadach doczytałem też, że od decyzji Rady można się odwołać do arbitrów. Tę część przeczytałem dwa razy.
 
-— Nie mnie decydować, jak ma się pan nazywać. Ale ludzie będą ufać temu, co pan obiecuje.
+— Którą krainę chce pan reprezentować?
 
-— Wiem. I chcę na to zaufanie zasłużyć.
+— Vareth.
 
-— A pan zamierza się zgłosić?
+Powiedziałem to bez namysłu. Po zamknięciu oczu wciąż mógłbym znaleźć pogrzebacz w kuchni ojca. Zazwyczaj zostawiał go oparty o piec, z uchwytem zwróconym do drzwi.
 
-Tym razem odpowiedziałem, zanim zdążyłem ułożyć piękniejsze zdanie.
+— Drużyna lub organizacja, jeżeli jest — dodał urzędnik.
 
-— Tak.
+Miałem księgę przy sobie. Podtrzymałem ją łokciem, żeby płótno nie zsunęło się z okładki.
 
-Przy stole urzędnik zapytał o imię i stronę zgłoszenia. Powiedziałem, że wybieram wariant wspólnego nadzoru Rady. Pamiętałem, jak Orien odłożył wyszczerbione szkło, choć wszyscy czekali na latarnię, i jak łatwo sam omal nie przypaliłem plandeki Vedy. Chciałem, by przy niebezpiecznych urządzeniach obowiązywały uzgodnione zabezpieczenia. Nie znałem odpowiedzi na każdy spór o władzę ani o przyczynę dawnych awarii. Wybór strony był moją własną decyzją, nie stanowiskiem Bractwa.
+— Przysięgę Feniksa złożyłem sam, według księgi po ojcu. Nikt mnie nie pasował. Proszę wpisać tylko moje imię.
 
-— Przynależność? — spytał urzędnik.
+Urzędnik przepisał je na listę. Przy przynależności postawił kreskę. Podał mi kartkę z terminem kwalifikacji. Dwudziesty dziewiąty maja. Za mną podszedł do stołu kolejny kandydat. Zrobiłem mu miejsce i schowałem kartkę do kieszeni, obok adresu Vedy.
 
-Położyłem dłoń na okładce księgi. Przez chwilę chciałem po prostu podać nazwę. Ale wtedy mogłoby to zabrzmieć tak, jakbym potwierdzał, że Bractwo nadal działa.
+## Pokwitowanie
 
-— Zapiszcie mnie jako Piecariusa. Przysięgę Feniksa złożyłem sam, według zasad w księdze po ojcu. Nie mam dokumentu pasowania ani potwierdzonej przynależności do Bractwa.
+Pod wschodnią bramą poznałem wóz po łacie na plandece. Veda przyszyła ją nicią jaśniejszą od płótna. Jorek liczył puste skrzynie po okuciach, które odebrał cieśla z warsztatu przy arenie. Veda rozłożyła na burcie karty przewozowe. Sprawdzała, ile skrzyń z narzędziami zmieści w drodze powrotnej.
 
-Urzędnik zapytał jeszcze o drużynę i krainę, z której pochodzę. Drużyny nie miałem.
+— Pasek pan naprawił — powiedziała.
 
-— Vareth — powiedziałem. — To moja kraina.
+— Naramiennik bardzo dobrze się trzyma.
 
-Od dawna częściej nocowałem przy cudzych drogach niż pod jej dachami. Znałem jednak zapach rozgrzanego kamienia i głos ojca czytającego przy piecu. Nie musiałem mieszkać tam przez cały czas, żeby pamiętać, skąd pochodzę.
+— A ja patrzyłam na pasek przy sakwie. Wciąż się panu rozwiązuje.
 
-Urzędnik zanotował moją odpowiedź. Przy informacji o przysiędze zaznaczył, że pochodzi ode mnie. Potem podał termin kwalifikacji. Nie obiecał mi miejsca w składzie i ja też nie mogłem go sobie obiecać.
+Poprawiłem węzeł odruchowo. Veda wydobyła spod papierów pakunek na moje imię. Rozpoznałem odręczne pismo Lumen, choć archiwistka napisała je tak starannie, że równie dobrze mogłoby pochodzić z druku. Wyciągnąłem rękę. Przy kciuku Vedy leżała nowa karta. Moje imię już na niej było, wpisane jasnym ołówkiem jak coś, co można jeszcze zetrzeć.
 
-Na zewnątrz odnalazłem Arię. Chciałem jej powiedzieć, że zostałem przyjęty na listę. Zobaczyłem jednak, że rozmawia z kimś o własnym formularzu, i nie przerywałem. Wiedziałem już, co chcę powiedzieć o sobie, jeśli ktoś zapyta ponownie.
+— Przyszedłem w sprawie karty, którą podpisałem w Kharum — powiedziałem. — Nadal jest na niej Bractwo Feniksa.
+
+Veda odłożyła list na skrzynię.
+
+— Słucham.
+
+— W urzędzie właśnie zgłosiłem się we własnym imieniu. Na karcie w Kharum też powinno zostać samo imię. Podpisałem ją, choć nikt z Bractwa za mnie nie ręczy.
+
+Veda podniosła nową kartę. Wiatr próbował ją zagiąć, więc przycisnęła narożnik klamrą.
+
+— Gdybyśmy wtedy nie dojechali, kogo gospodarz miałby szukać pod nazwą Bractwa?
+
+— Nikogo. Mogłem pani dać nazwę gospody, w której sypiam, i swoje imię.
+
+— Pańskie imię już miałam. Dopisałam Bractwo, żeby na drugim końcu drogi ludzie wiedzieli, gdzie się zwrócić także w sprawie pana.
+
+Nad nami szarpnęła plandeka. Przy brzegu łaty wystawał luźny koniec nici. Złapałem go, choć nie miałem go czym uciąć.
+
+— Kiedy pani dała mi ołówek, zobaczyłem nazwę — powiedziałem. — Ucieszyłem się, że pani ją wpisała.
+
+Veda wygładziła kartę dłonią.
+
+— Jorek chciał, żeby znowu pan z nami jechał. Pamięta, że posłał go pan do koni, kiedy się bał. Ja pamiętam również tę łatę. Obie rzeczy powiedziałabym komuś, kto pyta o pańską pracę. Na przyszły tydzień wynajmę człowieka, z którym już rozmawiałam. Wciąż mogę go zastać przy składzie.
+
+Pomyślałem o wypłacie za odcinek, którego miałem pilnować. Starczyłaby na powrót do Aurelu i kilka dni, podczas których mógłbym szukać bez pytania co wieczór o pracę.
+
+— Druga karta została u gospodarza — powiedziałem. — Napiszę mu, żeby poprawił wpis. Może pani przeczytać, zanim wyślę.
+
+— Dopiszę to u siebie. Gospodarz niech dopisze u siebie.
+
+Veda podsunęła mi ołówek. Napisałem dwa zdania, podpisałem się i odliczyłem drobne na doręczenie. Przeczytała kartkę, złożyła ją i położyła przy listach na własny wóz. Potem wskazała pakunek.
+
+— Ten akurat jest pański.
+
+Rozwiązałem sznurek. W środku był kwit z piekarni Demy i mała ołowiana plomba. Jej matka zostawiła plombę przy kwicie, przywiązaną resztką sznurka od worka. Widziałem ptaka, zanim przeczytałem list. Prawe skrzydło zawijało się na końcu tak samo jak w inicjale księgi. Przysunąłem plombę bliżej światła.
+
+— To to, czego pan szukał? — spytała Veda.
+
+Przez chwilę trzymałem pod kciukiem kwit. Już miałem powiedzieć: „Znalazłem ich znak”. Przeczytałem dokument do końca. Na kwicie zapisano, że Tovin dostarczył dwa worki mąki. Obok jego imienia ten sam ptak był odbity tuszem. W liście Lumen prosiła, żebym odesłał oba przedmioty, kiedy skończę je oglądać. Dema chciała je z powrotem przy rachunkach matki.
+
+— To znak, którym Tovin oznaczył mąkę dla piekarni w Aurelu — powiedziałem. — Jest podobny do rysunku z księgi. Tyle udało się ustalić.
+
+Nie rozwiązałem płótna, żeby pokazać Vedze, jak bardzo. Plombę ułożyłem na kwicie w miejscu, w którym sznurek zostawił odcisk. Na osobnej kartce przepisałem imię Tovina i nazwę osady, z której wyruszył tamten wóz. Po raz pierwszy miałem na mapie miejsce związane z człowiekiem, którego szukałem. Aż do tej chwili nie zastanawiałem się, o co zapytam, kiedy tam przyjadę bez pewności, że pytam o właściwego ptaka.
+
+Zwinąłem kwit i plombę w papier. Veda rozsunęła listy tak, żeby oba pakunki, do Kharum i do Aurelu, nie znalazły się pod tym samym sznurkiem. Jorek zapytał, czy ma przygotować na powrót trzy miejsca na koźle. Veda powiedziała, żeby na razie przygotował dwa. Zanim odszedłem od wozu, podałem mu podkładkę z kartami przewozowymi.
 
 ## Przysięga
 
-Wieczorem wróciłem do izby. Zdjąłem zbroję powoli, ponieważ przy obojczyku pojawił się siniak. Pokrywka garnka stała na swoim miejscu. Moje odbicie było w niej krzywe.
+Wieczorem położyłem przy świecy kartkę z terminem i otworzyłem księgę. Kiedy po śmierci ojca przysięgałem przy kuchennym stole, przeczytałem ostatnią stronę na głos. Przy jednej linijce brakowało kawałka papieru. Jako dziecko w każdej tej przerwie prosiłem ojca, żeby wstawił jakieś słowo. Tamtego wieczoru stałem i czekałem, jakbym jeszcze mógł usłyszeć, że jednak jakieś znalazł.
 
-Otworzyłem księgę na stronie, którą znałem najlepiej. Ojciec czytał ją na głos wiele razy, choć czasem opuszczał fragmenty, których nie rozumiał. Raz zapytałem, dlaczego nie wymyśli brakujących słów. Powiedział, że wtedy nie wiedziałbym, co napisano, a co dodał on sam.
+Teraz przełożyłem kartki do początku. Chciałem zanotować przy inicjale, co udało mi się ustalić o ptaku na plombie. Przez chwilę ołówek spoczywał tam, gdzie ojciec położył palec pod tytułem. Zamiast tego wyjąłem kartkę z nazwą osady i dopisałem pod nią wers Bereda. Włożyłem kartkę do notesu.
 
-Dziś lepiej rozumiałem, ile cierpliwości kosztowała go taka odpowiedź.
+Nazajutrz na placu starszy mężczyzna próbował wydobyć wiadro ze studni. Zapytałem, czy mu pomóc. Powiedział, że tak, tylko najpierw mam zejść z łańcucha. Odsunąłem but. Razem wyciągnęliśmy wiadro i postawiliśmy je na kamieniu.
 
-Pytania Arii były słuszne. Nie miałem mistrza ani dokumentu potwierdzającego pasowanie. Nie znałem drogi do siedziby, a jeśli ktoś wciąż pamiętał imiona dawnych rycerzy, jeszcze go nie spotkałem.
+— Ładny ptak — powiedział, patrząc na moją zbroję.
 
-Miałem księgę. Miałem własną przysięgę. Wciąż bolało mnie, że nie potrafię powiedzieć, kto przede mną nazywał siebie rycerzem Feniksa. Nie wiedziałem jeszcze, czy kiedyś zdołam odpowiedzieć na to pytanie. Mogłem jednak dotrzymać przysięgi bez przypisywania sobie pasowania, którego nie było.
+Otworzyłem usta. Mężczyzna rozcierał dłoń w miejscu, gdzie odcisnął mu się łańcuch.
 
-Nadal chciałem odpowiedzi. Chciałem wiedzieć, skąd ojciec wziął księgę i czy człowiek z pieśni Bereda znał ten sam znak. Nie uznałem za dowód tego, co chciałem usłyszeć. Jutro mogłem poszukać kogoś z rodziny dawnego przewoźnika, a później stawić się na kwalifikacje. Wyniku nie znałem.
+— Daleko pan jechał? — spytałem.
 
-Na razie zanotowałem słowa pieśni czytelniej niż rano. Potem wsunąłem notes do sakwy, a księgę owinąłem płótnem.
+— Od starego mostu — powiedział. — Trochę kamieni osunęło się do wody. Obszedłem, choć wnuczka mówiła, żebym wrócił po wóz.
 
-Następnego dnia ruszyłem przez plac. Przy studni siedział starszy mężczyzna z płócienną torbą. Zapytałem, czy potrzebuje pomocy z wiadrem. Odpowiedział, że potrzebuje, lecz najpierw powinienem odsunąć się od łańcucha.
-
-Odsunąłem się. Razem wydobyliśmy wodę.
-
-— Piękny znak — powiedział, patrząc na moją zbroję.
-
-Nie zacząłem od przemowy. Spytałem go, skąd przyjechał.
-
-Opowiedział mi o swojej drodze, a ja słuchałem do końca. Dopiero potem zapytałem, czy słyszał kiedyś o Feniksie.
+Spytałem, co jej przywiózł. Oparł wiadro o kamień, roztarł dłonie i sięgnął do wewnętrznej kieszeni. Odrys został pod płótnem, a ja zrobiłem na cembrowinie miejsce na to, co chciał mi pokazać.

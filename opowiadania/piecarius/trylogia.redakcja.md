@@ -154,7 +154,7 @@ Przystałem na to. Po schodach wszedłem cztery razy. Za ostatnim razem przynios
 
 — Nie napisali jakiego — powiedziałem.
 
-— I z tego spisu już się pan nie dowie. Nie ma też nazwiska człowieka, który zabrał przedmioty. Mogę jeszcze sprawdzić wykaz znaków kupieckich, ale dziś do niego nie dojdę.
+— Ze spisu dowie się pan tylko, co zabrano. Kto to zrobił, nie zapisali. Mogę jeszcze sprawdzić wykaz znaków kupieckich, ale dziś do niego nie dojdę.
 
 Przesunąłem po stole uzgodnioną zapłatę. Przy ostatniej monecie Lumen zerknęła na fiolkę wystającą mi z torby.
 
@@ -164,7 +164,7 @@ Przesunąłem po stole uzgodnioną zapłatę. Przy ostatniej monecie Lumen zerkn
 
 — Dobry odpis też — odparła i zaczęła pisać.
 
-Gdy skończyła, poradziła, żebym zaniósł odrys Orienowi. Znał stare znaki używane przy drogach. Zanim jednak poszedłem do obserwatorium, zajrzałem nad piekarnię do Demy, matki Lumen. Od lat przyjmowała dostawy i mogła pamiętać ludzi, których nazwisk próżno było szukać w spisie.
+Gdy skończyła, poradziła, żebym zaniósł odrys Orienowi. Znał stare znaki używane przy drogach. Zanim jednak poszedłem do obserwatorium, zajrzałem nad piekarnię do Demy, matki Lumen. Od lat przyjmowała dostawy i pamiętała ludzi, których w spisie zupełnie pominięto.
 
 Zaczepiłem pochwą o worek mąki, jeszcze zanim się przedstawiłem. Dema wskazała krzesło. Myślałem, że dla mnie, ale poleciła położyć na nim miecz, bo przeszkadzał w przejściu. Miała ręce po nadgarstki w cieście i słuchała, nie odrywając ich od stolnicy.
 
@@ -174,7 +174,7 @@ Sięgnąłem po odrys. Pokręciła głową, zanim zdążyłem go rozłożyć.
 
 — Tego kamienia nigdy nie widziałam. On nazywał się Tovin. Przyjeżdżał od strony Nivoren. Tyle pamiętam.
 
-Położyłem na stole notes i zapisałem jego imię. Dema wskazała łokciem półkę z rachunkami. Jej matka zszywała stare kwity sznurkiem według lat. Jeśli trafimy na nazwisko, może przy nim będzie nazwa wsi albo wykaz dostaw.
+Położyłem na stole notes i zapisałem jego imię. Dema wskazała łokciem półkę z rachunkami. Jej matka zszywała stare kwity sznurkiem według lat. Jeśli znajdziemy kwit Tovina, może dowiemy się, skąd przywoził towar.
 
 — Dzisiaj? — spytałem, patrząc na dzieżę.
 

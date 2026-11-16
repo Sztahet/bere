@@ -22,12 +22,12 @@ const RIFTORYN_RELACJE = [
     ["niva","elira","Siostry","family","Po rozłące odnajdują się dzięki zapisom i świadectwu; później wspólnie pomagają podczas powodzi.","RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md"],
     ["liora","elira","Bliźniaczki","family","Rozdzielone w dzieciństwie bliźniaczki po latach uczą się na nowo swojej bliskości.","RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md"],
     ["azmir","vaelis","Mistrz i uczennica","work","Vaelis uczy się od Azmira pracy archiwistki i magii Ciemności, a zarazem poprawia jego błędy. Materiał do oceny.","RIFTORYN_AZMIR_POSTAC_I_TRYLOGIA_PROPOZYCJA.md"],
-    ["veda","piecarius","Zlecenie · szkic","work","Veda wynajmuje Piecariusa do ochrony wozu z częściami do pompy. Razem docierają do osady mimo napadu.","opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md"],
+    ["veda","piecarius","Zlecenie · szkic","work","Veda wynajmuje Piecariusa do ochrony wozu z częściami do pompy. Po wspólnej przeprawie spotykają się ponownie w Val Meris i prostują wpis na karcie przewozowej.","opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md"],
     ["piecarius","lumen","Spotkanie · szkic","work","Lumen przygotowuje odpis ze spisu i kieruje Piecariusa do swojej matki, Demy.","opowiadania/piecarius/2_traces_in_the_ashes/historia.pl.md"],
     ["piecarius","elira","Spotkanie · szkic","work","Elira pomaga Orienowi przy latarni, gdy Piecarius pyta o znak Feniksa.","opowiadania/piecarius/2_traces_in_the_ashes/historia.pl.md"],
     ["piecarius","thora","Wspólny trening · szkic","work","Poznają się w zawodach w Val Meris i wspólnie osłaniają ładunek oraz rannego towarzysza.","opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md"],
-    ["piecarius","aria","Spotkanie · szkic","contact","Przy zapisach do Igrzysk rozmawiają o przysiędze Piecariusa i odpowiedzialności za cudze zaufanie.","opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md"],
+    ["piecarius","aria","Spotkanie · szkic","contact","Przy zapisach do Igrzysk Aria pyta Piecariusa, kto go pasował, i zwraca uwagę na zaufanie, jakie budzi nazwa Bractwa.","opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md"],
     ["piecarius","ruvan","Spotkanie · szkic","contact","W Nivoren Ruvan przekazuje mu niepewny trop o podobnym znaku.","opowiadania/piecarius/2_traces_in_the_ashes/historia.pl.md"],
-    ["piecarius","nocten","Spotkanie · szkic","contact","Nocten ogląda odrys znaku i pyta, czy Piecarius szuka znaku, czy odpowiedzi o swoim ojcu.","opowiadania/piecarius/2_traces_in_the_ashes/historia.pl.md"],
+    ["piecarius","nocten","Spotkanie · szkic","contact","Nocten ogląda odrys i zwraca uwagę, że pytanie o Feniksa podpowiada świadkom, jakiego ptaka mają rozpoznać.","opowiadania/piecarius/2_traces_in_the_ashes/historia.pl.md"],
     ["piecarius","orien","Spotkanie · szkic","contact","W Aurelu pracują przy latarni i rozmawiają o księdze po ojcu Piecariusa.","opowiadania/piecarius/2_traces_in_the_ashes/historia.pl.md"]
   ].map(([a,b,label,type,description,source])=>({a,b,label,type,description,source}));
