@@ -94,6 +94,8 @@ Nazajutrz przy odrysie leżał otwarty wykaz znaków kupieckich. Lumen znalazła
 
 ## Droga na północ
 
+23 kwietnia, 12 ET · wyjazd z Aurelu
+
 Po drodze zamieniłem część drobnych na gruby używany kaftan. Pod zbroją wyglądałem w nim, jakbym miał dwa brzuchy. Do grupy przewodniczki dołączyłem po tym, jak drugi raz pomyliłem rozwidlenie. Na mapie oba wyglądały tak niewinnie, że zacząłem zaznaczać te, których byłem pewien. Przy pierwszym oblodzonym zejściu przewodniczka musiała podać mi rękę. Przyjąłem ją bez uwag o godności.
 
 Przy schronieniu mężczyzna w szarym płaszczu pakował kryształy do skrzyni. Kiedy jedna z podstawek pękła mu w dłoni, szron skleił drewno na tyle długo, że zdążył podłożyć drugi klocek i dociągnąć mocowanie. Przewodniczka powiedziała, że to Ruvan. Poradziła mi zapytać go o ludzi, którzy dawniej zjeżdżali z przełęczy z towarem.
@@ -143,6 +145,8 @@ Przeszedłem na drugą stronę stosu. Przez chwilę widziałem tylko ręce matki
 Kiedy nadbiegli sąsiedzi z wiadrami, ściana magazynu osunęła się do środka. Po trzasku zapanowała krótka cisza. Na brzegu placu chłopiec oddał matce drewniany młotek z pękniętym trzonkiem. Przycisnęła go do piersi razem z dłonią syna.
 
 ## Co pozostało
+
+19 maja, 12 ET
 
 Rano odgrzebaliśmy tyle, ile mogliśmy od zewnątrz. Przez szparę między kamieniami widać było jeden narożnik skrzyni. Reszta tkwiła pod ścianą. Kiedy spróbowałem podważyć płaski kamień, belka nad nim przesunęła się o palec. Odłożyłem drąg.
 

@@ -130,7 +130,7 @@ W osadzie ludzie od pompy unieśli wieko skrzyni jeszcze przy wozie. Przynosili 
 
 Podała mi brudną od ołówka kartkę z adresem składu przy wschodniej bramie Val Meris.
 
-— W maju mam zlecenie na dostawę okuć z Kharum. Zamówił je warsztat, który będzie stawiał wieże na Igrzyska. Na powrót zabiorę narzędzia dla osad i przyda mi się ochrona. Jeśli będzie pan w mieście, proszę zajść. Zobaczymy, czy zdąży pan do tego czasu naprawić pasek.
+— Dwudziestego ósmego maja mam dostarczyć tam okucia z Kharum. Potrzebuje ich warsztat, który będzie stawiał wieże na Igrzyska. Jeśli będzie pan w mieście, proszę zajść do składu po południu. Trzeciego czerwca ruszam z narzędziami do osad w Kharum i na ten kurs przyda mi się ochrona. Zobaczymy, czy zdąży pan do tego czasu naprawić pasek.
 
 W izbie nad stajnią przyłożyłem odrys do inicjału. Przesuwałem kartkę po księdze tak długo, aż przynajmniej jedno skrzydło przylegało do drugiego. Ojciec trzymał książkę na stole przy piecu i czytał mi z niej, kiedy musiałem siadać na dwóch poduszkach, żeby widzieć rysunek. Pewnego ranka zszyliśmy pęknięty grzbiet. Ojciec otworzył księgę od początku i przeciągnął palcem po pustym miejscu pod tytułem.
 
@@ -238,6 +238,8 @@ Nazajutrz przy odrysie leżał otwarty wykaz znaków kupieckich. Lumen znalazła
 
 ### Droga na północ
 
+23 kwietnia, 12 ET · wyjazd z Aurelu
+
 Po drodze zamieniłem część drobnych na gruby używany kaftan. Pod zbroją wyglądałem w nim, jakbym miał dwa brzuchy. Do grupy przewodniczki dołączyłem po tym, jak drugi raz pomyliłem rozwidlenie. Na mapie oba wyglądały tak niewinnie, że zacząłem zaznaczać te, których byłem pewien. Przy pierwszym oblodzonym zejściu przewodniczka musiała podać mi rękę. Przyjąłem ją bez uwag o godności.
 
 Przy schronieniu mężczyzna w szarym płaszczu pakował kryształy do skrzyni. Kiedy jedna z podstawek pękła mu w dłoni, szron skleił drewno na tyle długo, że zdążył podłożyć drugi klocek i dociągnąć mocowanie. Przewodniczka powiedziała, że to Ruvan. Poradziła mi zapytać go o ludzi, którzy dawniej zjeżdżali z przełęczy z towarem.
@@ -287,6 +289,8 @@ Przeszedłem na drugą stronę stosu. Przez chwilę widziałem tylko ręce matki
 Kiedy nadbiegli sąsiedzi z wiadrami, ściana magazynu osunęła się do środka. Po trzasku zapanowała krótka cisza. Na brzegu placu chłopiec oddał matce drewniany młotek z pękniętym trzonkiem. Przycisnęła go do piersi razem z dłonią syna.
 
 ### Co pozostało
+
+19 maja, 12 ET
 
 Rano odgrzebaliśmy tyle, ile mogliśmy od zewnątrz. Przez szparę między kamieniami widać było jeden narożnik skrzyni. Reszta tkwiła pod ścianą. Kiedy spróbowałem podważyć płaski kamień, belka nad nim przesunęła się o palec. Odłożyłem drąg.
 
@@ -512,7 +516,7 @@ Nad nami szarpnęła plandeka. Przy brzegu łaty wystawał luźny koniec nici. Z
 
 Veda wygładziła kartę dłonią.
 
-— Jorek chciał, żeby znowu pan z nami jechał. Pamięta, że posłał go pan do koni, kiedy się bał. Ja pamiętam również tę łatę. Obie rzeczy powiedziałabym komuś, kto pyta o pańską pracę. Na przyszły tydzień wynajmę człowieka, z którym już rozmawiałam. Wciąż mogę go zastać przy składzie.
+— Jorek chciał, żeby znowu pan z nami jechał. Pamięta, że posłał go pan do koni, kiedy się bał. Ja pamiętam również tę łatę. Obie rzeczy powiedziałabym komuś, kto pyta o pańską pracę. Na kurs trzeciego czerwca wynajmę człowieka, z którym już rozmawiałam. Wciąż mogę go zastać przy składzie.
 
 Pomyślałem o wypłacie za odcinek, którego miałem pilnować. Starczyłaby na powrót do Aurelu i kilka dni, podczas których mógłbym szukać bez pytania co wieczór o pracę.
 

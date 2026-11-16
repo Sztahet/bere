@@ -72,6 +72,12 @@ Jeżeli zdecyduję się startować, będę musiał poznać warunki i przejść w
 
 ## V. Przed wyjazdem
 
+19 maja, 12 ET
+
+Poszedłem do gospody przy dolnej drodze pod przełęczą zapytać o dawne rejestry przewozów. Chciałem sprawdzić, czy ktoś pamięta trasę z mojego wykazu. Podróżny w zbroi pokazał mi odrys znaku ze słupa. Szukał Feniksa. Zapytałem, co mówi o znaku, zanim poda komuś kartkę.
+
+W drodze powrotnej pomyślałem, ile razy sam zaczynałem od białych murów. Do domu dotarłem przed zmrokiem.
+
 22 maja, 12 ET
 
 Otrzymałem odpowiedź z archiwum. Pracownica nie znalazła drugiej kopii mojego wykazu. W jednym rejestrze natrafiła na podobny znak, ale brakowało stron z właściwego okresu. Oddała mi tę samą ostrożność, którą sam chciałem zachować: napisała, co sprawdziła, a czego nie mogła ustalić.
@@ -82,7 +88,7 @@ Pojechałem tam w 10 ET; wpis jest wcześniejszy. Przesunąłem palcem po odpisi
 
 Schowałem list razem z wykazem. Nie chcę, żeby imię na zamazanym marginesie zniknęło tylko dlatego, że się go boję. Nie chcę też dopisywać mu znaczenia, którego jeszcze nie znam.
 
-Sąsiad przyniósł mi rękawice na drogę. Przypomniałem mu, że to jego rękawice.
+Na jutro umówiłem się z przewoźnikiem. Wóz do Val Meris ruszy o świcie. Sąsiad przyniósł mi rękawice na drogę. Przypomniałem mu, że to jego rękawice.
 
 — Wiem. Pożyczy pan i tym razem odda przed zimą.
 
