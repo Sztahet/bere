@@ -4,11 +4,13 @@
 
 22 kwietnia, 12 ET · Aurel
 
-Zanim dojechałem do Aurelu, zdążyłem sprzedać płaszcz. Zapłaciłem za naprawę zbroi i miejsce przy cudzym wozie, a z reszty odkładałem po drobniaku na dzień, w którym wreszcie znajdę coś wartego przepisania. Nie spodziewałem się, że przyjdzie za to oddać niemal ćwierć selena.
+Płaszcz sprzedałem przed Aurelem. Przez pierwszy dzień tłumaczyłem sobie, że rycerzowi w zbroi wystarczy kaftan. Drugiego zacząłem siadać przy woźnicy od tej strony, z której mniej wiało. Za pieniądze kazałem naprawić naramiennik, opłaciłem przejazd, a z reszty odłożyłem na odpis. Wolałbym, żeby to właśnie w takiej kolejności oberżysta z Kharum dowiedział się o moich wydatkach.
 
-— Mogę sam przepisać — zaproponowałem.
+Lumen, archiwistka polecona przez Vedę, zażądała prawie ćwierci selena.
 
-Lumen, archiwistka polecona przez Vedę, obejrzała odrys ze słupa. Obróciła go o ćwierć obrotu i wychyliła się nad stołem.
+— Mogę sam przepisać — zaproponowałem. — Przy odrobinie miejsca piszę bardzo czytelnie.
+
+Obejrzała odrys ze słupa. Obróciła go o ćwierć obrotu.
 
 — Proszę mi pokazać, gdzie tu jest napisane „stara droga”.
 
@@ -16,147 +18,171 @@ Pokazałem jej. Przyglądała się jeszcze chwilę.
 
 — Zrobię panu odpis. Za to może mi pan pomóc odstawić te tomy na górę.
 
-Przystałem na to. Po schodach wszedłem cztery razy. Za ostatnim razem przyniosłem na dół spis przedmiotów wyniesionych kiedyś z dawnej sali spotkań przy szlaku. Lumen wskazała pozycję między zasłoną a dwoma lichtarzami. Żelazna płytka z wyobrażeniem ptaka.
+Po schodach wszedłem cztery razy. Za ostatnim razem zniosłem spis przedmiotów wyniesionych kiedyś z sali spotkań przy szlaku. Lumen przesunęła palcem między zasłoną a dwoma lichtarzami. Tam, drobnym pismem, stało, że zabrano żelazną płytkę z wyobrażeniem ptaka. Przy żadnym z lichtarzy nie brakowało szczegółów. Jeden nawet opisano jako wgnieciony. Przy ptaku pisarzowi poskąpiono widocznie czasu.
 
-— Nie napisali jakiego — powiedziałem.
+— Nie napisali, jaki — powiedziałem.
 
-— Ze spisu dowie się pan tylko, co zabrano. Kto to zrobił, nie zapisali. Mogę jeszcze sprawdzić wykaz znaków kupieckich, ale dziś do niego nie dojdę.
+— Ani kto zabrał płytkę. Mogę jeszcze sprawdzić wykaz znaków kupieckich, ale dziś do niego nie dojdę.
 
-Przesunąłem po stole uzgodnioną zapłatę. Przy ostatniej monecie Lumen zerknęła na fiolkę wystającą mi z torby.
+Przesunąłem po stole umówioną zapłatę. Zanim puściłem ostatnią monetę, Lumen zerknęła na fiolkę wystającą mi z torby.
 
 — A za olejek też się pan targował?
 
 — Dobry cynamonowy olejek jest wart swojej ceny.
 
-— Dobry odpis też — odparła i zaczęła pisać.
+— Dobry odpis też.
 
-Gdy skończyła, poradziła, żebym zaniósł odrys Orienowi. Znał stare znaki używane przy drogach. Zanim jednak poszedłem do obserwatorium, zajrzałem nad piekarnię do Demy, matki Lumen. Od lat przyjmowała dostawy i pamiętała ludzi, których w spisie zupełnie pominięto.
+Puściłem monetę. Z miejsca, gdzie stałem, widziałem, że nawet jej najdłuższe wyrazy mieszczą się na kartce.
 
-Zaczepiłem pochwą o worek mąki, jeszcze zanim się przedstawiłem. Dema wskazała krzesło. Myślałem, że dla mnie, ale poleciła położyć na nim miecz, bo przeszkadzał w przejściu. Miała ręce po nadgarstki w cieście i słuchała, nie odrywając ich od stolnicy.
+Poleciła mi pokazać odrys Orienowi, który znał stare oznaczenia dróg. Posłała mnie też do swojej matki. Dema od lat przyjmowała dostawy do piekarni i mogła pamiętać ludzi, których pisarz nie raczył wymienić. Zastałem ją nad stolnicą, z rękami po nadgarstki w cieście. Ledwie zdążyłem powiedzieć „dzień dobry”, pochwą zahaczyłem o worek mąki.
 
-— Żelazna płytka? Nie przypominam sobie. Jeden z dostawców mojej matki nosił metalowe pióro na rzemyku. Pokazał mi je raz i mówił coś o ptaku na kamieniu.
+— Może pan położyć miecz na krześle — powiedziała.
 
-Sięgnąłem po odrys. Pokręciła głową, zanim zdążyłem go rozłożyć.
+Już miałem usiąść. Odpiąłem więc pas i oddałem miejsce mieczowi. Dema wysłuchała mnie na stojąco, posypując stolnicę mąką między jednym pytaniem a drugim.
 
-— Tego kamienia nigdy nie widziałam. On nazywał się Tovin. Przyjeżdżał od strony Nivoren. Tyle pamiętam.
+— Żelaznej płytki sobie nie przypominam. Jeden z dostawców mojej matki nosił metalowe pióro na rzemyku. Pokazał mi je raz i mówił coś o ptaku na kamieniu.
 
-Położyłem na stole notes i zapisałem jego imię. Dema wskazała łokciem półkę z rachunkami. Jej matka zszywała stare kwity sznurkiem według lat. Jeśli znajdziemy kwit Tovina, może dowiemy się, skąd przywoził towar.
+Sięgnąłem po odrys.
 
-— Dzisiaj? — spytałem, patrząc na dzieżę.
+— Tego kamienia nigdy nie widziałam — uprzedziła mnie. — Dostawca nazywał się Tovin. Przyjeżdżał od strony Nivoren.
 
-— Dzisiaj czterdzieści bochenków. Jak pan będzie wracał, niech pan zajrzy.
+Zapisałem imię powoli, żeby nawet Lumen mogła je przeczytać. Dema wskazała łokciem półkę z rachunkami. Matka zszywała stare kwity sznurkiem według lat. Jeśli się tam zachował kwit Tovina, mogliśmy się dowiedzieć, skąd przywoził towar.
 
-Na drogę dostałem piętkę ciepłego chleba. Odłamałem kawałek na schodach. Przy ostatnim stopniu musiałem wrócić po miecz.
+— Może udałoby się sprawdzić dzisiaj?
+
+— Dzisiaj mam czterdzieści bochenków. Jak pan będzie wracał, niech pan zajrzy.
+
+Dała mi na drogę piętkę ciepłego chleba. Zamierzałem przełamać ją dopiero na ulicy. Na ostatnim stopniu miałem już pełne usta i właśnie wtedy przypomniałem sobie o mieczu. Dema zdążyła postawić go przy drzwiach.
 
 ## Człowiek od latarni
 
-Znalazłem Oriena przy latarni rozebranej na stole przed obserwatorium. Młoda kobieta dociskała metalowy zacisk do szklanej osłony. Orien trzymał śrubę między palcami i już z daleka zapytał, czy przynoszę nową część.
+Oriena zastałem przed obserwatorium przy latarni rozłożonej na stole. Trzymał śrubę między palcami. Młoda kobieta próbowała docisnąć zacisk do szklanej osłony.
 
-— Przynoszę starą księgę — powiedziałem.
+— Przynosi pan nową część? — zawołał.
+
+— Przynoszę starą księgę.
 
 — To proszę ją odłożyć i przytrzymać szkło. Obiema rękami. Elira, teraz spróbuj.
 
-Opowiedziałem im o słupie, póki jeszcze czułem palce. Kiedy doszedłem do słów „rycerz Bractwa Feniksa”, wyprostowałem plecy. Zacisk stuknął o dolną krawędź szkła. Elira złapała osłonę.
+Szkło wyślizgiwało mi się spod palców. Chciałem opowiedzieć, jak znalazłem słup, póki jeszcze mogłem mówić bez zaciskania zębów. Gdy doszedłem do słów „rycerz Bractwa Feniksa”, wyprostowałem plecy. Osłona przechyliła się razem ze mną. Zacisk uderzył o jej dolną krawędź i Elira złapała szkło, zanim zsunęło się ze stołu.
 
-— Niech pan mówi dalej — powiedziała. — Bez ukłonu.
+— Proszę mówić dalej — powiedziała. — Bez ukłonu.
 
-Kiedy mogliśmy odstawić szkło, Orien wyciągnął ku księdze rękę, zobaczył smar na palcach i poszedł się umyć. Wrócił z czystym płótnem. Rozłożył obok siebie mój odrys i otwartą księgę, po czym przyjrzał się obu znakom.
+Opowiedziałem resztę z plecami zgiętymi tak, jak mi je zostawiła.
 
-— To jest podobne — powiedział.
+Kiedy odstawiliśmy osłonę, Orien wyciągnął rękę po księgę. Spostrzegł na palcach smar, poszedł się umyć i wrócił z czystym płótnem. Rozłożył na nim księgę i odrys. Nie ponaglałem go. Po raz pierwszy ktoś poświęcił obu znakom tyle czasu, ile sam uważałem za stosowne.
 
-Już chciałem zapytać, ilu ludziom pokazywał taki rysunek i czy mógłby mi podać ich imiona. Orien przytrzymał dłonią odrys, gdy zawiał wiatr.
+— Są podobne — powiedział wreszcie.
 
-— Na starych mapach przewoźników też są skrzydła. Tak łatwo pomylić jedno z drugim, że czasem trzeba obejrzeć cały szlak, by wiedzieć, czy znak ostrzega przed brodem, czy ktoś się po prostu podpisał. Wie pan, skąd pański ojciec miał księgę?
+Już miałem go zapytać, gdzie widział następny.
 
-— Raz zaczął o tym mówić. Poprosiłem, żeby czytał dalej.
+— Skrzydła są też na starych mapach przewoźników. Czasem trzeba pojechać całą drogą, żeby się dowiedzieć, czy kreska ostrzega przed brodem, czy ktoś się po prostu podpisał. Wie pan, skąd ojciec miał księgę?
 
-Orien zdjął dłoń z kartki. Pod spodem zobaczyłem drobinę grafitu, której wcześniej nie starłem.
+— Raz zaczął mi o tym mówić. Poprosiłem, żeby czytał dalej.
 
 — Ile miał pan wtedy lat?
 
 — Musiałem czekać, aż zdejmie mi kubek z półki.
 
-Od ściany dobiegało stukanie. Elira próbowała wykręcić z latarni śrubę, która pokrzywiła się w zacisku. Orien wstał i przestawił jej stolik tak, żeby mogła oprzeć na nim łokieć. Dopiero wtedy dostrzegłem, że zaciąłem paznokciem brzeg kartki.
+Mógłbym mu opowiedzieć, czemu zależało mi wtedy właśnie na historii o moście. Do dziś pamiętam, jak chciałem poprawić jednego z rycerzy, bo stanął po niewłaściwej stronie balustrady. O tym, co mówił ojciec przedtem, umiałem powtórzyć ledwie pół zdania.
 
-Zamknęliśmy księgę dopiero po chwili. Orien powiedział, które oznaczenia warto sprawdzić u Lumen. O płytce ze spisu umiał powiedzieć równie mało jak ona.
+Od latarni dobiegło stukanie. Elira próbowała wyjąć z zacisku krzywą śrubę. Orien przesunął jej stolik, żeby miała gdzie oprzeć łokieć. Uwolniłem brzeg odrysu spod paznokcia. Zostało na nim wgniecenie.
 
-— Tu jest szczerba — odezwała się Elira. Obróciła osłonę ku światłu. Na krawędzi, tam gdzie stuknął zacisk, brakowało kawałka szkła.
+Orien podpowiedział mi, od których oznaczeń zacząć szukanie w wykazie Lumen. O płytce ze spisu wiedział tyle co ja. Zawiązywałem płótno wokół księgi, kiedy Elira uniosła szklaną osłonę pod światło.
 
-— Możemy ją schować pod obręczą — powiedziała. — Będzie równo przylegać.
+— Tu jest szczerba. Obręcz ją przykryje.
 
-Orien przymierzył obręcz. Przez moment wyglądało na to, że się zgodzi.
+Przymierzyli obręcz. Przylegała równo. Wystarczyło zamontować szkło i już miałem brać rękę z powrotem do siebie. Orien odłożył obręcz na stół.
 
 — Jak pęknie komuś w drodze, będzie wracał po ciemku. Odłóżmy ją do sprawdzenia. Ludziom przy bramie powiem sam, że muszą poczekać.
 
-Podniosłem osłonę i spytałem Elirę, dokąd ją zanieść. Tym razem nie przeszkadzało mi, że idzie przodem.
+Podniosłem osłonę obiema rękami. Zapytałem Elirę, dokąd ją zanieść. Na progu zaczekałem, aż otworzy mi drzwi szerzej.
 
-Nazajutrz przy odrysie leżał otwarty wykaz znaków kupieckich. Lumen znalazła trzy ptaki. Jeden miał cztery skrzydła, drugi ogon jak szczotka. Trzeci z daleka przypominał mój rysunek. Na jego dziobie wisiała ryba, a obok była dopisana nazwa przewoźnika, którego nie znałem. Zostawiłem Lumen kopię odrysu i adres, który dała mi Veda. Na wypadek gdybyśmy minęli się w drodze powrotnej, poprosiłem, żeby posłała wiadomość do składu przy wschodniej bramie. Ja miałem już imię i drogę, po której Tovin woził towar. Na kolejny tydzień w Aurelu musiałbym zarobić, więc ruszyłem ku przełęczy.
+Nazajutrz Lumen pokazała mi w wykazie trzy ptaki. Jeden miał cztery skrzydła, drugi ogon jak szczotka. Przy trzecim pochyliłem się nad stołem. Miał skrzydła prawie takie jak na odrysie. W dziobie trzymał rybę, a podpis należał do przewoźnika, którego nie znałem.
+
+Zostawiłem Lumen kopię odrysu i adres składu Vedy przy wschodniej bramie Val Meris. Gdyby Dema znalazła kwit albo w archiwum natrafiono na coś jeszcze, list mógł tam na mnie poczekać. Zostało mi dość na parę noclegów. Z tego, co miałem w kieszeni, wynikało, że Tovina najlepiej będzie szukać od razu.
 
 ## Droga na północ
 
 23 kwietnia, 12 ET · wyjazd z Aurelu
 
-Po drodze zamieniłem część drobnych na gruby używany kaftan. Pod zbroją wyglądałem w nim, jakbym miał dwa brzuchy. Do grupy przewodniczki dołączyłem po tym, jak drugi raz pomyliłem rozwidlenie. Na mapie oba wyglądały tak niewinnie, że zacząłem zaznaczać te, których byłem pewien. Przy pierwszym oblodzonym zejściu przewodniczka musiała podać mi rękę. Przyjąłem ją bez uwag o godności.
+Po kilku noclegach na północnym szlaku nabyłem używany kaftan. Sprzedawca zapewniał, że pod zbroją nikt go nie zauważy. Włożyłem go i od razu zauważyłem drugi brzuch. W górach przy pierwszym zimnym podmuchu byłem już gotów pogratulować mu znajomości towaru.
 
-Przy schronieniu mężczyzna w szarym płaszczu pakował kryształy do skrzyni. Kiedy jedna z podstawek pękła mu w dłoni, szron skleił drewno na tyle długo, że zdążył podłożyć drugi klocek i dociągnąć mocowanie. Przewodniczka powiedziała, że to Ruvan. Poradziła mi zapytać go o ludzi, którzy dawniej zjeżdżali z przełęczy z towarem.
+Z każdym tygodniem droga robiła się gorsza, a o Tovinie wiedziałem wciąż dokładnie tyle, ile powiedziała mi Dema. Drugie pomylone rozwidlenie kosztowało mnie pół dnia. Do grupy prowadzonej przez przewodniczkę dołączyłem, kiedy zobaczyłem, z jaką łatwością schodzi tam, gdzie ja od dłuższej chwili rozważałem zawrócenie. Na oblodzonym zejściu podała mi rękę. Zdążyłem ją chwycić, zanim przyszło mi do głowy coś stosownego do powiedzenia. Podziękowałem, kiedy znów stałem na obu nogach.
 
-Zaczekałem, aż zapnie klamry. Spytałem najpierw o Tovina. Imię nic mu nie mówiło. Dopiero na widok odrysu przysunął się do drzwi, gdzie było jaśniej.
+Przy schronieniu mężczyzna w szarym płaszczu pakował kryształy do skrzyni. Pękł drewniany klocek pod jednym z nich. Szron, który wyszedł spod jego dłoni, utrzymał obie połówki, póki nie wsunął pod spód zapasowego klocka i nie dociągnął mocowania. Przewodniczka powiedziała, że to Ruvan. Znał ludzi, którzy dawniej zjeżdżali z przełęczy z towarem.
+
+Poczekałem, aż zapnie klamry. Najpierw spytałem o Tovina. Imię nic mu nie mówiło. Kiedy rozłożyłem odrys, podszedł do progu, gdzie było jaśniej.
 
 — Widziałem kiedyś podobne skrzydła na płytce. Handlarz miał ją przytroczoną do pakunku.
 
-Zapytałem, czy mogło to być metalowe pióro. Ruvan złożył ręce tak, jakby trzymał pakunek na kolanach, i przez chwilę patrzył na pustą przestrzeń między palcami.
+— Czy to mogło być metalowe pióro?
+
+Ruvan złożył dłonie, jakby pakunek jeszcze leżał mu na kolanach. Czekałem. Chciałem mu podpowiedzieć, że pióro mogłoby być odlane razem z blaszką albo z daleka wyglądać jak skrzydło. Miałem już w głowie trzy sposoby, żeby dopasować rzecz, której żaden z nas nie trzymał teraz w ręku.
 
 — Płytka — powiedział w końcu. — Tyle pamiętam. Mówił, że na południe stąd jest magazyn przy dolnej drodze. Sam w nim nie byłem.
 
-Zaznaczył na mapie zejście, od którego miałem pytać o magazyn. Jeśli ktoś jeszcze pamiętał dostawy, mogłem przynajmniej zapytać, kto tam składał towar i jak go oznaczano. Trzeba było nadłożyć drogi, a ja miałem potem z czegoś opłacić powrót.
+Rozłożyłem mapę. Ruvan zaznaczył zejście, od którego miałem pytać o magazyn. Droga zawracała kawałek na południe. Zsumowałem, ile będę potrzebował na noclegi, i dla własnej wygody przeliczyłem jeszcze raz, jakby za drugim razem mogło wyjść mniej.
 
-— Nie wyprawiłbym tam człowieka po pewną odpowiedź — powiedział Ruvan, oddając mi ołówek.
+— Nie wyprawiłbym tam człowieka po pewną odpowiedź — powiedział, oddając mi ołówek.
 
-— Ja bym pewnie sam siebie wyprawił — odparłem. — Ale dzięki panu wiem przynajmniej, na którym rozwidleniu skręcić.
+— Ja bym pewnie sam siebie wyprawił — odparłem. — Dzięki panu wiem przynajmniej, na którym rozwidleniu skręcić.
 
-Wieczorem pomogłem przewodniczce z drewnem. Chciałem opowiedzieć przy ogniu o rycerzu, który wrócił na zgliszcza rodzinnego domu. Przy końcu pierwszej strofy zapytała, dlaczego jeszcze nie zajrzał do sąsiadów. Miałem odpowiedź w trzeciej strofie. Zanim do niej doszedłem, Ruvan poprosił, żebym dorzucił drewna, bo inaczej zgaśnie.
+Wieczorem pomogłem przewodniczce z drewnem. Kiedy usiedliśmy przy ogniu, zacząłem opowiadać o rycerzu, który wrócił na zgliszcza rodzinnego domu. Pod koniec pierwszej strofy zapytała, czemu jeszcze nie zajrzał do sąsiadów.
+
+— Zajrzy — zapewniłem ją. — W trzeciej strofie.
+
+— Proszę najpierw dorzucić drewna — odezwał się Ruvan. — Do trzeciej strofy może zgasnąć.
+
+Dorzuciłem drewna. Resztę opowiedziałem krócej, żeby się nie wypaliło.
 
 ## Płytka
 
 18 maja, 12 ET · dolna droga pod przełęczą
 
-Magazyn stał poniżej drogi. Po zachodniej stronie pod ścianą leżało drewno opałowe, a parę kroków dalej zaczynała się szopa. Jej drzwi wychodziły na ten sam plac, co wejście do magazynu. Po drugiej stronie placu mieszkała starsza kobieta, która podobno pamiętała dawnych przewoźników. Zdążyłem zapytać ją, czy pamięta Tovina. Poprosiła, żebym wrócił wieczorem. Jej wnuk zgubił młotek i od rana wszyscy go szukali.
+Magazyn znalazłem poniżej drogi. Wzdłuż jednej ściany ktoś ułożył opał. Stos sięgał prawie do szopy stojącej obok. Drzwi obu budynków wychodziły na plac, a po drugiej stronie mieszkała kobieta, która pamiętała czasy, gdy przyjeżdżali tu przewoźnicy. Powiedziałem jej, że szukam Tovina i przebyłem kawał drogi, żeby o niego zapytać.
 
-Odchodziłem od jej furtki, gdy wiatr poruszył popiołem w kominie szopy. Zobaczyłem iskry nad dachem, a chwilę później spod stosu drewna wydobył się dym. Od strony magazynu dobiegł mnie krzyk. Kobieta w drzwiach wołała dziecko po imieniu. Chłopiec musiał wejść szukać młotka pod skrzyniami. Widziałem, jak biegnie do matki. Tuż przed nim z uszkodzonego dachu zsunęła się belka i stanęła w poprzek wejścia.
+— Proszę zajść wieczorem. Wnuk zgubił młotek i od rana go szukamy.
 
-Matka szarpnęła za belkę. Niewiele brakowało, żeby przygniotła jej stopę. Odciągnąłem ją na plac i podszedłem do progu. Ogień wspinał się już po ścianie. Ściągnąłem płomienie z desek przy drzwiach, ku gołej ziemi. Po każdym podmuchu wracały wyżej. Musiałem trzymać dłoń wyciągniętą, jak przy podtrzymywaniu czegoś ciężkiego, co ktoś z drugiej strony usiłował mi wyrwać.
+Chciałem spytać, jak długo można szukać jednego młotka. Od furtki widziałem zapadnięty dach magazynu i zaczynałem się domyślać, ile czasu może zająć szukanie płytki. Obiecałem wrócić.
 
-— Połóż się na brzuchu — powiedziałem chłopcu. — Tędy, gdzie widzisz moje buty.
+Z komina szopy poszły iskry. Kiedy się obejrzałem, spod stosu drewna wychodził już dym. Przy wejściu do magazynu kobieta wołała dziecko po imieniu. Widziałem chłopca, jak biegnie do matki. Do drzwi brakowało mu dwóch kroków, gdy z uszkodzonego dachu zsunęła się belka i zagrodziła wyjście.
 
-Patrzył nad moje ramię, w dym. Wyciągnął przed siebie zaciśniętą pięść. Trzymał w niej młotek.
+Matka szarpnęła za koniec belki. Ledwie zdążyła cofnąć stopę. Odsunąłem ją od progu i ściągnąłem płomienie z desek ku gołej ziemi. W drodze do górnej osady wystarczył mi jeden źle poprowadzony płomień, żeby spłoszyć dwa konie. Tu za każdym podmuchem ogień wracał ku drzwiom. Trzymałem wyprostowaną rękę i czułem, jak zaczyna mi drżeć ramię.
 
-— Podaj mi go. Matka tu jest. Zaraz jej go oddasz.
+— Połóż się na brzuchu. Tędy, gdzie widzisz moje buty.
 
-Wsunął się pod belkę. Ramię zaczepił o ukośnie sterczącą deskę. Przełożyłem ciężar na kolano, sięgnąłem wolną ręką i odgiąłem deskę. Jej rozgrzany brzeg wślizgnął mi się pod rękaw, ale poczułem to wyraźnie dopiero wtedy, gdy matka chwyciła chłopca pod pachy i wyciągnęła go na plac.
+Chłopiec patrzył w dym za mną. W zaciśniętej dłoni trzymał młotek.
 
-Z wysokości progu zobaczyłem skrzynię, zza której wybiegł. Przy żelaznym uchu wisiała na rzemyku płytka. Miała rysę tam, gdzie skrzydła zbiegały się ku środkowi. Pomyślałem, że mógłbym wsunąć się pod belkę zaraz za chłopcem. Spróbowałem dosięgnąć rzemyka. Zabrakło mi długości ręki.
+— Pokaż mi go — powiedziałem. — Matka tu jest. Zaraz jej go oddasz.
+
+Wsunął się pod belkę i zaczepił ramieniem o sterczącą deskę. Przyklęknąłem. Wolną ręką odgiąłem deskę na tyle, żeby mógł się przecisnąć. Jej gorąca krawędź wsunęła mi się pod rękaw. Dopiero kiedy matka wyciągnęła go spod belki, poczułem, co zrobiła mi ze skórą.
+
+Za progiem, przy żelaznym uchu skrzyni, wisiała płytka na rzemyku. Zobaczyłem zarys skrzydeł i rysę między nimi. Przez wszystkie dni w drodze wyobrażałem sobie, że jeśli coś znajdę, będę miał czas obejrzeć to w dobrym świetle. Wyciągnąłem rękę. Rzemyk wisiał o szerokość dłoni za daleko. Mógłbym przesunąć się pod belką.
 
 — W szopie są jeszcze ludzie! — krzyknęła matka.
 
-Po tym samym stosie, od którego zajęła się ściana magazynu, płomień szedł teraz w stronę drzwi szopy. Z wnętrza wychynęła zakurzona twarz. Ktoś próbował wydostać drugą osobę spod rozsypanego opału. Żeby zatrzymać ogień przy ziemi i zrobić im przejście, musiałem wyjść sprzed magazynu i odwrócić się od belki. Rzemyk kołysał się nad skrzynią. Obaj ludzie w szopie zniknęli za dymem.
+Ogień szedł po tym samym stosie w stronę drugich drzwi. W szopie ktoś odsuwał drewno, które przygniotło drugą osobę. Twarz człowieka ukazała się na chwilę, potem przesłonił ją dym. Żeby utrzymać ogień przy ziemi i zrobić im przejście, musiałem obejść stos. Jeszcze raz spojrzałem na rzemyk. W pułapie nade mną zatrzeszczało drewno.
 
-Przeszedłem na drugą stronę stosu. Przez chwilę widziałem tylko ręce matki, która odrzucała z przejścia płonące szczapy pogrzebaczem. Trzymałem ogień przy ziemi, aż z szopy wyszedł pierwszy człowiek. Drugiego wyprowadził pod ramię. Musiałem oprzeć się o ścianę. Kolana uginały mi się za każdym razem, gdy próbowałem unieść rękę.
+Przeszedłem na drugą stronę. Matka odgarniała płonące szczapy pogrzebaczem. Trzymałem płomień z dala od jej rąk, aż jeden człowiek wyprowadził drugiego pod ramię. Kiedy minęli próg, oparłem się o ścianę. Próbowałem unieść rękę i za każdym razem uginały mi się kolana.
 
-Kiedy nadbiegli sąsiedzi z wiadrami, ściana magazynu osunęła się do środka. Po trzasku zapanowała krótka cisza. Na brzegu placu chłopiec oddał matce drewniany młotek z pękniętym trzonkiem. Przycisnęła go do piersi razem z dłonią syna.
+Sąsiedzi przybiegli z wiadrami. Ściana magazynu osunęła się do środka. Po trzasku nawet ci, którzy przed chwilą krzyczeli, przestali na moment mówić. Na brzegu placu chłopiec oddał matce drewniany młotek z pękniętym trzonkiem. Przycisnęła do piersi młotek razem z jego dłonią.
 
 ## Co pozostało
 
 19 maja, 12 ET
 
-Rano odgrzebaliśmy tyle, ile mogliśmy od zewnątrz. Przez szparę między kamieniami widać było jeden narożnik skrzyni. Reszta tkwiła pod ścianą. Kiedy spróbowałem podważyć płaski kamień, belka nad nim przesunęła się o palec. Odłożyłem drąg.
+Rano odgrzebaliśmy tyle, ile się dało od zewnątrz. Widziałem przez szparę narożnik skrzyni i sądziłem, że przy odpowiedniej dźwigni zdołam przynajmniej odsunąć kamień. Przyniosłem drąg dłuższy od siebie. Kamień ledwie drgnął. Belka nad nim przesunęła się o palec. Odłożyłem drąg. Przez resztę poranka leżał tam, gdzie każdy mógł go zobaczyć.
 
-Starsza kobieta przyniosła wodę. Tovina nadal sobie nie przypominała. Pamiętała za to, że kiedy magazyn był jeszcze używany, handlarze przywiązywali do skrzyń znaki, żeby po rozładunku wiedzieć, czyje są. Zdawało jej się, że na tej płytce był kogut. Zanotowałem to pod słowem „skrzydła”. Miejsca na jedno słowo zostawiłem więcej, niż potrzebowałem.
+Starsza kobieta przyniosła wodę. Tovina nadal sobie nie przypominała. Pamiętała za to znaki, które przewoźnicy przywiązywali do skrzyń, żeby po rozładunku rozpoznać swoje. Zdawało jej się, że na tej płytce widziała koguta. Otworzyłem notes na słowie „skrzydła” i dopisałem pod nim „kogut?”. Zmieszczenie tego jednego słowa kosztowało mnie więcej czasu niż zanotowanie całej drogi od schronienia.
 
-Chłopiec przyglądał się, jak owijam przedramię czystym płótnem. Chciał wiedzieć, po co sięgałem pod belkę, skoro on był już na placu.
+Chłopiec przyglądał się, jak owijam przedramię płótnem.
+
+— Po co pan sięgał pod belkę? Byłem już przy mamie.
 
 — Po płytkę. Miałem nadzieję, że pomoże mi się czegoś dowiedzieć o ojcu.
 
-— A czego?
+— Czego?
 
 — Skąd wziął książkę, z której mi czytał.
 
@@ -164,15 +190,15 @@ Chłopiec oparł brodę o kolana.
 
 — Dziadek zrobił mi młotek. Mama mówi, że mogę używać jego dużego, kiedy podrosnę.
 
-Chciałem spytać, czy widział na skrzyni ptaka. Słowo miałem już na końcu języka, kiedy zobaczyłem, że chłopiec odwraca młotek główką w stronę gruzu i lekko porusza nadgarstkiem, jakby przymierzał się do pierwszego uderzenia.
+Miałem już na końcu języka pytanie o ptaka. Chłopiec obrócił młotek główką w stronę gruzu i poruszył nadgarstkiem, jakby przymierzał się do pierwszego uderzenia.
 
-— Da się naprawić trzonek? — zapytałem.
+— Da się naprawić trzonek? — spytałem.
 
 — Mama mówi, że zrobi mi nowy. Chciałbym zostawić ten.
 
-Oparł młotek o but i drugą dłonią nakrył pęknięcie. Siedzieliśmy przez chwilę, patrząc na szczelinę między kamieniami. Odkąd się obudziłem, ciągle przeliczałem odległość od progu do skrzyni i za każdym razem w myślach była trochę mniejsza.
+Oparł młotek o but i nakrył pęknięcie dłonią. Siedziałem obok niego, póki obaj patrzyliśmy w tę samą szczelinę między kamieniami. Od rana wciąż mierzyłem w pamięci odległość od progu do skrzyni. Każdym następnym razem brakowało mi trochę mniej.
 
-W gospodzie przy dolnej drodze usłyszałem, jak starszy mag pyta o rejestry przewozów. Przedstawił się jako Nocten. Pokazałem mu odrys. Uniósł kartkę, aż zasłoniła mu widok na znak na mojej zbroi. Przyjrzał się rysunkowi jeszcze raz.
+W gospodzie przy dolnej drodze usłyszałem, jak starszy mag pyta o rejestry przewozów. Przedstawił się jako Nocten. Pokazałem mu odrys. Uniósł kartkę tak, że zasłonił sobie znak na mojej piersi, i popatrzył jeszcze raz.
 
 — Gdybym tego pana spotkał bez zbroi, zapytałbym, gdzie stoi ten słup — powiedział. — Co pan zwykle mówi ludziom, zanim poda im kartkę?
 
@@ -182,6 +208,12 @@ Nocten opuścił kartkę.
 
 — To już wiedzą, jakiego ptaka mają panu pokazać.
 
-Schowałem odrys do księgi. Miałem w sakiewce dość na chleb, opatrunek i nocleg. Spytałem gospodarza, czy wie o wozie, który potrzebuje ochrony. Powiedział, żebym zszedł rano na dolny trakt. Ruszał stamtąd transport materiałów na areny w Val Meris. Poszukałem adresu Vedy. Kartka nosiła ślad po okruchu gruszki, a ja do tej pory trzymałem ją zwiniętą przy mapie. Przełożyłem ją do kieszeni.
+Chciałem mu odpowiedzieć, że nie każdy mógłby zobaczyć w tych kreskach całego ptaka nawet z podpowiedzią. Przypomniałem sobie, jak długo obracałem kartkę nad księgą, żeby zgodziło się choć jedno skrzydło. Schowałem odrys.
 
-Zostałem przy stole jeszcze chwilę. „Wiem, co byś powiedział”, szepnąłem, z dłonią na okładce. Ledwie to wymówiłem, przypomniały mi się trzy różne odpowiedzi jego głosem. W jednej kazał mi umyć ręce przed dotknięciem pierwszej strony. Poszedłem więc po wodę.
+Położyłem na stole pieniądze na chleb, opatrunek i nocleg. Spytałem gospodarza, czy ktoś na dolnym trakcie potrzebuje ochrony. Rano miał stamtąd ruszyć transport części na areny w Val Meris. Odszukałem adres Vedy. Noszony przy mapie papier wygiął się w rulonik, więc przycisnąłem go na stole fiolką z olejkiem, żeby się rozprostował. Potem wsunąłem go do kieszeni.
+
+Zostałem jeszcze chwilę z dłonią na okładce.
+
+— Wiem, co byś powiedział — szepnąłem.
+
+Odpowiedzi przyszły mi do głowy trzy, wszystkie jego głosem. Z jedną mogłem przynajmniej od razu coś zrobić. Poszedłem umyć ręce, zanim otworzyłem księgę.
