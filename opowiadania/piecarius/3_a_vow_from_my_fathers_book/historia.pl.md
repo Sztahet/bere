@@ -154,6 +154,12 @@ Urzędnik przepisał je na listę. Przy przynależności postawił kreskę. Poda
 
 Pod wschodnią bramą poznałem wóz po łacie na plandece. Veda przyszyła ją nicią jaśniejszą od płótna. Jorek liczył puste skrzynie po okuciach, które odebrał cieśla z warsztatu przy arenie. Veda rozłożyła na burcie karty przewozowe. Sprawdzała, ile skrzyń z narzędziami zmieści w drodze powrotnej.
 
+Obok kart leżał druk z Urzędu Prób. Miałem taki sam w kieszeni.
+
+— Po rozładunku zdążyłam się zgłosić — powiedziała. — Jutro rano mam się stawić przy arenie. Pan też?
+
+Skinąłem głową.
+
 — Pasek pan naprawił — powiedziała.
 
 — Naramiennik bardzo dobrze się trzyma.
@@ -186,7 +192,7 @@ Veda wygładziła kartę dłonią.
 
 — Jorek chciał, żeby znowu pan z nami jechał. Pamięta, że posłał go pan do koni, kiedy się bał. Ja pamiętam również tę łatę. Obie rzeczy powiedziałabym komuś, kto pyta o pańską pracę. Na kurs trzeciego czerwca wynajmę człowieka, z którym już rozmawiałam. Wciąż mogę go zastać przy składzie.
 
-Pomyślałem o wypłacie za odcinek, którego miałem pilnować. Starczyłaby na powrót do Aurelu i kilka dni, podczas których mógłbym szukać bez pytania co wieczór o pracę.
+Gdyby próby skończyły się dla mnie przed trzecim czerwca, miałbym z czego opłacić dalszą drogę do Aurelu. Policzyłem w myślach, ile noclegów mogłem kupić za wypłatę, której teraz już nie dostanę.
 
 — Druga karta została u gospodarza — powiedziałem. — Napiszę mu, żeby poprawił wpis. Może pani przeczytać, zanim wyślę.
 
@@ -206,7 +212,11 @@ Przez chwilę trzymałem pod kciukiem kwit. Już miałem powiedzieć: „Znalaz�
 
 Nie rozwiązałem płótna, żeby pokazać Vedze, jak bardzo. Plombę ułożyłem na kwicie w miejscu, w którym sznurek zostawił odcisk. Na osobnej kartce przepisałem imię Tovina i nazwę osady, z której wyruszył tamten wóz. Po raz pierwszy miałem na mapie miejsce związane z człowiekiem, którego szukałem. Aż do tej chwili nie zastanawiałem się, o co zapytam, kiedy tam przyjadę bez pewności, że pytam o właściwego ptaka.
 
-Zwinąłem kwit i plombę w papier. Veda rozsunęła listy tak, żeby oba pakunki, do Kharum i do Aurelu, nie znalazły się pod tym samym sznurkiem. Jorek zapytał, czy ma przygotować na powrót trzy miejsca na koźle. Veda powiedziała, żeby na razie przygotował dwa. Zanim odszedłem od wozu, podałem mu podkładkę z kartami przewozowymi.
+Zwinąłem kwit i plombę w papier. Veda rozsunęła listy tak, żeby oba pakunki, do Kharum i do Aurelu, nie znalazły się pod tym samym sznurkiem. Jorek spytał, kto podpisze kartę przy wyjeździe, jeśli kwalifikacje jeszcze będą trwały.
+
+— Ty — powiedziała Veda. — Wieczorem przejrzymy razem trasę.
+
+Zanim odszedłem od wozu, podałem mu podkładkę z kartami przewozowymi.
 
 ## Przysięga
 
@@ -214,7 +224,9 @@ Wieczorem położyłem przy świecy kartkę z terminem i otworzyłem księgę. K
 
 Teraz przełożyłem kartki do początku. Chciałem zanotować przy inicjale, co udało mi się ustalić o ptaku na plombie. Przez chwilę ołówek spoczywał tam, gdzie ojciec położył palec pod tytułem. Zamiast tego wyjąłem kartkę z nazwą osady i dopisałem pod nią wers Bereda. Włożyłem kartkę do notesu.
 
-Nazajutrz na placu starszy mężczyzna próbował wydobyć wiadro ze studni. Zapytałem, czy mu pomóc. Powiedział, że tak, tylko najpierw mam zejść z łańcucha. Odsunąłem but. Razem wyciągnęliśmy wiadro i postawiliśmy je na kamieniu.
+Nazajutrz przy bramie areny zastałem Vedę. Urzędnik odhaczył nas oboje na liście kandydatów i kazał nam poczekać na placu, aż zbierze się cała grupa.
+
+Przy studni starszy mężczyzna próbował wydobyć wiadro. Zapytałem, czy mu pomóc. Powiedział, że tak, tylko najpierw mam zejść z łańcucha. Odsunąłem but. Razem wyciągnęliśmy wiadro i postawiliśmy je na kamieniu.
 
 — Ładny ptak — powiedział, patrząc na moją zbroję.
 

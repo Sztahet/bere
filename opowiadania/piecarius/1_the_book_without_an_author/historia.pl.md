@@ -126,7 +126,11 @@ W osadzie ludzie od pompy unieśli wieko skrzyni jeszcze przy wozie. Przynosili 
 
 Podała mi brudną od ołówka kartkę z adresem składu przy wschodniej bramie Val Meris.
 
-— Dwudziestego ósmego maja mam dostarczyć tam okucia z Kharum. Potrzebuje ich warsztat, który będzie stawiał wieże na Igrzyska. Jeśli będzie pan w mieście, proszę zajść do składu po południu. Trzeciego czerwca ruszam z narzędziami do osad w Kharum i na ten kurs przyda mi się ochrona. Zobaczymy, czy zdąży pan do tego czasu naprawić pasek.
+— Dwudziestego ósmego maja mam dostarczyć tam okucia dla warsztatu, który będzie stawiał wieże na Igrzyska. Po rozładunku chcę się zgłosić do kwalifikacji. Jeśli będzie pan w mieście, proszę zajść po południu do składu.
+
+Schowałem kartkę. Veda wskazała mój naramiennik.
+
+— Trzeciego czerwca wóz rusza z narzędziami do osad w Kharum. Jeśli próby jeszcze będą trwały, lejce weźmie Jorek. Do ochrony i tak potrzebuję człowieka. Zobaczymy, czy do tego czasu naprawi pan pasek.
 
 W izbie nad stajnią przyłożyłem odrys do inicjału. Przesuwałem kartkę po księdze tak długo, aż przynajmniej jedno skrzydło przylegało do drugiego. Ojciec trzymał książkę na stole przy piecu i czytał mi z niej, kiedy musiałem siadać na dwóch poduszkach, żeby widzieć rysunek. Pewnego ranka zszyliśmy pęknięty grzbiet. Ojciec otworzył księgę od początku i przeciągnął palcem po pustym miejscu pod tytułem.
 
