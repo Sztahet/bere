@@ -8,16 +8,16 @@
           "text": "Iglica Zerath · koniec zimy 11/12 ET"
         },
         {
-          "text": "Varek, która prowadziła brygadę przekaźników, postawiła przede mną lampę zakurzoną z jednej strony. Z bliska widziałem sygnał bez trudu. Na drugim końcu przejścia lampka mogła błysnąć trzy razy lub raz. Zależało, kiedy mrugnąłem."
+          "text": "Varek, która prowadziła brygadę przekaźników, postawiła przede mną lampę sygnałową. Nacisnęła przycisk. Lampa błysnęła trzy razy, za każdym razem słabiej. Potem posłała mnie na drugi koniec przejścia i powtórzyła sygnał. Stamtąd widziałem tylko pierwszy błysk."
         },
         {
           "text": "— Tyle dostajemy, kiedy kryształ jest prawie pusty — powiedziała. — Mamy wtedy potwierdzić ekipie, że może wracać."
         },
         {
-          "text": "W warsztacie umiałem zawsze zapalić jedną lampę mocniej. Ona chciała, żebym uzyskał czytelny sygnał z tego, co rzeczywiście zostaje na stacji po całym dniu. Poprosiła o skrzynkę, którą da się otworzyć w rękawicach. Na moim pierwszym szkicu jedna śruba wymagała trzymania dwóch części naraz. Przekreśliłem ją na jej oczach. Potem dopisałem ją u dołu kartki, w razie gdyby lepsza konstrukcja okazała się gorsza."
+          "text": "Mocniej naładowany kryształ wystarczyłby na pokaz w warsztacie. Varek chciała, żeby lampa działała na tym, co zostawało w krysztale pod koniec zmiany. Poprosiła mnie też o obudowę, którą da się otworzyć w rękawicach. Na pierwszym rysunku, żeby odkręcić pokrywę, trzeba było przytrzymać nakrętkę od spodu. Varek położyła rękawice na stole. Spróbowałem w nich chwycić nakrętkę i skreśliłem mocowanie."
         },
         {
-          "text": "Pierwsze trzy ustawienia dawały za długi błysk. Po zmianie położenia cewki lampka zapalała się krótko, ale odczyt na końcu przejścia był pewniejszy. Wysłałem Adrienowi tabelę. Odpisał, żebym zaznaczył, czy wymieniałem kryształ po każdej próbie. Musiałem zajrzeć do dwóch innych kartek, żeby mu odpowiedzieć. Za następnym razem dopisałem stan kryształu od razu."
+          "text": "Przy pierwszych trzech ustawieniach regulatora lampa zużywała większość zapasu na pierwszy błysk. Przesunąłem cewkę. Pierwszy błysk stał się krótszy, a z końca przejścia dało się policzyć wszystkie trzy. Wysłałem Adrienowi tabelę. Odpisał, żebym zaznaczył, ile energii miał kryształ przed każdą próbą. Musiałem zajrzeć do dwóch innych kartek, żeby mu odpowiedzieć. Od następnej próby zapisywałem to w tej samej tabeli."
         }
       ]
     },
@@ -37,7 +37,7 @@
           "text": "Odwróciłem kwit. Na odwrocie była cena i imię człowieka, który odebrał skrzynię. Przy pieczęci napisano tylko, że część dopuszczono do użytku w Aurelu. Nasz dyżurny potrzebował wyniku próby, zanim pozwoli nam uruchomić przekaźnik. Z warsztatu mogli przysłać go dopiero nazajutrz."
         },
         {
-          "text": "Varek wyznaczyła dwa punkty, przy których można było podawać znaki ręcznie, i zapytała ludzi, kto zostanie na dodatkową zmianę. Podszedłem do okna na końcu przejścia. Z bliska znak wydawał się widoczny dla każdego. Stamtąd musiałem poczekać, aż druga osoba stanie w świetle. Wziąłem zmianę przy oknie. Chciałem jeszcze tego wieczoru powtórzyć własny pomiar. Położyłem kartę z wynikami pod lampą i do następnego rana nie dopisałem na niej ani jednej liczby."
+          "text": "Varek wyznaczyła dwa okna, z których można było przekazywać sygnał ekipie ręcznie, i spytała, kto zostanie na dodatkową zmianę. Zgłosiłem się do ostatniego okna. Miałem powtarzać znak człowieka stojącego bliżej dyżurnego. Z mojego miejsca widziałem jego rękę dopiero wtedy, gdy wychylił ją w światło lampy. Tego wieczoru planowałem jeszcze wrócić do własnych prób. Do pracowni wróciłem dopiero następnego rana."
         }
       ]
     },
@@ -45,7 +45,10 @@
       "title": "Szybka pomyłka",
       "blocks": [
         {
-          "text": "Na wydzielonym stanowisku sprawdziłem odczyt przy małym zapasie i przygotowałem drugą próbę. Chciałem zdążyć do modelu, zanim opadnie wskazówka. Po impulsie mogłem szybciej ruszyć całym ciałem. Jeśli stałem, zazwyczaj kończyło się na ruchu ręki. Jeśli miałem już zamiar zrobić krok, nogi potrafiły ruszyć równie nagle. Za każdym razem musiałem wcześniej wybrać, gdzie postawić stopę. Pokazałem Varek wyłącznik po jej stronie."
+          "text": "Regulator był tylko jednym z przyrządów, które przywiozłem do Zerath. Po próbach z krążkiem w Aurelu zbudowałem też cewkę mocowaną do rękawicy. Sam wyzwalałem impuls, który wtedy pojawił się przypadkiem. Przy prostym chwycie ręka ruszała szybciej. Teraz chciałem się przekonać, czy zdołam szybciej dobiec do modelu i przełożyć właściwy przewód."
+        },
+        {
+          "text": "Na stole leżały dwa przewody. Miałem wybrać ten z białą opaską i wpiąć go, zanim lampka zgaśnie. Gdyby mi się udało, lampka znów by się zapaliła, a wskazówka przestałaby opadać. Pokazałem Varek wyłącznik modelu."
         },
         {
           "text": "— Co ja mam obserwować? — spytała."
@@ -54,10 +57,10 @@
           "text": "— Wskazówkę."
         },
         {
-          "text": "— A co zrobisz, jeżeli opadnie, zanim zdążysz?"
+          "text": "— A jeśli opadnie do końca, zanim zdążysz?"
         },
         {
-          "text": "Uzgodniliśmy, że wtedy odetnie zasilanie. Przyjąłem impuls i dotarłem do modelu. Przewody wyglądały tak samo jak przedtem. Sięgnąłem po ten bliższy lewej dłoni, zanim zdążyłem odczytać oznaczenie. Lampka zgasła. Wskazówka wciąż opadała. Varek odcięła zasilanie."
+          "text": "Uzgodniliśmy, że wtedy odetnie zasilanie. Uruchomiłem cewkę, ruszyłem i w dwóch krokach znalazłem się przy stole. Chwyciłem bliższy przewód i wetknąłem wtyk do gniazda. Lampka zgasła. Wskazówka opadła do końca. Varek odcięła zasilanie."
         },
         {
           "text": "Czekaliśmy, aż obudowa ostygnie."
@@ -69,10 +72,10 @@
           "text": "— Do złego przewodu."
         },
         {
-          "text": "Pokazała mi, co widziała ze swojego miejsca. Z mojego oznaczenie przewodu zasłaniał nadgarstek. Ruszyłem szybciej, niż zdążyłem się połapać. Gdy sięgnąłem po ołówek, palce trzęsły mi się tak, że Varek podała mi kartkę i poczekała, aż sam będę mógł napisać wynik."
+          "text": "Varek wskazała białą opaskę na przewodzie, który wciąż leżał na stole. Widziałem go także ze swojego miejsca. Po prostu sięgnąłem po pierwszy, jaki miałem pod ręką. Kiedy spróbowałem zapisać wynik, ołówek zaczął stukać o blat. Odłożyłem go i poczekałem, aż palce przestaną mi drżeć."
         },
         {
-          "text": "Zanotowałem, że impuls przyspieszył ruch. Niżej dopisałem, że o wyborze przewodu zdecydowało położenie dłoni. Sformułowanie było brzydkie, ale po chwili nie umiałem wymyślić uczciwszego."
+          "text": "Zapisałem, że dotarłem do stołu na czas i podłączyłem zły przewód. Przy następnej próbie miałem najpierw znaleźć wzrokiem oznaczenie, a dopiero potem po niego sięgnąć."
         }
       ]
     },
@@ -80,19 +83,19 @@
       "title": "Wynik dla cudzych rąk",
       "blocks": [
         {
-          "text": "Przed pokazem dla ekipy Varek poprosiła o dłuższą próbę za przegrodą. Przy pierwszych przebiegach sygnał był dobry. W czwartej próbie mocowanie się przesunęło, a wskazówka stanęła między kreskami. Przerwałem próbę. Na karcie miałem już wypisaną godzinę pokazu. Przekreśliłem ją własnoręcznie."
+          "text": "Przed pokazem regulatora Varek poprosiła, żebyśmy uruchomili lampę kilka razy z rzędu. Trzy pierwsze sygnały widziałem wyraźnie z końca przejścia. Przy czwartym lampa zgasła w połowie sygnału. Otworzyłem odłączoną skrzynkę i znalazłem poluzowane mocowanie styku. Na karcie miałem już wypisaną godzinę pokazu. Przekreśliłem ją."
         },
         {
-          "text": "Przez następne dni poprawiałem jeden styk. Za pierwszym razem przesunąłem go za daleko. Za drugim zmieniłem kąt i przyłożyłem do obudowy dłoń dopiero wtedy, gdy wszystko było odłączone. Pomogło. Potrzebowaliśmy jeszcze kilku przebiegów."
+          "text": "Przez następne dni poprawiałem mocowanie. Za pierwszym razem styk trzymał się tak sztywno, że kryształ nie wchodził do końca. Spiłowałem kawałek uchwytu i spróbowałem ponownie. Kryształ wszedł na miejsce. Kilka razy włączyliśmy lampę, zanim Varek wyznaczyła nową porę pokazu."
         },
         {
-          "text": "W końcu Varek spytała, czy może sama uruchomić przyrząd. Chciałem podejść, żeby podpowiedzieć jej, gdzie trzymać palce. Stanąłem pod ścianą. Otworzyła osłonę w rękawicach. Na drugim końcu przejścia zobaczyłem wyraźny błysk. Powtórzyła pomiar. Wyszedł blisko mojego."
+          "text": "Przed pokazem Varek chciała przeprowadzić próbę sama. Otworzyła pokrywę w rękawicach, włożyła kryształ i zamknęła obudowę. Już szedłem jej pokazać, gdzie ustawić regulator, kiedy zobaczyłem, że czyta oznaczenia na obudowie. Cofnąłem się na koniec przejścia. Policzyłem trzy błyski. Przy powtórzeniu też zobaczyłem trzy."
         },
         {
-          "text": "Na koniec daliśmy ekipie wyniki i opis tego, przy czym skrzynka jeszcze zawodzi. Zabrałem ją do dalszej pracy. Varek oddała mi pierwszą kartkę, tę z przekreśloną śrubą. Pod moim rysunkiem dopisała, jak przykręcić obudowę z jednej strony."
+          "text": "Po pokazie zostawiliśmy ekipie wyniki i spis usterek, które wciąż wychodziły w próbach. Regulator zabrałem do dalszej pracy. Varek oddała mi pierwszy szkic, ten z przekreśloną śrubą. Pod rysunkiem dopisała, że przy kolejnej obudowie warto przytwierdzić nakrętkę od środka, tak żeby dało się odkręcić pokrywę jedną ręką."
         },
         {
-          "text": "Złożyłem kartkę i wsunąłem ją pod pasek kapelusza, żeby jej nie zgubić. Wieczorem wyjąłem ją razem z notatką o przyspieszeniu. Po raz pierwszy zrobiło mi się za ciasno na dwóch stronach. Wziąłem trzecią i przepisałem na nią osobno pytania ekipy."
+          "text": "Wieczorem zacząłem przepisywać wyniki dla Adriena. Na osobnej kartce zapisałem pytania brygady. Pierwsze dotyczyło tego, co zrobić, jeśli na końcu zmiany widać tylko dwa błyski. Na to jeszcze nie miałem odpowiedzi."
         }
       ]
     }

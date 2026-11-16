@@ -4,33 +4,33 @@
 
 18 kwietnia, 12 ET · Aurel
 
-Po zimie spędzonej przy przekaźnikach w Zerath pojechałem do Aurelu. Chciałem porównać regulator z przyrządem Adriena, póki mieliśmy dostęp do tego samego stanowiska. Przyjechałem poprzedniego wieczoru i zamierzałem zostać kilka dni. Varek poprosiła, żebym przywiózł jej wynik, który będzie mogła powtórzyć u siebie.
+Po zimie spędzonej przy przekaźnikach w Zerath pojechałem na kilka dni do Aurelu. Adrien budował własny regulator. U niego mogliśmy zmierzyć, ile energii potrzebuje każdy przyrząd do tego samego zadania. Przed wyjazdem Varek poprosiła, żebym zapisał też warunki próby. Chciała ją powtórzyć na stacji.
 
-Przyniosłem Adrienowi regulator w płaszczu. Spytał, czy ma oglądać płaszcz. Wyjaśniłem, że tego mu nie oddam. Był jedyną rzeczą, w którą dało się zawinąć obudowę z wystającą śrubą.
+Przyjechałem poprzedniego wieczoru. Rano przyniosłem do pracowni regulator zawinięty w płaszcz. Z obudowy wystawała śruba, więc ułożyłem pod nią gruby szew, żeby nie przebiła materiału.
 
-Rano nasz pomiar wypadł na korzyść mojego regulatora. Zamieniliśmy kryształy miejscami i wynik się utrzymał.
+Przy pierwszym pomiarze mój regulator zużył mniej energii niż przyrząd Adriena. Zamieniliśmy kryształy miejscami i powtórzyliśmy próbę. Wynik się utrzymał.
 
-— Miałeś szczęście — powiedział Adrien.
+— Miałeś szczęście.
 
-— Owszem. Za siedemnastą próbą.
+— Owszem — powiedziałem. — Za siedemnastą próbą.
 
-Po południu, gdy wydawało mi się już, że zechce przepisać wynik bez uwag, mocowanie znowu się poluzowało. Wyłączyłem zasilanie i odczekałem, aż opadnie wskaźnik. Śruba poruszała się na tyle swobodnie, że mogłem ją prawie wyjąć palcami. Zostawiłem Adrienowi urządzenie i zapiski. Umówiliśmy się, że moje imię zostanie w tabeli. Płaszcz zabrałem.
+Po południu obudowa zaczęła drżeć. Wyłączyłem zasilanie i odczekałem, aż opadnie wskaźnik. Pod pokrywą znalazłem poluzowaną śrubę. Adrien poprosił, żebym zostawił regulator do dalszych pomiarów. Zgodziłem się pod dwoma warunkami: wpisze moje imię przy wynikach i nie uruchomi go przed naprawą mocowania. Zapisał oba. Tym razem zwinąłem pusty płaszcz.
 
 ## Sygnał z drugiego końca toru
 
 4 maja, 12 ET · przy hali ćwiczeń
 
-Na majową próbę u Leny przywiozłem już regulator z poprawionym mocowaniem. Z drugiego końca toru jej sygnał zlewał się z odbiciem. Pożyczyłem jej kawałek własnej przesłony, żeby zmienić kształt błysku. Lucen wciąż widział go przy mniejszym zapasie. Rian spytała wtedy, jaki znak zobaczy, kiedy mechanizm utknie w połowie. Przez chwilę wszyscy patrzyliśmy na wskazówkę. Lena dopisała trzeci znak na niepewny odczyt.
+Odebrałem regulator od Adriena i na próbę u Leny przywiozłem go już z poprawionym mocowaniem. Lena sprawdzała przyrząd, który pozwalał ustalić, czy zasilanie dociera do styku, i pokazać wynik komuś po drugiej stronie toru. Z daleka jej sygnał zlewał się z odbiciem od metalowej osłony. Pożyczyłem jej kawałek własnej przesłony, żeby dać błyskowi wyraźniejszy kształt. Lucen sprawdził, czy nadal go widać, gdy w krysztale zostało mniej energii. Rian spytała, jaki znak zobaczy ktoś na końcu toru, jeśli wskazówka utknie w połowie. Lena dopisała do listy trzeci sygnał, na wypadek gdyby odczyt był niepewny.
 
-Chciałem od razu wrócić do przesłony. Rian przypomniała mi o sprawdzeniu własnego mocowania po uderzeniu. Zabrałem regulator do stołu. Jedna śruba trzymała. Drugą dokręciłem, dopiero gdy zanotowałem, ile obróciła się pod palcami.
+Chciałem od razu poprawić przesłonę. Rian przypomniała mi, że obiecałem sprawdzić, czy śruby regulatora trzymają po próbie uderzeniowej. Zabrałem go do stołu. Jedna śruba się nie ruszyła. Drugą dokręciłem o ćwierć obrotu i zapisałem to w tabeli, żeby mieć z czym porównać następny wynik.
 
-Wieczorem przepisałem odczyt Lucena dla Varek. Dopisałem, z którego końca toru patrzył. Pod wynikiem zostawiłem miejsce na odpowiedź, gdyby u niej wyszło inaczej.
+Wieczorem napisałem do Varek. Do wyników pomiaru z Aurelu dołączyłem rysunek przesłony i podałem odległość, z której Lucen widział sygnał. Poprosiłem, żeby sprawdziła, czy przy ich lampie widać z końca przejścia wszystkie trzy błyski.
 
 ## Imię na formularzu
 
 28 maja, 12 ET · Val Meris
 
-Przy składzie, jeszcze przed poranną odprawą, spotkałem Tarena. Miał na kartce wymiary części dla dwóch pomp i próbował ustalić, w którym magazynie w ogóle jest o co pytać. Powiedziałem mu o mocowaniu z Aurelu, które pasowało, choć u nas nikt nie mógł go dopuścić na podstawie samej pieczęci.
+Przed poranną odprawą poszedłem do składu zapytać, jakie dokumenty dają przy częściach wysyłanych do Zerath. Przy wejściu spotkałem Tarena. Szukał części do dwóch pomp i miał już na kartce ich wymiary. Opowiedziałem mu, jak pękło nam mocowanie kryształu i jak po nowe sięgnęliśmy do zapasów z Aurelu. Pokazałem mu kwit. Wpisali, że część jest dopuszczona do użytku. Nie podali, jakie obciążenie wytrzymała.
 
 — Ile czekaliście? — zapytał.
 
@@ -42,38 +42,38 @@ Taren złożył arkusz tak, żeby oba wymiary zostały na wierzchu.
 
 — Ja chciałbym, żeby po drugiej stronie szlaku umieli ją sprawdzić z tego samego kwitu.
 
-— W takim razie dopisz, w jakich warunkach była próba. Monterom to się przyda, choćbyśmy zagłosowali inaczej.
+— To niech dostawca wpisze, przy jakim obciążeniu sprawdził część. Moi monterzy też chcą to wiedzieć.
 
-Pokazał mi, gdzie na swoim arkuszu zanotował, pod jakim naciskiem pracuje większa pompa. Była to pierwsza liczba, o którą sam bym go zapytał. Rozeszliśmy się przed odprawą. Taren nadal miał do sprawdzenia dwa magazyny.
+Przy wymiarach części Taren miał zapisane ciśnienie w obu pompach. Chciał porównać te liczby z wynikami prób u sprzedawcy, zanim cokolwiek kupi. Pożyczyłem od niego ołówek. Obok pieczęci na kwicie dopisałem, o którą liczbę chciałem zapytać w składzie.
 
-W urzędzie obok listy kandydatów wisiały oba warianty Porozumienia. Wynik Wielkich Igrzysk miał zdecydować, który z nich wejdzie w życie. Przy wspólnym nadzorze Rada zachowałaby uprawnienia do ustalania zasad certyfikacji splotytu. Jeszcze raz sprawdziłem zapis o odwołaniach. Chciałem, żeby wynik próby dało się odczytać po obu stronach granicy i żeby ekipa mogła zakwestionować decyzję, gdy sprawdzona część utknie w składzie.
+Przy zapisach obok listy kandydatów wisiały oba warianty Porozumienia. Wielkie Igrzyska miały rozstrzygnąć, który wejdzie w życie. Przeczytałem jeszcze raz ustęp o wspólnym nadzorze. Rada nadal ustalałaby zasady sprawdzania i dopuszczania splotytu do użytku. Musiałaby podawać podstawy swoich decyzji, a krainy mogłyby odwoływać się do arbitrów. Miałem w kieszeni kwit. Pomyślałem o następnej brygadzie, która dostanie skrzynię z drugiej strony granicy. Chciałem, żeby już przy odbiorze mogła ustalić, czy część nadaje się do pracy przy jej przekaźniku.
 
-Wpisałem Zerath i wspólny nadzór Rady. Urzędnik zapytał, czy przyniosę na próbę własny przyrząd. Zgłosiłem urządzenie do rękawicy. Regulator, który pokazywałem Lenie, czekał osobno w torbie. Wciąż wymagał innego rodzaju prób.
+Wpisałem Zerath i wspólny nadzór Rady. Urzędnik zapytał, czy przyniosę na kwalifikacje własny przyrząd. Zgłosiłem cewkę do rękawicy. Od czasu próby w Zerath ćwiczyłem z nią przełączanie przewodów i umiałem już odczekać ułamek chwili, żeby wybrać właściwy.
 
 ## Dwa uderzenia
 
 Val Meris · pierwsze dni kwalifikacji w 12 ET
 
-Przed zadaniem sędzia dopuścił urządzenie do rękawicy, gdy sprawdził, czy jest pewnie zamocowane. Przy modelu śluzy Thora miała trzymać dźwignię. Mnie przypadło przełożyć przewód za przegrodą. Trzecia osoba ostrzegała, gdy wskazówka opadnie. Wtedy mieliśmy przerwać, choćby do końca ruchu brakowało pół kroku.
+Sędzia sprawdził mocowanie cewki i dopuścił ją do próby. Dostaliśmy model śluzy. Thora miała trzymać dźwignię, a ja przełożyć przewód za przegrodą, żeby puścić sygnał na drugą stronę modelu. Trzecia osoba pilnowała wskazówki. Jeśli opadnie do kreski, miała zawołać, a Thora puścić dźwignię.
 
-Powiedziałem „zaraz wracam”, przyjąłem impuls i obiegłem przegrodę. Zdążyłem chwycić przewód, nim model ucichł. W drodze powrotnej palce znowu mi zadrżały. Thora puściła dźwignię, kiedy ze stanowiska obok zawołano, że wskazówka opadła.
+Powiedziałem „zaraz wracam”, wyzwoliłem impuls i obiegłem przegrodę. Znalazłem właściwy przewód. Zaczęły mi drżeć palce i wtyk ześlizgnął się po krawędzi gniazda. Usłyszałem wołanie ze stanowiska obok, a potem stuk puszczonej dźwigni. Wycofałem rękę i wróciłem do Thory.
 
 — Mogłaś przytrzymać jeszcze chwilę — powiedziałem.
 
 — Nie widziałam twoich rąk.
 
-Przeszedłem na jej miejsce. Thora stanęła za przegrodą i spytała, czy widzę przewód. Widziałem tyle, ile mieściło się w szczelinie między deskami. Nawet gdy przesunęła się o pół kroku, mogłem zobaczyć tylko skraj rękawa. Pokręciłem głową.
+Przeszedłem na jej miejsce. Thora stanęła za przegrodą i spytała, czy widzę przewód. Przez szczelinę między deskami widziałem skraj jej rękawa. Pokręciłem głową.
 
 Wróciłem pod przegrodę i stuknąłem dwa razy w deskę.
 
 — Po dwóch stuknięciach trzymaj. Przewód będzie już na miejscu.
 
-Drugą próbę zacząłem, kiedy dłoń przestała drżeć. Przyjąłem kolejny impuls. Pierwszy raz stuknąłem w deskę, gdy dobiegłem. Drugi, kiedy przewód był już na miejscu. Nad obudową wystarczyło sięgnąć tak daleko, jak na szermierce sięgam, żeby jeszcze powstrzymać własną rękę. Thora trzymała dźwignię do znaku sędziego. Zdążyliśmy. Wskazówka zatrzęsła się na koniec, kiedy wyjmowałem rękę. Sędzia zanotował oba przebiegi.
+Zaczekałem, aż dłoń przestanie drżeć. Wyzwoliłem drugi impuls i stuknąłem w deskę, gdy dobiegłem do obudowy. Tym razem oparłem nadgarstek o jej brzeg. Wsunąłem wtyk i stuknąłem drugi raz. Thora trzymała dźwignię do znaku sędziego. Sygnał przeszedł na drugą stronę. Kiedy wyjmowałem rękę, wskazówka jeszcze raz drgnęła. Sędzia zanotował wyniki obu prób.
 
-Wziąłem do ręki kartę wyników. O ile mogę poznać z odczytu, potrzebowałem tyle samo czasu do przegrody w obu próbach. Obok drugiego wyniku dopisałem, w którym momencie Thora wiedziała, gdzie jestem. Zajęło mi to więcej miejsca niż sam pomiar.
+Na karcie oba czasy dobiegnięcia do przegrody były prawie takie same. Przy drugim wyniku dopisałem, co oznaczało każde stuknięcie. Przy następnym podejściu ktoś inny mógł stanąć przy dźwigni i od razu wiedzieć, kiedy przewód jest już na miejscu.
 
 — Jeszcze jeden pomiar? — spytałem, nim dotknąłem urządzenia.
 
 — Po przerwie. Najpierw chcę zobaczyć, który przewód się odsunął.
 
-Przytrzymałem jej deskę. Z tego miejsca w końcu mogłem zobaczyć obie jej ręce.
+Przytrzymałem deskę, żeby mogła zajrzeć pod spód. Kartę z wynikami odłożyłem na bok.

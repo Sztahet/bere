@@ -4,7 +4,7 @@
 
 Aurel · lata studiów
 
-Gdyby każda część, która zostaje na stole po złożeniu urządzenia, naprawdę była zbędna, nauczyłbym się konstruować mniej więcej dwa razy szybciej. Tamtego dnia została mi jedna podkładka i osiem minut do szermierki. Podkładkę wsunąłem do kieszeni, gdzie przechowywałem podobne pytania.
+Po złożeniu skrzynki została mi na stole jedna podkładka. Byłem prawie pewien, że dałem po jednej pod każdą śrubę. Schowałem podkładkę do kieszeni. Po próbie chciałem jeszcze raz otworzyć obudowę i sprawdzić, skąd się wzięła. Po południu mieliśmy z Adrienem iść na szermierkę. Zdążyłbym bez trudu, gdybym poprzestał na próbie lampki.
 
 Adrien wszedł do pracowni z kartą pomiarową. Zauważył skrzynkę i zapytał, czy już wiem, co chcę zmierzyć.
 
@@ -12,60 +12,60 @@ Adrien wszedł do pracowni z kartą pomiarową. Zauważył skrzynkę i zapytał,
 
 — To ustal, kto będzie patrzył.
 
-Zgodziłem się, że rozsądnie zacząłby od siebie. Ustawił kreskę odniesienia na jasnej tablicy. Ja dokręciłem zacisk, położyłem szpadę przy ścianie i sięgnąłem do obudowy. Za pierwszym razem lampka drgnęła. Za drugim zapaliła się na tyle krótko, że Adrien podniósł głowę dopiero wtedy, kiedy zgasła.
+Adrien stanął na drugim końcu stołu i oparł kartę o blat. Dokręciłem zacisk przy lampce i położyłem szpadę pod ścianą. Przy pierwszej próbie lampka ledwo się zajarzyła. Za drugim razem błysnęła, gdy Adrien akurat pochylał się nad kartą.
 
 — Widziałeś?
 
 — Widziałem, że pytasz.
 
-Sięgnąłem po przesłonę. Puściło mocowanie i mały mosiężny krążek wysunął się z prowadnicy. W tej samej chwili poczułem impuls w prawej dłoni. Bolało, zanim zrozumiałem, co trzymam. Krążek leżał już w moich palcach. Ledwie zdążyłem go zobaczyć, nim zamknąłem dłoń. Gdy chciałem otworzyć ją z powrotem, palce zadrżały.
+Przy lampce była przesłona z mosiężnego krążka. Sięgnąłem, żeby ją odchylić i odsłonić więcej światła. Zacisk puścił. Poczułem ukłucie w prawej dłoni i zobaczyłem, jak krążek wysuwa się z prowadnicy. Odruchowo po niego sięgnąłem. Chwyciłem go, zanim zdążyłem opuścić wzrok na własną rękę. Krawędź rozcięła mi palec. Kiedy spróbowałem rozluźnić chwyt, dłoń zaczęła mi drżeć.
 
-Adrien odciął zasilanie. Kazał mi otworzyć dłoń. Zrobiłem to dopiero, gdy podsunął mi miskę.
+Adrien odciął zasilanie i podsunął mi miskę. Upuściłem do niej krążek.
 
 — Widziałeś, że go złapałem?
 
-— Widziałem, że za krótko trzymałeś klucz na zacisku. Z ręką zaraz się dowiemy.
+— Kiedy podniosłem głowę, już go trzymałeś. Pokaż palec.
 
-Kiedy opatrzono mi palec, wróciłem po jego kartę pomiarową. Zanotowałem moment, w którym krążek minął brzeg skrzynki, i miejsce, gdzie go złapałem. W rubryce „czas” nie wpisałem nic. Właśnie ta pusta kratka interesowała mnie teraz najbardziej.
+Adrien przyniósł bandaż. Kiedy owinęliśmy palec, narysowałem na odwrocie karty brzeg skrzynki i zaznaczyłem, na jakiej wysokości złapałem krążek. Zostawiłem miejsce na czas chwytu. Trudno było wpisać cokolwiek, skoro żaden z nas nie zdążył przyjrzeć się mojej ręce.
 
-## Pół wahnięcia
+## Próba bez zasilania
 
 Pierwsze powtórzenie wykonaliśmy z odłączoną skrzynką. Adrien puszczał krążek, a ja próbowałem go łapać. Za trzecim razem umiałem już przewidzieć ruch jego kciuka. Za czwartym trafiłem w powietrze, bo celowo przytrzymał go trochę dłużej.
 
 — Jeśli patrzysz na moją rękę, mierzysz też to, jak dobrze mnie znasz — powiedział.
 
-Przywiązałem nitkę do prowadnicy, żeby mógł puszczać krążek zza przesłony. On przyniósł małe wahadło. Zanotowaliśmy położenie na początku i po każdym chwycie. Wyniki mieściły się w tak szerokim zakresie, że na wykresie wyglądały, jakby wykonywały ze mną wypady szermiercze.
+Ułożyłem krążek na podpórce na tej samej wysokości co prowadnica. Przywiązałem nitkę do podpórki. Adrien pociągał za nią zza parawanu, a ja widziałem krążek dopiero w chwili, gdy zaczynał spadać. Przyłożyłem do krawędzi stołu linijkę. Najwyżej udało mi się go złapać tuż pod blatem. Przy lampce zacisnąłem na nim palce jeszcze powyżej blatu.
 
-Chciałem powtórzyć próbę z impulsem. Adrien oparł o stół kartę i spytał, jak odetnę zasilanie, skoro obie ręce będą zajęte. Pokazałem mu wyłącznik.
+Chciałem zasilić lampkę i sprawdzić, czy znów poczuję ukłucie. Adrien spytał, kto wyłączy zasilanie, jeśli ręka zesztywnieje mi podczas próby. Wskazałem wyłącznik po jego stronie stołu.
 
 — To znaczy, że ja odetnę — powiedział. — Jeszcze się na to nie zgodziłem.
 
-Zmierzyłem odległość do wyłącznika. Przesunęliśmy go w zasięg kogoś, kto stoi z dala od przewodów. Adrien zaproponował też mniejszy zapas w krysztale. Przez chwilę rozważałem, czy po takim impulsie w ogóle będę miał co mierzyć. Potem przypomniałem sobie dłoń. Przystałem na mniejszy zapas.
+Przesunęliśmy wyłącznik na koniec stołu. Adrien mógł go teraz dosięgnąć zza parawanu, z dala od przewodów. Zgodził się go pilnować, jeśli włożę słabiej naładowany kryształ. Spojrzałem na bandaż. Z zapasowej skrzynki wyjąłem kryształ, którego używaliśmy do sprawdzania styków.
 
-W następnej próbie lampka zapaliła się za wcześnie. Wahadło jeszcze nie osiągnęło kreski, kiedy mocowanie zaczęło drżeć. Adrien odsunął stołek, żebym mógł dosięgnąć wyłącznika. Odciąłem zasilanie. Gdy mogliśmy podejść, okazało się, że prowadnica skręciła się pod własnym ciężarem. Ani chwili szybszego ruchu. Za to dokładnie tyle czasu, ile trzeba było, żeby zauważyć nowy problem.
+Ledwie włączyliśmy lampkę, mocowanie zaczęło drżeć. Adrien odciął zasilanie, zanim puścił krążek. Kiedy podeszliśmy do skrzynki, prowadnica wisiała krzywo. Przy zacisku zobaczyłem wolne miejsce pod łbem śruby. Wyjąłem podkładkę z kieszeni. Pasowała.
 
 ## Dziedziniec
 
-Opiekun pracowni obejrzał obudowę, obejrzał moją dłoń i zabrał klucz do stanowiska na czas przeglądu. Spytałem, czy zakaz dotyczy także dziedzińca.
+Opiekun pracowni obejrzał obudowę, obejrzał moją dłoń i zamknął stanowisko. Spytałem, czy możemy dokończyć próbę na dziedzińcu.
 
-— Dotyczy uruchamiania urządzenia, póki nie zobaczę twojego planu.
+— Najpierw pokaż mi plan. Do tego czasu nigdzie go nie włączasz.
 
-Nie zdążyłem na szermierkę. Znalazłem Adriena na ławce pod salą. Przyniósł mi szpadę. Oddał ją rękojeścią do lewego boku, bo prawa dłoń wciąż była opatrzona.
+Kiedy wyszedłem od opiekuna, nasza godzina w sali szermierczej już minęła. Znalazłem Adriena na ławce pod drzwiami. Zabrał moją szpadę z pracowni. Podał mi ją do lewej ręki.
 
-— Odmierzyłem nam kroki na podłodze — powiedział. — Czekałem, aż pokażesz mi, jak się cofasz przy wypadzie.
+— Zaznaczyłem nam miejsca na podłodze — powiedział. — Czekałem, aż pokażesz mi, jak wracasz do gardy po wypadzie.
 
-Sam go na ten trening namówiłem. Chciałem sprawdzić, czy po dwóch tygodniach ćwiczeń wreszcie przestanę źle stawiać tylną nogę. Potem przyszło mi do głowy, że możemy mierzyć kroki obydwu. Adrien znalazł pustą salę i przeniósł własną pracę na wieczór.
+Sam go na ten trening namówiłem. Od dwóch tygodni ćwiczyłem powrót do gardy. Chciałem, żeby popatrzył, czy znów stawiam tylną stopę za blisko przedniej. Adrien znalazł wolną godzinę w sali i przeniósł własny pomiar na wieczór.
 
 — Jeżeli jutro przyjdziemy wcześniej…
 
 — Jutro mam swój pomiar. Dzisiaj miałem czas dla ciebie.
 
-Szpada źle leżała w lewej dłoni. Usiadłem obok niego. Chciałem mu pokazać kartkę z pustą rubryką, bo od rana myślałem niemal wyłącznie o niej. Zapytałem, ile kroków zdążył odmierzyć. Opowiedział mi o wszystkich czterech.
+Usiadłem obok niego i położyłem szpadę na kolanach. Miałem w kieszeni kartę z pomiarem. Już chciałem po nią sięgnąć, kiedy zobaczyłem kredę na jego mankiecie. Zapytałem, gdzie postawił kreski. Wstał i pokazał mi na płytach przed ławką, jak daleko powinna się cofnąć tylna stopa.
 
 — Będziesz przy następnej próbie? — spytałem.
 
 — Przeczytam plan. Potem ci powiem.
 
-Poszedłem po kartki. Na pierwszej narysowałem wyłącznik, wahadło i kreski, które ktoś poza mną ma widzieć ze swojego miejsca. Na drugiej zanotowałem, że jeden udany chwyt nie wystarcza. Pod tym dopisałem, że ani razu w życiu nie złapałem czegoś tak pewnie, nie wiedząc, kiedy zacząłem ruch.
+Wieczorem narysowałem plan próby. Zaznaczyłem wyłącznik i miejsce dla drugiej osoby. Stamtąd miała widzieć krążek i moją dłoń. Pod wynikami dopisałem, że raz udało mi się złapać krążek wcześniej niż w próbach bez zasilania. Żeby to sprawdzić, musiałem uzyskać ten sam wynik kilka razy.
 
-Podkładkę znalazłem w kieszeni dopiero wieczorem. Położyłem ją na rogu planu, żeby kartka się nie zwijała. Dziedziniec zostawiłem na marginesie. Miał tę zaletę, że dało się na nim stanąć kilka kroków dalej i nadal widzieć całą próbę.
+Położyłem podkładkę na kartce. Na górze planu dopisałem, od czego zaczniemy, jeśli opiekun odda nam klucz. Najpierw sprawdzimy każdą śrubę.
