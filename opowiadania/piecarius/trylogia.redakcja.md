@@ -8,23 +8,31 @@
 
 8 kwietnia, 12 ET · Kharum
 
-Gdyby o rycerskiej godności świadczyła liczba selenów w sakiewce, tego ranka nie powinienem był przedstawiać się nikomu. Po zakupie mapy i cynamonowego olejku zostało mi półtora selena w monecie i drobnych, a oberżysta czekał na zapłatę za nocleg.
+Poranek nie należał do najłaskawszych dla mojej sakiewki. Mapa okazała się droższa, niż zapewniał sprzedawca, a cynamonowy olejek, któremu nie potrafiłem się oprzeć, pochłonął resztę rozsądku. Zostało mi jakieś półtora selena w monecie i drobnych, a do tego rachunek za nocleg, którego oberżysta najwyraźniej nie zamierzał puścić w niepamięć.
 
-— Czuję cynamon — powiedział oberżysta, kiedy odliczałem pieniądze. Zerknął na mój naramiennik. — A rzemyk dalej pęknięty.
+— Ładny zapach — rzucił, kiedy odliczałem monety. — Cynamon?
 
-Schowałem fiolkę i obiecałem sobie, że kiedyś wyjaśnię mu różnicę między schludnością a rozrzutnością. Na razie zaciągnąłem naderwany pasek przy naramienniku, wsunąłem pod pachę księgę w płóciennym zawiniątku i podszedłem do jedynej osoby w izbie, której nie znałem. Kobieta obierała gruszkę małym, wyszczerbionym nożem.
+— Szlachetna nuta, mój drogi. Nie każdemu pisane jest ją docenić.
+
+— Może. Ale widzę, że rzemyk przy naramienniku nadal pęknięty.
+
+Zerknąłem na naderwany rzemyk. Owszem, należało się nim zająć, ale nie widziałem powodu, by popadać w przesadę. Wciąż trzymał, a skoro przez tyle dni nie postanowił ostatecznie się poddać, najwyraźniej nie było mu jeszcze pisane zakończenie służby. Zresztą są rzeczy ważniejsze od kawałka skóry. Na przykład odpowiedni zapach.
+
+Schowałem fiolkę i poprawiłem węzeł przy naramienniku. Oberżysta wskazał mi kobietę przy oknie. Obierała gruszkę małym, wyszczerbionym nożem i zdołała zdjąć skórkę w jednym kawałku. Zaczekałem, aż skończy. Lubię, kiedy rozmówca może patrzeć na mnie w chwili, w której się przedstawiam.
 
 — Piecarius, rycerz Bractwa Feniksa. Stawiam się zgodnie z umową, by objąć ochroną dzisiejszy transport.
 
-Kobieta spojrzała na oberżystę.
+Kobieta spojrzała nad moim ramieniem.
 
 — To on?
 
-— To ja — potwierdziłem.
+— To ja — zapewniłem ją.
 
-— Pytałam jego.
+— Pytałam gospodarza.
 
-Oberżysta skinął głową. Kobieta zwinęła skórkę w palcach i odłożyła nóż.
+Usłyszałem za sobą krótkie „tak”. Sądziłem, że mógł powiedzieć o mnie coś więcej. W końcu widział, jak starannie czyściłem zbroję przed zejściem na dół.
+
+Kobieta odłożyła nóż.
 
 — Veda. Wiozę części do pompy w górnej osadzie. Jeśli będziemy stawać na każdą pańską przemowę, ludzie tam jeszcze jutro będą nosić wodę pod górę.
 
@@ -32,41 +40,51 @@ Oberżysta skinął głową. Kobieta zwinęła skórkę w palcach i odłożyła 
 
 — To resztę opowie mi pan po drodze.
 
-Przy jej łokciu stał koszyk gruszek. Pachniały tak słodko, że przez chwilę nie mogłem oderwać od nich wzroku.
+Przy jej łokciu stał koszyk gruszek. Pachniały tak słodko, że przez chwilę patrzyłem na nie pewnie o wiele mniej dyskretnie, niż mi się zdawało.
 
 — Na gruszkę może pan liczyć po robocie. Ani chwili wcześniej.
 
-Veda chwyciła koszyk, wstała i ruszyła do drzwi.
+Veda chwyciła koszyk, wstała i ruszyła do drzwi. Zabrałem księgę owiniętą w płótno. Wychodząc, ukłoniłem się jeszcze oberżyście. Nic mnie to nie kosztowało, co po podliczeniu porannych wydatków bardzo sobie ceniłem.
 
-Na podwórzu jej pomocnik, Jorek, dociskał skrzynię do platformy kolanem, żeby Veda mogła dociągnąć pasy. Kiedy skończyła, oparła o burtę kartę przewozową na drewnianej podkładce. Wpisała naszą trójkę. Przy moim imieniu dopisała drobnymi literami „Bractwo Feniksa” i podała mi ołówek.
+Jej pomocnik, Jorek, przytrzymywał skrzynię kolanem, kiedy Veda dociągała pasy. Potem oparła o burtę kartę przewozową i wpisała naszą trójkę. Przy moim imieniu dopisała drobnymi literami „Bractwo Feniksa”.
 
 — Podpis pod spodem. Gospodarz zatrzyma drugi egzemplarz, żeby było wiadomo, kogo szukać, jeśli wóz nie dojedzie.
 
-Spojrzałem na nazwę Bractwa. Pierwszy raz ktoś zapisał ją przy moim imieniu, a ja nie musiałem o to prosić. Podpisałem kartę, przytrzymałem konie i opowiedziałem Jorkowi, którędy według mojej mapy pojedziemy.
+Ktoś wreszcie wpisał Bractwo przy moim imieniu z własnej woli. Zdążyłem przeczytać te dwa słowa jeszcze raz, zanim Veda podała mi ołówek. Podpisałem się staranniej, niż wymagała tego karta przewozowa.
+
+Przed odjazdem rozłożyłem na burcie nową mapę. Pokazałem Jorkowi mostek i objaśniłem mu, ile drogi zaoszczędzimy, jeśli przez niego pojedziemy.
 
 — Tam był mostek — powiedział. — Woda zabrała go zeszłej wiosny.
 
-Rozłożyłem mapę na burcie. Droga biegła przez rzeczkę szeroką, pewną kreską. Na moje pytanie, którędy w takim razie jeżdżą wozy, Jorek obszedł platformę i wskazał niemal niewidoczną odnogę.
+Obróciłem mapę w jego stronę. Mostek nadal wyglądał na solidny. Za takie kreski sprzedawca powinien odpowiadać własną sakiewką.
 
-— Tu. Wąsko, ale nasze konie się mieszczą.
+— Którędy zatem byś pojechał?
 
-Podałem Jorkowi ołówek. Przekreślił stary mostek i dorysował drogę, którą mieliśmy pojechać.
+Jorek wskazał odnogę biegnącą wzdłuż rzeczki.
+
+— Tędy. Wąsko, ale nasze konie się mieszczą.
+
+Przez chwilę żal mi było pozwolić mu kreślić po nowym papierze. Podałem mu jednak ołówek. Przekreślił mostek i dorysował objazd. Przy rozwidleniu pierwszy przypomniałem mu, żeby tam skręcił. Uśmiechnął się i skręcił.
 
 ### Stary kamień
 
-Przed południem Veda pociągnęła za lejce przy chacie stojącej trochę w głębi lasu. Obiecała dostarczyć list jej gospodarzowi. Mężczyzna wyszedł na próg z ręką zawiniętą w fartuch, jakbyśmy oderwali go od gorącego garnka. Kiedy Veda przedstawiła nas sobie, przeniósł wzrok na mojego ptaka.
+Przed południem zatrzymaliśmy się przy chacie na skraju lasu. Veda przywiozła gospodarzowi list. Kiedy mu się przedstawiłem, od razu spojrzał na moją pierś.
 
 — Feniks — powiedział.
+
+Od rana czekałem na kogoś, kto będzie wiedział, na co patrzy.
 
 — Rozpoznaje pan znak?
 
 — Skrzydła ma całe w ogniu. A jaki inny ptak by się na to zgodził?
 
-Nazywał się Oren. Miał ślady po oparzeniach na obu dłoniach. Usiadł na progu i poprosił Vedę, żeby przeczytała mu list. Jego siostra pisała, że urodził jej się wnuk, dach znowu przecieka, a cebula w tym roku do niczego. Kiedy Veda dobrnęła do podpisu, Oren spytał jeszcze raz o imię dziecka. Przy drugim czytaniu poruszył wargami razem z nią.
+Przyznałem mu rację. Gdybym chciał, żeby emblemat wymagał długich objaśnień, kazałbym namalować same płomienie.
 
-W czasie gdy słuchali o cebuli, dostrzegłem przy drodze kamienny słup, niższy od koła wozu. Tuż nad ziemią wystawały spod mchu dwa wygięte ramiona i krótka rysa między nimi. Ukucnąłem. Gdybym obrócił głowę, rysa mogła uchodzić za ptasi dziób.
+Gospodarz miał na imię Oren. Odebrał list dłońmi poznaczonymi oparzeniami, obrócił kartkę w palcach i poprosił Vedę, żeby mu przeczytała. Siostra pisała, że doczekała się wnuka, dach znów przecieka, a cebula w tym roku do niczego. Kiedy Veda skończyła, Oren poprosił, żeby powtórzyła imię dziecka. Przy drugim czytaniu poruszał ustami razem z nią.
 
-— Ten słup zawsze tu stał? — zapytałem, kiedy Veda oddała Orenowi list.
+Czekając przy drodze, zobaczyłem kamienny słup, niższy od koła naszego wozu. Odgarnąłem mech. Na kamieniu były dwa wygięte nacięcia, oba ostro zakończone. Między nimi biegła krótka rysa. Jeśli patrzyłem z boku, widziałem skrzydła i dziób. Kiedy pochyliłem się niżej, dziób kończył się zwyczajną szczerbą.
+
+— Ten słup zawsze tu stał? — zapytałem, gdy Veda oddała Orenowi list.
 
 — Leżał przy starej drodze. Przenieśli go po osunięciu. Jak byłem chłopcem, czekaliśmy przy nim na siebie po robocie w kuźni. Jeden mówił na ten znak „płonąca kura”.
 
@@ -74,77 +92,107 @@ W czasie gdy słuchali o cebuli, dostrzegłem przy drodze kamienny słup, niższ
 
 — Pamiętam, że ukradł mi rękawice. Imię mi wyleciało.
 
-Rozwiązałem płótno i odnalazłem ozdobny inicjał, od którego ojciec zaczynał czytać mi na głos. Nad literą rozpościerały się skrzydła. *Niech płomień prowadzi, a popiół przypomina*. Znałem ten wers dłużej niż własny podpis. Położyłem książkę na kolanach i zacząłem odrysowywać kamień na osobnej kartce. Gdy doszedłem do miejsca, gdzie spod ołówka wychodził nadzwyczaj zgrabny dziób, przetarłem je kciukiem i narysowałem jeszcze raz, ze szczerbą.
+Spojrzałem na swój napierśnik. Przed wyjazdem wypolerowałem każde pióro osobno. Chciałem mu wyjaśnić różnicę między feniksem a kurą. Oren zdążył już znów spojrzeć na list.
 
-Oren patrzył mi przez ramię.
+Odwinąłem płótno i otworzyłem księgę na stronie, od której ojciec zaczynał czytać. Nad inicjałem rozpościerały się skrzydła. *Niech płomień prowadzi, a popiół przypomina*. Ojciec czytał te słowa zawsze wolniej od następnego zdania. Ja też tak je czytam, nawet po cichu.
 
-— Kogo pan szuka?
+Przyłożyłem kartkę do kamienia i odrysowałem nacięcia. Dziób wyszedł mi nadzwyczaj zgrabnie. Oren nachylił się nad moim ramieniem. Zanim zdążył go zobaczyć, starłem kciukiem ostatnią kreskę i zaznaczyłem szczerbę tak, jak ją widziałem z bliska.
 
-Miałem gotową odpowiedź o bractwie i jego zagubionych dziejach. Chciałem ją wypowiedzieć, bo ojciec byłby może zadowolony, że po tylu latach wyruszyłem w tak zaszczytnej sprawie. A może by się zaśmiał. Nigdy mu o niej nie powiedziałem.
+— Kogo pan szuka? — zapytał.
 
-— Chciałbym wiedzieć, skąd mój ojciec miał tę księgę — odpowiedziałem w końcu.
+Miałem gotową odpowiedź o dawnych rycerzach i zaszczytnej sprawie. Ułożyłem ją sobie jeszcze przed zakupem zbroi. Na progu Orena wystarczyłoby powiedzieć ją tak, jak ją sobie tyle razy powtarzałem.
 
-Oren złożył list wzdłuż starych zgięć. Gdy odjeżdżaliśmy, siedział na progu i próbował sam odnaleźć w nim imię wnuka.
+— Chciałbym wiedzieć, skąd mój ojciec miał tę księgę.
+
+Oren złożył list i wsunął go do kieszeni fartucha. Gdy wsiadałem na wóz, wyjął kartkę z powrotem. Próbował sam odnaleźć imię wnuka. Schowałem ołówek i dałem mu spokój.
 
 ### Na drodze
 
-Za chatą Orena droga zwężała się między lasem a rowem. Jechałem na tylnej burcie. Właśnie chowałem odrys do księgi, kiedy Jorek tak gwałtownie ściągnął lejce, że uderzyłem łokciem o deski.
+Za chatą Orena las podchodził pod samą drogę. Po drugiej stronie ciągnął się rów. Siedziałem na tylnej burcie z odrysem na kolanach. Chciałem dopisać przy szczerbie, pod jakim kątem właściwie ją widziałem, ale Jorek szarpnął lejce i uderzyłem łokciem o deski.
 
-Dwóch ludzi zastąpiło nam drogę. Ten z siekierą stanął przed końmi. Drugi przeszedł wzdłuż zaprzęgu, od strony lasu, aż znalazł się pod kozłem. Obejrzałem się. Za wozem trzeci człowiek wyszedł na drogę z nożem w ręku.
+Przed końmi stał człowiek z siekierą. Drugi przeszedł wzdłuż zaprzęgu od strony lasu i zatrzymał się pod kozłem. Obejrzałem się. Za wozem, na środku drogi, trzeci trzymał nóż opuszczony wzdłuż uda. Wybrali sobie miejsce z pewną znajomością rzeczy. Chętnie powiedziałbym im, co sądzę o takim używaniu talentu, gdybym mógł patrzeć na całą trójkę naraz.
 
 — Skrzynię zdejmijcie — powiedział ten przy koźle.
 
 — Są w niej części do pompy — odparła Veda. — Komu je sprzedacie tutaj? Ludziom, którzy właśnie na nie czekają?
 
-Mężczyzna chwycił ją za kostkę. Wcisnąłem księgę do sakwy, zeskoczyłem z burty i puściłem ogień między jego buty a koło. Chciałem, żeby odskoczył od wozu. Puścił Vedę i cofnął się pod drzewa, ale płomień poszedł za wysoko. Róg plandeki zajął się tuż nad kołem. Zdusiłem ogień na płótnie. W tej samej chwili lewy koń uskoczył od żaru i pociągnął drugiego za sobą. Jorek próbował ściągnąć zaprzęg na środek drogi, lecz tylne koło zsunęło się z pobocza.
+Chwycił ją za kostkę. Wcisnąłem odrys do księgi, księgę do sakwy i zeskoczyłem po stronie lasu. Posłałem ogień między jego buty a koło. Puścił Vedę i uskoczył pod drzewa. Chciałem, żeby płomień przeszedł tuż nad ziemią. Poszedł aż pod plandekę.
 
-Veda zeskoczyła od strony rowu. Ziemia pod kołem osypywała się z każdym szarpnięciem zaprzęgu. Przyłożyła do niej dłoń. Spod obręczy wysunęły się dwa kamienie i zaklinowały koło. Skrzynia uderzyła od środka o burtę. Trzymały ją jeszcze pasy.
+Zdusiłem ogień na płótnie. Lewy koń już odskakiwał od żaru. Pociągnął drugiego za sobą i zanim Jorek zdążył wyprowadzić zaprzęg na środek drogi, tylne koło zjechało z pobocza.
 
-Usłyszałem kroki od strony koni. Człowiek z siekierą dobiegł do mnie, zanim podniosłem tarczę. Ostrze ześlizgnęło się po naramienniku, a rzemień, który rano zawiązałem, puścił. Naramiennik upadł pod wóz. Następny cios przyjąłem tarczą. Uderzenie odrzuciło mi rękę, ale zdążyłem zrobić krok naprzód. Napastnik musiał się cofnąć, żeby znowu wziąć zamach. Wyciągnąłem miecz.
+Veda zeskoczyła od strony rowu. Ziemia obsuwała się spod obręczy z każdym szarpnięciem koni. Przyłożyła dłoń do skarpy. Dwa kamienie wysunęły się spod ziemi i podparły koło. Skrzynia wpadła na burtę, aż pasy jęknęły.
 
-Wtedy za plecami trzasnął pas. Odwróciłem głowę. Człowiek z nożem stał już przy tylnej burcie i sięgał po drugi. Cofnąłem się wzdłuż wozu, trzymając ostrze w stronę siekiery. Przy tylnym kole odwróciłem miecz ku człowiekowi z nożem. Puścił pas i odstąpił. Zostałem przy burcie. Widziałem stamtąd obu.
+Usłyszałem kroki od strony zaprzęgu. Człowiek z siekierą dopadł mnie, zanim zdążyłem podnieść tarczę. Ostrze przejechało po naramienniku. Rzemyk, którego służbę przedłużyłem rano, puścił od razu. Usłyszałem, jak blacha upada pod wóz.
 
-— Jorek, spokojnie — powiedziała Veda. — Trzymaj tak, jak trzymasz.
+Następny cios zatrzymałem na tarczy. Napastnik cofnął się, żeby wziąć zamach, a ja wreszcie dobyłem miecza. Wtedy z tyłu trzasnął pas. Zerknąłem za siebie. Człowiek z nożem stał już przy skrzyni i brał w rękę drugi.
 
-Jorek wciąż siedział na koźle z lejcami zaciśniętymi w obu dłoniach. Słyszałem, jak mówi coś do koni. Powtarzał to samo, coraz ciszej. Żaden z nich już nie szarpał.
+Cofnąłem się wzdłuż burty, z mieczem zwróconym ku siekierze. Przy tylnym kole mogłem spojrzeć prosto na rękę z nożem. Wyciągnąłem miecz w jej stronę. Człowiek puścił pas i się odsunął. Ten z siekierą wciąż stał przede mną, kilka kroków dalej. Zostałem przy kole. Ogień miałem na wyciągnięcie dłoni. Nad skrzynią wciąż dymił kawałek płótna. Wystarczyło mi raz zobaczyć, co jeden płomień potrafi zrobić z całym zaprzęgiem.
 
-Od strony zakrętu za nami dobiegł turkot kół. Ktoś zawołał, żebyśmy zrobili miejsce. Mężczyzna, którego odgoniłem ogniem, gwizdnął spomiędzy drzew. Człowiek z siekierą pierwszy ruszył w jego stronę. Ten z nożem pobiegł za nim. Zostałem przy skrzyni, dopóki nie ucichły ich kroki.
+— Jorek, trzymaj tak, jak trzymasz — powiedziała Veda.
 
-Na zakręcie stał drugi wóz. Woźnica czekał, aż zrobimy mu przejazd. Wdrapałem się na platformę i pociągnąłem za uchwyt skrzyni, a Veda pchnęła ją od strony rowu. Kiedy skrzynia znalazła się na środku, Jorek podał nam zapasowy pas. Veda podsunęła płaski kamień przed koło. Jorek poprowadził po nim wóz tak wolno, że widziałem każdy obrót obręczy. Kiedy wyjechał z rowu, podniosłem naramiennik z koleiny i przywiązałem go do burty.
+Jorek siedział na koźle, sztywno wyprostowany, z lejcami w obu dłoniach. Słyszałem, jak powtarza koniom coś cicho. Oba stały już spokojnie.
 
-— Nic ci nie jest? — zapytałem Jorka.
+Za zakrętem zadudniły koła. Ktoś zawołał, żebyśmy zrobili przejazd. Z lasu odpowiedział gwizd. Człowiek z siekierą spojrzał na tego z nożem, po czym ruszył pod drzewa. Drugi pobiegł za nim. Przez chwilę jeszcze słyszałem ich kroki. Miecz schowałem dopiero wtedy, gdy ucichły.
 
-Pokręcił głową. Wciąż patrzył przed siebie. Veda wzięła od niego lejce i powiedziała, że teraz może usiąść obok niej.
+Woźnica z drugiego wozu czekał na zakręcie. Wdrapałem się na platformę i złapałem za uchwyt skrzyni. Veda pchnęła ją od strony rowu. Kiedy przesunęliśmy ją na środek i założyliśmy zapasowy pas, podsunęła płaski kamień przed koło. Jorek poprowadził po nim konie, powoli, żeby obręcz nie ześlizgnęła się z krawędzi. Nigdy jeszcze tak uważnie nie przyglądałem się jednemu obrotowi koła.
 
-Potem odchyliła przypalony róg plandeki. W miejscu, gdzie płótno dotykało sprzączki, została dziura szeroka na dwa palce.
+Podniosłem naramiennik z koleiny. Dało się go jeszcze wyczyścić. Przywiązałem go do burty, gdzie przynajmniej nie musiał udawać, że się trzyma.
 
-— Jak zacznie padać, przykryjemy skrzynię płaszczem — powiedziała. — Niech pan sprawdzi, czy pas trzyma.
+— Nic ci nie jest? — spytałem Jorka.
 
-Sprawdziłem. Dopiero kiedy zerknęła, czy sam dociągnąłem sprzączkę, podała mi dwie gruszki. Obitą zjadłem w drodze. Drugą schowałem na wieczór.
+Pokręcił głową. Nadal trzymał lejce tak mocno, że zbielały mu knykcie. Veda wzięła je od niego i zrobiła mu miejsce obok siebie. Potem odchyliła róg plandeki. Przy sprzączce została dziura szeroka na dwa palce.
+
+Właśnie układałem zdanie o tym, że przy ratowaniu damy trudno zwracać uwagę na płótno. Przypomniałem sobie, jak konie szarpnęły wóz w stronę rowu.
+
+— To od mojego ognia — powiedziałem.
+
+— Widziałam. Jak zacznie padać, przykryjemy skrzynię płaszczem. Niech pan sprawdzi, czy pas trzyma.
+
+Pociągnąłem za pas. Veda zrobiła to samo, a potem wyjęła z koszyka dwie gruszki. Przyjąłem je z ukłonem i od razu poczułem łokieć obity o burtę. Zjadłem po drodze tę obitą. Drugą schowałem na wieczór.
 
 ### Księga
 
-W osadzie ludzie od pompy unieśli wieko skrzyni jeszcze przy wozie. Przynosili kolejno żelazne części do światła. Veda wypłaciła mi umówionego selena i dołożyła drobne na pasek. Próbowałem odmówić. Wtedy podała mi naramiennik, który aż do końca drogi wiozłem przywiązany do burty. Wziąłem pieniądze. Odczepiła też od plandeki sprzączkę, nad którą zostało przypalone płótno. Przetarła dziurę kciukiem, aż z brzegu sypnął się popiół.
+W górnej osadzie ludzie od pompy podeszli do wozu, zanim koła przestały się obracać. Jeden wyciągnął ze skrzyni żelazną część i przyłożył ją do tej, którą przyniósł z warsztatu. Pasowały. Zawołał kogoś po klucz, a ja po raz pierwszy tego dnia mogłem oprzeć się o burtę i patrzeć, jak inni się spieszą.
 
-— A jeśli dalej będzie pan jeździł za tym ptakiem — powiedziała, wskazując na zawiniątko z księgą — w Aurelu przechowują stare spisy ze szlaku. Zdarzyło mi się tam odzyskać rachunek za ładunek, który wszyscy mieli za zaginiony. Niech pan pyta o Lumen.
+Veda wypłaciła mi umówionego selena i dołożyła kilka drobnych.
 
-Podała mi brudną od ołówka kartkę z adresem składu przy wschodniej bramie Val Meris.
+— To na pasek.
 
-— Pod koniec maja wiozę do Val Meris okucia do wież na Igrzyska. Po rozładunku chcę się zgłosić do kwalifikacji.
+Zamknąłem dłoń na selenie. Drobne próbowałem jej oddać. Po tym, co zrobiłem z plandeką, trudno mi było wyciągać rękę po coś więcej.
 
-Schowałem kartkę. Veda wskazała mój naramiennik.
+Veda odwiązała naramiennik od burty i podała mi go razem z pieniędzmi.
+
+— Na tej drodze jeszcze się panu przyda.
+
+Spojrzałem na zerwany rzemień. Rano uważałem, że zasługuje na zaufanie. Po południu zasłużył już chyba na odpoczynek. Wziąłem drobne.
+
+Veda odpięła sprzączkę od przypalonego rogu plandeki i roztarła brzeg dziury między palcami. Posypał się popiół. Chciałem zaproponować, że zapłacę za łatę. Zanim się odezwałem, wskazała zawiniątko wystające z mojej sakwy.
+
+— Jeśli dalej będzie pan jeździł za tym ptakiem, niech pan spróbuje w Aurelu. Przechowują tam stare spisy ze szlaku. Mnie znaleźli rachunek za ładunek, który wszyscy mieli już za zaginiony. Proszę pytać o Lumen.
+
+Podała mi też kartkę z adresem składu przy wschodniej bramie Val Meris.
+
+— Pod koniec maja wiozę tam okucia do wież na Igrzyska. Po rozładunku chcę się zgłosić do kwalifikacji.
+
+— Powinienem był się domyślić, że lubi pani trudne drogi.
 
 — Mam też ładunek na powrót. Może mi się przydać ktoś do ochrony. Jeśli będzie pan szukał roboty w Val Meris, proszę zajrzeć do składu. Tylko proszę wcześniej wymienić pasek.
 
-W izbie nad stajnią przyłożyłem odrys do inicjału. Przesuwałem kartkę po księdze tak długo, aż przynajmniej jedno skrzydło przylegało do drugiego. Ojciec trzymał książkę na stole przy piecu i czytał mi z niej, kiedy musiałem siadać na dwóch poduszkach, żeby widzieć rysunek. Pewnego ranka zszyliśmy pęknięty grzbiet. Ojciec otworzył księgę od początku i przeciągnął palcem po pustym miejscu pod tytułem.
+— Gdzie tu sprzedają rzemienie? — zapytałem, chowając adres.
+
+Wieczorem w izbie nad stajnią rozłożyłem księgę na stole i przyłożyłem do niej odrys. Przesunąłem kartkę w lewo. Jedno skrzydło niemal się zgadzało. Kiedy dopasowałem drugie, pierwsze przestało. Próbowałem jeszcze trochę, choć przy każdym ruchu wiedziałem lepiej, co próbuję zrobić.
+
+Ojciec czytał mi przy kuchennym stole. Siadałem na dwóch poduszkach, żeby widzieć rysunki. Pewnego ranka zszyliśmy pęknięty grzbiet. Ojciec otworzył księgę od początku i przesunął palcem po pustym miejscu pod tytułem.
 
 — Kiedy ta książka do mnie trafiła…
 
 — Tato. Czytaj, jak stali na moście.
 
-Pamiętałem, w którym zdaniu zawaliła się pierwsza belka. Mogłem przeczytać je z pamięci. Ojciec spojrzał na mnie, potem przewrócił tyle kartek, ile trzeba było. Słyszę do dziś, jak przyciszył głos, żeby jeden z rycerzy mógł powiedzieć coś tylko drugiemu. Nie potrafię sobie przypomnieć, czy wcześniej wskazał miejsce pod tytułem jednym palcem, czy dwoma.
+Pierwszą część tej historii umiałem już na pamięć. Wiedziałem, kto stał najbliżej brzegu i w którym zdaniu pękła belka. Chciałem usłyszeć to od niego. Ojciec spojrzał na mnie, przytrzymał jeszcze przez chwilę palec pod tytułem i przewrócił kartki. Słyszę do dziś, jak przyciszył głos, żeby jeden z rycerzy mógł powiedzieć coś tylko drugiemu. Tego, od czego zamierzał zacząć przedtem, nie umiem sobie dopowiedzieć.
 
-Odłożyłem odrys. Zapisałem na odwrocie, gdzie stał słup, i dodałem nazwę archiwum w Aurelu. Za ścianą ktoś zawołał o nóż do chleba. Przypomniałem sobie o drugiej gruszce. Zjadłem ją nad otwartą księgą, z ręką pod brodą, żeby sok nie spadł na papier.
+Odłożyłem odrys obok księgi. Na odwrocie zapisałem, gdzie stał słup, i dopisałem imię Lumen. Jeszcze raz popatrzyłem na szczerbę. Mogłem ją wygładzić jednym ruchem ołówka. Zostawiłem ją tak, jak była.
+
+Wyjąłem drugą gruszkę. Zjadłem ją nad otwartą księgą, z dłonią pod brodą, żeby ani kropla nie spadła na papier.
 
 ## II. Ślady w popiele
 
