@@ -2,6 +2,8 @@
 
 Każdy bohater ma swój katalog, a każda część osobny podkatalog nazwany w formacie `<numer>_<english_title>`: numer części (`1_`, `2_`, `3_` itd.), a po nim angielski tytuł zapisany małymi literami i z podkreśleniami. W nim edytuj `historia.pl.md`. Pierwszy nagłówek `#` to tytuł, a `##` rozpoczyna rozdział. Zachowuj puste linie między akapitami.
 
+Pod nagłówkiem każdego rozdziału podaj datę z rokiem i erą oraz miejsce akcji. Przed pisaniem lub redakcją przeczytaj [złote zasady pisania opowieści](DOCELOWY_FORMAT.md#złote-zasady-pisania-opowieści).
+
 Opcjonalne tłumaczenie zapisz obok jako `historia.en.md`, w tym samym układzie. Dopóki go nie ma, czytnik nie oferuje angielskiej wersji. Nie wpisuj polskiego tekstu do angielskiego pliku jako zastępnika.
 
 Ilustrację wstaw w obu tekstach znacznikiem `<!-- ilustracja: 01 -->`. W `ilustracje.json` zapisz numer, opis alternatywny `alt` i opcjonalnie `altEn`. Znacznik z `pending: true` rezerwuje miejsce bez wyświetlania pustego obrazka. Gotowy plik `01.jpg` umieść w podfolderze `ilustracje` obok tekstu i usuń `pending: true`; skrypt skopiuje go do zasobów Unity. Ilustracja jest wspólna dla obu języków.

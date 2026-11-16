@@ -7,4 +7,5 @@
 
 ## Proza Riftoryn
 
+- Przy pisaniu, redakcji i ocenie opowiadań Riftoryn stosuj [złote zasady pisania opowieści](opowiadania/DOCELOWY_FORMAT.md#złote-zasady-pisania-opowieści). Każdy rozdział wymaga daty z rokiem i erą oraz miejsca akcji.
 - Przy pisaniu, redakcji i ocenie opowiadań Riftoryn przeczytaj i zastosuj [riftoryn-prose-logic-audit](.cursor/skills/riftoryn-prose-logic-audit/SKILL.md).

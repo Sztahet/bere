@@ -1,0 +1,11 @@
+---
+description: Złote zasady pisania, redagowania i oceny opowieści Riftoryn.
+globs: "opowiadania/**/historia.*.md"
+alwaysApply: false
+---
+
+# Złote zasady pisania opowieści Riftoryn
+
+Stosuj zasady w [opowiadania/DOCELOWY_FORMAT.md](../../opowiadania/DOCELOWY_FORMAT.md) i przeprowadź [audyt sensu prozy](../skills/riftoryn-prose-logic-audit/SKILL.md).
+
+Pod nagłówkiem każdego rozdziału umieść w osobnej linii datę z rokiem i erą oraz miejsce akcji. Przykład `28 maja, 12 ET · Val Meris`.
