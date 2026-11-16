@@ -30,9 +30,11 @@ Oberżysta skinął głową. Kobieta zwinęła skórkę w palcach i odłożyła 
 
 — To resztę opowie mi pan po drodze.
 
-Przy jej łokciu stał koszyk gruszek. Pachniały tak słodko, że przez chwilę nie mogłem oderwać od nich wzroku. Veda przysunęła koszyk do siebie.
+Przy jej łokciu stał koszyk gruszek. Pachniały tak słodko, że przez chwilę nie mogłem oderwać od nich wzroku.
 
-— Gruszki rozdaję po pracy.
+— Na gruszkę może pan liczyć po robocie. Ani chwili wcześniej.
+
+Veda chwyciła koszyk, wstała i ruszyła do drzwi.
 
 Na podwórzu jej pomocnik, Jorek, dociskał skrzynię do platformy kolanem, żeby Veda mogła dociągnąć pasy. Kiedy skończyła, oparła o burtę kartę przewozową na drewnianej podkładce. Wpisała naszą trójkę. Przy moim imieniu dopisała drobnymi literami „Bractwo Feniksa” i podała mi ołówek.
 
