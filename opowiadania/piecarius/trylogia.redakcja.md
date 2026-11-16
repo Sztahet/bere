@@ -120,7 +120,7 @@ W osadzie ludzie od pompy unieśli wieko skrzyni jeszcze przy wozie. Przynosili 
 
 — A jeśli dalej będzie pan jeździł za tym ptakiem — powiedziała, wskazując na zawiniątko z księgą — w Aurelu przechowują stare spisy ze szlaku. Zdarzyło mi się tam odzyskać rachunek za ładunek, który wszyscy mieli za zaginiony. Niech pan pyta o Lumen.
 
-Podała mi brudną od ołówka kartkę z adresem składu przy wschodniej bramie Val Meris. W maju miała tam rozładować części i zabrać następny ładunek. Wyjazd z miasta prowadził odcinkiem, na którym przydałby się ktoś jeszcze prócz Jorka.
+Podała mi brudną od ołówka kartkę z adresem składu przy wschodniej bramie Val Meris. W maju jechała tam z okuciami z kuźni w Kharum. Zamówił je warsztat, który stawiał wieże na Igrzyska. W drodze powrotnej Veda miała rozwozić skrzynie z narzędziami po osadach Kharum. Na tym odcinku przydałby się ktoś jeszcze prócz Jorka.
 
 — Jeśli będzie pan w mieście, proszę zajść. Zobaczymy, czy zdąży pan do tego czasu naprawić pasek.
 
@@ -438,11 +438,33 @@ Przesypałem resztę drobnych do drugiej ręki. Do zamknięcia urzędu było jes
 
 — Sam przyszedłem.
 
-Thora sięgnęła po tarczę. Przez resztę dnia miała jeszcze obejrzeć, jak trenują drużyny pod większą wieżą. Pożegnałem się z nią i poszedłem pod wschodnią bramę.
+Thora sięgnęła po tarczę. Przez resztę dnia miała jeszcze obejrzeć, jak trenują drużyny pod większą wieżą. Pożegnałem się z nią i poszedłem do urzędu, póki wciąż przyjmowano zgłoszenia.
+
+### Zgłoszenie
+
+Przed urzędem zostały trzy osoby. Gdy przyszła moja kolej, ten sam urzędnik co wczoraj podał mi formularz. Wpisałem swoje imię. Przy następnej rubryce zapytał, po której stronie chcę wystąpić, jeżeli przejdę kwalifikacje.
+
+— Po stronie wspólnego nadzoru Rady.
+
+Myślałem o człowieku, który nazajutrz znów przyjedzie z Vareth, położy przed monterem świadectwo i będzie stał przy skrzyni, dopóki ktoś nie ustali, co właściwie potwierdza pieczęć. Chciałem, żeby warunki sprawdzenia ustalano wspólnie i podawano, zanim wóz ruszy w drogę. W ogłoszonych zasadach doczytałem też, że od decyzji Rady można się odwołać do arbitrów. Tę część przeczytałem dwa razy.
+
+— Którą krainę chce pan reprezentować?
+
+— Vareth.
+
+Powiedziałem to bez namysłu. Po zamknięciu oczu wciąż mógłbym znaleźć pogrzebacz w kuchni ojca. Zazwyczaj zostawiał go oparty o piec, z uchwytem zwróconym do drzwi.
+
+— Drużyna lub organizacja, jeżeli jest — dodał urzędnik.
+
+Miałem księgę przy sobie. Podtrzymałem ją łokciem, żeby płótno nie zsunęło się z okładki.
+
+— Przysięgę Feniksa złożyłem sam, według księgi po ojcu. Nikt mnie nie pasował. Proszę wpisać tylko moje imię.
+
+Urzędnik przepisał je na listę. Przy przynależności postawił kreskę. Podał mi kartkę z terminem kwalifikacji. Dwudziesty dziewiąty maja. Za mną podszedł do stołu kolejny kandydat. Zrobiłem mu miejsce i schowałem kartkę do kieszeni, obok adresu Vedy.
 
 ### Pokwitowanie
 
-Plandekę poznałem po łacie. Veda przyszyła ją nicią jaśniejszą od płótna. Pod wozem stała sterta pustych skrzyń, a na jednej z nich rozłożyła karty przewozowe.
+Pod wschodnią bramą poznałem wóz po łacie na plandece. Veda przyszyła ją nicią jaśniejszą od płótna. Jorek liczył puste skrzynie po okuciach, które odebrał cieśla z warsztatu przy arenie. Veda rozłożyła na burcie karty przewozowe. Sprawdzała, ile skrzyń z narzędziami zmieści w drodze powrotnej.
 
 — Pasek pan naprawił — powiedziała.
 
@@ -452,13 +474,13 @@ Plandekę poznałem po łacie. Veda przyszyła ją nicią jaśniejszą od płót
 
 Poprawiłem węzeł odruchowo. Veda wydobyła spod papierów pakunek na moje imię. Rozpoznałem odręczne pismo Lumen, choć archiwistka napisała je tak starannie, że równie dobrze mogłoby pochodzić z druku. Wyciągnąłem rękę. Przy kciuku Vedy leżała nowa karta. Moje imię już na niej było, wpisane jasnym ołówkiem jak coś, co można jeszcze zetrzeć.
 
-— Na karcie, którą podpisałem w Kharum, zostało Bractwo Feniksa — powiedziałem. — Muszę pani coś o nim powiedzieć, zanim podpiszę następną.
+— Przyszedłem w sprawie karty, którą podpisałem w Kharum — powiedziałem. — Nadal jest na niej Bractwo Feniksa.
 
 Veda odłożyła list na skrzynię.
 
 — Słucham.
 
-— Nikt mnie nie pasował. Po śmierci ojca otworzyłem jego księgę i przeczytałem słowa przysięgi na głos. Byłem sam. Nie znam nikogo, kto mógłby potwierdzić, że należę do Bractwa.
+— W urzędzie właśnie zgłosiłem się we własnym imieniu. Na karcie w Kharum też powinno zostać samo imię. Podpisałem ją, choć nikt z Bractwa za mnie nie ręczy.
 
 Veda podniosła nową kartę. Wiatr próbował ją zagiąć, więc przycisnęła narożnik klamrą.
 
@@ -496,29 +518,9 @@ Przez chwilę trzymałem pod kciukiem kwit. Już miałem powiedzieć: „Znalaz�
 
 Nie rozwiązałem płótna, żeby pokazać Vedze, jak bardzo. Plombę ułożyłem na kwicie w miejscu, w którym sznurek zostawił odcisk. Na osobnej kartce przepisałem imię Tovina i nazwę osady, z której wyruszył tamten wóz. Po raz pierwszy miałem na mapie miejsce związane z człowiekiem, którego szukałem. Aż do tej chwili nie zastanawiałem się, o co zapytam, kiedy tam przyjadę bez pewności, że pytam o właściwego ptaka.
 
-Zwinąłem kwit i plombę w papier. Veda rozsunęła listy tak, żeby oba pakunki, do Kharum i do Aurelu, nie znalazły się pod tym samym sznurkiem. Spytałem ją, czy zdążę jeszcze do urzędu. Spojrzała na plac.
-
-— Piechotą tak. Niech pan idzie przez plac z wagą. Przy studni stoją wozy jeden za drugim.
+Zwinąłem kwit i plombę w papier. Veda rozsunęła listy tak, żeby oba pakunki, do Kharum i do Aurelu, nie znalazły się pod tym samym sznurkiem. Jorek zapytał, czy ma przygotować na powrót trzy miejsca na koźle. Veda powiedziała, żeby na razie przygotował dwa. Zanim odszedłem od wozu, podałem mu podkładkę z kartami przewozowymi.
 
 ### Przysięga
-
-Przed urzędem zostały trzy osoby. Gdy przyszła moja kolej, ten sam urzędnik co wczoraj podał mi formularz. Wpisałem swoje imię. Przy następnej rubryce zapytał, po której stronie chcę wystąpić, jeżeli przejdę kwalifikacje.
-
-— Po stronie wspólnego nadzoru Rady.
-
-Myślałem o człowieku, który nazajutrz znów przyjedzie z Vareth, położy przed monterem świadectwo i będzie stał przy skrzyni, dopóki ktoś nie ustali, co właściwie potwierdza pieczęć. Chciałem, żeby warunki sprawdzenia ustalano wspólnie i podawano, zanim wóz ruszy w drogę. W ogłoszonych zasadach doczytałem też, że od decyzji Rady można się odwołać do arbitrów. Tę część przeczytałem dwa razy.
-
-— Którą krainę chce pan reprezentować?
-
-— Vareth.
-
-Powiedziałem to bez namysłu. Po zamknięciu oczu wciąż mógłbym znaleźć pogrzebacz w kuchni ojca. Zazwyczaj zostawiał go oparty o piec, z uchwytem zwróconym do drzwi.
-
-— Drużyna lub organizacja, jeżeli jest — dodał urzędnik.
-
-— Zgłaszam się sam.
-
-Urzędnik wpisał moje zgłoszenie na listę i podał mi kartkę z terminem kwalifikacji. Sprawdziłem datę. Dwudziesty dziewiąty maja. Złożyłem kartkę i odszedłem od stołu. Tyle miałem w ręku i z tym mogłem wrócić do gospody.
 
 Wieczorem położyłem przy świecy kartkę z terminem i otworzyłem księgę. Kiedy po śmierci ojca przysięgałem przy kuchennym stole, przeczytałem ostatnią stronę na głos. Przy jednej linijce brakowało kawałka papieru. Jako dziecko w każdej tej przerwie prosiłem ojca, żeby wstawił jakieś słowo. Tamtego wieczoru stałem i czekałem, jakbym jeszcze mógł usłyszeć, że jednak jakieś znalazł.
 
