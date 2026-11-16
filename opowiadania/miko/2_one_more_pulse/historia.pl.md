@@ -26,7 +26,7 @@ Varek wyznaczyła dwa okna, z których można było przekazywać sygnał ekipie 
 
 ## Szybka pomyłka
 
-Regulator był tylko jednym z przyrządów, które przywiozłem do Zerath. Po próbach z krążkiem w Aurelu zbudowałem też cewkę mocowaną do rękawicy. Sam wyzwalałem impuls, który wtedy pojawił się przypadkiem. Przy prostym chwycie ręka ruszała szybciej. Teraz chciałem się przekonać, czy zdołam szybciej dobiec do modelu i przełożyć właściwy przewód.
+Regulator był tylko jednym z przyrządów, które przywiozłem do Zerath. Po próbach ze spadającą blaszką w Aurelu zbudowałem też cewkę mocowaną do rękawicy. Mogłem sam wyzwalać impuls, który wtedy pojawił się przypadkiem. Przy prostym chwycie ręka ruszała szybciej. Teraz chciałem się przekonać, czy zdołam szybciej dobiec do modelu i przełożyć właściwy przewód.
 
 Na stole leżały dwa przewody. Miałem wpiąć ten z białą opaską, zanim wskazówka dojdzie do zera. Jeśli podepnę właściwy przewód na czas, lampka na modelu zostanie zapalona. Pokazałem Varek wyłącznik.
 

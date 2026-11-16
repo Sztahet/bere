@@ -12,37 +12,37 @@ Adrien wszedł do pracowni z kartą pomiarową. Zauważył skrzynkę i zapytał,
 
 — To ustal, kto będzie patrzył.
 
-Adrien stanął na drugim końcu stołu i oparł kartę o blat. Dokręciłem zacisk przy lampce i położyłem szpadę pod ścianą. Przy pierwszej próbie lampka ledwo się zajarzyła. Za drugim razem błysnęła, gdy Adrien akurat pochylał się nad kartą.
+Adrien stanął na drugim końcu stołu. Odstawiłem szpadę pod ścianę i włączyłem lampkę. Ledwo się zajarzyła. Przed żarzącym się kryształem była okrągła blaszka, która zasłaniała część światła. Chciałem ją przesunąć, żeby następny błysk był lepiej widoczny.
 
-— Widziałeś?
+Gdy Adrien zapisywał wynik pierwszej próby, prawą ręką przytrzymałem obudowę, a lewą pchnąłem blaszkę w bok. Zacisk puścił i blaszka zaczęła spadać. W tej samej chwili iskra z obudowy przeskoczyła mi na prawą dłoń. Puściłem lampkę i odruchowo chwyciłem blaszkę, nim dotknęła stołu. Poczułem szarpnięcie w ramieniu. Ostra krawędź rozcięła mi palec.
 
-— Widziałem, że pytasz.
+Adrien wyłączył lampkę. Położyłem blaszkę na stole. Prawa dłoń wciąż mi drżała.
 
-Przy lampce była przesłona z mosiężnego krążka. Sięgnąłem, żeby ją odchylić i odsłonić więcej światła. Zacisk puścił. Poczułem ukłucie w prawej dłoni i zobaczyłem, jak krążek wysuwa się z prowadnicy. Odruchowo po niego sięgnąłem. Chwyciłem go, zanim zdążyłem opuścić wzrok na własną rękę. Krawędź rozcięła mi palec. Kiedy spróbowałem rozluźnić chwyt, dłoń zaczęła mi drżeć.
+— Widziałeś, jak szybko ją złapałem?
 
-Adrien odciął zasilanie i podsunął mi miskę. Upuściłem do niej krążek.
+— Podniosłem głowę, kiedy już ją trzymałeś. Pokaż palec.
 
-— Widziałeś, że go złapałem?
+Adrien owinął mi palec bandażem. Pokazałem mu, gdzie trzymałem prawą rękę, gdy blaszka wypadła. Żeby ją złapać, musiałem sięgnąć z boku lampki aż przed nią. Przy szermierce wiedziałem, ile czasu zajmuje mi taki ruch. Teraz wydał mi się o wiele krótszy.
 
-— Kiedy podniosłem głowę, już go trzymałeś. Pokaż palec.
+— Myślisz, że to przez iskrę? — spytał Adrien.
 
-Adrien przyniósł bandaż. Kiedy owinęliśmy palec, narysowałem na odwrocie karty brzeg skrzynki. Zaznaczyłem, gdzie mniej więcej złapałem krążek. Chciałem też zapisać czas od upuszczenia do chwytu, ale przecież niczego wtedy nie mierzyliśmy.
+— Spróbuj upuścić blaszkę jeszcze raz. Zobaczymy, czy bez iskry też zdążę.
 
 ## Próba bez zasilania
 
-Odłączyliśmy skrzynkę. Adrien puszczał krążek, a ja próbowałem go łapać. Za trzecim razem jego kciuk drgnął tuż przed tym, jak puścił krążek. Przy następnej próbie sięgnąłem, gdy tylko zobaczyłem ten ruch. Adrien przytrzymał krążek odrobinę dłużej, więc zamknąłem palce na powietrzu.
+Wyjęliśmy kryształ z lampki. Trzymałem prawą dłoń w tym samym miejscu co przedtem. Adrien upuszczał blaszkę tuż przed lampką, a ja próbowałem ją złapać, zanim uderzy o blat. Przy trzeciej próbie zauważyłem, że tuż przed wypuszczeniem blaszki drgał mu kciuk. Następnym razem sięgnąłem, gdy zobaczyłem ten ruch. Adrien przytrzymał blaszkę odrobinę dłużej. Zacisnąłem palce na powietrzu.
 
-— Jeśli patrzysz na moją rękę, mierzysz też to, jak dobrze mnie znasz — powiedział.
+— Zaczynasz sięgać, zanim ją puszczę — powiedział Adrien.
 
-Ułożyłem krążek na podpórce na tej samej wysokości co prowadnica. Przywiązałem nitkę do podpórki. Adrien pociągał za nią zza parawanu, a ja widziałem krążek dopiero w chwili, gdy zaczynał spadać. Przyłożyłem do krawędzi stołu linijkę. Najwyżej udało mi się go złapać tuż pod blatem. Przy lampce zacisnąłem na nim palce jeszcze powyżej blatu.
+Położyliśmy blaszkę na podpórce na wysokości, z której wypadła. Adrien wysuwał podpórkę za nitkę, żebym nie widział jego ręki. Teraz za każdym razem blaszka uderzała w stół. Za drugim razem zdążyłem jej dotknąć, ale wysunęła mi się spomiędzy palców.
 
-Chciałem zasilić lampkę i sprawdzić, czy znów poczuję ukłucie. Adrien spytał, kto wyłączy zasilanie, jeśli ręka zesztywnieje mi podczas próby. Wskazałem wyłącznik po jego stronie stołu.
+Chciałem zasilić lampkę i sprawdzić, czy znów poczuję ukłucie. Adrien spytał, kto wyłączy zasilanie, jeśli ręka zesztywnieje mi podczas próby. Wskazałem mu wyłącznik za lampką.
 
 — To znaczy, że ja odetnę — powiedział. — Jeszcze się na to nie zgodziłem.
 
-Przesunęliśmy wyłącznik na koniec stołu. Adrien mógł go teraz dosięgnąć zza parawanu, z dala od przewodów. Zgodził się go pilnować, jeśli włożę słabiej naładowany kryształ. Spojrzałem na bandaż. Z zapasowej skrzynki wyjąłem kryształ, którego używaliśmy do sprawdzania styków.
+Przesunęliśmy wyłącznik na drugi koniec stołu, żeby Adrien mógł go dosięgnąć bez pochylania się nad lampką. Zgodził się go pilnować, jeśli włożę słabiej naładowany kryształ. Spojrzałem na bandaż. Z zapasowej skrzynki wyjąłem kryształ, którego używaliśmy do sprawdzania styków.
 
-Ledwie włączyliśmy lampkę, mocowanie zaczęło drżeć. Adrien odciął zasilanie, zanim puścił krążek. Kiedy podeszliśmy do skrzynki, prowadnica wisiała krzywo. Przy zacisku zobaczyłem wolne miejsce pod łbem śruby. Wyjąłem podkładkę z kieszeni. Pasowała.
+Ledwie włączyliśmy lampkę, mocowanie zaczęło drżeć. Adrien wyłączył ją, zanim zdążyliśmy powtórzyć próbę. Przyjrzałem się śrubie, która trzymała zacisk. Pod łbem nie było podkładki. Wyjąłem tę z kieszeni i przyłożyłem ją do śruby. Pasowała.
 
 ## Dziedziniec
 
@@ -66,6 +66,6 @@ Usiadłem obok niego i położyłem szpadę na kolanach. Miałem w kieszeni kart
 
 — Przeczytam plan. Potem ci powiem.
 
-Wieczorem narysowałem plan próby. Zaznaczyłem wyłącznik i miejsce dla drugiej osoby. Stamtąd miała widzieć krążek i moją dłoń. Pod wynikami dopisałem, że przy lampce krążek prawdopodobnie złapałem wyżej niż przy odłączonej skrzynce. Przy kolejnych próbach chciałem mierzyć wysokość za każdym razem, także z włączonym zasilaniem.
+Wieczorem narysowałem plan próby. Zaznaczyłem wyłącznik i miejsce, z którego Adrien mógł widzieć spadającą blaszkę i moją dłoń. Chciałem sprawdzić, czy po kolejnym impulsie znów zdążę ją złapać przed uderzeniem o stół.
 
 Położyłem podkładkę na kartce. Na górze planu dopisałem, od czego zaczniemy, jeśli opiekun odda nam klucz. Najpierw sprawdzimy każdą śrubę.
