@@ -1,6 +1,6 @@
 # Thora z Korzennej Przystani
 
-*Szkic trylogii i próbna scena do części drugiej*
+*Szkic trylogii z odsyłaczem do wspólnej sceny wyboru*
 
 ## Thora i Verdan
 
@@ -24,7 +24,7 @@ Do sprawdzenia z pełnym rękopisem należy także związek tej powodzi z wydarz
 
 ## II. Dzień, który miał być spokojny
 
-1. Starszyzna znajduje Thorę przy robocie. Miała rozpisane przesadzanie drzewek i potrzebuje, żeby ktoś obejrzał uszkodzone rowy. Sugeruje kogoś, kto lepiej znosi podróż. Odpowiedź starszyzny powinna dotyczyć czegoś, co mogłaby sama zobaczyć. Na przykład przy jednym stole zapadają decyzje o dostawach, a na trzech polach nadal nie wiadomo, kto zapłaci za doprowadzenie wody.
+1. Starszyzna wyznacza Thorę, Liorę, Erona i Anę na jednym posiedzeniu w Korzennej Przystani. Thora przychodzi z pracy przy podmytym rowie. Zanim podpisze listę, ustala, kto rano pójdzie z nią obejrzeć trzy pola pod wałem. [Wspólna scena z perspektywy Thory](RIFTORYN_VERDAN_WYBOR_KANDYDATOW_PROPOZYCJA.md#thora).
 2. Po wyborze wyjeżdża do Val Meris. Roboczo można przyjąć przyjazd pod koniec marca 12 ET, około dwóch miesięcy przed zawodami z Piecariusem. Wyznaczenie przez starszyznę otwiera przygotowania. Formalne kwalifikacje zaczynają się 29 maja. W tych dwóch miesiącach wystarczą dwie lub trzy sceny pracy, w których Thora rzeczywiście coś zmienia w treningu. Za pierwszym razem patrzy na to, jak wieża trafia w ładunek. Później próbuje osłaniać dwie osoby, które poruszają się w innym tempie. Zaczyna używać krótkich poleceń, zdolnych przebić się przez hałas.
 3. **28 maja, miejscowe zawody.** Aktualny tekst Piecariusa nazywa rozdział „Nagroda”. Losuje się trzyosobowe składy. Thora kładzie nacisk na kierunek ruchu i sprawdza pętlę przy skrzyni. Uzgodnienie brzmi „Jak powiem «w lewo», idziesz w lewo. Umiemy tak?”. Piecarius odpowiada o cnocie cierpliwego słuchania, a Thora mówi „Zobaczymy po zakręcie”. Pod ostrzałem Piecarius obniża ogień, Thora zasłania lukę tarczą i kieruje go w lewo. Trzeci zawodnik wpada nogą w pas. Szarpnięcie Piecariusa zaciska pętlę. Thora przecina pas, Piecarius osłania oboje i pomaga zawodnikowi iść, a Thora ciągnie skrzynię. Kończą w nagradzanym miejscu. Piecarius kupuje płótno na opatrunek. Thora mówi o wodzie dla trzech pól i zadaje mu pytanie „Czy ktoś cię wysłał?”.
 
@@ -37,45 +37,3 @@ Akcja właściwych Igrzysk zaczyna się od lipca. Pomysł na kluczową scenę to
 Po zawodach pytanie o dalsze plany może ściągnąć rozmowę z powrotem do doliny. Kwitnienie grusz wymagałoby uzasadnienia w porze właściwych Igrzysk. Motyw sadzonki daje odpowiedź pasującą również później w roku. Propozycja brzmi „Wrócić do domu. Podobno grusza się przyjęła”. Gatunek istniejącej sadzonki warto sprawdzić z rękopisem.
 
 Roboczy tytuł „To, co pozostaje” różni się o jedno słowo od tytułu pierwszego opowiadania Tarena „To, co pozostało”. Alternatywa „Jeszcze chwilę” łączy czas kupiony na moście, cierpliwość przygotowań i zadanie na arenie. [Pierwsza część Tarena](opowiadania/taren/1_what_remained/historia.pl.md)
-
-## Próbna scena z części II
-
-W ziemię wbiłam trzy tyczki. Przy ostatniej poszłam po wodę. Gdy wróciłam, starsza z rady trzymała ją tak, jak się trzyma kij, kiedy chce się go wyrwać.
-
-— Zostaw — powiedziałam. — Tu jest podmyty brzeg. Bez tyczki ktoś wjedzie kołem prosto w rów.
-
-Puściła. Postawiła na miedzy płócienny worek. Zawiązała go sznurkiem dwa razy, jak zielarki przed wysłaniem ziół w drogę.
-
-— Wybraliśmy cię na Igrzyska.
-
-Postawiłam wiadro przy pierwszej sadzonce. Ziemia wokół niej wciąż była mokra po nocnym deszczu. Przesunęłam wiadro do następnej.
-
-— Eron lepiej zna drogę do Val Meris — powiedziałam.
-
-— Rozmawialiśmy też z Eronem. Powiedział, że przy wieży wolałby mieć cię obok.
-
-Było mi miło. Szkoda, że powiedział to akurat przy wyborze.
-
-— Miałyśmy tu jutro przesadzić resztę drzewek.
-
-Starsza ukucnęła przy sadzonce i przycisnęła ziemię dwoma palcami. Jej nie trzeba było tłumaczyć, czemu tej jeszcze nie podlewam.
-
-— Przyjdę rano pomóc — powiedziała. — A ty w mieście zapytasz o wodę dla tamtych pól.
-
-Wskazała nad rowem. Z miedzy widziałyśmy wszystkie trzy pola. Przy najbliższym ktoś wczoraj oczyścił wlot kanału. Na dnie wciąż leżały suche liście.
-
-— To mogę napisać.
-
-— Pisałyśmy już. Odpowiedzieli, że w dolinie mamy zapewnioną wodę do picia.
-
-Popatrzyłam na wiadro. Do picia rzeczywiście było co. Przechyliłam je i przytrzymałam przy ziemi, aż woda przestała spływać po wierzchu.
-
-— Przy stole najpierw będę chciała wiedzieć, kto im powiedział, że pytamy o studnię — odparłam.
-
-Starsza podniosła worek.
-
-— To są rzeczy na drogę. Zaniesiemy je do ciebie.
-
-— Zaniosę sama. Zostań chwilę i zobacz, którędy omijać rów.
-
-Przeszłyśmy od pierwszej tyczki do ostatniej. Kiedy pokazałam jej brzeg, wsunęła pod niego czubek buta. Cała skarpa osypała się pod lekkim naciskiem. Przesunęłam tyczkę o krok w stronę pola. Dopiero wtedy poprosiłam, żeby jutro przyszła pół godziny wcześniej. Chciałam pokazać jej także drugą miedzę, póki jeszcze mogłam pójść tam z nią.

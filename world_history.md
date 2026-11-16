@@ -418,7 +418,7 @@ Verdan uchodzi za spokojną krainę rolniczą i ma najmniejsze zapotrzebowanie n
 
 **Codzienność i zwyczaje.** W Verdan pracę dostosowuje się do pór roku i warunków w dolinie. Mieszkańcy doglądają pól i ogrodów, naprawiają kanały i gromadzą nasiona. Cenią cierpliwą, systematyczną pracę, poprzestają na niewielu dobrach i znajdują radość w codziennych zajęciach. Niektóre rodziny wymieniają sadzonki i przepisy po zbiorach. Inni utrzymują się z handlu, leczenia czy pracy na szlakach.
 
-**Reprezentacja.** Mieszkańcy na ogół unikają sporów politycznych i rywalizacji między krainami. Na Wielkie Igrzyska 12 ET kandydatów Verdan wyznacza starszyzna. Podejmują się udziału w imieniu wspólnoty, a ich udział w składach zależy od wyniku wspólnych kwalifikacji.
+**Reprezentacja.** Mieszkańcy na ogół unikają sporów politycznych i rywalizacji między krainami. Na Wielkie Igrzyska 12 ET starszyzna Verdan na wspólnym posiedzeniu wyznaczyła Thorę, Liorę, Erona i Anę. Ana przygotowuje się do udziału razem z Bobem, swoim towarzyszem. Cała czwórka podejmuje się zadania w imieniu wspólnoty. Udział w składach Igrzysk zależy od wyniku wspólnych kwalifikacji.
 
 **Miejsca spotkań.** W Korzennej Przystani targ i wspólne stoły przy ogrodach przyciągają zarówno hodowców, jak i podróżnych. Można tam kupić jedzenie, poprosić o pomoc przy naprawie albo obejrzeć próbę miejscowej drużyny.
 
