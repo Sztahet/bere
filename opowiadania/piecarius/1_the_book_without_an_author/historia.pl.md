@@ -2,6 +2,8 @@
 
 ## Gruszka dla damy
 
+8 kwietnia, 12 ET · Kharum
+
 Gdyby o rycerskiej godności świadczyła liczba selenów w sakiewce, tego ranka nie powinienem był przedstawiać się nikomu. Po zakupie mapy i cynamonowego olejku zostało mi półtora selena w monecie i drobnych, a oberżysta czekał na zapłatę za nocleg.
 
 — Czuję cynamon — powiedział oberżysta, kiedy odliczałem pieniądze. Zerknął na mój naramiennik. — A rzemyk dalej pęknięty.
@@ -122,9 +124,9 @@ W osadzie ludzie od pompy unieśli wieko skrzyni jeszcze przy wozie. Przynosili 
 
 — A jeśli dalej będzie pan jeździł za tym ptakiem — powiedziała, wskazując na zawiniątko z księgą — w Aurelu przechowują stare spisy ze szlaku. Zdarzyło mi się tam odzyskać rachunek za ładunek, który wszyscy mieli za zaginiony. Niech pan pyta o Lumen.
 
-Podała mi brudną od ołówka kartkę z adresem składu przy wschodniej bramie Val Meris. W maju jechała tam z okuciami z kuźni w Kharum. Zamówił je warsztat, który stawiał wieże na Igrzyska. W drodze powrotnej Veda miała rozwozić skrzynie z narzędziami po osadach Kharum. Na tym odcinku przydałby się ktoś jeszcze prócz Jorka.
+Podała mi brudną od ołówka kartkę z adresem składu przy wschodniej bramie Val Meris.
 
-— Jeśli będzie pan w mieście, proszę zajść. Zobaczymy, czy zdąży pan do tego czasu naprawić pasek.
+— W maju mam zlecenie na dostawę okuć z Kharum. Zamówił je warsztat, który będzie stawiał wieże na Igrzyska. Na powrót zabiorę narzędzia dla osad i przyda mi się ochrona. Jeśli będzie pan w mieście, proszę zajść. Zobaczymy, czy zdąży pan do tego czasu naprawić pasek.
 
 W izbie nad stajnią przyłożyłem odrys do inicjału. Przesuwałem kartkę po księdze tak długo, aż przynajmniej jedno skrzydło przylegało do drugiego. Ojciec trzymał książkę na stole przy piecu i czytał mi z niej, kiedy musiałem siadać na dwóch poduszkach, żeby widzieć rysunek. Pewnego ranka zszyliśmy pęknięty grzbiet. Ojciec otworzył księgę od początku i przeciągnął palcem po pustym miejscu pod tytułem.
 

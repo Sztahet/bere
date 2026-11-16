@@ -2,6 +2,8 @@
 
 ## Właściwe powitanie
 
+27 maja, 12 ET · Val Meris
+
 Powitanie przećwiczyłem trzy razy przed wypolerowaną pokrywką garnka. W pierwszej wersji za długo trzymałem rękę do ukłonu i oparzenie odezwało się pod rękawem. W drugiej dwa razy użyłem słowa „zaszczyt”. W trzeciej zobaczyłem kawałek gruszki, który tkwił mi w brodzie od śniadania.
 
 — Piecarius. Rycerz Bractwa Feniksa. Przybywam, by…
@@ -12,7 +14,7 @@ Ktoś zastukał.
 
 Otworzyłem. Trzymała kosz z bielizną, a na wierzchu leżała moja koszula. Wyjęła z fartucha dwie monety, które zostawiłem w kieszeni. Jedna była miejscowa, drugą mogłem opłacić miejsce przy wozie przynajmniej na kawałek drogi powrotnej. Przez chwilę cieszyłem się pieniędzmi, które od początku należały do mnie. Oddałem jej ostatnią gruszkę, tę bez obić.
 
-Przyjechałem do Val Meris z transportem części na areny. Kwalifikacje miały ruszyć pod koniec maja, choć same Wielkie Igrzyska zaczynały się dopiero latem. W warsztatach już palono światło do późna, a w gospodach dostawiano ławy. Zajrzałem pod wschodnią bramę, gdy tylko rozładowaliśmy wóz. Znalazłem miejsce Vedy pod zadaszeniem, oznaczone kredą na belce. Pisarz powiedział, że jej wóz jest w drodze i żebym zajrzał nazajutrz po południu, kiedy skończy rozładunek.
+Do Val Meris przyjechałem poprzedniego wieczoru z transportem części na areny. Kwalifikacje miały ruszyć za dwa dni, a same Wielkie Igrzyska dopiero latem. W warsztatach już palono światło do późna, a w gospodach dostawiano ławy. Po porannym rozładunku zajrzałem pod wschodnią bramę. Znalazłem miejsce Vedy pod zadaszeniem, oznaczone kredą na belce. Pisarz powiedział, że jej wóz jest w drodze i żebym zajrzał nazajutrz po południu, kiedy skończy rozładunek.
 
 Odkąd zobaczyłem płytkę pod belką, przez kilka nocy wracałem po nią we śnie. Raz zdążyłem nawet dotknąć rzemyka. Obudziłem się z dłonią zaciśniętą na kocu.
 
@@ -77,6 +79,8 @@ Aria chwilę czekała. Ja też. Wolałbym, żeby zadała następne pytanie, bo w
 Chciałem jej opowiedzieć o ojcu i pokazać stronę z przysięgą. Trzymałem już palce na węźle płótna. Przypomniałem sobie kartę opartą o burtę wozu Vedy. Obok mojego podpisu była nazwa Bractwa. Sam wziąłem do ręki ołówek, mogłem ją wtedy przekreślić. Gdy urzędnik zawołał następną osobę, cofnąłem się, żeby przepuścić człowieka z kolejki. Do stołu już nie podszedłem.
 
 ## Nagroda
+
+28 maja, 12 ET
 
 Nazajutrz wystartowałem w miejscowych zawodach. Zwycięzcy mieli dostać pieniądze, a za niższe miejsca też przewidziano nagrody. Wylosowana trójka miała przeciągnąć drewnianą skrzynię przez tor pod ostrzałem wież ćwiczebnych. Sędziowie mierzyli czas i liczyli ślady po pociskach na ładunku. Zapłaciłem wpisowe. Gdybym odpadł, kolejny odpis musiałby poczekać.
 

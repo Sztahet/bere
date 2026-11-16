@@ -6,6 +6,8 @@
 
 ### Gruszka dla damy
 
+8 kwietnia, 12 ET · Kharum
+
 Gdyby o rycerskiej godności świadczyła liczba selenów w sakiewce, tego ranka nie powinienem był przedstawiać się nikomu. Po zakupie mapy i cynamonowego olejku zostało mi półtora selena w monecie i drobnych, a oberżysta czekał na zapłatę za nocleg.
 
 — Czuję cynamon — powiedział oberżysta, kiedy odliczałem pieniądze. Zerknął na mój naramiennik. — A rzemyk dalej pęknięty.
@@ -126,9 +128,9 @@ W osadzie ludzie od pompy unieśli wieko skrzyni jeszcze przy wozie. Przynosili 
 
 — A jeśli dalej będzie pan jeździł za tym ptakiem — powiedziała, wskazując na zawiniątko z księgą — w Aurelu przechowują stare spisy ze szlaku. Zdarzyło mi się tam odzyskać rachunek za ładunek, który wszyscy mieli za zaginiony. Niech pan pyta o Lumen.
 
-Podała mi brudną od ołówka kartkę z adresem składu przy wschodniej bramie Val Meris. W maju jechała tam z okuciami z kuźni w Kharum. Zamówił je warsztat, który stawiał wieże na Igrzyska. W drodze powrotnej Veda miała rozwozić skrzynie z narzędziami po osadach Kharum. Na tym odcinku przydałby się ktoś jeszcze prócz Jorka.
+Podała mi brudną od ołówka kartkę z adresem składu przy wschodniej bramie Val Meris.
 
-— Jeśli będzie pan w mieście, proszę zajść. Zobaczymy, czy zdąży pan do tego czasu naprawić pasek.
+— W maju mam zlecenie na dostawę okuć z Kharum. Zamówił je warsztat, który będzie stawiał wieże na Igrzyska. Na powrót zabiorę narzędzia dla osad i przyda mi się ochrona. Jeśli będzie pan w mieście, proszę zajść. Zobaczymy, czy zdąży pan do tego czasu naprawić pasek.
 
 W izbie nad stajnią przyłożyłem odrys do inicjału. Przesuwałem kartkę po księdze tak długo, aż przynajmniej jedno skrzydło przylegało do drugiego. Ojciec trzymał książkę na stole przy piecu i czytał mi z niej, kiedy musiałem siadać na dwóch poduszkach, żeby widzieć rysunek. Pewnego ranka zszyliśmy pęknięty grzbiet. Ojciec otworzył księgę od początku i przeciągnął palcem po pustym miejscu pod tytułem.
 
@@ -143,6 +145,8 @@ Odłożyłem odrys. Zapisałem na odwrocie, gdzie stał słup, i dodałem nazwę
 ## II. Ślady w popiele
 
 ### Cena drogi
+
+22 kwietnia, 12 ET · Aurel
 
 Zanim dojechałem do Aurelu, zdążyłem sprzedać płaszcz. Zapłaciłem za naprawę zbroi i miejsce przy cudzym wozie, a z reszty odkładałem po drobniaku na dzień, w którym wreszcie znajdę coś wartego przepisania. Nie spodziewałem się, że przyjdzie za to oddać niemal ćwierć selena.
 
@@ -256,6 +260,8 @@ Wieczorem pomogłem przewodniczce z drewnem. Chciałem opowiedzieć przy ogniu o
 
 ### Płytka
 
+18 maja, 12 ET · dolna droga pod przełęczą
+
 Magazyn stał poniżej drogi. Po zachodniej stronie pod ścianą leżało drewno opałowe, a parę kroków dalej zaczynała się szopa. Jej drzwi wychodziły na ten sam plac, co wejście do magazynu. Po drugiej stronie placu mieszkała starsza kobieta, która podobno pamiętała dawnych przewoźników. Zdążyłem zapytać ją, czy pamięta Tovina. Poprosiła, żebym wrócił wieczorem. Jej wnuk zgubił młotek i od rana wszyscy go szukali.
 
 Odchodziłem od jej furtki, gdy wiatr poruszył popiołem w kominie szopy. Zobaczyłem iskry nad dachem, a chwilę później spod stosu drewna wydobył się dym. Od strony magazynu dobiegł mnie krzyk. Kobieta w drzwiach wołała dziecko po imieniu. Chłopiec musiał wejść szukać młotka pod skrzyniami. Widziałem, jak biegnie do matki. Tuż przed nim z uszkodzonego dachu zsunęła się belka i stanęła w poprzek wejścia.
@@ -324,6 +330,8 @@ Zostałem przy stole jeszcze chwilę. „Wiem, co byś powiedział”, szepnął
 
 ### Właściwe powitanie
 
+27 maja, 12 ET · Val Meris
+
 Powitanie przećwiczyłem trzy razy przed wypolerowaną pokrywką garnka. W pierwszej wersji za długo trzymałem rękę do ukłonu i oparzenie odezwało się pod rękawem. W drugiej dwa razy użyłem słowa „zaszczyt”. W trzeciej zobaczyłem kawałek gruszki, który tkwił mi w brodzie od śniadania.
 
 — Piecarius. Rycerz Bractwa Feniksa. Przybywam, by…
@@ -334,7 +342,7 @@ Ktoś zastukał.
 
 Otworzyłem. Trzymała kosz z bielizną, a na wierzchu leżała moja koszula. Wyjęła z fartucha dwie monety, które zostawiłem w kieszeni. Jedna była miejscowa, drugą mogłem opłacić miejsce przy wozie przynajmniej na kawałek drogi powrotnej. Przez chwilę cieszyłem się pieniędzmi, które od początku należały do mnie. Oddałem jej ostatnią gruszkę, tę bez obić.
 
-Przyjechałem do Val Meris z transportem części na areny. Kwalifikacje miały ruszyć pod koniec maja, choć same Wielkie Igrzyska zaczynały się dopiero latem. W warsztatach już palono światło do późna, a w gospodach dostawiano ławy. Zajrzałem pod wschodnią bramę, gdy tylko rozładowaliśmy wóz. Znalazłem miejsce Vedy pod zadaszeniem, oznaczone kredą na belce. Pisarz powiedział, że jej wóz jest w drodze i żebym zajrzał nazajutrz po południu, kiedy skończy rozładunek.
+Do Val Meris przyjechałem poprzedniego wieczoru z transportem części na areny. Kwalifikacje miały ruszyć za dwa dni, a same Wielkie Igrzyska dopiero latem. W warsztatach już palono światło do późna, a w gospodach dostawiano ławy. Po porannym rozładunku zajrzałem pod wschodnią bramę. Znalazłem miejsce Vedy pod zadaszeniem, oznaczone kredą na belce. Pisarz powiedział, że jej wóz jest w drodze i żebym zajrzał nazajutrz po południu, kiedy skończy rozładunek.
 
 Odkąd zobaczyłem płytkę pod belką, przez kilka nocy wracałem po nią we śnie. Raz zdążyłem nawet dotknąć rzemyka. Obudziłem się z dłonią zaciśniętą na kocu.
 
@@ -399,6 +407,8 @@ Aria chwilę czekała. Ja też. Wolałbym, żeby zadała następne pytanie, bo w
 Chciałem jej opowiedzieć o ojcu i pokazać stronę z przysięgą. Trzymałem już palce na węźle płótna. Przypomniałem sobie kartę opartą o burtę wozu Vedy. Obok mojego podpisu była nazwa Bractwa. Sam wziąłem do ręki ołówek, mogłem ją wtedy przekreślić. Gdy urzędnik zawołał następną osobę, cofnąłem się, żeby przepuścić człowieka z kolejki. Do stołu już nie podszedłem.
 
 ### Nagroda
+
+28 maja, 12 ET
 
 Nazajutrz wystartowałem w miejscowych zawodach. Zwycięzcy mieli dostać pieniądze, a za niższe miejsca też przewidziano nagrody. Wylosowana trójka miała przeciągnąć drewnianą skrzynię przez tor pod ostrzałem wież ćwiczebnych. Sędziowie mierzyli czas i liczyli ślady po pociskach na ładunku. Zapłaciłem wpisowe. Gdybym odpadł, kolejny odpis musiałby poczekać.
 

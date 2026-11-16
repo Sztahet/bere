@@ -2,6 +2,8 @@
 
 ## Cena drogi
 
+22 kwietnia, 12 ET · Aurel
+
 Zanim dojechałem do Aurelu, zdążyłem sprzedać płaszcz. Zapłaciłem za naprawę zbroi i miejsce przy cudzym wozie, a z reszty odkładałem po drobniaku na dzień, w którym wreszcie znajdę coś wartego przepisania. Nie spodziewałem się, że przyjdzie za to oddać niemal ćwierć selena.
 
 — Mogę sam przepisać — zaproponowałem.
@@ -113,6 +115,8 @@ Zaznaczył na mapie zejście, od którego miałem pytać o magazyn. Jeśli ktoś
 Wieczorem pomogłem przewodniczce z drewnem. Chciałem opowiedzieć przy ogniu o rycerzu, który wrócił na zgliszcza rodzinnego domu. Przy końcu pierwszej strofy zapytała, dlaczego jeszcze nie zajrzał do sąsiadów. Miałem odpowiedź w trzeciej strofie. Zanim do niej doszedłem, Ruvan poprosił, żebym dorzucił drewna, bo inaczej zgaśnie.
 
 ## Płytka
+
+18 maja, 12 ET · dolna droga pod przełęczą
 
 Magazyn stał poniżej drogi. Po zachodniej stronie pod ścianą leżało drewno opałowe, a parę kroków dalej zaczynała się szopa. Jej drzwi wychodziły na ten sam plac, co wejście do magazynu. Po drugiej stronie placu mieszkała starsza kobieta, która podobno pamiętała dawnych przewoźników. Zdążyłem zapytać ją, czy pamięta Tovina. Poprosiła, żebym wrócił wieczorem. Jej wnuk zgubił młotek i od rana wszyscy go szukali.
 
