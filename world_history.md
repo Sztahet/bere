@@ -414,9 +414,11 @@ Zerath ma najłatwiejszy dostęp do splotytu, a jego częste burze umożliwiają
 
 Verdan traktuje irygację, żywność i leczenie jako priorytet w czasie niedoboru. Popiera lokalne naprawy i rozproszone zapasy. Ostrzega, że jednakowe zasady dostaw mogą być niesprawiedliwe wobec osad, które nie mają alternatywnego źródła wody ani innej drogi transportu.
 
-Verdan uchodzi za spokojną krainę rolniczą i ma najmniejsze zapotrzebowanie na splotyt, odnoszone do potrzeb mieszkańców. Dużą nadwyżkę żywności przekazuje do wymiany z innymi krainami. Nadal korzysta z kryształów tam, gdzie są potrzebne, a warunki i dobrobyt różnią się między osadami.
+Verdan uchodzi za spokojną krainę rolniczą i ma najmniejsze zapotrzebowanie na splotyt, odnoszone do potrzeb mieszkańców. Dostarcza żywność niemal wszystkim krainom Riftorynu. W Verdan wytwarza się wszystkie leki używane na kontynencie, stamtąd pochodzą też wszystkie zioła lecznicze. Regularność tych dostaw sprawia, że sąsiedzi widzą w Verdan ważnego partnera i dbają o dobre stosunki z krainą. Verdan korzysta z kryształów tam, gdzie są potrzebne, a warunki i dobrobyt różnią się między osadami.
 
-**Codzienność i zwyczaje.** W dolinach praca zmienia się wraz z porą roku: mieszkańcy doglądają pól, naprawiają kanały i gromadzą nasiona. Niektóre rodziny wymieniają sadzonki i przepisy po zbiorach; inni utrzymują się z handlu, leczenia czy pracy na szlakach.
+**Codzienność i zwyczaje.** W Verdan pracę dostosowuje się do pór roku i warunków w dolinie. Mieszkańcy doglądają pól i ogrodów, naprawiają kanały i gromadzą nasiona. Cenią cierpliwą, systematyczną pracę, poprzestają na niewielu dobrach i znajdują radość w codziennych zajęciach. Niektóre rodziny wymieniają sadzonki i przepisy po zbiorach. Inni utrzymują się z handlu, leczenia czy pracy na szlakach.
+
+**Reprezentacja.** Mieszkańcy na ogół unikają sporów politycznych i rywalizacji między krainami. Na Wielkie Igrzyska 12 ET kandydatów Verdan wyznacza starszyzna. Podejmują się udziału w imieniu wspólnoty, a ich udział w składach zależy od wyniku wspólnych kwalifikacji.
 
 **Miejsca spotkań.** W Korzennej Przystani targ i wspólne stoły przy ogrodach przyciągają zarówno hodowców, jak i podróżnych. Można tam kupić jedzenie, poprosić o pomoc przy naprawie albo obejrzeć próbę miejscowej drużyny.
 
