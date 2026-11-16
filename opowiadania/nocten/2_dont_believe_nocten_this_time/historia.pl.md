@@ -22,7 +22,7 @@ Zamknąłem oczy i zobaczyłem deszcz. Otworzyłem je, przeczytałem drugą stro
 
 Księga ze szkoły podaje, że w dniu, który wcześniej wskazałem, budynek był zamknięty. Położyłem odpowiedź obok obu opisów i przez chwilę słuchałem deszczu za oknem.
 
-Na kartce oznaczyłem: wiem — księga podaje zamknięcie; pamiętam — deszcz; znalazłem — dwa opisy. Ostatnia linia zajęła najwięcej miejsca. Dopisałem do niej: przypuszczam — pomyliłem dzień. Potem dopisałem drugie przypuszczenie i zaraz je skreśliłem. Nie dlatego, że było mniej możliwe. Nie umiałem go jeszcze przeczytać bez strachu.
+Na kartce oznaczyłem: wiem — księga podaje zamknięcie; pamiętam — deszcz; znalazłem — dwa opisy. Ostatnia linia zajęła najwięcej miejsca. Dopisałem do niej: przypuszczam — pomyliłem dzień. Dopisałem drugie przypuszczenie. Skreśliłem je tak mocno, że stalówka przedarła papier.
 
 ## II. Co można sprawdzić
 
@@ -32,9 +32,7 @@ Kobieta z białego miasta zaplatała włosy przed lustrem. W jednym zeszycie opi
 
 Obie linie wyglądają na moje pismo. Nie pamiętam chwili, w której je postawiłem. Nie wiem nawet, ile czasu minęło między jedną a drugą. Sąsiad umie ocenić, czy atrament wysechł przed złożeniem papieru; nie potrafi powiedzieć, ile dni dzieli dwie zapisane myśli. Nie poproszę go o obejrzenie tej strony.
 
-Spróbowałem przypomnieć sobie jej głos. Wcześniej był dla mnie tak oczywisty, że nigdy go nie opisałem. Teraz słyszę tylko to, co mógłbym sobie wyobrazić. Nie będę udawał, że to to samo.
-
-Jeśli nie istniała, skąd bierze się żal? Jeśli istniała, dlaczego nie umiem ocalić nawet koloru jej włosów?
+Spróbowałem przypomnieć sobie jej głos. Wcześniej był dla mnie tak oczywisty, że nigdy go nie opisałem. Teraz słyszę tylko to, co mógłbym sobie wyobrazić.
 
 ## III. Wąskie przejście
 
@@ -50,9 +48,7 @@ Mogłem osłonić krótki odcinek przy ścianie. Nie miałem pewności, czy utrz
 
 Nie miał. Zgodził się na jedną skrzynię. Po trzecim przejściu cień przy bramie stał się cieńszy, więc przerwałem i poprosiłem o chwilę odpoczynku. Mężczyzna odstawił ciężar, wyraźnie niezadowolony. Potem sam zaproponował krótszą trasę, za stertą pustych beczek. Nie zauważyłem jej wcześniej.
 
-Przenieśliśmy resztę przed wieczorem. Osłona magazynu nadal wymagała naprawy, ale ludzie mieli gdzie złożyć zapasy. Podziękowali mi obaj. Zastanawiałem się, czy powinni tak łatwo powierzać bezpieczeństwo człowiekowi, który nie umie być pewien własnych wspomnień. Potem zapytałem tego od beczek, czy nie zapomniałem zwrócić mu rękawic. Zapomniałem.
-
-Rzeczy można sprawdzać. Obietnice można zapisywać. Nie rozwiązuje to wszystkiego, ale pozwoliło mu zabrać rękawice do domu.
+Przenieśliśmy resztę przed wieczorem. Osłona magazynu nadal wymagała naprawy, ale ludzie mieli gdzie złożyć zapasy. Podziękowali mi obaj. Przez chwilę nie wiedziałem, co odpowiedzieć. Potem zapytałem tego od beczek, czy nie zapomniałem zwrócić mu rękawic. Zapomniałem.
 
 ## IV. Krzesło
 
@@ -62,7 +58,7 @@ Obudziłem się w nocy i zobaczyłem cień siedzący na krześle. Krzesło stał
 
 Zapaliłem świecę. Na krześle leżał płaszcz.
 
-Pracuję z cieniem od lat. Wiem, jak go przesunąć, jak nim zasłonić człowieka i kiedy własna uwaga nie wystarcza, by utrzymać osłonę. Nie znam sposobu wymazywania wspomnień i nie mam powodu twierdzić, że Ciemność to potrafi. Nie wiem też, co widziałem na krześle.
+Pracuję z cieniem od lat. Wiem, jak go przesunąć, jak nim zasłonić człowieka i kiedy własna uwaga nie wystarcza, by utrzymać osłonę. Nie znam sposobu wymazywania wspomnień i nie mam powodu twierdzić, że Ciemność to potrafi.
 
 Rano sprawdziłem, czy lampa za oknem mogła rzucić tam światło. Mogła. Wieczorem złożyłem płaszcz i schowałem go do szafy.
 
