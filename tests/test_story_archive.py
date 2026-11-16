@@ -23,7 +23,8 @@ class StoryArchiveTests(unittest.TestCase):
 
     def test_draft_trilogies_match_unity_resources(self):
         root = Path(__file__).resolve().parents[1]
-        folders = {"nocten": "Nocten", "piecarius": "Piecarius", "morrak": "Morrak"}
+        folders = {"nocten": "Nocten", "piecarius": "Piecarius", "morrak": "Morrak",
+                   "thora": "Thora", "miko": "Miko"}
         found = set()
         for hero_id, _, _, _, _, entries in CATALOG:
             if hero_id not in folders:

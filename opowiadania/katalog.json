@@ -295,5 +295,59 @@
         "draft": true
       }
     ]
+  },
+  {
+    "id": "thora",
+    "name": "Thora",
+    "region": "Verdan",
+    "portrait": "thora-nature-tank-v3.png",
+    "series": null,
+    "stories": [
+      {
+        "id": "ostatni-korzen",
+        "folder": "opowiadania/thora/1_the_last_root",
+        "unity": "ThoraDraft1",
+        "draft": true
+      },
+      {
+        "id": "dzien-ktory-mial-byc-spokojny",
+        "folder": "opowiadania/thora/2_the_day_that_should_have_been_quiet",
+        "unity": "ThoraDraft2",
+        "draft": true
+      },
+      {
+        "id": "wystarczy",
+        "folder": "opowiadania/thora/3_enough",
+        "unity": "ThoraDraft3",
+        "draft": true
+      }
+    ]
+  },
+  {
+    "id": "miko",
+    "name": "Miko",
+    "region": "Zerath",
+    "portrait": "miko-lightning-specialist-v2.png",
+    "series": "Szybciej niż rozsądek",
+    "stories": [
+      {
+        "id": "to-powinno-zadzialac",
+        "folder": "opowiadania/miko/1_that_should_work",
+        "unity": "MikoDraft1",
+        "draft": true
+      },
+      {
+        "id": "jeszcze-jeden-impuls",
+        "folder": "opowiadania/miko/2_one_more_pulse",
+        "unity": "MikoDraft2",
+        "draft": true
+      },
+      {
+        "id": "jeszcze-jeden-piorun",
+        "folder": "opowiadania/miko/3_one_more_bolt",
+        "unity": "MikoDraft3",
+        "draft": true
+      }
+    ]
   }
 ]
