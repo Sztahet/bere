@@ -24,6 +24,8 @@ Oberżysta skinął głową. Kobieta zwinęła skórkę w palcach i odłożyła 
 
 — Droga damo, potrafię mówić w marszu.
 
+— To resztę opowie mi pan po drodze.
+
 Przy jej łokciu stał koszyk gruszek. Pachniały tak słodko, że przez chwilę nie mogłem oderwać od nich wzroku. Veda przysunęła koszyk do siebie.
 
 — Gruszki rozdaję po pracy.
@@ -40,7 +42,7 @@ Rozłożyłem mapę na burcie. Droga biegła przez rzeczkę szeroką, pewną kre
 
 — Tu. Wąsko, ale nasze konie się mieszczą.
 
-Pozwoliłem mu zaznaczyć rozwidlenie. Tuszu na drukowanej mapie było znacznie więcej niż grafitu na jego palcu. Do przeprawy wystarczyło to drugie.
+Podałem Jorkowi ołówek. Przekreślił stary mostek i dorysował drogę, którą mieliśmy pojechać.
 
 ## Stary kamień
 
