@@ -152,7 +152,7 @@ Urzędnik przepisał je na listę. Przy przynależności postawił kreskę. Poda
 
 ## Pokwitowanie
 
-Pod wschodnią bramą poznałem wóz po łacie na plandece. Veda przyszyła ją nicią jaśniejszą od płótna. Jorek liczył puste skrzynie po okuciach, które odebrał cieśla z warsztatu przy arenie. Veda rozłożyła na burcie karty przewozowe. Sprawdzała, ile skrzyń z narzędziami zmieści w drodze powrotnej.
+Pod wschodnią bramą poznałem wóz po łacie na plandece. Veda przyszyła ją nicią jaśniejszą od płótna. Jorek liczył puste skrzynie po okuciach, które odebrał cieśla z warsztatu przy arenie. Veda rozłożyła na burcie karty przewozowe.
 
 Obok kart leżał druk z Urzędu Prób. Miałem taki sam w kieszeni.
 
@@ -190,9 +190,9 @@ Nad nami szarpnęła plandeka. Przy brzegu łaty wystawał luźny koniec nici. Z
 
 Veda wygładziła kartę dłonią.
 
-— Jorek chciał, żeby znowu pan z nami jechał. Pamięta, że posłał go pan do koni, kiedy się bał. Ja pamiętam również tę łatę. Obie rzeczy powiedziałabym komuś, kto pyta o pańską pracę. Na kurs trzeciego czerwca wynajmę człowieka, z którym już rozmawiałam. Wciąż mogę go zastać przy składzie.
+— Jorek chciał, żeby znowu pan z nami jechał. Pamięta, że posłał go pan do koni, kiedy się bał. Ja pamiętam również tę łatę. Obie rzeczy powiedziałabym komuś, kto pyta o pańską pracę. Na powrotny kurs wezmę człowieka, z którym już rozmawiałam. Wciąż mogę go zastać przy składzie.
 
-Gdyby próby skończyły się dla mnie przed trzecim czerwca, miałbym z czego opłacić dalszą drogę do Aurelu. Policzyłem w myślach, ile noclegów mogłem kupić za wypłatę, której teraz już nie dostanę.
+Liczyłem, że po próbach uda mi się u Vedy zarobić na dalszą drogę do Aurelu. Teraz policzyłem w myślach, na ile noclegów wystarczy to, co miałem przy sobie.
 
 — Druga karta została u gospodarza — powiedziałem. — Napiszę mu, żeby poprawił wpis. Może pani przeczytać, zanim wyślę.
 
