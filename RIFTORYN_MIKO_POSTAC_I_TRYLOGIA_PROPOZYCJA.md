@@ -1,0 +1,111 @@
+# Miko — karta postaci i szkic trylogii „Szybciej niż rozsądek”
+
+**Status:** gotowy szkic do rozwinięcia w trzy opowieści, nie gotowy tekst ani automatyczna zmiana kanonu i mechaniki gry. Nowe wydarzenia, postacie i rozwiązania techniczne poniżej są propozycjami. Zachowują istniejące sceny Miko z Adrienem i Leną; wynik kwalifikacji pozostaje otwarty.
+
+## Miko
+
+Miko pochodzi z Zerath. W 12 ET ma 42 lata, jest szermierzem, konstruktorem i specjalistą związanym z Błyskawicami. Dorastał wśród warsztatów i przekaźników. Rozbierał urządzenia, składał je na nowo i chętnie przekonywał innych, że wszystkie części są potrzebne — także te, które właśnie zostały na stole. Nosi charakterystyczny kapelusz; szpada i wyczucie dystansu są równie ważną częścią jego sposobu działania jak narzędzia.
+
+Jest pogodny, błyskotliwy i ciekawy wyników, których nikt nie planował. Wobec cudzych pomysłów bywa uważnym słuchaczem, zwłaszcza jeśli może je natychmiast sprawdzić. Prowadzi dokładne zapiski, cierpliwie poprawia konstrukcje i potrafi przyznać, że coś nie działa. Nie uważa ryzyka za zaletę samą w sobie: po prostu osobiste ryzyko rzadko powstrzymuje go przed kolejną próbą.
+
+Rozumie mechanizmy i nie chce świadomie narażać postronnych. Odłączy uszkodzone urządzenie, sprawdzi mocowanie i odsunie innych od stanowiska. Potem potrafi z pełną powagą zaproponować, że sam przyjmie impuls. Dla współpracowników nie zawsze jest oczywiste, czy właśnie postąpił odpowiedzialnie, czy przygotował sobie nowe kłopoty.
+
+Jego rozwój nie polega na porzuceniu eksperymentów ani na przemianie w ostrożnego człowieka. Uczy się lepiej mierzyć zjawisko, projektować urządzenia i przekazywać innym, co zamierza zrobić. Dzięki temu inni mogą z nim współpracować, nie tracąc prawa do sprzeciwu.
+
+**Powracające motywy:** „jeszcze raz”, liczenie czasu działania impulsu, kapelusz, kartki z wynikami i szpada oparta przy warsztatowym stole. Żart wynika z sytuacji i charakterów, a nie z obowiązkowego powtarzania tych samych kwestii.
+
+## Miko i Adrien
+
+Znają się od lat; proponowane jest, że poznali się podczas studiów na uniwersytecie w Aurelu. Miko jest starszy o pięć lat. Ustalona historia Adriena nie opisuje ich pierwszego spotkania, dlatego szkic zaczyna się, gdy przyjaźń już istnieje. Adrien konstruuje urządzenia, nie korzysta z własnej magii; Miko związany jest z Błyskawicami i pracuje także z aparaturą.
+
+Miko lubi, że Adrien nie zadowala się odpowiedzią „działa”. Adriena drażni, że przyjaciel potrafi dojść do dobrego wyniku drogą, którą on sam uznałby za niedopuszczalną. Obaj dokładnie zapisują obserwacje, choć zaczynają od różnych pytań. Adrien nie jest wyłącznie głosem rozsądku: chce zrozumieć odkrycie i bywa o nie zazdrosny. Miko nie jest wyłącznie źródłem problemów: zauważa rzeczy, których Adrien nie przewidział, i umie skorzystać z jego uwag.
+
+Po wojennej awarii sygnalizatora Adrien ma osobisty powód, by nie lekceważyć wad konstrukcji. Miko nie musi znać wszystkich szczegółów jego przeżyć. Jeśli rozmawiają o tamtym wydarzeniu, zakres jego wiedzy trzeba oprzeć na tym, co Adrien rzeczywiście mu powiedział. Spór o testy może wynikać z ich relacji bez wykorzystywania śmierci przewodnika jako komediowej puenty.
+
+## Zdolność i jej granice
+
+**Propozycja fabularna:** po przyjęciu impulsu Błyskawic Miko przez krótki czas szybciej wykonuje wyuczone ruchy i reaguje. Bada zjawisko na sobie; nie wie jeszcze, czy dałoby się je wywołać u kogokolwiek innego. Urządzenie może pomóc mu dostarczyć impuls, ale nie każdy impuls musi dać taki sam wynik. W opowieści nie ustalamy w ten sposób ogólnej zasady magii ani działania elektryczności na innych ludzi.
+
+Szybszy ruch nie podpowiada mu dobrej decyzji, nie usuwa przeszkód i nie daje nieograniczonej kontroli. Miko musi wybrać kierunek, utrzymać równowagę i mieć miejsce na szpadę. Może szybko popełnić błąd. Efekt ustępuje; jego dokładny czas i sposób przedłużania są przedmiotem prób, a nie pewną regułą świata. Trafienie może boleć i mieć skutki — humor nie wymaga, by ciało Miko było niezniszczalne.
+
+**Propozycja do projektu gry:** po otrzymaniu obrażeń od Błyskawic +50% szybkości akcji. Czas 4 s, odświeżanie bez kumulacji, aktywacja przez sojuszników i pełne otrzymywanie obrażeń pozostają wariantami do testów. Szybkość akcji trzeba zdefiniować w systemie; nie oznacza automatycznie szybkości poruszania się. Obecna pasywka w kodeksie gry daje premię do ruchu po udanym sabotażu. Nowy pomysł wymaga osobnej decyzji, czy ją zastępuje, oraz sprawdzenia zgodności z pozostałymi umiejętnościami i zasadami trafień sojuszniczych. Ten szkic niczego w grze nie zmienia.
+
+## Oś czasu i punkty wspólne
+
+- **Część I:** studia w Aurelu, przed wydarzeniami części II. Dokładny rok i długość studiów pozostają otwarte; Miko i Adrien już się znają.
+- **Część II:** późniejsze badania i praca przy przekaźnikach Zerath, przed wiosną 12 ET. Szczegółowe daty można ustalić podczas pisania. Projekt służy ekipom, a odkrycie związane z przyspieszeniem pozostaje jego osobnym zastosowaniem.
+- **18 kwietnia 12 ET:** w „Wynalazku, którego nie przewidziałem” Miko pokazuje Adrienowi regulator czytelnego impulsu przy mniejszym zapasie energii. Przy jednym ustawieniu osiąga lepszy wynik, lecz mocowanie luzuje się w dłuższej próbie. Miko sam wyłącza zasilanie, czeka na opadnięcie wskaźnika i sprawdza śrubę. Rian później bada projekt. To ustalona scena, nie dowód, że urządzenie jest gotowe.
+- **4 maja 12 ET:** w „Znam kogoś, kto potrafi” Miko przywozi poprawiony regulator i pomaga przy próbach Leny. Proponuje zmianę kształtu sygnału, a po przypomnieniu Rian sprawdza swoje mocowanie. Przyrząd Leny nadal nie jest wtedy gotowy. Nie dopisujemy do tej sceny wydarzeń zmieniających jej przebieg.
+- **Część III:** przygotowania do zgłoszenia i kwalifikacje rozpoczynające się 29 maja 12 ET. Seria właściwych Igrzysk zaczyna się od lipca. Nie przesądzamy udziału Miko w składzie finałowym ani wyniku Igrzysk.
+
+## I. „To powinno zadziałać”
+
+**Miejsce i czas:** uniwersytet w Aurelu, lata studiów.
+**Oś:** przypadkowe odkrycie staje się pytaniem, które Miko chce umieć powtórzyć.
+
+1. Miko pracuje nad układem pozwalającym uzyskać czytelniejszy sygnał przy małym zapasie energii. W drodze na zajęcia próbuje jednocześnie dopiąć obudowę i nie spóźnić się na szermierkę. Poznajemy przyjacielską rywalizację z Adrienem przy zwykłej pracy, zanim pojawi się niezwykły efekt.
+2. Podczas próby impuls przeskakuje na dłoń Miko. Odruchowo łapie spadający element, zanim uderzy o podłogę. Dłoń go boli, a on nie wie, czy naprawdę poruszył się szybciej, czy po prostu miał szczęście. Adrien chce najpierw sprawdzić stanowisko i stan przyjaciela; Miko usiłuje opisać moment, zanim zapomni szczegóły.
+3. Pierwsze powtórzenie nie daje jasnego wyniku. Miko z pomocą Adriena porównuje zapis z ruchem wahadła lub innym prostym odniesieniem. Jeden zauważa możliwą przyczynę błędu w pomiarze, drugi proponuje zmianę ustawienia. Kilka prób niczego nie rozstrzyga. Sukces nie polega jeszcze na gotowej zdolności, tylko na obserwacji, którą można zbadać.
+4. Miko chce przeprowadzić kolejną próbę na sobie. Adrien odmawia udziału w zaproponowanych warunkach i pomaga opracować sposób odłączenia urządzenia oraz pomiar. Miko przystaje na odsunięcie innych, ale nadal uważa własne przyjęcie impulsu za najbardziej interesującą część doświadczenia. Ich porozumienie ma granice: Adrien nie obiecuje pomagać w każdej kolejnej próbie.
+5. Po nieudanym uruchomieniu personel ogranicza dostęp do stanowiska do czasu kontroli. Miko pyta, czy zakaz dotyczy również dziedzińca. Otrzymuje odpowiedź, że najpierw musi przedstawić plan. Zamiast natychmiastowego triumfu zabiera kartki i zaczyna plan pisać — dodając na marginesie rysunek dziedzińca.
+
+**Finał:** Miko wie, że zdarzyło się coś wartego badania, ale nie potrafi jeszcze wywołać tego na żądanie. Przyjaźń z Adrienem zyskuje wspólny temat i pierwszy powód do sporu.
+
+## II. „Jeszcze jeden impuls”
+
+**Miejsce i czas:** Zerath i korespondencja z Aurelem, po studiach, przed wiosną 12 ET.
+**Oś:** Miko chce pomóc ekipom przekaźników, budując oszczędniejszy przyrząd, a przy okazji próbuje wykorzystać własne przyspieszenie.
+
+1. Ekipa zgłasza konkretny problem: przy niskim zapasie w kryształach sygnał bywa zbyt słaby, by odczytać go na stanowisku kontrolnym. Miko ma przygotować przyrząd do miejscowej próby, nie cudowny zamiennik całej sieci. Mechaniczka z ekipy zna warunki pracy i chce rozwiązania, które da się sprawdzić oraz naprawić bez rozbierania połowy stacji.
+2. Miko buduje układ, zapisuje zmiany i wypróbowuje kilka nieudanych ustawień. Adrien komentuje przesłane wyniki lub ogląda jeden z wcześniejszych modeli podczas wizyty; nie trzeba umieszczać go przy każdej próbie. Pojawia się pytanie, czy impuls z urządzenia mógłby również wywołać krótkie przyspieszenie samego Miko. To poboczny eksperyment, nie cel ekipy.
+3. Miko chce szybko znaleźć usterkę w modelu przekaźnika i połączyć próbę urządzenia z testem własnych reakcji. Przyspieszenie pomaga mu zdążyć do mechanizmu, ale nie mówi, który przewód odłączyć; jego pierwszy wybór okazuje się błędny. Mechaniczka wyłącza stanowisko i wskazuje, że przydatny przyrząd musi dać odczyt także komuś, kto nie porusza się tak jak on.
+4. Kolejny prototyp ma zostać pokazany ekipie. Na prośbę mechaniczki Miko zgadza się najpierw sprawdzić go w oddzielonym stanowisku. W próbie mocowanie lub sterowanie zachowuje się inaczej, niż przewidział. Urządzenie wyłącza się, zanim trafi w ręce ekipy. Miko jest zawiedziony przerwaniem pomiaru, ale sam zapisuje wadę i nie przedstawia prototypu jako gotowego.
+5. W spokojniejszej scenie wielokrotnie poprawia jeden styk. Dopiero po wielu uruchomieniach uzyskuje czytelny wynik przy mniejszym zapasie. Mechaniczka prosi o możliwość samodzielnego powtórzenia pomiaru. Wynik daje podstawę do dalszej pracy, nie dowodzi jeszcze trwałości całej konstrukcji.
+
+**Finał:** ekipa dostaje wyniki i listę rzeczy wymagających sprawdzenia. Miko zabiera prototyp do dalszych poprawek oraz notatkę o impulsie, który zadziałał na niego inaczej niż poprzednie. Ma praktyczny cel i nowe pytanie. Wady mocowania mogą powracać później, ale nie muszą być identyczną usterką co ta z 18 kwietnia.
+
+## III. „Jeszcze jeden piorun”
+
+**Miejsce i czas:** wiosna 12 ET, przygotowania do kwalifikacji oraz okres po 29 maja.
+**Oś:** Miko odkrywa, że dobry manewr wymaga od innych czegoś więcej niż zdążenia za nim.
+
+1. Miko wraca do swojej pracy po kwietniowej próbie z Adrienem i majowym spotkaniu u Leny. Wie, że jego regulator wymaga dalszych badań. Interesuje go również udział w kwalifikacjach: chce wykorzystać doświadczenie przy mechanizmach i wesprzeć ludzi pracujących przy przekaźnikach, a możliwość sprawdzenia siebie w nowych warunkach bardzo go cieszy.
+2. Przy zgłoszeniu musi wybrać stronę sporu i deklarowaną reprezentację. Zanim podejmie decyzję, pyta, co programy obu stron mogą oznaczać dla dostępu ekip do części i napraw. **Konkretny wybór strony, reprezentacji i zobowiązania programu pozostaje do ustalenia** — nie wynika automatycznie z jego pochodzenia ani przyjaźni z Adrienem. W gotowym opowiadaniu trzeba pokazać decyzję i jej powód, nie urywać sceny przed formularzem.
+3. W kwalifikacyjnym zadaniu zespołowym kandydaci mają doprowadzić sygnał do stanowiska i wykonać pracę przy modelu mechanizmu. To propozycja pojedynczej próby, nie ustalenie całego regulaminu kwalifikacji. Miko zakłada, że wystarczy powiedzieć „zaraz wracam”, przyjmuje impuls i rusza. Dociera szybko, ale jego partnerka przerywa planowane działanie, nie wiedząc, gdzie on jest ani co zamierza. Zadanie nie przebiega zgodnie z planem.
+4. Partnerka sprzeciwia się powtórzeniu manewru bez wyjaśnień: odpowiada za własną część zadania i nie chce być zaskakiwana. Miko najpierw proponuje, żeby po prostu działała szybciej. Potem słucha, kiedy pokazuje mu, czego nie widziała ze swojego stanowiska. Ich spór dotyczy realnego problemu, a nie tego, że wszyscy oprócz Miko muszą nauczyć się go podziwiać.
+5. Razem przygotowują drugi wariant: ustalają sygnał, trasę i moment rozpoczęcia. Partnerka utrzymuje lub przełącza wskazany element, Miko używa dopuszczonego do próby własnego urządzenia, by dostać krótki impuls, i wykorzystuje szermiercze wyczucie dystansu do wykonania precyzyjnego ruchu przy modelu. Reszta zespołu kończy swoją część. Zasady dopuszczenia urządzenia i szczegóły zadania muszą być ogłoszone przed próbą; w tekście nie zakładamy, że sojusznik może ranić Miko.
+6. Manewr częściowo się udaje: zadanie zostaje wykonane, ale pomiar pokazuje również ograniczenie lub niedoskonałość konstrukcji. Oceniający zapisują wynik; jeden udany test nie oznacza automatycznej kwalifikacji. Miko zapisuje również uwagę partnerki, bo bez niej nie uzyskałby tego wyniku. Ma już pomysł na kolejną próbę i tym razem mówi jej, co chce zrobić, zanim sięgnie po urządzenie.
+
+**Finał:** Miko pozostaje sobą — nadal jest zachwycony pomysłem kolejnego impulsu. Ma jednak doświadczenie wspólnie przygotowanego manewru i konkretną osobę, której zawdzięcza część rozwiązania. Wynik kwalifikacji oraz udział w późniejszych Igrzyskach pozostają otwarte.
+
+## Głos i przykładowe kwestie
+
+Każdą część Miko opowiada w pierwszej osobie, z własnej perspektywy. Może prowadzić datowane zapiski: obok pomiarów umieszcza rozmowy, rysunki, poprawki i szczegóły, które go rozbawiły. Dostrzega cudze reakcje, ale nie zna cudzych myśli bez rozmowy. Jego entuzjazm nie musi oznaczać nieustannego wykrzykiwania; cisza nad siedemnastą próbą może powiedzieć o nim równie dużo.
+
+Poniższe kwestie są materiałem do scen, nie obowiązkowymi puentami:
+
+> — Dlaczego nie uniknąłeś tej błyskawicy?
+> — Bo wtedy by mnie nie trafiła.
+
+> — Ile prób wykonałeś?
+> — Siedemnaście.
+> — A ile się udało?
+> — To zależy, co uznamy za pytanie.
+
+> — Miko, powiedz mi wcześniej, co zamierzasz.
+> — Jeszcze nie wiem. Ale powiem, kiedy będę wiedział.
+
+## Decyzje przed rozwinięciem opowieści
+
+1. Ustalić lata studiów i badań oraz sprawdzić je wobec chronologii wojny i dostępności Adriena. Ich pięcioletnia różnica wieku pozostaje zachowana.
+2. Wybrać stronę, reprezentację i konkretny powód zgłoszenia Miko po porównaniu aktualnych programów; nie utożsamiać jego decyzji z wyborem Adriena.
+3. Zdecydować, czy nowa pasywka zastępuje dotychczasową, oraz przetestować jej parametry i współdziałanie z pozostałymi zdolnościami. Nie przenosić liczb z gry automatycznie do prozy.
+4. Dopracować samodzielną rolę mechaniczki i partnerki z kwalifikacji: imiona, kompetencje, cele i to, czy są odrębnymi osobami. Ich decyzje nie służą wyłącznie komentowaniu Miko.
+5. Rozstrzygnąć, ile z opisanych kwalifikacji znajdzie się w finalnej wersji trylogii. Wcześniejszy szkic trylogii Adriena przyjmował zakończenie przed kwalifikacjami; tutaj proponujemy późniejszy punkt widzenia Miko, bez zmieniania zakończenia historii Adriena.
+
+## Źródła ciągłości
+
+- `world_history.md`: uniwersytet w Aurelu, splotyt, Porozumienie Val Meris oraz daty i ogólne założenia kwalifikacji.
+- `opowiadania/adrien/3_the_invention_i_didnt_foresee/historia.pl.md`: przyjaźń, wiek, porównanie regulatorów i list Adriena do Miko.
+- `opowiadania/lena/3_i_know_someone_who_can/historia.pl.md`: oba spotkania w Aurelu z 18 kwietnia i 4 maja 12 ET.
+- `riftoryn-unity/Assets/Resources/codex.json` oraz `RIFTORYN_GDD.md`: obecna biografia i mechanika Miko. Nowa zdolność opisana wyżej jest propozycją zmiany, nie istniejącą implementacją.
