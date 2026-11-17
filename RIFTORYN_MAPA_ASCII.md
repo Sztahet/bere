@@ -173,6 +173,7 @@ o V01 CIENISTY PORT ===== [R02 -> VAL MERIS]
 - **Z01 [K/G]** — Iglica Zerath, ośrodek przekaźników przy skalistym wybrzeżu. **Dziedziniec Impulsu [G]** to proponowany ośrodek Prób. [Zerath w historii świata][zerath] · [GDD][gdd]
 - **Z02 [O]** — oberża pod bramą w Zerath. Rozmówca Tarena zna jej nazwę, lecz tekst jej nie podaje. **Z03 [O]** — dom Tarena i Lucena, brama z rejestrem wozów, nabrzeże oraz stacja w Iglicy. [To, co pozostało][taren1] · [Po drugiej stronie][taren3]
 - **Z04 [O]** — główny rozdzielnik, boczne stacje z pompami, warsztat ślusarki przy najdłuższym odcinku i skład części po drugiej stronie granicy. **Z05–Z06 [O]** — stacja graniczna, na której brygada Varek podaje znaki z okien, oraz pracownia i stanowisko prób Miko. Numer i położenie poszczególnych stacji pozostają otwarte. [Cena lojalności][taren2] · [Jeszcze jeden impuls][miko2]
+- **Z08 [O]** — dolny posterunek i zjazd z dwiema podporami; górny posterunek oraz rozwidlenie, skąd Zet sprawdza uszkodzony odcinek drogi dla konwoju. Ich dokładne położenie względem innych stacji pozostaje otwarte. [Drugi sygnał][varek1]
 - **Z07 [?]** — pierwsza karczma wspomniana przy rozważaniu trasy z Zerath do Aurelu. To wzmianka o możliwym miejscu wymiany kurtki. Brak danych pozwalających umieścić ją na konkretnym odcinku R16. [To, co pozostało][taren1]
 
 ### Verdan — południe
@@ -286,3 +287,5 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 [thora2]: opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md
 [thora3]: opowiadania/thora/3_enough/historia.pl.md
 [vaelis1]: opowiadania/vaelis/1_the_sealed_copy/historia.pl.md
+
+[varek1]: opowiadania/varek/1_the_second_signal/historia.pl.md

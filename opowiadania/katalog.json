@@ -349,5 +349,32 @@
         "draft": true
       }
     ]
+  },
+  {
+    "id": "varek",
+    "name": "Varek",
+    "region": "Zerath",
+    "portrait": "varek-lightning-support.png",
+    "series": "Drugi koniec linii",
+    "stories": [
+      {
+        "id": "drugi-sygnal",
+        "folder": "opowiadania/varek/1_the_second_signal",
+        "unity": "VarekDraft1",
+        "draft": true
+      },
+      {
+        "id": "czas-na-odpowiedz",
+        "folder": "opowiadania/varek/2_the_cost_of_waiting",
+        "unity": "VarekDraft2",
+        "draft": true
+      },
+      {
+        "id": "kto-zostaje-przy-linii",
+        "folder": "opowiadania/varek/3_who_holds_the_line",
+        "unity": "VarekDraft3",
+        "draft": true
+      }
+    ]
   }
 ]
