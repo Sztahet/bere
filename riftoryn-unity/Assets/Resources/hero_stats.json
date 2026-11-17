@@ -91,6 +91,15 @@
       "petSpeed": 0
     },
     {
+      "id": "nera",
+      "hp": 110,
+      "attack": 10,
+      "speed": 5.0,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
       "id": "niva",
       "hp": 125,
       "attack": 10,

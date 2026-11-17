@@ -176,6 +176,32 @@
       "passEn": "Briefly gains movement speed after using an ability."
     },
     {
+      "id": "nera",
+      "name": "Nera",
+      "role": "Wsparcie",
+      "element": "Błyskawice",
+      "img": "nera-lightning-support.png",
+      "hp": 110,
+      "speed": "5,0",
+      "cd": 20,
+      "desc": "Młoda pracowniczka przekaźników z Zerath, która uczy się chronić ludzi i prosić o miejsce na własny rozwój.",
+      "descEn": "A young Zerath relay worker learning to protect others and make room for her own growth.",
+      "attackName": "Atak · Iskra wsparcia",
+      "attack": "Zapewnia sobie 35 osłony i pobliskiemu sojusznikowi 65 osłony w promieniu 8 m. Osłona maleje o 10% aktualnej wartości na sekundę. Odnowienie: 20 s.",
+      "attackNameEn": "Attack · Helping Spark",
+      "attackEn": "Grants herself 35 shield and one nearby ally 65 shield within 8 m. Shield decays by 10% of its current value per second. Cooldown: 20 s.",
+      "bio": {
+        "name": "Nera",
+        "city": "Iglica Zerath",
+        "cityEn": "Zerath Spire",
+        "specialty": "Osłona sojusznika i praca przy przekaźnikach",
+        "story": "Wiek w 12 ET: około 21 lat.\n\nNera pracuje na stacji przekaźnikowej w Zerath. Zawsze gotowa podać narzędzie, posprzątać stanowisko albo odnieść wiadomość, szybko odkrywa, że pomaganie innym potrafi wypełnić cały dzień. Chce też znaleźć czas na naukę: zapisywanie sygnałów, sprawdzanie urządzeń i prowadzenie Błyskawic.\n\nUczy się od Varek, Volta i innych pracowników, ale nie boi się zadawać pytań ani zwracać uwagi, gdy w meldunku brakuje ważnej informacji. Z czasem zaczyna stawiać granice i sama decydować, czego chce się nauczyć.",
+        "storyEn": "Age in 12 AT: about 21.\n\nNera works at a relay station in Zerath. Always ready to pass a tool, tidy a workstation or deliver a message, she discovers that helping others can fill her whole day. She also wants time to learn: recording signals, checking devices and channeling Lightning.\n\nShe learns from Varek, Volt and the other workers, but is not afraid to ask questions or point out missing information. Over time she begins setting boundaries and deciding for herself what she wants to learn.",
+        "reason": "Chce rozwijać umiejętności, dzięki którym może wspierać innych i podejmować własne decyzje.",
+        "family": "Nieustalona."
+      }
+    },
+    {
       "id": "liora",
       "name": "Liora",
       "role": "Wsparcie",

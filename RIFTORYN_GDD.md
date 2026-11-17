@@ -157,6 +157,7 @@ Przywoływacz ma dwa pełne zestawy statystyk: własne oraz swojego peta. Przywo
 | Liora | Wsparcie / Natura | 120 | 10 | 4,8 | — | — | — | — |
 | Elira | Wsparcie / Światło | 120 | 10 | 4,8 | — | — | — | — |
 | Varek | Wsparcie / Błyskawice | 115 | 10 | 4,9 | — | — | — | — |
+| Nera | Wsparcie / Błyskawice | 110 | 10 | 5,0 | — | — | — | — |
 | Niva | Wsparcie / Lód | 125 | 10 | 4,7 | — | — | — | — |
 | Solan | Wsparcie / Ogień | 120 | 10 | 4,8 | — | — | — | — |
 | Dara | Wsparcie / Ziemia | 125 | 10 | 4,7 | — | — | — | — |
@@ -370,6 +371,11 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 **Q w ataku — Wspólny impuls:** Runnerzy i sojusznicze moby w promieniu 5 m, włącznie z Varekiem, otrzymują 25% prędkości na 3 s. **Odnowienie: 20 s.**
 
 **Q w obronie — Szybki zapłon:** wybrana wieża strzela automatycznie o 20% szybciej przez 5 s; nie zmienia szybkostrzelności ręcznej. **Odnowienie: 20 s.** Kontra: wymuszenie wczesnego użycia lub czasowe wyłączenie wieży.
+
+#### Nera — Wsparcie Błyskawic: Iskra wsparcia [prototyp]
+**HP:** 110. **Prędkość:** 5,0 m/s. Nera chroni siebie i pobliskiego sojusznika, uzupełniając Varek, która wspiera ruch drużyny.
+
+**Q w próbie — Iskra wsparcia:** zapewnia Nerze 35 osłony oraz żywemu sojusznikowi w promieniu 8 m 65 osłony. Bez sojusznika otrzymuje tylko własną osłonę. Osłona maleje o 10% aktualnej wartości na sekundę. **Odnowienie: 20 s.** Wartości są robocze; pasywka i umiejętność obronna pozostają do opracowania. Model w próbie jest zastępczy.
 
 #### 8. Niva — Wsparcie Lodu: Mroźna Opiekunka
 **HP:** 125. **Prędkość:** 4,7 m/s. Usuwa wybrane efekty kontroli.

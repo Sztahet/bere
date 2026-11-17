@@ -83,7 +83,7 @@ public partial class RiftorynMenu : MonoBehaviour {
     {
         switch(id)
         {
-            case "kael": case "thora": case "niva": case "varek": case "liora": case "dara": case "elira": case "rian": case "saila": case "kiran": case "pyrra": case "ana": case "lumen": case "koneva": case "neris":
+            case "kael": case "thora": case "niva": case "varek": case "nera": case "liora": case "dara": case "elira": case "rian": case "saila": case "kiran": case "pyrra": case "ana": case "lumen": case "koneva": case "neris":
                 return RiftorynCodexData.Text("JEJ HISTORIA  →","HER HISTORY  →");
             case "brom": case "iskar": case "taren": case "orien": case "solan": case "nocten": case "zet": case "morven": case "miko": case "eron": case "adrien": case "eira": case "volt": case "rokan":
                 return RiftorynCodexData.Text("JEGO HISTORIA  →","HIS HISTORY  →");
