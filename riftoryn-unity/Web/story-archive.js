@@ -131,10 +131,11 @@
     meta.replaceChildren(document.createTextNode(`${hero.name} · Część ${parts[index]}`));
     if (story.draft) meta.append(approvalBadge());
     storyTitle.textContent = translated.title;
-    const cover = hero.id === "saila" ? sailaCovers[story.id] : null;
+    const cover = hero.id === "saila" ? sailaCovers[story.id] :
+      hero.id === "rian" && story.id === "jedenascie-minut" ? {src: "riftoryn-unity/Assets/Resources/RianStory1/03.jpg", intro: "Rian przyjmuje zlecenie dotyczące obrony jednej z bram Val Meris."} : null;
     const coverImage = document.getElementById("reader-cover");
     coverImage.hidden = !cover;
-    if (cover) coverImage.src = cover.src;
+    if (cover) { coverImage.src = cover.src; coverImage.alt = hero.id === "rian" ? "Rian ogląda monetę przy stole z narzędziami." : ""; }
     else coverImage.removeAttribute("src");
     document.getElementById("reader-heading").classList.toggle("has-cover", Boolean(cover));
     const intro = document.getElementById("reader-intro");
@@ -162,6 +163,7 @@
       section.append(headingWrap);
       for (const block of chapter.blocks) {
         if (block.src) {
+          if (hero.id === "rian" && block.src === cover?.src) continue;
           const figure = element("figure");
           const image = element("img");
           image.src = block.src;

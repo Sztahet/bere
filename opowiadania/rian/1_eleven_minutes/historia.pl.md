@@ -4,6 +4,8 @@
 
 Przed oblężeniem Val Meris, do 3 PT · warsztat
 
+<!-- ilustracja: 03 -->
+
 Najłatwiej sprzedać naprawę człowiekowi, który już wie, ile kosztuje go przestój.
 
 Kiedyś przyjmowałam zepsute pompy i nagrzewnice. Ludzie przynosili je pod drzwi, a ja przez pół dnia szukałam części, której nikt nie zamówił na czas. Płacili, jeśli mieli czym. Czasem odbierali urządzenie i obiecywali wrócić z pieniędzmi. Nie wszyscy wracali.
@@ -37,6 +39,8 @@ Zlecenie przy Val Meris dotyczyło obrony jednej z bram. Nie całego miasta. Po�
 Nie przyjmuję takiej odpowiedzi. Czas oznacza sposób pracy, a sposób pracy oznacza cenę. Ustaliliśmy przedział i termin. Spytałam, kto będzie miał dostęp do osłony przed moim przyjściem oraz czy wymieniano część przy mocowaniu. Zleceniodawca znał odpowiedź tylko na pierwsze pytanie. Drugą musiałam znaleźć sama.
 
 Nie spytałam o ludzi mieszkających za bramą. Wiedziałam, że są tam domy. Widziałam dachy, kiedy sprawdzałam dojście.
+
+<!-- ilustracja: 04 -->
 
 W drodze powrotnej z oględzin zatrzymała mnie kobieta z koszem i zapytała, czy przy bramie przejdzie wóz. Odpowiedziałam, że droga jest otwarta. W tamtej chwili była. Podziękowała i poprawiła płachtę na koszu, zanim ruszyła dalej.
 

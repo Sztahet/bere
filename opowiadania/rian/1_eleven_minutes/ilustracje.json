@@ -6,5 +6,13 @@
   "02": {
     "alt": "Rian zamyka panel mechanizmu obrony przy bramie Val Meris.",
     "altEn": "Rian closes the defense mechanism panel near a Val Meris gate."
+  },
+  "03": {
+    "alt": "Rian ogląda monetę przy stole z narzędziami i sakiewką; w tle widnieje brama miasta.",
+    "altEn": "Rian examines a coin at a table with tools and a purse; a city gate stands in the background."
+  },
+  "04": {
+    "alt": "Rian obserwuje bramę Val Meris i wieżę z zamkniętym panelem, przed wykonaniem zlecenia.",
+    "altEn": "Rian surveys a Val Meris gate and a tower with its panel closed before carrying out the job."
   }
 }
