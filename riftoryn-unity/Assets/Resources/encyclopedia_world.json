@@ -1,4 +1,286 @@
 {
+  "regions": [
+    {
+      "id": "fire",
+      "name": "Vareth",
+      "tagline": "PÓŁNOCNY WSCHÓD · TRADYCJE OGNIA · 12 ET",
+      "taglineEn": "NORTHEAST · TRADITIONS OF FIRE · 12 AT",
+      "overview": "Vareth jest krainą pieców, kuźni i warsztatów. W Żarowisku oraz okolicznych osadach powstają narzędzia, części i urządzenia, od których zależy praca w innych częściach kontynentu. Ogień służy tu zarówno rzemiosłu, jak i magii; mieszkańcy wykonują jednak wiele zawodów i nie wszyscy potrafią nim władać.",
+      "overviewEn": "Vareth is a region of furnaces, forges, and workshops. Tools, parts, and devices made in Emberforge and the surrounding settlements support work across the continent. Fire serves both craft and magic here, though residents have many different occupations and not everyone can wield it.",
+      "sections": [
+        {
+          "title": "Krajobraz i osady",
+          "titleEn": "Landscape and settlements",
+          "text": "Na północnym wschodzie skaliste wyżyny sąsiadują z terenami wulkanicznymi. Żarowisko Vareth łączy dziedzińce warsztatowe z drogami, którymi przyjeżdżają ciężkie wozy z surowcami. Strome odcinki utrudniają przewóz rud i gotowych urządzeń. Poza zakładami są tu domy, sklepy i jadłodajnie, w których spotykają się rzemieślnicy, przewoźnicy i ich rodziny.",
+          "textEn": "Rocky northeastern uplands border volcanic terrain. Emberforge links workshop courtyards with roads used by heavy carts carrying raw materials. Steep stretches complicate the transport of ore and finished devices. Alongside the workshops are homes, shops, and eating houses where craftspeople, carriers, and their families meet."
+        },
+        {
+          "title": "Codzienność",
+          "titleEn": "Daily life",
+          "text": "W wielu warsztatach dzień zaczyna się od sprawdzenia pieców i przewodów, a kończy sprzątaniem stanowisk. Przy wygaszanym piecu sąsiedzi oddają drobiazgi do naprawy; zapłatą bywa pieniądz, materiał albo pomoc przy innej pracy. Doświadczenie przekazuje się podczas wspólnego wykonywania zadań. W jadłodajniach rozmawia się także o rodzinach, dostawach i wynikach miejscowych zawodów.",
+          "textEn": "In many workshops, the day begins with checks of furnaces and conduits and ends with cleaning the workstations. As a furnace cools, neighbors bring small items for repair; payment may be money, materials, or help with another job. Experience passes between people working together. Conversations in eating houses also turn to families, deliveries, and local sporting results."
+        },
+        {
+          "title": "Gospodarka i splotyt",
+          "titleEn": "Economy and splotyt",
+          "text": "Vareth obrabia metale oraz wytwarza części do wież, chłodni, narzędzi i ogrzewania. Potrzebuje rud z Kharum, żywności z Verdan i sprawnych szlaków. Ciepło wulkanu pozwala najtaniej ładować kryształy do pieców grzewczych. Ulepszenia Adriena z Aurelu umożliwiły takim piecom pracę przez wiele tygodni przy odpowiednim użyciu. Rozładowane urządzenia często wracają do Vareth. Splotyt przechowuje dostarczoną energię, a czas działania zależy od kryształu, ustawień i warunków.",
+          "textEn": "Vareth works metals and produces parts for towers, cold stores, tools, and heating. It needs ore from Kharum, food from Verdan, and reliable routes. Volcanic heat makes recharging heating crystals cheapest here. Improvements developed by Adrien of Aurel allow these heaters to work for many weeks under suitable conditions. Depleted devices often return to Vareth. Splotyt stores supplied energy, and operating time depends on the crystal, settings, and conditions."
+        },
+        {
+          "title": "Historia i odbudowa",
+          "titleEn": "History and reconstruction",
+          "text": "Wojna pozostawiła po sobie uszkodzone urządzenia i pamięć o niebezpieczeństwie przegrzanych instalacji. Po rozejmie warsztaty uczestniczą w odbudowie kontynentu. Jedni mieszkańcy wiążą bezpieczeństwo z rozbudową techniki, inni podkreślają potrzebę ręcznych zabezpieczeń oraz możliwości odłączenia pojedynczej wieży. Przyczyna Nocy Zgasłych Wież w 3 PT nadal pozostaje nieustalona.",
+          "textEn": "The war left damaged devices and memories of dangerous overheated installations. Since the armistice, workshops have helped rebuild the continent. Some residents associate safety with technological expansion; others emphasize manual safeguards and the ability to disconnect individual towers. The cause of the Night of Extinguished Towers in 3 BT remains unresolved."
+        },
+        {
+          "title": "Sprawy mieszkańców w 12 ET",
+          "titleEn": "Residents’ concerns in 12 AT",
+          "text": "Mniejsze zakłady odczuwają opóźnienia dostaw rud, kryształów i mocowań. Przed chłodnym sezonem trzeba pogodzić zamówienia dużych odbiorców z potrzebami niewielkich osad. Szybsze tempo produkcji wymaga ludzi i sprawnych urządzeń. Spory dotyczą tego, kto zapłaci za naprawy, jak rozdzielić ograniczone materiały i które dostawy powinny wyjechać najpierw.",
+          "textEn": "Smaller workshops feel the effects of late deliveries of ore, crystals, and mountings. Before the cold season, orders from major customers must be balanced against the needs of small settlements. Faster production requires people and reliable equipment. Disputes concern who pays for repairs, how scarce materials are allocated, and which deliveries should leave first."
+        }
+      ]
+    },
+    {
+      "id": "ice",
+      "name": "Nivoren",
+      "tagline": "PÓŁNOC · TRADYCJE LODU · 12 ET",
+      "taglineEn": "NORTH · TRADITIONS OF ICE · 12 AT",
+      "overview": "Nivoren obejmuje północne góry, osady przy przełęczach i szlaki, na których pogoda wyznacza terminy podróży. Biały Przesmyk jest ważnym ośrodkiem magazynów i transportu. Wiedza o przechowywaniu zapasów oraz zimowych przejściach pomaga całemu kontynentowi, choć sama kraina ma najmniejszy dostęp do wielu podstawowych dóbr.",
+      "overviewEn": "Nivoren covers the northern mountains, settlements near passes, and routes where weather determines travel schedules. White Pass is an important center for storage and transport. Knowledge of preserving supplies and navigating winter crossings helps the continent, although the region itself has the least access to many basic goods.",
+      "sections": [
+        {
+          "title": "Krajobraz i osady",
+          "titleEn": "Landscape and settlements",
+          "text": "Górskie wąwozy i przełęcze łączą rozproszone osady. Przy drogach działają schronienia, posterunki i magazyny, a dolne trasy mogą zastępować przejścia zamykane przez śnieg. Objazd wymaga dodatkowego czasu, zapasów i czasem innych środków transportu. Stan jednego odcinka może zdecydować, czy części i żywność dotrą przed kolejną zamiecią.",
+          "textEn": "Mountain gorges and passes connect scattered settlements. Shelters, posts, and warehouses stand along the roads, while lower routes may replace crossings closed by snow. Detours take additional time, supplies, and sometimes different means of transport. Conditions on a single stretch can determine whether parts and food arrive before the next blizzard."
+        },
+        {
+          "title": "Codzienność",
+          "titleEn": "Daily life",
+          "text": "Przed wyjazdem załogi sprawdzają pogodę, przejścia i zapasy. W schroniskach podróżni rozgrzewają się przy wspólnym stole i wymieniają wiadomości z sąsiednich dolin. Niektóre rodziny zostawiają drewno lub jedzenie dla następnych przyjezdnych, jeśli mogą sobie na to pozwolić. Obsługa chłodni, ogrzewanie domów i naprawy zajmują ludzi niezależnie od tego, czy na szlaku pojawia się konwój.",
+          "textEn": "Before departure, crews check the weather, crossings, and supplies. Travelers warm themselves at shared tables in shelters and exchange news from neighboring valleys. Some families leave wood or food for later arrivals when they can afford to do so. Running cold stores, heating homes, and making repairs keep people busy whether or not a convoy arrives."
+        },
+        {
+          "title": "Gospodarka i splotyt",
+          "titleEn": "Economy and splotyt",
+          "text": "Nivoren dostarcza lód, przechowuje zapasy i obsługuje północne szlaki. W jaskiniach występuje również splotyt, lecz nie zapewnia łatwego bogactwa. Chłodnie wymagają urządzeń, energii i napraw, a mieszkańcy potrzebują żywności, leków i ogrzewania. Kraina korzysta ze wspólnego finansowania podstawowych dostaw. Wkład miejscowych załóg jest cenny, ale uzyskiwane przychody nie wystarczają na wszystkie potrzeby.",
+          "textEn": "Nivoren supplies ice, stores reserves, and services northern routes. Splotyt also occurs in caves, but does not provide easy wealth. Cold stores need equipment, energy, and repairs, while residents need food, medicines, and heating. The region benefits from shared funding for essential deliveries. Local crews provide valuable services, but their earnings do not cover every need."
+        },
+        {
+          "title": "Historia i odbudowa",
+          "titleEn": "History and reconstruction",
+          "text": "Awarie z okresu Nocy Zgasłych Wież dotknęły także urządzenia w Białym Przesmyku. Nie ustalono wspólnej przyczyny wszystkich katastrof. Po wojnie mieszkańcy odbudowują magazyny i połączenia, a doświadczenia przerwanych dostaw wzmacniają znaczenie lokalnych rezerw. Saila i Ruvan znają te problemy z codziennej pracy przy urządzeniach oraz na górskich trasach.",
+          "textEn": "Failures around the time of the Night of Extinguished Towers also affected devices in White Pass. A common cause for all the disasters has not been established. Since the war, residents have rebuilt stores and connections, and interrupted deliveries have reinforced the value of local reserves. Saila and Ruvan know these problems through daily work with devices and mountain routes."
+        },
+        {
+          "title": "Sprawy mieszkańców w 12 ET",
+          "titleEn": "Residents’ concerns in 12 AT",
+          "text": "Chłodnie i schronienia czekają na części, a przejazdy zależą od pogody i stanu dróg. Rozbudowa sieci mogłaby ograniczyć część trudności, lecz wymaga kryształów, załóg i późniejszego utrzymania. Mieszkańcy szukają lepiej opłacanego miejsca we wspólnej wymianie. Chronione podstawowe dostawy i ratownictwo obowiązują w obu wariantach Porozumienia Val Meris; Igrzyska nie odbierają im tej gwarancji.",
+          "textEn": "Cold stores and shelters await parts, while crossings depend on weather and road conditions. Expanding the network could ease some difficulties, but requires crystals, crews, and ongoing maintenance. Residents seek a better-paid role in shared trade. Protected essential deliveries and rescue services remain guaranteed under both versions of the Val Meris Agreement; the Games do not remove that protection."
+        }
+      ]
+    },
+    {
+      "id": "lightning",
+      "name": "Zerath",
+      "tagline": "WSCHÓD · TRADYCJE BŁYSKAWIC · 12 ET",
+      "taglineEn": "EAST · TRADITIONS OF LIGHTNING · 12 AT",
+      "overview": "Zerath jest wschodnią krainą burz, kryształów i przekaźników. Wokół Iglicy rozwinęły się warsztaty oraz wiedza o łączeniu oddalonych stacji. Dostęp do splotytu i umiejętność przesyłania energii dają krainie istotną rolę, ale sprawność sieci zależy od pracy wielu załóg oraz dostaw od sąsiadów.",
+      "overviewEn": "Zerath is the eastern region of storms, crystals, and relays. Workshops and knowledge of connecting distant stations developed around the Spire. Access to splotyt and the ability to transmit energy give the region an important role, but the network depends on many crews and supplies from its neighbors.",
+      "sections": [
+        {
+          "title": "Krajobraz i osady",
+          "titleEn": "Landscape and settlements",
+          "text": "Iglica Zerath leży przy wschodnich skalistych wybrzeżach. Między ośrodkami działają stacje i przekaźniki, a częste burze wpływają na pracę i podróże. Splotyt łatwiej znaleźć tu na powierzchni niż w innych krainach. Złoże nadal trzeba bezpiecznie wydobyć, przewieźć i przygotować do użycia; obecność kryształów w okolicy nie zapewnia każdej osadzie sprawnej instalacji.",
+          "textEn": "Zerath Spire stands near the rocky eastern coast. Stations and relays operate between settlements, and frequent storms affect work and travel. Splotyt is easier to find on the surface here than elsewhere. Deposits still have to be safely extracted, transported, and prepared; nearby crystals do not guarantee a working installation in every settlement."
+        },
+        {
+          "title": "Codzienność",
+          "titleEn": "Daily life",
+          "text": "Przy zmianach dyżurów operatorzy i posłańcy przekazują wiadomości. Na placach obok przekaźników czeka się na korespondencję, rozmawia i śledzi wyniki zawodów. Warsztaty przyjmują drobne urządzenia do naprawy. Ważne sygnały sprawdza się niezależnym kanałem, ale załogi muszą również ocenić, kiedy pilne ostrzeżenie wymaga działania przed otrzymaniem potwierdzenia.",
+          "textEn": "Operators and messengers exchange information at shift changes. People wait for correspondence, talk, and follow sporting results in squares beside the relays. Workshops take in small devices for repair. Important signals are checked through an independent channel, but crews must also judge when an urgent warning requires action before confirmation arrives."
+        },
+        {
+          "title": "Gospodarka i splotyt",
+          "titleEn": "Economy and splotyt",
+          "text": "Zerath dostarcza około połowy energii wprowadzanej do wspólnej sieci. Nie jest to połowa całej energii wytwarzanej na kontynencie. Wyładowania służą ładowaniu kryształów, a stacje przekazują wcześniej zgromadzoną energię dalej, ponosząc straty przesyłu. Kraina potrzebuje żywności, narzędzi, mocowań i ekip utrzymania. Wynagrodzenie za energię musi wystarczać również na mniej dochodowe odcinki sieci.",
+          "textEn": "Zerath supplies about half the energy fed into the shared network, which is not half of all energy produced on the continent. Discharges charge crystals, and stations pass stored energy onward with transmission losses. The region needs food, tools, mountings, and maintenance crews. Payment for energy must also support less profitable sections of the network."
+        },
+        {
+          "title": "Historia i odbudowa",
+          "titleEn": "History and reconstruction",
+          "text": "Z Zerath pochodzi najstarszy zachowany opis ładowania splotytu, datowany na 154 PT. Opowieść o piorunie i pierwszym odkrywcy pozostaje niepewna. W 91 PT udokumentowano tu połączenie oddalonych kryształów w sieć. Wojna oraz późniejsze awarie pokazały koszt zależności od wspólnych węzłów. Mieszkańcy odbudowują łączność, nie znając pełnej przyczyny katastrof z okresu Nocy.",
+          "textEn": "The oldest surviving account of charging splotyt comes from Zerath and dates to 154 BT. The story of a lightning strike and the first discoverer remains uncertain. A network connecting distant crystals was documented here in 91 BT. War and later failures exposed the cost of dependence on shared nodes. Residents rebuild communications without knowing the full cause of the disasters around the Night."
+        },
+        {
+          "title": "Sprawy mieszkańców w 12 ET",
+          "titleEn": "Residents’ concerns in 12 AT",
+          "text": "Iglica działa, lecz część małych stacji czeka na części i obsadę. Uszkodzony przekaźnik może opóźnić wiadomość o zamkniętej drodze. Spór o korzyści z sieci dotyczy zarówno wkładu Zerath, jak i kosztów ponoszonych przez inne krainy. Taren zabiega o większą samodzielność; operatorzy, przewoźnicy i rodziny nie muszą podzielać jednego stanowiska.",
+          "textEn": "The Spire operates, but some small stations await parts and staff. A damaged relay may delay news of a closed road. Disputes over the network’s benefits concern both Zerath’s contribution and costs borne by other regions. Taren argues for greater autonomy; operators, carriers, and families do not necessarily share a single position."
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "name": "Verdan",
+      "tagline": "POŁUDNIE · TRADYCJE NATURY · 12 ET",
+      "taglineEn": "SOUTH · TRADITIONS OF NATURE · 12 AT",
+      "overview": "Verdan to południowa kraina pól, sadów i ogrodów, której dostawy żywią niemal cały Riftoryn. Stąd pochodzą wszystkie zioła lecznicze i wszystkie leki wytwarzane na kontynencie. Korzenna Przystań jest jednym z miejsc, gdzie praca przy ziemi, leczenie i utrzymanie dróg bezpośrednio łączą życie sąsiadów.",
+      "overviewEn": "Verdan is the southern region of fields, orchards, and gardens whose deliveries feed almost all of Riftoryn. All medicinal herbs and all medicines produced on the continent come from here. Rooted Landing is one of the places where farming, healing, and road maintenance directly connect neighboring lives.",
+      "sections": [
+        {
+          "title": "Krajobraz i osady",
+          "titleEn": "Landscape and settlements",
+          "text": "Żyzne doliny przecinają rzeki, kanały i drogi łączące rozproszone gospodarstwa. Wokół Korzennej Przystani pola i sady sąsiadują z ogrodami oraz zabudowaniami osady. Woda pozwala prowadzić uprawy, ale po długich deszczach zagraża wałom, przeprawom i domom. Bezpieczna dostawa zależy więc także od stanu drogi między gospodarstwem a magazynem.",
+          "textEn": "Rivers, channels, and roads linking scattered farms cross fertile valleys. Fields and orchards around Rooted Landing stand beside gardens and village buildings. Water sustains crops but threatens levees, crossings, and homes after prolonged rain. Safe delivery therefore also depends on the road between a farm and its warehouse."
+        },
+        {
+          "title": "Codzienność",
+          "titleEn": "Daily life",
+          "text": "Rytm pracy wyznaczają pory roku, pogoda i stan gleby. Mieszkańcy doglądają upraw, naprawiają kanały i zbierają nasiona. Wiele osób ceni skromne życie i regularną pracę, choć warunki rodzin są różne. Na targu i przy wspólnych stołach wymienia się sadzonki, przepisy i wiadomości. Obok rolników pracują zielarki, uzdrowiciele, kupcy, rzemieślnicy i przewoźnicy.",
+          "textEn": "Seasons, weather, and soil conditions set the pace of work. Residents tend crops, repair channels, and gather seeds. Many value modest living and steady work, though family circumstances vary. Seedlings, recipes, and news are exchanged at the market and shared tables. Herbalists, healers, traders, craftspeople, and carriers work alongside farmers."
+        },
+        {
+          "title": "Gospodarka i splotyt",
+          "titleEn": "Economy and splotyt",
+          "text": "Żywność, zioła i leki czynią Verdan ważnym partnerem innych krain. Region ma najmniejsze zapotrzebowanie na splotyt w odniesieniu do potrzeb mieszkańców, ale wykorzystuje go w przydatnych urządzeniach rolniczych i magazynowych. Kryształ nie zastępuje ziemi, wody ani pracy. Narzędzia, kamień na umocnienia, transport i chłodnie Nivoren pomagają utrzymać dostawy. Dobre zbiory w jednej dolinie nie oznaczają dobrobytu każdej rodziny.",
+          "textEn": "Food, herbs, and medicines make Verdan an important partner to other regions. It has the lowest demand for splotyt relative to residents’ needs, but uses it in useful farming and storage devices. Crystals cannot replace land, water, or labor. Tools, stone for reinforcement, transport, and Nivoren’s cold stores help maintain deliveries. A good harvest in one valley does not mean prosperity for every family."
+        },
+        {
+          "title": "Historia i odbudowa",
+          "titleEn": "History and reconstruction",
+          "text": "Po wojnie mieszkańcy przywracali do użytku pola, kanały i miejsca leczenia. Powódź w 9 ET przypomniała, jak szybko praca przy odbudowie może zostać zniszczona. Liora uratowała domy i lecznicę, odprowadzając wodę kosztem własnych zagonów i części pól sąsiadów. Odbudowa wymagała dalszego wspólnego wysiłku; nie zakończyła się wraz z ustąpieniem nurtu.",
+          "textEn": "After the war, residents restored fields, channels, and places of healing. The flood of 9 AT showed how quickly reconstruction could be undone. Liora saved homes and the clinic by diverting water at the cost of her own plots and some neighboring fields. Recovery required further shared work and did not end when the water receded."
+        },
+        {
+          "title": "Sprawy mieszkańców w 12 ET",
+          "titleEn": "Residents’ concerns in 12 AT",
+          "text": "Verdan musi pogodzić dostawy dla sąsiadów z rezerwą dla własnych osad oraz naprawą wałów i dróg. Mieszkańcy na ogół unikają sporów między krainami, ale decyzje o podziale zasobów bezpośrednio ich dotyczą. Starszyzna wyznaczyła Thorę, Liorę, Erona i Anę do reprezentowania wspólnoty na Wielkich Igrzyskach. Ich udział w składach zależy od kwalifikacji. Ana przygotowuje się razem z Bobem.",
+          "textEn": "Verdan must balance deliveries to its neighbors with reserves for its own settlements and repairs to levees and roads. Residents generally avoid disputes between regions, but resource decisions directly affect them. The elders chose Thora, Liora, Eron, and Ana to represent their community at the Great Games. Their places in the lineups depend on qualification. Ana is preparing alongside Bob."
+        }
+      ]
+    },
+    {
+      "id": "earth",
+      "name": "Kharum",
+      "tagline": "POŁUDNIOWY ZACHÓD · TRADYCJE ZIEMI · 12 ET",
+      "taglineEn": "SOUTHWEST · TRADITIONS OF EARTH · 12 AT",
+      "overview": "Kharum dostarcza kamień, rudy i inne minerały potrzebne przy odbudowie Riftorynu. Kamienny Próg wyrósł wokół kopalń, kamieniołomów i warsztatów. Znaczenie krainy opiera się na pracy ludzi wydobywających i obrabiających surowce, a jej najtrudniejsze spory dotyczą bezpieczeństwa tej pracy oraz kosztu przestojów.",
+      "overviewEn": "Kharum supplies the stone, ore, and other minerals needed to rebuild Riftoryn. Stone Threshold grew around mines, quarries, and workshops. The region’s importance rests on the people who extract and work those materials, while its hardest disputes concern their safety and the cost of downtime.",
+      "sections": [
+        {
+          "title": "Krajobraz i osady",
+          "titleEn": "Landscape and settlements",
+          "text": "Surowe góry południowego zachodu kryją wyrobiska i drogi ciężkiego transportu. Kamienny Próg łączy podziemne miejsca pracy z kamieniarskimi placami na powierzchni. Wozy przewożą materiały ku warsztatom Vareth i budowom w innych krainach. Zużyta nawierzchnia, uszkodzona podpora lub zamknięty tunel wpływają na zaopatrzenie daleko poza samą kopalnią.",
+          "textEn": "The rugged southwestern mountains contain excavations and roads used by heavy transport. Stone Threshold connects underground workplaces with stoneworking yards above ground. Carts carry materials to Vareth’s workshops and construction sites elsewhere. Worn roads, damaged supports, or a closed tunnel affect supplies far beyond the mine itself."
+        },
+        {
+          "title": "Codzienność",
+          "titleEn": "Daily life",
+          "text": "Zmiany wydobywcze wyznaczają rytm części miasta. Przy wyjściach z wyrobisk i na placach rodziny czekają na bliskich, jedzą i omawiają sprawy sąsiadów. W niektórych ekipach przed zejściem wspólnie sprawdza się narzędzia i ustala sposób zgłaszania pęknięć. Życie na powierzchni obejmuje również sklepy, domy, naprawy i pracę osób, które nigdy nie schodzą do kopalni.",
+          "textEn": "Mining shifts set the rhythm for part of the city. Families wait near excavation exits and in squares, eat together, and discuss local affairs. Some crews check tools together before descending and agree on how to report cracks. Life above ground also includes shops, homes, repairs, and people whose work never takes them into a mine."
+        },
+        {
+          "title": "Gospodarka i splotyt",
+          "titleEn": "Economy and splotyt",
+          "text": "Kharum wysyła rudy do obróbki oraz kamień na drogi, podpory, schronienia i wieże. Górnicy czasem odkrywają splotyt, lecz nie są to ogromne zasoby stanowiące podstawę gospodarki. Niewielkie ilości selara można sprzedać za równowartość metalu w selenach. Kraina potrzebuje żywności, narzędzi i części zabezpieczających. Cena surowca musi pokrywać również utrzymanie wyrobisk i wynagrodzenia ludzi.",
+          "textEn": "Kharum sends ore for processing and stone for roads, supports, shelters, and towers. Miners occasionally find splotyt, but these are not vast reserves underpinning the economy. Small quantities of selar can be sold for their metal value in selens. The region needs food, tools, and safety components. Raw-material prices must also cover excavation maintenance and workers’ pay."
+        },
+        {
+          "title": "Historia i odbudowa",
+          "titleEn": "History and reconstruction",
+          "text": "Wojna i odbudowa zwiększyły zapotrzebowanie na materiały. Pośpiech przy wydobyciu mógł oznaczać ryzyko dla ekip, dlatego bezpieczeństwo tuneli stało się istotną sprawą wspólnot. Historie Broma i Dary pokazują znaczenie podpór, kontroli i wysłuchania pracowników. Miejscowe wypadki oraz podejrzenia bohaterów nie rozstrzygają przyczyny Nocy Zgasłych Wież.",
+          "textEn": "War and reconstruction increased demand for materials. Rushed extraction could put crews at risk, making tunnel safety a major community concern. Brom’s and Dara’s stories show the importance of supports, inspections, and listening to workers. Local accidents and the heroes’ suspicions do not establish the cause of the Night of Extinguished Towers."
+        },
+        {
+          "title": "Sprawy mieszkańców w 12 ET",
+          "titleEn": "Residents’ concerns in 12 AT",
+          "text": "Niektóre wyrobiska wymagają kontroli i nowych podpór przed wznowieniem pełnej pracy. Przestój chroni ludzi, lecz oznacza opóźnione dostawy i utracony zarobek. Kharum domaga się niezależnych inspekcji oraz udziału górników w ocenie ryzyka. Jednocześnie obawia się, że zewnętrzna kontrola posłuży przejęciu wpływów. Odbiorcy surowców także muszą odpowiedzieć, jaką część kosztów bezpiecznego wydobycia są gotowi ponosić.",
+          "textEn": "Some excavations need inspections and new supports before full work resumes. Stoppages protect people but delay deliveries and cost wages. Kharum calls for independent inspections and miners’ participation in risk assessments, while fearing that outside oversight could become a way to seize influence. Buyers of raw materials must also decide what share of safe extraction costs they will bear."
+        }
+      ]
+    },
+    {
+      "id": "light",
+      "name": "Aurel",
+      "tagline": "ZACHÓD · TRADYCJE ŚWIATŁA · 12 ET",
+      "taglineEn": "WEST · TRADITIONS OF LIGHT · 12 AT",
+      "overview": "Aurel jest zachodnią krainą badań, wynalazków i tradycji magii Światła. Wokół Latarni Aurelu działają obserwatorzy, archiwa i warsztaty, których przyrządy pomagają podróżnym oraz załogom innych krain. Wiedza powstaje tu z porównywania doświadczeń; nawet najlepiej przygotowana mapa wymaga sprawdzenia w terenie.",
+      "overviewEn": "Aurel is the western region of research, inventions, and traditions of Light magic. Observers, archives, and workshops around the Aurelian Lighthouse produce instruments that help travelers and crews elsewhere. Knowledge grows by comparing experience; even the most carefully prepared map needs field verification.",
+      "sections": [
+        {
+          "title": "Krajobraz i osady",
+          "titleEn": "Landscape and settlements",
+          "text": "Nadmorski ośrodek skupia latarnię, obserwatoria, czytelnie i warsztaty. Na nabrzeżnych targach mieszkańcy spotykają marynarzy i przyjezdnych, a drogi łączą Aurel z pozostałą częścią kontynentu. Wieże świetlne oznaczają wybrane nocne szlaki. Nie obejmują wszystkich dróg, a światło pomaga odnaleźć trasę i schronienie bez usuwania każdego zagrożenia.",
+          "textEn": "The coastal center brings together a lighthouse, observatories, reading rooms, and workshops. Residents meet sailors and visitors at waterfront markets, while roads connect Aurel to the rest of the continent. Light towers mark selected night routes. They do not cover every road, and their light helps travelers find paths and shelters without removing every danger."
+        },
+        {
+          "title": "Codzienność",
+          "titleEn": "Daily life",
+          "text": "Obserwatorzy notują pogodę i widoczność, kopiści porównują mapy z relacjami podróżnych, a rzemieślnicy sprawdzają i naprawiają mechanizmy. W czytelniach i przy latarni można wymienić wiadomości, przejrzeć udostępnioną mapę albo porozmawiać po pracy. Mieszkańcy są również kupcami, przewoźnikami i opiekunami rodzin; nie każdy pracuje na Uniwersytecie lub włada Światłem.",
+          "textEn": "Observers record weather and visibility, copyists compare maps with travelers’ accounts, and craftspeople inspect and repair mechanisms. Reading rooms and benches near the lighthouse offer places to exchange news, consult a public map, or talk after work. Residents are also traders, carriers, and family caregivers; not everyone works at the University or wields Light."
+        },
+        {
+          "title": "Gospodarka i splotyt",
+          "titleEn": "Economy and splotyt",
+          "text": "Aurel rozwija przyrządy pomiarowe, mapy i urządzenia wykorzystujące splotyt. Wynalazki wymagają materiałów, energii i prób prowadzonych z załogami w innych krainach. Adrien udoskonalił mechanizm pieców grzewczych, a Vareth uczestniczy w ich produkcji i najtańszym ładowaniu. Latarnie oraz inne urządzenia zużywają zgromadzoną energię i wymagają obsługi. Wynik badania może być przydatny, nawet jeśli nie daje jeszcze rozwiązania gotowego do powszechnego użycia.",
+          "textEn": "Aurel develops measuring instruments, maps, and devices using splotyt. Inventions need materials, energy, and trials conducted with crews in other regions. Adrien improved heating mechanisms, while Vareth helps manufacture them and offers the cheapest recharging. Lighthouses and other devices consume stored energy and need maintenance. Research can be useful even before it yields a solution ready for widespread use."
+        },
+        {
+          "title": "Historia i odbudowa",
+          "titleEn": "History and reconstruction",
+          "text": "W 8 PT Uniwersytet sfinansował próbę dalekiego przesyłu energii z Zerath. Wykazała możliwość takiego przesyłu, ale również jego wysoki koszt w badanych warunkach. Po wojnie archiwa przechowują i porównują świadectwa, z których część jest niepełna lub spisana po czasie. Badania nie potwierdziły jednej przyczyny Nocy Zgasłych Wież; inne krainy domagają się kopii dokumentów i niezależnej weryfikacji.",
+          "textEn": "In 8 BT, the University funded a long-distance energy transmission trial from Zerath. It demonstrated that transmission was possible, but also costly under the tested conditions. Since the war, archives have preserved and compared accounts, some incomplete or recorded later. Research has not established a single cause of the Night of Extinguished Towers; other regions seek copies and independent verification."
+        },
+        {
+          "title": "Sprawy mieszkańców w 12 ET",
+          "titleEn": "Residents’ concerns in 12 AT",
+          "text": "Część oznaczeń dróg wymaga potwierdzenia, a latarnie potrzebują części i ekip terenowych. Trzeba rozstrzygać, jak udostępniać wynalazki i jednocześnie finansować dalszą pracę. Adrien, Lena i Lucen zajmują się mechanizmami oraz ich praktycznymi ograniczeniami. O tym, czy rozwiązanie pomaga podróżnym, świadczy jego działanie na szlaku, nie sama obietnica konstruktora.",
+          "textEn": "Some road markings need confirmation, and lighthouses need parts and field crews. Decisions must balance sharing inventions with funding further work. Adrien, Lena, and Lucen work with mechanisms and their practical limits. A solution’s usefulness to travelers is shown by how it works on the road, beyond its inventor’s promises."
+        }
+      ]
+    },
+    {
+      "id": "darkness",
+      "name": "Vesper",
+      "tagline": "PÓŁNOCNY ZACHÓD · TRADYCJE CIEMNOŚCI · 12 ET",
+      "taglineEn": "NORTHWEST · TRADITIONS OF DARKNESS · 12 AT",
+      "overview": "Vesper leży na północnym zachodzie Riftorynu. Jego załogi specjalizują się w ochronie transportów, pracy po ciemku i poufnym przekazywaniu informacji. Cienisty Port łączy magazyny i drogi prowadzące w stronę wyżyn oraz kopalń. Magia Ciemności służy tu osłonie ludzi i ładunków; nie określa ich charakteru ani zamiarów.",
+      "overviewEn": "Vesper lies in northwestern Riftoryn. Its crews specialize in protecting shipments, working in darkness, and handling confidential information. Shadow Harbor links warehouses with roads toward the uplands and mines. Darkness magic helps shield people and cargo; it does not determine their character or intentions.",
+      "sections": [
+        {
+          "title": "Krajobraz i osady",
+          "titleEn": "Landscape and settlements",
+          "text": "Cienisty Port leży przy drogach ku ciemnym wyżynom i głębokim kopalniom. Przy magazynach działają warsztaty, gospody i miejsca postoju załóg. Schronienia oraz boczne drogi są ważne dla przewoźników i ratowników. Dokładna znajomość odcinka bywa cenniejsza od ogólnej mapy, zwłaszcza gdy trzeba ominąć zagrożenie lub odnaleźć opóźniony transport.",
+          "textEn": "Shadow Harbor stands beside roads toward dark uplands and deep mines. Workshops, inns, and crew stopping places operate near its warehouses. Shelters and side roads matter to carriers and rescuers. Detailed knowledge of a stretch can be more valuable than a general map, especially when avoiding danger or finding a delayed shipment."
+        },
+        {
+          "title": "Codzienność",
+          "titleEn": "Daily life",
+          "text": "Załogi uzgadniają wspólne przejazdy, ostrzegają się przed niebezpieczeństwem i ustalają, komu powierzyć plan podróży. W gospodach spotykają się także rodziny, drobni kupcy i rzemieślnicy. Poufność nie oznacza milczenia o wszystkim: wiadomość o zamkniętej drodze może być przekazana bez ujawniania położenia świadka. Mieszkańcy różnią się w ocenie, komu i w jakich okolicznościach należy zaufać.",
+          "textEn": "Crews arrange shared journeys, exchange warnings, and decide who should hold their travel plans. Families, small traders, and craftspeople also meet in the inns. Confidentiality does not mean silence about everything: news of a closed road can be shared without revealing a witness’s location. Residents differ over whom to trust and under what circumstances."
+        },
+        {
+          "title": "Gospodarka i splotyt",
+          "titleEn": "Economy and splotyt",
+          "text": "Załogi Vesper chronią ładunki i informacje oraz prowadzą konwoje także nocą. Potrafią maskować promieniowanie naładowanego splotytu, ograniczając ryzyko przyciągnięcia bestii. Osłona wymaga umiejętności i organizacji; nie zastępuje sprawnej trasy ani ekipy ratunkowej. W krainie istnieją także kopalnie splotytu. Handel i ochrona potrzebują dostaw żywności, materiałów, energii oraz zaufania partnerów.",
+          "textEn": "Vesper’s crews protect cargo and information and guide convoys at night. They can mask the emissions of charged splotyt, reducing the risk of attracting beasts. Shielding requires skill and organization; it cannot replace a usable route or rescue crew. The region also has splotyt mines. Trade and protection depend on food, materials, energy, and partners’ trust."
+        },
+        {
+          "title": "Historia i odbudowa",
+          "titleEn": "History and reconstruction",
+          "text": "Wojna pokazała wartość osłoniętej ewakuacji oraz koszt wiadomości, która nie dotarła na czas. Po rozejmie rośnie znaczenie świadectw, potwierdzeń dostaw i ochrony osób składających relacje. Archiwa Cienistego Portu pomagają zachować takie zapisy. Maskowanie może chronić uczciwy transport, lecz może również utrudniać wykrycie nadużycia; samo pochodzenie z Vesper niczyjej winy nie dowodzi.",
+          "textEn": "The war showed the value of protected evacuation and the cost of messages that arrived too late. Since the armistice, accounts, delivery confirmations, and protecting witnesses have grown in importance. Shadow Harbor’s archives help preserve such records. Concealment can protect an honest shipment, but can also hinder the detection of abuse; coming from Vesper proves no one guilty."
+        },
+        {
+          "title": "Sprawy mieszkańców w 12 ET",
+          "titleEn": "Residents’ concerns in 12 AT",
+          "text": "Załogi mierzą się z napadami i trudnością wezwania pomocy bez ujawnienia poufnej trasy. Potrzebne są schronienia, potwierdzenia dostaw i wcześniej uzgodniony dostęp ratowników do planu przejazdu. Zbyt szeroki rejestr może narazić konwój, a brak informacji opóźnić ratunek. Mieszkańcy spierają się o zasady kontroli, które pozwolą rozliczać nadużycia i nadal chronić ludzi.",
+          "textEn": "Crews face attacks and the difficulty of calling for help without exposing a confidential route. They need shelters, delivery confirmations, and advance arrangements giving rescuers access to travel plans. An overly broad register may endanger a convoy, while missing information can delay rescue. Residents debate oversight that can hold abusers accountable while continuing to protect people."
+        }
+      ]
+    }
+  ],
   "places": [
     {
       "id": "val",

@@ -4,7 +4,9 @@ using UnityEngine;
 [Serializable] public class EncyclopediaPlace { public string id,name,nameEn,region,arena,desc,history,trial,status12,situation12,risk12,needs12,status12En,situation12En,risk12En,needs12En; public float x,y; }
 [Serializable] public class EncyclopediaPoint { public float x,y; }
 [Serializable] public class EncyclopediaRoute { public string id,name,nameEn,status,statusEn,description,descriptionEn,fromId,toId,risk,riskEn,needs,needsEn; public bool secondary; public EncyclopediaPoint[] points; }
-[Serializable] public class EncyclopediaWorld { public EncyclopediaPlace[] places; public EncyclopediaRoute[] routes; }
+[Serializable] public class EncyclopediaRegionSection { public string title,titleEn,text,textEn; }
+[Serializable] public class EncyclopediaRegion { public string id,name,tagline,taglineEn,overview,overviewEn; public EncyclopediaRegionSection[] sections; }
+[Serializable] public class EncyclopediaWorld { public EncyclopediaPlace[] places; public EncyclopediaRoute[] routes; public EncyclopediaRegion[] regions; }
 [Serializable] public class EncyclopediaElement { public string id,name,a,b; public string[] baseText,aText,bText,t3; }
 [Serializable] public class EncyclopediaTree { public EncyclopediaElement[] elements; }
 
@@ -14,6 +16,7 @@ public partial class RiftorynMenu
     EncyclopediaTree encyclopediaTree;
     Texture2D worldImage;
     int worldSelected, worldRouteSelected=-1, elementSelected, treeElement, treeNode, treeBudget=2000;
+    bool worldShowRegion=true;
     readonly int[,] treeFunding=new int[7,4];
     readonly int[] treeBranch=new int[7];
     Vector2 worldDetailsScroll,treeDetailsScroll;
@@ -69,6 +72,20 @@ public partial class RiftorynMenu
     }
     static string PlaceName(EncyclopediaPlace place)=>RiftorynL10n.CurrentCode=="EN"&&!string.IsNullOrEmpty(place.nameEn)?place.nameEn:place.name;
     static string WorldLang(string pl,string en)=>RiftorynL10n.CurrentCode=="EN"&&!string.IsNullOrEmpty(en)?en:pl;
+    EncyclopediaRegion WorldRegion(string id)
+    {
+        if(encyclopediaWorld.regions!=null)
+            foreach(var region in encyclopediaWorld.regions)if(region.id==id)return region;
+        return null;
+    }
+    static string WorldRegionDetails(EncyclopediaRegion region)
+    {
+        string details=WorldLang(region.overview,region.overviewEn);
+        if(region.sections!=null)
+            foreach(var section in region.sections)
+                details+="\n\n"+WorldLang(section.title,section.titleEn).ToUpperInvariant()+"\n"+WorldLang(section.text,section.textEn);
+        return details;
+    }
     static Vector2 WorldPoint(Rect image,EncyclopediaPoint point)=>new(image.x+image.width*point.x/100f,image.y+image.height*point.y/100f);
     string WorldPlaceName(string id)
     {
@@ -85,7 +102,7 @@ public partial class RiftorynMenu
     {
         LoadWorld();Frame(new Rect(50,270,1500,570),panel);
         Text(new Rect(75,287,900,32),RiftorynCodexData.Text("RIFTORYN  /  STAN ŚWIATA · 12 ET","RIFTORYN  /  WORLD STATUS · 12 AT"),section);
-        Text(new Rect(77,327,1400,30),RiftorynCodexData.Text("Wybierz miasto lub numer szlaku. Linia przerywana: mniej strzeżony szlak. Przebieg jest schematyczny.","Select a city or route number. Dashed line: less guarded route. Lines are schematic."),mutedText);
+        Text(new Rect(77,327,1400,30),RiftorynCodexData.Text("Wybierz ośrodek, aby poznać krainę, lub numer szlaku. Linia przerywana: mniej strzeżony szlak. Przebieg jest schematyczny.","Select a settlement to explore its region, or a route number. Dashed line: less guarded route. Lines are schematic."),mutedText);
         if(encyclopediaWorld.places==null||encyclopediaWorld.places.Length==0)return;
         Rect map=new(77,365,820,390);Fill(map,panelAlt);
         var routes=encyclopediaWorld.routes;
@@ -123,6 +140,7 @@ public partial class RiftorynMenu
         }
         Frame(new Rect(915,365,600,453),panelAlt);
         string title,subtitle,details;
+        float detailsTop=480;
         if(routes!=null&&worldRouteSelected>=0&&worldRouteSelected<routes.Length)
         {
             var route=routes[worldRouteSelected];
@@ -136,12 +154,24 @@ public partial class RiftorynMenu
         else
         {
             var place=encyclopediaWorld.places[Mathf.Clamp(worldSelected,0,encyclopediaWorld.places.Length-1)];
+            var region=WorldRegion(place.id);
+            if(region!=null)
+            {
+                if(Click(new Rect(940,480,264,30),RiftorynCodexData.Text("KRAINA","REGION"),worldShowRegion)&&!worldShowRegion){worldShowRegion=true;worldDetailsScroll=Vector2.zero;}
+                if(Click(new Rect(1212,480,264,30),RiftorynCodexData.Text("OŚRODEK · 12 ET","SETTLEMENT · 12 AT"),!worldShowRegion)&&worldShowRegion){worldShowRegion=false;worldDetailsScroll=Vector2.zero;}
+                detailsTop=521;
+            }
             title=PlaceName(place);subtitle=WorldLang(place.region,"CITY · 12 AT");
             details=WorldLang(place.status12,place.status12En)+"\n\n"+WorldLang(place.situation12,place.situation12En)+"\n\n"+RiftorynCodexData.Text("ZAGROŻENIA","RISKS")+"\n"+WorldLang(place.risk12,place.risk12En)+"\n\n"+RiftorynCodexData.Text("POTRZEBY I NAPRAWY","NEEDS AND REPAIRS")+"\n"+WorldLang(place.needs12,place.needs12En)+"\n\n"+RiftorynCodexData.Text("OŚRODEK PRÓB","TRIAL SITE")+"  ·  "+RiftorynL10n.Translate(place.arena)+"\n"+RiftorynL10n.Translate(place.trial)+"\n\n"+RiftorynCodexData.Text("O MIEJSCU","ABOUT")+"\n"+RiftorynL10n.Translate(place.desc)+"\n\n"+RiftorynCodexData.Text("HISTORIA","HISTORY")+"\n"+RiftorynL10n.Translate(place.history);
+            if(region!=null&&worldShowRegion)
+            {
+                title=region.name;subtitle=WorldLang(region.tagline,region.taglineEn);
+                details=WorldRegionDetails(region);
+            }
         }
         Text(new Rect(940,383,545,25),subtitle,eyebrow);Text(new Rect(940,415,545,55),title,section);
         float height=Mathf.Max(310,body.CalcHeight(new GUIContent(details),530)+20);
-        worldDetailsScroll=GUI.BeginScrollView(new Rect(940,480,550,310),worldDetailsScroll,new Rect(0,0,530,height));
+        worldDetailsScroll=GUI.BeginScrollView(new Rect(940,detailsTop,550,790-detailsTop),worldDetailsScroll,new Rect(0,0,530,height));
         Text(new Rect(0,0,530,height),details,body);GUI.EndScrollView();
     }
     void LoadTree()
