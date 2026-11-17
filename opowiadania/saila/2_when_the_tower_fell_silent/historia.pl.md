@@ -192,8 +192,6 @@ Szronogrzbieta przesunęła się, zasłaniając młode własnym ciałem.
 
 Kryształ rozbłysnął.
 
-Zrozumiałam, że to nie będzie zwykły obchód.
-
 ## Cel
 
 Środek zimy, 11 ET · szlak pod wieżą Błyskawic, Nivoren
@@ -220,9 +218,7 @@ Za zwierzętami znajdowała się skalna ściana. Z lewej strony drogę blokował
 
 Matka mogłaby zapewne przedostać się przez zaśnieżone kamienie.
 
-Młode nie.
-
-Dlatego nie uciekała.
+Nie byłam pewna, czy młode zdołałyby za nią przejść.
 
 Żółta smuga światła znów przesunęła się ku zwierzętom. Kryształ i jego oprawa pozostawały nieruchome.
 
@@ -394,15 +390,7 @@ Spojrzałam na Szronogrzbietę.
 
 Samica przycisnęła młode do skały. Jedno schowało pysk pod jej przednią łapą.
 
-Nie wiedziała, że stoję kilkanaście kroków dalej i zastanawiam się, co zrobić.
-
-Nie wiedziała, czym jest mechanizm obronny ani dlaczego strzela.
-
-Wiedziała tylko, że coś próbuje skrzywdzić jej młode.
-
-I że musi je osłonić.
-
-Nawet jeśli sama nie przeżyje.
+Stałam kilkanaście kroków dalej i nadal nie wiedziałam, co zrobić.
 
 Kryształ zaczął przygotowywać kolejne wyładowanie.
 
@@ -638,17 +626,13 @@ Wielki kryształ rozbłysnął.
 
 Żółte wyładowanie zaczęło gromadzić się w jego wnętrzu.
 
+Lód objął metalowe mocowania kryształu i mechanizm kierujący wyładowaniem.
+
 Czekałam na huk.
 
 Nie nastąpił.
 
-Światło zatrzymało się w połowie ruchu.
-
-Przez ułamek chwili widziałam żółtą smugę, która nie potrafiła wydostać się z oprawy.
-
-Potem błysk cofnął się w głąb kryształu.
-
-Lód objął jego metalowe mocowania i mechanizm kierujący wyładowaniem.
+Przez ułamek chwili widziałam żółtą smugę w oprawie. Potem błysk cofnął się w głąb kryształu.
 
 Sam błękitny kryształ pozostał nietknięty.
 
@@ -668,7 +652,7 @@ Patrzyłam na wieżę.
 
 Na lód oplatający jej koronę.
 
-Na nieruchome wyładowania zamknięte wewnątrz kryształu.
+Na błyskawicę zamkniętą wewnątrz kryształu.
 
 Nie rozumiałam.
 

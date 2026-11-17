@@ -360,8 +360,6 @@ Za powoli.
 
 Pomyślałam o zapasach, które miały wytrzymać całą zimę. O ludziach zamieszkujących odległe osady. O rodzinach, które liczyły na żywność i lekarstwa.
 
-Pomyślałam o dzieciach, które jeszcze nigdy nie widziały wiosny poza Nivoren.
-
 Mogłam przerwać.
 
 Nie przerwałam.

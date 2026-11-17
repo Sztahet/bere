@@ -294,9 +294,6 @@
         },
         {
           "text": "Kryształ rozbłysnął."
-        },
-        {
-          "text": "Zrozumiałam, że to nie będzie zwykły obchód."
         }
       ]
     },
@@ -340,10 +337,7 @@
           "text": "Matka mogłaby zapewne przedostać się przez zaśnieżone kamienie."
         },
         {
-          "text": "Młode nie."
-        },
-        {
-          "text": "Dlatego nie uciekała."
+          "text": "Nie byłam pewna, czy młode zdołałyby za nią przejść."
         },
         {
           "text": "Żółta smuga światła znów przesunęła się ku zwierzętom. Kryształ i jego oprawa pozostawały nieruchome."
@@ -603,19 +597,7 @@
           "text": "Samica przycisnęła młode do skały. Jedno schowało pysk pod jej przednią łapą."
         },
         {
-          "text": "Nie wiedziała, że stoję kilkanaście kroków dalej i zastanawiam się, co zrobić."
-        },
-        {
-          "text": "Nie wiedziała, czym jest mechanizm obronny ani dlaczego strzela."
-        },
-        {
-          "text": "Wiedziała tylko, że coś próbuje skrzywdzić jej młode."
-        },
-        {
-          "text": "I że musi je osłonić."
-        },
-        {
-          "text": "Nawet jeśli sama nie przeżyje."
+          "text": "Stałam kilkanaście kroków dalej i nadal nie wiedziałam, co zrobić."
         },
         {
           "text": "Kryształ zaczął przygotowywać kolejne wyładowanie."
@@ -972,22 +954,16 @@
           "text": "Żółte wyładowanie zaczęło gromadzić się w jego wnętrzu."
         },
         {
+          "text": "Lód objął metalowe mocowania kryształu i mechanizm kierujący wyładowaniem."
+        },
+        {
           "text": "Czekałam na huk."
         },
         {
           "text": "Nie nastąpił."
         },
         {
-          "text": "Światło zatrzymało się w połowie ruchu."
-        },
-        {
-          "text": "Przez ułamek chwili widziałam żółtą smugę, która nie potrafiła wydostać się z oprawy."
-        },
-        {
-          "text": "Potem błysk cofnął się w głąb kryształu."
-        },
-        {
-          "text": "Lód objął jego metalowe mocowania i mechanizm kierujący wyładowaniem."
+          "text": "Przez ułamek chwili widziałam żółtą smugę w oprawie. Potem błysk cofnął się w głąb kryształu."
         },
         {
           "text": "Sam błękitny kryształ pozostał nietknięty."
@@ -1018,7 +994,7 @@
           "text": "Na lód oplatający jej koronę."
         },
         {
-          "text": "Na nieruchome wyładowania zamknięte wewnątrz kryształu."
+          "text": "Na błyskawicę zamkniętą wewnątrz kryształu."
         },
         {
           "text": "Nie rozumiałam."

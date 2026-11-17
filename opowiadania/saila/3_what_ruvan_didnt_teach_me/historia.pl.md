@@ -128,7 +128,7 @@ Pojawiła się kropla szronu.
 
 Papier opadł.
 
-Ruvan obejrzał oba kryształy. Potem odwrócił podstawkę i sprawdził spinkę od spodu. Po chwili otworzył torbę, wyjął trzeci kryształ i połączył go z pierwszymi dwoma. Zasłonił kanały drewnianą pokrywą.
+Ruvan obejrzał oba kryształy. Potem odwrócił podstawkę i sprawdził spinkę od spodu. Po chwili otworzył torbę, wyjął trzeci kryształ i połączył go z pierwszymi dwoma. Dołożył drugi pasek papieru, a kanały zasłonił drewnianą pokrywą.
 
 — Teraz zatrzymaj ten po lewej.
 
@@ -248,7 +248,7 @@ Ruvan przesunął podstawkę na moją stronę stołu.
 
 ## Kraina, która nie może czekać
 
-Pierwsza odwilż, 12 ET · osada pod Białym Przesmykiem, Nivoren
+Pierwsza odwilż, 12 ET · schronisko, Nivoren
 
 Ruvan przywiózł tę samą odbitkę o Igrzyskach, którą widziałam przy wozie. Jego egzemplarz był złożony na pół. W środku trzymał list od ludzi z Nivoren, którzy zbierali kandydatów na wypadek, gdyby rozmowy w Val Meris dobiegły końca.
 
