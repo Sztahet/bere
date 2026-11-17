@@ -1,5 +1,7 @@
 # Mapa ASCII Riftorynu
 
+[Ilustrowana plansza atlasu](assets/lore/riftoryn-mapa-atlas-v1.png) pokazuje główne ośrodki i wybrane oznaczenia. Przy śledzeniu tras korzystaj z mapy ASCII i indeksu poniżej.
+
 Mapa robocza kontynentu dla opowieści, stan odniesienia 12 ET. Północ jest u góry. Linia brzegowa, jezioro, rzeki i układ głównych dróg pochodzą z przerysu [mapy świata](assets/lore/riftoryn-mapa-swiata-v1.png). Kierunki i nazwy głównych ośrodków pochodzą z [sekcji mapy w GDD](RIFTORYN_GDD.md#riftoryn--mapa-świata-i-ośrodki-prób--koncepcja-fabularna--v01). Odległości, dokładny przebieg tras i granice pozostają otwarte. Położenie Val Meris jako neutralnego węzła potwierdza [historia świata](world_history.md#val-meris--wspólny-węzeł).
 
 ## Kontynent
