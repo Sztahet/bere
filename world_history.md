@@ -355,7 +355,7 @@ Historia Dary również została zatwierdzona na potrzeby PoC w [historiach boha
 
 Historia Noctena została zatwierdzona na potrzeby PoC w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md). Jego sprzeczne wspomnienia i niewyjaśnione wskazówki pozostają otwarte; zatwierdzenie biografii nie ustala ich przyczyny.
 
-Historia Rian została zatwierdzona na potrzeby PoC w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md). Rian nie włada własną magią Ognia; konstruuje przyrządy wykorzystujące wcześniej naładowany splotyt, by uzyskać efekty związane z Ogniem. Jej sabotaż przy jednej z bram Val Meris nie rozstrzyga przyczyny awarii całej sieci ani Nocy Zgasłych Wież.
+Historia Rian została zatwierdzona na potrzeby PoC w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md). W 12 ET ma 39 lat, a podczas sabotażu w 3 PT miała około 24 lat. Rian nie włada własną magią Ognia; konstruuje przyrządy wykorzystujące wcześniej naładowany splotyt, by uzyskać efekty związane z Ogniem. Jej sabotaż przy jednej z bram Val Meris nie rozstrzyga przyczyny awarii całej sieci ani Nocy Zgasłych Wież.
 
 Saila chce uzyskać dostęp do zapisów z Białego Przesmyku i zapewnić dostawy na czas. Gdy pojawia się propozycja przyspieszenia transportu przez przełęcz, obawia się użycia urządzeń bez sprawdzenia ich historii. Zet zna trasę i wie, że zwłoka może zamknąć ją przed zimą; jego załoga straciłaby jedyną szansę dostarczenia części do magazynów. Rian uważa, że potrafi zabezpieczyć urządzenie, ale potrzebuje dostępu do dokumentacji kontrolowanej przez Radę. Eron obawia się, że skierowanie całej ochrony na górski konwój zostawi dolinny szlak bez pomocy, gdy żywność będzie potrzebna w odciętych osadach.
 

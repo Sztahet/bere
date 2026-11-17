@@ -299,7 +299,7 @@ Zamyka zeszyt i gasi świecę. W ciemności słyszy cichy głos: „Znowu zapomn
 
 **Historia zatwierdzona na potrzeby PoC.**
 
-**Wiek w 12 ET:** 32 lata.
+**Wiek w 12 ET:** 39 lat.
 
 #### Kobieta, która naprawiała wszystko
 
@@ -825,7 +825,7 @@ He closes the notebook and blows out the candle. In the dark, he hears a quiet v
 
 ### Rian — “An Instruction in Destruction”
 
-**Age in 12 AT:** 32.
+**Age in 12 AT:** 39.
 
 #### The woman who could fix anything
 
