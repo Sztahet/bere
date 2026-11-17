@@ -4,6 +4,8 @@
 
 7 czerwca, 9 ET · miejsce zajęć rzemieślników
 
+<!-- ilustracja: 01 -->
+
 Jeden z uczniów wrócił po zajęciach, żeby podziękować mi za cierpliwość. Powiedziałam, że nie byłam szczególnie cierpliwa. Wskazał śrubokręt, którym pracował przy trzeciej próbie.
 
 — Gdyby pani naprawdę ją straciła, nie oddałaby mi pani tego z powrotem.
@@ -25,6 +27,8 @@ Nie zawsze mam odpowiedź gotową przed nimi. Dzisiaj jedna z uczennic zauważy�
 — Zapomniała pani o operatorze — powiedziała.
 
 Chciałam odpowiedzieć, że w tym ćwiczeniu interesował nas mechanizm. Potem zobaczyłam, że wskazuje pusty brzeg kartki. Miała rację. Dopisałyśmy osobne potwierdzenie dla operatora i obiecałam przynieść na następne zajęcia model do sprawdzenia.
+
+<!-- ilustracja: 02 -->
 
 Kiedy uczniowie wyszli, obejrzałam nowy rysunek. Był lepszy od mojego. Ucieszyłam się. Potem odruchowo zaczęłam liczyć, ilu kolejnych ludzi musiałabym nauczyć, żeby zasłużyć na tę radość.
 
@@ -138,6 +142,8 @@ Poszłam zapytać o zasady. Po odbyciu kary nie odzyskałam przez sam upływ cza
 
 Rozmawialiśmy o kontrolowanych Próbach, ograniczonym dostępie do infrastruktury i nadzorze technicznym. Przeciwnicy mają znać zasady, móc się przygotować, odpowiedzieć albo przerwać Próbę zgodnie z jej warunkami. Zaproponowano mi miejsce przy sprawdzaniu odłączonego modelu, zanim rozpatrzą zgłoszenie do udziału.
 
+<!-- ilustracja: 03 -->
+
 Jedna z osób przy stole sprzeciwiła się od razu. Powiedziała, że człowiek, który celowo wyłączał ostrzeżenia, nie powinien dotykać niczego przy wieżach. Nie zapytała mnie, czy się zmieniłam. Zapytała organizatorów, kto sprawdzi, czy odcięcie rzeczywiście jest niezależne.
 
 — Ktoś inny niż ja — odpowiedziałam. — I przed sprawdzeniem modelu, i po nim.
@@ -164,6 +170,8 @@ Mężczyzna czekał, aż skończę. Spytał, czym moja obecna praca różni się
 
 Powiedział, że jego ojciec zginął podczas ataku na Val Meris. Tamtej nocy nie miał takiego wyboru.
 
+<!-- ilustracja: 04 -->
+
 — Nie — przyznałam.
 
 Nie zapytałam, czy jego ojciec mieszkał przy bramie, którą wyłączyłam. Nie po to do mnie podszedł, żebym dopasowywała jego stratę do własnych zapisów. Nie próbowałam opowiedzieć mu o lekcjach ani o odbytym wyroku.
@@ -175,6 +183,8 @@ Nie zapytałam, czy jego ojciec mieszkał przy bramie, którą wyłączyłam. Ni
 Odwrócił się i odszedł. Nie pobiegłam za nim. Wieczorem czyściłam narzędzia dłużej niż zwykle, choć nie były szczególnie brudne.
 
 Następnego dnia wróciłam do nauczania. Jedna z uczennic zapytała, dlaczego przestałam zajmować się sabotażem. Zastanowiłam się, co naprawdę chce wiedzieć, i położyłam przed nią dwa podobne mechanizmy: jeden z ukrytą wadą, drugi z dodatkowym zabezpieczeniem.
+
+<!-- ilustracja: 05 -->
 
 — Nie przestałam — powiedziałam.
 

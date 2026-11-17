@@ -133,10 +133,11 @@
     storyTitle.textContent = translated.title;
     const cover = hero.id === "saila" ? sailaCovers[story.id] :
       hero.id === "rian" && story.id === "jedenascie-minut" ? {src: "riftoryn-unity/Assets/Resources/RianStory1/03.jpg", intro: "Rian przyjmuje zlecenie dotyczące obrony jednej z bram Val Meris."} :
-      hero.id === "rian" && story.id === "drugi-olowek" ? {src: "riftoryn-unity/Assets/Resources/RianStory2/06.jpg", intro: "Rian mierzy się ze skutkami swoich decyzji i uczy innych dostrzegać słabe punkty konstrukcji."} : null;
+      hero.id === "rian" && story.id === "drugi-olowek" ? {src: "riftoryn-unity/Assets/Resources/RianStory2/06.jpg", intro: "Rian mierzy się ze skutkami swoich decyzji i uczy innych dostrzegać słabe punkty konstrukcji."} :
+      hero.id === "rian" && story.id === "nie-przestalam" ? {src: "riftoryn-unity/Assets/Resources/RianStory3/01.jpg", intro: "Rian uczy innych bezpiecznego sprawdzania konstrukcji i mierzy się ze swoją przeszłością."} : null;
     const coverImage = document.getElementById("reader-cover");
     coverImage.hidden = !cover;
-    if (cover) { coverImage.src = cover.src; coverImage.alt = hero.id === "rian" ? (story.id === "drugi-olowek" ? "Rian obserwuje ucznia rysującego przy stole." : "Rian ogląda monetę przy stole z narzędziami.") : ""; }
+    if (cover) { coverImage.src = cover.src; coverImage.alt = hero.id === "rian" ? (story.id === "drugi-olowek" ? "Rian obserwuje ucznia rysującego przy stole." : story.id === "nie-przestalam" ? "Rian obserwuje uczennicę pracującą nad modelem." : "Rian ogląda monetę przy stole z narzędziami.") : ""; }
     else coverImage.removeAttribute("src");
     document.getElementById("reader-heading").classList.toggle("has-cover", Boolean(cover));
     const intro = document.getElementById("reader-intro");
@@ -164,7 +165,7 @@
       section.append(headingWrap);
       for (const block of chapter.blocks) {
         if (block.src) {
-          if (hero.id === "rian" && story.id === "jedenascie-minut" && block.src === cover?.src) continue;
+          if (hero.id === "rian" && story.id !== "drugi-olowek" && block.src === cover?.src) continue;
           const figure = element("figure");
           const image = element("img");
           image.src = block.src;
