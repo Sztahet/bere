@@ -1,1 +1,10 @@
-{}
+{
+  "01": {
+    "alt": "Rian rozmawia z Leną przy stole warsztatowym w Aurelu.",
+    "altEn": "Rian talks with Lena at a workshop table in Aurel."
+  },
+  "02": {
+    "alt": "Rian ogląda część odłączonego modelu pod nadzorem, w obecności Leny i Adriena.",
+    "altEn": "Rian examines a component of the disconnected model under supervision, with Lena and Adrien present."
+  }
+}

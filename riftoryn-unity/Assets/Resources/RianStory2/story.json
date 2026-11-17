@@ -200,6 +200,11 @@
           "text": "Pierwszą próbę przeprowadzono na odłączonym modelu. Osoba nadzorująca policzyła części przed pracą i po niej. Przy stole była też Lena. Obserwowała mnie tak uważnie, że chciałam zapytać, czy woli sama trzymać narzędzia. Nie zapytałam. Miała powody, żeby patrzeć."
         },
         {
+          "image": 2,
+          "alt": "Rian ogląda część odłączonego modelu pod nadzorem, w obecności Leny i Adriena.",
+          "altEn": "Rian examines a component of the disconnected model under supervision, with Lena and Adrien present."
+        },
+        {
           "text": "Obejrzałam uchwyt Adriena. Obróciłam go, nacisnęłam zabezpieczenie i odłożyłam."
         },
         {
@@ -230,6 +235,11 @@
         },
         {
           "text": "Właśnie dowiedziałam się, że Lena rozmawiała wczoraj z nadzorującym o moich warunkach. Chciała wcześniej przygotować części, żeby nie liczył ich przy mnie. Zapytałam ją, dlaczego to zrobiła."
+        },
+        {
+          "image": 1,
+          "alt": "Rian rozmawia z Leną przy stole warsztatowym w Aurelu.",
+          "altEn": "Rian talks with Lena at a workshop table in Aurel."
         },
         {
           "text": "— Chciałam ci oszczędzić nieprzyjemności."

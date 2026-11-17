@@ -128,6 +128,8 @@ Nie wiem, czy w ogóle chciała mojej odpowiedzi.
 
 Pierwszą próbę przeprowadzono na odłączonym modelu. Osoba nadzorująca policzyła części przed pracą i po niej. Przy stole była też Lena. Obserwowała mnie tak uważnie, że chciałam zapytać, czy woli sama trzymać narzędzia. Nie zapytałam. Miała powody, żeby patrzeć.
 
+<!-- ilustracja: 02 -->
+
 Obejrzałam uchwyt Adriena. Obróciłam go, nacisnęłam zabezpieczenie i odłożyłam.
 
 — Tym razem kontrolka pozostanie włączona.
@@ -147,6 +149,8 @@ Lena zapytała później o drugą osłonę. Wyjaśniłam, dlaczego nie wystarczy
 13 lutego, 5 ET · uniwersytet w Aurelu
 
 Właśnie dowiedziałam się, że Lena rozmawiała wczoraj z nadzorującym o moich warunkach. Chciała wcześniej przygotować części, żeby nie liczył ich przy mnie. Zapytałam ją, dlaczego to zrobiła.
+
+<!-- ilustracja: 01 -->
 
 — Chciałam ci oszczędzić nieprzyjemności.
 
