@@ -10,7 +10,7 @@ Opcjonalne tłumaczenie zapisz obok jako `historia.en.md`, w tym samym układzie
 
 Ilustrację wstaw w obu tekstach znacznikiem `<!-- ilustracja: 01 -->`. W `ilustracje.json` zapisz numer, opis alternatywny `alt` i opcjonalnie `altEn`. Znacznik z `pending: true` rezerwuje miejsce bez wyświetlania pustego obrazka. Gotowy plik `01.jpg` umieść w podfolderze `ilustracje` obok tekstu i usuń `pending: true`; skrypt skopiuje go do zasobów Unity. Ilustracja jest wspólna dla obu języków.
 
-Kolejność części, statusy i powiązania z zasobami Unity są w `katalog.json`. Relacje grafu są w `riftoryn-unity/Web/hero-relations-data.js`, każda para występuje raz.
+Kolejność części, statusy i powiązania z zasobami Unity są w `katalog.json`. Pole `draft: true` oznacza część do zatwierdzenia; po zatwierdzeniu ustaw `draft: false` dla konkretnej części i uruchom synchronizację. Oznaczenia w obu czytnikach korzystają z tego samego statusu. Relacje grafu są w `riftoryn-unity/Web/hero-relations-data.js`, każda para występuje raz.
 
 Po każdej zmianie uruchom z głównego katalogu:
 

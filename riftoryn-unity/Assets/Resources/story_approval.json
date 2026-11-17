@@ -1,0 +1,208 @@
+{
+  "stories": [
+    {
+      "folder": "NoctenDraft1",
+      "draft": true
+    },
+    {
+      "folder": "NoctenDraft2",
+      "draft": true
+    },
+    {
+      "folder": "NoctenDraft3",
+      "draft": true
+    },
+    {
+      "folder": "PiecariusDraft1",
+      "draft": true
+    },
+    {
+      "folder": "PiecariusDraft2",
+      "draft": true
+    },
+    {
+      "folder": "PiecariusDraft3",
+      "draft": true
+    },
+    {
+      "folder": "MorrakDraft1",
+      "draft": true
+    },
+    {
+      "folder": "MorrakDraft2",
+      "draft": true
+    },
+    {
+      "folder": "MorrakDraft3",
+      "draft": true
+    },
+    {
+      "folder": "SailaStory",
+      "draft": false
+    },
+    {
+      "folder": "SailaAwakening",
+      "draft": false
+    },
+    {
+      "folder": "SailaFinale",
+      "draft": false
+    },
+    {
+      "folder": "AdrienStory1",
+      "draft": false
+    },
+    {
+      "folder": "AdrienStory2",
+      "draft": false
+    },
+    {
+      "folder": "AdrienStory3",
+      "draft": false
+    },
+    {
+      "folder": "LenaStory1",
+      "draft": false
+    },
+    {
+      "folder": "LenaStory2",
+      "draft": false
+    },
+    {
+      "folder": "LenaStory3",
+      "draft": false
+    },
+    {
+      "folder": "RianStory1",
+      "draft": false
+    },
+    {
+      "folder": "RianStory2",
+      "draft": false
+    },
+    {
+      "folder": "RianStory3",
+      "draft": false
+    },
+    {
+      "folder": "LucenStory1",
+      "draft": true
+    },
+    {
+      "folder": "LucenStory2",
+      "draft": true
+    },
+    {
+      "folder": "LucenStory3",
+      "draft": true
+    },
+    {
+      "folder": "TarenStory1",
+      "draft": true
+    },
+    {
+      "folder": "TarenStory2",
+      "draft": true
+    },
+    {
+      "folder": "TarenStory3",
+      "draft": true
+    },
+    {
+      "folder": "AzmirDraft1",
+      "draft": true
+    },
+    {
+      "folder": "AzmirDraft2",
+      "draft": true
+    },
+    {
+      "folder": "AzmirDraft3",
+      "draft": true
+    },
+    {
+      "folder": "VaelisDraft1",
+      "draft": true
+    },
+    {
+      "folder": "VaelisDraft2",
+      "draft": true
+    },
+    {
+      "folder": "VaelisDraft3",
+      "draft": true
+    },
+    {
+      "folder": "ThoraDraft1",
+      "draft": true
+    },
+    {
+      "folder": "ThoraDraft2",
+      "draft": true
+    },
+    {
+      "folder": "ThoraDraft3",
+      "draft": true
+    },
+    {
+      "folder": "MikoDraft1",
+      "draft": true
+    },
+    {
+      "folder": "MikoDraft2",
+      "draft": true
+    },
+    {
+      "folder": "MikoDraft3",
+      "draft": true
+    },
+    {
+      "folder": "VarekDraft1",
+      "draft": true
+    },
+    {
+      "folder": "VarekDraft2",
+      "draft": true
+    },
+    {
+      "folder": "VarekDraft3",
+      "draft": true
+    },
+    {
+      "folder": "NeraDraft1",
+      "draft": true
+    },
+    {
+      "folder": "NeraDraft2",
+      "draft": true
+    },
+    {
+      "folder": "NeraDraft3",
+      "draft": true
+    },
+    {
+      "folder": "VedaDraft1",
+      "draft": true
+    },
+    {
+      "folder": "VedaDraft2",
+      "draft": true
+    },
+    {
+      "folder": "VedaDraft3",
+      "draft": true
+    },
+    {
+      "folder": "VoltDraft1",
+      "draft": true
+    },
+    {
+      "folder": "VoltDraft2",
+      "draft": true
+    },
+    {
+      "folder": "VoltDraft3",
+      "draft": true
+    }
+  ]
+}

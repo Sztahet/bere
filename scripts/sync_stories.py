@@ -49,6 +49,12 @@ def sync():
             meta = out.with_name(out.name + ".meta")
             if not meta.exists():
                 meta.write_text("fileFormatVersion: 2\nguid: " + uuid.uuid4().hex + "\nTextScriptImporter:\n  externalObjects: {}\n  userData: \n  assetBundleName: \n  assetBundleVariant: \n", encoding="utf-8")
+    status_path = ROOT / RESOURCES / "story_approval.json"
+    statuses = [{"folder": info["unity"], "draft": bool(info["draft"])} for info in _INDEX.values()]
+    status_path.write_text(json.dumps({"stories": statuses}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    status_meta = status_path.with_name(status_path.name + ".meta")
+    if not status_meta.exists():
+        status_meta.write_text("fileFormatVersion: 2\nguid: " + uuid.uuid4().hex + "\nTextScriptImporter:\n  externalObjects: {}\n  userData:\n  assetBundleName:\n  assetBundleVariant:\n", encoding="utf-8")
     WEB_DATA.write_text(render_data(), encoding="utf-8")
 
 

@@ -34,6 +34,14 @@
     return node;
   }
 
+  function approvalBadge(short = false) {
+    const badge = element("span", null, short ? "approval-badge approval-badge-short" : "approval-badge");
+    const emblem = element("span", "✦", "approval-emblem");
+    emblem.setAttribute("aria-hidden", "true");
+    badge.append(emblem, document.createTextNode("Do zatwierdzenia"));
+    return badge;
+  }
+
   function storyLink(hero, story) {
     return `#${hero.id}/${story.id}`;
   }
@@ -63,6 +71,13 @@
       affinity.append(element("span", person.element));
       content.append(affinity, element("span", person.name, "hero-name"), element("span", role, "hero-role"));
       card.append(content);
+      const collection = storyArchive.find(entry => entry.id === person.id);
+      if (available && collection?.stories.some(story => story.draft)) {
+        const badge = approvalBadge(true);
+        badge.classList.add("hero-approval");
+        card.append(badge);
+        card.setAttribute("aria-label", `${person.name} — ${person.element}, ${role} — zawiera opowiadania do zatwierdzenia`);
+      }
       if (!available) card.append(element("span", "W przygotowaniu", "unavailable-label"));
       return card;
     }
@@ -88,7 +103,9 @@
     hero.stories.forEach((story, index) => {
       const item = element("li");
       const entry = link(null, storyLink(hero, story), "story-entry");
-      entry.append(element("span", `Część ${parts[index]}`, "part"), element("span", story.title, "entry-title"));
+      const title = element("span", story.title, "entry-title");
+      if (story.draft) title.append(approvalBadge());
+      entry.append(element("span", `Część ${parts[index]}`, "part"), title);
       entry.append(element("span", "Czytaj →", "read-link"));
       item.append(entry);
       list.append(item);
@@ -103,15 +120,16 @@
     const partLinks = hero.stories.map((part, partIndex) => {
       const entry = link(null, storyLink(hero, part), "parts-link");
       entry.append(element("span", `CZĘŚĆ ${parts[partIndex]}`, "parts-label"), element("span", part.title, "parts-title"));
+      if (part.draft) entry.append(approvalBadge(true));
       if (part === story) entry.setAttribute("aria-current", "page");
       return entry;
     });
     partsNav.replaceChildren(...partLinks);
     document.getElementById("back-to-collection").href = `#${hero.id}`;
     document.getElementById("reader-series").textContent = hero.series || "Archiwum Riftoryn";
-    document.getElementById("reader-meta").textContent = [
-      hero.name, `Część ${parts[index]}`, story.draft && "Wersja robocza"
-    ].filter(Boolean).join(" · ");
+    const meta = document.getElementById("reader-meta");
+    meta.replaceChildren(document.createTextNode(`${hero.name} · Część ${parts[index]}`));
+    if (story.draft) meta.append(approvalBadge());
     storyTitle.textContent = translated.title;
     const cover = hero.id === "saila" ? sailaCovers[story.id] : null;
     const coverImage = document.getElementById("reader-cover");

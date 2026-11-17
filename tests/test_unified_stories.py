@@ -33,6 +33,14 @@ class UnifiedStoriesTests(unittest.TestCase):
                     output = ROOT / RESOURCES / _INDEX[entry[2]]['unity'] / 'story.json'
                     self.assertEqual(json.loads(output.read_text(encoding='utf-8'))['chapters'], story['chapters'])
 
+    def test_unity_approval_status_matches_shared_catalog(self):
+        output = ROOT / RESOURCES / 'story_approval.json'
+        statuses = json.loads(output.read_text(encoding='utf-8'))['stories']
+        actual = {item['folder']: item['draft'] for item in statuses}
+        expected = {item['unity']: bool(item['draft']) for item in _INDEX.values()}
+        self.assertEqual(len(actual), len(statuses))
+        self.assertEqual(actual, expected)
+
     def test_english_and_pending_images_are_optional(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)

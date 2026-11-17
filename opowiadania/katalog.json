@@ -430,5 +430,32 @@
         "draft": true
       }
     ]
+  },
+  {
+    "id": "volt",
+    "name": "Volt",
+    "region": "Zerath",
+    "portrait": "volt-lightning-summoner.png",
+    "series": "Kiedy Grom odleciał",
+    "stories": [
+      {
+        "id": "skrzydlo",
+        "folder": "opowiadania/volt/1_the_wing",
+        "unity": "VoltDraft1",
+        "draft": true
+      },
+      {
+        "id": "otwarte-okno",
+        "folder": "opowiadania/volt/2_the_open_window",
+        "unity": "VoltDraft2",
+        "draft": true
+      },
+      {
+        "id": "po-drugiej-stronie-sygnalu",
+        "folder": "opowiadania/volt/3_the_second_signal",
+        "unity": "VoltDraft3",
+        "draft": true
+      }
+    ]
   }
 ]

@@ -54,6 +54,12 @@ h1 { font-size: clamp(2.65rem, 6.5vw, 5.2rem); line-height: 1.04; }
 .hero-name { font: 600 clamp(1.2rem, 2vw, 1.5rem)/1.08 var(--serif); }
 .hero-role { color: #d4c7c6; font-size: .72rem; }
 .hero-card.unavailable .hero-portrait { filter: grayscale(.65) brightness(.7); }
+.approval-badge { display: inline-flex; align-items: center; gap: .35rem; padding: .18rem .48rem; border: 1px solid #b99668; border-radius: 999px; background: #30241fed; color: #f1d8a9; font: 700 .62rem/1.3 var(--sans); letter-spacing: .04em; text-transform: uppercase; white-space: nowrap; vertical-align: middle; }
+.approval-emblem { color: #edc983; font-size: .86rem; line-height: 1; }
+.hero-approval { position: absolute; top: .55rem; left: .55rem; max-width: calc(100% - 1.1rem); z-index: 1; font-size: .53rem; }
+.entry-title .approval-badge { margin-left: .65rem; }
+.parts-link .approval-badge { align-self: flex-start; }
+.reader-meta .approval-badge { margin-left: .75rem; letter-spacing: .04em; }
 .unavailable-label { position: absolute; top: .6rem; left: .6rem; padding: .25rem .45rem; background: #17131de6; color: #e2d8d2; font-size: .62rem; }
 .upcoming-heroes { margin-top: 1.4rem; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 .upcoming-heroes summary { display: flex; justify-content: space-between; align-items: center; gap: 1rem; padding: 1rem 0; cursor: pointer; color: var(--text); font-size: .9rem; font-weight: 600; list-style: none; }
@@ -118,8 +124,10 @@ h1 { font-size: clamp(2.65rem, 6.5vw, 5.2rem); line-height: 1.04; }
   .story-entry { grid-template-columns: 3.4rem minmax(0, 1fr) auto; gap: .5rem; padding-inline: .2rem; }
   .reader-layout { display: block; }
   .parts-nav { grid-template-columns: 1fr; gap: .35rem; }
-  .parts-link { flex-direction: row; align-items: baseline; gap: .8rem; padding: .7rem .85rem; }
+  .parts-link { flex-direction: row; flex-wrap: wrap; align-items: baseline; gap: .8rem; padding: .7rem .85rem; }
   .parts-label { flex: 0 0 4.4rem; }
+  .parts-link .approval-badge { margin-left: auto; align-self: center; }
+  .entry-title .approval-badge { display: flex; width: fit-content; margin: .3rem 0 0; }
   .reader-layout aside { position: static; margin-bottom: 1.6rem; }
   .reader-layout nav { padding-bottom: .85rem; border-bottom: 1px solid var(--line); }
   .reader-heading { margin: 1rem 0 2.5rem; padding: 2rem 1.4rem; }

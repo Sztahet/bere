@@ -90,7 +90,7 @@ public partial class RiftorynMenu : MonoBehaviour {
             default: return RiftorynCodexData.Text("HISTORIA  →","THEIR HISTORY  →");
         }
     }
-    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="morrak"||id=="nera"||id=="veda";
+    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="morrak"||id=="nera"||id=="veda"||id=="volt"||id=="varek"||id=="miko"||id=="azmir"||id=="vaelis"||id=="thora";
     bool HasExtraStories(string id)=>id=="rian"||id=="lucen"||id=="taren";
     void DrawExtraStories(CodexHero hero)
     {
@@ -102,16 +102,27 @@ public partial class RiftorynMenu : MonoBehaviour {
             case "taren": prefix="Taren"; titles=new[]{"TO, CO POZOSTAŁO", "CENA LOJALNOŚCI", "PO DRUGIEJ STRONIE"}; break;
             default: return;
         }
-        Text(new Rect(1105,690,425,25),"OPOWIEŚCI",heroBadge);
+        bool hasPending=false;
+        for(int i=0;i<titles.Length;i++)hasPending|=StoryNeedsApproval(prefix+"Story"+(i+1),hero.id!="rian");
+        Text(new Rect(1105,690,425,25),hasPending?"✦  OPOWIEŚCI · DO ZATWIERDZENIA":"OPOWIEŚCI",heroBadge);
         for(int i=0;i<titles.Length;i++)
-            if(Click(new Rect(1105,720+i*38,425,32),titles[i]+"  →",true))
-                OpenSailaStory(prefix+"Story"+(i+1),titles[i],hero.name.ToUpperInvariant(),hero.id!="rian");
+        {
+            string folder=prefix+"Story"+(i+1); bool draft=StoryNeedsApproval(folder,hero.id!="rian");
+            if(Click(new Rect(1105,720+i*38,425,32),(draft?"✦  ":"")+titles[i]+"  →",true))
+                OpenSailaStory(folder,titles[i],hero.name.ToUpperInvariant(),draft);
+        }
     }
     void DrawDraftStories(CodexHero hero)
     {
         string prefix; string[] titles;
         switch(hero.id)
         {
+            case "volt": prefix="Volt"; titles=new[]{"SKRZYDŁO", "OTWARTE OKNO", "PO DRUGIEJ STRONIE SYGNAŁU"}; break;
+            case "varek": prefix="Varek"; titles=new[]{"DRUGI SYGNAŁ", "CZAS NA ODPOWIEDŹ", "KTO ZOSTAJE PRZY LINII"}; break;
+            case "miko": prefix="Miko"; titles=new[]{"TO POWINNO ZADZIAŁAĆ", "JESZCZE JEDEN IMPULS", "JESZCZE JEDEN PIORUN"}; break;
+            case "azmir": prefix="Azmir"; titles=new[]{"TO, CZEGO NIE ODNALEZIONO", "SŁOWO, KTÓREGO NIE WPISAŁEM", "WIELE PAR OCZU"}; break;
+            case "vaelis": prefix="Vaelis"; titles=new[]{"ZAMKNIĘTA KOPIA", "BRAKUJĄCE STRONY", "PUBLICZNY ZAPIS"}; break;
+            case "thora": prefix="Thora"; titles=new[]{"OSTATNI KORZEŃ", "DZIEŃ, KTÓRY MIAŁ BYĆ SPOKOJNY", "WYSTARCZY"}; break;
             case "veda": prefix="Veda"; titles=new[]{"TO, CO ZOSTAJE PO DRODZE", "WÓZ I TROJE LUDZI", "DROGA POWROTNA"}; break;
             case "nera": prefix="Nera"; titles=new[]{"WOLNE RĘCE", "PO DRUGIEJ STRONIE", "MIEJSCE NA NAUKĘ"}; break;
             case "nocten": prefix="Nocten"; titles=new[]{"DROGA, KTÓREJ NIE BYŁO", "TYM RAZEM NIE WIERZ NOCTENOWI", "PIERWSZA LEKCJA"}; break;
@@ -119,10 +130,15 @@ public partial class RiftorynMenu : MonoBehaviour {
             case "morrak": prefix="Morrak"; titles=new[]{"IMIĘ, KTÓREGO NIE WYPOWIEDZIAŁ", "ŚWIADKOWIE MILCZENIA", "IMIĘ NA LIŚCIE"}; break;
             default: return;
         }
-        Text(new Rect(1105,690,425,25),"OPOWIEŚCI · WERSJE ROBOCZE",heroBadge);
+        bool hasPending=false;
+        for(int i=0;i<titles.Length;i++)hasPending|=StoryNeedsApproval(prefix+"Draft"+(i+1),true);
+        Text(new Rect(1105,690,425,25),hasPending?"✦  OPOWIEŚCI · DO ZATWIERDZENIA":"OPOWIEŚCI",heroBadge);
         for(int i=0;i<titles.Length;i++)
-            if(Click(new Rect(1105,720+i*38,425,32),titles[i]+"  →",true))
-                OpenSailaStory(prefix+"Draft"+(i+1),titles[i],hero.name.ToUpperInvariant(),true);
+        {
+            string folder=prefix+"Draft"+(i+1); bool draft=StoryNeedsApproval(folder,true);
+            if(Click(new Rect(1105,720+i*38,425,32),(draft?"✦  ":"")+titles[i]+"  →",true))
+                OpenSailaStory(folder,titles[i],hero.name.ToUpperInvariant(),draft);
+        }
     }
     void HeroCodex()
     {

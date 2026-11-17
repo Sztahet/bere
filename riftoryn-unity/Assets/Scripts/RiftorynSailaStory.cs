@@ -4,6 +4,8 @@ using UnityEngine;
 [Serializable] public class SailaStoryBlock { public string text; public int image; public bool pending; public int width, height; }
 [Serializable] public class SailaStoryChapter { public string title; public SailaStoryBlock[] blocks; }
 [Serializable] public class SailaStoryData { public string title; public SailaStoryChapter[] chapters; }
+[Serializable] public class StoryApprovalEntry { public string folder; public bool draft; }
+[Serializable] public class StoryApprovalCatalog { public StoryApprovalEntry[] stories; }
 
 public partial class RiftorynMenu
 {
@@ -14,9 +16,24 @@ public partial class RiftorynMenu
     bool storyEnglish;
     string sailaStoryFolder="SailaStory", sailaStoryTitle="CIĘŻAR KRYSZTAŁU", storyHeroName="SAILA";
 
+    StoryApprovalCatalog storyApproval;
+    bool storyApprovalLoaded;
+    bool StoryNeedsApproval(string folder, bool fallback=false)
+    {
+        if(!storyApprovalLoaded)
+        {
+            var asset=Resources.Load<TextAsset>("story_approval");
+            if(asset)storyApproval=JsonUtility.FromJson<StoryApprovalCatalog>(asset.text);
+            storyApprovalLoaded=true;
+        }
+        if(storyApproval?.stories!=null)foreach(var item in storyApproval.stories)
+            if(item!=null&&item.folder==folder)return item.draft;
+        return fallback;
+    }
+
     void OpenSailaStory(string folder, string title, string heroName="SAILA", bool draft=false)
     {
-        sailaStoryDraft=draft;
+        sailaStoryDraft=StoryNeedsApproval(folder,draft);
         sailaStoryFolder=folder;
         sailaStoryTitle=title;
         storyHeroName=heroName;
@@ -55,7 +72,7 @@ public partial class RiftorynMenu
         float viewWidth=Mathf.Min(w-pad*2,840), x=(w-viewWidth)*.5f;
         sailaScroll=GUI.BeginScrollView(new Rect(x,55,viewWidth,viewHeight),sailaScroll,new Rect(0,0,viewWidth-20,total));
         float inner=(viewWidth-20-width)*.5f;
-        GUI.Label(new Rect(inner,5,width,25),(storyEnglish?"CHAPTER ":"ROZDZIAŁ ")+(sailaChapter+1)+" / "+sailaStory.chapters.Length+(storyEnglish?"  ·  ENGLISH":"  ·  WERSJA POLSKA")+(sailaStoryDraft?(storyEnglish?"  ·  DRAFT":"  ·  WERSJA ROBOCZA"):""),sailaSmall);
+        GUI.Label(new Rect(inner,5,width,25),(storyEnglish?"CHAPTER ":"ROZDZIAŁ ")+(sailaChapter+1)+" / "+sailaStory.chapters.Length+(storyEnglish?"  ·  ENGLISH":"  ·  WERSJA POLSKA")+(sailaStoryDraft?(storyEnglish?"  ·  ✦ PENDING APPROVAL":"  ·  ✦ DO ZATWIERDZENIA"):""),sailaSmall);
         GUI.Label(new Rect(inner,30,width,45),chapter.title,sailaTitle);
         foreach(var block in chapter.blocks)
         {
