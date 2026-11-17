@@ -2,8 +2,11 @@
   "title": "Nauka kontroli",
   "chapters": [
     {
-      "title": "Val Meris, pierwszy rok, 3 PT",
+      "title": "Pierwszy rok",
       "blocks": [
+        {
+          "text": "Pierwszy rok nauki, 3 PT · szkoła magów w Val Meris"
+        },
         {
           "text": "W szkole dają nam po dwie kalki na rysunek. Jedną bierze prowadząca, drugą można zatrzymać. Swoje podkładam pod blaszaną puszkę na parapecie, żeby nie stukała, kiedy na ulicy przejeżdża wóz."
         },
@@ -25,8 +28,11 @@
       ]
     },
     {
-      "title": "Val Meris, druga próba",
+      "title": "Druga próba",
       "blocks": [
+        {
+          "text": "Pierwszy rok nauki, 3 PT · szkoła magów w Val Meris"
+        },
         {
           "text": "Uczennica, która ładowała przede mną, nazywa się Pyrra. Przyjechała z Vareth i zaczęła pierwszy rok razem ze mną. Po zajęciach znalazłem ją przy szafie z wyposażeniem. Przepisywała numery stanowisk na odwrocie swojego arkusza. Postawiłem obok pudełko z odłamkami. Chciałem, żeby było widać, że wszystko pozbierałem."
         },
@@ -84,8 +90,11 @@
       ]
     },
     {
-      "title": "Val Meris, po otwarciu archiwum, 0 ET",
+      "title": "Otwarcie archiwum",
       "blocks": [
+        {
+          "text": "Po otwarciu publicznego archiwum, 0 ET · Val Meris"
+        },
         {
           "text": "Przy wejściu do publicznego archiwum dostałem małą kartę z własnym imieniem. Z drugiej strony podano godziny zamknięcia. Przeczytałem je trzy razy, bo bałem się, że do dokumentów z Zerath dopuszczają tylko na określoną porę. Można było przyjść każdego dnia. Zeszyt i ołówek wolno było wnieść na salę. Kartkę matki trzymałem złożoną w kieszeni."
         },
@@ -125,8 +134,11 @@
       ]
     },
     {
-      "title": "Val Meris, pracownia za drugim dziedzińcem",
+      "title": "Pracownia za drugim dziedzińcem",
       "blocks": [
+        {
+          "text": "0–3 ET · pracownia za drugim dziedzińcem, Val Meris"
+        },
         {
           "text": "Na starszych latach dostaliśmy do prób dłuższą linię. Plan pokazywał, że dwie lampy na końcu mają mieć podobną jasność. Zet z Iglicy Zerath, dwa lata ode mnie młodszy, był ze mną na roku od początku. Obliczył straty na przewodzie i rozłożył zeszyt tak, żebyśmy podpisali się pod wynikiem. Chciał skończyć przed zmrokiem, bo miał po zajęciach roznosić po mieście wiadomości dla szkoły. Nie podpisałem. Przy jednej z lamp wtyk brzęczał, gdy się go dotknęło. Powiedziałem, że chciałbym przerwać obwód i obejrzeć styk."
         },
@@ -163,8 +175,11 @@
       ]
     },
     {
-      "title": "Val Meris, przesyłka z Aurelu",
+      "title": "Przesyłka z Aurelu",
       "blocks": [
+        {
+          "text": "0–3 ET · Val Meris"
+        },
         {
           "text": "W paczce z zimowymi rzeczami znalazłem kopertę z Zerath. Pod moim imieniem ojciec napisał adres domu przy obserwatorium. Aria dołączyła kartkę. „Przyszedł jeszcze pierwszej zimy. Chowałam go w szufladzie. Powinnam była dać ci go od razu”."
         },
@@ -204,8 +219,11 @@
       ]
     },
     {
-      "title": "Val Meris, 3 ET",
+      "title": "Pokaz dla pierwszorocznych",
       "blocks": [
+        {
+          "text": "3 ET · szkoła magów w Val Meris"
+        },
         {
           "text": "Na szóstym roku prowadząca powierzyła mi pokaz dla pierwszorocznych. Ustaliliśmy, że sam pokażę im trzy ładowania, a ona będzie przy stole, gdy spróbują po raz pierwszy. Przyniosłem lampę z Aurelu. Najlepiej wiem, ile czekać po odjęciu od niej dłoni. Na tej lampie uczyłem się dostrzegać, kiedy wskazówka jeszcze się porusza, choć chciałbym już zapisać wynik."
         },
@@ -221,8 +239,11 @@
       ]
     },
     {
-      "title": "Val Meris, przed egzaminem",
+      "title": "Przed egzaminem",
       "blocks": [
+        {
+          "text": "3 ET · szkoła magów w Val Meris"
+        },
         {
           "text": "Saila wróciła nazajutrz. Chciała powtórzyć próbę w zimnym pomieszczeniu. W domu, jak mówiła, trudno utrzymać sprzęt w cieple dokładnie wtedy, kiedy jest najbardziej potrzebny. Pokazałem jej rysunek mojej lampy. Zaznaczyła palcem, gdzie można podsunąć schłodzoną blachę, i spytała, czy następnym razem któreś z nas zostanie, aż światło zgaśnie. Dopisałem to pod wynikiem."
         },
@@ -238,8 +259,11 @@
       ]
     },
     {
-      "title": "Val Meris, egzamin końcowy",
+      "title": "Egzamin końcowy",
       "blocks": [
+        {
+          "text": "3 ET · szkoła magów w Val Meris"
+        },
         {
           "text": "Na końcowym sprawdzianie z pracy przy instalacjach mieliśmy przez kilka minut zasilać dwie lampy z jednego kryształu. Zet przygotował osłonę do tej większej. Wyciął nawet szczelinę, przez którą światło miało paść prosto na zegar po drugiej stronie sali."
         },

@@ -2,7 +2,7 @@
 
 ## Dwie linie
 
-3 października, 4 PT
+3 października, 4 PT · Aurel
 
 Pani od dostaw nazywa się Mara i twierdzi, że po odgłosie kroków poznaje, kto przychodzi po części bez zamówienia. Dzisiaj rozpoznała mnie jeszcze przed schodami. Dała mi śrubę, zanim zdążyłam otworzyć usta, ale kazała obiecać, że następnym razem przyniosę formularz.
 
@@ -28,7 +28,7 @@ Adrien podpisał dopuszczenie. Nie było protokołu z próby terenowej, więc ni
 
 Wieczorem spróbowałam odtworzyć naprężenie na zapasowym uchwycie. Nie pękł. Gdyby pękł, mogłabym zanieść go rano jako dowód. Zostawiłam go na stole, choć sama nie wiedziałam, komu chciałam go pokazać.
 
-6 października, 4 PT
+6 października, 4 PT · Aurel
 
 Przyrząd zawiódł dwa dni temu. Dowiedziałam się, kiedy Adrien zbierał narzędzia przed wyjazdem na drogę. Był wściekły, że nikt go wcześniej nie zawiadomił. Ja spytałam, czy ktoś został ranny. Nie znał odpowiedzi.
 
@@ -48,7 +48,7 @@ Nie miałam ochoty powiedzieć Adrienowi, że go ostrzegałam. Nie miałam ochot
 
 ## Miejsce w raporcie
 
-7 października, 4 PT
+7 października, 4 PT · Aurel
 
 Adrien podał mi kopię raportu. Przeczytałam ją przy jego stole. Napisał o moim ostrzeżeniu i o decyzji dowódcy. Napisał też, że sam dopuścił urządzenie bez próby w terenie.
 
@@ -66,7 +66,7 @@ Przy imieniu przewodnika zatrzymałam wzrok dłużej. Nie wpiszę go tutaj, dop�
 
 To dziwne, jak łatwo wyobrazić sobie czyjąś twarz, kiedy ma się tylko imię. Próbowałam, a potem przestałam. Nie chcę zastępować człowieka tym, co sobie wymyślę.
 
-19 października, 4 PT
+19 października, 4 PT · Aurel
 
 Próba na wozie skończyła się pęknięciem śruby. Zaznaczyłam je czerwonym ołówkiem. Adrien przeczytał całą moją listę, nawet uwagę o osłonie, co do której miał rację: źle zmierzyłam odstęp.
 
@@ -88,7 +88,7 @@ Zamknął notes, zanim zdążyłam zapytać dalej. Nie zajrzałam. I tak dowiem 
 
 ## Szósta próba
 
-2 listopada, 4 PT
+2 listopada, 4 PT · Aurel
 
 Moje mocowanie wytrzymało szóstą próbę. Jego pękło.
 

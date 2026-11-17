@@ -2,7 +2,7 @@
 
 ## Siedemnasta próba
 
-18 kwietnia, 12 ET · rano
+18 kwietnia, 12 ET · Aurel, rano
 
 Miko przyniósł mi urządzenie zawinięte w płaszcz, który najwyraźniej wcześniej służył do wycierania narzędzi.
 
@@ -106,7 +106,7 @@ Nie cierpię, kiedy tak mówi.
 
 ## Lepszy wynik
 
-18 kwietnia, 12 ET · po południu
+18 kwietnia, 12 ET · Aurel, po południu
 
 Przez następne dwie godziny usiłowałem wykazać, że wynik Miko jest przypadkowy.
 
@@ -160,7 +160,7 @@ Zapisałem oba warunki. Miko zostawił mi urządzenie i zabrał płaszcz.
 
 ## Osoba od trudnych pytań
 
-20 kwietnia, 12 ET
+20 kwietnia, 12 ET · Aurel
 
 Rian przyszła dwa dni później. Była już po karze i prowadziła zajęcia dla młodych rzemieślników. Przedstawiłem jej oba regulatory. Nie powiedziałem, który jest mój.
 
@@ -230,7 +230,7 @@ Zatrzymała się przy drzwiach.
 
 ## Powód zgłoszenia
 
-20 kwietnia, 12 ET · wieczór
+20 kwietnia, 12 ET · Aurel, wieczór
 
 W końcu potwierdzono termin Wielkich Igrzysk. Kwalifikacje zaczną się 29 maja, a na serię właściwych rozgrywek od lipca organizatorzy planują kilka miesięcy. Na uniwersytecie od razu zaczęto dyskutować, kto pojedzie do Val Meris, czyją sprawę będzie reprezentował i czy wynik powstrzyma kolejny konflikt.
 
@@ -272,7 +272,7 @@ Zostawiłem je. Chciałem wiedzieć, co wymyśli następnym razem.
 
 ## Jeszcze jedna próba
 
-24 kwietnia, 12 ET
+24 kwietnia, 12 ET · Aurel
 
 Pierwszy prototyp urządzenia do zakłócania wież działa. Przynajmniej w warunkach laboratoryjnych.
 

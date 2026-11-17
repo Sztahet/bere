@@ -2,7 +2,7 @@
 
 ## I. Cień pod drzwiami
 
-14 września, 10 ET
+14 września, 10 ET · okolice domu Noctena
 
 W piekarni nie dało się otworzyć drzwi. Zawias opadł tak nisko, że dolna krawędź szorowała po progu, a właścicielka od świtu wypuszczała klientów tylnym wyjściem. Kiedy przyszedłem po chleb, poprosiła mnie, żebym potrzymał skrzydło, póki jej syn nie przyniesie narzędzi.
 
@@ -26,7 +26,7 @@ Obraz minął, gdy odsunąłem krzesło. Usiadłem i zjadłem chleb, póki był 
 
 ## II. Białe mury
 
-2 października, 10 ET
+2 października, 10 ET · archiwum, okolice osady Noctena
 
 Przyjechałem do archiwum po kopię starego wykazu dróg. Sąsiad spod piekarni szuka bezpieczniejszej trasy dla dostawy; ostatnią mapę miał tak zniszczoną, że dwie rzeki spotykały się na plamie po herbacie. Obiecałem znaleźć lepszą.
 
@@ -40,7 +40,7 @@ Może jednak niczego nie wymyśliłem.
 
 Wieczorem spróbowałem narysować ją z pamięci. Nie byłem zadowolony z zakrętu. Jutro wrócę i sprawdzę nazwę, zanim mój umysł zacznie ją uzupełniać za mnie.
 
-3 października, 10 ET
+3 października, 10 ET · archiwum, okolice osady Noctena
 
 Droga na mapie prowadzi do innej miejscowości.
 
@@ -68,7 +68,7 @@ Kupiłem dwa zeszyty. Jeden na zwyczajne sprawy, żeby sąsiad nie czekał na mn
 
 ## III. Droga do szkoły
 
-7 października, 10 ET
+7 października, 10 ET · dom Noctena
 
 Pamiętam rodziców i drogę do szkoły w północnej osadzie. Pamiętam też chłopca, który w mieście za białymi murami nazywał mnie ojcem. Podbiegł kiedyś do mnie z czymś zawiniętym w szmatkę. Byłem pewien, że w środku jest ranny ptak. Dzisiaj widzę w jego dłoniach pustą szmatkę.
 
@@ -80,7 +80,7 @@ Pamiętam, że się obraziłem. Pamiętam też, że miał rację.
 
 Napisałem do osady z prośbą o sprawdzenie szkolnych ksiąg. Nie wspomniałem o chłopcu. Nie znalazłem słów, które nie zabrzmiałyby jak prośba o potwierdzenie snu.
 
-25 października, 10 ET
+25 października, 10 ET · dom Noctena
 
 Otrzymałem odpowiedź. Księga potwierdza, że szkoła istniała. Według zapisu była zamknięta tego dnia, który podałem jako datę pierwszej lekcji. Nie mam pewności, skąd wziąłem tę datę; dopisałem ją kiedyś na marginesie własnego zeszytu.
 

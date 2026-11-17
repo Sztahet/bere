@@ -2,7 +2,7 @@
 
 ## Drugi ołówek
 
-29 listopada, 1 ET
+29 listopada, 1 ET · Aurel
 
 Adrien pisze wniosek dotyczący pracy dla kobiety oskarżonej o wojenny sabotaż. Właściwie pisze go trzeci raz, bo pierwsze dwa wróciły. Zapytałam, czy robi to dla niej.
 
@@ -14,7 +14,7 @@ Rian wyłączyła alarm przy bramie w Val Meris. Wiedziała, że mieszkańcy mog
 
 Adrien chce, żeby szukała słabych punktów w odłączonych prototypach, pod nadzorem. Nie prosi o uniewinnienie. To dla mnie ważne rozróżnienie, choć nie sprawia, że łatwiej przyjąć jego pomysł.
 
-14 stycznia, 2 ET
+14 stycznia, 2 ET · Aurel
 
 Rian przyszła na próbę. Osoba nadzorująca policzyła części przed pracą i po niej. Rian długo przyglądała się uchwytowi, a potem zapytała, czy może go nacisnąć. Zapytała tak spokojnie, jakby to był zwykły dzień w warsztacie. Dla mnie nie był.
 
@@ -28,7 +28,7 @@ Nie wiem, czy jeszcze będę chciała pytać o bramę. Nie wiem też, czy ona b�
 
 ## Pytanie o kreskę
 
-23 maja, 3 ET
+23 maja, 3 ET · Aurel
 
 Przysłano nam maga do ładowania kryształów. Lucen najpierw zapytał o wyniki poprzednich prób. Adrien nie wyglądał na zachwyconego, ale pokazał mu stanowisko.
 
@@ -46,7 +46,7 @@ Lucen nie opowiadał o sobie wiele. Mniej więcej mój wiek, może trochę młod
 
 Może był po prostu zmęczony moimi pytaniami. To też wystarczający powód, żeby przestać.
 
-8 sierpnia, 4 ET
+8 sierpnia, 4 ET · Aurel
 
 Dzisiaj ktoś przyszedł do mnie, a nie do Adriena.
 
@@ -78,7 +78,7 @@ Zaniosłam Adrienowi rysunki. Obejrzał, spytał o sprężynę i zaproponował m
 
 ## Pomoc, o którą nie proszono
 
-12 lutego, 5 ET
+12 lutego, 5 ET · Aurel
 
 Pomyliłam się co do Rian.
 
@@ -104,7 +104,7 @@ Powiedziałam, że niczego nikomu nie powtórzyłam. To nie pomogło. Nie miała
 
 Nie chciała wtedy rozmawiać dalej. Pracowałyśmy resztę czasu nad modelem. Wskazała wadę w moim schemacie, a ja sprawdziłam ją dwa razy, zanim przyznałam jej rację. Nie dlatego, że przestałam ufać jej umiejętnościom. Dlatego, że byłam zła na siebie i chciałam chociaż w jednym miejscu mieć rację.
 
-3 marca, 5 ET
+3 marca, 5 ET · Aurel
 
 Zapytałam Rian, czy mogę usiąść obok niej podczas przerwy. Powiedziała, że mogę. Przez pewien czas jadłyśmy w milczeniu.
 
@@ -118,7 +118,7 @@ Nie wybaczyła mi wszystkiego jednym zdaniem. Zresztą nie o wszystko ją prosi�
 
 ## Ci, którzy wracają
 
-12 września, 7 ET
+12 września, 7 ET · Aurel
 
 Adrien poprosił dzisiaj o Lucena. Konkretnie o Lucena. Sprawdziłam imię dwa razy, bo równie dobrze mógł to być dzień, w którym nauczył się chwalić bez zastrzeżeń.
 
@@ -132,7 +132,7 @@ Lucen przyniósł szkic uchwytu. Adrien stwierdził, że go rozważy. Kiedy zapy
 
 Lucen był już przy drzwiach, ale widziałam, jak się uśmiechnął.
 
-7 czerwca, 9 ET
+7 czerwca, 9 ET · miejsce zajęć rzemieślników
 
 Rian uczy teraz młodych rzemieślników. Po zajęciach jeden z uczniów wrócił, żeby podziękować jej za cierpliwość. Powiedziała, że nie była szczególnie cierpliwa. Chłopak wskazał śrubokręt, który dostał do trzeciej próby, i odparł, że byłby jej nie oddał, gdyby naprawdę straciła cierpliwość.
 

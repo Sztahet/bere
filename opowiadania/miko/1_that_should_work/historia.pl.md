@@ -2,7 +2,7 @@
 
 ## Jedna część za dużo
 
-Aurel · lata studiów
+5 PT · pracownia uniwersytecka, Aurel
 
 Po złożeniu skrzynki została mi na stole jedna podkładka. Byłem prawie pewien, że dałem po jednej pod każdą śrubę. Schowałem podkładkę do kieszeni. Po próbie chciałem jeszcze raz otworzyć obudowę i sprawdzić, skąd się wzięła. Po południu mieliśmy z Adrienem iść na szermierkę. Zdążyłbym bez trudu, gdybym poprzestał na próbie lampki.
 
@@ -30,6 +30,8 @@ Adrien owinął mi palec bandażem. Pokazałem mu, gdzie trzymałem prawą ręk�
 
 ## Próba bez zasilania
 
+5 PT · pracownia uniwersytecka, Aurel
+
 Wyjęliśmy kryształ z lampki. Trzymałem prawą dłoń w tym samym miejscu co przedtem. Adrien upuszczał blaszkę tuż przed lampką, a ja próbowałem ją złapać, zanim uderzy o blat. Przy trzeciej próbie zauważyłem, że tuż przed wypuszczeniem blaszki drgał mu kciuk. Następnym razem sięgnąłem, gdy zobaczyłem ten ruch. Adrien przytrzymał blaszkę odrobinę dłużej. Zacisnąłem palce na powietrzu.
 
 — Zaczynasz sięgać, zanim ją puszczę — powiedział Adrien.
@@ -45,6 +47,8 @@ Przesunęliśmy wyłącznik na drugi koniec stołu, żeby Adrien mógł go dosi�
 Ledwie włączyliśmy lampkę, mocowanie zaczęło drżeć. Adrien wyłączył ją, zanim zdążyliśmy powtórzyć próbę. Przyjrzałem się śrubie, która trzymała zacisk. Pod łbem nie było podkładki. Wyjąłem tę z kieszeni i przyłożyłem ją do śruby. Pasowała.
 
 ## Dziedziniec
+
+5 PT · uniwersytet w Aurelu
 
 Opiekun pracowni obejrzał obudowę, obejrzał moją dłoń i zamknął stanowisko. Spytałem, czy możemy dokończyć próbę na dziedzińcu.
 
@@ -71,6 +75,8 @@ Wieczorem narysowałem plan próby. Zaznaczyłem wyłącznik i miejsce, z które
 Położyłem podkładkę na kartce. Na górze planu dopisałem, od czego zaczniemy, jeśli opiekun odda nam klucz. Najpierw sprawdzimy każdą śrubę.
 
 ## Jeszcze raz
+
+Kilka dni po wypadku, 5 PT · pracownia uniwersytecka, Aurel
 
 Kilka dni później mogłem znowu zacisnąć dłoń bez bólu. Opiekun przeczytał plan, obejrzał naprawioną lampkę i pozwolił nam wrócić do stołu. Adrien przyniósł podpórkę z nitką.
 

@@ -2,7 +2,7 @@
 
 ## Jedenaście minut
 
-10 października, 1 ET
+10 października, 1 ET · sala komisji
 
 Na sali brakowało miejsca na wszystkie skrzynie, więc dwie ustawiono pod ścianą za mną. Co jakiś czas ktoś je otwierał, a wtedy musiałem przesuwać nogi. Po trzecim razie przestałem.
 
@@ -44,7 +44,7 @@ Uznałem, że warto z nią porozmawiać.
 
 ## Pierwsza rozmowa
 
-10 października, 1 ET · wieczór
+10 października, 1 ET · sala komisji, wieczór
 
 Pierwsza okazja pojawiła się po kolejnej części zeznań. Pozwolono mi zadać jej pytanie w obecności osoby prowadzącej przesłuchanie. Rozłożyłem na stole własny szkic zabezpieczenia.
 
@@ -94,13 +94,13 @@ Chciałem zapytać, czy znalazła coś jeszcze, ale człowiek komisji przypomnia
 
 Wyszedłem z dwoma problemami, z których jeden był wyraźnie zaznaczony. To był najlepszy wynik całego tygodnia.
 
-11 października, 1 ET
+11 października, 1 ET · siedziba komisji
 
 Dziś przyniosłem poprawiony schemat. Nie pozwolono mi jej go pokazać. Będę więc notował pytania. Na końcu listy dopisałem „Rian” i podkreśliłem dwukrotnie.
 
 ## Wniosek
 
-29 listopada, 1 ET
+29 listopada, 1 ET · uniwersytet w Aurelu
 
 Nie miałem wpływu na zeznania, dowody ani wyrok. Miałem natomiast stanowisko na uniwersytecie, kilku przełożonych, którzy cenili moje projekty, oraz przekonanie, że komisja i sąd powinny poznać moje zdanie o przydatności Rian.
 
@@ -122,7 +122,7 @@ Nie prosiłem o uniewinnienie. Przeczytałem dość dokumentów, żeby wiedzieć
 
 Wniosek przekazano dalej. Decyzja nie należy do mnie. Pozostaje czekać.
 
-20 grudnia, 1 ET
+20 grudnia, 1 ET · sala rozpraw
 
 Nie wiem, ile ważyły moje argumenty wobec jej własnych zeznań i pozostałych materiałów; wiem tylko, że możliwość nadzorowanej pracy przy próbach uniwersytetu znalazła się w ustalonych warunkach.
 
@@ -134,7 +134,7 @@ Rian zna warunki. Nie wie, kto wystąpił z propozycją ich uwzględnienia. Nie 
 
 ## Drugi ołówek
 
-14 stycznia, 2 ET
+14 stycznia, 2 ET · uniwersytet w Aurelu
 
 Pierwszą próbę przeprowadziliśmy na odłączonym modelu. Zgodnie z ustaleniami przy stole siedziała osoba nadzorująca, a wszystkie części policzono przed rozpoczęciem i po zakończeniu.
 
@@ -152,7 +152,7 @@ Rian obejrzała mój nowy uchwyt. Obróciła go w dłoniach, nacisnęła zabezpi
 
 Popatrzyła na mnie. Pytanie najwyraźniej było źle postawione.
 
-22 maja, 3 ET
+22 maja, 3 ET · uniwersytet w Aurelu
 
 Przy kolejnych wizytach przynosiłem inne urządzenia. Niektóre krytykowała szybko, nad innymi spędzała godzinę. Zdarzyło się też, że po próbie oznajmiła, iż tego dnia musi wrócić do prac przy odbudowie. Nie pomogło moje wyjaśnienie, że nowy model jest interesujący.
 
@@ -160,7 +160,7 @@ Uniwersytet ograniczył mi przydział naładowanych kryształów. Musiałem prze
 
 Zostawiłem wniosek na biurku. Wrócił z prośbą o kosztorys. Na razie wróciłem do czekania na kryształy.
 
-23 maja, 3 ET
+23 maja, 3 ET · uniwersytet w Aurelu
 
 Dziś wreszcie przysłali kogoś do ładowania. Jakiegoś dzieciaka. Przedstawił się jako Lucen i od razu spytał, gdzie zapisuję wyniki poprzednich prób. Przyszedł doładować kryształy, nie prowadzić dochodzenie w moim notatniku.
 
@@ -202,7 +202,7 @@ Nie rozwinął myśli. Dopisałem do projektu dodatkowe zabezpieczenie. Nie zami
 
 Mimo to zapamiętałem jego imię.
 
-12 września, 7 ET
+12 września, 7 ET · uniwersytet w Aurelu
 
 Poprosiłem dzisiaj o Lucena. Konkretnie o niego, nie o dowolnego maga, którego akurat znajdą na korytarzu. Chciałem porównać dwie próby, a on potrafi uważnie doładować kryształy i rozumie, co dzieje się w obudowie.
 
@@ -212,7 +212,7 @@ Przyszedł z własnym szkicem uchwytu. Wskazał miejsce, w którym moja osłona 
 
 Gdy Lena spytała, czy mam zastrzeżenia do jego pracy, odpowiedziałem, że wciąż zadaje zbyt wiele pytań. Nie musiałem dodawać, że większość z nich warto sobie zadać.
 
-7 czerwca, 9 ET
+7 czerwca, 9 ET · miejsce zajęć rzemieślników
 
 Rian po odbyciu kary zaczęła uczyć młodych rzemieślników. Spotkałem ją przy stole z grupą uczniów; wyjaśniała im, dlaczego trzeba przewidzieć również ten błąd, który wydaje się niemożliwy. Podała jednemu z nich śrubokręt i czekała, aż sam znajdzie mocowanie. Trwało to bardzo długo.
 

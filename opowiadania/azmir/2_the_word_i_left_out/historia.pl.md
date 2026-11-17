@@ -1,6 +1,8 @@
 # Słowo, którego nie wpisałem
 
-## Cienisty Port, 10 ET
+## Odpis zeznania
+
+10 ET · archiwum Cienistego Portu
 
 Vaelis przyniosła mi odpis zeznania z kopalni. Zanim zdążyłem podpisać odpis, zatrzymała pióro nad jednym zdaniem.
 

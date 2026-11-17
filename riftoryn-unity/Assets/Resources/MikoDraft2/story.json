@@ -5,7 +5,7 @@
       "title": "Ostatni czytelny sygnał",
       "blocks": [
         {
-          "text": "Iglica Zerath · koniec zimy 11/12 ET"
+          "text": "Schyłek zimy, 11/12 ET · Iglica Zerath"
         },
         {
           "text": "Varek, która prowadziła brygadę przekaźników, postawiła przede mną lampę sygnałową. Nacisnęła przycisk. Lampa błysnęła trzy razy, za każdym razem słabiej. Potem posłała mnie na drugi koniec przejścia i powtórzyła sygnał. Stamtąd widziałem tylko pierwszy błysk."
@@ -24,6 +24,9 @@
     {
       "title": "Pieczęć na kwicie",
       "blocks": [
+        {
+          "text": "Schyłek zimy, 11/12 ET · stacja graniczna w Zerath"
+        },
         {
           "text": "Na stacji przy granicy pękło mocowanie kryształu. W zapasie znaleźliśmy część z Aurelu. Sprawdziłem ją na odłączonym urządzeniu. Pasowała bez luzu. Przycisnąłem do stołu kwit od dostawcy, żeby Varek mogła zobaczyć pieczęć."
         },
@@ -44,6 +47,9 @@
     {
       "title": "Szybka pomyłka",
       "blocks": [
+        {
+          "text": "Schyłek zimy, 11/12 ET · pracownia w Zerath"
+        },
         {
           "text": "W Aurelu cewka do wyzwalania impulsu leżała na stole. Do Zerath przywiozłem mniejszą wersję, którą mogłem przypiąć do rękawicy. Chciałem sprawdzić, czy impuls pomoże mi szybciej dobiec do stanowiska i przełożyć przewód, nim skończy się czas."
         },
@@ -83,10 +89,16 @@
       "title": "Wynik dla cudzych rąk",
       "blocks": [
         {
+          "text": "Schyłek zimy, 11/12 ET · stacja przekaźnikowa w Zerath"
+        },
+        {
           "text": "Przed pokazem regulatora Varek poprosiła, żebyśmy uruchomili lampę kilka razy z rzędu. Trzy pierwsze sygnały widziałem wyraźnie z końca przejścia. Przy czwartym lampa zgasła w połowie sygnału. Otworzyłem odłączoną skrzynkę i znalazłem poluzowane mocowanie styku. Na karcie miałem już wypisaną godzinę pokazu. Przekreśliłem ją."
         },
         {
           "text": "Przez następne dni poprawiałem mocowanie. Za pierwszym razem uchwyt wystawał na tyle daleko, że kryształ nie dochodził do styku. Spiłowałem wystający brzeg i spróbowałem ponownie. Kryształ wszedł na miejsce. Kilka razy włączyliśmy lampę, zanim Varek wyznaczyła nową porę pokazu."
+        },
+        {
+          "text": "Kilka dni później, schyłek zimy 11/12 ET · stacja przekaźnikowa w Zerath"
         },
         {
           "text": "Przed pokazem Varek chciała przeprowadzić próbę sama. Otworzyła pokrywę w rękawicach, włożyła kryształ i zamknęła obudowę. Już szedłem jej pokazać, gdzie ustawić regulator, kiedy zobaczyłem, że czyta oznaczenia na obudowie. Cofnąłem się na koniec przejścia. Policzyłem trzy błyski. Przy powtórzeniu też zobaczyłem trzy."

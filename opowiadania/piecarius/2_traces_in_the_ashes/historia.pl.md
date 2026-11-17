@@ -56,6 +56,8 @@ Dała mi na drogę piętkę ciepłego chleba. Zamierzałem przełamać ją dopie
 
 ## Człowiek od latarni
 
+22 kwietnia, 12 ET · obserwatorium, Aurel
+
 Oriena zastałem przed obserwatorium przy latarni rozłożonej na stole. Trzymał śrubę między palcami. Młoda kobieta próbowała docisnąć zacisk do szklanej osłony.
 
 — Przynosi pan nową część? — zawołał.
@@ -104,7 +106,7 @@ Zostawiłem Lumen kopię odrysu i adres składu Vedy przy wschodniej bramie Val 
 
 ## Droga na północ
 
-23 kwietnia, 12 ET · wyjazd z Aurelu
+Od 23 kwietnia do pierwszej połowy maja, 12 ET · północny szlak z Aurelu do Nivoren
 
 Po kilku noclegach na północnym szlaku nabyłem używany kaftan. Sprzedawca zapewniał, że pod zbroją nikt go nie zauważy. Włożyłem go i od razu zauważyłem drugi brzuch. W górach przy pierwszym zimnym podmuchu byłem już gotów pogratulować mu znajomości towaru.
 
@@ -138,7 +140,7 @@ Dorzuciłem drewna. Resztę opowiedziałem krócej, żeby się nie wypaliło.
 
 ## Płytka
 
-18 maja, 12 ET · dolna droga pod przełęczą
+18 maja, 12 ET · dolna droga pod przełęczą, Nivoren
 
 Magazyn znalazłem poniżej drogi. Wzdłuż jednej ściany ktoś ułożył opał. Stos sięgał prawie do szopy stojącej obok. Drzwi obu budynków wychodziły na plac, a po drugiej stronie mieszkała kobieta, która pamiętała czasy, gdy przyjeżdżali tu przewoźnicy. Powiedziałem jej, że szukam Tovina i przebyłem kawał drogi, żeby o niego zapytać.
 
@@ -170,7 +172,7 @@ Sąsiedzi przybiegli z wiadrami. Ściana magazynu osunęła się do środka. Po 
 
 ## Co pozostało
 
-19 maja, 12 ET
+19 maja, 12 ET · okolice dolnego traktu, Nivoren
 
 Rano odgrzebaliśmy tyle, ile się dało od zewnątrz. Widziałem przez szparę narożnik skrzyni i sądziłem, że przy odpowiedniej dźwigni zdołam przynajmniej odsunąć kamień. Przyniosłem drąg dłuższy od siebie. Kamień ledwie drgnął. Belka nad nim przesunęła się o palec. Odłożyłem drąg. Przez resztę poranka leżał tam, gdzie każdy mógł go zobaczyć.
 

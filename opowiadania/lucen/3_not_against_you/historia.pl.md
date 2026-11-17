@@ -1,6 +1,8 @@
 # Nie przeciwko tobie
 
-## Aurel, 23 maja 3 ET
+## Próba u Adriena
+
+23 maja, 3 ET · Aurel
 
 W pracowni Adriena były dwa wolne stołki. Na jednym leżały papiery, na drugim spał kot. Spytałem, gdzie znajdę wyniki poprzednich prób. Adrien przełożył papiery ze stołka na stół i wskazał mi kreskę na wskaźniku.
 
@@ -14,7 +16,9 @@ Adrien powiedział, że operator zobaczy ostrzeżenie na wskaźniku. Zapytałem,
 
 Wieczorem obejrzałem własną lampę. Jej mocowanie było w porządku. Sprawdziłem je jeszcze raz rano, w świetle dziennym.
 
-## Aurel, po pierwszej próbie
+## Po pierwszej próbie
+
+Po pierwszej próbie w pracowni, 3 ET · Aurel
 
 Lena znalazła mnie rano nad wytartą obejmą. Próbowałem odrysować ją na papierze. Na szkicu wyglądała prosto i wszystkie kreski spotykały się pod dobrym kątem. W ręce mogłem ją wygiąć. Skreśliłem jedną kreskę i zrobiłem drugą tam, gdzie kończył się metal. Lena przyniosła suwmiarkę. Poprosiła, żebym zmierzył obejmę również po przekątnej.
 
@@ -42,7 +46,9 @@ Adrien przyszedł później. Spytał, czemu kryształ czeka na ładowanie. Pokaz
 
 Lena położyła na stole przygotowaną część. Mogła ją założyć w kwadrans, jeśli ktoś z nas przytrzyma obudowę. Adrien zaczął trzymać. Przy trzeciej śrubie poprosił mnie, żebym jednak wsunął mu drewienko pod rękę, bo za chwilę nie wytrzyma ciężaru. Zawiesiłem rysunek obok karty. Nazajutrz Adrien zwinął go i przycisnął do rogu stołu suwmiarką. Kartę zostawił tam, gdzie ją powiesiliśmy.
 
-## Aurel, czas zwykłej pracy
+## Czas zwykłej pracy
+
+3–7 ET · Aurel
 
 Do pracowni przydzielali mnie, kiedy były potrzebne dodatkowe ręce. Pozostałe godziny spędzałem z ludźmi od latarni szlakowych. Jedna z monterek, Erna, od lat obsługiwała odcinek przy północnej drodze. Kiedy poznałem ją przy składzie, kazała mi najpierw przejść wokół wozu i zajrzeć pod płachtę. Kryształy leżały w wyłożonych materiałem skrzyniach. Na pokrywie jednego pudła był numer urządzenia, którego potrzebowała. Otworzyłem je i odczytałem oznaczenie ze środka. Nie pasowało.
 
@@ -62,13 +68,17 @@ Podczas rozmowy dyżurny uznał, że wystarczy skreślić numer na wierzchu i wp
 
 Potem Erna zabrała mnie do pierwszej latarni. Musiałem stanąć trzy kroki dalej, niż chciałem, żeby zobaczyć, jak jej światło wypada z drogi, kiedy obudowa jest ustawiona krzywo. W domu długo liczyłem, jak duża była różnica. Erna wpisała przy swojej obserwacji krótką uwagę o wozach jadących ze wschodu. Następnego dnia poszedłem za nimi od rozwidlenia. Trafiłem pod latarnię od strony, z której sam bym szukał drogi znacznie dłużej.
 
-## Aurel, 12 września 7 ET
+## Dwa układy
+
+12 września, 7 ET · Aurel
 
 Tym razem Adrien poprosił o mnie z imienia. Przygotował dwa układy do porównania i trzeba było naładować oba kryształy tak samo. Przyniosłem też szkic uchwytu. Przy jego osłonie, gdy przychodziło do oględzin styku, trzeba było rozkręcać pół stanowiska. Narysowałem wycięcie, przez które można zajrzeć pod spód. Adrien spytał, czy osłona dalej ochroni rękę. Powiedziałem, że sam chciałbym zobaczyć próbę.
 
 Lena wycięła otwór w kawałku blachy i podała nam rękawicę na drewnianym uchwycie. Musieliśmy poszerzyć otwór o palec, żeby było coś widać, i zostawić za nim rant, żeby rękawica nie ześlizgnęła się na styk. Pod wieczór wreszcie mogliśmy wrócić do ładowania. Adrien podszedł z drugiej strony i sam zajrzał przez otwór. Przed wyjściem poprosił, żebym zostawił mu rysunek z poprawkami.
 
-## Aurel, przed dłuższym objazdem
+## Przed dłuższym objazdem
+
+7–11 ET · Aurel
 
 Mieliśmy oznaczyć dwa punkty na zachód od miasta. W magazynie przewodnik chciał dołożyć do zestawu latarni skrzynkę z taśmami, gwoździami i tabliczkami. Po deszczach częściej trzeba zamykać drogę niż ją oświetlać. Powiedziałem, że gdy wrócimy z naszego zadania, będziemy wiedzieli, ile zostało miejsca na wozie.
 
@@ -88,7 +98,9 @@ Powiedziałem, że do przeprawy trafię bez mapy. Rok wcześniej sam wpisywałem
 
 Schowałem zeszyt przy mapie. Na wierzchu zostało tylko zlecenie. Tam wyraźnie podano, ile mamy dostarczyć, jak długo jechać i czy zapasowy zestaw ma wrócić. Na jego marginesie dopisałem godzinę, o której przewodnik chciał ruszyć. Gdybyśmy tego dnia zdążyli na dalszy posterunek, mógłbym zrobić odczyt, zanim zamkną skład w mieście.
 
-## Aurel, wieczór przy wykazie
+## Wieczór przy wykazie
+
+7–11 ET · Aurel
 
 Przewodnik przyniósł dwa płaszcze. W kieszeni jednego zaszył kredę, w drugim nosił zapasowy wykaz. Zapytałem, po co mu kopia, skoro mam swój zeszyt. Opowiedział mi o człowieku, który oznaczał ścieżkę gałęziami. Zanim dotarł konwój, miejscowy gospodarz zdążył je sprzątnąć. Po resztę wyposażenia poszliśmy do szopy.
 
@@ -100,7 +112,9 @@ Spojrzałem na nią, jak odsuwa żelazny klips, żeby wpisać własny przystanek
 
 Przy rozplątywaniu sznura spytałem, ile razy przejeżdżał ostatnio tę trasę. Przez deszcze od dwóch tygodni prowadził wozy górą. Ostatni raz zaglądał do brodu dużo wcześniej. Ja znałem stary znak i pamiętałem przeprawę, a mimo to obie informacje w jego zapisie zmieściły się pod wspólną kreską. Chciał sprawdzić osobno to, czy ludzie znają drogę i czy nadal jest przejezdna. Podał mi kawałek kredy. Zrobiłem na skrzyni dwa małe znaki, żeby wiedzieć, którą stroną mam ją rano otworzyć. Drugi zrobił on, bo z jego miejsca pierwszy był niewidoczny.
 
-## Szlak pod Aurelem, jesień 11 ET
+## Znaki na szlaku
+
+Jesień, 11 ET · szlak pod Aurelem
 
 Prowadziliśmy dwa wozy z osprzętem do oznaczania szlaku. Przed rozwidleniem obejrzałem znak. Strzałka w dół była stara, ale odczytałem ją bez trudu. Byłem tędy zeszłej jesieni. Powiedziałem woźnicy, że zdążymy przez bród, zanim zacznie padać.
 
@@ -128,7 +142,9 @@ Przewodnik powtórzył to woźnicy. Pierwszy wóz cofnął się o pół obrotu k
 
 Woźnica zapytał, ile stracimy na objeździe. Przewodnik podał mu czas. Ja wróciłem do znaku. Odwróciłem strzałkę do słupa i zawiesiłem tabliczkę o zamkniętej przeprawie. Ludzie nadjeżdżający z przeciwka dalej mogli trafić nad wodę, więc przewodnik pokazał mi, którędy dojść do drugiego oznaczenia. Poszliśmy razem. Wozy czekały ponad godzinę.
 
-## Przy rzece, po zatrzymaniu wozów
+## Po zatrzymaniu wozów
+
+Jesień, 11 ET · przeprawa na szlaku pod Aurelem
 
 Na drugi brzeg przeszliśmy po wąskiej kładce powyżej brodu. Z całego zapasu została nam jedna sucha tabliczka. Przewodnik przytrzymał ją pod pachą. Poprosiłem, żeby poczekał, aż odczytam stary numer na słupie. Pod warstwą farby widać było dwie cyfry. Sam je malowałem, więc wiedziałem, czego szukam. Kiedy przyłożyłem papier, zauważyłem, że palce mam pokryte błotem. Pokazałem przewodnikowi, że najpierw chciałbym przejść na twardszy grunt.
 
@@ -154,7 +170,9 @@ Przewodnik odszukał w kieszeni kartkę z naszym zgłoszeniem. Ja przepisałem n
 
 W rejestrze przy starej strzałce widniał wpis z ubiegłego roku. Sporządziłem go sam. W raporcie napisałem najpierw, że znak był czytelny. Potem dopisałem, że skierowałem za nim dwa wozy przed sprawdzeniem przeprawy. Przewodnik przeczytał oba zdania. Wskazał wolną rubrykę i poprosił, żebym wpisał, gdzie wysłaliśmy ostrzeżenie. Poszło do posterunków po obu stronach rzeki.
 
-## Aurel, wiosna 12 ET
+## Warunki Igrzysk
+
+Wiosna, 12 ET · Aurel
 
 Erna przyniosła na poranną zmianę warunki obu stron Igrzysk. Podłożyła je pod puste opakowanie, żeby arkusze nie odfrunęły przy otwieraniu bramy. Na pierwszym krainy same ustalały, ile splotytu wydobędą i do czego go użyją. Na drugim te zasady i limity ustalała dla wszystkich Rada Siedmiu Szlaków. Chciałem przeczytać wariant wspólnego nadzoru do końca. Zanim doszedłem do drugiej strony, Erna spytała, czy pójdę z nią przekazać zgłoszenie z północnej drogi. Brała ze sobą dwa odpisy. W domu u kogoś przy szlaku odnaleziono stary protokół otwarcia odcinka, z którego kazano nam wstrzymać ruch. Oryginał od dawna był nieaktualny. Na drugim posterunku wciąż ktoś się na niego powoływał, bo różnił się jednym słowem i figurował pod osobnym numerem.
 
@@ -178,7 +196,9 @@ Wtedy po raz pierwszy wyjąłem w pracy kartkę matki. Erna odczytała margines 
 
 Byłem jej wdzięczny, że wtedy zajęła się adresowaniem dwóch odpisów. Wyszedłem z pracy z oboma planami. Przeczytałem je w domu jeszcze raz i zacząłem pakować lampę.
 
-## Val Meris, zapisy do kwalifikacji, 28 maja 12 ET
+## Zapisy do kwalifikacji
+
+28 maja, 12 ET · Val Meris
 
 Na stole do zapisów leżały dwa arkusze. Przeczytałem jeszcze raz warunki wspólnego nadzoru. Chcę, żeby ostrzeżenie wpisane przy jednej stacji można było sprawdzić w następnej krainie. Chcę też, żeby pracownik mógł zatrzymać urządzenie do kontroli i żeby po nim ktoś jeszcze przeczytał odczyty. Przy przeprawie miałem obok siebie doświadczonego przewodnika. W raporcie zmieścił się w jednej rubryce. Następnym razem może go przy mnie zabraknąć.
 

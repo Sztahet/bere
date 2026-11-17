@@ -2,7 +2,7 @@
 
 ## I. Dwie kartki
 
-8 listopada, 10 ET
+8 listopada, 10 ET · dom Noctena
 
 Znalazłem kolejną kartkę w starej okładce. Leżała między przepisem na napar a listą rzeczy potrzebnych na zimę. Nie przypominam sobie, żebym ją tam włożył.
 
@@ -14,7 +14,7 @@ Przez chwilę miałem ochotę podrzeć kartkę. Zamiast tego włożyłem ją do 
 
 Nastawiłem wodę na napar, ale kiedy wróciłem do kuchni, wygasło pod nią palenisko. Woda była zimna. Nie pamiętam, ile czasu siedziałem przy stole; wiem tylko, że cały czas trzymałem dłoń na zamkniętym zeszycie. Tej nocy zostawiłem lampę przy łóżku.
 
-14 listopada, 10 ET
+14 listopada, 10 ET · dom Noctena
 
 Szukałem wspomnienia związanego z pierwszą lekcją. W jednym zapisie nauczyciel stał przy oknie, a ja próbowałem utrzymać cień pod dłonią. Deszcz tłukł o parapet. W drugim siedzieliśmy przy drzwiach, było sucho, a on pokazał mi ćwiczenie na podłodze. Oba teksty są moim pismem. Nie pamiętam sporządzenia drugiego.
 
@@ -26,7 +26,7 @@ Na kartce oznaczyłem: wiem — księga podaje zamknięcie; pamiętam — deszcz
 
 ## II. Co można sprawdzić
 
-4 grudnia, 10 ET
+4 grudnia, 10 ET · dom Noctena
 
 Kobieta z białego miasta zaplatała włosy przed lustrem. W jednym zeszycie opisałem je jako ciemne, w drugim jako jasne. Znalazłem też słowa: Nigdy nie miałeś żony. Przestań ją wymyślać. Pod spodem odpowiedź: Więc dlaczego pamiętam, jak umierała?
 
@@ -36,7 +36,7 @@ Spróbowałem przypomnieć sobie jej głos. Wcześniej był dla mnie tak oczywis
 
 ## III. Wąskie przejście
 
-11 stycznia, 11 ET
+11 stycznia, 11 ET · magazyn w osadzie Noctena
 
 Zepsuta osłona przy magazynie odbijała światło kryształu ku drodze, oślepiając przechodniów. Poproszono mnie, żebym pomógł przeprowadzić ludzi i zapasy do sąsiedniego budynku, dopóki rzemieślnik nie zdejmie części. Dwóch przewoźników czekało już przy wejściu. Jeden chciał ruszyć natychmiast; drugi wolał zaczekać na naprawę.
 
@@ -52,7 +52,7 @@ Przenieśliśmy resztę przed wieczorem. Osłona magazynu nadal wymagała napraw
 
 ## IV. Krzesło
 
-18 lutego, 11 ET
+18 lutego, 11 ET · dom Noctena
 
 Obudziłem się w nocy i zobaczyłem cień siedzący na krześle. Krzesło stało naprzeciw łóżka; odłożyłem na nie płaszcz przed snem. Uniosłem rękę. Cień pozostał nieruchomy, a może po prostu nie zauważyłem jego ruchu, dopóki moje oczy nie przyzwyczaiły się do ciemności.
 
@@ -62,7 +62,7 @@ Pracuję z cieniem od lat. Wiem, jak go przesunąć, jak nim zasłonić człowie
 
 Rano sprawdziłem, czy lampa za oknem mogła rzucić tam światło. Mogła. Wieczorem złożyłem płaszcz i schowałem go do szafy.
 
-1 marca, 11 ET
+1 marca, 11 ET · dom Noctena
 
 Przepisałem listę spraw dla piekarni do zwykłego notesu. Drugiego zeszytu nie pokazałem nikomu. Odłożyłem go do szuflady i przez cały dzień nie otwierałem, co było trudniejsze, niż powinno.
 

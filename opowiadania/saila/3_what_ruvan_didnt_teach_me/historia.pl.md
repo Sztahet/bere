@@ -2,6 +2,8 @@
 
 ## Dzień, który należał do mnie
 
+Pierwsza odwilż, 12 ET · osada pod Białym Przesmykiem, Nivoren
+
 Kryształ chłodni naładowałam, zanim wystygła mi herbata.
 
 Jesienią piłam ją przy tym samym stole. Zwykle przypominałam sobie o kubku dopiero wtedy, kiedy próbowałam wstać. Był zimny, a ja musiałam trzymać go obiema rękami, żeby niczego nie rozlać.
@@ -43,6 +45,8 @@ Przeczytałam dziewięć stron. W drodze powrotnej minęłam przekrzywiony słup
 Wieczorem rozpaliłam u siebie ogień. Miałam jeszcze siłę dołożyć drewna, kiedy zaczęło przygasać.
 
 ## Gość, którego się nie spodziewałam
+
+Pierwsza odwilż, 12 ET · magazyn w osadzie pod Białym Przesmykiem, Nivoren
 
 Nazajutrz przy schodach do magazynu ktoś trzy razy stuknął laską w próg.
 
@@ -103,6 +107,8 @@ Nie wiedziałam, czy powinnam być z siebie dumna, czy zaniepokojona.
 <!-- ilustracja: 02 -->
 
 ## Lekcja, której nie było
+
+Pierwsza odwilż, 12 ET · dziedziniec w osadzie pod Białym Przesmykiem, Nivoren
 
 Na dziedzińcu Ruvan ustawił dwa małe kryształy w drewnianych podstawkach. Połączył je miedzianą listwą, pod którą biegł wąski kanał. Na jednym końcu położył pasek cienkiego papieru.
 
@@ -186,6 +192,8 @@ Roześmiałam się. Ruvan też, chociaż próbował to ukryć, zapinając torbę
 
 ## Lata
 
+Pierwsza odwilż, 12 ET · schronisko, Nivoren
+
 Wieczorem przenieśliśmy przyrząd do schroniska. Ruvan położył miedzianą listwę na stole przy piecu. W tym świetle widać było, że nie zamarzła na całej długości. Szron w obu próbach osiadł na tej samej spince.
 
 — Myślałam, że tym razem znajdziesz błąd — powiedziałam.
@@ -240,6 +248,8 @@ Ruvan przesunął podstawkę na moją stronę stołu.
 
 ## Kraina, która nie może czekać
 
+Pierwsza odwilż, 12 ET · osada pod Białym Przesmykiem, Nivoren
+
 Ruvan przywiózł tę samą odbitkę o Igrzyskach, którą widziałam przy wozie. Jego egzemplarz był złożony na pół. W środku trzymał list od ludzi z Nivoren, którzy zbierali kandydatów na wypadek, gdyby rozmowy w Val Meris dobiegły końca.
 
 — Odpiszesz im, że pojedziesz? — zapytałam.
@@ -286,6 +296,8 @@ Ruvan zostawił list na stole.
 
 ## Nie chcę być potrzebna
 
+Pierwsza odwilż, 12 ET · schronisko, Nivoren
+
 — Chcę, żebyś mi powiedział, że mogę zostać w domu.
 
 Kiedy to powiedziałam, przypomniałam sobie, jak przez całą jesień czekałam, aż ktoś powie mi dokładnie to samo.
@@ -330,6 +342,8 @@ Wieczorem sama zapytałam Ruvana, czy ma jeszcze list.
 
 ## To, co wybieram
 
+Pierwsza odwilż, 12 ET · osada pod Białym Przesmykiem, Nivoren
+
 — Chcę spróbować — powiedziałam. — Jeśli otworzą nabór, zgłoszę się w imieniu Nivoren.
 
 Ruvan odłożył igłę. Płaszcz został mu na kolanach, zaszyty do połowy.
@@ -351,6 +365,8 @@ Zapytał, kiedy chciałabym zacząć ćwiczenia. Wybrałam pojutrze. Nazajutrz p
 — Po obiedzie? — zapytał.
 
 — Po obiedzie.
+
+Pierwsza odwilż, 12 ET · szlak do dolnego posterunku, Nivoren
 
 Nazajutrz czekał na mnie przy starym rozwidleniu. Mieliśmy razem zejść do posterunku. W nocy znów przymroziło. W koleinach lód pękał pod butami, a na poboczu śnieg trzymał się jeszcze w cieniu. Ruvan stuknął końcem laski w lód na drodze.
 

@@ -2,7 +2,7 @@
 
 ## I. Data
 
-21 kwietnia, 12 ET
+21 kwietnia, 12 ET · dom Noctena
 
 Wróciłem do starego zeszytu, bo potrzebowałem czystej kartki. To kiepski powód, by otwierać zeszyt, którego obawiałem się przez większą część zimy. Na szczęście znalazłem w nim coś innego, zanim zdążyłem wyrwać stronę.
 
@@ -18,7 +18,7 @@ Powinienem odłożyć zeszyt. Zamiast tego zapytałem siebie, czy na Igrzyskach 
 
 ## II. Słowa na marginesie
 
-24 kwietnia, 12 ET
+24 kwietnia, 12 ET · dom Noctena
 
 Podczas porządkowania papierów wypadła spomiędzy stron kopia krótkiego wykazu. W nagłówku pojawia się data z okresu, w którym wydarzyła się Noc Zgasłych Wież. Niżej wymieniono skrzynie, drogę i kilka nieczytelnych znaków. Na marginesie widnieje moje imię albo imię bardzo do niego podobne. Atrament rozlał się na dwóch ostatnich literach.
 
@@ -38,7 +38,7 @@ Wyszedłem bez kopii. Dopiero przy drzwiach przypomniałem sobie, że nie zaznac
 
 ## III. To, co można powierzyć
 
-5 maja, 12 ET
+5 maja, 12 ET · osada Noctena
 
 Zapytano mnie, czy rozważyłbym udział w przygotowaniach do Igrzysk. Osoba, która przyniosła wiadomość, znała mnie z pracy przy osłonach i uznała, że przydałbym się ludziom z Vesper. Wyobrażała sobie zapewne, że szybko odpowiem. Przyzwyczaiłem innych do tego, że nie trzeba mnie długo prosić o pomoc.
 
@@ -56,7 +56,7 @@ Potem siedziałem długo przy stole. Jeśli moje wspomnienia nie są pewne, czy 
 
 ## IV. Pierwsza lekcja
 
-10 maja, 12 ET
+10 maja, 12 ET · miejsce ćwiczeń w osadzie
 
 Wyjąłem odpowiedź ze szkoły na północy. Księga wskazuje, że budynek był zamknięty dnia, który podałem. Nie rozstrzyga, kiedy odbyła się lekcja ani czy zapamiętałem ją właściwie. Dwa opisy w moim zeszycie nadal leżą obok siebie: w jednym pada deszcz, w drugim podłoga jest sucha.
 
@@ -72,13 +72,13 @@ Jeżeli zdecyduję się startować, będę musiał poznać warunki i przejść w
 
 ## V. Przed wyjazdem
 
-19 maja, 12 ET
+19 maja, 12 ET · osada Noctena
 
 Poszedłem do gospody przy dolnej drodze pod przełęczą zapytać o dawne rejestry przewozów. Chciałem sprawdzić, czy ktoś pamięta trasę z mojego wykazu. Podróżny w zbroi pokazał mi odrys znaku ze słupa. Szukał Feniksa. Zapytałem, co mówi o znaku, zanim poda komuś kartkę.
 
 W drodze powrotnej pomyślałem, ile razy sam zaczynałem od białych murów. Do domu dotarłem przed zmrokiem.
 
-22 maja, 12 ET
+22 maja, 12 ET · osada Noctena
 
 Otrzymałem odpowiedź z archiwum. Pracownica nie znalazła drugiej kopii mojego wykazu. W jednym rejestrze natrafiła na podobny znak, ale brakowało stron z właściwego okresu. Oddała mi tę samą ostrożność, którą sam chciałem zachować: napisała, co sprawdziła, a czego nie mogła ustalić.
 
@@ -96,7 +96,7 @@ Zapisałem to w zwykłym notesie. Następnie wpisałem do drugiego: rękawice s�
 
 ## VI. Następna strona
 
-27 maja, 12 ET · wieczór w Val Meris
+27 maja, 12 ET · Val Meris, wieczór
 
 Dotarłem do Val Meris i przeczytałem warunki zgłoszenia. Jutro muszę zdecydować, którą stronę poprzeć, i oddać formularz przed zamknięciem zapisów. Sam przyjazd nie daje mi miejsca w składzie; najpierw musiałbym jeszcze przejść kwalifikacje.
 

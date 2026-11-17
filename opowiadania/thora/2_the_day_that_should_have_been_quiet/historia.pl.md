@@ -2,7 +2,7 @@
 
 ## Przy jednym stole
 
-Korzenna Przystań, druga połowa marca 12 ET
+Druga połowa marca, 12 ET · Korzenna Przystań, Verdan
 
 Zdążyłam wbić trzy tyczki przy podmytym rowie. Czwartą oparłam o słup pod zadaszeniem, kiedy zawołała mnie starsza. Miałam jeszcze po nią wrócić. Liora położyła notes na stole. Eron trzymał mapę zwiniętą w rulon, a Bob wsunął się pod ławę obok nóg Any.
 
@@ -22,9 +22,13 @@ Później Liora poprosiła o zmianę przy lecznicy, Eron rozwinął mapę, a Ana
 
 Starsza poszła ze mną pod wał zaraz po spotkaniu. Przy ostatnim polu pokazałam jej, którędy obejść grząski brzeg. Znalazła pod trawą miejsce bardziej miękkie niż to, które sama oznaczyłam. Przestawiłam tyczkę.
 
+Druga połowa marca, 12 ET · dom Thory w Korzennej Przystani, Verdan
+
 W domu spakowałam koszulę, osełkę, dwie kromki i tarczę. Przewoźnik stojący przy targu ruszał jeszcze tego dnia. Umówił się ze mną, że mogę iść z jego ludźmi do następnej osady. Wyszłam, kiedy Liora była jeszcze przy lecznicy. Do Val Meris dotarłam pod koniec marca.
 
 ## Zanim padnie polecenie
+
+Przełom marca i kwietnia, 12 ET · wieża ćwiczebna, Val Meris
 
 Przez pierwszy tydzień przy wieży liczyłam odstępy między pociskami. Z miejsca przy ścianie zdawało mi się, że są równe. Przy następnym przebiegu zaprosiłam do pomiaru kobietę, która zbierała pociski. Powiedziała, żebym policzyła osobno te, które lecą za pierwszym razem, i te po przełożeniu dźwigni. Znalazłyśmy różnicę o całe dwa kroki.
 
@@ -36,7 +40,7 @@ Po kilku tygodniach znałam większość dźwięków wieży. Czasem i tak zdarza
 
 ## Nagroda
 
-28 maja, 12 ET · Val Meris
+28 maja, 12 ET · plac zawodów, Val Meris
 
 Na miejscowych zawodach do naszej trójki wylosowano człowieka, który chciał wiedzieć, ile razy walczyłam pod taką wieżą. Odpowiedziałam, że mniej, niż bym chciała przed Igrzyskami. W dolinie z wodą nauczyłam się obchodzić wcześniej. Widziałam ją zwykle dłużej, zanim we mnie uderzyła.
 

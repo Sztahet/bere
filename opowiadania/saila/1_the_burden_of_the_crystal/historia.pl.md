@@ -2,6 +2,8 @@
 
 ## Droga budzi się pierwsza
 
+Późna jesień, 11 ET · osada pod Białym Przesmykiem, Nivoren
+
 W Nivoren dzień zaczyna się od sprawdzenia drogi.
 
 Nie pamiętam, kiedy ostatnio obudziłam się wypoczęta.
@@ -51,6 +53,8 @@ Nie powiedziałam jej, że jeszcze przed świtem musiałam dwukrotnie zatrzymać
 Nie powiedziałam też, jak bardzo chciałam wrócić do łóżka.
 
 ## Ile mieści się w dłoniach
+
+Późna jesień, 11 ET · chłodnia w osadzie pod Białym Przesmykiem, Nivoren
 
 Kryształy nie tworzą energii.
 
@@ -123,6 +127,8 @@ Od wczoraj myślałam o nim niemal bez przerwy.
 Potem wzięłam płaszcz i wyszłam sprawdzić szlak.
 
 ## Schronisko przy zakręcie
+
+Późna jesień, 11 ET · górne schronisko, Nivoren
 
 Droga do górnego schroniska zajmowała ponad dwie godziny szybkiego marszu.
 
@@ -210,6 +216,8 @@ Nie zjadłam obiadu.
 
 ## Huk, którego nie umiem zmierzyć
 
+Późna jesień, 11 ET · osada pod Białym Przesmykiem, Nivoren
+
 Wieczorem wiatr zaczął uderzać w okiennice.
 
 Szarpnięcie.
@@ -219,6 +227,8 @@ Przerwa.
 Szarpnięcie.
 
 Znałam ten rytm.
+
+Noc Zgasłych Wież, 3 PT · Biały Przesmyk, Nivoren
 
 Miałam osiem lat, kiedy podczas Nocy Zgasłych Wież urządzenia magazynowe w Białym Przesmyku zaczęły wybuchać.
 
@@ -264,6 +274,8 @@ Na początku dawało mi to radość.
 
 Nie pamiętam dokładnie, kiedy przestało.
 
+Późna jesień, 11 ET · osada pod Białym Przesmykiem, Nivoren
+
 Siedziałam przy oknie w niewielkim pokoju nad magazynem. W szybie odbijała się moja twarz, blada w świetle lampy.
 
 Za oknem padał śnieg.
@@ -293,6 +305,8 @@ Przez moment nie mogłam przypomnieć sobie, gdzie zostawiłam buty.
 — Już idę — odpowiedziałam.
 
 ## Jeszcze jeden kryształ
+
+Późna jesień, 11 ET · chłodnia w osadzie pod Białym Przesmykiem, Nivoren
 
 Następnego ranka chłodnia była cieplejsza.
 
@@ -398,6 +412,8 @@ I zaczęłam zastanawiać się, czy po krótkiej przerwie zdołam napełnić jes
 
 ## To, czego nikt nie zrobi za mnie
 
+Późna jesień, 11 ET · osada pod Białym Przesmykiem, Nivoren
+
 Nie pamiętam, kiedy usnęłam.
 
 Obudziłam się przy stole z policzkiem opartym o rękaw.
@@ -487,6 +503,8 @@ Tej zimy musiałam pracować z tym, co mieliśmy.
 Zgasiłam lampę dopiero wtedy, gdy nie potrafiłam już utrzymać pióra.
 
 ## Jutro też będzie zimno
+
+Późna jesień, 11 ET · osada pod Białym Przesmykiem, Nivoren
 
 Minęło kilka dni.
 

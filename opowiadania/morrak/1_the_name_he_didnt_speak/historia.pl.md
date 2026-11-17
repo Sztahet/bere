@@ -2,7 +2,7 @@
 
 ## I. Mokry papier
 
-Archiwum Cienistego Portu · 7 ET
+7 ET · archiwum Cienistego Portu
 
 Zapis Azmira: relacje o napadzie na transport, zebrane w kolejnych dniach po zdarzeniu.
 
@@ -45,6 +45,8 @@ Kiedy przycisnąłem go pytaniami, przypomniał sobie fioletowe światło przy r
 W rubryce „uczestnicy” zostawiłem miejsce. Ludzi łatwo wpisać w rubrykę. Znacznie trudniej później przekonać kogoś, że wpisano ich tam omyłkowo.
 
 ## II. Droga w deszczu
+
+7 ET · dom Meret
 
 Kobieta nazywała się Meret. Mieszkała nad warsztatem szewca i początkowo nie chciała mnie wpuścić. Powiedziała, że swoje opowiedziała już straży i nikomu nie odda dziecka tylko dlatego, że ktoś chce policzyć podróżnych.
 
@@ -98,6 +100,8 @@ Meret odprowadziła mnie do drzwi.
 
 ## III. Druga strona drogi
 
+7 ET · Cienisty Port
+
 Strażnik Daren przyszedł dwa dni później, kiedy suszyłem ostatnią z kart Sorena. Nie brał udziału w obronie wozów. Dotarł na miejsce wieczorem, z innymi ludźmi ze straży, i znalazł trzech rozbrojonych napastników oraz ślady prowadzące ku starej drodze.
 
 — Dwóch mówiło o Veshu — oznajmił. — Trzeci nie chciał mówić wcale.
@@ -140,6 +144,8 @@ Kiedy Daren wyszedł, położyłem obie karty obok siebie. W jednej był człowi
 
 ## IV. Osłona
 
+7 ET · Cienisty Port
+
 Następnego dnia Meret zjawiła się bez zapowiedzi. Usłyszała od sąsiadki, że szukam świadków śmierci dowódcy. Chciała wiedzieć, czy zamierzam wydać Morraka straży.
 
 — Nie mam kogo wydawać — odpowiedziałem.
@@ -179,6 +185,8 @@ Spojrzała na mnie z gniewem, który po chwili ustąpił zmęczeniu.
 Przyjęła ode mnie odpis. Nie wiem, czy pokazała go córce.
 
 ## V. Karta siedemnasta
+
+7 ET · archiwum Cienistego Portu
 
 Wieczorem przepisałem dokument jeszcze raz. Przy imieniu Morrak zaznaczyłem, że pochodzi od chłopca, którego nie odnaleziono. Przy imieniu Vesh — że przekazał je Daren, powołując się na napastników. Śmierć dowódcy opisałem osobno od ocalenia podróżnych, lecz połączyłem karty numerem sprawy.
 

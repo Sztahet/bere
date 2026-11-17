@@ -1,6 +1,8 @@
 # Po drugiej stronie
 
-## Droga do Val Meris, maj 12 ET
+## Droga do Val Meris
+
+Maj, 12 ET · szlak z Zerath do Val Meris
 
 W drodze miałem siedzenie przy zapasowym kole. Kierowca wziął za nie mniej niż za miejsce w środku, pod warunkiem że pomogę mu, gdy trzeba będzie zmienić koło. Jego pies przez całą pierwszą godzinę opierał łeb o mój but. Człowiek, który wsiadł za mną, niósł na kolanach trójkątny kawałek blachy owinięty płótnem. Kiedy na wyboju przycisnął mi nim łokieć, odłożyłem spis części na drugą stronę.
 
@@ -16,7 +18,9 @@ Pokazałem mu dwa adresy osad z mojego spisu. U niego pompa stała za domem. U m
 
 Na ostatnim postoju pies zszedł z mojego buta i poszedł pić. Pojechałem ze spisem na kolanach. Przy bramie przewodnik z wozu podał ludziom tablicę z pierwszymi zasadami zapisów. Przeczytałem nagłówek. Od tej chwili wszystko, co obiecywałem w Zerath, zaczynało przypominać rzecz, pod którą ktoś naprawdę mógł wpisać moje imię.
 
-## Val Meris, rano przy składach
+## Rano przy składach
+
+Maj, 12 ET · składy w Val Meris, rano
 
 W pierwszym składzie odesłano mnie do człowieka od wykazów. Otworzył księgę, ale zamiast zamówienia poprosił mnie o nazwę cechu. Nie umiałem jej podać. Przyniosłem spis od warsztatu i zamierzałem pokazać, których części szukam przed zapisami. Kiedy pokazałem mu pieczęć stacji, zdjął z półki drugi rejestr. W nim ten sam numer przypisano do nazw używanych przez lokalne składy. Ustawił oba tomy tak, żebym mógł sam przekładać kartki.
 
@@ -38,7 +42,9 @@ Przepisał nazwę od ślusarki i spytał, co robię w mieście poza polowaniem n
 
 Nie mógł zagwarantować żadnego terminu. Mogłem odejść z pustymi rękami albo wystarać się przynajmniej o dwa miejsca w kolejce. Wziąłem oba kwity. Jeden zostawiłem dla człowieka z wozu u stróża przy głównej bramie. Na dole napisałem, żeby szukał mnie pod tablicą na dziedzińcu. Potem wróciłem do składu i dopisałem trzeci numer, gdy przypomniałem sobie o śrubie od Varek.
 
-## Val Meris, przy otwartym wykazie
+## Przy otwartym wykazie
+
+Maj, 12 ET · kwatera zespołów w Val Meris
 
 W kwaterze mieli jeszcze kartę dla zespołów przyjezdnych. Można było wpisać się jako ochotnik do pomocy i dać komuś wiadomość, że przez tydzień będzie się do znalezienia. Przy wpisie stała kobieta z koszem ubrań. Ułożyła na brzegu kartkę z dwoma imionami. Chciała wpisać ludzi od siebie do tej samej zmiany. Osoba przy stole powiedziała jej, że chętnych jest więcej, niż potrzeba. Jeśli oboje trafią do jednego wykazu, prawdopodobnie rozdzielą ich na dwie godziny pracy.
 
@@ -62,13 +68,17 @@ Kobieta od wspólnej zmiany czekała przy bramie. Nie mogła rozpoznać miejsca 
 
 Ruszyliśmy kawałek razem. Przy schodach podałem jej drugi, krótszy sposób dojścia, na wypadek gdyby bramą ktoś wjeżdżał. Zapamiętała oba. Przed odejściem pokazała mi miejsce, gdzie rano można wejść na dziedziniec z listami. Zmieniłem w swojej karcie godzinę, dopóki jeszcze wiedziałem, kto mnie tam znajdzie.
 
-## Val Meris, gdy ludzie schodzili się na zapisy
+## Poranna odprawa
+
+28 maja, 12 ET · dziedziniec, Val Meris
 
 Na porannej odprawie ktoś zapytał, czy uczestnicy z tej samej krainy mogą wybrać przeciwne strony. Człowiek przy tablicy odczytał odpowiedni punkt. Ludzie przy ławie zaczęli rozmawiać trochę głośniej. Jeden chłopak rozglądał się, jakby liczył, że ktoś mu zaraz zmieni miejsce w kolejce. Kobieta na jego lewo kazała mu zaczekać. Chciała usłyszeć, czy w przeciwnych obozach wciąż można się spotkać na jednym zadaniu. Prowadzący wskazał oddzielną stronę programu. Powiedział, że zapisy zbierają kandydatów i wyniki kwalifikacji jeszcze zdecydują o składach.
 
 Poszedłem w stronę stołów, dopóki z przeciwka nie ruszyły dwa wozy na dziedziniec. Wcześniej zrobiłbym miejsce tylko ludziom, których osobiście znam. Tym razem podszedłem do pierwszego woźnicy i zapytałem, którędy chce wyjechać, kiedy wyładuje skrzynie. Wskazał drzwi dokładnie tam, gdzie ustawiła się kolejka. Zawołałem człowieka z odprawy. Rozsunął ludzi i zostawił przejazd. Potem ktoś przyniósł pusty arkusz na zgłoszenia tego dnia. Widziałem z daleka, gdzie trzymają pióra. Postanowiłem najpierw sprawdzić tablicę.
 
-## Val Meris, zapisy do kwalifikacji, 28 maja 12 ET
+## Zapisy do kwalifikacji
+
+28 maja, 12 ET · dziedziniec zapisów, Val Meris
 
 Na dziedzińcu ludzie stali przy tablicy. Człowiek z młotkiem przybijał do niej listę. Po każdym uderzeniu odganiał czyjąś rękę od papieru. Poczekałem, aż wbije ostatni gwóźdź. Chciałem zobaczyć, jak zapisują krainę przy nazwie obozu, żebym mógł potem wypełnić swój arkusz tak samo.
 
@@ -90,9 +100,13 @@ Kiedy się odwróciłem, Lucen stał kilka kroków od tablicy. Miał twarz doros
 
 Otworzyłem usta. Miałem w głowie zdanie o tym, że poszedłem po brygadę. Dawniej włożyłem w to zdanie prawie cały list. Teraz podniosłem rękę. Lucen podniósł swoją. Człowiek od części zdążył zwinąć arkusz i wsunąć mi go do kieszeni. Kiedy spojrzałem znowu, Lucen szedł ku wyjściu.
 
-## Val Meris, mały dziedziniec
+## Mały dziedziniec
+
+28 maja, 12 ET · mały dziedziniec, Val Meris
 
 Po spotkaniu poszedłem w przeciwną stronę niż Lucen. Myślałem, że dojdę do stajni, ale przejście skończyło się przy poidle. Ktoś rozlewał wodę za murem. Słychać było człowieka, który wołał o drugie wiadro, i kroki biegnące od kranu. Usiadłem na brzegu i otworzyłem wykaz przy pierwszej osadzie. Wyjąłem z kieszeni czasy dostaw przepisane z księgi Miry. Z jednej strony przez papier przebijało pismo ze starej rubryki. Popatrzyłem i przypomniałem sobie, kiedy ją zapisywała.
+
+Przed śmiercią Miry, do 4 PT · dom Tarena, Iglica Zerath
 
 Mira kryła się wtedy w kuchni przed dzwonkiem stacji. Powiedziała, że ma jeszcze godzinę wolną, choć połowę zdążył jej zabrać człowiek, który przyniósł pytanie o skrzynię. Siedziała przy oknie z wykazem. Pamiętam, że poprosiła mnie, bym przełożył kilka czasów dostaw z poprzedniego arkusza. Miałem przyjść o określonej porze do bramy. Podniosłem papier, spytałem, czy nie można wpisać jednakowego czasu w każdym wierszu. Dwie osoby przy składzie od dawna prowadziły tę samą trasę.
 
@@ -110,9 +124,13 @@ Wskazała datę u góry. Mogła go oddać następnego dnia. Spytałem, czemu wi�
 
 W przejściu stuknęło krzesło. Lucen wnosił do kuchni miskę i chciał się dowiedzieć, czy może trzymać swój plan na podłodze, skoro stół trzeba zwolnić do kolacji. Mira szybko wsunęła rejestr pod parapet. Zrobiliśmy miejsce. Widziałem go chwilę wcześniej na podwórzu i pamiętam, że pociągnął miskę zbyt blisko łokcia. Przesunąłem ją do środka. Do dzisiaj nie wiem, która z tych rozmów była przy tej samej kolacji, a w której siedziałem już w butach i wstałem, kiedy tylko dzwonek dał się usłyszeć.
 
+28 maja, 12 ET · mały dziedziniec, Val Meris
+
 Przy poidle wyjąłem zapasowy papier. Wydawało mi się, że pamiętam wszystkie słowa, których wtedy nie powiedziałem. Po spotkaniu przy tablicy żadnego nie umiałem przenieść na kartkę w postaci całego zdania. Napisałem mu imię. Schowałem papier, kiedy ludzie zaczęli wchodzić na dziedziniec z wiadrami. Jednemu podtrzymałem drzwi. Spytał, czy czekam na kogoś. Odpowiedziałem, że zaraz sam pójdę się zapisać.
 
-## Val Meris, tego samego dnia
+## W kolejce do zapisów
+
+28 maja, 12 ET · urząd zapisów, Val Meris
 
 Przed stołem zapisów przesunąłem się na koniec kolejki. Z przodu wisiały dwa wykazy. Przez chwilę czytałem zasady zmiany zgłoszenia, choć mojego jeszcze nie było. Pomyślałem, że mógłbym stanąć w tej samej kolejce co syn. Nawet wiedziałem, po której stronie stołu miałbym wtedy usiąść.
 
@@ -136,7 +154,9 @@ Schowała klucz. Kiedy zobaczyłem, że znowu wypada jej spod płaszcza, poprosi
 
 Kiedy przyszła moja kolej, zgłosiłem się po stronie samodzielności krain. Skryba spytał, czy może już zabrać papier. Przytrzymałem go jeszcze chwilę. Chciałem mieć pewność, że wyraźnie dopisałem „Zerath”.
 
-## Val Meris, przed zamknięciem bramy
+## Przed zamknięciem bramy
+
+28 maja, 12 ET · brama Val Meris
 
 Wróciłem po wykaz części. Człowiek od składu znalazł dla nas jeden uchwyt, ale otwory na śruby nie pasowały do rysunku, który zrobiliśmy w drodze. Pokazał inny, należący do naprawianej linii pod miastem. Mógł udostępnić wzór do zmierzenia, natomiast na wysyłkę trzeba było poczekać. Człowiek od części chciał jeszcze objechać drugi koniec miasta. Powiedziałem, że rozumiem, jeśli jedzie po swój model jako pierwszy. Został jednak przy stole, dopóki razem nie poprawiliśmy numeru zamówienia. Położył mi przed ręką dwa odpisy z pieczęcią.
 

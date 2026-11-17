@@ -1,6 +1,8 @@
 # Cena lojalności
 
-## Iglica Zerath, 1 ET
+## Wiadomość z Val Meris
+
+1 ET · Iglica Zerath
 
 Przy bramie spotkałem człowieka, z którym dawniej osłaniałem monterów. Wrócił z Val Meris, gdzie odwiedzał syna w Szkole Magów. Spytał, czemu nigdy nie zaglądam do szkoły, skoro mój Lucen też się tam uczy.
 
@@ -14,7 +16,9 @@ Spytałem, czego się uczy. Znajomy widział, jak Lucen wychodził z pracowni z 
 
 Chciałem powiedzieć, że jestem z niego dumny. Pomyślałem o kopertach, które wróciły z Aurelu. Poprosiłem, żeby go ode mnie pozdrowił, jeśli na siebie trafią. Wieczorem wyjąłem z szuflady mapę szlaków i sprawdziłem, którędy jedzie się teraz do Val Meris. Złożyłem ją z powrotem.
 
-## Iglica Zerath, 7 ET
+## Puste skrzynie
+
+7 ET · boczna stacja w Iglicy Zerath
 
 Przy bocznej stacji czekałem na dostawę, która miała być w środę. W piątek przysłali wóz z pustymi skrzyniami do odbioru zużytych części. Woźnica przeprosił, że przyjechał akurat na moją zmianę. Pomogłem mu załadować skrzynie. Wtedy zapytał, czy znam Lucena z Aurelu.
 
@@ -24,7 +28,9 @@ Spytałem, czy Lucen jest zdrów. Woźnica powiedział, że dość silny, żeby 
 
 Wieczorem wyjąłem z szuflady koperty z całymi pieczęciami. Miałem czysty papier. Zostawiłem go obok. Nadal wiedziałem, pod jaki adres napisać do Oriena. Chciałem po prostu, żeby syn mógł pójść do pracy, przyjść do domu i znaleźć przy drzwiach tyle spokoju, ile mu potrzeba. Rano spytałem woźnicę, kiedy znów jedzie do Aurelu.
 
-## Iglica Zerath, po odjeździe wozu
+## Po odjeździe wozu
+
+7 ET · Iglica Zerath
 
 Poszedłem z wykazem skrzyń do dyżurnego. Chciałem wiedzieć, kiedy możemy dostać nowe uchwyty, bo od tygodnia trzymałem ludzi przy dwóch starych. Powiedział, że zmieniono przydział na podstawie liczby przestojów. Według księgi mieliśmy ich najmniej. Pokazałem mu trzy miejsca, gdzie ludzie pompę uruchamiali ręcznie i dlatego przerwa nie trafiła do wykazu. Podanie ręcznego ruchu jest uciążliwe, a według formularza powinniśmy być zadowoleni, że pompa mimo wszystko pracuje.
 
@@ -50,7 +56,9 @@ Nie znalazłem w księdze tego obchodu. Poszliśmy razem do dyżurnego. Ślusark
 
 Zostałem z nim i w rubryce przestoju dopisałem ręczną obsługę. Obiecałem wziąć na siebie dwa poranki przy pompie. Varek, która prowadziła brygadę od przekaźników, pozwoliła mi zamienić obchód, choć musiałem odrobić go w następnym tygodniu. O wpół do piątej spotkałem ślusarkę w warsztacie. Zdążyła już wyrównać korbę tak, że przez drzwi można było przejść bokiem. Zmieniła mi się rubryka, którą miałem uzupełnić. Najpierw wpisałem, ile trwa obrót, dopiero potem zapisałem godziny, jakie oddała mi tego ranka.
 
-## Iglica Zerath, rozmowa o Aurelu
+## Rozmowa o Aurelu
+
+7–11 ET · Iglica Zerath
 
 Przez następne dwa kursy pytałem woźnicę o człowieka pilnującego, kto przychodzi na próby na uniwersytet. Za pierwszym razem powiedział, że w pracowni go nie widział. Za drugim przywiózł śrubę z wystawy, zrobioną z dwóch rodzajów metalu. Wyjął ją z kieszeni przy bramie i podał mi, żebym obejrzał. Nie wiedział, kto ją zaprojektował. Pojechał po części, a śrubę dostał od pomocnika przy składzie. Nosił ją odtąd na szczęście. Chciałem przytrzymać ją dłużej, chociaż sam widziałem podobne na stacji.
 
@@ -80,7 +88,9 @@ Oparliśmy się o barierkę. Na placu chłopak od składu wyciągnął pustą sk
 
 Poszliśmy po inny uchwyt do skrzyni. Przy szafie spytałem, czy syn mówi po aurelskiem tak samo jak ludzie z warsztatu. Woźnica pamiętał, że niektóre słowa mówi krócej. „Osłona” ciągle brzmiała, jak wymawia się ją u nas. Od razu chciałem usłyszeć więcej takich słów. To wszystko, co potrafił zapamiętać. Usiadłem z nim jeszcze na kwadrans. Opowiedział mi, jak droga po naprawie przebiega pod domem jego siostry. Narysowałem mu na kartce położenie składu, w którym mógł na powrót obejrzeć koło bez płacenia za całą naprawę. Wolne miejsce u dołu arkusza zostawiłem na jego własne sprawy.
 
-## Iglica Zerath, rejestr zachodni
+## Rejestr zachodni
+
+7–11 ET · Iglica Zerath
 
 Znaleźliśmy później jeszcze dwa rejestry stacji, które od dawna pracowały na tym samym wyposażeniu. Jeden prowadził magazynier w Zerath, drugi człowiek, który rozdzielał części na szlaku. Mieli zgodne sumy i różne wykazy miejsc. Spotkaliśmy się pod ścianą warsztatu, żeby obejrzeć pieczęcie. Tę z naszego rejestru znali wszyscy. Tamten dokument podawał numer skrzyni zamiast części. Gdy spytałem, kto dał polecenie wydać jedną zamiast dwóch, obaj przez chwilę szukali właściwego wiersza w swoich księgach.
 
@@ -96,7 +106,9 @@ Miejscowy magazynier zaproponował wpisać od ręki zmianę przy opisie części
 
 Zgodził się na tymczasowe oznaczenia i osobny wpis do zamówienia. Nie dostałem części szybciej. Po drugiej stronie granicy przestali za to pokazywać zamówienie jako wypełnione. Ślusarka przyjęła tę wiadomość bez uśmiechu. Pokazała mi miejsce, gdzie obok warsztatu miał stać nowy piec, gdyby trzeba było pilnie robić własne części. Brakowało pieniędzy na kilka dni prób. Zmierzyliśmy razem otwór w ścianie, przez który musiałby przejść przewód. Później doszło nam więcej rozmów o jednym piecu niż o pięćdziesięciu częściach w rejestrze. Przez cały ten czas jej ludzie wiedzieli, którego urządzenia potrzebują. Reszta z nas uczyła się je nazywać.
 
-## Boczne stacje Zerath, grudzień 11 ET
+## Boczne stacje
+
+Grudzień, 11 ET · boczne stacje Zerath
 
 Przy głównym rozdzielniku wskazówka jak zwykle stała wysoko. Na dole, za warsztatem, ślusarka rozgrzewała palce nad garnkiem. Bez zasilania jej mały piec stygnie w pół godziny. Przyszła dowiedzieć się, kiedy jej ulica dostanie następną zmianę. O szóstej. Powiedziałem jej to, zanim zapytała o porę dnia. Chodziło o szóstą rano.
 
@@ -126,7 +138,9 @@ Uzgodniliśmy z dyżurnym, że użyjemy zapasowego uchwytu na bocznym odcinku, a
 
 Po powrocie otworzyłem stary rejestr Miry. Przy zapasowych częściach wpisywała dwie rubryki: gdzie leżą i ile czasu zajmie ich dowiezienie. Miałem do niej pretensję, że po każdej zmianie kierowcy kreśli tabelę od nowa. Przy ostatnim wpisie w rubryce czasu zostawiła kreskę. Wtedy akurat część była w drodze.
 
-## Boczne stacje Zerath, po całonocnym obchodzie
+## Po całonocnym obchodzie
+
+Grudzień, 11 ET · boczne stacje Zerath, rano
 
 O świcie przyszli ludzie z głównej linii. Chcieli sprawdzić, na co poszedł uchwyt, który wcześniej czekał w rezerwie. Rozłożyłem wykaz na stopniach. Kierownik zmiany spróbował dobrać się do nowego mocowania, żeby ocenić, ile czasu zajmie zdjęcie. Ślusarka odstawiła mu dłoń. Tu już ludzie znowu mieli prąd. Gdyby go teraz zdjął, na górze stanęłyby dwie pompy i piec. Powiedział, że potrzebuje jedynie sprawdzić, czy da się go szybko odzyskać.
 
@@ -150,7 +164,9 @@ Spojrzała na mnie. Ustaliliśmy, że główna linia odda na dwie godziny człow
 
 Wróciłem do domu, kiedy ulicą przechodził pierwszy sprzedawca chleba. Położyłem na stole trzy kartki z godzinami. Przez połowę życia przynosiłem do domu zestawienia, przy których wszystkich można było pogodzić piórem. Wtedy tylko chciałem się położyć. Po godzinie przyszła Varek. Prosiła, żebym następnym razem nie posyłał nikogo po jej córkę bez ustalenia z nią, gdzie dziewczynka czeka. Trafiliśmy do poprzedniego domu. Jej córka godzinę rysowała z sąsiadami przy kuchennym stole, a ona przez ten czas zdążyła dobiec od stacji do szkoły i z powrotem. Zapisałem adres pod godzinami, podczas gdy patrzyła mi przez ramię. Potem poszliśmy powiedzieć zastępcy, gdzie ma nas szukać.
 
-## Iglica Zerath, rozmowa przy księdze Miry
+## Przy księdze Miry
+
+Zima, 11/12 ET · Iglica Zerath
 
 Ostatnio bywałem przy domu wdowy, którą Mira kiedyś zaznaczyła kółkiem na planie. Kobieta widziała w tym tygodniu moje wiadra i uznała, że jednej rzeczy od dawna nie umiem. Zabrała mi oba z rąk na podeście, weszła do kuchni i pokazała, gdzie jest nowy kran. Na ścianie wisiały dwa zapisy dotyczące linii. Jeden polecał ostrożnie otwierać wodę. Drugi miał datę sprzed remontu i podawał, że wszystkie zawory trzeba do wieczora zamknąć. Spytałem, czemu wciąż trzyma drugi.
 
@@ -166,7 +182,9 @@ Pokazałem jej nazwę stanowiska przy lewej krawędzi. Chciała wiedzieć, po cz
 
 W księdze, którą przyniosłem z domu, oba kółka wyglądały tak samo. Zabrałem ją później do warsztatu ślusarki i spytałem o adres przy bocznym piecu. Kiedy podała nazwę ulicy i numer, poprosiłem o jeszcze jeden szczegół. Dobrze drzwi na podwórze zamyka się wtedy, gdy ktoś podniesie klamkę do góry. Napisałem to w wykazie własną ręką. Dwie linie poniżej poprosiłem kogoś o części. Gdy brałem rano roboczy płaszcz, wiedziałem już, do których drzwi pójdę przy okazji dostawy.
 
-## Iglica Zerath, wiosna 12 ET
+## Warunki Porozumienia
+
+Wiosna, 12 ET · Iglica Zerath
 
 Przywieziono warunki Porozumienia Val Meris. Przeczytaliśmy oba warianty w warsztacie. Varek przytrzymała arkusz kubkiem. Zanim doszliśmy do tego, kto miałby wydawać zezwolenia, odszukała zapis o tym, kto utrzyma małe stacje przy wspólnych szlakach. Ja podkreśliłem zdanie o dostawach, które mają być chronione bez względu na wynik. Zerath zasila ludzi daleko poza swoimi granicami. Byłem w tych osadach i wiem, jak wyglądają po ciemku. U nas potrafimy miesiącami czekać na część do stacji, która je zasila. Chcę, żeby o części dla tej stacji można było zdecydować bliżej warsztatu, w którym ktoś po raz trzeci próbuje naprawić starą.
 
@@ -190,7 +208,9 @@ Przerobię rozkład, załatwię ludzi, zdążymy. Tych trzech zdań używałem w
 
 Ustaliliśmy, że jeśli dotrze dobra część, dam znać z drogi, do której stacji trafi i kiedy. Ona obiecała zapisać, jak długo w międzyczasie pracował piec. Dała mi jeden ze swoich ołówków. Chciała odzyskać go, kiedy wrócę. Próbowałem włożyć go do zewnętrznej kieszeni, ale był za krótki i zniknął między fałdami materiału. Pokazała, gdzie można go wetknąć przy guziku. Przez następne dwa dni rzeczywiście nosiłem go przy guziku, choć w domu miałem dwa lepsze.
 
-## Iglica Zerath, przed wyjazdem
+## Przed wyjazdem
+
+Maj, 12 ET · Iglica Zerath
 
 Przy bramie zapowiedziałem, że potrzebuję wolnego na drogę i zapisy. Człowiek, który przyjął moje zgłoszenie, spytał, czy wrócę do następnej zmiany. Zawsze coś sobie zostawiałem po powrocie. Nawet kiedy musiałem zostać na drugim końcu krainy, prosiłem kogoś, by mógł mnie znaleźć zawczasu i w razie czego wysłać po mnie wóz. Na ten raz poprosiłem o zastępstwo na pełny obchód. Podałem imię Zeta. Od dawna woził ostrzeżenia między obiema stacjami i znał godziny zmian.
 

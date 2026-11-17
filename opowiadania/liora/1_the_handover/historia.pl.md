@@ -2,7 +2,7 @@
 
 ## Miejsce na liście
 
-Korzenna Przystań, druga połowa marca 12 ET
+Druga połowa marca, 12 ET · Korzenna Przystań, Verdan
 
 Położyłam notes na stole stroną z dyżurami do dołu. Rano wpisałam tam dwie osoby do odwiedzenia. Jedna wstydziła się prosić o opatrunek, dopóki nie bolało tak, że już nie mogła dojść do lecznicy.
 
@@ -19,6 +19,8 @@ Przy pierwszym imieniu postawiłam kropkę. Dopiero przy drugim spytałam, czy o
 Eron przytrzymał mapę na stole, a Bob wsunął Anie nos pod dłoń. Kiedy Thora podała mi ołówek, wystarczyło miejsca na podpis. Zanim przesunęłam listę do Erona, otworzyłam notes i obok pierwszej kropki dopisałam „wizyta w domu”. Po spotkaniu miałam pokazać drogę osobie, która przejmie dyżur.
 
 ## Próg
+
+Po wyborze kandydatów, 12 ET · Korzenna Przystań, Verdan
 
 Pierwszą wizytę odbyłyśmy razem. Przed furtką poprosiłam zmienniczkę, żeby szła przodem. Znałam ten próg i wiedziałam, że kiedy drewno nasiąknie, można go podważyć od spodu. Chciałam zobaczyć, co zrobi, gdy sama się o niego potknie.
 
@@ -38,9 +40,13 @@ Zaśmiałyśmy się obie. Po chwili zapytałam ją, co zrobi, jeśli któregoś 
 
 ## Drugi egzemplarz
 
+Wiosna, 12 ET · Korzenna Przystań, Verdan
+
 Przez następne tygodnie dzieliłam dyżury z dwiema osobami, które zgłosiły się starszyźnie. Jedna pamiętała wszystkie domy. Druga wcześniej zauważała, że kończą się zapasy. Przez pewien czas pilnowałam każdego przekazania kluczy. Za trzecim razem przyłapałam się na tym, że stoję w progu i powtarzam komuś godzinę, którą przed chwilą sam mi podał.
 
 Któregoś dnia wróciłam z pola z mokrymi rękami. Pod wałem oczyściliśmy wlot do jednego rowu. Dawna granica rodzinnych zagonów była wciąż widoczna, kiedy światło padało nisko. Narysowałam ją w notesie i zaznaczyłam dwa miejsca, gdzie woda zbierała się od nowa. W Val Meris zamierzałam powiedzieć, do czego potrzebujemy drożnego kanału. Chciałam też umieć nazwać ludzi, których pola zalaliśmy podczas ratowania lecznicy.
+
+Połowa maja, 12 ET · lecznica w Korzennej Przystani, Verdan
 
 Na ostatnią zmianę przyszłam w połowie maja. Na stole leżał przepisany rozkład wizyt. Zmienniczki zrobiły dla mnie drugi egzemplarz. Przy domach, do których trzeba zajrzeć na koniec tygodnia, dopisały sposób wejścia. Jedna uwaga mówiła, że próg już spiłowano.
 
@@ -51,5 +57,7 @@ Położyłam klucz obok kartki.
 — Najpierw pójdziemy do kogoś, kto może przyjść tego samego dnia. Do ciebie napiszemy, jeśli potrzebna będzie twoja odpowiedź.
 
 Wzięłam swój egzemplarz. Wieczorem poszłam jeszcze pod wał. Przy trzech polach ktoś poprawił tyczki, które Thora pokazywała starszej przed wyjazdem. Przy środkowej płynęła woda. Usiadłam na brzegu na tyle długo, żeby zobaczyć, dokąd dotrze.
+
+Połowa maja, 12 ET · droga z Korzennej Przystani, Verdan
 
 Wyruszyłam następnego ranka. Rozkład dyżurów ułożyłam na spodzie torby. Kartkę z polami wyjęłam jeszcze raz, zanim wóz minął ostatnie domy.

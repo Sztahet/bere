@@ -2,9 +2,9 @@
 
 ## Dwie linie światła
 
-Daty sprzed Traktatu oznaczono skrótem PT przy późniejszym porządkowaniu zapisków.
+3 października, 4 PT · Aurel
 
-3 października, 4 PT
+Daty sprzed Traktatu oznaczono skrótem PT przy późniejszym porządkowaniu zapisków.
 
 Pierwszy prototyp wskazywał drogę z odległości, na której człowiek przestawał już być człowiekiem, a stawał się plamą na zboczu.
 
@@ -70,7 +70,7 @@ Podpisałem dopuszczenie urządzenia. Lena nie podpisała protokołu próby tere
 
 ## Droga zamknięta
 
-6 października, 4 PT
+6 października, 4 PT · szlak pod Aurelem
 
 Właśnie dowiedziałem się, że mój sygnalizator zawiódł. DWA DNI PO AWARII!
 
@@ -108,7 +108,7 @@ Resztę dnia spędziłem nad przyrządem. Nie mogłem go uruchomić bez wymiany 
 
 ## Raport
 
-7 października, 4 PT
+7 października, 4 PT · Aurel
 
 W raporcie opisałem usterkę. Napisałem też, że Lena ostrzegała mnie przed naprężeniem, a ja uznałem uszkodzenie za wynik niewłaściwego przenoszenia.
 
@@ -132,7 +132,7 @@ Podałem jej projekt. Wskazała miejsce, w którym chciałem wzmocnić uchwyt.
 
 Miałem gotową odpowiedź. Zamiast jej udzielić, odwróciłem kartkę i zacząłem rysować dodatkowe podparcie.
 
-2 listopada, 4 PT
+2 listopada, 4 PT · Aurel
 
 Przez ostatnie tygodnie poprawiałem konstrukcję. Lena sprawdzała ją na stole, potem na skrzyni przywiązanej do wozu. Jedna próba skończyła się pęknięciem śruby. Lena zaznaczyła pęknięcie czerwonym ołówkiem i przyniosła mi nową listę uwag. Nie każda była trafna. Zapisałem wszystkie.
 

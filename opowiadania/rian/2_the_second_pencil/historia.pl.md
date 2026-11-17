@@ -2,6 +2,8 @@
 
 ## I. Uczeń
 
+Po wojnie, 0–1 ET · okolice warsztatu Rian
+
 Po wojnie chłopak rozpoznał moje imię. Przyniósł urządzenie zawinięte w materiał i postawił je przede mną z taką dumą, jaką zwykle mają ludzie pokazujący pierwszą dobrze wykonaną pracę.
 
 Znał moje dawne projekty. Na ich podstawie zbudował mechanizm do unieruchomienia wieży. Nie uczyłam go przy stole; nie wiem, od kogo dostał rysunki. Wiedziałam natomiast, że są moje. W jednym miejscu powtórzył nawet rozwiązanie, którego użyłabym tylko wtedy, gdybym się spieszyła.
@@ -9,6 +11,8 @@ Znał moje dawne projekty. Na ich podstawie zbudował mechanizm do unieruchomien
 — Tu możesz zrobić to prościej — powiedziałam.
 
 Pokazałam mu, gdzie traci ruch dźwigni. Nie zapytałam, po co przygotował urządzenie. Zobaczyłam błąd i chciałam pokazać, że umiem znaleźć lepszą drogę. Ucieszył się, kiedy pojął różnicę. Ja też.
+
+Po wojnie, 0–1 ET · okolice warsztatu Rian
 
 Wrócił później. Wieża w pobliskiej osadzie przestała działać po tym, jak mieszkańcy odmówili zapłaty za ochronę. Chciał im pokazać, że go potrzebują. Kiedy nadeszli bandyci, nie potrafił już przywrócić urządzenia do pracy.
 
@@ -36,6 +40,8 @@ Kiedyś nazwałabym to fachową poradą. Tego wieczoru po raz pierwszy nie potra
 
 ## II. Skrzynie
 
+Przed przesłuchaniem 10 października, 1 ET · siedziba komisji
+
 Miałam zapisy zleceń. Część przechowywałam dla pieniędzy: dopóki wiedziałam, kto zapłacił i za co, mogłam sprawdzić, czy nie próbuje zapłacić mniej. Część dlatego, że lubiłam porównywać własne rozwiązania.
 
 Rozłożyłam kartki na podłodze. Były tam miejsca, daty, szkice, imiona pośredników i sumy. Przy kilku miejscach nie wiedziałam już, jak zapisać czytelnie to, co widziałam tylko raz.
@@ -48,7 +54,7 @@ Potrafiłam. Próbowałam powiedzieć wszystko w kolejności, w jakiej to zrobi�
 
 Nie zgłosiłam się, ponieważ byłam gotowa usłyszeć, co powiedzą rodziny. Zgłosiłam się, chociaż nie byłam.
 
-10 października, 1 ET
+10 października, 1 ET · sala komisji
 
 — Ile czasu alarm pozostawał wyłączony?
 
@@ -69,6 +75,8 @@ Z tyłu sali przesunięto ławę. Zobaczyłam kobietę ściskającą chustę. Ni
 Wskazałam osłonę wymienioną przed moim przybyciem. Dwóch członków komisji szukało później właściwego dokumentu. Mogłam im powiedzieć, gdzie patrzeć. Nie chciałam już, żeby kolejny człowiek spędził lata, zastanawiając się, czy to, co zrobiłam, było zwykłą awarią.
 
 ## III. Człowiek z rysunkiem
+
+10 października, 1 ET · sala komisji, wieczór
 
 Podczas przerwy podszedł do mnie mężczyzna ze szkicem. Przy osobie prowadzącej przesłuchanie rozłożył go na stole.
 
@@ -104,7 +112,7 @@ Nie pytał, czy żałuję. Nie pytał, dlaczego przyszłam. Interesował go uchw
 
 ## IV. Nadzór
 
-20 grudnia, 1 ET
+20 grudnia, 1 ET · sala rozpraw
 
 Zostałam skazana. Straciłam majątek i uprawnienia do pracy przy cywilnych systemach obronnych. Odbudowa pod nadzorem i próby odłączonych prototypów uniwersytetu stanowiły część warunków wykonania kary. Nie dostałam swobodnego dostępu do działających instalacji.
 
@@ -116,7 +124,7 @@ Jedna z osób, które straciły bliskich, powiedziała mi, że nigdy mi nie wyba
 
 Nie wiem, czy w ogóle chciała mojej odpowiedzi.
 
-14 stycznia, 2 ET
+14 stycznia, 2 ET · uniwersytet w Aurelu
 
 Pierwszą próbę przeprowadzono na odłączonym modelu. Osoba nadzorująca policzyła części przed pracą i po niej. Przy stole była też Lena. Obserwowała mnie tak uważnie, że chciałam zapytać, czy woli sama trzymać narzędzia. Nie zapytałam. Miała powody, żeby patrzeć.
 
@@ -136,7 +144,7 @@ Lena zapytała później o drugą osłonę. Wyjaśniłam, dlaczego nie wystarczy
 
 ## V. Przy jednym stole
 
-12 lutego, 5 ET
+12 lutego, 5 ET · uniwersytet w Aurelu
 
 Lena porozmawiała z nadzorującym o moich warunkach. Chciała wcześniej przygotować części, żeby nie liczył ich przy mnie. Dowiedziałam się o tym później i zapytałam ją, dlaczego to zrobiła.
 
@@ -162,7 +170,7 @@ Nie skończyłyśmy tym wszystkich trudnych rozmów. Ale kiedy później brakowa
 
 ## VI. Dwa ołówki
 
-7 czerwca, 9 ET
+7 czerwca, 9 ET · miejsce zajęć rzemieślników
 
 Po odbyciu kary zaczęłam uczyć młodych rzemieślników. Zanim rozdam narzędzia, mówię, kim jestem i co robiłam podczas wojny. Jeden z uczniów wyszedł po pierwszym spotkaniu. Nie zatrzymałam go. Pozostali nie mają obowiązku mi ufać; mogą sprawdzić każdy schemat i zapytać, skąd znam odpowiedź.
 

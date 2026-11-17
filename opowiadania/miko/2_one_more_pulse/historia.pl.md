@@ -2,7 +2,7 @@
 
 ## Ostatni czytelny sygnał
 
-Iglica Zerath · koniec zimy 11/12 ET
+Schyłek zimy, 11/12 ET · Iglica Zerath
 
 Varek, która prowadziła brygadę przekaźników, postawiła przede mną lampę sygnałową. Nacisnęła przycisk. Lampa błysnęła trzy razy, za każdym razem słabiej. Potem posłała mnie na drugi koniec przejścia i powtórzyła sygnał. Stamtąd widziałem tylko pierwszy błysk.
 
@@ -13,6 +13,8 @@ Varek chciała, żeby lampa działała na tym, co zostawało w krysztale pod kon
 Przy pierwszych trzech ustawieniach regulatora lampa zużywała większość zapasu na pierwszy błysk. Przesunąłem cewkę. Pierwszy błysk stał się krótszy, a z końca przejścia dało się policzyć wszystkie trzy. Wysłałem Adrienowi tabelę. Odpisał, żebym zaznaczył, ile energii miał kryształ przed każdą próbą. Musiałem zajrzeć do dwóch innych kartek, żeby mu odpowiedzieć. Od następnej próby zapisywałem to w tej samej tabeli.
 
 ## Pieczęć na kwicie
+
+Schyłek zimy, 11/12 ET · stacja graniczna w Zerath
 
 Na stacji przy granicy pękło mocowanie kryształu. W zapasie znaleźliśmy część z Aurelu. Sprawdziłem ją na odłączonym urządzeniu. Pasowała bez luzu. Przycisnąłem do stołu kwit od dostawcy, żeby Varek mogła zobaczyć pieczęć.
 
@@ -25,6 +27,8 @@ Odwróciłem kwit. Na odwrocie była cena i imię człowieka, który odebrał sk
 Varek wyznaczyła dwa okna, z których można było przekazywać sygnał ekipie ręcznie, i spytała, kto zostanie na dodatkową zmianę. Zgłosiłem się do ostatniego okna. Miałem powtarzać znak człowieka stojącego bliżej dyżurnego. Z mojego miejsca widziałem jego rękę dopiero wtedy, gdy wychylił ją w światło lampy. Tego wieczoru planowałem jeszcze wrócić do własnych prób. Do pracowni wróciłem dopiero następnego rana.
 
 ## Szybka pomyłka
+
+Schyłek zimy, 11/12 ET · pracownia w Zerath
 
 W Aurelu cewka do wyzwalania impulsu leżała na stole. Do Zerath przywiozłem mniejszą wersję, którą mogłem przypiąć do rękawicy. Chciałem sprawdzić, czy impuls pomoże mi szybciej dobiec do stanowiska i przełożyć przewód, nim skończy się czas.
 
@@ -50,9 +54,13 @@ Zapisałem, że dotarłem do stołu na czas i podłączyłem zły przewód. Przy
 
 ## Wynik dla cudzych rąk
 
+Schyłek zimy, 11/12 ET · stacja przekaźnikowa w Zerath
+
 Przed pokazem regulatora Varek poprosiła, żebyśmy uruchomili lampę kilka razy z rzędu. Trzy pierwsze sygnały widziałem wyraźnie z końca przejścia. Przy czwartym lampa zgasła w połowie sygnału. Otworzyłem odłączoną skrzynkę i znalazłem poluzowane mocowanie styku. Na karcie miałem już wypisaną godzinę pokazu. Przekreśliłem ją.
 
 Przez następne dni poprawiałem mocowanie. Za pierwszym razem uchwyt wystawał na tyle daleko, że kryształ nie dochodził do styku. Spiłowałem wystający brzeg i spróbowałem ponownie. Kryształ wszedł na miejsce. Kilka razy włączyliśmy lampę, zanim Varek wyznaczyła nową porę pokazu.
+
+Kilka dni później, schyłek zimy 11/12 ET · stacja przekaźnikowa w Zerath
 
 Przed pokazem Varek chciała przeprowadzić próbę sama. Otworzyła pokrywę w rękawicach, włożyła kryształ i zamknęła obudowę. Już szedłem jej pokazać, gdzie ustawić regulator, kiedy zobaczyłem, że czyta oznaczenia na obudowie. Cofnąłem się na koniec przejścia. Policzyłem trzy błyski. Przy powtórzeniu też zobaczyłem trzy.
 

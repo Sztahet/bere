@@ -2,8 +2,11 @@
   "title": "Cena lojalności",
   "chapters": [
     {
-      "title": "Iglica Zerath, 1 ET",
+      "title": "Wiadomość z Val Meris",
       "blocks": [
+        {
+          "text": "1 ET · Iglica Zerath"
+        },
         {
           "text": "Przy bramie spotkałem człowieka, z którym dawniej osłaniałem monterów. Wrócił z Val Meris, gdzie odwiedzał syna w Szkole Magów. Spytał, czemu nigdy nie zaglądam do szkoły, skoro mój Lucen też się tam uczy."
         },
@@ -25,8 +28,11 @@
       ]
     },
     {
-      "title": "Iglica Zerath, 7 ET",
+      "title": "Puste skrzynie",
       "blocks": [
+        {
+          "text": "7 ET · boczna stacja w Iglicy Zerath"
+        },
         {
           "text": "Przy bocznej stacji czekałem na dostawę, która miała być w środę. W piątek przysłali wóz z pustymi skrzyniami do odbioru zużytych części. Woźnica przeprosił, że przyjechał akurat na moją zmianę. Pomogłem mu załadować skrzynie. Wtedy zapytał, czy znam Lucena z Aurelu."
         },
@@ -42,8 +48,11 @@
       ]
     },
     {
-      "title": "Iglica Zerath, po odjeździe wozu",
+      "title": "Po odjeździe wozu",
       "blocks": [
+        {
+          "text": "7 ET · Iglica Zerath"
+        },
         {
           "text": "Poszedłem z wykazem skrzyń do dyżurnego. Chciałem wiedzieć, kiedy możemy dostać nowe uchwyty, bo od tygodnia trzymałem ludzi przy dwóch starych. Powiedział, że zmieniono przydział na podstawie liczby przestojów. Według księgi mieliśmy ich najmniej. Pokazałem mu trzy miejsca, gdzie ludzie pompę uruchamiali ręcznie i dlatego przerwa nie trafiła do wykazu. Podanie ręcznego ruchu jest uciążliwe, a według formularza powinniśmy być zadowoleni, że pompa mimo wszystko pracuje."
         },
@@ -83,8 +92,11 @@
       ]
     },
     {
-      "title": "Iglica Zerath, rozmowa o Aurelu",
+      "title": "Rozmowa o Aurelu",
       "blocks": [
+        {
+          "text": "7–11 ET · Iglica Zerath"
+        },
         {
           "text": "Przez następne dwa kursy pytałem woźnicę o człowieka pilnującego, kto przychodzi na próby na uniwersytet. Za pierwszym razem powiedział, że w pracowni go nie widział. Za drugim przywiózł śrubę z wystawy, zrobioną z dwóch rodzajów metalu. Wyjął ją z kieszeni przy bramie i podał mi, żebym obejrzał. Nie wiedział, kto ją zaprojektował. Pojechał po części, a śrubę dostał od pomocnika przy składzie. Nosił ją odtąd na szczęście. Chciałem przytrzymać ją dłużej, chociaż sam widziałem podobne na stacji."
         },
@@ -130,8 +142,11 @@
       ]
     },
     {
-      "title": "Iglica Zerath, rejestr zachodni",
+      "title": "Rejestr zachodni",
       "blocks": [
+        {
+          "text": "7–11 ET · Iglica Zerath"
+        },
         {
           "text": "Znaleźliśmy później jeszcze dwa rejestry stacji, które od dawna pracowały na tym samym wyposażeniu. Jeden prowadził magazynier w Zerath, drugi człowiek, który rozdzielał części na szlaku. Mieli zgodne sumy i różne wykazy miejsc. Spotkaliśmy się pod ścianą warsztatu, żeby obejrzeć pieczęcie. Tę z naszego rejestru znali wszyscy. Tamten dokument podawał numer skrzyni zamiast części. Gdy spytałem, kto dał polecenie wydać jedną zamiast dwóch, obaj przez chwilę szukali właściwego wiersza w swoich księgach."
         },
@@ -156,8 +171,11 @@
       ]
     },
     {
-      "title": "Boczne stacje Zerath, grudzień 11 ET",
+      "title": "Boczne stacje",
       "blocks": [
+        {
+          "text": "Grudzień, 11 ET · boczne stacje Zerath"
+        },
         {
           "text": "Przy głównym rozdzielniku wskazówka jak zwykle stała wysoko. Na dole, za warsztatem, ślusarka rozgrzewała palce nad garnkiem. Bez zasilania jej mały piec stygnie w pół godziny. Przyszła dowiedzieć się, kiedy jej ulica dostanie następną zmianę. O szóstej. Powiedziałem jej to, zanim zapytała o porę dnia. Chodziło o szóstą rano."
         },
@@ -203,8 +221,11 @@
       ]
     },
     {
-      "title": "Boczne stacje Zerath, po całonocnym obchodzie",
+      "title": "Po całonocnym obchodzie",
       "blocks": [
+        {
+          "text": "Grudzień, 11 ET · boczne stacje Zerath, rano"
+        },
         {
           "text": "O świcie przyszli ludzie z głównej linii. Chcieli sprawdzić, na co poszedł uchwyt, który wcześniej czekał w rezerwie. Rozłożyłem wykaz na stopniach. Kierownik zmiany spróbował dobrać się do nowego mocowania, żeby ocenić, ile czasu zajmie zdjęcie. Ślusarka odstawiła mu dłoń. Tu już ludzie znowu mieli prąd. Gdyby go teraz zdjął, na górze stanęłyby dwie pompy i piec. Powiedział, że potrzebuje jedynie sprawdzić, czy da się go szybko odzyskać."
         },
@@ -241,8 +262,11 @@
       ]
     },
     {
-      "title": "Iglica Zerath, rozmowa przy księdze Miry",
+      "title": "Przy księdze Miry",
       "blocks": [
+        {
+          "text": "Zima, 11/12 ET · Iglica Zerath"
+        },
         {
           "text": "Ostatnio bywałem przy domu wdowy, którą Mira kiedyś zaznaczyła kółkiem na planie. Kobieta widziała w tym tygodniu moje wiadra i uznała, że jednej rzeczy od dawna nie umiem. Zabrała mi oba z rąk na podeście, weszła do kuchni i pokazała, gdzie jest nowy kran. Na ścianie wisiały dwa zapisy dotyczące linii. Jeden polecał ostrożnie otwierać wodę. Drugi miał datę sprzed remontu i podawał, że wszystkie zawory trzeba do wieczora zamknąć. Spytałem, czemu wciąż trzyma drugi."
         },
@@ -267,8 +291,11 @@
       ]
     },
     {
-      "title": "Iglica Zerath, wiosna 12 ET",
+      "title": "Warunki Porozumienia",
       "blocks": [
+        {
+          "text": "Wiosna, 12 ET · Iglica Zerath"
+        },
         {
           "text": "Przywieziono warunki Porozumienia Val Meris. Przeczytaliśmy oba warianty w warsztacie. Varek przytrzymała arkusz kubkiem. Zanim doszliśmy do tego, kto miałby wydawać zezwolenia, odszukała zapis o tym, kto utrzyma małe stacje przy wspólnych szlakach. Ja podkreśliłem zdanie o dostawach, które mają być chronione bez względu na wynik. Zerath zasila ludzi daleko poza swoimi granicami. Byłem w tych osadach i wiem, jak wyglądają po ciemku. U nas potrafimy miesiącami czekać na część do stacji, która je zasila. Chcę, żeby o części dla tej stacji można było zdecydować bliżej warsztatu, w którym ktoś po raz trzeci próbuje naprawić starą."
         },
@@ -305,8 +332,11 @@
       ]
     },
     {
-      "title": "Iglica Zerath, przed wyjazdem",
+      "title": "Przed wyjazdem",
       "blocks": [
+        {
+          "text": "Maj, 12 ET · Iglica Zerath"
+        },
         {
           "text": "Przy bramie zapowiedziałem, że potrzebuję wolnego na drogę i zapisy. Człowiek, który przyjął moje zgłoszenie, spytał, czy wrócę do następnej zmiany. Zawsze coś sobie zostawiałem po powrocie. Nawet kiedy musiałem zostać na drugim końcu krainy, prosiłem kogoś, by mógł mnie znaleźć zawczasu i w razie czego wysłać po mnie wóz. Na ten raz poprosiłem o zastępstwo na pełny obchód. Podałem imię Zeta. Od dawna woził ostrzeżenia między obiema stacjami i znał godziny zmian."
         },

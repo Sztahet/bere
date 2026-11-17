@@ -2,7 +2,7 @@
 
 ## Siedemnaście prób
 
-18 kwietnia, 12 ET
+18 kwietnia, 12 ET · Aurel
 
 Miko z Zerath ma płaszcz, który mógłby samodzielnie stanąć pod ścianą. Przyjechał wczoraj, a dzisiaj odwinął z niego urządzenie i położył je na stole Adriena. Zdążyłam zobaczyć dwie cewki i minę Adriena, zanim obaj zapomnieli, że stoję w drzwiach.
 
@@ -28,7 +28,7 @@ Przy obiedzie zapytałam, czy zawsze tak chętnie pokazuje innym niedokończone 
 
 Zanotowałam wynik Miko. Przypomniał mi się piec, w którym Adrien zmienił dozowanie energii, więc dopisałam go obok. Lubię ich obu za to, że po dobrym wyniku chcą jeszcze wiedzieć dlaczego. Miko mówi o tym głośniej.
 
-20 kwietnia, 12 ET
+20 kwietnia, 12 ET · Aurel
 
 Adrien poprosił mnie o sprawdzenie mocowań obu stanowisk przed kolejną próbą. W jednej śrubie znalazłam wadę i kazałam ją wymienić. Później Rian opowiedziała mi, jak Adrien przewidział nagrzewanie się małego styku pod przesłoną. Po wymianie wskazówka wracała równo, a oszczędniejszy układ nadal dawał dobry wynik.
 
@@ -52,7 +52,7 @@ Nie śmiałam się z jego zgłoszenia. Widziałam, co potrafi zbudować. Chciał
 
 ## Jeszcze jedna próba
 
-24 kwietnia, 12 ET
+24 kwietnia, 12 ET · Aurel
 
 Prototyp Adriena zadziałał na odłączonym modelu mechanizmu kierującego. Zapytałam o niestabilne zasilanie, uszkodzone mocowanie i uderzenia. Powiedział, że wie. Potem powiedział coś, czego się nie spodziewałam.
 
@@ -68,7 +68,7 @@ Ten człowiek nawet odpowiedzialność potrafi wypowiedzieć tak, jakby odbiera�
 
 Później poprosił mnie o dodatkową kontrolę. Nie o przytrzymanie obudowy ani sprawdzenie rachunków, tylko o niezależną ocenę projektu. Wyszłam z rysunkami pod pachą i długo stałam na schodach. Wciąż żałuję, że potrzebowaliśmy tragedii, by nauczyć się zadawać niektóre pytania. Doceniam, że teraz je zadaje.
 
-27 kwietnia, 12 ET
+27 kwietnia, 12 ET · Aurel
 
 Kiran znów jest w Aurelu. Przyjechała z Kamiennego Progu na krótki cykl zajęć i prób związanych z inżynierią terenową; później zamierza wrócić do swojej pracy. Poszłyśmy razem zobaczyć punkt naprawy lamp, gdzie przed laty pomagałyśmy przy wskaźniku. Nadal działa, choć ktoś wymienił w nim dźwignię na większą. Pochwaliłam zmianę, a Kiran przypomniała mi, że sama zaproponowała większy występ w pierwszym projekcie. Rzeczywiście. Na szczęście zapisałyśmy to na formularzu.
 
@@ -88,7 +88,7 @@ Pękła osłona.
 
 ## Miejsce przy stole
 
-4 maja, 12 ET
+4 maja, 12 ET · hala ćwiczeń, Aurel
 
 Poprosiłam o użyczenie stanowiska prób przy hali, w której ćwiczą kandydaci. Zgodził się opiekun obiektu, pod warunkiem że nie będziemy podłączać prototypów do działających zabezpieczeń hali. Słusznie. Przygotowaliśmy oddzielny model, własny zapas i ręczne odłączenie.
 
@@ -132,7 +132,7 @@ Kupiłyśmy po bułce na drogę. Kiran opowiedziała mi jeszcze o podróżnym, k
 
 ## Światło na zakręcie
 
-9 maja, 12 ET
+9 maja, 12 ET · Aurel
 
 Urządziliśmy próbę przejścia na pustym torze ćwiczebnym. Kiran została przy ręcznym wyłączniku modelu, Lucen przy odłączanym zasilaniu, a ja z przyrządem po drugiej stronie przesłony. Zadanie było proste tylko na papierze: sprawdzić styk, przekazać wynik i pozwolić drugiej osobie zdecydować, czy można przejść.
 
@@ -158,7 +158,7 @@ Rian nie pochwaliła od razu wyniku. Zapytała, co się stanie, jeśli zabraknie
 
 — To warto pokazać innym.
 
-12 maja, 12 ET
+12 maja, 12 ET · hala ćwiczeń, Aurel
 
 Poprosiłam pracownicę hali, która na co dzień przenosi sprzęt między stanowiskami, żeby pomogła mi w jeszcze jednej próbie. Zgodziła się po zakończeniu zmiany. Model był odłączony, a jej zadaniem było tylko powiedzieć, co zrobiłaby po zobaczeniu sygnału; niczego nie uruchamiałyśmy.
 
@@ -174,7 +174,7 @@ To jeszcze nie dowód, że każdy zrozumie sygnał. Mam za to jej uwagę zapisan
 
 ## Moje imię
 
-15 maja, 12 ET
+15 maja, 12 ET · Aurel
 
 Adrien przejrzał wyniki mojego przyrządu. Znalazł dwie rzeczy do poprawy i jedną, którą uznał za bardzo dobrą. Tę ostatnią zapisałam od razu, żeby nie zdążył zmienić zdania.
 
@@ -198,7 +198,7 @@ To również zapisałam.
 
 Kiedy wychodziłam, sięgnął do kieszeni po mały notes. Dawniej zapytałabym, co pisze. Przez lata zauważyłam, że wyciąga go wtedy, kiedy coś naprawdę zwróci jego uwagę: wynik próby, czyjaś uwaga albo błąd, do którego chce wrócić. Nie wiem, co napisał tym razem. Wystarczyło mi, że sięgnął po notes, patrząc na mój projekt. Zamknęłam za sobą drzwi.
 
-28 maja, 12 ET
+28 maja, 12 ET · pracownia Adriena
 
 Dzisiaj kończyły się zgłoszenia. Wiedziałam o tym od tygodnia, ale dopiero po południu dotarło do mnie, że kartka z terminem nie zmieni się w formularz tylko dlatego, że będę na nią patrzeć.
 

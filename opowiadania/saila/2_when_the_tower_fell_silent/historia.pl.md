@@ -2,6 +2,8 @@
 
 ## Zwykły obchód
 
+Środek zimy, 11 ET · osada pod Białym Przesmykiem, Nivoren
+
 Zimą chłodnia potrzebowała mnie rzadziej.
 
 Nigdy nie sądziłam, że będę tak wdzięczna za mróz.
@@ -104,6 +106,8 @@ Ruszyłam biegiem.
 
 ## Dźwięk, który znałam
 
+Środek zimy, 11 ET · szlak pod wieżą Błyskawic, Nivoren
+
 Ścieżka wznosiła się ostro.
 
 Śnieg był świeży, a pod nim miejscami zalegał lód. Dwa razy poślizgnęłam się na kamieniach. Za drugim razem złapałam się wystającego korzenia i przez chwilę stałam bez ruchu, próbując uspokoić oddech.
@@ -191,6 +195,8 @@ Kryształ rozbłysnął.
 Zrozumiałam, że to nie będzie zwykły obchód.
 
 ## Cel
+
+Środek zimy, 11 ET · szlak pod wieżą Błyskawic, Nivoren
 
 Wyładowanie uderzyło w skałę tuż nad Szronogrzbietą.
 
@@ -316,6 +322,8 @@ A jednak nie potrafiłam odejść.
 
 ## To, co wróciło
 
+Środek zimy, 11 ET · szlak pod wieżą Błyskawic, Nivoren
+
 Znałam ten huk.
 
 Nie dokładnie ten sam.
@@ -323,6 +331,8 @@ Nie dokładnie ten sam.
 Ale wystarczająco podobny.
 
 Najpierw rozbłysk, potem uderzenie, a po nim krótka cisza, podczas której człowiek nie wie, czy następny dźwięk będzie jeszcze głośniejszy.
+
+Noc Zgasłych Wież, 3 PT · Biały Przesmyk, Nivoren
 
 Miałam osiem lat, kiedy urządzenia w Białym Przesmyku zaczęły wybuchać.
 
@@ -347,6 +357,8 @@ Przez lata próbowałam zrozumieć, co się wydarzyło. Uczyłam się o kryszta�
 Nie przestałam.
 
 Nauczyłam się jedynie ukrywać ten strach.
+
+Środek zimy, 11 ET · szlak pod wieżą Błyskawic, Nivoren
 
 Teraz znów stałam przed potężnym urządzeniem, którego nie mogłam kontrolować.
 
@@ -471,6 +483,8 @@ Ruszyłam.
 <!-- ilustracja: 04 -->
 
 ## Zatrzymać ruch
+
+Środek zimy, 11 ET · wieża Błyskawic, Nivoren
 
 Biegłam w stronę kamiennego cokołu.
 
@@ -690,6 +704,8 @@ A ja po raz pierwszy od dawna nie potrafiłam znaleźć żadnego rozsądnego wyj
 
 ## Spojrzenie
 
+Środek zimy, 11 ET · szlak pod wieżą Błyskawic, Nivoren
+
 Szronogrzbieta nie uciekła od razu.
 
 Stała przy skale, osłaniając młode.
@@ -835,6 +851,8 @@ Bez wyładowań.
 Potem zamknęłam oczy.
 
 ## Po alarmie
+
+Środek zimy, 11 ET · schronisko przy szlaku, Nivoren
 
 Kiedy się obudziłam, przez dłuższą chwilę nie wiedziałam, gdzie jestem.
 

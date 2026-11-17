@@ -2,7 +2,7 @@
 
 ## I. Po zajęciach
 
-7 czerwca, 9 ET
+7 czerwca, 9 ET · miejsce zajęć rzemieślników
 
 Jeden z uczniów wrócił po zajęciach, żeby podziękować mi za cierpliwość. Powiedziałam, że nie byłam szczególnie cierpliwa. Wskazał śrubokręt, którym pracował przy trzeciej próbie.
 
@@ -16,7 +16,7 @@ Przy rozstaju przypomniałam sobie, że w przyszłym tygodniu skończę późnie
 
 Skinęłam głową. W przyszłym tygodniu przyszła.
 
-18 sierpnia, 9 ET
+18 sierpnia, 9 ET · miejsce zajęć rzemieślników
 
 Prowadzę zajęcia z wykrywania słabych punktów. Kiedy uczeń znajduje sposób odłączenia zabezpieczenia, nie kończymy na pochwałach. Pytam, kto może nie dostać ostrzeżenia, gdy kontrolka zgaśnie, i jak sprawdzić, czy zapasowy sygnał nie korzysta z tej samej części.
 
@@ -30,7 +30,7 @@ Kiedy uczniowie wyszli, obejrzałam nowy rysunek. Był lepszy od mojego. Ucieszy
 
 Nie znalazłam odpowiedniej liczby. Nie ma takiej.
 
-22 sierpnia, 9 ET
+22 sierpnia, 9 ET · miejsce zajęć rzemieślników
 
 Adrien przyszedł obejrzeć model przygotowany dla uczniów. Zamiast modelu najpierw zauważył mój przyrząd grzewczy. Obejrzał obudowę z każdej strony i zapytał, kto zaprojektował przesłonę.
 
@@ -56,7 +56,7 @@ Kiedy wyszedł, jeszcze raz obejrzałam wyniki. Ten przyrząd nie wymazywał teg
 
 ## II. Siedemnasta próba
 
-20 kwietnia, 12 ET
+20 kwietnia, 12 ET · uniwersytet w Aurelu
 
 Adrien pokazał mi dwa regulatory. Nie powiedział, który jest jego. Rozpoznałam go, zanim skończył wyjaśniać wyniki.
 
@@ -96,7 +96,7 @@ Schowałam uśmiech w kołnierzu. Nie zdążyłam mu powiedzieć, że jego uwaga
 
 ## III. Nazwać rzecz
 
-27 kwietnia, 12 ET
+27 kwietnia, 12 ET · warsztat w Aurelu
 
 Przed zajęciami zapytałam uczniów, czy chcą rozmawiać o Igrzyskach. Większość chciała. Jedna osoba zapytała, czy pojadę.
 
@@ -132,7 +132,7 @@ Nie dała mi pozwolenia w imieniu wszystkich, których skrzywdziłam. Nie mogła
 
 ## IV. Warunki
 
-6 maja, 12 ET
+6 maja, 12 ET · biuro organizatorów Igrzysk
 
 Poszłam zapytać o zasady. Po odbyciu kary nie odzyskałam przez sam upływ czasu swobodnego dostępu do cywilnych systemów obronnych. Nie chciałam, by ktoś wpisał mnie do składu, a dopiero potem zastanawiał się, co wolno mi zrobić.
 
@@ -144,7 +144,7 @@ Jedna z osób przy stole sprzeciwiła się od razu. Powiedziała, że człowiek,
 
 Nie uspokoiło jej to. Poprosiła o kopię warunków i czas na decyzję. Dostała je. Ja też chciałam kopię; znałam już wartość rzeczy zapisanych tak, by można je było sprawdzić.
 
-18 maja, 12 ET
+18 maja, 12 ET · biuro organizatorów Igrzysk
 
 Zgłosiłam się pod własnym imieniem. Były protesty. Nie opowiedziałam komisji, ilu uczniów nauczyłam sprawdzać kontrolki, jakby taka liczba mogła zmniejszyć liczbę ofiar. Odpowiedziałam na pytania o warunki pracy i dałam im dokumenty, o które poprosili.
 
@@ -154,7 +154,7 @@ W formularzu zostało miejsce na uzasadnienie. Napisałam, że chcę sprawdzać 
 
 ## V. „Nie”
 
-Podczas Igrzysk, 12 ET
+Od lipca, 12 ET · Val Meris
 
 Po jednej z kontrolowanych Prób podszedł do mnie mężczyzna. Zostałam, żeby wyjaśnić pokonanym, który element ich konstrukcji pozwolił na unieruchomienie urządzenia. Nie wszyscy chcieli tego słuchać. Jeden z uczestników zabrał rysunek; drugi powiedział, że już widział dość.
 

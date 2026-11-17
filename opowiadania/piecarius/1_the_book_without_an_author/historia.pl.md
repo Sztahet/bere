@@ -64,6 +64,8 @@ Przez chwilę żal mi było pozwolić mu kreślić po nowym papierze. Podałem m
 
 ## Stary kamień
 
+8 kwietnia, 12 ET · chata Orena, Kharum
+
 Przed południem zatrzymaliśmy się przy chacie na skraju lasu. Veda przywiozła gospodarzowi list. Kiedy mu się przedstawiłem, od razu spojrzał na moją pierś.
 
 — Feniks — powiedział.
@@ -103,6 +105,8 @@ Miałem gotową odpowiedź o dawnych rycerzach i zaszczytnej sprawie. Ułożyłe
 Oren złożył list i wsunął go do kieszeni fartucha. Gdy wsiadałem na wóz, wyjął kartkę z powrotem. Próbował sam odnaleźć imię wnuka. Schowałem ołówek i dałem mu spokój.
 
 ## Na drodze
+
+8 kwietnia, 12 ET · droga do górnej osady w Kharum
 
 Za chatą Orena las podchodził pod samą drogę. Po drugiej stronie ciągnął się rów. Siedziałem na tylnej burcie z odrysem na kolanach. Chciałem dopisać przy szczerbie, pod jakim kątem właściwie ją widziałem, ale Jorek szarpnął lejce i uderzyłem łokciem o deski.
 
@@ -147,6 +151,8 @@ Właśnie układałem zdanie o tym, że przy ratowaniu damy trudno zwracać uwag
 Pociągnąłem za pas. Veda zrobiła to samo, a potem wyjęła z koszyka dwie gruszki. Przyjąłem je z ukłonem i od razu poczułem łokieć obity o burtę. Zjadłem po drodze tę obitą. Drugą schowałem na wieczór.
 
 ## Księga
+
+8 kwietnia, 12 ET · górna osada w Kharum
 
 W górnej osadzie ludzie od pompy podeszli do wozu, zanim koła przestały się obracać. Jeden wyciągnął ze skrzyni żelazną część i przyłożył ją do tej, którą przyniósł z warsztatu. Pasowały. Zawołał kogoś po klucz, a ja po raz pierwszy tego dnia mogłem oprzeć się o burtę i patrzeć, jak inni się spieszą.
 

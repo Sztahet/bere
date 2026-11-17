@@ -18,7 +18,7 @@ Po południu obudowa zaczęła drżeć. Wyłączyłem zasilanie i odczekałem, a
 
 ## Sygnał z drugiego końca toru
 
-4 maja, 12 ET · przy hali ćwiczeń
+4 maja, 12 ET · hala ćwiczeń, Aurel
 
 Odebrałem regulator od Adriena i na próbę u Leny przywiozłem go już z poprawionym mocowaniem. Lena sprawdzała przyrząd, który pozwalał ustalić, czy zasilanie dociera do styku, i pokazać wynik komuś po drugiej stronie toru. Z daleka jej sygnał zlewał się z odbiciem od metalowej osłony. Pożyczyłem jej kawałek własnej przesłony, żeby dać błyskowi wyraźniejszy kształt. Lucen sprawdził, czy nadal go widać, gdy w krysztale zostało mniej energii. Rian spytała, jaki znak zobaczy ktoś na końcu toru, jeśli wskazówka utknie w połowie. Lena dopisała do listy trzeci sygnał, na wypadek gdyby odczyt był niepewny.
 
@@ -60,7 +60,7 @@ Wpisałem Zerath i wspólny nadzór Rady. Urzędnik zapytał, czy przyniosę na 
 
 ## Dwa uderzenia
 
-Val Meris · pierwsze dni kwalifikacji w 12 ET
+Pierwsze dni kwalifikacji, 12 ET · Val Meris
 
 Sędzia sprawdził mocowanie cewki i dopuścił ją do próby. Przy modelu śluzy mnie przypadło przełożyć przewód za przegrodą. Thora miała trzymać dźwignię w połowie drogi. Gdy wtyk znajdzie się w gnieździe, mogła pociągnąć dźwignię do końca i wysłać sygnał na drugą stronę. Mieliśmy jedną szansę w każdym podejściu. Jeśli pociągnie przy odłączonym przewodzie, sygnał przepadnie. Trzecia osoba pilnowała czasu. Kiedy wskazówka opadnie do kreski, miała zawołać, a Thora puścić dźwignię.
 

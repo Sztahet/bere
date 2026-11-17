@@ -1,6 +1,8 @@
 # Wiele par oczu
 
-## Val Meris, 29 maja 12 ET
+## Świadkowie na dziedzińcu
+
+29 maja, 12 ET · Val Meris
 
 Przy wejściu na kwalifikacje powstał zator. Kandydaci ustawiali się w kolejce, a pozostali widzowie próbowali zobaczyć, kto już przeszedł przez bramę. Znałem tę przestrzeń z list i map. Nie znałem jej z takiej liczby ludzi, którzy patrzyli na jedno miejsce naraz.
 

@@ -2,7 +2,7 @@
 
 ## Dwa uderzenia
 
-Val Meris · pierwsze dni kwalifikacji w 12 ET
+Pierwsze dni kwalifikacji, 12 ET · Val Meris
 
 Przy modelu śluzy sędzia pokazał mi dwa położenia dźwigni. W połowie drogi miałam ją przytrzymać, aż Miko przełoży przewód za przegrodą. Pociągnięcie do oporu wysyłało sygnał. Jeżeli zrobię to przed podłączeniem przewodu, stracimy jedyną szansę w tym podejściu. Trzecia osoba miała zawołać, kiedy wskazówka dojdzie do kreski. Wtedy musiałam puścić dźwignię. Sędzia sprawdził mocowanie cewki na rękawicy Miko i dopuścił ją do zadania.
 
@@ -28,7 +28,7 @@ Sam przytrzymał mi deskę, żebym mogła zajrzeć pod spód.
 
 ## Ostatnia osoba
 
-Val Meris · od lipca, podczas właściwych Igrzysk
+Od lipca, 12 ET · Val Meris
 
 W jednym z meczów mieliśmy utrzymać przejście do chwili, gdy ludzie z ładunkiem znajdą się za zakrętem. Przed rozpoczęciem sprawdziłam, z którego miejsca będę ich widziała. Pod lewą ścianą odsłaniały się dwa kroki toru. Wystarczało, żebym zobaczyła ostatnie buty.
 
@@ -43,6 +43,8 @@ Od strony zakrętu nadeszła druga osłona. Jej właścicielka zawołała, że m
 Zeszłam z przejścia chodnikiem dla własnej drużyny. Za zakrętem wszyscy już byli. Ktoś przytrzymał mi rzemień, bo po tylu uderzeniach skręcił się przy klamrze.
 
 ## List z doliny
+
+Po zawodach, 12 ET · Val Meris
 
 Po zawodach dziewczyna przy wyjściu spytała mnie, czy planuję jeszcze występ, skoro tak długo ćwiczyłam. Miałam w kieszeni list z doliny. W rogu zostawiono miejsce na wiadomość o sadzonce. Dziewczynka dopisała, że drzewko puściło dwa liście i podlewa je po trochu.
 

@@ -2,7 +2,7 @@
 
 ## Pod ławą
 
-Korzenna Przystań, druga połowa marca 12 ET
+Druga połowa marca, 12 ET · Korzenna Przystań, Verdan
 
 Bob położył się pod ławą. Wystawały spod niej przednie łapy. Gdy starsza rozłożyła listę, starałam się przeczytać ją tak, jakbym sprawdzała spis nasion do wydania przed siewem. Imiona znałam wszystkie.
 
@@ -20,6 +20,8 @@ Thora już podpisała, Liora dopisała coś w swoim notesie, a Eron przesunął 
 
 ## Dwa worki
 
+Kilka dni po wyborze kandydatów, 12 ET · Korzenna Przystań, Verdan
+
 Ziemia w ogrodzie obeschła dopiero kilka dni później. Najmłodsza córka gospodarzy rozłożyła worki na stole, wyjęła garść z każdego i zapytała, czy nasiona naprawdę trzeba siać osobno. Pokazałam jej, że te z płóciennego worka potrzebują więcej miejsca. Chciała wiedzieć, skąd to wiem. Powiedziałam, że raz posiałam je za blisko i potem spędziłam pół dnia na rozplątywaniu roślin.
 
 Bob siedział przy furtce. Kiedy córka przyniosła wiadro, haczyk na uchwycie uderzył o kant stołu. Podniósł głowę. Jeszcze nie tak dawno na ten dźwięk uciekłby pod płot. Tym razem doczekał, aż postawiła wiadro, i zajął się bambusem.
@@ -32,13 +34,19 @@ Wzięła resztę nasion z mojej dłoni. Na wieczór zostawiła mi podlewanie.
 
 ## Droga Boba
 
+Wiosna, 12 ET · Korzenna Przystań, Verdan
+
 Do dalszej podróży zaczęliśmy się przyzwyczajać na rynku w Korzennej Przystani. Przed pierwszym wyjściem ułożyłam sobie trasę. Chciałam przejść między wozami, minąć warsztat i wrócić tą samą drogą. Zatrzymaliśmy się po drugiej stronie pierwszego wozu. Z warsztatu dobiegł huk młota. Bob schował się za moją nogą.
 
 Przeczekaliśmy chwilę. Drugi raz podszedł bliżej sam. Trzeci raz warsztat był zamknięty i pomyślałam, że obchód się zmarnował. Potem zobaczyłam, że Bob przy studni odpoczywa w samym środku targu. Ludzie przechodzili po obu stronach, a on patrzył, co wyjmują z koszy.
 
 Thora była już od dłuższego czasu w Val Meris. Posłaniec powiedział, że ćwiczy przy wieżach. Spytałam, jak wyglądają. Opowiedział mi o cegle i o łoskocie mechanizmu. Na następnym targu schowałam kawałek bambusa więcej. Zabrałam go pod warsztat. Poczekałam, aż Bob sam po niego podejdzie.
 
+Druga połowa maja, 12 ET · szlak z Verdan do Val Meris
+
 W drugiej połowie maja ruszyliśmy z przewoźnikami, których Bob znał z rynku. Najpierw szliśmy za ostatnim wozem. Drugiego dnia, gdy zatrzymano się na śniadanie, Bob wyszedł przed woźnicę i usiadł na drodze. Musiałam poprosić go, żeby zrobił przejazd.
+
+Druga połowa maja, 12 ET · plac przed areną, Val Meris
 
 W Val Meris najpierw poszliśmy zobaczyć plac przed areną. Przy bramie coś uderzyło o blachę. Bob przystanął. Odsunęłam się dwa kroki od wejścia i usiadłam pod murem. Kiedy podszedł, podałam mu bambus.
 

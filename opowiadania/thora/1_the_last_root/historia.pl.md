@@ -2,7 +2,7 @@
 
 ## Rowek pod kamieniem
 
-Korzenna Przystań · przed wyjazdem na Igrzyska
+Przed wyborem kandydatów w marcu, 12 ET · Korzenna Przystań, Verdan
 
 Przy trzecim kamieniu od mostu woda przestała płynąć rowem. Wsadziłam pod kamień dwa palce. Od spodu czułam korzeń grubszy od nadgarstka. Trzymał brzeg, kiedy podmyło kamienie ustawione przez ludzi. Rozgarnęłam muł dookoła niego i odczekałam, aż drobne liście przestaną się zbierać w miejscu.
 
@@ -15,6 +15,8 @@ Przeszłam z nią aż do zakrętu. Pokazałam jej linię, do której dociera wod
 Po południu przyszły chmury od strony pól. Z mostu widziałam jednocześnie krańce doliny. Deszcz nad górnym wałem zasłonił najpierw drogę, potem granicę sadu. Zawiesiłam tarczę przy wejściu na most. Za pierwszym uderzeniem dzwonu myślałam jeszcze, że ktoś ostrzega przed podnoszeniem śluzy. Za drugim zobaczyłam, że po tej stronie wału płyną już deski.
 
 ## Po mokrej stronie
+
+Przed wyborem kandydatów w marcu, 12 ET · Korzenna Przystań, Verdan
 
 Ludzie wybiegali z domów na drogę, którą woda mogła odciąć w dwóch miejscach. Zawołałam, żeby szli na most. Po drugiej stronie było wyżej. Ktoś zaczął liczyć ludzi przy wejściu. Poprosiłam, żeby przeszedł na drugi koniec i liczył tam.
 
@@ -29,6 +31,8 @@ Nie mogłam odwrócić głowy. Słyszałam dwie pary kroków i szuranie jednej p
 Kiedy dotarłam na brzeg, próbowałam odpiąć pasek tarczy. Przez chwilę nie wiedziałam, czemu klamra się nie porusza. Dziewczynka, którą widziałam na moście, przytrzymała ją z drugiej strony. Małe palce zmieściły się pod sprzączką.
 
 ## Miejsce na drzewko
+
+Kilka dni po powodzi, 12 ET · Korzenna Przystań, Verdan
 
 Brom wrócił ze mną do przeprawy, kiedy można już było zejść spod górnych domów. Z całego odcinka interesował go jeden kamień. Pokazał mi, że na nim leży teraz ciężar, który wcześniej rozkładał się na trzy. Ograniczyliśmy przejście i do rana ułożyliśmy podpory. Potem ludzie roznosili drewno, opatrunki i jedzenie do domów, które jeszcze stały.
 

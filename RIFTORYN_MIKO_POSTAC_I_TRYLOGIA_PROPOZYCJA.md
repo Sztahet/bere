@@ -32,7 +32,7 @@ Szybszy ruch nie podpowiada mu dobrej decyzji, nie usuwa przeszkód i nie daje n
 
 ## Oś czasu i punkty wspólne
 
-- **Część I:** studia w Aurelu, przed wydarzeniami części II. Dokładny rok i długość studiów pozostają otwarte; Miko i Adrien już się znają.
+- **Część I:** 5 PT, studia w Aurelu. To robocza data scen w pracowni, przed wojenną awarią sygnalizatora Adriena w 4 PT. Miko i Adrien już się znają. Długość ich studiów pozostaje otwarta.
 - **Część II:** schyłek zimy 11/12 ET w Zerath. Varek prowadzi brygadę przekaźników i sprawdza z Miko regulator. Przy granicznej stacji brakuje wyniku próby mocowania z Aurelu, więc ekipa przez zmianę podaje znaki ręcznie. Projekt regulatora służy ekipom, a przyspieszenie Miko pozostaje jego osobnym zastosowaniem.
 - **18 kwietnia 12 ET:** w „Wynalazku, którego nie przewidziałem” Miko pokazuje Adrienowi regulator czytelnego impulsu przy mniejszym zapasie energii. Przy jednym ustawieniu osiąga lepszy wynik, lecz mocowanie luzuje się w dłuższej próbie. Miko sam wyłącza zasilanie, czeka na opadnięcie wskaźnika i sprawdza śrubę. Rian później bada projekt. To ustalona scena, nie dowód, że urządzenie jest gotowe.
 - **4 maja 12 ET:** w „Znam kogoś, kto potrafi” Miko przywozi poprawiony regulator i pomaga przy próbach Leny. Proponuje zmianę kształtu sygnału, a po przypomnieniu Rian sprawdza swoje mocowanie. Przyrząd Leny nadal nie jest wtedy gotowy. Nie dopisujemy do tej sceny wydarzeń zmieniających jej przebieg.
@@ -40,7 +40,7 @@ Szybszy ruch nie podpowiada mu dobrej decyzji, nie usuwa przeszkód i nie daje n
 
 ## I. „To powinno zadziałać”
 
-**Miejsce i czas:** uniwersytet w Aurelu, lata studiów.
+**Miejsce i czas:** uniwersytet w Aurelu, 5 PT.
 **Oś:** przypadkowe odkrycie staje się pytaniem, które Miko chce umieć powtórzyć.
 
 1. Miko pracuje nad układem pozwalającym uzyskać czytelniejszy sygnał przy małym zapasie energii. W drodze na zajęcia próbuje jednocześnie dopiąć obudowę i nie spóźnić się na szermierkę. Poznajemy przyjacielską rywalizację z Adrienem przy zwykłej pracy, zanim pojawi się niezwykły efekt.

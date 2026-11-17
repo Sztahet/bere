@@ -2,8 +2,11 @@
   "title": "Słowo, którego nie wpisałem",
   "chapters": [
     {
-      "title": "Cienisty Port, 10 ET",
+      "title": "Odpis zeznania",
       "blocks": [
+        {
+          "text": "10 ET · archiwum Cienistego Portu"
+        },
         {
           "text": "Vaelis przyniosła mi odpis zeznania z kopalni. Zanim zdążyłem podpisać odpis, zatrzymała pióro nad jednym zdaniem."
         },

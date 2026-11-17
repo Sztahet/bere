@@ -1,6 +1,8 @@
 # Z tego, co ocalało
 
-## Iglica Zerath, 4 PT
+## Plan matki
+
+4 PT · Iglica Zerath
 
 Na planie matki rzeka była narysowana dwiema kreskami. Pomiędzy nimi ktoś drobnym pismem zapisał szerokość koryta. Przy bocznym kanale kreski rozchodziły się tak daleko, że zmieściłby się w nim cały ten dom.
 
@@ -48,7 +50,9 @@ Przed południem miałem odnieść matce rysunek. Kiedy wkładałem buty, przysz
 
 Pamiętam, że pomyślałem o misce. Gdybym ją wtedy umył, ojciec miałby z czego zjeść, kiedy wróci. Umyłem wszystkie trzy.
 
-## Iglica Zerath, po pogrzebie
+## Po pogrzebie
+
+Po pogrzebie Miry, 4 PT · Iglica Zerath
 
 W domu mieliśmy chleb od sąsiadów, zupę od sąsiadki i jajka od kogoś, kto położył je na stołku pod drzwiami. Ojciec powiedział, żebym wziął coś do jedzenia. Ukroiłem sobie kromkę i usiadłem. Przez chwilę czekałem, aż mama zawoła z drugiego pokoju, żebym jej też ukroił.
 
@@ -108,7 +112,9 @@ Posiedzieliśmy, aż zegar na stacji wybił zmianę. Przed wyjściem zostawiła 
 
 Zapisałem trzy pytania. Drugie przekreśliłem, bo brzmiało tak samo jak pierwsze. Trzecie było do ojca.
 
-## Iglica Zerath, kilka tygodni później
+## Drzazga przy krześle
+
+Kilka tygodni po pogrzebie Miry, 4 PT · Iglica Zerath
 
 Przy jej krześle została drzazga. Kiedy siedziała bokiem nad planem, zahaczała o nią rękawem. Ojciec nosił w kieszeni składany nóż. Raz nawet kucnął przy krześle, ale ktoś zapukał po niego ze stacji i wstał.
 
@@ -133,6 +139,8 @@ W progu odwróciłem się jeszcze raz. Czekałem, aż powie, żebym został. My�
 Tej nocy wsunąłem kartkę między dwie deseczki i związałem je sznurkiem. Do torby włożyłem chleb, koszulę i mapę szlaków. Wziąłem też nóż z jego kurtki. Drzazgę przy krześle ściąłem przed wyjściem. Nóż położyłem obok talerza.
 
 ## Droga do Aurelu
+
+4 PT · szlak z Zerath do Aurelu
 
 Za bramą próbowałem znaleźć rozwidlenie zaznaczone na mapie. W ciemności ledwo widziałem, gdzie kończy się droga. Zszedłem na pobocze i chciałem tam przeczekać do świtu. Wtedy od strony bramy nadjechały wozy. Ostatni zwolnił na wybojach, więc ruszyłem za jego latarnią. Po chwili woźnica się odwrócił.
 
@@ -166,7 +174,9 @@ Trzeciego dnia, kiedy dotarliśmy do rozwidlenia, woźnica zatrzymał wóz, żeb
 
 Dał mi kawałek sznurka do związania mapy. Przytrzymałem mu płachtę, kiedy dociągał węzeł. Potem wozy skręciły, a ja poszedłem prosto. Pod murami Aurelu usiadłem na kamieniu. Mogłem jeszcze wrócić do rozwidlenia i poczekać na kogoś, kto jechał do Zerath. Kiedy wstałem, poszedłem do bramy.
 
-## Aurel, 4 PT
+## Spotkanie z Orienem
+
+4 PT · Aurel
 
 W mieście zacząłem pytać o pracę. Pod murem obserwatorium zobaczyłem mężczyznę ze skrzynką szklanych płytek. Spytałem, czy potrzebuje kogoś do noszenia. Powiedział, że potrzebuje kogoś, kto przytrzyma drzwi. Skrzynkę wniósł sam, a potem zawołał mnie na zupę.
 
@@ -198,7 +208,9 @@ Orien ustawił lampę na ławie i przysunął mi stołek, żebym mógł oprzeć 
 
 Któregoś dnia na dole czekał list. Poznałem pismo ojca po pierwszej literze mojego imienia. Orien spytał, czy chcę go otworzyć sam. Poprosiłem, żeby oddał go woźnicy. Patrzyłem z okna, jak list znika w torbie. Wieczorem lampa wystarczyła mi na jedenaście stopni. Zszedłem i policzyłem je jeszcze raz.
 
-## Aurel, pierwsze próby
+## Pierwsze próby
+
+4 PT · Aurel
 
 Kiedy drugi raz stłukłem szybkę, wyniosłem lampę na stopnie, żeby Orien nie zobaczył jej w moich rękach. Dopiero na schodach zauważyłem, że jeden kawałek szkła wpadł między kryształ a ramkę. Podniosłem lampę i zajrzałem przez otwór. Gdy potrząsnąłem, odłamek zsunął się tuż przy palcu. Orien czekał na dole. Trzymał ściereczkę i dwa nowe szkiełka.
 
@@ -236,7 +248,9 @@ Po wymianie szybki ładowaliśmy lampę od początku. Orien polecił mi narysowa
 
 W rubryce na uwagi wpisałem, że bolał mnie nadgarstek. Chciałem to zetrzeć. Zostawiłem kartkę pod lampą, żeby rano jeszcze raz ją przeczytać.
 
-## Aurel, przy otwartym oknie
+## Przy otwartym oknie
+
+4–3 PT · Aurel
 
 Kiedy pokazałem Orienowi wyniki prób z lampą, opowiedział mi o Szkole Magów w Val Meris. Mógłbym się tam uczyć, jak ładować większe kryształy i zasilać nimi urządzenia. Chciałem spróbować się dostać.
 
@@ -280,7 +294,9 @@ Kiedy to powtórzyłem, głos mi przeskoczył. W ustach nagle czułem chleb, kt�
 
 Skreśliłem adres z Zerath i wpisałem numer przy schodach w Aurelu. Przez chwilę pomyślałem, że mógłbym też odpisać ojcu. Wiedziałem, gdzie wysłać list. Nie wiedziałem, co mu napisać. Złożyłem zgłoszenie i pomogłem wynieść stół. Kiedy Orien przesunął krzesło nogą w moją stronę, zająłem je od razu.
 
-## Aurel, dzień decyzji
+## Dzień decyzji
+
+4–3 PT · Aurel
 
 Orien pomógł mi przećwiczyć rozmowę ze szkołą. Kazał mi stanąć przy ławie tak, jakbym przyniósł lampę przed obcych ludzi. Pokazałem mocowanie i otworzyłem zeszyt na najładniejszym pomiarze. Na tamtej stronie światło utrzymało się równo przez prawie cały czas. Orien spytał, co zobaczyłby w wynikach, gdybym mu otworzył zeszyt o dwie strony wcześniej.
 
@@ -314,7 +330,9 @@ Przyniosłem puszkę. Pozwoliłem mu spojrzeć na stronę z trzema odczytami. Po
 
 Zapytałem, czy on by jechał. Powiedział, że w moim wieku pojechałby nawet bez zeszytu, a potem pewnie wracałby po niego z pierwszego postoju. Schowałem kartkę. Przed snem przepisałem wyniki z rozbitej lampy, razem z uwagą o nadgarstku. Pod spodem narysowałem uchwyt i dwie dłonie, które go trzymały. Jedna była większa od drugiej. Dopisałem, czyja.
 
-## Aurel, przed wyjazdem do Val Meris
+## Przed wyjazdem
+
+Przed rozpoczęciem nauki w szkole magów, 4–3 PT · Aurel
 
 Przygotowałem dla szkoły rysunek lampy i wyniki prób. Orien kazał mi dopisać wysokość schodów, bo człowiek w Val Meris może wyobrazić sobie całkiem inne. Jego córka obszyła mi torbę od środka i wsunęła w podszewkę blaszaną puszkę. Powiedziała, że podczas powrotu pozna mój krok po tym, jak będę brał ostatnie dwa stopnie naraz.
 

@@ -2,7 +2,7 @@
 
 ## I. Przekreślone
 
-Archiwum Cienistego Portu · 12 ET, przed 29 maja
+Przed 29 maja, 12 ET · archiwum Cienistego Portu
 
 Zapis Azmira: weryfikacja zgłoszenia do kwalifikacji Wielkich Igrzysk i relacje świadków z punktu zapisów.
 
@@ -35,6 +35,8 @@ Imię na liście widniało w naszych starych dokumentach od lat, choć żaden ni
 Miała rację. I właśnie dlatego pojechałem do punktu zapisów.
 
 ## II. Kolejka
+
+Przed 29 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris
 
 Urzędniczka nazywała się Talma. Miała przed sobą księgę, pojemnik z piaskiem do osuszania atramentu i filiżankę, na której dnie dawno zastygł napar. Kiedy poprosiłem o opis zgłoszenia Morraka, najpierw zapytała, czy jego wpis ma zostać unieważniony.
 
@@ -77,6 +79,8 @@ Nie byłem, choć jej odpowiedź pomogła. Vela zapamiętała natomiast, że cz�
 Zapytałem, czy laski nie mogła najpierw podnieść jedna osoba, a później druga. Obie rozmówczynie uznały, że tak. Ani jedna nie chciała jednak zmienić swojej odpowiedzi.
 
 ## III. Rubryka
+
+Przed 29 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris
 
 Talma opowiadała dalej, stukając palcem w pusty róg księgi.
 
@@ -150,6 +154,8 @@ Usiadła. Przez chwilę obracała pióro w palcach.
 
 ## IV. Co widziano
 
+Przed 29 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris
+
 Vela była przekonana, że kandydat nie chciał poprzeć Wolnych Krain.
 
 — Przecież zasłonił ich pole.
@@ -207,6 +213,8 @@ Wsunąłem notatki do teczki. Vaelis nie odeszła.
 Pamiętałem. Jej matkę też. A także córkę nadzorcy, która mówiła do mnie przez drzwi, jakby za jej plecami stał ktoś gotów odebrać jej ostatnie słowo o ojcu. Na liście kandydatów nie było dla żadnej z nich miejsca. Ich świadectwa nadal były częścią tej historii.
 
 ## V. Pusta rubryka
+
+Przed 29 maja, 12 ET · archiwum Cienistego Portu
 
 W rejestrze przepisałem dane tak, jak widniały w księdze zgłoszeń:
 

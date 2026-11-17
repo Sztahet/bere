@@ -26,6 +26,8 @@ Wziąłem księgę pod pachę i wyszedłem. Do zamknięcia zapisów miałem czas
 
 ## Kto pamięta ptaka
 
+27 maja, 12 ET · przed urzędem, Val Meris
+
 Na ławie przed urzędem siedział starszy człowiek ze znakiem Zerath na torbie. Trzymał między stopami pudełko narzędzi, a na dłoni miał ślad tak czerwony, jakby rzemień jeszcze do niej przylegał.
 
 — Daleko pan z tym jechał? — zapytałem.
@@ -53,6 +55,8 @@ Zapisałem wers i dopisałem pod nim, do czego na zjeździe służył popiół. 
 Imienia Tovin też sobie nie przypominał. Kiedy na placu pojawiła się jego córka, sięgnąłem po uchwyt pudełka. Bered obrócił je tak, żebym dostał cięższy koniec, i złapał za drugi. Żal mi było całej mowy, którą zdążyłem przygotować na wypadek, gdyby odmówił pomocy.
 
 ## Nazwa
+
+27 maja, 12 ET · urząd zapisów, Val Meris
 
 Stałem w kolejce za kobietą, której brakowało jednego dokumentu. Pytała urzędnika, czy zdąży wrócić nazajutrz po rozładunku. Przed południem czekały na nią wozy. Urzędnik wskazał godzinę zamknięcia na tablicy, a ona odstąpiła na bok, żeby mnie przepuścić. Wtedy zobaczyła ptaka na mojej piersi.
 
@@ -82,7 +86,7 @@ Urzędnik zawołał następną osobę. Cofnąłem się, jak przystało komuś, k
 
 ## Nagroda
 
-28 maja, 12 ET
+28 maja, 12 ET · plac zawodów, Val Meris
 
 Nazajutrz przed zapisami poszedłem na miejscowe zawody. Za dobre miejsce płacono, a ja miałem jeszcze dość pieniędzy na wpisowe. Zadanie wydawało mi się wdzięczne. Trójka wylosowanych zawodników miała przeciągnąć drewnianą skrzynię przez tor pod ostrzałem wieży ćwiczebnej. Sędziowie liczyli czas i ślady po pociskach. Zwykle dobrze wiedziano, jak się nazywam, dopiero gdy skończyłem takie zadanie. Tym razem mi to odpowiadało.
 
@@ -138,6 +142,8 @@ Thora podniosła tarczę. Chciała jeszcze popatrzeć, jak drużyny ćwiczą pod
 
 ## Zgłoszenie
 
+28 maja, 12 ET · urząd zapisów, Val Meris
+
 Przede mną stały jeszcze trzy osoby. Miałem dość czasu, żeby ułożyć powitanie, a kiedy przyszła moja kolej, urzędnik poprosił mnie po prostu, żebym wpisał imię. Przy następnej rubryce zapytał, po której stronie chcę wystąpić, jeśli przejdę kwalifikacje.
 
 — Po stronie wspólnego nadzoru Rady.
@@ -159,6 +165,8 @@ Podciągnąłem księgę pod łokciem. Płótno zsunęło się z jednego rogu. M
 Urzędnik wpisał je na listę, a przy przynależności postawił kreskę. Potem podał mi kartkę z terminem kwalifikacji. Dwudziesty dziewiąty maja. Następny kandydat podszedł do stołu. Zrobiłem mu miejsce. Zanim schowałem kartkę obok adresu Vedy, przesunąłem palcem po swoim imieniu. Urzędnik zapisał je czytelnie.
 
 ## Pokwitowanie
+
+28 maja, 12 ET · skład przy wschodniej bramie, Val Meris
 
 Pod wschodnią bramą poznałem wóz po łacie na plandece. Veda przyszyła ją nicią jaśniejszą od płótna. Jorek liczył puste skrzynie, a na burcie leżały karty przewozowe. Między nimi zobaczyłem druk z Urzędu Prób. Odruchowo wsunąłem rękę do kieszeni, żeby sprawdzić, czy mój jeszcze tam jest.
 
@@ -225,6 +233,8 @@ Zwinąłem kwit i plombę. Veda odłożyła je do przesyłek do Aurelu, a list d
 Podałem Jorkowi podkładkę z kartami. Wiedział, jak podłożyć ją pod ramię, żeby nic mu nie wyślizgnęło się w drodze do składu. Poczekałem, aż zabierze ołówek.
 
 ## Przysięga
+
+28 maja, 12 ET · Val Meris, wieczór
 
 Wieczorem położyłem przy świecy kartkę z terminem kwalifikacji i otworzyłem księgę. Przysięgę przeczytałem pierwszy raz na głos po śmierci ojca, stojąc przy naszym kuchennym stole. Na ostatniej stronie brakowało kawałka papieru. Kiedy ojciec żył, przy tej linijce zawsze prosiłem, żeby wstawił jakieś słowo. Tamtego wieczoru przeczytałem do miejsca, w którym urywał się papier. Postałem jeszcze chwilę z palcem przy brzegu strony. Sądziłem, że po tylu latach sam będę wiedział, jak przeczytać przerwę.
 

@@ -1,6 +1,8 @@
 # To, co pozostało
 
-## Iglica Zerath, 4 PT
+## Po pogrzebie
+
+Po pogrzebie Miry, 4 PT · Iglica Zerath
 
 Po pogrzebie sąsiadka przyniosła nam garnek zupy. Lucen postawił na stole dwie miski. Trzecią znalazłem wieczorem na suszarce, odwróconą do góry dnem. Przywykłem, że Mira zostawia na stole plan albo zapasowy klucz. Tamtego wieczoru przesunąłem ręką po całym blacie. Był równy, czysty i pusty.
 
@@ -70,7 +72,9 @@ Z tego odcinka widać schody, na których rozstałem się z Mirą. Chciała zatr
 
 Od pogrzebu umiem już rozpoznać, kiedy w domu zgasła lampa w pokoju Lucena. Światło spod jego drzwi sięga dokładnie do trzeciej deski. Wracam, gdy na trzeciej desce jest już ciemno.
 
-## Iglica Zerath, przy stole z planami
+## Przy stole z planami
+
+Kilka dni przed ucieczką Lucena, 4 PT · Iglica Zerath
 
 Kilka dni przed ucieczką Lucena przyniosłem do domu skrzynkę narzędzi Miry. Przejrzałem ją w obecności człowieka ze stacji. Zabrałem to, czego była właścicielką, oraz dwa zużyte klucze, o których własności obaj zdążyliśmy zapomnieć. Lucen wyszedł z pokoju, kiedy usłyszał zatrzask. Podszedł do skrzynki i spytał, czy jest w niej pudełko po stalówkach. Otworzyliśmy jaśniejszą przegródkę. Stalówki leżały w niej obok krótkiej linijki. Jedna ułamała się u nasady. Chciałem ją wyrzucić, ale Lucen powiedział, że od dawna była tak samo krótka i matka używała jej do poprawek.
 
@@ -90,7 +94,9 @@ Miałem jeszcze w kieszeni odpis godzin. Poczułem papier pod dłonią. Chciałe
 
 Wieczorem zmierzyłem odcinek na planie krótką linijką, którą zostawił pod skrzynką. Od furtki do schodów naliczyłem tyle samo co on. W kieszeni wyczułem ułamaną stalówkę. Nie pamiętam, kiedy ją tam włożyłem. Następnego ranka zostawiłem mu ją obok śniadania.
 
-## Iglica Zerath, kilka tygodni później
+## Puste łóżko
+
+Kilka tygodni po pogrzebie Miry, 4 PT · Iglica Zerath
 
 Wróciłem z roboty i usiadłem do kolacji. Lucen rozłożył obok talerza kartkę Miry. Spytał, czy powiedziała mi o odczytach. Powiedziałem, że chciała zamknąć odcinek. Wtedy spytał, czemu wyszedłem.
 
@@ -100,7 +106,9 @@ Zatrzymał się w drzwiach. Nad czołem miał biały kosmyk, który starał się
 
 Przez pierwsze dni chodziłem pod bramę i pytałem woźniców. Każdemu mówiłem o torbie i kurtce. O kosmyku przypomniałem sobie dopiero wtedy, kiedy strażnik zapytał, po czym poznać Lucena z daleka.
 
-## Iglica Zerath, przy bramie
+## Przy bramie
+
+Po ucieczce Lucena, 4 PT · brama Iglicy Zerath
 
 Z posterunku spisano wozy, które mogły wtedy wyjechać. Nie każdy wpis podawał nazwę podróżnego. Od strażnika dostałem trzy nazwy miejsc i dwie wiadomości o chłopcach, których ktoś widział pod zachodnim murem. Jeden chłopiec miał czapkę z czerwoną lamówką. Lucen takiej nie miał. A jednak poszedłem zapytać o niego do składu, zanim ruszyłem w drugą stronę. Chciałem mieć pewność, że nie kupił czapki, kiedy zrobiło mu się zimno.
 
@@ -126,7 +134,9 @@ Sąsiadka zastała mnie wieczorem z torbą na stole. Chciałem jechać, jak tylk
 
 Następnego dnia posłałem przez bramę dwa zapytania. Poszedłem też do ludzi ze zmiany i powiedziałem, dokąd idę, żeby tym razem za dostarczenie wiadomości odpowiadała jedna osoba. Kiedy wróciłem, sąsiadka czekała na schodach. Zostawiła mi klucz, który wyjąłem odruchowo z kieszeni razem z rejestrem. Zapytała, czy Lucen miał swój. Miał. Od tamtej pory zamykałem drzwi zawsze tak, żeby dało się je otworzyć z zewnątrz.
 
-## Iglica Zerath, po wiadomości z Aurelu
+## Wiadomość z Aurelu
+
+4 PT · Iglica Zerath
 
 Woźnica przywiózł kartkę z Aurelu. Podpisała się Aria, córka Oriena, u którego Lucen zamieszkał. Lucen ma gdzie spać. Je codziennie. Na dole kartki podała adres domu przy obserwatorium. Przeczytałem tę część tyle razy, że mógłbym bez patrzenia zaprowadzić kogoś pod jego drzwi.
 
@@ -150,7 +160,9 @@ Przez chwilę szukaliśmy miejsca na koperty pod półką, żeby pies ich nie za
 
 Po tygodniu wysłałem jeszcze jedną kartkę. Napisałem pod adresem tylko, że jeśli czegoś potrzebuje, może powiedzieć o tym człowiekowi z wozu. U góry długo zostawiałem wolne miejsce. Byłem pewien, że powinienem tam zmieścić coś, czego dotąd nie powiedziałem. W końcu dopisałem, że kurtka poczeka w domu. Po powrocie z bramy przywiesiłem ją przy swoich roboczych rzeczach, pod koszulą, w której Lucen mógłby ją poznać z drugiego końca kuchni.
 
-## Iglica Zerath, pierwszy spokojniejszy obchód
+## Pierwszy spokojniejszy obchód
+
+4 PT · stacja w Iglicy Zerath
 
 Przy dolnym odcinku stacji przestawiliśmy straż i znów można było wejść pod schody. Poszedłem tam po zmianie. Widziałem pracownika, który szorował ostatnie błoto z podestu. Zapytał, czy chciałbym zajrzeć do dawnej szafki Miry. Wpuścił mnie do środka. Na wewnętrznej stronie drzwiczek zostały dwie kartki i puste miejsce po rękawiczkach. Chciałem zabrać wszystko. Pracownik wskazał kartkę u góry. To była rozpiska o tym, do kogo dzwonić przy odcięciu pomp. Wymienił na niej własne imię, bo przejął już część obchodu.
 

@@ -2,6 +2,8 @@
 
 ## I. Część zamienna
 
+Przed oblężeniem Val Meris, do 3 PT · warsztat
+
 Najłatwiej sprzedać naprawę człowiekowi, który już wie, ile kosztuje go przestój.
 
 Kiedyś przyjmowałam zepsute pompy i nagrzewnice. Ludzie przynosili je pod drzwi, a ja przez pół dnia szukałam części, której nikt nie zamówił na czas. Płacili, jeśli mieli czym. Czasem odbierali urządzenie i obiecywali wrócić z pieniędzmi. Nie wszyscy wracali.
@@ -21,6 +23,8 @@ Pamiętam to zlecenie, bo wróciłam tam później jako osoba wezwana do naprawy
 Byłam zadowolona z obu wypłat. Z tego, że nikt mnie nie złapał, jeszcze bardziej.
 
 ## II. Brama
+
+Podczas oblężenia, 3 PT · brama Val Meris
 
 Zlecenie przy Val Meris dotyczyło obrony jednej z bram. Nie całego miasta. Pośrednik rozłożył szkic i przycisnął jego róg sakiewką, jakby obawiał się, że papier ucieknie, zanim podam cenę.
 
@@ -53,6 +57,8 @@ Przyrząd nie sterował wieżą za mnie. Musiałam pilnować czasu i odległośc
 Kiedy skończyłam, schowałam narzędzia w tej samej kolejności, w jakiej je wyjęłam. Po latach nadal pamiętam, że śrubokręt leżał z lewej, choć nie potrafię powiedzieć, kto mieszkał w pierwszym domu za bramą.
 
 ## III. Zapłata
+
+Po ataku na bramę, 3 PT · miejsce spotkania z pośrednikiem, poza Val Meris
 
 O wykonaniu zlecenia dowiedziałam się daleko od Val Meris. Pośrednik przyniósł wiadomość i pieniądze. Powiedział, że luka wystarczyła. Liczył monety powoli, po jednej, sprawdzając, czy patrzę.
 

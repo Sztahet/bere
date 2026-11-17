@@ -1,6 +1,8 @@
 # Nauka kontroli
 
-## Val Meris, pierwszy rok, 3 PT
+## Pierwszy rok
+
+Pierwszy rok nauki, 3 PT · szkoła magów w Val Meris
 
 W szkole dają nam po dwie kalki na rysunek. Jedną bierze prowadząca, drugą można zatrzymać. Swoje podkładam pod blaszaną puszkę na parapecie, żeby nie stukała, kiedy na ulicy przejeżdża wóz.
 
@@ -14,7 +16,9 @@ Miałem w niej wpisane „sprawne”.
 
 Wieczorem wysłałem do Aurelu list z prośbą o grubszą koszulę. Dopiero następnego dnia napisałem drugi. Opisałem, skąd wziąłem papier pod uchwyt. Pierwszą odpowiedź dostałem w sobotę. Orien spytał, ile arkusz wytrzymał. O koszuli dowiedziałem się od jego córki. Miała mi ją przywieźć na kolejną przerwę.
 
-## Val Meris, druga próba
+## Druga próba
+
+Pierwszy rok nauki, 3 PT · szkoła magów w Val Meris
 
 Uczennica, która ładowała przede mną, nazywa się Pyrra. Przyjechała z Vareth i zaczęła pierwszy rok razem ze mną. Po zajęciach znalazłem ją przy szafie z wyposażeniem. Przepisywała numery stanowisk na odwrocie swojego arkusza. Postawiłem obok pudełko z odłamkami. Chciałem, żeby było widać, że wszystko pozbierałem.
 
@@ -52,7 +56,9 @@ Prowadząca pozwoliła nam zdemontować mocowanie. Pyrra zapisała, przy jakim n
 
 Na samym dole poprawionego arkusza mieliśmy miejsce na dwa imiona. Podpisałem się dopiero na drugi dzień. Na osobnej kartce Pyrra opisała, gdzie siedziała, kiedy poszło szkło. Dorysowałem stołek do planu stanowiska. Wypadł na wprost pękniętej szybki. Zaproponowałem, żeby następny raz ustawić go przy ścianie. Pyrra powiedziała, że woli widzieć lampę podczas próby. Zgodziliśmy się postawić pomiędzy nią a stołem ekran z siatki. Zza siatki odczyt widać było wystarczająco dobrze. Zostawiliśmy ekran dla następnej pary.
 
-## Val Meris, po otwarciu archiwum, 0 ET
+## Otwarcie archiwum
+
+Po otwarciu publicznego archiwum, 0 ET · Val Meris
 
 Przy wejściu do publicznego archiwum dostałem małą kartę z własnym imieniem. Z drugiej strony podano godziny zamknięcia. Przeczytałem je trzy razy, bo bałem się, że do dokumentów z Zerath dopuszczają tylko na określoną porę. Można było przyjść każdego dnia. Zeszyt i ołówek wolno było wnieść na salę. Kartkę matki trzymałem złożoną w kieszeni.
 
@@ -78,7 +84,9 @@ Wyszedłem z sali z kobietą, która szukała brata. Pytała po drodze, czy łat
 
 Następnego dnia odniosłem pierwszy raport i zacząłem czytać instrukcję do własnego zadania bez ołówka w ręku. Datę z arkusza matki przepisałem osobno. Zostawiłem przy niej miejsce na nazwę odcinka. Pole zostało puste do wieczora.
 
-## Val Meris, pracownia za drugim dziedzińcem
+## Pracownia za drugim dziedzińcem
+
+0–3 ET · pracownia za drugim dziedzińcem, Val Meris
 
 Na starszych latach dostaliśmy do prób dłuższą linię. Plan pokazywał, że dwie lampy na końcu mają mieć podobną jasność. Zet z Iglicy Zerath, dwa lata ode mnie młodszy, był ze mną na roku od początku. Obliczył straty na przewodzie i rozłożył zeszyt tak, żebyśmy podpisali się pod wynikiem. Chciał skończyć przed zmrokiem, bo miał po zajęciach roznosić po mieście wiadomości dla szkoły. Nie podpisałem. Przy jednej z lamp wtyk brzęczał, gdy się go dotknęło. Powiedziałem, że chciałbym przerwać obwód i obejrzeć styk.
 
@@ -102,7 +110,9 @@ Myślałem, że chce uruchomić lampę i wyjść. Powiedział, że za roznoszeni
 
 Przy nowym przewodzie światło było równe, ale wynik wyszedł niższy, niż obaj przewidywaliśmy. Tym razem to Zet poprosił, żebym sprawdził, czy przewód ma długość podaną w pomiarze. Był dłuższy o szerokość dłoni. Wyprostowaliśmy go, żeby dokładnie zapisać różnicę. Wyszliśmy razem. Na dziedzińcu pociągnął mnie za rękaw i spytał, czy przez bramę od strony ogrodów da się dziś skrócić drogę do składu. Pokazałem mu wóz, który wciąż blokował tam przejazd. Przez chwilę rozważał, czy się przeciśnie. Ostatecznie pobiegł przez drugą bramę, a ja wróciłem na poddasze.
 
-## Val Meris, przesyłka z Aurelu
+## Przesyłka z Aurelu
+
+0–3 ET · Val Meris
 
 W paczce z zimowymi rzeczami znalazłem kopertę z Zerath. Pod moim imieniem ojciec napisał adres domu przy obserwatorium. Aria dołączyła kartkę. „Przyszedł jeszcze pierwszej zimy. Chowałam go w szufladzie. Powinnam była dać ci go od razu”.
 
@@ -128,7 +138,9 @@ Podałem mu ją. Chciałem cofnąć to, co powiedziałem przed chwilą. Zdąży�
 
 Kartkę wsunąłem do puszki pod odczyty matki. Odpowiedzi zacząłem szukać na czystym arkuszu. Napisałem datę i wytarłem pióro.
 
-## Val Meris, 3 ET
+## Pokaz dla pierwszorocznych
+
+3 ET · szkoła magów w Val Meris
 
 Na szóstym roku prowadząca powierzyła mi pokaz dla pierwszorocznych. Ustaliliśmy, że sam pokażę im trzy ładowania, a ona będzie przy stole, gdy spróbują po raz pierwszy. Przyniosłem lampę z Aurelu. Najlepiej wiem, ile czekać po odjęciu od niej dłoni. Na tej lampie uczyłem się dostrzegać, kiedy wskazówka jeszcze się porusza, choć chciałbym już zapisać wynik.
 
@@ -138,7 +150,9 @@ Przy trzeciej próbie zapytałem, czy możemy dopuścić urządzenie do pracy. W
 
 Przysunąłem Saili taboret i pokazałem, co mierzy się przy włączonej lampie. Postawiliśmy lampę na parapecie i wróciliśmy do niej pod koniec zajęć. Zdążyła zgasnąć. W rubryce na czas działania wpisałem „poniżej godziny”. Saila dopisała obok, że kolejną próbę trzeba obserwować do końca. Miała rację.
 
-## Val Meris, przed egzaminem
+## Przed egzaminem
+
+3 ET · szkoła magów w Val Meris
 
 Saila wróciła nazajutrz. Chciała powtórzyć próbę w zimnym pomieszczeniu. W domu, jak mówiła, trudno utrzymać sprzęt w cieple dokładnie wtedy, kiedy jest najbardziej potrzebny. Pokazałem jej rysunek mojej lampy. Zaznaczyła palcem, gdzie można podsunąć schłodzoną blachę, i spytała, czy następnym razem któreś z nas zostanie, aż światło zgaśnie. Dopisałem to pod wynikiem.
 
@@ -148,7 +162,9 @@ Wieczorem poszedłem po Zeta. Wyciął w osłonie szczelinę, przez którą na p
 
 Zostaliśmy do zamknięcia sali. Ustaliliśmy, że ja obsłużę przełączenie, a on będzie sprawdzał, czy obie lampy świecą do końca.
 
-## Val Meris, egzamin końcowy
+## Egzamin końcowy
+
+3 ET · szkoła magów w Val Meris
 
 Na końcowym sprawdzianie z pracy przy instalacjach mieliśmy przez kilka minut zasilać dwie lampy z jednego kryształu. Zet przygotował osłonę do tej większej. Wyciął nawet szczelinę, przez którą światło miało paść prosto na zegar po drugiej stronie sali.
 
