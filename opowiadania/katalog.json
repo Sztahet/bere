@@ -376,5 +376,32 @@
         "draft": true
       }
     ]
+  },
+  {
+    "id": "nera",
+    "name": "Nera",
+    "region": "Zerath",
+    "portrait": "nera-lightning-support.png",
+    "series": "Własne miejsce",
+    "stories": [
+      {
+        "id": "wolne-rece",
+        "folder": "opowiadania/nera/1_a_pair_of_hands",
+        "unity": "NeraDraft1",
+        "draft": true
+      },
+      {
+        "id": "po-drugiej-stronie",
+        "folder": "opowiadania/nera/2_the_other_end",
+        "unity": "NeraDraft2",
+        "draft": true
+      },
+      {
+        "id": "miejsce-na-nauke",
+        "folder": "opowiadania/nera/3_room_to_learn",
+        "unity": "NeraDraft3",
+        "draft": true
+      }
+    ]
   }
 ]

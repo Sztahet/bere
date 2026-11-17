@@ -90,7 +90,7 @@ public partial class RiftorynMenu : MonoBehaviour {
             default: return RiftorynCodexData.Text("HISTORIA  →","THEIR HISTORY  →");
         }
     }
-    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="morrak";
+    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="morrak"||id=="nera";
     bool HasExtraStories(string id)=>id=="rian"||id=="lucen"||id=="taren";
     void DrawExtraStories(CodexHero hero)
     {
@@ -112,6 +112,7 @@ public partial class RiftorynMenu : MonoBehaviour {
         string prefix; string[] titles;
         switch(hero.id)
         {
+            case "nera": prefix="Nera"; titles=new[]{"WOLNE RĘCE", "PO DRUGIEJ STRONIE", "MIEJSCE NA NAUKĘ"}; break;
             case "nocten": prefix="Nocten"; titles=new[]{"DROGA, KTÓREJ NIE BYŁO", "TYM RAZEM NIE WIERZ NOCTENOWI", "PIERWSZA LEKCJA"}; break;
             case "piecarius": prefix="Piecarius"; titles=new[]{"KSIĘGA BEZ AUTORA", "ŚLADY W POPIELE", "PRZYSIĘGA Z KSIĘGI OJCA"}; break;
             case "morrak": prefix="Morrak"; titles=new[]{"IMIĘ, KTÓREGO NIE WYPOWIEDZIAŁ", "ŚWIADKOWIE MILCZENIA", "IMIĘ NA LIŚCIE"}; break;
@@ -379,7 +380,7 @@ public partial class RiftorynMenu : MonoBehaviour {
     }
     void DetailWithRoleIcon(ref float y,string label,string description){Text(new Rect(36,y,344,38),label,detailLabel);y+=38;var text=description??"";float height=Mathf.Max(55,mutedText.CalcHeight(new GUIContent(text),375));Text(new Rect(0,y,375,height),text,mutedText);y+=height+12;}
     bool HasBiography(CodexHero hero)=>hero.bio!=null&&!string.IsNullOrEmpty(hero.bio.story);
-    bool IsPlayable(string id)=>id=="kael"||id=="rian"||id=="zet"||id=="koneva"||id=="saila"||id=="pyrra";
+    bool IsPlayable(string id)=>id=="kael"||id=="rian"||id=="zet"||id=="koneva"||id=="saila"||id=="pyrra"||id=="nera";
     bool TimelineEntryAt(int index,out CodexTimelineEra era,out CodexTimelineEvent entry)
     {
         foreach(var group in timelineEras)if(group?.events!=null)foreach(var item in group.events){if(index--==0){era=group;entry=item;return true;}}
