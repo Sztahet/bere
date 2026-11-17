@@ -403,5 +403,32 @@
         "draft": true
       }
     ]
+  },
+  {
+    "id": "veda",
+    "name": "Veda",
+    "region": "Kharum",
+    "portrait": "veda-earth-support.png",
+    "series": "Drogi Vedy",
+    "stories": [
+      {
+        "id": "to-co-zostaje-po-drodze",
+        "folder": "opowiadania/veda/1_what_the_road_keeps",
+        "unity": "VedaDraft1",
+        "draft": true
+      },
+      {
+        "id": "woz-i-troje-ludzi",
+        "folder": "opowiadania/veda/2_a_cart_and_three_people",
+        "unity": "VedaDraft2",
+        "draft": true
+      },
+      {
+        "id": "droga-powrotna",
+        "folder": "opowiadania/veda/3_a_place_for_the_return",
+        "unity": "VedaDraft3",
+        "draft": true
+      }
+    ]
   }
 ]

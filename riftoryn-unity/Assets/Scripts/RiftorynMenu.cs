@@ -90,7 +90,7 @@ public partial class RiftorynMenu : MonoBehaviour {
             default: return RiftorynCodexData.Text("HISTORIA  →","THEIR HISTORY  →");
         }
     }
-    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="morrak"||id=="nera";
+    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="morrak"||id=="nera"||id=="veda";
     bool HasExtraStories(string id)=>id=="rian"||id=="lucen"||id=="taren";
     void DrawExtraStories(CodexHero hero)
     {
@@ -112,6 +112,7 @@ public partial class RiftorynMenu : MonoBehaviour {
         string prefix; string[] titles;
         switch(hero.id)
         {
+            case "veda": prefix="Veda"; titles=new[]{"TO, CO ZOSTAJE PO DRODZE", "WÓZ I TROJE LUDZI", "DROGA POWROTNA"}; break;
             case "nera": prefix="Nera"; titles=new[]{"WOLNE RĘCE", "PO DRUGIEJ STRONIE", "MIEJSCE NA NAUKĘ"}; break;
             case "nocten": prefix="Nocten"; titles=new[]{"DROGA, KTÓREJ NIE BYŁO", "TYM RAZEM NIE WIERZ NOCTENOWI", "PIERWSZA LEKCJA"}; break;
             case "piecarius": prefix="Piecarius"; titles=new[]{"KSIĘGA BEZ AUTORA", "ŚLADY W POPIELE", "PRZYSIĘGA Z KSIĘGI OJCA"}; break;

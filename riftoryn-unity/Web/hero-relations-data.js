@@ -31,6 +31,8 @@ const RIFTORYN_RELACJE = [
     ["niva","elira","Siostry","family","Po rozłące odnajdują się dzięki zapisom i świadectwu; później wspólnie pomagają podczas powodzi.","RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md"],
     ["liora","elira","Bliźniaczki","family","Rozdzielone w dzieciństwie bliźniaczki po latach uczą się na nowo swojej bliskości.","RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md"],
     ["azmir","vaelis","Mistrz i uczennica","work","Vaelis uczy się od Azmira pracy archiwistki i magii Ciemności, a zarazem poprawia jego błędy. Materiał do oceny.","RIFTORYN_AZMIR_POSTAC_I_TRYLOGIA_PROPOZYCJA.md"],
+    ["veda","lumen","Zaginiony ładunek · szkic","work","Lumen pomaga Vedzie odnaleźć dokumenty przesyłki w Aurelu; Veda poleca ją później Piecariusowi.","opowiadania/veda/1_what_the_road_keeps/historia.pl.md"],
+    ["veda","taren","Spotkanie przy składzie · szkic","contact","Rozmawiają w Val Meris o przewoźniku i dostawie części do Zerath.","opowiadania/veda/3_a_place_for_the_return/historia.pl.md"],
     ["veda","piecarius","Zlecenie · szkic","work","Veda wynajmuje Piecariusa do ochrony wozu z częściami do pompy. Po wspólnej przeprawie spotykają się ponownie w Val Meris i prostują wpis na karcie przewozowej.","opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md"],
     ["piecarius","lumen","Spotkanie · szkic","work","Lumen przygotowuje odpis ze spisu i kieruje Piecariusa do swojej matki, Demy.","opowiadania/piecarius/2_traces_in_the_ashes/historia.pl.md"],
     ["piecarius","elira","Spotkanie · szkic","work","Elira pomaga Orienowi przy latarni, gdy Piecarius pyta o znak Feniksa.","opowiadania/piecarius/2_traces_in_the_ashes/historia.pl.md"],
