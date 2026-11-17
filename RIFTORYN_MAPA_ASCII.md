@@ -98,7 +98,7 @@ Numery R01–R10 odnoszą się do korytarzy na mapie kontynentu. Kolejne numery 
 - **R07 — południowo-zachodni korytarz** · Kamienny Próg (K01) ↔ okolice Val Meris. Osobno potwierdzony jest przewóz ładunku Vedy z Kharum do składu pod wschodnią bramą Val Meris. [Mapa świata][mapa] · [Księga bez autora][piecarius1] · [Przysięga z księgi ojca][piecarius3]
 - **R08 — zachodnie odgałęzienie na północ** · Aurel → północny szlak → schronienie, przy którym Piecarius spotyka Ruvana (N08) → dolna droga pod przełęczą. Piecarius wyrusza z Aurelu 23 kwietnia 12 ET. [Ślady w popiele][piecarius2]
 - **R09 — wschodnie odgałęzienie między korytarzami** · drogi na wschód od jeziora. W atlasie odcinek orientacyjny z ilustracji, bez ustalonej nazwy i etapów przejazdu między Vareth a Zerath. [Mapa świata][mapa]
-- **R10 — połączenie Kharum z Aurelem** · położenie łącznika jest orientacyjne. Wędrówka Piecariusa jest potwierdzona w opowiadaniach. Jest w Kharum 8 kwietnia i w Aurelu 22 kwietnia 12 ET. [Księga bez autora][piecarius1] · [Ślady w popiele][piecarius2]
+- **R10 — połączenie Kharum z Aurelem** · położenie łącznika jest orientacyjne. Wędrówka Piecariusa jest potwierdzona w opowiadaniach. Jest w Kharum 8 kwietnia i w Aurelu 22 kwietnia 12 ET. [Księga bez autora][piecarius1] · [Ślady w popiele][piecarius2] · [To, co zostaje po drodze][veda1]
 - **R11 — górska droga do schroniska przy zakręcie** · osada Saily (N02) → N04. Ponad dwie godziny szybkiego marszu. Przy schronisku rozchodzą się krótsze przejście między skałami i dłuższe obejście wzniesień, które zajmuje prawie pół dnia więcej. [Ciężar kryształu][saila1]
 - **R12 — dolna droga w Nivoren** · dolny posterunek (N05) i dojazd wozów z doliny do osady. Ruvan porównuje warianty dostaw. Po pierwszej odwilży tą drogą wracają leki i zapasy. [To, czego nie nauczył mnie Ruvan][saila3]
 - **R13 — dolna droga pod przełęczą** · zejście wskazane przez Ruvana → magazyn Tovina i okolica → gospoda (N09) → dolny trakt. Na tym trakcie Piecarius dołącza do transportu części na areny. Nocten także odwiedza gospodę 19 maja 12 ET. Tożsamość tej drogi z R12 pozostaje otwarta. [Ślady w popiele][piecarius2] · [Pierwsza lekcja][nocten3]
@@ -209,6 +209,7 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 
 - **A01 [K/G]** — Latarnia Aurelu, zachodni ośrodek z GDD. Rękopisy często mówią po prostu o Aurelu. Atlas przypisuje punkty z tych scen do zachodniego obszaru bez nanoszenia planu miasta. **Plac Siedmiu Świateł [G]** to proponowany ośrodek Prób. [Aurel w historii świata][aurel] · [GDD][gdd]
 - **A02 [O]** — uniwersytet, pracownia Adriena, stanowiska Leny i Miko, warsztaty i hala prób. **A03 [O]** — obserwatorium, dom przy schodach i latarnia Oriena. **A04 [O]** — miejsce odpisów u Lumen i piekarnia Demy. [Pierwszy impuls Miko][miko1] · [Z tego, co ocalało][lucen1] · [Ślady w popiele][piecarius2] · [Znam kogoś, kto potrafi][lena3]
+- **A08 [O]** — w szkicu: skład przyjmujący złączki przewożone przez Vedę oraz stajnia, z której korzysta podczas wizyty w Aurelu; dokładne położenie względem innych punktów pozostaje otwarte. [To, co zostaje po drodze][veda1]
 - **A05 [O]** — brama Aurelu i rozwidlenie prowadzące do składu na trasie Lucena. **A06 [O]** — zachodnie punkty oznakowania, bród, kładka powyżej brodu i pobliskie gospodarstwo na szlaku Lucena. **A07 [O]** — prowizoryczne stanowisko sygnalizatora i rozwidlenie na zboczu, przy którym ginie przewodnik w 4 PT. [Z tego, co ocalało][lucen1] · [Nie przeciwko tobie][lucen3] · [Światło, które wskazało drogę][adrien1]
 
 ### Val Meris — neutralny węzeł
@@ -289,3 +290,5 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 [vaelis1]: opowiadania/vaelis/1_the_sealed_copy/historia.pl.md
 
 [varek1]: opowiadania/varek/1_the_second_signal/historia.pl.md
+
+[veda1]: opowiadania/veda/1_what_the_road_keeps/historia.pl.md
