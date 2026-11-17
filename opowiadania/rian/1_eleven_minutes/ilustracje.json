@@ -1,1 +1,10 @@
-{}
+{
+  "01": {
+    "alt": "Rian przy otwartym mechanizmie obrony bramy Val Meris; obok leżą narzędzia i szkic.",
+    "altEn": "Rian beside the open defense mechanism at a Val Meris gate, with tools and a sketch nearby."
+  },
+  "02": {
+    "alt": "Rian zamyka panel mechanizmu obrony przy bramie Val Meris.",
+    "altEn": "Rian closes the defense mechanism panel near a Val Meris gate."
+  }
+}

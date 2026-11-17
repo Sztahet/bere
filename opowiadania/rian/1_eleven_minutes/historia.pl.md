@@ -52,9 +52,13 @@ Wiedziałam, że mieszkańcy mogą nie usłyszeć sygnału. Sądziłam, że alar
 
 Pracowałam przy odłączonym odcinku. Z torby wyjęłam mój mały przyrząd grzewczy: obudowę z wąską końcówką i kryształem dostrojonym do Ognia. Nie umiem przywołać żaru własną mocą, więc wcześniej zadbałam o naładowanie kryształu. Przesłoną skierowałam ciepło na zapieczone mocowanie, aż metal puścił na tyle, by zdjąć część bez używania siły.
 
+<!-- ilustracja: 01 -->
+
 Przyrząd nie sterował wieżą za mnie. Musiałam pilnować czasu i odległości, żeby nie rozgrzać sąsiedniego styku. Gdybym zbyt długo trzymała otwartą przesłonę, wyczerpałabym zapas albo zostawiła ślad, którego szukano by po pierwszym przeglądzie. Zamknęłam ją i poczekałam, aż końcówka ostygnie, zanim schowałam narzędzie.
 
 Kiedy skończyłam, schowałam narzędzia w tej samej kolejności, w jakiej je wyjęłam. Po latach nadal pamiętam, że śrubokręt leżał z lewej, choć nie potrafię powiedzieć, kto mieszkał w pierwszym domu za bramą.
+
+<!-- ilustracja: 02 -->
 
 ## III. Zapłata
 
