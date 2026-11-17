@@ -28,7 +28,7 @@ Chciałam odpowiedzieć, że w tym ćwiczeniu interesował nas mechanizm. Potem 
 
 Kiedy uczniowie wyszli, obejrzałam nowy rysunek. Był lepszy od mojego. Ucieszyłam się. Potem odruchowo zaczęłam liczyć, ilu kolejnych ludzi musiałabym nauczyć, żeby zasłużyć na tę radość.
 
-Nie znalazłam odpowiedniej liczby. Nie ma takiej.
+Nie znalazłam odpowiedniej liczby.
 
 22 sierpnia, 9 ET · miejsce zajęć rzemieślników
 
@@ -42,7 +42,7 @@ Adrien przyszedł obejrzeć model przygotowany dla uczniów. Zamiast modelu najp
 
 — To wiem. Pytam, jak często musi go ładować.
 
-Miałam ochotę odebrać mu przyrząd, dopóki się nie obraził na moje rozwiązanie. Rozłożył jednak na stole kartkę i poprosił o wyniki. Pokazałam mu, jak wymienna końcówka ogranicza utratę ciepła; on wskazał, że przy długiej pracy uchwyt może nagrzać się szybciej, niż założyłam. Sprawdziliśmy to na odłączonym stanowisku. Miał rację. Dopisałam uwagę do projektu.
+Miałam ochotę odebrać mu przyrząd, zanim zdąży skrytykować moje rozwiązanie. Rozłożył jednak na stole kartkę i poprosił o wyniki. Pokazałam mu, jak wymienna końcówka ogranicza utratę ciepła; on wskazał, że przy długiej pracy uchwyt może nagrzać się szybciej, niż założyłam. Sprawdziliśmy to na odłączonym stanowisku. Miał rację. Dopisałam uwagę do projektu.
 
 — Dobrze wykorzystałaś mały zapas — powiedział.
 

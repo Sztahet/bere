@@ -60,7 +60,7 @@ Kiedy skończyłam, schowałam narzędzia w tej samej kolejności, w jakiej je w
 
 Po ataku na bramę, 3 PT · miejsce spotkania z pośrednikiem, poza Val Meris
 
-O wykonaniu zlecenia dowiedziałam się daleko od Val Meris. Pośrednik przyniósł wiadomość i pieniądze. Powiedział, że luka wystarczyła. Liczył monety powoli, po jednej, sprawdzając, czy patrzę.
+O skutkach zlecenia dowiedziałam się daleko od Val Meris. Pośrednik przyniósł wiadomość i pieniądze. Powiedział, że luka wystarczyła. Liczył monety powoli, po jednej, sprawdzając, czy patrzę.
 
 — Jedenaście minut — powiedział.
 

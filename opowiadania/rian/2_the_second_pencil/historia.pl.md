@@ -46,7 +46,7 @@ Miałam zapisy zleceń. Część przechowywałam dla pieniędzy: dopóki wiedzia
 
 Rozłożyłam kartki na podłodze. Były tam miejsca, daty, szkice, imiona pośredników i sumy. Przy kilku miejscach nie wiedziałam już, jak zapisać czytelnie to, co widziałam tylko raz.
 
-Mogłam je spalić. Miałam piec i dość czasu, żeby wrzucić po jednej kartce. Zamiast tego włożyłam papiery do skrzyń i sama zgłosiłam się do komisji badającej wojenne sabotaże.
+Zanim zgłosiłam się do komisji, mogłam spalić te zapiski. Miałam piec i dość czasu, żeby wrzucić po jednej kartce. Zamiast tego włożyłam papiery do skrzyń i przywiozłam je ze sobą.
 
 Na początku pytałam, ile kart trzeba jeszcze uporządkować. Osoba przyjmująca dokumenty odpowiedziała, że tyle, ile przywiozłam. Zapytałam, czy mam zacząć od Val Meris. Powiedziała, że tak, jeśli potrafię wskazać właściwą skrzynię.
 
@@ -144,9 +144,9 @@ Lena zapytała później o drugą osłonę. Wyjaśniłam, dlaczego nie wystarczy
 
 ## V. Przy jednym stole
 
-12 lutego, 5 ET · uniwersytet w Aurelu
+13 lutego, 5 ET · uniwersytet w Aurelu
 
-Lena porozmawiała z nadzorującym o moich warunkach. Chciała wcześniej przygotować części, żeby nie liczył ich przy mnie. Dowiedziałam się o tym później i zapytałam ją, dlaczego to zrobiła.
+Właśnie dowiedziałam się, że Lena rozmawiała wczoraj z nadzorującym o moich warunkach. Chciała wcześniej przygotować części, żeby nie liczył ich przy mnie. Zapytałam ją, dlaczego to zrobiła.
 
 — Chciałam ci oszczędzić nieprzyjemności.
 
