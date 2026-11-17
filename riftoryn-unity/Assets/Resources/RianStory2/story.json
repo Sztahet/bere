@@ -38,6 +38,11 @@
           "text": "Przy urządzeniu pracowały już inne osoby. Pokazałam im, co chłopak zrobił, i gdzie należy sprawdzić mechanizm. Nie wszystko dało się rozpoznać z jego opisu. Jeden z rzemieślników nie pozwolił mi dotknąć zasilania; powiedziałam mu, czego szukać, a on sprawdził sam."
         },
         {
+          "image": 5,
+          "alt": "Rian pokazuje rzemieślnikom, gdzie sprawdzić mechanizm niedziałającej wieży.",
+          "altEn": "Rian shows craftspeople where to inspect the mechanism of a disabled tower."
+        },
+        {
           "text": "Dopiero tam usłyszałam o zabitych."
         },
         {
@@ -77,6 +82,11 @@
         },
         {
           "text": "Na początku pytałam, ile kart trzeba jeszcze uporządkować. Osoba przyjmująca dokumenty odpowiedziała, że tyle, ile przywiozłam. Zapytałam, czy mam zacząć od Val Meris. Powiedziała, że tak, jeśli potrafię wskazać właściwą skrzynię."
+        },
+        {
+          "image": 4,
+          "alt": "Rian wskazuje dokument ze skrzyni osobie przyjmującej zapiski dla komisji.",
+          "altEn": "Rian shows a document from a crate to an official receiving the records for the commission."
         },
         {
           "text": "Potrafiłam. Próbowałam powiedzieć wszystko w kolejności, w jakiej to zrobiłam. Kiedy nie znałam daty, mówiłam, że jej nie znam. Kiedy czegoś nie pamiętałam, nie uzupełniałam luki tym, co pasowałoby do rysunku. Wystarczająco długo sprzedawałam ludziom pewność."
@@ -148,6 +158,13 @@
         },
         {
           "text": "Znalazłam wspólny uchwyt dla dwóch obwodów. Adrien powiedział, że kontrolka ma oddzielny obwód. Pokazałam miejsce, w którym oba przechodziły razem. Pochylił się, sprawdził i przyznał, że można to poprawić."
+        },
+        {
+          "image": 3,
+          "alt": "Rian wskazuje Adrienowi szczegół na szkicu podczas przerwy w przesłuchaniu.",
+          "altEn": "Rian shows Adrien a detail on a drawing during a break in the hearing.",
+          "width": 1448,
+          "height": 1086
         },
         {
           "text": "— Tak. Dlatego mówię panu teraz, a nie po zamontowaniu."

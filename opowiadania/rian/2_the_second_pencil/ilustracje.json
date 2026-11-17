@@ -6,5 +6,19 @@
   "02": {
     "alt": "Rian ogląda część odłączonego modelu pod nadzorem, w obecności Leny i Adriena.",
     "altEn": "Rian examines a component of the disconnected model under supervision, with Lena and Adrien present."
+  },
+  "03": {
+    "alt": "Rian wskazuje Adrienowi szczegół na szkicu podczas przerwy w przesłuchaniu.",
+    "altEn": "Rian shows Adrien a detail on a drawing during a break in the hearing.",
+    "width": 1448,
+    "height": 1086
+  },
+  "04": {
+    "alt": "Rian wskazuje dokument ze skrzyni osobie przyjmującej zapiski dla komisji.",
+    "altEn": "Rian shows a document from a crate to an official receiving the records for the commission."
+  },
+  "05": {
+    "alt": "Rian pokazuje rzemieślnikom, gdzie sprawdzić mechanizm niedziałającej wieży.",
+    "altEn": "Rian shows craftspeople where to inspect the mechanism of a disabled tower."
   }
 }

@@ -24,6 +24,8 @@ Powiedział. Zabrałam narzędzia. W drodze pytałam o zasilanie, dostęp do obu
 
 Przy urządzeniu pracowały już inne osoby. Pokazałam im, co chłopak zrobił, i gdzie należy sprawdzić mechanizm. Nie wszystko dało się rozpoznać z jego opisu. Jeden z rzemieślników nie pozwolił mi dotknąć zasilania; powiedziałam mu, czego szukać, a on sprawdził sam.
 
+<!-- ilustracja: 05 -->
+
 Dopiero tam usłyszałam o zabitych.
 
 Chłopak odprowadził mnie od stanowiska. Mówił cicho, ale powtarzał to samo, aż zrozumiałam każde słowo.
@@ -49,6 +51,8 @@ Rozłożyłam kartki na podłodze. Były tam miejsca, daty, szkice, imiona pośr
 Zanim zgłosiłam się do komisji, mogłam spalić te zapiski. Miałam piec i dość czasu, żeby wrzucić po jednej kartce. Zamiast tego włożyłam papiery do skrzyń i przywiozłam je ze sobą.
 
 Na początku pytałam, ile kart trzeba jeszcze uporządkować. Osoba przyjmująca dokumenty odpowiedziała, że tyle, ile przywiozłam. Zapytałam, czy mam zacząć od Val Meris. Powiedziała, że tak, jeśli potrafię wskazać właściwą skrzynię.
+
+<!-- ilustracja: 04 -->
 
 Potrafiłam. Próbowałam powiedzieć wszystko w kolejności, w jakiej to zrobiłam. Kiedy nie znałam daty, mówiłam, że jej nie znam. Kiedy czegoś nie pamiętałam, nie uzupełniałam luki tym, co pasowałoby do rysunku. Wystarczająco długo sprzedawałam ludziom pewność.
 
@@ -95,6 +99,8 @@ Spojrzałam na niego. Przesłuchiwano mnie od rana. Byłam zmęczona i miałam o
 Przesunął rysunek bliżej. Poprosiłam o ołówek. Jego był zaostrzony i najwyraźniej nie nadawał się do pożyczenia, bo drugi dostałam od osoby przy dokumentach.
 
 Znalazłam wspólny uchwyt dla dwóch obwodów. Adrien powiedział, że kontrolka ma oddzielny obwód. Pokazałam miejsce, w którym oba przechodziły razem. Pochylił się, sprawdził i przyznał, że można to poprawić.
+
+<!-- ilustracja: 03 -->
 
 — Tak. Dlatego mówię panu teraz, a nie po zamontowaniu.
 
