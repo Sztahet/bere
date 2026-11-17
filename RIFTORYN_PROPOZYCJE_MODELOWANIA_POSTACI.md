@@ -15,6 +15,7 @@ Arkusze do modelowania trzymamy w [assets/heroes/modeling-concepts](assets/heroe
 - [Nocten — arkusz postaci](assets/heroes/modeling-concepts/nocten.png). Referencja do przyszłego modelowania; koncepcja przedstawia starszego Wsparcia Ciemności.
 - [Lucen — arkusz postaci](assets/heroes/modeling-concepts/lucen.png). Referencja do przyszłego modelowania Specjalisty Światła; przedstawia widoki postaci, strój, mimikę i przykładowe pozy.
 - [Lena — arkusz postaci](assets/heroes/modeling-concepts/lena.png). Referencja dla przygotowywanej bohaterki Wsparcia Światła; pozy i umiejętności na planszy są pomysłami, a nie zatwierdzoną specyfikacją.
+- [Nera — arkusz postaci](assets/heroes/modeling-concepts/nera.png). Referencja do modelowania Wsparcia Błyskawic; podpis „Lightning Specialist” na planszy nie zmienia roli Nery w projekcie.
 - [Neris i Shadow — arkusz postaci](assets/heroes/modeling-concepts/neris-blender-reference.png). Referencja do modelowania Neris i jej kruka.
 - [Adrien — arkusz postaci](assets/heroes/modeling-concepts/adrien-blender-reference.png). Referencja do modelowania Specjalisty Światła.
 - [Ruvan — portret](riftoryn-unity/Assets/Resources/Portraits/ruvan.png). Specjalista Lodu z Nivoren i mentor Saily. W kodeksie widnieje jako postać w przygotowaniu.
@@ -49,7 +50,7 @@ Arkusze zawierają widoki postaci, twarze, przykładowe ekspresje, kolory, wymia
 
 ## Pokrycie kart koncepcyjnych bohaterów
 
-GDD wymienia 30 głównych bohaterów oraz Lucena jako dodatkową alternatywę dla kombinacji Specjalista / Światło. W repozytorium są referencje modelowania 24 postaci z tej grupy: Ana, Brom, Dara, Eira, Elira, Iskar, Kael, Koneva, Liora, Miko, Morrak, Neris, Niva, Nocten, Orien, Pyrra, Rian, Saila, Solan, Taren, Thora, Zet, Adrien i Lucen. Dodatkowo Lena ma arkusz modelarski jako postać w przygotowaniu, a Ruvan — portret. Petów nie liczymy jako bohaterów.
+W repozytorium są referencje modelowania 25 bohaterów: Ana, Brom, Dara, Eira, Elira, Iskar, Kael, Koneva, Liora, Miko, Morrak, Nera, Neris, Niva, Nocten, Orien, Pyrra, Rian, Saila, Solan, Taren, Thora, Zet, Adrien i Lucen. Lucen jest dodatkową alternatywą dla kombinacji Specjalista / Światło. Dodatkowo Lena ma arkusz modelarski jako postać w przygotowaniu, a Ruvan — portret. Petów nie liczymy jako bohaterów.
 
 Brakuje kart modelowania siedmiu bohaterów: Varek, Eron, Kiran, Morven, Volt, Rokan i Lumen. Każdy ma już portret, ale sam portret nie zastępuje arkusza z widokami do modelowania. Obecność arkusza nie oznacza istnienia gotowego modelu 3D.
 
@@ -95,6 +96,12 @@ Brakuje kart modelowania siedmiu bohaterów: Varek, Eron, Kiran, Morven, Volt, R
 - [Thora — arkusz postaci](assets/heroes/modeling-concepts/thora.png). To referencja do modelowania, nie gotowy model 3D.
 - Sylwetka: mocno zbudowana strażniczka Natury z tarczą, liściastym płaszczem i pancerzem z motywami drewna. Arkusz proponuje wzrost ok. 182–186 cm.
 - Proporcje, warstwy stroju, animacje i efekty korzeni należy zweryfikować w kamerze gry; ilustracja nie zmienia zasad umiejętności.
+
+## Nera — referencja do modelowania
+
+- [Nera — arkusz postaci](assets/heroes/modeling-concepts/nera.png) oraz [poprawiony portret](assets/heroes/portraits/nera-lightning-support.png), dostarczone przez autora. Arkusz jest referencją do przyszłego modelu 3D.
+- Sylwetka: rude włosy z luźnym bocznym warkoczem, piegi, fioletowo-złoty strój z motywem błyskawic, szal, skórzana torba, notatnik, narzędzia i kryształowa lampa sygnałowa. Arkusz proponuje wzrost ok. 168–172 cm.
+- Widoki postaci, mimika, warstwy ubioru i pozy są materiałem do modelowania i animacji. Podpis „Lightning Specialist / Jack-of-All-Trades” oraz przykładowe akcje na planszy nie zmieniają ustalonej roli Wsparcia Błyskawic ani zasad umiejętności z GDD.
 
 ## Kierunek wizualny
 
