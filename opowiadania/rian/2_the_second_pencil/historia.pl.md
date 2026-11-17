@@ -200,4 +200,6 @@ Chłopak w końcu znalazł właściwe położenie. Uśmiechnęłam się, zanim z
 
 Po zajęciach poprosił o dodatkową kartkę. Wskazałam dwa ołówki na stole. Jednym zaznaczył miejsce, w którym można unieruchomić mechanizm. Drugim narysował niezależne odcięcie. Pierwszą poprawkę zrobiłam mu ja, drugą znalazł sam.
 
+<!-- ilustracja: 06 -->
+
 Nie wszystkie moje dawne decyzje doprowadziły do tej chwili. Nie wolno mi tak układać rachunku, jakby śmierć za bramą była ceną za dzisiejszą lekcję. Chłopak zabrał projekt do sprawdzenia. Ja zostałam, żeby policzyć narzędzia.
