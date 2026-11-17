@@ -60,7 +60,7 @@ Dla każdego podejrzanego zdania zadaj test: **„Co dokładnie mam sobie wyobra
 
 Sprawdź:
 
-- Chronologia, czas podróży, zmiany miejsca, kto jest obecny, kto ma informacje.
+- Chronologia, czas podróży, zmiany miejsca, kto jest obecny, kto ma informacje. Nie wymagaj osobnej daty przy każdym przejściu czasu: jeśli następstwo jest jasne z narracji, np. „rano” po scenie wieczornej, a miejsce się nie zmienia, nie proponuj dodatkowego nagłówka. Datuj i lokalizuj rozdziały; doprecyzuj przejście w ich obrębie, gdy jest niejasne lub dokładny czas ma znaczenie dla ciągłości.
 - Przyczyna → działanie → konsekwencja; czy wynik sceny wynika z wcześniejszych faktów.
 - Wiedza postaci w danym momencie vs wiedza narratora/czytelnika; unikanie czytania w myślach przez narratora pierwszoosobowego.
 - Zdolności magiczne: co robią, czego nie robią, jaki mają koszt; nie dopisuj kanonu bez źródła.

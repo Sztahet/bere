@@ -12,7 +12,7 @@ Pod spodem zapisana data: 29 maja, 12 ET.
 
 Nie pamiętam, bym napisał to zdanie ani dopisał datę. Zeszyt jest stary; używałem go wiele razy. Nie wiem, kiedy pojawił się wpis ani czy data i zdanie powstały razem. Mogłem dopisać ją po otrzymaniu wiadomości o kwalifikacjach, choć nie pamiętam też tego. Jeśli znalazła się tam wcześniej, nie wiem, skąd mogłem ją znać.
 
-Trzymam kartkę przy oknie i nie widzę różnicy w atramencie, której mógłbym zaufać. To zdanie nie mówi, kogo mam szukać ani dlaczego. Nazywa spotkanie koniecznością, jakby ktoś mógł wydać mi rozkaz przez pustą stronę.
+Trzymam kartkę przy oknie i nie widzę różnicy w atramencie, której mógłbym zaufać. To zdanie nie mówi, kogo mam szukać ani dlaczego. Brzmi jak rozkaz, choć nie wiem, kto i kiedy go zapisał.
 
 Powinienem odłożyć zeszyt. Zamiast tego zapytałem siebie, czy na Igrzyskach mogę spotkać kogoś, kto rozpozna miasto za białymi murami. Nie musiałby znać całej historii. Wystarczyłoby, żeby pamiętał drogę.
 
@@ -22,7 +22,7 @@ Powinienem odłożyć zeszyt. Zamiast tego zapytałem siebie, czy na Igrzyskach 
 
 Podczas porządkowania papierów wypadła spomiędzy stron kopia krótkiego wykazu. W nagłówku pojawia się data z okresu, w którym wydarzyła się Noc Zgasłych Wież. Niżej wymieniono skrzynie, drogę i kilka nieczytelnych znaków. Na marginesie widnieje moje imię albo imię bardzo do niego podobne. Atrament rozlał się na dwóch ostatnich literach.
 
-Nie ma tu opisu katastrofy. Przycisnąłem rozlane litery do szyby, ale światło nie pomogło mi ich odczytać.
+Nie ma tu opisu katastrofy. Przycisnąłem kartkę do szyby, ale światło nie pomogło mi odczytać rozlanych liter.
 
 Przez godzinę sprawdzałem kolejne strony, jakbym mógł zmusić papier do odpowiedzi. Znalazłem dwa rachunki i listę zakupów. Jedna z pozycji wyglądała jak nazwa przyprawy, której nigdy nie lubiłem. Na chwilę to właśnie ona zdenerwowała mnie bardziej niż wykaz.
 
@@ -42,7 +42,7 @@ Wyszedłem bez kopii. Dopiero przy drzwiach przypomniałem sobie, że nie zaznac
 
 Zapytano mnie, czy rozważyłbym udział w przygotowaniach do Igrzysk. Osoba, która przyniosła wiadomość, znała mnie z pracy przy osłonach i uznała, że przydałbym się ludziom z Vesper. Wyobrażała sobie zapewne, że szybko odpowiem. Przyzwyczaiłem innych do tego, że nie trzeba mnie długo prosić o pomoc.
 
-Zapytałem o obowiązki. Usłyszałem, że na miejscu będą potrzebni ludzie rozumiejący osłony i pracę zespołową; dalsze decyzje należą do organizatorów i uczestników. Nie obiecywano mi miejsca w finale ani prawa do podjęcia decyzji za mieszkańców krainy.
+Zapytałem o obowiązki. Usłyszałem, że na miejscu będą potrzebni ludzie rozumiejący osłony i pracę zespołową; dalsze decyzje należą do organizatorów i uczestników.
 
 Poprosiłem o czas. Osoba przynosząca wiadomość wyraźnie się zdziwiła.
 
@@ -92,7 +92,7 @@ Na jutro umówiłem się z przewoźnikiem. Wóz do Val Meris ruszy o świcie. S�
 
 — Wiem. Pożyczy pan i tym razem odda przed zimą.
 
-Zapisałem to w zwykłym notesie. Następnie wpisałem do drugiego: rękawice sąsiada, pożyczone dzisiaj. Nie dlatego, że jest w nich zagadka. Po prostu chciałem móc sprawdzić, komu je oddać, kiedy wrócę.
+Zapisałem to w zwykłym notesie. Następnie wpisałem do drugiego: rękawice sąsiada, pożyczone dzisiaj.
 
 ## VI. Następna strona
 
