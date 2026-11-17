@@ -4,6 +4,8 @@ Każdy bohater ma swój katalog, a każda część osobny podkatalog nazwany w f
 
 Pod nagłówkiem każdego rozdziału podaj datę z rokiem i erą oraz miejsce akcji. Przed pisaniem lub redakcją przeczytaj [złote zasady pisania opowieści](DOCELOWY_FORMAT.md#złote-zasady-pisania-opowieści).
 
+Sprawdzaj położenie i połączenia w [atlasie ASCII Riftorynu](../RIFTORYN_MAPA_ASCII.md). Przy dodawaniu nowej osady, gospody, drogi lub innego punktu na szlaku dopisz go do indeksu atlasu wraz z odnośnikiem do rozdziału.
+
 Opcjonalne tłumaczenie zapisz obok jako `historia.en.md`, w tym samym układzie. Dopóki go nie ma, czytnik nie oferuje angielskiej wersji. Nie wpisuj polskiego tekstu do angielskiego pliku jako zastępnika.
 
 Ilustrację wstaw w obu tekstach znacznikiem `<!-- ilustracja: 01 -->`. W `ilustracje.json` zapisz numer, opis alternatywny `alt` i opcjonalnie `altEn`. Znacznik z `pending: true` rezerwuje miejsce bez wyświetlania pustego obrazka. Gotowy plik `01.jpg` umieść w podfolderze `ilustracje` obok tekstu i usuń `pending: true`; skrypt skopiuje go do zasobów Unity. Ilustracja jest wspólna dla obu języków.
