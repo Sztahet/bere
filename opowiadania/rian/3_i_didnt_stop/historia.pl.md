@@ -80,6 +80,8 @@ Drugi przywiózł Miko z Zerath. Przy jednym ustawieniu potrzebował mniej energ
 
 Zmieniliśmy położenie jednej cewki, zostawiając resztę układu bez zmian. Adrien poprosił Lenę o osobną kontrolę mocowań. Wskazała śrubę do wymiany. Krótka próba dała oszczędniejszy wynik, ale wskazówka wracała coraz wolniej.
 
+<!-- ilustracja: 06 -->
+
 Chciałam powtórzyć pomiar. Adrien poprosił, żebym najpierw sprawdziła styk pod przesłoną. Przewidział, że się nagrzewa i opóźnia powrót mechanizmu. Miał rację. Po wymianie wskazówka wracała równo, a oszczędność pozostała.
 
 — Miko miał szczęście — powiedział.
