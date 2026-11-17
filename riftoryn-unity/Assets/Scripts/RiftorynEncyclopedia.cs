@@ -12,6 +12,47 @@ using UnityEngine;
 
 public partial class RiftorynMenu
 {
+    int artifactPage, artifactMap;
+    bool artifactExpanded;
+    Vector2 artifactScroll;
+    readonly Texture2D[] artifactImages=new Texture2D[5];
+    static readonly string[] ArtifactFiles={"selen","mapa-ozdobna","mapa-kolorowa","mapa-szkic","mapa-odrys"};
+    static readonly string[] ArtifactNames={"OZDOBNA","KOLOROWA","SZKIC","ODRYS"};
+    static readonly string[] ArtifactNamesEn={"ORNATE","COLORED","SKETCH","COPY"};
+    Texture2D ArtifactImage(int index)
+    {
+        if(!artifactImages[index])artifactImages[index]=Resources.Load<Texture2D>("WorldArtifacts/"+ArtifactFiles[index]);
+        return artifactImages[index];
+    }
+    void WorldArtifacts()
+    {
+        Frame(new Rect(50,270,1500,570),panel);
+        Text(new Rect(76,284,1000,34),RiftorynCodexData.Text("SELEN I MAPY RIFTORYNU","SELEN AND MAPS OF RIFTORYN"),section);
+        if(Click(new Rect(76,326,190,34),RiftorynCodexData.Text("SELEN","SELEN"),artifactPage==0)&&artifactPage!=0){artifactPage=0;artifactScroll=Vector2.zero;artifactExpanded=false;}
+        if(Click(new Rect(274,326,190,34),RiftorynCodexData.Text("MAPY FABULARNE","IN-WORLD MAPS"),artifactPage==1)&&artifactPage!=1){artifactPage=1;artifactScroll=Vector2.zero;artifactExpanded=false;}
+        if(artifactPage==1)
+            for(int i=0;i<4;i++)if(Click(new Rect(76+i*196,368,188,30),RiftorynCodexData.Text(ArtifactNames[i],ArtifactNamesEn[i]),artifactMap==i)){artifactMap=i;artifactExpanded=false;}
+        Rect art=new(76,artifactPage==0?375:410,800,390);
+        Frame(art,panelAlt);var image=ArtifactImage(artifactPage==0?0:artifactMap+1);
+        if(image)GUI.DrawTexture(new Rect(art.x+4,art.y+4,art.width-8,art.height-8),image,ScaleMode.ScaleToFit);
+        if(GUI.Button(art,GUIContent.none,GUIStyle.none))artifactExpanded=true;
+        Text(new Rect(78,780,800,24),RiftorynCodexData.Text("Kliknij ilustrację, aby ją powiększyć.","Select the image to enlarge it."),mutedText);
+        Rect details=new(900,326,610,488);Frame(details,panelAlt);
+        string content=artifactPage==0?RiftorynCodexData.Text(
+            "SELEN I SELAR\nSelen (sel) jest monetą i jednostką wartości używaną w Riftorynie. Moneta zawiera 10 g rzadkiego metalu zwanego selarem. Selar nie jest splotytem i nie magazynuje energii magicznej.\n\nWARTOŚĆ I BICIE\nWartość metalu w monecie odpowiada wartości tej samej masy selara jako surowca. Z 1 kg można wybić 100 selenów. Mennica w Val Meris odmierza metal i bije monety pod nadzorem Rady; koszt wybicia pokrywa wspólny budżet, kiedy Rada uzna emisję za potrzebną. Rada nie otrzymuje metalu za darmo.\n\nPOCHODZENIE I OBIEG\nSelar jest niereaktywny i daje się oddzielić od skały z czystością ponad 99,9%. W kopalniach Kharum znajdowany jest regularnie, lecz w małych ilościach. Od lat w obiegu znajduje się około 5 milionów selenów; nowe można wybić, jeśli są potrzebne i dostępny jest metal. Na ilustracji pokazano artystyczny projekt monety.\n\nDROBNE ZAKUPY\nNie ma wspólnego oficjalnego podziału monety. Ceny mogą być podawane w ułamkach selena, np. 0,02 sel. Mieszkańcy korzystają z lokalnych środków drobnej wymiany, w tym drobnych selarów, oraz kantorów; sklepy często wydają resztę bez prowizji. Akceptacja lokalnych środków zależy od miejsca.\n\nHANDEL I CODZIENNOŚĆ\nTowary i usługi bywają wymieniane bez monet, z dopłatą różnicy lub rozliczane łącznie. Na północy środkiem wymiany bywają owoce z południa, a ich wartość zależy od dostępności i jakości. Majątek wyceniony w selenach nie jest tym samym co gotówka.\n\nPRZYKŁADOWE CENY\nRoboczy przykład: prosty posiłek kosztuje 0,04 sel, dzień pracy ma wartość około 0,40 sel, a skromny przejazd do Val Meris około 1 sel w jedną stronę. Dochód 100 sel rocznie i koszyk utrzymania około 74 sel służą porównaniu, nie opisują każdego mieszkańca. Ceny, płace, potrzeby i forma zapłaty różnią się między miejscami; nie są zatwierdzonym cennikiem.\n\nWSPÓLNE DOSTAWY\nKrainy i Val Meris wpłacają do puli solidarnościowej 5 selenów rocznie za mieszkańca. Rada ustala równy na osobę przydział podstawowych dóbr: siedem prostych porcji żywności tygodniowo, dostęp do wody i wsparcie ogrzewania dostosowane do warunków. Wsparcie pomaga przede wszystkim biedniejszym krainom, a dostawcom Rada płaci po cenach rynkowych.\n\nPODCZAS MECZU\nMeczowe g to wirtualne seleny przyznawane przez organizatora do wyboru technologii. Nie są prywatnymi monetami, które bohater zabiera po meczu.",
+            "SELEN AND SELAR\nThe selen (sel) is both a coin and a unit of value in Riftoryn. A coin contains 10 g of a rare metal called selar. Selar is not splotyt and does not store magical energy.\n\nVALUE AND MINTING\nThe metal in a coin is worth the same as an equal mass of raw selar. One kilogram yields 100 selens. The mint in Val Meris measures the metal and strikes coins under Council supervision; the shared budget pays minting costs when the Council decides an issue is needed. The Council does not receive the metal for free.\n\nSOURCE AND CIRCULATION\nSelar is nonreactive and can be separated from rock to over 99.9% purity. Kharum's mines find it regularly but in small quantities. About five million selens have circulated for years; more can be minted if needed and metal is available. The image shows an artistic coin design.\n\nSMALL PURCHASES\nThere is no common official subdivision of the coin. Prices can be expressed in fractions of a selen, such as 0.02 sel. People use local small-change instruments, including small pieces of selar, and exchange offices; shops often give change without a fee. Acceptance varies by place.\n\nTRADE AND DAILY LIFE\nGoods and services may be exchanged without coins, settled together, or balanced with a payment. In the north, southern fruit is sometimes used in exchange; its value depends on availability and quality. Wealth valued in selens is not the same as cash.\n\nEXAMPLE PRICES\nA working example values a simple meal at 0.04 sel, a day of work at about 0.40 sel, and a modest one-way trip to Val Meris at about 1 sel. An annual income of 100 sel and basic living costs of about 74 sel provide a comparison, not a description of every resident. Prices, wages, needs, and forms of payment vary; these figures are not an approved price list.\n\nSHARED SUPPLIES\nThe regions and Val Meris contribute five selens per resident each year to a solidarity fund. The Council establishes an equal per-person allocation of basic goods: seven simple food portions per week, access to water, and heating support suited to local conditions. Support primarily helps poorer regions, and the Council pays suppliers market prices.\n\nDURING A MATCH\nMatch g represents virtual selens provided by the organizer for technology choices. They are not private coins a hero can take away afterward."):
+            RiftorynCodexData.Text("MAPY FABULARNE\nTo mapy, z jakich mogą korzystać mieszkańcy Riftorynu. Kartografowie i kopiści przedstawiają kontynent na różne sposoby; rysunki nie są pomiarem granic ani gwarancją bezpieczeństwa dróg.\n\nCZTERY EGZEMPLARZE\nOzdobny, kolorowy, szkic i prosty odrys pokazują różną ilość pracy i szczegółów. Kto ma więcej środków, może kupić kunsztownie wykonaną mapę. Inni zdobywają prostszą kopię lub odrysowują ją samodzielnie. Konkretne ceny nie są ustalone.\n\nPRZED PODRÓŻĄ\nNawet kosztowna mapa może być nieaktualna, a prosty szkic może zawierać przydatne miejscowe informacje. Stan przejść należy sprawdzać u przewodników i na posterunkach. Dokładny przebieg dróg i granic pozostaje otwarty.",
+            "IN-WORLD MAPS\nThese are maps the people of Riftoryn might use. Cartographers and copyists depict the continent in different ways; drawings are not a survey of borders or a guarantee that roads are safe.\n\nFOUR EXAMPLES\nThe ornate map, colored copy, sketch and simple hand-drawn copy show different levels of detail and work. Someone with more means may buy an elaborate map. Others obtain a simpler copy or trace one themselves. Exact prices are not established.\n\nBEFORE TRAVEL\nEven an expensive map can be outdated, while a simple sketch may contain useful local knowledge. Check crossing conditions with guides and posts. Exact routes and borders remain open.");
+        float height=Mathf.Max(430,body.CalcHeight(new GUIContent(content),530)+20);
+        artifactScroll=GUI.BeginScrollView(new Rect(920,344,565,450),artifactScroll,new Rect(0,0,545,height));
+        Text(new Rect(0,0,530,height),content,body);GUI.EndScrollView();
+        if(artifactExpanded)
+        {
+            Fill(new Rect(40,85,1520,760),new Color(.035f,.03f,.055f,.98f));
+            if(image)GUI.DrawTexture(new Rect(70,120,1460,650),image,ScaleMode.ScaleToFit);
+            if(Click(new Rect(1340,782,190,38),RiftorynCodexData.Text("ZAMKNIJ","CLOSE"),true))artifactExpanded=false;
+        }
+    }
     EncyclopediaWorld encyclopediaWorld;
     EncyclopediaTree encyclopediaTree;
     Texture2D worldImage;
