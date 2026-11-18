@@ -72,6 +72,12 @@ Według opowieści mieszkańców jego pojawieniu się towarzyszą odnowa roślin
 
 Kamienioząb jest niewielkim, opancerzonym zwierzęciem jaskiń i kamienistych wyrobisk. Zwinięty w kulę przypomina skałę; w razie nadepnięcia lub próby schwytania może gwałtownie bronić się zębami i pazurami. Kopie w żwirze i chroni się w szczelinach. Krzemień, towarzysz Rokana, należy do tego gatunku; ich historię opisuje kodeks bohatera.
 
+## Spichrzak północny (Snow Nibbler)
+
+Spichrzak północny jest niewielkim gryzoniem Nivoren, przystosowanym do chłodu i żyjącym w koloniach. Wspina się i kopie, a do magazynów potrafi przedostać się przez szczeliny lub przegryźć drewno, skórę i tkaninę. Wyjada oraz zanieczyszcza żywność.
+
+W osadach odciętych zimą utrata zapasów może zagrozić przetrwaniu mieszkańców. Dlatego wzmacniają skrzynie, zabezpieczają wejścia do magazynów, regularnie kontrolują zapasy i rozdzielają rezerwy. Koty pomagają ograniczać liczbę gryzoni, ale nie zastępują kontroli i napraw. To zagrożenie wynika ze sposobu żerowania zwierząt, nie z ich złych zamiarów.
+
 ## Splotyt i zależność krain
 
 ### Przed wojną
