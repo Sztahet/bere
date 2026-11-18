@@ -1001,7 +1001,7 @@ Kamieniarka uczyła się oceny skały u Rokana. Podczas ratowania Bareta wybrał
 
 **Przywoływaczka Ziemi z Kamiennego Progu.** Dawniej opiekowała się końmi wyrobiska. Z dorosłą samicą bramora Korą oswaja się przy drodze obok sadu. Kierunek projektowy dla towarzyszki to rozluźnianie gruntu na krótkim odcinku i spowalnianie przeciwników.
 
-**Dlaczego zgłasza się do Igrzysk:** Chce poprzeć plan Wspólnych Szlaków dotyczący bezpieczeństwa dróg do wyrobisk. Zgłasza Kharum jako swoją reprezentację i stawia się na kwalifikacjach 29 maja 12 ET. Kora zostaje przy młodych w Kamiennym Progu.
+**Dlaczego zgłasza się do Igrzysk:** Chce poprzeć plan Wspólnych Szlaków dotyczący bezpieczeństwa dróg do wyrobisk. Reprezentuje Kharum i startuje jako przywoływaczka z Korą 29 maja 12 ET. W próbie drużynowej Kora rozluźnia glinę, dzięki czemu drużyna może otworzyć odpływ.
 
 ### Adrien
 [USTALONE] **Obrona — Specjalista wież:** wieży pilotowanej przez Adriena nie można w żaden sposób zatrzymać. [OTWARTE] Doprecyzować wpływ obrażeń i zniszczenia wieży, ograniczeń celowania, efektów na operatorze oraz dokładny moment rozpoczęcia i zakończenia ochrony, w tym fazę przejmowania sterowania.

@@ -52,6 +52,8 @@ Dara zajmowała się też małym sadem od strony wyrobiska. Widywałam ją tam p
 
 — Wczoraj nic mi tu nie przeszło. Dziś mam dwa odsłonięte korzenie i trzeci przełamany.
 
+Zapytałam, czy widziała już te dwa młode. Dara powiedziała, że jesienią przychodziły pod płot po opadłe gruszki. Miały jeszcze pręgi i mieściły się obok siebie pod dolną żerdzią. Teraz jedno musiało ją podważyć.
+
 Pokazała mi ślady. Zwierzęta przeszły skrajem. Pod młodą jabłonią ziemia była rozgarnięta aż do drewna. Woda zbierała się teraz pod korzeniem zamiast spływać do rowu. Po drugiej stronie muru ciągnęła się trawiasta miedza. Prowadziła od przepustu za sad, aż na górę do lasu. W dwóch miejscach rosły tam niskie śliwy. Pomiędzy ich gałęziami widać było, którędy dotąd szedł bramor.
 
 Dara chciała od razu przedłużyć płot aż do przepustu. Spytałam, co zostanie wtedy przy wodzie. Pokazała miejsce po paliku po przeciwnej stronie drogi. Przejście byłoby tam. Tylko że zaraz za skrętem na drogę wychodził wóz, którego z przepustu nie widać.

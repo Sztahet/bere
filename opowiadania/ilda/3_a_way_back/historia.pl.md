@@ -68,7 +68,7 @@ Później ułożyłyśmy płachtę od strony składu. Nad brzegiem deski nie by�
 
 Kela zapisała, co powiedziałam. Spytała, czy przyjdę z jakimś zwierzęciem. Pokręciłam głową. Miałam w tym tygodniu prowadzić dwa konie, owce obcego człowieka i psa, który po wypadku wciąż zawracał tam, gdzie ze schodów widać było ulicę. Kora chodziła przy wodzie. Zobaczę ją wtedy, kiedy będzie przechodzić.
 
-Za zakrętem spotkałam ją, zanim Dara skończyła tego dnia pracę w sadzie. Kora na krótko wyszła sama pod odłamany mur. Ślady obu młodych widziałam rano wysoko pod śliwami. Kora zatrzymała się przy płaskim kamieniu, który kiedyś odrzuciła pyskiem. Jedna płyta przy uchu nadal odstawała. Po niej poznawałam, w którą stronę obróciła łeb, nawet w gęstym cieniu.
+Za zakrętem spotkałam ją, zanim Dara skończyła tego dnia pracę w sadzie. Kora wyszła sama pod odłamany mur. Młode od paru dni widywałam po drugiej stronie wody. Raz oba przeszły ku lasowi, a ona została pod śliwami i ryła tam do wieczora. Teraz przystanęła przy płaskim kamieniu, który kiedyś odrzuciła pyskiem. Jedna płyta przy uchu nadal odstawała. Po niej poznawałam, w którą stronę obróciła łeb, nawet w gęstym cieniu.
 
 Stałam przy linii muru, z wolną przestrzenią od wody i z otwartą drogą poza plecami. Kora zbliżyła się na długość mojego ramienia. Wąchała skórę przy fartuchu, którą wczoraj zostawiłam na stole w kuchni obok pokrojonego owocu. Opuściłam dłoń. Gdy uniosła pysk, poczułam jej oddech na otwartej ręce, a chwilę później znów było mi zimno. Zrobiła jeszcze krok, ryjąc w ziemi po zewnętrznej stronie muru.
 
@@ -106,28 +106,50 @@ Pod ogłoszeniami wisiał osobny druk Urzędu Prób. Przeczytałam datę na gło
 
 Wyszłam tą samą drogą. Chciałam zdążyć do wagi, zanim Heda ruszy po drugi ładunek. Miałam ją zapytać, na którym wozie kupię miejsce do Val Meris i ile pracy mogę oddać komuś na te dni. Dopiero w połowie drogi zauważyłam, że niosę swoją torbę w lewej ręce. W prawej po noszach nie mogłam jeszcze zacisnąć palców.
 
-## Lżejszy wóz
+## Otwarta burta
+
+15–23 maja, 12 ET · podwórze Ildy i droga przy sadzie, Kamienny Próg, Kharum
+
+Heda przyprowadziła mi woźnicę, który brał bydło do Val Meris i po drodze zmieniał zaprzęg. Wóz miał nisko osadzony pomost i wysokie burty z pełnych desek. Za miejsce chciał więcej niż miesięczny czynsz od Dary. Wyjęłam zadatek z koperty na drugą połowę dachu. Umówiliśmy się, że jeśli Kora w dniu wyjazdu nie wejdzie, wolne miejsce i tak będzie opłacone.
+
+Na początek położyłyśmy z Hedą samą pochylnię przy skraju podwórza. Dara zbiła na niej poprzeczki i pokazała mi, jak przybić ostatnią, żeby pod racicą nie ruszał się koniec deski. Wieczorem wysypałam pod pochylnię ziemię z kilkoma kawałkami bulw. Przy pierwszej wizycie Kora obeszła drewno i zjadła wszystko od boku. Następnego dnia znalazła bulwę za pierwszą poprzeczką. Kiedy postawiła na niej nogi, dwa razy stuknęłam trzonkiem szczotki w deskę przy ziemi i pokazałam jej rozgrzebane miejsce. Potem cofnęłam się pod mur.
+
+Powtarzałam to przy miedzy i przy otwartej burcie. Kora z czasem podchodziła na dwa stuknięcia i zaczynała ryć tam, gdzie odsłoniłam ziemię. Kiedy próbowałam to zrobić przy ludziach od rozładunku, ani razu nie wyszła z cienia. Nazajutrz przyprowadziłyśmy pusty wóz wcześniej. Heda zatrzymała zaprzęg tak, że od strony pochylni było widać tylko burty. Kora weszła na pomost. Zostałam przy niej, a Heda pociągnęła wóz naprzód, ledwie na długość dyszla. Gdy tylko stanął, opuściłam pochylnię. Kora zeszła zaraz, jak gdyby od początku czekała na tę jedną rzecz.
+
+W przeddzień wyjazdu widziałam oba młode daleko za sadem. Jedno rozkopało ziemię wokół leszczyny, drugie przeniosło coś w pysku na drugą stronę wody. Kora tego ranka chodziła przy moim murze. Nie przyszła za ich śladem nawet wtedy, gdy zza lasu zagwizdał człowiek z wozem. Poprosiłam Darę, żeby podczas mojej nieobecności zostawiła im przejście przy przepuście. Obiecała zerknąć pod leszczynę, kiedy będzie rano szła do warsztatu.
+
+## Od zakrętu
 
 24 maja, 12 ET · Kamienny Próg, Kharum
 
-Gdy Rokan zabrał Krzemienia, przy stole zostały nitka i płaski kamień. Igłę z wyszczerbionym uchem dałam mu na wzór. Nie zdążyłam powiedzieć, że chciałabym potem z nim pójść na targ. Heda miała jeszcze odebrać towar w drugim składzie. Sama pokazała mi, kto zabiera podróżnych i zmienia konie po drodze. Kupiłam u niego miejsce. Jeśli jechał zgodnie z zapowiedzią, miałam w Val Meris nawet noc na rozprostowanie nóg przed pierwszym dniem kwalifikacji.
+Gdy Rokan zabrał Krzemienia, przy stole zostały nitka i płaski kamień. Igłę z wyszczerbionym uchem dałam mu na wzór. Nie zdążyłam powiedzieć, że chciałabym potem z nim pójść na targ. Heda miała jeszcze odebrać towar w drugim składzie. Mój woźnica jechał prosto do Val Meris. Po drodze miał umówione świeże konie i zagrody, gdzie można było opuścić pochylnię z dala od innych zaprzęgów.
 
 Na bramie wywiesiłam godziny pracy dla człowieka, który miał mnie zastąpić przy koniach. Zapłaciłam mu z pieniędzy za boks, za tyle dni, ile potrzebowałam na drogę w obie strony i początek prób. Zapora przy drodze miała już własny rozkład. Zostałam tam chwilę, chociaż od dwóch dni ani razu nie wypadała moja kolej.
 
-Przy przepuście oba młode wyszły najpierw. Jedno podeszło pod żerdź, gdzie po deszczu wciąż leżała luźna ziemia. Kora zaczekała, aż ruszy. Rozsunęła pyskiem zeszłoroczne liście i poszła za nim wzdłuż muru. Miała na nosie świeżą rysę, krótką, jasną jak ślad paznokcia na chlebie. Widziałam, że urosły. Wciąż zwracały się do niej na każdy dźwięk od drogi.
-
-W domu, pakując płótno, przez chwilę patrzyłam na sznur, za który Heda pociągnęła wtedy z ulicy. Odwiązałam go od ucha przy boksie i przytroczyłam do torby. Pomyślałam, że kiedy wrócę, pójdę znów pod przepust. Może zastanę tam całą trójkę, może tylko ślady. Woźnica zawołał od bramy. Wzięłam torbę i poszłam sama.
+Kiedy woźnica zawołał od bramy, Kora stała po drugiej stronie muru. Młode poszły rano w las. Woźnica już chciał zejść z kozła. Poprosiłam, żeby chwilę tam został. Stuknęłam dwa razy i odsunęłam się od pochylni. Kora minęła pierwszą poprzeczkę, cofnęła się i obejrzała w stronę sadu. Dopiero po chwili wróciła. Weszła na pomost. Słyszałam, jak sprawdza pyskiem szparę w przedniej burcie. Podniosłam tylną dopiero, kiedy wszystkie cztery racice miała daleko od zawiasów.
 
 ## Przez bramę
 
 28–29 maja, 12 ET · Val Meris
 
-Przyjechaliśmy dwudziestego ósmego po południu. Za pierwszą bramą ktoś zapytał woźnicę, czy na placu jeszcze trwają zawody. Odpowiedział, że nie wie, ale z tamtej strony wciąż słychać ludzi. Podał mi torbę. Przy wysiadaniu nogi miałam tak sztywne, że przez chwilę trzymałam go za rękaw, chociaż już stałam na obu stopach.
+Przyjechaliśmy dwudziestego ósmego po południu. Za pierwszą bramą ktoś zapytał woźnicę, czy na placu jeszcze trwają zawody. Słychać było ludzi, ale my skręciliśmy ku zagrodom Urzędu Prób. Kora na pierwszym postoju zeszła z wozu bez wahania. W mieście przystanęła na samej górze pochylni. Za murem zadzwoniło wiadro. Oparłam dłoń na burcie i poczekałam. Zeszła, kiedy człowiek z wiadrem odszedł, i od razu zaczęła ryć przy korycie.
 
-Przy zapisach urzędniczka pokazała mi, gdzie wpisać Kharum. W drugiej rubryce zapisałam wspólny nadzór. Spytała, czy biorę na próbę zwierzę. Na skraju stołu tkwiła zaschnięta kropla atramentu. Przesunęłam po niej paznokciem, zanim odpowiedziałam, że zgłaszam tylko siebie. Potem zapytałam, gdzie mogę obejrzeć wejście na dziedziniec. Wskazała ulicę obok wagi i podała mi kartkę, z którą miałam się stawić rano. Zapisała na niej godzinę i numer grupy.
+Przy zapisach wpisałam Kharum i wspólny nadzór. Urzędniczka odwróciła kartkę i zapytała oddzielnie o zwierzę.
+
+— Bramor. Kora — powiedziałam. — Zgłaszam się jako przywoływaczka.
+
+Urzędniczka zapisała godzinę i numer grupy na kartce, z którą miałam się rano stawić. Spytała też, gdzie Kora może poczekać, jeśli na którymś stanowisku nie będzie dla niej miejsca. Wróciłam z opiekunką pod zagrody. Pokazała mi boczne przejście z zagrody na dziedziniec. Przeszłyśmy je najpierw same, potem z Korą. Kora stanęła na progu od strony placu. Wróciłam z nią do zagrody po tej samej drodze. Chciałam, żeby przed porankiem znała oba kierunki.
 
 W nocy trzymałam torbę na stołku u wezgłowia. Gdy budziłam się od kół za oknem, szukałam ręką jej brzegu. Nad ranem usłyszałam wóz, który długo się cofał po kamieniu. Potem rozległy się głosy i stuk jednego koła, kiedy wreszcie oparło się o coś twardego. Chciałam wyjść i zobaczyć, ile ludzi potrzeba do podłożenia klina w tym mieście. Leżałam jeszcze chwilę z ręką na złożonym płótnie.
 
 Przed dziedzińcem zobaczyłam dwoje ludzi z tym samym numerem na kartce. Rozmawiali, stojąc bokiem do mnie. Z ulicy niosło się tyle głosów, że ledwie ich słyszałam. Podeszłam bliżej i podałam im swoje imię. Potem poprosiłam, żeby powiedzieli mi swoje jeszcze raz, już twarzą do mnie.
 
-Od strony placu uderzono w dzwon. Przy bramie otworzyła się wąska furtka i sędzia podniósł kartkę. Kiedy wyczytał moje imię, chciałam jeszcze obejrzeć się na ulicę. Człowiek, który przed chwilą tak cicho się przedstawił, odwrócił się w przejściu i odczekał, aż do niego dojdę. Weszliśmy razem.
+Od strony placu uderzono w dzwon. Przy bramie otworzyła się wąska furtka i sędzia podniósł kartkę. Kiedy wyczytał moje imię, człowiek, który przed chwilą tak cicho się przedstawił, odwrócił się w przejściu i odczekał, aż do niego dojdę. Weszliśmy razem.
+
+Na placu puszczono wodę do płytkiego zbiornika ziemnego. Mieliśmy odprowadzić ją do kamiennego koryta, zanim przeleje się nad niższym brzegiem, przy którym leżały worki. Sędzia wskazał dwa białe paliki na brzegu od strony koryta. Tylko pomiędzy nimi wolno było naruszyć ziemię. Dali nam łopatę, która odbijała się od ubitej gliny. Nad wlotem do koryta wisiała drewniana zasuwa. Ktoś musiał ją przytrzymać w górze, żeby woda mogła odpłynąć.
+
+Zawołałam do opiekunki, żeby otworzyła boczną bramę. Kora wyszła po dwóch stuknięciach trzonkiem o spód ogrodzenia. Przed groblą pociągnęła nosem i skręciła ku świeżo rozdeptanej trawie. Człowiek przy zasuwie zaczął do niej wołać. Poprosiłam, żeby dał znak mnie, kiedy będzie gotów. Od drugiej osoby wzięłam łopatę. Między palikami podcięłam skraj darni. Pod spodem pachniało mokrym korzeniem. Stuknęłam trzonkiem dwa razy tuż przy odkrytej ziemi i cofnęłam się nad koryto.
+
+Kora podeszła wzdłuż brzegu. Wsunęła ryj pod oderwany skraj darni. Spod pyska prysnęły dwie twarde bryły. Odwróciła trzecią. Kiedy woda przesączyła się pod jej przednią racicą, odskoczyła na suchą ziemię. Podałam łopatę osobie obok mnie. Wbiła ją w miejsce, które Kora rozluźniła, i podważyła ostatni płat gliny. Człowiek przy zasuwie uniósł ją do końca. Strumień wszedł w koryto. Woda przestała się podnosić przy workach.
+
+Kora stała już przy bocznej bramie, z gliną wysoko na ryju. Opiekunka trzymała bramę otwartą. Odeszłam od koryta, kiedy sędzia zakręcił dopływ. Przed wejściem do zagrody Kora zwolniła. Szłam przy niej w takim tempie, żeby żadna z nas nie musiała na drugą czekać.
