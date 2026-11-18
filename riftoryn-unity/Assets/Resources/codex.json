@@ -88,6 +88,42 @@
       "passEn": "Takes 10% less damage from direct hits."
     },
     {
+      "id": "heda",
+      "name": "Heda",
+      "role": "Tank",
+      "element": "Ziemia",
+      "img": "heda-earth-tank.png",
+      "desc": "Przewoźniczka z Kamiennego Progu. Zna ciężkie zaprzęgi i wybiera chwilę, w której warto zatrzymać cały kurs.",
+      "descEn": "A carrier from Stone Threshold. She knows heavy teams and when to bring a haul to a halt.",
+      "conceptOnly": true,
+      "bio": {
+        "city": "Kamienny Próg",
+        "cityEn": "Stone Threshold",
+        "specialty": "Ciężki przewóz i asekuracja",
+        "story": "Heda od lat wozi kamień, drzwi i części między Kamiennym Progiem a innymi osadami. Jest córką Rokana. Kiedy zamknięto krótszą drogę przy wyrobiskach, obliczyła własną stawkę za objazd i odrzuciła kurs, który przyniósłby stratę. Później zabrała ojca do Val Meris w ramach zwykłego zlecenia przewozowego.\n\nPrzy drodze obok sadu Heda organizuje postoje wozów i pomaga Ildzie oddzielić przejazd od ścieżki bramorów. Jej znajomość zaprzęgu przydaje się tam, gdzie sama siła mogłaby spłoszyć konia.",
+        "storyEn": "Heda has spent years hauling stone, doors and spare parts between Stone Threshold and other settlements. Rokan is her father. When the shorter quarry road closed, she worked out her own rate for the detour and turned down a haul that would cost her money. She later took her father to Val Meris on a regular transport job.\n\nOn the orchard road, Heda organizes wagon stops and helps Ilda keep traffic clear of the Bramors' path. Her experience with teams serves her well where force alone might spook a horse."
+      }
+    },
+    {
+      "id": "ilda",
+      "name": "Ilda",
+      "role": "Przywoływacz",
+      "element": "Ziemia",
+      "img": "ilda-earth-summoner.png",
+      "pet": "Bramor Kora",
+      "desc": "Opiekunka zwierząt z Kamiennego Progu. Dorosła samica bramora Kora z czasem zaczęła podchodzić do niej z własnej woli.",
+      "descEn": "An animal caretaker from Stone Threshold. In time, an adult female Bramor named Kora began approaching her by choice.",
+      "concept": "Kora rozluźnia grunt na krótkim odcinku. To kierunek projektowy dla umiejętności spowalniającej przeciwników.",
+      "conceptOnly": true,
+      "bio": {
+        "city": "Kamienny Próg",
+        "cityEn": "Stone Threshold",
+        "specialty": "Opieka nad zwierzętami i bezpieczne przejścia",
+        "story": "Ilda przez lata pracowała przy koniach w kamieniołomie, a później urządziła stanowisko opatrunkowe na własnym podwórzu. Pomogła Rokanowi zająć się młodym Krzemieniem.\n\nKiedy samica bramora z młodymi zaczęła przecinać drogę przy sadzie, Ilda wspólnie z przewoźnikami i właścicielką sadu wyznaczyła bezpieczniejsze przejście. Nazwała samicę Korą od odstającej płytki przy jej uchu. Po ulewie pomogła młodemu wyjść z boksu. Kora z czasem zaczęła podchodzić do Ildy na odległość wyciągniętej ręki.",
+        "storyEn": "Ilda spent years working with quarry horses, later dressing animals' injuries in her own yard. She helped Rokan care for Flint when he was young.\n\nWhen a female Bramor and her young began crossing the orchard road, Ilda worked with the carriers and the orchard keeper to make a safer passage. She named the Bramor Kora after a plate that lifted beside her ear like bark. After heavy rain, she helped a juvenile out of a stall. In time Kora came within reach of Ilda's open hand."
+      }
+    },
+    {
       "id": "morrak",
       "name": "Morrak",
       "role": "Tank",

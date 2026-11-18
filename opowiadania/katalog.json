@@ -459,6 +459,33 @@
     ]
   },
   {
+    "id": "ilda",
+    "name": "Ilda",
+    "region": "Kharum",
+    "portrait": "ilda-earth-summoner.png",
+    "series": "Po obu stronach drogi",
+    "stories": [
+      {
+        "id": "od-strony-sadu",
+        "folder": "opowiadania/ilda/1_from_the_orchard",
+        "unity": "IldaDraft1",
+        "draft": true
+      },
+      {
+        "id": "szerokosc-bramy",
+        "folder": "opowiadania/ilda/2_the_width_of_the_gate",
+        "unity": "IldaDraft2",
+        "draft": true
+      },
+      {
+        "id": "tedy-mozna-wrocic",
+        "folder": "opowiadania/ilda/3_a_way_back",
+        "unity": "IldaDraft3",
+        "draft": true
+      }
+    ]
+  },
+  {
     "id": "volt",
     "name": "Volt",
     "region": "Zerath",

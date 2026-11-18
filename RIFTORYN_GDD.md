@@ -993,6 +993,14 @@ Kamieniarka uczyła się oceny skały u Rokana. Podczas ratowania Bareta wybrał
 
 **Kierunek projektowy**. Przygotowywanie przejść dla drużyny, na przykład doraźne utwardzenie krótkiego odcinka podłoża.
 
+### Heda
+
+**Tank Ziemi z Kamiennego Progu.** Córka Rokana i samodzielna przewoźniczka ciężkich ładunków. Zna pracę z zaprzęgiem i wie, kiedy zatrzymać wóz. W walce kierunkiem projektowym jest utrzymywanie pozycji pod naporem i asekuracja odwrotu.
+
+### Ilda
+
+**Przywoływaczka Ziemi z Kamiennego Progu.** Dawniej opiekowała się końmi wyrobiska. Z dorosłą samicą bramora Korą oswaja się przy drodze obok sadu. Kierunek projektowy dla towarzyszki to rozluźnianie gruntu na krótkim odcinku i spowalnianie przeciwników.
+
 ### Adrien
 [USTALONE] **Obrona — Specjalista wież:** wieży pilotowanej przez Adriena nie można w żaden sposób zatrzymać. [OTWARTE] Doprecyzować wpływ obrażeń i zniszczenia wieży, ograniczeń celowania, efektów na operatorze oraz dokładny moment rozpoczęcia i zakończenia ochrony, w tym fazę przejmowania sterowania.
 

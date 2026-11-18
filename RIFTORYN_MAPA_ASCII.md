@@ -205,6 +205,7 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 
 - **K01 [K/G]** — Kamienny Próg, miasto górnicze. **K06 [K/G]** obejmuje wyrobiska i place warsztatowe. **Kamienny Krąg [G]** to arena w pobliżu wyrobisk. [Kharum w historii świata][kharum] · [GDD][gdd]
 - **Dojazd do K06 [O]** · krótszy odcinek pod skalną półką ma południowy wjazd i północny wylot. Górna droga prowadzi do tego samego zespołu wyrobisk i służy za objazd podczas zamknięcia dolnego odcinka. [Dłuższa droga][rokan2]
+- **Droga przy sadzie [O]** · miejscowy odcinek dojazdu w Kamiennym Progu, przy dawnym podwórzu koniuszym Ildy. Przy dolnym zakręcie są sad i przepust. Miedza po zewnętrznej stronie sadu prowadzi od przepustu do lasu. [Od strony sadu][ilda1]
 - **K02 [O]** — oberża w Kharum, w której Piecarius poznaje Vedę. Osada i nazwa lokalu pozostają otwarte. **K03–K05 [O]** — chata Orena na skraju lasu, przeprawa i trudny odcinek z koleiną oraz bezimienna górna osada z pompą. Tekst pozwala ustalić kolejność na trasie, a położenie względem Kamiennego Progu pozostaje otwarte. [Księga bez autora][piecarius1]
 
 ### Aurel — zachód
@@ -279,6 +280,7 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 [piecarius2]: opowiadania/piecarius/2_traces_in_the_ashes/historia.pl.md
 [piecarius3]: opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md
 [rokan2]: opowiadania/rokan/2_the_longer_road/historia.pl.md#pod-półką
+[ilda1]: opowiadania/ilda/1_from_the_orchard/historia.pl.md
 [rokan3]: opowiadania/rokan/3_one_goes_first/historia.pl.md#miejsce-na-wozie
 [rian1]: opowiadania/rian/1_eleven_minutes/historia.pl.md
 [rian2]: opowiadania/rian/2_the_second_pencil/historia.pl.md
