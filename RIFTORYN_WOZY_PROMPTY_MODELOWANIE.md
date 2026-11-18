@@ -2,6 +2,8 @@
 
 Sześć propozycji wizualnych do przyszłego modelowania, a nie zatwierdzone modele 3D ani nowe zasady świata. Każdy prompt generuj osobno. Wóz Vedy opiera się na opowiadaniach: konie, skrzynie, burty, pasy mocujące i łatana plandeka są w nich obecne. Pozostałe szczegóły konstrukcyjne wszystkich wozów to propozycje.
 
+Dostarczone plansze: [Veda](assets/lore/wagons/veda.png), [Verdan](assets/lore/wagons/verdan.png), [Kharum](assets/lore/wagons/kharum.png), [Vareth](assets/lore/wagons/vareth.png), [Nivoren](assets/lore/wagons/nivoren.png) i [Vesper](assets/lore/wagons/vesper.png). Ich opisy i powiększane ilustracje znajdują się w kodeksie Unity: **Życie świata → Wozy**.
+
 ## Wspólne ustawienia
 
 Do każdego promptu dołącz poniższy fragment. Jeśli generator umożliwia użycie referencji, można dodać [mapy Riftorynu](assets/lore/cartography/) jako wskazówkę nastroju i położenia krain. Konie, jeżeli są pokazane, mają być osobno od widoków samego wozu, aby nie zasłaniać konstrukcji.

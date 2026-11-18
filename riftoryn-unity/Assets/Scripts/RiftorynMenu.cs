@@ -73,7 +73,7 @@ public partial class RiftorynMenu : MonoBehaviour {
             Fill(r,active?new Color(.19f,.16f,.22f):new Color(.09f,.075f,.13f));
             if(active)Fill(new Rect(r.x,r.yMax-3,r.width,3),gold);
             var style=new GUIStyle(nav){alignment=TextAnchor.MiddleCenter};style.normal.textColor=active?gold:muted;
-            string label=i==8?RiftorynCodexData.Text("OŚ CZASU","TIMELINE"):i==9?RiftorynCodexData.Text("SPLOTYT","SPLOTITE"):i==10?RiftorynCodexData.Text("SELEN I MAPY","SELEN & MAPS"):RiftorynL10n.Translate(tabs[i]);
+            string label=i==8?RiftorynCodexData.Text("OŚ CZASU","TIMELINE"):i==9?RiftorynCodexData.Text("SPLOTYT","SPLOTITE"):i==10?RiftorynCodexData.Text("ŻYCIE ŚWIATA","WORLD LIFE"):RiftorynL10n.Translate(tabs[i]);
             if(GUI.Button(r,label,style)){if(i==9)OpenSailaStory("Splotyt","SPLOTYT","KODEKS");else{tab=i;scroll=Vector2.zero;detailScroll=Vector2.zero;}}
             x+=width+8;
         }
