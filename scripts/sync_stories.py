@@ -3,7 +3,10 @@ import json
 import uuid
 import shutil
 from pathlib import Path
-from build_story_archive import CATALOG, ROOT, RESOURCES, WEB_DATA, _INDEX, load_story, render_data
+if __package__:
+    from .build_story_archive import CATALOG, ROOT, RESOURCES, WEB_DATA, _INDEX, load_story, render_data, story_illustration_copies
+else:
+    from build_story_archive import CATALOG, ROOT, RESOURCES, WEB_DATA, _INDEX, load_story, render_data, story_illustration_copies
 
 
 def sync():
@@ -11,15 +14,11 @@ def sync():
         for entry in entries:
             folder = ROOT / RESOURCES / _INDEX[entry[2]]["unity"]
             folder.mkdir(parents=True, exist_ok=True)
-            source = ROOT / entry[2]
-            illustrations = json.loads((source / "ilustracje.json").read_text(encoding="utf-8"))
-            for number, image in illustrations.items():
-                if image.get("pending"):
-                    continue
-                original = source / "ilustracje" / (number + ".jpg")
+            for original_path, target_path in story_illustration_copies(entry[2]):
+                original = ROOT / original_path
                 if not original.is_file():
                     raise FileNotFoundError(original)
-                target = folder / (number + ".jpg")
+                target = ROOT / target_path
                 if not target.is_file() or original.read_bytes() != target.read_bytes():
                     shutil.copyfile(original, target)
             story = load_story(*entry, include_pending=True)

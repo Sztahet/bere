@@ -1,5 +1,5 @@
 import bpy
-bpy.ops.wm.open_mainfile(filepath=r'D:\github\bere\assets\patka-animowana.blend')
+bpy.ops.wm.open_mainfile(filepath=r'D:\github\bere\assets\heroes\companions\patka\patka-animowana.blend')
 s=bpy.data.scenes['RIFT_Patka_prosta']
 bpy.context.window.scene=s
 bpy.ops.object.select_all(action='DESELECT')

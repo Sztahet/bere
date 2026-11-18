@@ -33,13 +33,13 @@ h1 { font-size: clamp(2.65rem, 6.5vw, 5.2rem); line-height: 1.04; }
 .hero-count { color: var(--muted); font-size: .76rem; white-space: nowrap; }
 .hero-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: .8rem; }
 .hero-card { --element-glow: #584550; position: relative; isolation: isolate; display: flex; min-width: 0; aspect-ratio: 4 / 5; align-items: end; overflow: hidden; border: 1px solid #544752; background: radial-gradient(ellipse at 50% 30%, var(--element-glow), transparent 72%), linear-gradient(145deg, #28232d, #17151c); color: var(--text); text-decoration: none; transition: border-color .2s, transform .2s; }
-.hero-card.element-fire { --element-glow: #684036; --element-symbol: url('../Assets/Resources/CodexIcons/elements/fire.png'); }
-.hero-card.element-ice { --element-glow: #3a5b6a; --element-symbol: url('../Assets/Resources/CodexIcons/elements/ice.png'); }
-.hero-card.element-lightning { --element-glow: #5a5360; --element-symbol: url('../Assets/Resources/CodexIcons/elements/lightning.png'); }
-.hero-card.element-nature { --element-glow: #3c5543; --element-symbol: url('../Assets/Resources/CodexIcons/elements/nature.png'); }
-.hero-card.element-earth { --element-glow: #605043; --element-symbol: url('../Assets/Resources/CodexIcons/elements/earth.png'); }
-.hero-card.element-light { --element-glow: #665947; --element-symbol: url('../Assets/Resources/CodexIcons/elements/light.png'); }
-.hero-card.element-darkness { --element-glow: #51405e; --element-symbol: url('../Assets/Resources/CodexIcons/elements/darkness.png'); }
+.hero-card.element-fire { --element-glow: #684036; --element-symbol: url('../../assets/ui/elements/fire.png'); }
+.hero-card.element-ice { --element-glow: #3a5b6a; --element-symbol: url('../../assets/ui/elements/ice.png'); }
+.hero-card.element-lightning { --element-glow: #5a5360; --element-symbol: url('../../assets/ui/elements/lightning.png'); }
+.hero-card.element-nature { --element-glow: #3c5543; --element-symbol: url('../../assets/ui/elements/nature.png'); }
+.hero-card.element-earth { --element-glow: #605043; --element-symbol: url('../../assets/ui/elements/earth.png'); }
+.hero-card.element-light { --element-glow: #665947; --element-symbol: url('../../assets/ui/elements/light.png'); }
+.hero-card.element-darkness { --element-glow: #51405e; --element-symbol: url('../../assets/ui/elements/darkness.png'); }
 .hero-card::before { content: ""; position: absolute; inset: 8% 9% auto; height: 58%; z-index: -2; background: var(--element-symbol) center / contain no-repeat; opacity: .08; filter: grayscale(.3); }
 .hero-card .hero-portrait, .hero-card::after { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -1; }
 .hero-card .hero-portrait { object-fit: cover; object-position: center 25%; transition: transform .3s; }

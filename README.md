@@ -8,6 +8,8 @@ Bieżąca wersja gry i kodeksu znajduje się w [projekcie Unity](riftoryn-unity/
 
 Główny dokument projektu: [RIFTORYN_GDD.md](RIFTORYN_GDD.md).
 
+[Biblioteka grafik](assets/README.md) zawiera portrety, plansze koncepcyjne, ilustracje, bestiariusz i ikony.
+
 Propozycje przyszłego modelowania postaci: [Ana i Bob oraz Koneva i Pati](RIFTORYN_PROPOZYCJE_MODELOWANIA_POSTACI.md).
 
 Strona jest statyczna i może być publikowana przez GitHub Pages z katalogu głównego gałęzi `main`. Plik `index.html` kieruje do kodeksu. Po opublikowaniu pod repozytorium `Sztahet/bere` będzie dostępna pod adresem `https://sztahet.github.io/bere/`.

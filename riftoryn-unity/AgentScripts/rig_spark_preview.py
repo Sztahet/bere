@@ -1,6 +1,6 @@
 import bpy, math
 from mathutils import Vector
-bpy.ops.wm.open_mainfile(filepath=r'D:\github\bere\assets\iskra-spark-blockout.blend')
+bpy.ops.wm.open_mainfile(filepath=r'D:\github\bere\assets\heroes\companions\iskra\iskra-spark-blockout.blend')
 scene=bpy.context.scene
 collection=bpy.data.collections['Iskra Spark — model']
 fox=list(collection.objects)
@@ -55,7 +55,7 @@ bpy.ops.object.select_all(action='DESELECT')
 for obj in fox:obj.select_set(True)
 rig.select_set(True);bpy.context.view_layer.objects.active=rig
 scene.frame_start=1;scene.frame_end=49;scene.frame_set(1)
-bpy.ops.wm.save_as_mainfile(filepath=r'D:\github\bere\assets\iskra-spark-rig.blend')
+bpy.ops.wm.save_as_mainfile(filepath=r'D:\github\bere\assets\heroes\companions\iskra\iskra-spark-rig.blend')
 bpy.ops.export_scene.fbx(filepath=r'D:\github\bere\riftoryn-unity\Assets\Resources\Pets\spark-preview.fbx',use_selection=True,object_types={'ARMATURE','MESH'},add_leaf_bones=False,bake_anim=True,bake_anim_use_all_actions=True,bake_anim_use_nla_strips=False,bake_anim_force_startend_keying=True)
-scene.render.filepath=r'D:\github\bere\assets\iskra-spark-rig-podglad.png';bpy.ops.render.render(write_still=True)
+scene.render.filepath=r'D:\github\bere\assets\heroes\companions\iskra\iskra-spark-rig-podglad.png';bpy.ops.render.render(write_still=True)
 print('RIG_RESULT',len(fox),len(rig.pose.bones),idle.name,run.name)

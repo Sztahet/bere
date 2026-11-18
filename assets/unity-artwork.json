@@ -1,0 +1,27 @@
+{
+  "folders": {
+    "heroes/stories/comics": "Stories",
+    "lore/bestiary": "WorldArtifacts",
+    "lore/economy": "WorldArtifacts",
+    "lore/outlaws": "WorldArtifacts/Outlaws",
+    "lore/timeline": "Timeline",
+    "lore/wagons": "WorldArtifacts/Wagons",
+    "ui/elements": "CodexIcons/elements",
+    "ui/roles": "CodexIcons/roles",
+    "ui/stats": "StatIcons"
+  },
+  "files": {
+    "lore/cartography/mapa-kolorowa.png": "WorldArtifacts/mapa-kolorowa.png",
+    "lore/cartography/mapa-odrys.png": "WorldArtifacts/mapa-odrys.png",
+    "lore/cartography/mapa-ozdobna.png": "WorldArtifacts/mapa-ozdobna.png",
+    "lore/cartography/mapa-szkic.png": "WorldArtifacts/mapa-szkic.png",
+    "lore/cartography/nivoren-patrol-en.png": "WorldArtifacts/nivoren-patrol-en.png",
+    "lore/cartography/nivoren-travel-en.png": "WorldArtifacts/nivoren-travel-en.png",
+    "lore/cartography/nivoren-travel-pl.png": "WorldArtifacts/nivoren-travel-pl.png",
+    "lore/cartography/riftoryn-mapa-swiata-v1.png": "Timeline/riftoryn-mapa-swiata-v1.png",
+    "ui/statuses/burn.png": "StatusIcons/burning.png",
+    "ui/statuses/chill.png": "StatusIcons/chill.png",
+    "ui/statuses/poison.png": "StatusIcons/poison.png",
+    "ui/talent-tree/elemental-mandala.png": "Timeline/elemental-mandala.png"
+  }
+}

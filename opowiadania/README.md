@@ -8,14 +8,14 @@ Sprawdzaj położenie i połączenia w [atlasie ASCII Riftorynu](../RIFTORYN_MAP
 
 Opcjonalne tłumaczenie zapisz obok jako `historia.en.md`, w tym samym układzie. Dopóki go nie ma, czytnik nie oferuje angielskiej wersji. Nie wpisuj polskiego tekstu do angielskiego pliku jako zastępnika.
 
-Ilustrację wstaw w obu tekstach znacznikiem `<!-- ilustracja: 01 -->`. W `ilustracje.json` zapisz numer, opis alternatywny `alt` i opcjonalnie `altEn`. Znacznik z `pending: true` rezerwuje miejsce bez wyświetlania pustego obrazka. Gotowy plik `01.jpg` umieść w podfolderze `ilustracje` obok tekstu i usuń `pending: true`; skrypt skopiuje go do zasobów Unity. Ilustracja jest wspólna dla obu języków.
+Ilustrację wstaw w obu tekstach znacznikiem `<!-- ilustracja: 01 -->`. W `ilustracje.json` obok rękopisu zapisz numer, opis alternatywny `alt` i opcjonalnie `altEn`. Znacznik z `pending: true` rezerwuje miejsce. Gotowy plik `01.jpg` umieść w `assets/heroes/stories/illustrations/<bohater>/<część>/` i usuń `pending: true`. Na przykład dla `opowiadania/rian/1_eleven_minutes/` oryginał należy do [ilustracji „Jedenastu minut”](../assets/heroes/stories/illustrations/rian/1_eleven_minutes/). Oryginał służy obu wersjom językowym.
 
 Kolejność części, statusy i powiązania z zasobami Unity są w `katalog.json`. Pole `draft: true` oznacza część do zatwierdzenia; po zatwierdzeniu ustaw `draft: false` dla konkretnej części i uruchom synchronizację. Oznaczenia w obu czytnikach korzystają z tego samego statusu. Relacje grafu są w `riftoryn-unity/Web/hero-relations-data.js`, każda para występuje raz.
 
 Po każdej zmianie uruchom z głównego katalogu:
 
 ```text
-python scripts/sync_stories.py
+python scripts/sync_artwork.py --sync
 python -m unittest discover -s tests
 ```
 

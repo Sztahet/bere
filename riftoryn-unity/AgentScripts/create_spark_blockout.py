@@ -40,11 +40,11 @@ label('ISKRA / SPARK',(.42,-.01,.64),.10)
 bpy.ops.object.camera_add(location=(-2.7,-5.8,2.5));cam=bpy.context.object;cam.rotation_euler=(Vector((-.05,0,1.0))-cam.location).to_track_quat('-Z','Y').to_euler();cam.data.type='ORTHO';cam.data.ortho_scale=3.5;scene.camera=cam
 scene.render.engine='BLENDER_WORKBENCH';scene.display.shading.light='STUDIO';scene.display.shading.color_type='MATERIAL';scene.display.shading.show_shadows=True;scene.display.shading.show_cavity=True;scene.display.shading.background_type='WORLD';scene.world.color=(.055,.04,.075)
 scene.render.resolution_x=1200;scene.render.resolution_y=900;scene.render.resolution_percentage=100
-bpy.ops.wm.save_as_mainfile(filepath=r'D:\github\bere\assets\iskra-spark-blockout.blend')
-scene.render.filepath=r'D:\github\bere\assets\iskra-spark-skala.png';bpy.ops.render.render(write_still=True)
+bpy.ops.wm.save_as_mainfile(filepath=r'D:\github\bere\assets\heroes\companions\iskra\iskra-spark-blockout.blend')
+scene.render.filepath=r'D:\github\bere\assets\heroes\companions\iskra\iskra-spark-skala.png';bpy.ops.render.render(write_still=True)
 # Export only the fox to a portable scene file.
 bpy.ops.object.select_all(action='DESELECT')
 for obj in fox: obj.select_set(True)
 bpy.context.view_layer.objects.active=fox[0]
-bpy.ops.wm.obj_export(filepath=r'D:\github\bere\assets\iskra-spark-blockout.obj',export_selected_objects=True)
+bpy.ops.wm.obj_export(filepath=r'D:\github\bere\assets\heroes\companions\iskra\iskra-spark-blockout.obj',export_selected_objects=True)
 print('MODEL_CREATED',len(fox))

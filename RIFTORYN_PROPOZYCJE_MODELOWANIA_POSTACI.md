@@ -4,7 +4,7 @@
 
 ## Referencje
 
-Arkusze do modelowania trzymamy w [assets/heroes/modeling-concepts](assets/heroes/modeling-concepts/). Portrety wczytywane przez Unity są w `riftoryn-unity/Assets/Resources/Portraits`.
+Arkusze do modelowania trzymamy w [assets/heroes/modeling-concepts](assets/heroes/modeling-concepts/), a portrety źródłowe w [assets/heroes/portraits](assets/heroes/portraits/).
 
 - [Niva — arkusz postaci](assets/heroes/modeling-concepts/niva.png). Koncepcja Wsparcia Lodu: jasny warkocz, futrzany płaszcz i lodowy kryształ.
 - [Liora — arkusz postaci](assets/heroes/modeling-concepts/liora.png). Koncepcja Wsparcia Natury: brązowy warkocz, kwiatowe ozdoby i zielono-kremowy strój.
@@ -18,7 +18,7 @@ Arkusze do modelowania trzymamy w [assets/heroes/modeling-concepts](assets/heroe
 - [Nera — arkusz postaci](assets/heroes/modeling-concepts/nera.png). Referencja do modelowania Wsparcia Błyskawic; podpis „Lightning Specialist” na planszy nie zmienia roli Nery w projekcie.
 - [Neris i Shadow — arkusz postaci](assets/heroes/modeling-concepts/neris-blender-reference.png). Referencja do modelowania Neris i jej kruka.
 - [Adrien — arkusz postaci](assets/heroes/modeling-concepts/adrien-blender-reference.png). Referencja do modelowania Specjalisty Światła.
-- [Ruvan — portret](riftoryn-unity/Assets/Resources/Portraits/ruvan.png). Specjalista Lodu z Nivoren i mentor Saily. W kodeksie widnieje jako postać w przygotowaniu.
+- [Ruvan — portret](assets/heroes/portraits/ruvan-ice-specialist.png). Specjalista Lodu z Nivoren i mentor Saily. W kodeksie widnieje jako postać w przygotowaniu.
 - [Ana i Bob — arkusz koncepcyjny](assets/heroes/modeling-concepts/ana-bob.png). Grafika używa pisowni „Anna”; w GDD występuje „Ana”.
 - [Koneva i Pati — arkusz koncepcyjny](assets/heroes/modeling-concepts/koneva-pati.png). W GDD kotoperz nazywa się „Patka”; relacja nazw „Pati” i „Patka” pozostaje do ustalenia. Arkusz nazywa postacie ogólnie czarodziejką i kotoperzem.
 
@@ -56,7 +56,7 @@ Brakuje kart modelowania siedmiu bohaterów: Varek, Eron, Kiran, Morven, Volt, R
 
 ## Pyrra i Iskra / Spark — nowa referencja
 
-- [Pyrra i Spark — arkusz do przyszłego modelowania](assets/heroes/modeling-concepts/pyrra-spark.png). To wcześniejsza ilustracyjna referencja, a nie gotowy model 3D; wygląd Sparka wymaga dostosowania do [karty popielca](assets/heroes/modeling-concepts/ashstride-popielec.png). Iskra to polskie imię młodego samca, Spark jest angielskim odpowiednikiem.
+- [Pyrra i Spark — arkusz do przyszłego modelowania](assets/heroes/modeling-concepts/pyrra-spark.png). To wcześniejsza ilustracyjna referencja, a nie gotowy model 3D; wygląd Sparka wymaga dostosowania do [karty popielca](assets/lore/bestiary/ashstride.png). Iskra to polskie imię młodego samca, Spark jest angielskim odpowiednikiem.
 - Pyrra: ciemne włosy z rudymi pasmami, warstwowy czerwono-fioletowy płaszcz i złote ozdoby. Arkusz proponuje 168–170 cm wzrostu.
 - Iskra / Spark: mały lis ognisty o dużych uszach i płomiennym ogonie; proponowana wysokość w kłębie 28–32 cm.
 - Widoki, mimika, pozy, podział stroju i orientacyjne budżety są punktem wyjścia do weryfikacji przed modelowaniem. Wydajność, proporcje i animacje wymagają testów w kamerze gry.
@@ -105,7 +105,7 @@ Brakuje kart modelowania siedmiu bohaterów: Varek, Eron, Kiran, Morven, Volt, R
 
 ## Bramor i skalorak — referencje do modelowania
 
-Oba gatunki mają wspólną [planszę koncepcyjną](riftoryn-unity/Assets/Resources/WorldArtifacts/bramor-skalorak.png). W bestiariuszu Unity każdy ma własną kartę.
+Oba gatunki mają wspólną [planszę koncepcyjną](assets/lore/bestiary/bramor-skalorak.png). W bestiariuszu Unity każdy ma własną kartę.
 
 - **Bramor** zajmuje górną część planszy. Referencja obejmuje masywną sylwetkę, płyty barkowe, warianty kłów, rycie i szarżę oraz widoki dorosłego i młodego osobnika. Dorosła samica to propozycja towarzyszki Ildy.
 - **Skalorak** zajmuje dolną część. Referencja obejmuje wydłużoną sylwetkę, kamienne ubarwienie, wspinaczkę, skok z półki i widoki obu grup wiekowych.

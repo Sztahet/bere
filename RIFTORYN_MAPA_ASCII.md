@@ -1,8 +1,8 @@
 # Mapa ASCII Riftorynu
 
-[Ilustrowana plansza atlasu](assets/lore/riftoryn-mapa-atlas-v1.png) pokazuje główne ośrodki i wybrane oznaczenia. Przy śledzeniu tras korzystaj z mapy ASCII i indeksu poniżej.
+[Ilustrowana plansza atlasu](assets/lore/cartography/riftoryn-mapa-atlas-v1.png) pokazuje główne ośrodki i wybrane oznaczenia. Przy śledzeniu tras korzystaj z mapy ASCII i indeksu poniżej.
 
-Mapa robocza kontynentu dla opowieści, stan odniesienia 12 ET. Północ jest u góry. Linia brzegowa, jezioro, rzeki i układ głównych dróg pochodzą z przerysu [mapy świata](assets/lore/riftoryn-mapa-swiata-v1.png). Kierunki i nazwy głównych ośrodków pochodzą z [sekcji mapy w GDD](RIFTORYN_GDD.md#riftoryn--mapa-świata-i-ośrodki-prób--koncepcja-fabularna--v01). Odległości, dokładny przebieg tras i granice pozostają otwarte. Położenie Val Meris jako neutralnego węzła potwierdza [historia świata](world_history.md#val-meris--wspólny-węzeł).
+Mapa robocza kontynentu dla opowieści, stan odniesienia 12 ET. Północ jest u góry. Linia brzegowa, jezioro, rzeki i układ głównych dróg pochodzą z przerysu [mapy świata](assets/lore/cartography/riftoryn-mapa-swiata-v1.png). Kierunki i nazwy głównych ośrodków pochodzą z [sekcji mapy w GDD](RIFTORYN_GDD.md#riftoryn--mapa-świata-i-ośrodki-prób--koncepcja-fabularna--v01). Odległości, dokładny przebieg tras i granice pozostają otwarte. Położenie Val Meris jako neutralnego węzła potwierdza [historia świata](world_history.md#val-meris--wspólny-węzeł).
 
 ## Kontynent
 
@@ -247,7 +247,7 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 3. Dodaj znacznik do mapy kontynentu, gdy znane jest jego położenie na tyle dobrze, żeby umieścić go względem istniejących punktów. Przy niejasnej geografii użyj istniejącego opisu krainy lub rejestru U i zachowaj odnośnik do źródła.
 4. Przy wspólnej scenie, jak rozmowa Noctena z Piecariusem w N09, użyj jednego identyfikatora i podlinkuj oba opowiadania.
 
-[mapa]: assets/lore/riftoryn-mapa-swiata-v1.png
+[mapa]: assets/lore/cartography/riftoryn-mapa-swiata-v1.png
 [gdd]: RIFTORYN_GDD.md
 [val]: world_history.md#val-meris--wspólny-węzeł
 [przesmyk]: world_history.md#jeden-szlak--biały-przesmyk

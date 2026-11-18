@@ -1,11 +1,13 @@
 (() => {
   "use strict";
   const storyFolders = new Map([
-    ["awakening", "SailaAwakening"],
-    ["finale", "SailaFinale"]
+    ["awakening", ["SailaAwakening", "2_when_the_tower_fell_silent"]],
+    ["finale", ["SailaFinale", "3_what_ruvan_didnt_teach_me"]]
   ]);
-  const storyFolder = storyFolders.get(document.currentScript.dataset.story) ?? "SailaStory";
-  const base = new URL(`../Assets/Resources/${storyFolder}/`, document.currentScript.src);
+  const script = document.currentScript;
+  const [storyFolder, artworkFolder] = storyFolders.get(script.dataset.story) ?? ["SailaStory", "1_the_burden_of_the_crystal"];
+  const base = new URL(`../Assets/Resources/${storyFolder}/`, script.src);
+  const artworkBase = new URL(`../../assets/heroes/stories/illustrations/saila/${artworkFolder}/`, script.src);
   const nav = document.getElementById("story-nav");
   const container = document.getElementById("story-chapters");
   const make = (tag, text, className) => {
@@ -33,7 +35,7 @@
           if (block.image > 0) {
             const figure = make("figure");
             const image = make("img");
-            image.src = new URL(`${String(block.image).padStart(2, "0")}.jpg`, base).href;
+            image.src = new URL(`${String(block.image).padStart(2, "0")}.jpg`, artworkBase).href;
             image.alt = block.alt || "Ilustracja do opowieści o Saili.";
             image.loading = "lazy";
             image.width = block.width ?? 1536;

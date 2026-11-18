@@ -14,7 +14,7 @@ const root='assets/heroes/portraits/';const heroes=[
 
 const codexPreviews = [
   {
-    id: 'veda', name: 'Veda', role: 'Wsparcie', element: 'Ziemia', portrait: 'riftoryn-unity/Assets/Resources/Portraits/veda.png',
+    id: 'veda', name: 'Veda', role: 'Wsparcie', element: 'Ziemia', portrait: 'assets/heroes/portraits/veda-earth-support.png',
     desc: 'Przewoźniczka i kurierka z Kharum. Organizuje dostawy części do osad i wynajmuje ochronę na niebezpieczne trasy. Postać i umiejętności w przygotowaniu.',
     comingSoon: true
   },
@@ -23,7 +23,7 @@ const codexPreviews = [
     name: 'Ruvan',
     role: 'Specjalista',
     element: 'Lód',
-    portrait: 'riftoryn-unity/Assets/Resources/Portraits/ruvan.png',
+    portrait: 'assets/heroes/portraits/ruvan-ice-specialist.png',
     desc: 'Mistrz magii Lodu z Nivoren. Nauczył Sailę prowadzić moc kryształów.',
     comingSoon: true
   },
@@ -32,7 +32,7 @@ const codexPreviews = [
     name: 'Lena',
     role: 'Wsparcie',
     element: 'Światło',
-    portrait: 'riftoryn-unity/Assets/Resources/Portraits/lena.png',
+    portrait: 'assets/heroes/portraits/lena-light-support.png',
     desc: 'Techniczka z Aurelu, która od młodości sprawdzała i zabezpieczała urządzenia w warsztacie Adriena.',
     comingSoon: true
   }

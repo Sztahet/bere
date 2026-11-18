@@ -138,7 +138,7 @@
     "id": "lena",
     "name": "Lena",
     "region": "Aurel",
-    "portrait": "../../../riftoryn-unity/Assets/Resources/Portraits/lena.png",
+    "portrait": "lena-light-support.png",
     "series": null,
     "stories": [
       {
@@ -165,7 +165,7 @@
     "id": "rian",
     "name": "Rian",
     "region": "Vareth",
-    "portrait": "../../../riftoryn-unity/Assets/Resources/Portraits/rian.png",
+    "portrait": "rian-fire-specialist.png",
     "series": "Cena wyboru",
     "stories": [
       {

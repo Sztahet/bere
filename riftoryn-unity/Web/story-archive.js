@@ -12,13 +12,13 @@
   const partsNav = document.getElementById("parts-navigation");
   const parts = ["I", "II", "III"];
   const elements = [["Ogień", "fire"], ["Lód", "ice"], ["Błyskawice", "lightning"], ["Natura", "nature"], ["Ziemia", "earth"], ["Światło", "light"], ["Ciemność", "darkness"]];
-  const iconRoot = "riftoryn-unity/Assets/Resources/CodexIcons";
+  const iconRoot = "assets/ui";
   let currentView;
   let storyLanguage = "pl";
   const sailaCovers = {
-    "ciezar-krysztalu": {src: "riftoryn-unity/Assets/Resources/SailaStory/03.jpg", intro: "Przed zimą Saila utrzymuje w ruchu chłodnię, od której zależą zapasy przełęczy. Każde ładowanie kryształu kosztuje ją więcej sił."},
-    "gdy-wieza-zamilkla": {src: "riftoryn-unity/Assets/Resources/SailaAwakening/05.jpg", intro: "Alarm na górskim szlaku zastaje Sailę w trakcie obchodu. Wieża strzela, a obsługa jest zbyt daleko, by zdążyć z pomocą."},
-    "to-czego-nie-nauczyl-mnie-ruvan": {src: "riftoryn-unity/Assets/Resources/SailaFinale/04.jpg", intro: "Do Nivoren wracają pierwsze wozy z doliny. Gdy Ruvan przyjeżdża z wieściami o Igrzyskach, Saila musi zdecydować, ile chce wziąć na siebie."}
+    "ciezar-krysztalu": {src: "assets/heroes/stories/illustrations/saila/1_the_burden_of_the_crystal/03.jpg", intro: "Przed zimą Saila utrzymuje w ruchu chłodnię, od której zależą zapasy przełęczy. Każde ładowanie kryształu kosztuje ją więcej sił."},
+    "gdy-wieza-zamilkla": {src: "assets/heroes/stories/illustrations/saila/2_when_the_tower_fell_silent/05.jpg", intro: "Alarm na górskim szlaku zastaje Sailę w trakcie obchodu. Wieża strzela, a obsługa jest zbyt daleko, by zdążyć z pomocą."},
+    "to-czego-nie-nauczyl-mnie-ruvan": {src: "assets/heroes/stories/illustrations/saila/3_what_ruvan_didnt_teach_me/04.jpg", intro: "Do Nivoren wracają pierwsze wozy z doliny. Gdy Ruvan przyjeżdża z wieściami o Igrzyskach, Saila musi zdecydować, ile chce wziąć na siebie."}
   };
 
   function element(tag, text, className) {
@@ -132,9 +132,9 @@
     if (story.draft) meta.append(approvalBadge());
     storyTitle.textContent = translated.title;
     const cover = hero.id === "saila" ? sailaCovers[story.id] :
-      hero.id === "rian" && story.id === "jedenascie-minut" ? {src: "riftoryn-unity/Assets/Resources/RianStory1/03.jpg", intro: "Rian przyjmuje zlecenie dotyczące obrony jednej z bram Val Meris."} :
-      hero.id === "rian" && story.id === "drugi-olowek" ? {src: "riftoryn-unity/Assets/Resources/RianStory2/06.jpg", intro: "Rian mierzy się ze skutkami swoich decyzji i uczy innych dostrzegać słabe punkty konstrukcji."} :
-      hero.id === "rian" && story.id === "nie-przestalam" ? {src: "riftoryn-unity/Assets/Resources/RianStory3/01.jpg", intro: "Rian uczy innych bezpiecznego sprawdzania konstrukcji i mierzy się ze swoją przeszłością."} : null;
+      hero.id === "rian" && story.id === "jedenascie-minut" ? {src: "assets/heroes/stories/illustrations/rian/1_eleven_minutes/03.jpg", intro: "Rian przyjmuje zlecenie dotyczące obrony jednej z bram Val Meris."} :
+      hero.id === "rian" && story.id === "drugi-olowek" ? {src: "assets/heroes/stories/illustrations/rian/2_the_second_pencil/06.jpg", intro: "Rian mierzy się ze skutkami swoich decyzji i uczy innych dostrzegać słabe punkty konstrukcji."} :
+      hero.id === "rian" && story.id === "nie-przestalam" ? {src: "assets/heroes/stories/illustrations/rian/3_i_didnt_stop/01.jpg", intro: "Rian uczy innych bezpiecznego sprawdzania konstrukcji i mierzy się ze swoją przeszłością."} : null;
     const coverImage = document.getElementById("reader-cover");
     coverImage.hidden = !cover;
     if (cover) { coverImage.src = cover.src; coverImage.alt = hero.id === "rian" ? (story.id === "drugi-olowek" ? "Rian obserwuje ucznia rysującego przy stole." : story.id === "nie-przestalam" ? "Rian obserwuje uczennicę pracującą nad modelem." : "Rian ogląda monetę przy stole z narzędziami.") : ""; }

@@ -26,7 +26,7 @@ class SplotytAndLenaTests(unittest.TestCase):
         self.assertTrue((RESOURCES / 'Portraits/lena.png').is_file())
         self.assertTrue((ROOT / 'assets/heroes/modeling-concepts/lena.png').is_file())
         previews = (ROOT / 'riftoryn-bohaterowie.js').read_text(encoding='utf-8')
-        self.assertIn('Resources/Portraits/lena.png', previews)
+        self.assertIn('assets/heroes/portraits/lena-light-support.png', previews)
 
 
 if __name__ == '__main__':
