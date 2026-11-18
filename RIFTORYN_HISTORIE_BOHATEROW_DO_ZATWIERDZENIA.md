@@ -439,7 +439,7 @@ W Próbach wykorzystuje szermierkę i wiedzę o mechanizmach, aby wspierać ekip
 
 Pyrra dorastała w kuźniach Vareth, marząc o warsztacie, w którym młodzi rzemieślnicy mogliby bezpiecznie uczyć się pracy z ogniem. Chciała udowodnić, że precyzja jest równie cenna jak siła.
 
-Podczas ulewy mała lisica porwała jej żar i uciekła do jaskini. Pyrra pobiegła za nią, lecz widząc, jak zwierzę próbuje się ogrzać, nie odebrała płomienia. Otuliła lisicę, a kiedy jej ogon rozbłysł, nazwała ją Iskrą. Wspólne ćwiczenia wymagały cierpliwości: Pyrra musiała nauczyć się chronić przyjaciółkę, nie gasząc jej ciekawości.
+Podczas ulewy Pyrra ćwiczyła ładowanie splotytu i ogrzewała dłonie ogniem. Bardzo młody popielec porwał kryształ, uciekł do jaskini i go połknął. Pojawiły się wokół niego ogniste smugi; szybko zaprzyjaźnił się z Pyrrą, która nazwała go Iskrą. Pyrra wie, jak silne są dorosłe popielce, i zastanawia się, czy Iskra nie zagrozi innym, gdy podrośnie. Chce go poznać i nauczyć bezpiecznego zachowania.
 
 W Próbach walczą o środki na warsztat. Pyrra nadal chce pokazać samodzielność, ale wie już, że przyjęcie pomocy Iskry nie umniejsza jej umiejętności.
 
@@ -965,7 +965,7 @@ In the Trials he uses fencing and engineering to support relay crews. He still e
 
 Pyrra grew up among Vareth's forges, dreaming of a safe workshop for young craftspeople and hoping to prove precision mattered as much as strength.
 
-During heavy rain a little fox stole her ember and fled into a cave. Seeing the animal trying to keep warm, Pyrra wrapped her in a cloak instead of taking the flame back. The fox's tail blazed, and Pyrra named her Spark. Their practice required patience: Pyrra learned to protect her friend without suppressing her curiosity.
+During a downpour Pyrra practiced charging splotite and warmed her hands with fire. A very young ashstride snatched the crystal, fled into a cave and swallowed it. Fiery trails appeared around him; he quickly befriended Pyrra, who named him Spark. Knowing how strong adult ashstrides can be, Pyrra wonders whether Spark may become a danger to others as he grows. She wants to understand him and teach him to behave safely.
 
 They enter the Trials to fund the workshop. Pyrra still values independence, but accepting Spark's help does not diminish her skill.
 

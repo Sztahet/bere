@@ -56,7 +56,7 @@ Brakuje kart modelowania siedmiu bohaterów: Varek, Eron, Kiran, Morven, Volt, R
 
 ## Pyrra i Iskra / Spark — nowa referencja
 
-- [Pyrra i Spark — arkusz do przyszłego modelowania](assets/heroes/modeling-concepts/pyrra-spark.png). To ilustracyjna referencja, a nie gotowy model 3D. Iskra to polskie imię lisicy; Spark jest angielskim odpowiednikiem.
+- [Pyrra i Spark — arkusz do przyszłego modelowania](assets/heroes/modeling-concepts/pyrra-spark.png). To wcześniejsza ilustracyjna referencja, a nie gotowy model 3D; wygląd Sparka wymaga dostosowania do [karty popielca](assets/heroes/modeling-concepts/ashstride-popielec.png). Iskra to polskie imię młodego samca, Spark jest angielskim odpowiednikiem.
 - Pyrra: ciemne włosy z rudymi pasmami, warstwowy czerwono-fioletowy płaszcz i złote ozdoby. Arkusz proponuje 168–170 cm wzrostu.
 - Iskra / Spark: mały lis ognisty o dużych uszach i płomiennym ogonie; proponowana wysokość w kłębie 28–32 cm.
 - Widoki, mimika, pozy, podział stroju i orientacyjne budżety są punktem wyjścia do weryfikacji przed modelowaniem. Wydajność, proporcje i animacje wymagają testów w kamerze gry.

@@ -171,7 +171,7 @@ Przywoływacz ma dwa pełne zestawy statystyk: własne oraz swojego peta. Przywo
 | Kiran | Specjalista / Ziemia | 115 | 20 | 5,5 | — | — | — | — |
 | Adrien | Specjalista / Światło | 105 | 20 | 5,7 | — | — | — | — |
 | Lucen | Specjalista / Światło (alternatywa) | 105 | 20 | 5,6 | — | — | — | — |
-| Pyrra | Przywoływacz / Ogień | 60 | 8 | 5,2 | Lis Iskra | 65 | 12 | 6,0 |
+| Pyrra | Przywoływacz / Ogień | 60 | 8 | 5,2 | Popielec Iskra | 65 | 12 | 6,0 |
 | Eira | Przywoływacz / Lód | 60 | 8 | 5,2 | Ryś Szron | 85 | 14 | 5,5 |
 | Volt | Przywoływacz / Błyskawice | 60 | 8 | 5,4 | Sokół Grom | 55 | 10 | 7,0 |
 | Ana | Przywoływacz / Natura | 60 | 8 | 5,1 | Panda Bob | 150 | 10 | 3,8 |
@@ -306,7 +306,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 
 **Siedem koncepcji — nazwy i zdolności robocze:**
 
-- **Ogień — Pyrra i lis Iskra:** lis przechwytuje pocisk i tworzy krótką strefę żaru; w obronie pomaga wieży wywierać presję obszarową.
+- **Ogień — Pyrra i popielec Iskra:** popielec przechwytuje pocisk i tworzy krótką strefę żaru; w obronie pomaga wieży wywierać presję obszarową.
 - **Lód — Eira i ryś Szron:** ryś zasłania bohatera i zostawia śliski ślad; w obronie wzmacnia kontrolę ruchu w pobliżu wieży.
 - **Błyskawice — Volt i sokół Grom:** sokół szybko dociera do wskazanego miejsca i przechwytuje pocisk; w obronie pomaga oznaczyć cel dla operatora.
 - **Natura — Ana i panda Bob:** panda osłania Anę oraz wskazanego sojusznika; w obronie wspiera wieżę ochroną lub kontrolą obszaru. Portret przedstawia Anę z pełnowymiarowym Bobem.
@@ -325,8 +325,8 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 
 [USTALONE] Wspólny kierunek nowych portretów bohaterów: pionowy obraz 4:5 z przezroczystym tłem, bez tekstu i znaków wodnych. Tło dobieramy osobno w interfejsie, tak aby pasowało do postaci i zachowało spójność gry; nie jest ono częścią pliku portretu. Istniejące portrety z tłem pozostają w użyciu do czasu ich osobnego przygotowania. Kadr od piersi w górę lub szerszy, stylizowana gra fantasy, ręcznie malowane światło i delikatna geometryczna faktura materiałów; wygląd zgodny z dotychczasowymi portretami Riftoryn. Każda postać ma odmienną pozę, sylwetkę i rysy. Pet jest rozpoznawalny, lecz nie zasłania twarzy. Ana i Bob mają osobny portret inspirowany zdjęciem referencyjnym.
 
-**Pyrra — Ogień / lis Iskra**
-> Stylized fantasy character selection portrait, adult female fire summoner, angular heart-shaped face, warm olive skin, short asymmetrical black hair with a copper streak, narrow amber eyes, an old notch in one eyebrow. In a lively three-quarter profile, she looks over her shoulder toward a small ember-red fox perched on her raised forearm. Lean silhouette, layered charcoal-and-rust robes, subtle glowing ember seams, small brass charms. The fox has distinct ears and a softly glowing tail. Firelight warms one side of her face. No large armor, no braid, no text. [Wspólny format].
+**Pyrra — Ogień / popielec Iskra**
+> Stylized fantasy character selection portrait, adult female fire summoner, angular heart-shaped face, warm olive skin, short asymmetrical black hair with a copper streak, narrow amber eyes, an old notch in one eyebrow. In a lively three-quarter profile, she looks over her shoulder toward a very young ashstride perched on her shoulder. Lean silhouette, layered charcoal-and-rust robes, subtle glowing ember seams, small brass charms. The ashstride has large ears, ash-beige fur with rust-red stripes, a dark mane and a softly glowing tail. Firelight warms one side of her face. No large armor, no braid, no text. [Wspólny format].
 
 **Eira — Lód / ryś Szron**
 > Stylized fantasy character selection portrait, mature male ice summoner, long narrow face, pale weathered skin, close-cropped silver hair, one clouded eye and a prominent hooked nose, clean-shaven. Calm downward gaze, body angled sideways, one hand resting on the shoulder of a pale tuft-eared lynx beside him. Tall slender silhouette, deep blue layered coat with fur collar and translucent frost accents, small ice crystals on the lynx's fur. Quiet, introspective mood. No helmet, no scars shared with other heroes, no text. [Wspólny format].

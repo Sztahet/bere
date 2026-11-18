@@ -42,6 +42,12 @@ Strony wyznaczają uczestników, którzy mogą tworzyć mieszane drużyny. Bogat
 
 Akcja gry rozpoczyna się w 12 ET, piętnaście lat po Nocy Zgasłych Wież (3 PT / 3 BT; 12 ET / 12 AT). Rozbieżności w rejestrach i spór o ograniczenia wydobycia dzielą miasta oraz władców. Gdy obie strony zaczynają szykować straże, sygnatariusze wybierają wyjątkowe Igrzyska zamiast kolejnej wojny: ich wynik wskaże jeden z dwóch wcześniej wynegocjowanych modeli zarządzania.
 
+## Popielec (Ashstride)
+
+Popielec to smukły, długonogi drapieżnik i padlinożerca popielnych obszarów Riftorynu, przystosowany do biegu oraz gorącego, suchego terenu. Ma duże uszy, popielatobeżową sierść z rdzawymi pręgami i ciemną grzywę. Dorosłe osobniki są znacznie większe od bardzo młodej Iskry, towarzysza Pyrry; żyją samotnie, w parach lub małych grupach.
+
+Iskra połknął splotyt naładowany przez Pyrrę i pojawiła się wokół niego ognista energia. Nie ustalono, czy inne popielce także potrafią w ten sposób korzystać z ładunku. Pyrra obawia się, że gdy Iskra dorośnie, może stwarzać zagrożenie dla innych; jego przyszłe zachowanie pozostaje otwarte.
+
 ## Splotyt i zależność krain
 
 ### Przed wojną

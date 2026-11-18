@@ -771,11 +771,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570040
-    m_Localized: LIS ISKRA
+    m_Localized: POPIELEC ISKRA
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570041
-    m_Localized: "LIS PRZECHWYTUJE POCISK I TWORZY STREF\u0118 \u017BARU; W OBRONIE WSPIERA PRESJ\u0118 OBSZAROW\u0104 WIE\u017BY."
+    m_Localized: "POPIELEC PRZECHWYTUJE POCISK I TWORZY STREF\u0118 \u017BARU; W OBRONIE WSPIERA PRESJ\u0118 OBSZAROW\u0104 WIE\u017BY."
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570042
@@ -811,7 +811,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570050
-    m_Localized: "Lis przechwytuje pocisk i tworzy stref\u0119 \u017Caru; w obronie wspiera presj\u0119 obszarow\u0105 wie\u017Cy."
+    m_Localized: "Popielec przechwytuje pocisk i tworzy stref\u0119 \u017Caru; w obronie wspiera presj\u0119 obszarow\u0105 wie\u017Cy."
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570051
@@ -2609,7 +2609,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570498
-    m_Localized: lis Iskra
+    m_Localized: popielec Iskra
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570499

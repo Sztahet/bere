@@ -927,13 +927,13 @@
     },
     {
       "key": "text_250be703",
-      "pl": "LIS ISKRA",
-      "en": "ISKRA THE FOX"
+      "pl": "POPIELEC ISKRA",
+      "en": "SPARK THE ASHSTRIDE"
     },
     {
       "key": "text_06eef818",
-      "pl": "LIS PRZECHWYTUJE POCISK I TWORZY STREFĘ ŻARU; W OBRONIE WSPIERA PRESJĘ OBSZAROWĄ WIEŻY.",
-      "en": "THE FOX CATCHES THE PROJECTILE AND CREATES A FIRE ZONE; IN DEFENSE, IT SUPPORTS THE TOWER'S AREA PRESSURE."
+      "pl": "POPIELEC PRZECHWYTUJE POCISK I TWORZY STREFĘ ŻARU; W OBRONIE WSPIERA PRESJĘ OBSZAROWĄ WIEŻY.",
+      "en": "THE ASHSTRIDE CATCHES THE PROJECTILE AND CREATES A FIRE ZONE; IN DEFENSE, IT SUPPORTS THE TOWER'S AREA PRESSURE."
     },
     {
       "key": "text_a697dc14",
@@ -977,8 +977,8 @@
     },
     {
       "key": "text_182a5bb7",
-      "pl": "Lis przechwytuje pocisk i tworzy strefę żaru; w obronie wspiera presję obszarową wieży.",
-      "en": "The fox catches the projectile and creates a fire zone; in defense, it supports the tower's area pressure."
+      "pl": "Popielec przechwytuje pocisk i tworzy strefę żaru; w obronie wspiera presję obszarową wieży.",
+      "en": "The ashstride catches the projectile and creates a fire zone; in defense, it supports the tower's area pressure."
     },
     {
       "key": "text_19b7ea7c",
@@ -3217,7 +3217,7 @@
     },
     {
       "key": "text_271b9163",
-      "pl": "lis Iskra",
+      "pl": "popielec Iskra",
       "en": "Iskra the fox"
     },
     {

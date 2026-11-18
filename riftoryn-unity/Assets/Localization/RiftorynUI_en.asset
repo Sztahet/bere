@@ -775,11 +775,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570040
-    m_Localized: SPARK THE FOX
+    m_Localized: SPARK THE ASHSTRIDE
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570041
-    m_Localized: THE FOX CATCHES THE PROJECTILE AND CREATES A FIRE ZONE; IN DEFENSE, IT SUPPORTS THE TOWER'S AREA PRESSURE.
+    m_Localized: THE ASHSTRIDE CATCHES THE PROJECTILE AND CREATES A FIRE ZONE; IN DEFENSE, IT SUPPORTS THE TOWER'S AREA PRESSURE.
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570042
@@ -815,7 +815,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570050
-    m_Localized: The fox catches the projectile and creates a fire zone; in defense, it supports the tower's area pressure.
+    m_Localized: The ashstride catches the projectile and creates a fire zone; in defense, it supports the tower's area pressure.
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570051
@@ -2613,7 +2613,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570498
-    m_Localized: Spark the fox
+    m_Localized: Spark the ashstride
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570499
