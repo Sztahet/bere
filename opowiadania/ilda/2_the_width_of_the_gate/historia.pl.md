@@ -4,7 +4,7 @@
 
 9 kwietnia, 12 ET · podwórze Ildy, Kamienny Próg, Kharum
 
-Po tygodniu na moim podwórzu znałam już wszystkie konie po sposobie, w jaki podchodziły do żłobu. Ten Hedy próbował najpierw wejść pod sam dach i dopiero potem przypominał sobie o owsie. Siwek z warsztatu wyciągał szyję przez bramę, zamiast przejść jeszcze pół kroku. Został mi na szyi po nim mokry ślad, szeroki jak dłoń. Woźnica patrzył, jak go wycieram. Zapytał, czy jutro też może tu czekać bez zapłaty.
+Po tygodniu na moim podwórzu znałam już wszystkie konie po sposobie, w jaki podchodziły do żłobu. Ten Hedy próbował najpierw wejść pod sam dach i dopiero potem przypominał sobie o owsie. Klacz z warsztatu Dary wyciągała szyję przez bramę, zamiast zrobić jeszcze pół kroku. Został mi po niej na szyi mokry ślad, szeroki jak dłoń. Woźnica patrzył, jak go wycieram. Zapytał, czy jutro też może tu czekać bez zapłaty.
 
 — Możesz jutro nie jechać o tej porze — powiedziałam.
 
@@ -22,7 +22,7 @@ Heda miała od jutra pojechać po drugi ładunek, dalej niż zwykle. Ktoś inny 
 
 — Skończył się twój tydzień — powiedziała Heda. — Ile chcesz robić przez następny?
 
-Odczekałam, aż wsunie linę pod kozioł. Powiedziałam, że rano mogę przyjąć dwa konie, a zapory już nie wezmę codziennie. Heda spytała, co w takim razie z umową z Lutą. Przyniosłam kartkę z niskiej półki, gdzie starczało jej miejsca obok noża. Mieliśmy się spotkać przy płocie dopiero po południu. Heda powiedziała, żebym przyniosła też miskę z owsem.
+Odczekałam, aż wsunie linę pod kozioł. Powiedziałam, że rano mogę przyjąć dwa konie, a zapory już nie wezmę codziennie. Heda spytała, co w takim razie z umową z Darą. Przyniosłam kartkę z niskiej półki, gdzie starczało jej miejsca obok noża. Mieliśmy się spotkać przy płocie dopiero po południu. Heda powiedziała, żebym przyniosła też miskę z owsem.
 
 — Po co?
 
@@ -34,25 +34,25 @@ Podniosłam miskę. Wzięłam palcami trzy ziarnka i wyjęłam spomiędzy nich d
 
 10 kwietnia, 12 ET · sad przy drodze do wyrobisk, Kamienny Próg, Kharum
 
-Luta założyła dolną żerdź od strony sadu tam, gdzie mocowania miały jeszcze znieść ciężar dorosłego zwierzęcia. Oparła na niej kosz. Wczoraj widziała jednego młodego przy wodzie. Tego ranka znów znalazła ślady pod jabłonią, choć położyła trzy żerdzie zgodnie z rysunkiem. Wpuściła nas na grząski brzeg przez furtkę dla ludzi. Od zewnątrz wybłyskiwała na niej skóra przywiązana do uchwytu, żeby nie uderzał o drewno.
+Dara założyła dolną żerdź od strony sadu tam, gdzie mocowania miały jeszcze znieść ciężar dorosłego zwierzęcia. Oparła na niej kosz. Wczoraj widziała jednego młodego przy wodzie. Tego ranka znów znalazła ślady pod jabłonią, choć położyła trzy żerdzie zgodnie z rysunkiem. Wpuściła nas na grząski brzeg przez furtkę dla ludzi. Od zewnątrz wybłyskiwała na niej skóra przywiązana do uchwytu, żeby nie uderzał o drewno.
 
-Skrawki ziemi spod dolnej żerdzi ktoś wygrzebał na stronę sadu. W samym środku była płytka bruzda. Dorosła nie zmieściłaby się tędy, ale małe mogło wsunąć łeb i podważyć miękki grunt. Widziałam dołki po końcach racic. Biegły aż pod jabłoń, której odsłonięty korzeń Luta przed tygodniem przysypała ziemią.
+Skrawki ziemi spod dolnej żerdzi ktoś wygrzebał na stronę sadu. W samym środku była płytka bruzda. Dorosła nie zmieściłaby się tędy, ale małe mogło wsunąć łeb i podważyć miękki grunt. Widziałam dołki po końcach racic. Biegły aż pod jabłoń, której odsłonięty korzeń Dara przed tygodniem przysypała ziemią.
 
 — Wiesz, że wróci? — spytała.
 
 — Wiem, którędy jedno weszło. Kiedy wróci, chcę widzieć.
 
-Przeniosłam miskę na dalszy słup. Usiadłam przed płotem, od strony drogi. Heda czekała z koniem na górze. Nie mogła przyjść bliżej bez sprowadzenia pod sam sad dwóch innych wozów, które akurat jechały za nią. Luta zbierała z drugiej strony. Przez chwilę rozmawiałyśmy przez żerdzie o tym, czy sprzedać na targu cały kosz niżej, gdzie i tak jedzie Heda. Potem w pokrzywach przy wodzie zrobiło się cicho.
+Przeniosłam miskę na dalszy słup. Usiadłam przed płotem, od strony drogi. Heda czekała z koniem na górze. Nie mogła przyjść bliżej bez sprowadzenia pod sam sad dwóch innych wozów, które akurat jechały za nią. Dara odrzucała połamane gałęzie z drugiej strony. Przez chwilę rozmawiałyśmy przez żerdzie o tym, czy Heda mogłaby jednym kursem zabrać i narzędzia Dary, i skrzynie wyrobiska. Potem w pokrzywach przy wodzie zrobiło się cicho.
 
 Zobaczyłam Korę po karku. Była zwrócona do przepustu, choć przez tyle dni od razu wybierała śliwy. Jeden młody stał za nią w połowie brzegu. Drugiego usłyszałam od strony jabłoni. Wycisnął pysk przez żerdź, cofnął się i zaszeleścił w liściach. Kora odwróciła się do sadu. Żerdź zatrzeszczała raz, kiedy przycisnęła ją od dołu pyskiem.
 
-Luta stała po wewnętrznej stronie, kilka kroków od jabłoni. Zawołałam ją cicho. Obie mogłyśmy odejść w górę, jeśli Luta zostawi kosz i pójdzie z daleka od żerdzi. Pokazałam jej furtkę. Pokręciła głową. Furtka była przy nas, bliżej Kory niż drzew. Dopiero wtedy zobaczyłam, że drugi koniec ogrodzenia, przy drabinie, też ma rygiel od wewnątrz. Wskazałam go palcem. Luta odstawiła kosz i poszła wzdłuż muru, za drzewami.
+Dara stała po wewnętrznej stronie, kilka kroków od jabłoni. Zawołałam ją cicho. Obie mogłyśmy odejść w górę, jeśli Dara zostawi kosz i pójdzie z daleka od żerdzi. Pokazałam jej furtkę. Pokręciła głową. Furtka była przy nas, bliżej Kory niż drzew. Dopiero wtedy zobaczyłam, że drugi koniec ogrodzenia, przy drabinie, też ma rygiel od wewnątrz. Wskazałam go palcem. Dara odstawiła kosz i poszła wzdłuż muru, za drzewami.
 
 Młode znowu zawróciło spod żerdzi. Rozstawiliśmy ją na tyle nisko, żeby przeszkadzać dorosłemu, ale od strony drogi małe zdołało rozgarnąć miękką ziemię i wejść. Po drugiej stronie pod spodem tkwił duży korzeń. Widziałam jego płaską krawędź. Młodemu trzeba było teraz ryć twardszą ziemię w odwrotną stronę. Gdyby panicznie zaczęło biegać, z muru nie widziałabym go dobrze.
 
-Nie próbowałam podchodzić. Po drugiej stronie sadu Luta wyszła swoją furtką. Tam, gdzie przedtem przechowywała drabinę, zostawiła ją niedomkniętą. Kora miała do niej dłuższą drogę i nie widziała jej spod płotu. Za to młode mogło. Trzymałam dłonie płasko na kamieniach, żeby odruchowo nie zacząć wystawiać ich przez żerdzie.
+Nie próbowałam podchodzić. Po drugiej stronie sadu Dara wyszła swoją furtką. Tam, gdzie przedtem przechowywała drabinę, zostawiła ją niedomkniętą. Kora miała do niej dłuższą drogę i nie widziała jej spod płotu. Za to młode mogło. Trzymałam dłonie płasko na kamieniach, żeby odruchowo nie zacząć wystawiać ich przez żerdzie.
 
-Po chwili z drugiego końca sadu dobiegło tupnięcie. Młode przecięło zbocze po zewnętrznej stronie i wpadło na miedzę. Samica usłyszała je wcześniej ode mnie. Odeszła od płotu i zawróciła w śliwy. Drugie małe podniosło się z ziemi, gdzie do tej pory prawie go nie widziałam. Kiedy wreszcie zniknęły wszystkie trzy, Luta wróciła do jabłoni. Nie podniosła kosza od razu. Powiedziała, że przed zmrokiem da czas na założenie dolnej żerdzi jeszcze raz. Jutro musi wyjechać na targ i życzy sobie spokoju.
+Po chwili z drugiego końca sadu dobiegło tupnięcie. Młode przecięło zbocze po zewnętrznej stronie i wpadło na miedzę. Samica usłyszała je wcześniej ode mnie. Odeszła od płotu i zawróciła w śliwy. Drugie małe podniosło się z ziemi, gdzie do tej pory prawie go nie widziałam. Kiedy wreszcie zniknęły wszystkie trzy, Dara wróciła do jabłoni. Nie podniosła kosza od razu. Powiedziała, że do zmroku zostało dość czasu, żeby przełożyć dolną żerdź. Z warsztatu przyniesie obie klamry. Ich rozstaw chciała odmierzyć, kiedy zobaczymy, którędy młode wyszło.
 
 — A jak ją założysz? — spytałam.
 
@@ -82,7 +82,7 @@ Kela zajrzała do niej. Były tam teraz dwie garście owsa i połamany kredowy o
 
 Baret poprosił nas, żebyśmy wróciły po południu. Musiał zagadać do ludzi, których imiona chciał wpisać obok mojego imienia. Kela przed wyjściem wzięła kawałek żerdzi i postawiła go przy ścianie, żebym nie musiała nieść go z powrotem na dół.
 
-Po południu było nas na placu więcej. Luta przyprowadziła chłopca, który nosił jej kosze i czasami wychodził przed świtem po wodę. Mogła mu płacić za dodatkowy poranek przy drodze, jeśli dostanie za to miejsce na wozie do targu. Heda obiecała jej miejsce w dniach, kiedy stała obok niej, a Baret zaproponował pieniądze na przygotowanie drugiej zapory. Zachował wykaz dotychczasowych zleceń. Każdemu z woźniców miało się tłumaczyć, co może zrobić, gdy przyjedzie podczas oczekiwania. Najpierw pozwalaliśmy przejść zwierzętom, potem otwierano drogę grupą, dopóki widział ją człowiek na skraju sadu. Do istniejącej zapory przyda się nowe gniazdo od góry, żeby można było unieść ją jedną ręką.
+Po południu było nas na placu więcej. Dara mogła wziąć jeden poranek, jeśli Heda zabierze przy okazji skrzynie z jej warsztatu. Heda przeliczyła ładunek i zaproponowała dwa wspólne kursy w tygodniu. Baret dołożył pieniądze na drugą zaporę i wpisał na pozostałe poranki ludzi z placu. Najpierw mieliśmy przepuszczać zwierzęta, potem puszczać wozy grupą, dopóki człowiek na skraju sadu widział całą drogę. Dara obejrzała jeszcze kawałek drewna, który rano zostawiłam pod ścianą. Wskazała, gdzie zrobi nowe gniazdo, żeby żerdź dało się podnieść jedną ręką.
 
 Kiedy ludzie się rozeszli, Baret powiedział, ile zapłaci każdemu, kto przez godzinę będzie stał przy wozach. Powtórzył tę sumę, ponieważ pierwsza zwykle przechodziła przez moje uszy, jak gdyby mówił o kimś innym. Poprosiłam, żeby wpisał mi tyle samo, choć nie ciągnę za sobą wozu ani nie noszę pod dzienny wykaz bloków. Przesunął kartkę w moją stronę. Przy rubryce na zapłatę zostało trochę miejsca. Podpisałam się powoli. Baret zostawił mi kartkę, aż przeczytałam ją jeszcze raz.
 
@@ -94,7 +94,7 @@ Od wagi Kela zawołała, żeby jej przytrzymać górny róg papieru. Przypinała
 
 Po kilku tygodniach poznawałam po odgłosach, czy Kora idzie sama. Jej kroki było słychać dopiero pod kamieniami. Młode rwały trawę od dołu i pchały się pomiędzy śliwy, zanim ona wyszła z przepustu. Rosły szybciej, niż zmieniało się ich zachowanie. Zaczęły już wchodzić na miedzę przodem i skręcać w górę bez jej popychania. Tego dnia widziałam oba z drugiej strony wody. Samica została za nimi. Położyła łeb nisko przy płaskim kamieniu i pojedynczym ruchem odrzuciła go od pyska.
 
-Rano dyżur przy zaporze miała Heda. Siedziała na złożonej płachcie i rozgniatała pestkę na płaskim boku noża. Mówiłam jej z dołu, gdzie widzę młode. Powtórzyła, kiedy podali jej od góry, że czekają dwa wozy. Luta kazała już ubijać ziemię przy nowym płocie. Zewnętrzny brzeg zrobiłyśmy szerzej. Widziałam, że kiedy samica po raz pierwszy tamtędy poszła, nie zahaczyła bokiem o żadną żerdź. Po wewnętrznej stronie półka pod korzeniem została zasypana i młode odnalazły drogę za matką, pomiędzy murem a wodą.
+Rano dyżur przy zaporze miała Heda. Siedziała na złożonej płachcie i rozgniatała pestkę na płaskim boku noża. Mówiłam jej z dołu, gdzie widzę młode. Powtórzyła, kiedy podali jej od góry, że czekają dwa wozy. Dara kazała już ubijać ziemię przy nowym płocie. Zewnętrzny brzeg zrobiłyśmy szerzej. Widziałam, że kiedy samica po raz pierwszy tamtędy poszła, nie zahaczyła bokiem o żadną żerdź. Po wewnętrznej stronie półka pod korzeniem została zasypana i młode odnalazły drogę za matką, pomiędzy murem a wodą.
 
 Kiedy przyszła moja kolej, mocowałam się przy zaporze tylko z górnym uchem. Drewno było nowe. Baret kazał przyciąć do niego dwa uchwyty, wyżej i niżej, żeby każdy miał za co brać. Rokan przyniósł z placu kliny i położył je obok. Usiadł dalej ode mnie niż dawniej przy ławie, na suchym murze, skąd miał widok na dół. Powiedział, że nie będzie się mi wtrącał w to, gdzie położę klin. Zapytałam, po co zatem przyniósł dwa.
 

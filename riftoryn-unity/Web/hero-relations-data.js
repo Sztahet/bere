@@ -12,6 +12,7 @@ const RIFTORYN_RELACJE = [
     ["rokan","heda","Ojciec i córka · szkic","family","Heda prowadzi własne przewozy. Z Rokanem uczy się uzgadniać, kiedy i jak mogą sobie pomóc.","opowiadania/rokan/2_the_longer_road/historia.pl.md"],
     ["rokan","ilda","Znajomość i współpraca · szkic","work","Ilda pokazuje Rokanowi, jak opiekować się młodym kamieniozębem. Później Rokan pomaga przy drodze obok sadu.","opowiadania/ilda/2_the_width_of_the_gate/historia.pl.md"],
     ["ilda","heda","Przejście przy sadzie · szkic","work","Heda organizuje postoje wozów, a Ilda obserwuje bramory. Po ulewie wspólnie otwierają drogę młodemu uwięzionemu w boksie.","opowiadania/ilda/3_a_way_back/historia.pl.md"],
+    ["ilda","dara","Przejście przy sadzie · szkic","work","Ilda i Dara uzgadniają przebieg płotu przy sadzie i dzielą podwórze między postój wozów a skład narzędzi.","opowiadania/ilda/1_from_the_orchard/historia.pl.md"],
     ["lena","miko","Wspólne próby","work","Znali się wcześniej przelotnie; później wspólnie pracują nad próbami urządzeń i sygnału.","opowiadania/lena/3_i_know_someone_who_can/historia.pl.md"],
     ["nera","varek","Wspólna praca · szkic","work","Nera pracuje z Varek przy przekaźnikach, zwraca uwagę na niepełne meldunki i uczy się wyznaczać własne granice.","opowiadania/nera/1_a_pair_of_hands/historia.pl.md"],
     ["nera","volt","Nauka i współpraca · szkic","work","Volt pokazuje Nerze, jak bezpiecznie sprawdzać urządzenia; oboje uczą się precyzyjnie przekazywać informacje.","opowiadania/nera/2_the_other_end/historia.pl.md"],
