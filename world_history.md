@@ -78,6 +78,12 @@ Spichrzak północny jest niewielkim gryzoniem Nivoren, przystosowanym do chłod
 
 W osadach odciętych zimą utrata zapasów może zagrozić przetrwaniu mieszkańców. Dlatego wzmacniają skrzynie, zabezpieczają wejścia do magazynów, regularnie kontrolują zapasy i rozdzielają rezerwy. Koty pomagają ograniczać liczbę gryzoni, ale nie zastępują kontroli i napraw. To zagrożenie wynika ze sposobu żerowania zwierząt, nie z ich złych zamiarów.
 
+## Żmija graniowa (Ridgebrand Serpent)
+
+Żmija graniowa to duży, jadowity wąż Nivoren, spotykany na skalistych stokach, w wąwozach i przy górskich przełęczach. Wygrzewa się na cieplejszych skałach, a dzięki ubarwieniu trudno ją dostrzec wśród kamieni. Poluje z zasadzki na niewielkie zwierzęta i gwałtownie broni się, gdy zostanie zaskoczona lub osaczona.
+
+Dla transportu niebezpieczne są zarówno ukąszenie, jak i spłoszenie zaprzęgu: nagły ruch i syk mogą sprawić, że konie zerwą się na wąskiej drodze. Przewoźnicy obserwują pobocza, przekazują ostrzeżenia i w miarę możliwości omijają zauważone węże. Nie każde spotkanie kończy się atakiem, lecz utrata wozu lub opóźnienie dostaw może być szczególnie dotkliwe zimą.
+
 ## Splotyt i zależność krain
 
 ### Przed wojną
