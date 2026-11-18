@@ -12,7 +12,7 @@ using UnityEngine;
 
 public partial class RiftorynMenu
 {
-    int artifactPage, artifactMap, artifactWagon, artifactOutlaw;
+    int artifactPage, artifactMap, artifactWagon, artifactOutlaw, artifactBeast;
     bool artifactExpanded, artifactWagonVariant;
     Vector2 artifactScroll;
     readonly Texture2D[] artifactImages=new Texture2D[5];
@@ -29,6 +29,21 @@ public partial class RiftorynMenu
     static readonly string[] OutlawNames={"GRUPA","MACZUGA","MIECZ","KUSZA","MAGIA I","MAGIA II"};
     static readonly string[] OutlawNamesEn={"GROUP","MACE","SWORD","CROSSBOW","MAGIC I","MAGIC II"};
     readonly Texture2D[] outlawImages=new Texture2D[6];
+    readonly Texture2D[] beastImages=new Texture2D[3];
+    static readonly string[] BeastFiles={"gloamclaw","ashstride","brambleback"};
+    static readonly string[] BeastNames={"MROCZNOPAZUR","POPIELEC","CIERNIOGRZBIET"};
+    static readonly string[] BeastNamesEn={"GLOAMCLAW","ASHSTRIDE","BRAMBLEBACK"};
+    static readonly string[] BeastDescriptions={
+        "MROCZNOPAZUR · GLOAMCLAW\n\nCichy drapieżnik lasów i skalistych pograniczy Vesper. Jest aktywny przede wszystkim nocą i o zmierzchu. Gęsta, ciemna kryza pomaga mu kryć sylwetkę wśród zarośli i skał.\n\nZACHOWANIE\nPoluje samotnie; samica może przebywać z młodymi. Jest ostrożny i terytorialny, szczególnie gdy broni potomstwa.\n\nPlansza jest referencją wyglądu gatunku.",
+        "POPIELEC · ASHSTRIDE\n\nSmukły, długonogi drapieżnik i padlinożerca popielnych terenów, przystosowany do biegu i gorącego, suchego środowiska. Duże uszy pomagają mu oddawać ciepło. Żyje samotnie, w parach lub małych grupach.\n\nISKRA I PYRRA\nIskra jest bardzo młodym popielcem. Po połknięciu splotytu naładowanego przez Pyrrę ujawniła się wokół niego ognista energia. Nie wiadomo, czy inne popielce potrafią to samo. Pyrra obawia się, czy jako dorosły nie zagrozi innym.\n\nPlansza pokazuje również znacznie większe dorosłe osobniki.",
+        "CIERNIOGRZBIET · BRAMBLEBACK\n\nDuży, dwugłowy roślinożerca lasów Verdan. Żeruje w gęstych zaroślach, przekopując ziemię w poszukiwaniu roślin. Jego sierść zbiera nasiona, liście i rzepy, które przenosi dalej.\n\nZACHOWANIE\nNa ogół spokojny i stadny, może bronić młodych przed zagrożeniem. Dwie głowy pomagają mu jednocześnie żerować i obserwować otoczenie.\n\nPlansza jest referencją wyglądu gatunku."
+    };
+    static readonly string[] BeastDescriptionsEn={
+        "GLOAMCLAW\n\nA quiet predator of Vesper's forests and rocky borderlands, active mainly at night and twilight. Its dense, dark mantle helps conceal its outline among brush and rocks.\n\nBEHAVIOR\nIt hunts alone; a female may stay with her young. It is cautious and territorial, especially when protecting offspring.\n\nThe sheet is a visual reference for the species.",
+        "ASHSTRIDE\n\nA lean, long-legged predator and scavenger of the ashlands, adapted to running through hot, dry terrain. Large ears help it release heat. It lives alone, in pairs or in small groups.\n\nSPARK AND PYRRA\nSpark is a very young ashstride. Fiery energy appeared around him after he swallowed splotite charged by Pyrra. Whether other ashstrides can do the same is unknown. Pyrra worries that he could become a danger to others as an adult.\n\nThe sheet also shows much larger adults.",
+        "BRAMBLEBACK\n\nA large, two-headed grazer of Verdan's forests. It forages in dense thickets, rooting through soil for plants. Seeds, leaves and burrs cling to its coat and are carried elsewhere.\n\nBEHAVIOR\nGenerally peaceful and social, it may defend its young when threatened. Its two heads help it forage and watch its surroundings at the same time.\n\nThe sheet is a visual reference for the species."
+    };
+
     static readonly string[] WagonDescriptions={
         "WÓZ VEDY · PRZEWOZY NA SZLAKACH\n\nVeda przewozi skrzynie, paczki i części między Kharum a innymi miejscami. W jej historii wóz ciągną konie, a ładunek chroni plandeka. Kiedy jedno z kół zjeżdża z drogi, przewoźnicy przesuwają skrzynię i zabezpieczają ją zapasowym pasem. Później naprawiają uszkodzoną plandekę.\n\nBoczne burty, pasy, narzędzia i zdejmowana osłona pomagają przygotować wóz do różnych zleceń. Właściciel i załoga muszą także uzgodnić ładunek, trasę oraz odbiór.\n\nPlansza pokazuje koncepcję wyglądu wozu, nie gotowy model 3D.",
         "WÓZ ROLNICZY · VERDAN\n\nOtwarty wóz służy do przewożenia plonów, worków, koszy i skrzyń między gospodarstwami, targiem a magazynami. Niskie burty ułatwiają ręczny załadunek; liny pomagają utrzymać towar na nierównej drodze.\n\nZbiory muszą dotrzeć na czas, a stan kanałów, przepraw i dróg ma znaczenie również dla ludzi poza doliną. Użyte tu kolory i konstrukcja pokazują jeden możliwy egzemplarz; wozy innych gospodarstw mogą się różnić.",
@@ -54,10 +69,13 @@ public partial class RiftorynMenu
     {
         Frame(new Rect(50,270,1500,570),panel);
         Text(new Rect(76,284,1000,34),RiftorynCodexData.Text("ŻYCIE W RIFTORYNIE","LIFE IN RIFTORYN"),section);
-        if(Click(new Rect(76,326,190,34),RiftorynCodexData.Text("SELEN","SELEN"),artifactPage==0)&&artifactPage!=0){artifactPage=0;artifactScroll=Vector2.zero;artifactExpanded=false;}
-        if(Click(new Rect(274,326,190,34),RiftorynCodexData.Text("MAPY FABULARNE","IN-WORLD MAPS"),artifactPage==1)&&artifactPage!=1){artifactPage=1;artifactScroll=Vector2.zero;artifactExpanded=false;}
-        if(Click(new Rect(472,326,190,34),RiftorynCodexData.Text("WOZY","WAGONS"),artifactPage==2)&&artifactPage!=2){artifactPage=2;artifactScroll=Vector2.zero;artifactExpanded=false;}
-        if(Click(new Rect(670,326,190,34),RiftorynCodexData.Text("BANDYCI","OUTLAWS"),artifactPage==3)&&artifactPage!=3){artifactPage=3;artifactScroll=Vector2.zero;artifactExpanded=false;}
+        if(Click(new Rect(76,326,150,34),RiftorynCodexData.Text("SELEN","SELEN"),artifactPage==0)&&artifactPage!=0){artifactPage=0;artifactScroll=Vector2.zero;artifactExpanded=false;}
+        if(Click(new Rect(234,326,150,34),RiftorynCodexData.Text("MAPY FABULARNE","IN-WORLD MAPS"),artifactPage==1)&&artifactPage!=1){artifactPage=1;artifactScroll=Vector2.zero;artifactExpanded=false;}
+        if(Click(new Rect(392,326,150,34),RiftorynCodexData.Text("WOZY","WAGONS"),artifactPage==2)&&artifactPage!=2){artifactPage=2;artifactScroll=Vector2.zero;artifactExpanded=false;}
+        if(Click(new Rect(550,326,150,34),RiftorynCodexData.Text("BANDYCI","OUTLAWS"),artifactPage==3)&&artifactPage!=3){artifactPage=3;artifactScroll=Vector2.zero;artifactExpanded=false;}
+        if(Click(new Rect(708,326,150,34),RiftorynCodexData.Text("BESTIE","BEASTS"),artifactPage==4)&&artifactPage!=4){artifactPage=4;artifactScroll=Vector2.zero;artifactExpanded=false;}
+        if(artifactPage==4)
+            for(int i=0;i<3;i++)if(Click(new Rect(76+i*260,368,250,30),RiftorynCodexData.Text(BeastNames[i],BeastNamesEn[i]),artifactBeast==i)){if(artifactBeast!=i)artifactScroll=Vector2.zero;artifactBeast=i;artifactExpanded=false;}
         if(artifactPage==1)
             for(int i=0;i<6;i++)if(Click(new Rect(76+i*131,368,125,30),RiftorynCodexData.Text(ArtifactNames[i],ArtifactNamesEn[i]),artifactMap==i)){artifactMap=i;artifactExpanded=false;}
         if(artifactPage==2)
@@ -72,7 +90,8 @@ public partial class RiftorynMenu
         }
         Rect art=new(76,artifactPage==0?375:hasWagonVariant?445:410,800,hasWagonVariant?355:390);
         Frame(art,panelAlt);Texture2D image;
-        if(artifactPage==3){if(!outlawImages[artifactOutlaw])outlawImages[artifactOutlaw]=Resources.Load<Texture2D>("WorldArtifacts/Outlaws/"+OutlawFiles[artifactOutlaw]);image=outlawImages[artifactOutlaw];}
+        if(artifactPage==4){if(!beastImages[artifactBeast])beastImages[artifactBeast]=Resources.Load<Texture2D>("WorldArtifacts/"+BeastFiles[artifactBeast]);image=beastImages[artifactBeast];}
+        else if(artifactPage==3){if(!outlawImages[artifactOutlaw])outlawImages[artifactOutlaw]=Resources.Load<Texture2D>("WorldArtifacts/Outlaws/"+OutlawFiles[artifactOutlaw]);image=outlawImages[artifactOutlaw];}
         else if(artifactPage==2)
         {
             if(hasWagonVariant&&artifactWagonVariant)
@@ -114,6 +133,7 @@ public partial class RiftorynMenu
             "BANDYCI NA SZLAKACH\n\nW wielu rejonach Riftorynu działają grupy rozbójników, które utrzymują się z napadów na transporty i podróżnych. Dla przewoźników oznacza to zagrożenie nie tylko utratą ładunku: załoga może zostać ranna, a mieszkańcy czekający na żywność, leki lub części mogą nie dostać dostawy.\n\nLUDZIE I MOTYWACJE\nCzęść członków band z różnych powodów nie chce żyć w społecznościach miast i osad. Inni mają odmienne historie i powody. Nie jest to jedna organizacja ani grupa pochodząca tylko z jednej krainy. Samo życie z dala od osad, ubóstwo lub podróżowanie nie czynią nikogo bandytą.\n\nOCHRONA PRZEWOZÓW\nPatrole, eskorty, ostrzeżenia i schronienia pomagają ograniczać niebezpieczeństwo. Żadna kraina nie może jednak stale osłaniać każdej drogi. Załogi muszą oceniać informacje o trasie, planować postoje i wiedzieć, jak wezwać pomoc.\n\nWYGLĄD\nPlansze pokazują możliwe sylwetki i wyposażenie rozbójników: zużyte ubrania, broń oraz sprzęt obozowy. To przykłady do przyszłego modelowania, a nie mundur wspólny dla wszystkich band ani gotowe modele 3D.",
             "OUTLAWS ON THE ROADS\n\nBands of robbers operate in many parts of Riftoryn, living by attacking shipments and travelers. For carriers, the danger goes beyond lost cargo: crews can be injured, and people waiting for food, medicine, or parts may not receive their supplies.\n\nPEOPLE AND MOTIVES\nSome members of these bands choose not to live in the communities of towns and settlements, for different reasons. Others have different histories and motives. They are not one organization or confined to one region. Living far from settlements, poverty, or traveling does not make someone a bandit.\n\nPROTECTING SHIPMENTS\nPatrols, escorts, warnings, and shelters help reduce danger. No region can constantly guard every road. Crews must assess route information, plan stops, and know how to call for help.\n\nAPPEARANCE\nThe sheets show possible outlaw silhouettes and equipment: worn clothing, weapons, and camp gear. They are examples for future modeling, not a uniform shared by all bands or finished 3D models.");
         if(artifactPage==3)content+=RiftorynCodexData.Text("\n\nMAGIA WŚRÓD BAND\nNiektórzy rozbójnicy władają magią żywiołów lub korzystają z przygotowanych urządzeń. W jednej grupie mogą działać osoby o różnych umiejętnościach; sam żywioł nie określa niczyich zamiarów. Ilustracje są przykładami wyglądu i nie ustalają konkretnych zdolności ani ograniczeń rozgrywki.","\n\nMAGIC AMONG OUTLAWS\nSome robbers wield elemental magic or use prepared devices. People with different skills may work in the same band; an element alone does not determine anyone's intentions. The illustrations are visual examples and do not establish specific abilities or gameplay limits.");
+        if(artifactPage==4)content=RiftorynCodexData.Text(BeastDescriptions[artifactBeast],BeastDescriptionsEn[artifactBeast]);
         float height=Mathf.Max(430,body.CalcHeight(new GUIContent(content),530)+20);
         artifactScroll=GUI.BeginScrollView(new Rect(920,344,565,450),artifactScroll,new Rect(0,0,545,height));
         Text(new Rect(0,0,530,height),content,body);GUI.EndScrollView();

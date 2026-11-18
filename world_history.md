@@ -48,6 +48,14 @@ Popielec to smukły, długonogi drapieżnik i padlinożerca popielnych obszarów
 
 Iskra połknął splotyt naładowany przez Pyrrę i pojawiła się wokół niego ognista energia. Nie ustalono, czy inne popielce także potrafią w ten sposób korzystać z ładunku. Pyrra obawia się, że gdy Iskra dorośnie, może stwarzać zagrożenie dla innych; jego przyszłe zachowanie pozostaje otwarte.
 
+## Mrocznopazur (Gloamclaw)
+
+Mrocznopazur to ostrożny, terytorialny drapieżnik lasów i skalistych pograniczy Vesper. Poluje głównie o zmierzchu i nocą. Gęsta, ciemna kryza pomaga mu ukryć sylwetkę wśród skał i roślinności. Zwykle poluje samotnie; samica może przebywać z młodymi i bronić ich przed zagrożeniem.
+
+## Cierniogrzbiet (Brambleback)
+
+Cierniogrzbiet to duży, dwugłowy roślinożerca lasów Verdan. Żeruje w zaroślach, przekopując ziemię w poszukiwaniu roślin; w jego gęstej sierści przenoszą się nasiona i rzepy. Żyje w grupach, jest na ogół spokojny, lecz broni młodych. Dwie głowy pozwalają mu jednocześnie żerować i obserwować otoczenie.
+
 ## Splotyt i zależność krain
 
 ### Przed wojną
