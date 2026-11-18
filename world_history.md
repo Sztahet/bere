@@ -90,6 +90,12 @@ Ryś mroźny jest drapieżnikiem Nivoren przystosowanym do chłodu i śniegu. Ma
 
 Szron, towarzysz Eiry, jest mroźnym rysiem. Eira uwolnił go z wnyków i opatrzył, a po wyzdrowieniu wypuścił; Szron sam do niego wrócił.
 
+## Świetlojeleń (Gleamfawn)
+
+Świetlojeleń to niewielki, płochliwy jeleniowaty o jasnej sierści i delikatnie świecących znaczeniach. Żyje w małych stadach na polanach i obrzeżach lasów, między innymi w Aurelu; zazwyczaj ucieka przed zagrożeniem. Podróżni opowiadają, że spotkanie z nim przynosi szczęście i pomaga znaleźć drogę, lecz te opowieści nie dają gwarancji bezpiecznej podróży.
+
+Blask, towarzysz Lumen, należy do tego gatunku. Lumen i przewodniczka uwolniły go z porzuconej liny, a on później sam zaczął pojawiać się w pobliżu obserwatorium. Ich więź rozwijała się bez przymusu.
+
 ## Splotyt i zależność krain
 
 ### Przed wojną
