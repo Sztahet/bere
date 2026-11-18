@@ -113,7 +113,7 @@ Volt naprawiał przekaźniki i dostarczał wiadomości między stacjami Zerath. 
 Ana wychowała się w Korzennej Przystani, gdzie pomagała rodzinom odbudowywać ogrody i uprawy po trudnych sezonach. Wierzy, że troska o wspólnotę zaczyna się od codziennej pracy, a do Prób zgłasza się, by zapewnić dolinie środki na dalszą odbudowę.
 
 ### Rokan — Ziemia
-Rokan przez większość życia pracował przy kamieniołomach Kamiennego Progu. Kiedy nieumyślnie zabił pancernika, którego nie odróżnił od kamieni, zaopiekował się znalezionym w pobliżu młodym, nazwanym później Krzemieniem. Poczucie winy nie zniknęło, lecz z czasem narodziła się między nimi przyjaźń. W Próbach wspólnie zabiegają o bezpieczniejsze przejścia i warunki pracy.
+Rokan przez większość życia pracował przy kamieniołomach Kamiennego Progu. Kiedy nieumyślnie zabił kamieniozęba, którego nie odróżnił od kamieni, zaopiekował się znalezionym w pobliżu młodym, nazwanym później Krzemieniem. Poczucie winy nie zniknęło, lecz z czasem narodziła się między nimi przyjaźń. W Próbach wspólnie zabiegają o bezpieczniejsze przejścia i warunki pracy.
 
 ### Lumen — Światło
 Lumen pracuje jako archiwistka w Aurelu. Szkoliła się w obserwatorium, gdzie sporządzała mapy i porównywała relacje podróżnych z odczytami latarni. W Próbach chce otworzyć dostęp do tych informacji mniejszym osadom, które zbyt często muszą ruszać w drogę bez wiarygodnych map.
@@ -475,11 +475,11 @@ W Próbach Ana i Bob walczą o środki na odbudowę doliny. Ana troszczy się o 
 
 Rokan przez większość życia pracował przy kamieniołomach Kamiennego Progu. Rozpoznawał pęknięcia w skale i pamiętał zarówno bezpieczne przejścia, jak i miejsca, w których zbyt długo odkładano naprawy. Ufał własnemu doświadczeniu i sądził, że nic ważnego nie umknie jego uwadze.
 
-Podczas pracy przy jednym z wyrobisk poruszył ciężkie kamienie, nie dostrzegając wśród nich zwiniętego pancernika. Dopiero gdy było za późno, zrozumiał, że nie był to kolejny odłamek skały: zwierzę zginęło. W pobliżu znalazł małego pancernika, ukrytego między kamieniami. Rokan podejrzewał, że młode mogło być potomkiem zabitego zwierzęcia, lecz nie mógł mieć pewności.
+Podczas pracy przy jednym z wyrobisk poruszył ciężkie kamienie, nie dostrzegając wśród nich zwiniętego kamieniozęba. Dopiero gdy było za późno, zrozumiał, że nie był to kolejny odłamek skały: zwierzę zginęło. W pobliżu znalazł małego kamieniozęba, ukrytego między kamieniami. Rokan podejrzewał, że młode mogło być potomkiem zabitego zwierzęcia, lecz nie mógł mieć pewności.
 
 Wstrząśnięty wypadkiem Rokan poprosił o pomoc osobę znającą się na opiece nad zwierzętami. Początkowo zajmował się młodym przede wszystkim z poczucia winy, które nie dawało mu spokoju. Przygotowywał mu bezpieczne schronienie i pokarm, ucząc się, czego zwierzę potrzebuje, zamiast zakładać, że jego doświadczenie w pracy ze skałą wystarczy.
 
-Nazwany Krzemieniem pancernik był ciekawski i uparty: potrafił schować się, gdy nie chciał być dotykany, a później sam wracał, by badać narzędzia Rokana. Z czasem opieka przestała być dla niego wyłącznie próbą odpowiedzenia na własny błąd. Nauczył się cierpliwie szanować granice małego towarzysza, a ich codzienne spotkania przerodziły się w bliską przyjaźń.
+Nazwany Krzemieniem kamienioząb był ciekawski i uparty: potrafił schować się, gdy nie chciał być dotykany, a później sam wracał, by badać narzędzia Rokana. Z czasem opieka przestała być dla niego wyłącznie próbą odpowiedzenia na własny błąd. Nauczył się cierpliwie szanować granice małego towarzysza, a ich codzienne spotkania przerodziły się w bliską przyjaźń.
 
 Rokan nigdy nie zapomniał o zabitym zwierzęciu i wie, że nie może cofnąć tego, co się stało. Przed pracą dokładniej sprawdza teren i zachęca młodszych pracowników, by zwracali uwagę także na zwierzęta w pobliżu. Nie traktuje tego jako sposobu na spłacenie winy. W Próbach wraz z Krzemieniem zabiega o bezpieczniejsze przejścia i warunki pracy, pozostawiając towarzyszowi bezpieczne miejsce, gdy wyrobisko jest zbyt niebezpieczne.
 
@@ -641,7 +641,7 @@ Volt repaired relays and carried messages between Zerath's stations. While carel
 Ana grew up in Rooted Landing, helping families restore gardens and crops after difficult seasons. She believes caring for a community begins with everyday work, and enters the Trials to secure resources for the valley's continued recovery.
 
 ### Rokan — Earth
-Rokan spent most of his life at Stone Threshold's quarries. After accidentally killing an armadillo he mistook for a stone, he cared for a young one found nearby, later named Flint. His guilt did not disappear, but over time they formed a friendship. Together they enter the Trials for safer passages and working conditions.
+Rokan spent most of his life at Stone Threshold's quarries. After accidentally killing a pebblemaw he mistook for a stone, he cared for a young one found nearby, later named Flint. His guilt did not disappear, but over time they formed a friendship. Together they enter the Trials for safer passages and working conditions.
 
 ### Lumen — Light
 Lumen works as an archivist in Aurel. She trained at the Aurelian observatory, making maps and comparing travelers' accounts with beacon readings. In the Trials, she wants to open access to this information for smaller settlements that too often have to travel without reliable maps.
@@ -1001,11 +1001,11 @@ Ana and Bob enter the Trials for the valley's restoration. She cares for her tea
 
 Rokan spent most of his life working at Stone Threshold's quarries, recognizing cracks and remembering both safe passages and neglected repairs. He trusted his experience and believed nothing important would escape his notice.
 
-While working at a quarry, he moved heavy stones without noticing a curled-up armadillo among them. Only when it was too late did he realize it was not another fragment of rock: the animal had died. Nearby he found a young armadillo hidden between the stones. Rokan suspected the young one might have been the dead animal's offspring, but could not be sure.
+While working at a quarry, he moved heavy stones without noticing a curled-up pebblemaw among them. Only when it was too late did he realize it was not another fragment of rock: the animal had died. Nearby he found a young pebblemaw hidden between the stones. Rokan suspected the young one might have been the dead animal's offspring, but could not be sure.
 
-Shaken by the accident, Rokan asked someone experienced in animal care for help. At first he looked after the young armadillo chiefly out of guilt that would not leave him. He prepared a safe shelter and food, learning what the animal needed instead of assuming his experience with stone was enough.
+Shaken by the accident, Rokan asked someone experienced in animal care for help. At first he looked after the young pebblemaw chiefly out of guilt that would not leave him. He prepared a safe shelter and food, learning what the animal needed instead of assuming his experience with stone was enough.
 
-The armadillo, whom he named Flint, was curious and stubborn: he would hide when he did not want to be touched, then return on his own to investigate Rokan's tools. In time, caring for him became more than a response to Rokan's mistake. He learned to respect his small companion's boundaries, and their daily meetings grew into a close friendship.
+The pebblemaw, whom he named Flint, was curious and stubborn: he would hide when he did not want to be touched, then return on his own to investigate Rokan's tools. In time, caring for him became more than a response to Rokan's mistake. He learned to respect his small companion's boundaries, and their daily meetings grew into a close friendship.
 
 Rokan never forgot the animal he killed and knows he cannot undo what happened. Before working, he checks the area more carefully and encourages younger workers to look out for animals nearby. He does not treat this as a way to repay his guilt. In the Trials he and Flint seek safer passages and working conditions, and Rokan leaves his companion somewhere safe whenever a quarry is too dangerous.
 

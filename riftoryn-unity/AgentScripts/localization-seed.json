@@ -1522,13 +1522,13 @@
     },
     {
       "key": "text_f6bf6465",
-      "pl": "PANCERNIK KRZEMIEŃ",
-      "en": "KRZEMIEŃ THE ARMADILLO"
+      "pl": "KAMIENIOZĄB KRZEMIEŃ",
+      "en": "KRZEMIEŃ THE PEBBLEMAW"
     },
     {
       "key": "text_ab61be5d",
-      "pl": "PANCERNIK OSŁANIA PRZED POCISKAMI BEZ BLOKOWANIA TRASY; W OBRONIE CHRONI WIEŻĘ.",
-      "en": "THE ARMADILLO SHIELDS AGAINST PROJECTILES WITHOUT BLOCKING THE PATH; IN DEFENSE, IT PROTECTS A TOWER."
+      "pl": "KAMIENIOZĄB OSŁANIA PRZED POCISKAMI BEZ BLOKOWANIA TRASY; W OBRONIE CHRONI WIEŻĘ.",
+      "en": "THE PEBBLEMAW SHIELDS AGAINST PROJECTILES WITHOUT BLOCKING THE PATH; IN DEFENSE, IT PROTECTS A TOWER."
     },
     {
       "key": "text_b6c2e460",
@@ -1762,8 +1762,8 @@
     },
     {
       "key": "text_dcad241e",
-      "pl": "Pancernik osłania przed pociskami bez blokowania trasy; w obronie chroni wieżę.",
-      "en": "The armadillo shields against projectiles without blocking the path; in defense, it protects a tower."
+      "pl": "Kamienioząb osłania przed pociskami bez blokowania trasy; w obronie chroni wieżę.",
+      "en": "The pebblemaw shields against projectiles without blocking the path; in defense, it protects a tower."
     },
     {
       "key": "text_194aa2a2",
@@ -3227,8 +3227,8 @@
     },
     {
       "key": "text_bb665700",
-      "pl": "pancernik Krzemień",
-      "en": "Krzemień the armadillo"
+      "pl": "kamienioząb Krzemień",
+      "en": "Krzemień the pebblemaw"
     },
     {
       "key": "text_97246080",

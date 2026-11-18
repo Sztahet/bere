@@ -1251,11 +1251,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570159
-    m_Localized: "FLINT THE ARMADILLO"
+    m_Localized: "FLINT THE PEBBLEMAW"
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570160
-    m_Localized: THE ARMADILLO SHIELDS AGAINST PROJECTILES WITHOUT BLOCKING THE PATH; IN DEFENSE, IT PROTECTS A TOWER.
+    m_Localized: THE PEBBLEMAW SHIELDS AGAINST PROJECTILES WITHOUT BLOCKING THE PATH; IN DEFENSE, IT PROTECTS A TOWER.
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570161
@@ -1443,7 +1443,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570207
-    m_Localized: The armadillo shields against projectiles without blocking the path; in defense, it protects a tower.
+    m_Localized: The pebblemaw shields against projectiles without blocking the path; in defense, it protects a tower.
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570208
@@ -2621,7 +2621,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570500
-    m_Localized: "Flint the armadillo"
+    m_Localized: "Flint the pebblemaw"
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570501

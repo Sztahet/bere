@@ -1247,11 +1247,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570159
-    m_Localized: "PANCERNIK KRZEMIE\u0143"
+    m_Localized: "KAMIENIOZĄB KRZEMIE\u0143"
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570160
-    m_Localized: "PANCERNIK OS\u0141ANIA PRZED POCISKAMI BEZ BLOKOWANIA TRASY; W OBRONIE CHRONI WIE\u017B\u0118."
+    m_Localized: "KAMIENIOZĄB OS\u0141ANIA PRZED POCISKAMI BEZ BLOKOWANIA TRASY; W OBRONIE CHRONI WIE\u017B\u0118."
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570161
@@ -1439,7 +1439,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570207
-    m_Localized: "Pancernik os\u0142ania przed pociskami bez blokowania trasy; w obronie chroni wie\u017C\u0119."
+    m_Localized: "Kamienioząb os\u0142ania przed pociskami bez blokowania trasy; w obronie chroni wie\u017C\u0119."
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570208
@@ -2617,7 +2617,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570500
-    m_Localized: "pancernik Krzemie\u0144"
+    m_Localized: "kamienioząb Krzemie\u0144"
     m_Metadata:
       m_Items: []
   - m_Id: 3311736570501

@@ -68,6 +68,10 @@ Zorzoróg to niezwykle rzadkie, samotne stworzenie wysokich gór i odległych do
 
 Według opowieści mieszkańców jego pojawieniu się towarzyszą odnowa roślinności, czystsza woda i uspokojenie ziemi; bywa uznawany za znak równowagi. Są to wierzenia i relacje, a nie potwierdzenie, że stworzenie powoduje takie zmiany. Jego ewentualne zdolności, dokładne wymiary i długość życia pozostają niewyjaśnione.
 
+## Kamienioząb (Pebblemaw)
+
+Kamienioząb jest niewielkim, opancerzonym zwierzęciem jaskiń i kamienistych wyrobisk. Zwinięty w kulę przypomina skałę; w razie nadepnięcia lub próby schwytania może gwałtownie bronić się zębami i pazurami. Kopie w żwirze i chroni się w szczelinach. Krzemień, towarzysz Rokana, należy do tego gatunku; ich historię opisuje kodeks bohatera.
+
 ## Splotyt i zależność krain
 
 ### Przed wojną

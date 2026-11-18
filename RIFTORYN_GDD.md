@@ -175,7 +175,7 @@ Przywoływacz ma dwa pełne zestawy statystyk: własne oraz swojego peta. Przywo
 | Eira | Przywoływacz / Lód | 60 | 8 | 5,2 | Ryś Szron | 85 | 14 | 5,5 |
 | Volt | Przywoływacz / Błyskawice | 60 | 8 | 5,4 | Sokół Grom | 55 | 10 | 7,0 |
 | Ana | Przywoływacz / Natura | 60 | 8 | 5,1 | Panda Bob | 150 | 10 | 3,8 |
-| Rokan | Przywoływacz / Ziemia | 60 | 8 | 5,1 | Pancernik Krzemień | 120 | 8 | 3,8 |
+| Rokan | Przywoływacz / Ziemia | 60 | 8 | 5,1 | Kamienioząb Krzemień | 120 | 8 | 3,8 |
 | Lumen | Przywoływacz / Światło | 60 | 8 | 5,3 | Jeleń Blask | 95 | 8 | 5,0 |
 | Koneva | Przywoływacz / Ciemność | 60 | 8 | 5,3 | Kotoperz Patka | 50 | 10 | 6,5 |
 | Neris | Przywoływacz / Ciemność | 60 | 8 | 5,2 | Kruk Cień | 45 | 8 | 6,5 |
@@ -312,7 +312,7 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 - **Natura — Ana i panda Bob:** panda osłania Anę oraz wskazanego sojusznika; w obronie wspiera wieżę ochroną lub kontrolą obszaru. Portret przedstawia Anę z pełnowymiarowym Bobem.
   - [PROPOZYCJA] **Bambus dla Boba:** Ana przywołuje Boba do siebie, wyciąga bambus z plecaka i karmi go, regenerując część jego HP. O charakterze umiejętności decydują wspólna animacja i wybór bezpiecznego momentu. Do zaprojektowania: ilość leczenia, czas animacji, odnowienie lub limit użyć, przerwanie i działanie, gdy Bob jest poza zasięgiem albo został wyeliminowany.
   - [USTALONE — wartości do testów] **Obrona — atak Boba:** co 30 s Bob zeskakuje z murów, biegnie do najbliższego przeciwnika, zadaje mu 10 bazowych obrażeń Natury i wraca do Any. Podczas tej akcji jest niezniszczalny i nie można go zatrzymać ani zakłócić; Runnerzy mogą korzystać z własnych zdolności ochronnych. Żywiołowe modyfikatory i efekty ochronne stosuje się zgodnie z ogólnymi zasadami obrażeń. [OTWARTE] Pierwszy moment aktywacji, wybór celu przy remisie lub braku przeciwnika, zachowanie po utracie celu, warunki przebywania Boba przy Anie oraz szczegóły interakcji z osłonami wymagają doprecyzowania.
-- **Ziemia — Rokan i pancernik Krzemień:** opancerzony towarzysz osłania przejście przed pociskami, nie blokując Runnerów; w obronie daje krótką osłonę wieży.
+- **Ziemia — Rokan i kamienioząb Krzemień:** opancerzony towarzysz osłania przejście przed pociskami, nie blokując Runnerów; w obronie daje krótką osłonę wieży.
 - **Światło — Lumen i jeleń Blask:** jeleń osłania sojusznika świetlistą barierą; w obronie pomaga ujawniać przeciwników w obszarze wieży.
 - **Ciemność — Koneva i Patka:** Konevie towarzyszy mały demoniczny kotoperz Patka; umiejętność obronna wymaga opracowania. Koneva jest pierwszą postacią tej kombinacji.
   - [USTALONE — wartość do testów] **Ucieczka — aktywna zdolność Patki:** Patka przez chwilę bardzo szybko lata w kółko, skupiając na sobie ogień wieży; podczas manewru ma 75% szansy na uniknięcie obrażeń. Po zakończeniu wraca i lata w pobliżu Konevy. [OTWARTE] Czas działania, odnowienie, zasięg, sposób wskazania i liczba wież, szczegóły losowania uników i interakcja z operatorem ręcznym oraz zachowanie po wyeliminowaniu Patki.
@@ -334,8 +334,8 @@ Wszystkie poniższe rozdziały są scalone do jednego dokumentu. Ich oznaczenia 
 **Volt — Błyskawice / sokół Grom**
 > Stylized fantasy character selection portrait, young male lightning summoner, dark brown skin, round face, freckles across the nose, close shaved sides and compact high coiled hair, expressive wide eyes. Dynamic upward gaze as he lifts a gloved arm toward a lightning-marked falcon about to land; wings partially visible without covering his face. Asymmetric navy and ochre flight jacket, copper rings and small sparks, athletic and lively silhouette. No long hair, no heavy armor, no text. [Wspólny format].
 
-**Rokan — Ziemia / pancernik Krzemień**
-> Stylized fantasy character selection portrait, older male earth summoner, deep tan skin, square weathered face, broad nose, white bushy eyebrows, bald head and short grey goatee. Seated, leaning slightly forward, both hands gently holding a small armadillo with layered stone-like plates near his chest. Stocky silhouette, practical clay-brown work clothes, ochre scarf, chipped stone beads and simple leather straps. Patient expression. No glowing lava, no knight armor, no text. [Wspólny format].
+**Rokan — Ziemia / kamienioząb Krzemień**
+> Stylized fantasy character selection portrait, older male earth summoner, deep tan skin, square weathered face, broad nose, white bushy eyebrows, bald head and short grey goatee. Seated, leaning slightly forward, both hands gently holding a small pebblemaw with layered stone-like plates near his chest. Stocky silhouette, practical clay-brown work clothes, ochre scarf, chipped stone beads and simple leather straps. Patient expression. No glowing lava, no knight armor, no text. [Wspólny format].
 
 **Lumen — Światło / jeleń Blask**
 > Stylized fantasy character selection portrait, adult female light summoner, medium-brown skin, long oval face, prominent cheekbones, a small beauty mark under one eye, long dark hair gathered in a high sculptural bun with gold pins. Graceful side-facing pose, looking toward the viewer, one hand extended next to a young luminous deer whose small antlers frame the edge of the composition. Cream and muted gold ceremonial mantle, soft luminous details, slender silhouette. No halo obscuring the face, no braid, no text. [Wspólny format].
