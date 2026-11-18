@@ -78,6 +78,8 @@ Nienaładowany splotyt sam nie przyciąga ich w ten sposób, choć konwój mogą
 
 Na szlakach większym zagrożeniem są bandyci i napady ludzi. Rzadkie spotkania z bestiami budzą jednak silny lęk; niektórzy politycy i zwolennicy rozbudowy obrony mogą wyolbrzymiać ich częstotliwość, by uzasadnić wydatki lub naciskać na zmianę zasad. Nie oznacza to, że każde ostrzeżenie jest fałszywe ani że rzeczywiste zagrożenia można zignorować.
 
+W wielu rejonach działają bandy rozbójników utrzymujących się z napadów na transporty i podróżnych. Część ich członków z różnych powodów nie chce żyć w społecznościach miast i osad; inni mają odmienne motywacje i historie. Grupy te nie tworzą jednej organizacji ani nie pochodzą wyłącznie z jednej krainy. Samo życie z dala od osad, ubóstwo czy podróżowanie nie oznaczają udziału w napadach. Bandy zagrażają przewoźnikom, ich załogom i mieszkańcom czekającym na dostawy; patrole, eskorty i ostrzeżenia mogą ograniczać ryzyko, lecz nie chronią każdej drogi.
+
 Załogi Vesper rozwinęły sposoby maskowania promieniowania naładowanego splotytu, co pomaga chronić transporty przed dzikimi bestiami reagującymi na kryształy. Są również cenione za ochronę przewozów po ciemku i znajomość nocnych tras. Maskowanie ogranicza jedno z zagrożeń: nie usuwa ryzyka napadu, pogody ani przypadkowego spotkania ze zwierzęciem. Jego zasięg, koszt i szczegółowe ograniczenia wymagają dalszego ustalenia.
 
 ### Sieć i ochrona szlaków

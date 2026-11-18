@@ -12,7 +12,7 @@ using UnityEngine;
 
 public partial class RiftorynMenu
 {
-    int artifactPage, artifactMap, artifactWagon;
+    int artifactPage, artifactMap, artifactWagon, artifactOutlaw;
     bool artifactExpanded;
     Vector2 artifactScroll;
     readonly Texture2D[] artifactImages=new Texture2D[5];
@@ -22,6 +22,10 @@ public partial class RiftorynMenu
     static readonly string[] WagonFiles={"veda","verdan","kharum","vareth","nivoren","vesper"};
     static readonly string[] WagonNames={"VEDA","VERDAN","KHARUM","VARETH","NIVOREN","VESPER"};
     readonly Texture2D[] wagonImages=new Texture2D[6];
+    static readonly string[] OutlawFiles={"grupa","maczuga","miecz","kusza"};
+    static readonly string[] OutlawNames={"GRUPA","MACZUGA","MIECZ","KUSZA"};
+    static readonly string[] OutlawNamesEn={"GROUP","MACE","SWORD","CROSSBOW"};
+    readonly Texture2D[] outlawImages=new Texture2D[4];
     static readonly string[] WagonDescriptions={
         "WÓZ VEDY · PRZEWOZY NA SZLAKACH\n\nVeda przewozi skrzynie, paczki i części między Kharum a innymi miejscami. W jej historii wóz ciągną konie, a ładunek chroni plandeka. Kiedy jedno z kół zjeżdża z drogi, przewoźnicy przesuwają skrzynię i zabezpieczają ją zapasowym pasem. Później naprawiają uszkodzoną plandekę.\n\nBoczne burty, pasy, narzędzia i zdejmowana osłona pomagają przygotować wóz do różnych zleceń. Właściciel i załoga muszą także uzgodnić ładunek, trasę oraz odbiór.\n\nPlansza pokazuje koncepcję wyglądu wozu, nie gotowy model 3D.",
         "WÓZ ROLNICZY · VERDAN\n\nOtwarty wóz służy do przewożenia plonów, worków, koszy i skrzyń między gospodarstwami, targiem a magazynami. Niskie burty ułatwiają ręczny załadunek; liny pomagają utrzymać towar na nierównej drodze.\n\nZbiory muszą dotrzeć na czas, a stan kanałów, przepraw i dróg ma znaczenie również dla ludzi poza doliną. Użyte tu kolory i konstrukcja pokazują jeden możliwy egzemplarz; wozy innych gospodarstw mogą się różnić.",
@@ -50,13 +54,17 @@ public partial class RiftorynMenu
         if(Click(new Rect(76,326,190,34),RiftorynCodexData.Text("SELEN","SELEN"),artifactPage==0)&&artifactPage!=0){artifactPage=0;artifactScroll=Vector2.zero;artifactExpanded=false;}
         if(Click(new Rect(274,326,190,34),RiftorynCodexData.Text("MAPY FABULARNE","IN-WORLD MAPS"),artifactPage==1)&&artifactPage!=1){artifactPage=1;artifactScroll=Vector2.zero;artifactExpanded=false;}
         if(Click(new Rect(472,326,190,34),RiftorynCodexData.Text("WOZY","WAGONS"),artifactPage==2)&&artifactPage!=2){artifactPage=2;artifactScroll=Vector2.zero;artifactExpanded=false;}
+        if(Click(new Rect(670,326,190,34),RiftorynCodexData.Text("BANDYCI","OUTLAWS"),artifactPage==3)&&artifactPage!=3){artifactPage=3;artifactScroll=Vector2.zero;artifactExpanded=false;}
         if(artifactPage==1)
             for(int i=0;i<4;i++)if(Click(new Rect(76+i*196,368,188,30),RiftorynCodexData.Text(ArtifactNames[i],ArtifactNamesEn[i]),artifactMap==i)){artifactMap=i;artifactExpanded=false;}
         if(artifactPage==2)
             for(int i=0;i<6;i++)if(Click(new Rect(76+i*131,368,125,30),WagonNames[i],artifactWagon==i)){if(artifactWagon!=i)artifactScroll=Vector2.zero;artifactWagon=i;artifactExpanded=false;}
+        if(artifactPage==3)
+            for(int i=0;i<4;i++)if(Click(new Rect(76+i*196,368,188,30),RiftorynCodexData.Text(OutlawNames[i],OutlawNamesEn[i]),artifactOutlaw==i)){artifactOutlaw=i;artifactExpanded=false;}
         Rect art=new(76,artifactPage==0?375:410,800,390);
         Frame(art,panelAlt);Texture2D image;
-        if(artifactPage==2){if(!wagonImages[artifactWagon])wagonImages[artifactWagon]=Resources.Load<Texture2D>("WorldArtifacts/Wagons/"+WagonFiles[artifactWagon]);image=wagonImages[artifactWagon];}
+        if(artifactPage==3){if(!outlawImages[artifactOutlaw])outlawImages[artifactOutlaw]=Resources.Load<Texture2D>("WorldArtifacts/Outlaws/"+OutlawFiles[artifactOutlaw]);image=outlawImages[artifactOutlaw];}
+        else if(artifactPage==2){if(!wagonImages[artifactWagon])wagonImages[artifactWagon]=Resources.Load<Texture2D>("WorldArtifacts/Wagons/"+WagonFiles[artifactWagon]);image=wagonImages[artifactWagon];}
         else image=ArtifactImage(artifactPage==0?0:artifactMap+1);
         if(image)GUI.DrawTexture(new Rect(art.x+4,art.y+4,art.width-8,art.height-8),image,ScaleMode.ScaleToFit);
         if(GUI.Button(art,GUIContent.none,GUIStyle.none))artifactExpanded=true;
@@ -68,6 +76,9 @@ public partial class RiftorynMenu
             RiftorynCodexData.Text("MAPY FABULARNE\nTo mapy, z jakich mogą korzystać mieszkańcy Riftorynu. Kartografowie i kopiści przedstawiają kontynent na różne sposoby; rysunki nie są pomiarem granic ani gwarancją bezpieczeństwa dróg.\n\nCZTERY EGZEMPLARZE\nOzdobny, kolorowy, szkic i prosty odrys pokazują różną ilość pracy i szczegółów. Kto ma więcej środków, może kupić kunsztownie wykonaną mapę. Inni zdobywają prostszą kopię lub odrysowują ją samodzielnie. Konkretne ceny nie są ustalone.\n\nPRZED PODRÓŻĄ\nNawet kosztowna mapa może być nieaktualna, a prosty szkic może zawierać przydatne miejscowe informacje. Stan przejść należy sprawdzać u przewodników i na posterunkach. Dokładny przebieg dróg i granic pozostaje otwarty.",
             "IN-WORLD MAPS\nThese are maps the people of Riftoryn might use. Cartographers and copyists depict the continent in different ways; drawings are not a survey of borders or a guarantee that roads are safe.\n\nFOUR EXAMPLES\nThe ornate map, colored copy, sketch and simple hand-drawn copy show different levels of detail and work. Someone with more means may buy an elaborate map. Others obtain a simpler copy or trace one themselves. Exact prices are not established.\n\nBEFORE TRAVEL\nEven an expensive map can be outdated, while a simple sketch may contain useful local knowledge. Check crossing conditions with guides and posts. Exact routes and borders remain open.");
         if(artifactPage==2)content=RiftorynCodexData.Text(WagonDescriptions[artifactWagon],WagonDescriptionsEn[artifactWagon]);
+        if(artifactPage==3)content=RiftorynCodexData.Text(
+            "BANDYCI NA SZLAKACH\n\nW wielu rejonach Riftorynu działają grupy rozbójników, które utrzymują się z napadów na transporty i podróżnych. Dla przewoźników oznacza to zagrożenie nie tylko utratą ładunku: załoga może zostać ranna, a mieszkańcy czekający na żywność, leki lub części mogą nie dostać dostawy.\n\nLUDZIE I MOTYWACJE\nCzęść członków band z różnych powodów nie chce żyć w społecznościach miast i osad. Inni mają odmienne historie i powody. Nie jest to jedna organizacja ani grupa pochodząca tylko z jednej krainy. Samo życie z dala od osad, ubóstwo lub podróżowanie nie czynią nikogo bandytą.\n\nOCHRONA PRZEWOZÓW\nPatrole, eskorty, ostrzeżenia i schronienia pomagają ograniczać niebezpieczeństwo. Żadna kraina nie może jednak stale osłaniać każdej drogi. Załogi muszą oceniać informacje o trasie, planować postoje i wiedzieć, jak wezwać pomoc.\n\nWYGLĄD\nPlansze pokazują możliwe sylwetki i wyposażenie rozbójników: zużyte ubrania, broń oraz sprzęt obozowy. To przykłady do przyszłego modelowania, a nie mundur wspólny dla wszystkich band ani gotowe modele 3D.",
+            "OUTLAWS ON THE ROADS\n\nBands of robbers operate in many parts of Riftoryn, living by attacking shipments and travelers. For carriers, the danger goes beyond lost cargo: crews can be injured, and people waiting for food, medicine, or parts may not receive their supplies.\n\nPEOPLE AND MOTIVES\nSome members of these bands choose not to live in the communities of towns and settlements, for different reasons. Others have different histories and motives. They are not one organization or confined to one region. Living far from settlements, poverty, or traveling does not make someone a bandit.\n\nPROTECTING SHIPMENTS\nPatrols, escorts, warnings, and shelters help reduce danger. No region can constantly guard every road. Crews must assess route information, plan stops, and know how to call for help.\n\nAPPEARANCE\nThe sheets show possible outlaw silhouettes and equipment: worn clothing, weapons, and camp gear. They are examples for future modeling, not a uniform shared by all bands or finished 3D models.");
         float height=Mathf.Max(430,body.CalcHeight(new GUIContent(content),530)+20);
         artifactScroll=GUI.BeginScrollView(new Rect(920,344,565,450),artifactScroll,new Rect(0,0,545,height));
         Text(new Rect(0,0,530,height),content,body);GUI.EndScrollView();
