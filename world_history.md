@@ -102,6 +102,12 @@ Bazaltoróg to potężny, stadny roślinożerca wulkanicznych terenów Vareth. M
 
 Zazwyczaj spokojny, może bronić stada i młodych, gdy poczuje zagrożenie. Mieszkańcy szanują bazaltorogi i dają im przestrzeń na szlakach, szczególnie gdy dorosłe osobniki osłaniają młode. Dokładna natura żarzących się wzorów na pancerzu pozostaje do ustalenia.
 
+## Skrytosmok (Veilwyrm)
+
+Skrytosmok jest niewielkim, skrzydlatym smokiem spotykanym niezwykle rzadko w odległych górach, jaskiniach i ruinach. Ma łuski, rogi i świetliste wzory na skrzydłach. Jest czujny i terytorialny; mimo niewielkich rozmiarów może gwałtownie bronić gniazda lub własnego terenu.
+
+Niektóre opowieści wiążą go ze splotytem i skupioną mocą żywiołów. Natura tego związku, zakres zdolności oraz to, czy dotyczą całego gatunku, pozostają do poznania. Naładowany splotyt przyciąga niektóre bestie, lecz reakcja skrytosmoka nie została ustalona.
+
 ## Splotyt i zależność krain
 
 ### Przed wojną
