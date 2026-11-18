@@ -29,10 +29,19 @@ public partial class RiftorynMenu
     static readonly string[] OutlawNames={"GRUPA","MACZUGA","MIECZ","KUSZA","MAGIA I","MAGIA II"};
     static readonly string[] OutlawNamesEn={"GROUP","MACE","SWORD","CROSSBOW","MAGIC I","MAGIC II"};
     readonly Texture2D[] outlawImages=new Texture2D[6];
-    readonly Texture2D[] beastImages=new Texture2D[13];
-    static readonly string[] BeastFiles={"gloamclaw","ashstride","brambleback","rimeback","vaultwurm","aurorath","pebblemaw","snow-nibbler","ridgebrand-serpent","frostlynx","gleamfawn","embercrest","veilwyrm"};
-    static readonly string[] BeastNames={"MROCZNOPAZUR","POPIELEC","CIERNIOGRZBIET","SZRONOGRZBIET","GŁĘBOSKÓR","ZORZORÓG","KAMIENIOZĄB","SPICHRZAK","ŻMIJA GRANIOWA","RYŚ MROŹNY","ŚWIETLOJELEŃ","BAZALTORÓG","SKRYTOSMOK"};
-    static readonly string[] BeastNamesEn={"GLOAMCLAW","ASHSTRIDE","BRAMBLEBACK","RIMEBACK","VAULTWURM","AURORATH","PEBBLEMAW","SNOW NIBBLER","RIDGEBRAND","FROSTLYNX","GLEAMFAWN","EMBERCREST","VEILWYRM"};
+    static readonly (string file, Rect? region)[] BeastArtwork =
+    {
+        ("gloamclaw", null), ("ashstride", null), ("brambleback", null), ("rimeback", null),
+        ("vaultwurm", null), ("aurorath", null), ("pebblemaw", null), ("snow-nibbler", null),
+        ("ridgebrand-serpent", null), ("frostlynx", null), ("gleamfawn", null),
+        ("embercrest", null), ("veilwyrm", null),
+        // The divider occupies rows 559–564 from the top of the 1024 px sheet. UVs start at the bottom.
+        ("bramor-skalorak", new Rect(0, (1024 - 559) / 1024f, 1, 559 / 1024f)),
+        ("bramor-skalorak", new Rect(0, 0, 1, (1024 - 565) / 1024f))
+    };
+    readonly Texture2D[] beastImages = new Texture2D[BeastArtwork.Length];
+    static readonly string[] BeastNames={"MROCZNOPAZUR","POPIELEC","CIERNIOGRZBIET","SZRONOGRZBIET","GŁĘBOSKÓR","ZORZORÓG","KAMIENIOZĄB","SPICHRZAK","ŻMIJA GRANIOWA","RYŚ MROŹNY","ŚWIETLOJELEŃ","BAZALTORÓG","SKRYTOSMOK","BRAMOR","SKALORAK"};
+    static readonly string[] BeastNamesEn={"GLOAMCLAW","ASHSTRIDE","BRAMBLEBACK","RIMEBACK","VAULTWURM","AURORATH","PEBBLEMAW","SNOW NIBBLER","RIDGEBRAND","FROSTLYNX","GLEAMFAWN","EMBERCREST","VEILWYRM","BRAMOR","SKALORAK"};
     static readonly string[] BeastDescriptions={
         "MROCZNOPAZUR · GLOAMCLAW\n\nCichy drapieżnik lasów i skalistych pograniczy Vesper. Jest aktywny przede wszystkim nocą i o zmierzchu. Gęsta, ciemna kryza pomaga mu kryć sylwetkę wśród zarośli i skał.\n\nZACHOWANIE\nPoluje samotnie; samica może przebywać z młodymi. Jest ostrożny i terytorialny, szczególnie gdy broni potomstwa.\n\nPlansza jest referencją wyglądu gatunku.",
         "POPIELEC · ASHSTRIDE\n\nSmukły, długonogi drapieżnik i padlinożerca popielnych terenów, przystosowany do biegu i gorącego, suchego środowiska. Duże uszy pomagają mu oddawać ciepło. Żyje samotnie, w parach lub małych grupach.\n\nISKRA I PYRRA\nIskra jest bardzo młodym popielcem. Po połknięciu splotytu naładowanego przez Pyrrę ujawniła się wokół niego ognista energia. Nie wiadomo, czy inne popielce potrafią to samo. Pyrra obawia się, czy jako dorosły nie zagrozi innym.\n\nPlansza pokazuje również znacznie większe dorosłe osobniki.",
@@ -46,7 +55,9 @@ public partial class RiftorynMenu
         "RYŚ MROŹNY · FROSTLYNX\n\nCzujny drapieżnik Nivoren o gęstym futrze, szerokich łapach i uszach zakończonych pędzelkami. Jest przystosowany do chłodu i poruszania się po śniegu. Poluje między innymi na spichrzaki północne, także w pobliżu osad.\n\nLUDZIE I RYSIE\nObecność dzikich rysi może ograniczać liczbę gryzoni, choć mieszkańcy nadal muszą zabezpieczać i sprawdzać zapasy. Rysie pozostają dzikimi zwierzętami; nie każde ufa ludziom. Szron, towarzysz Eiry, jest mroźnym rysiem. Eira uwolnił go z wnyków, opatrzył i wypuścił, a Szron sam wrócił.\n\nPlansza przedstawia dorosłe i młode osobniki.",
         "ŚWIETLOJELEŃ · GLEAMFAWN\n\nNiewielki, płochliwy jeleniowaty o jasnej sierści i delikatnie świecących znaczeniach. Żyje w małych stadach na polanach i obrzeżach lasów, między innymi w Aurelu. Zazwyczaj ucieka przed zagrożeniem.\n\nBLASK I LUMEN\nLumen wraz z przewodniczką uwolniła młodego świetlojelenia zaplątanego w linę. Nazwany Blaskiem, z czasem sam zaczął odwiedzać okolice obserwatorium; ich więź rozwijała się stopniowo.\n\nPodróżni opowiadają, że spotkanie ze świetlojeleniem przynosi szczęście i pomaga znaleźć drogę. Są to opowieści, nie gwarancja bezpieczeństwa.",
         "BAZALTORÓG · EMBERCREST BASALTBEAST\n\nPotężny roślinożerca wulkanicznych terenów Vareth. Ma zakrzywione rogi, ciemne płytki przypominające bazalt i jasną grzywę. Żeruje na odpornych roślinach oraz porostach wśród skał i popiołu.\n\nSTADO I KRAJOBRAZ\nZazwyczaj spokojny, w razie zagrożenia może zaciekle bronić stada i młodych. Mieszkańcy szanują te zwierzęta; na szlaku dają im przestrzeń, szczególnie gdy dorosłe osobniki osłaniają młode. Wypas jest częścią życia wulkanicznych pastwisk.\n\nPlansza przedstawia propozycję wyglądu gatunku.",
-        "SKRYTOSMOK · VEILWYRM\n\nNiewielki, skrzydlaty smok spotykany niezwykle rzadko w odległych górach, jaskiniach i ruinach. Ma łuskowate ciało, rogi i świetliste wzory na skrzydłach. Jest czujny i terytorialny; mimo niewielkich rozmiarów może gwałtownie bronić gniazda lub własnego terenu.\n\nRELACJE I LEGENDY\nNiektóre opowieści wiążą skrytosmoki ze splotytem oraz skupioną mocą żywiołów. Natura tego związku, zakres ich zdolności i to, czy są wspólne całemu gatunkowi, pozostają do poznania. Naładowany splotyt przyciąga niektóre bestie, lecz nie wiadomo jeszcze, jak reaguje na niego skrytosmok.\n\nPlansza przedstawia propozycję wyglądu gatunku."
+        "SKRYTOSMOK · VEILWYRM\n\nNiewielki, skrzydlaty smok spotykany niezwykle rzadko w odległych górach, jaskiniach i ruinach. Ma łuskowate ciało, rogi i świetliste wzory na skrzydłach. Jest czujny i terytorialny; mimo niewielkich rozmiarów może gwałtownie bronić gniazda lub własnego terenu.\n\nRELACJE I LEGENDY\nNiektóre opowieści wiążą skrytosmoki ze splotytem oraz skupioną mocą żywiołów. Natura tego związku, zakres ich zdolności i to, czy są wspólne całemu gatunkowi, pozostają do poznania. Naładowany splotyt przyciąga niektóre bestie, lecz nie wiadomo jeszcze, jak reaguje na niego skrytosmok.\n\nPlansza przedstawia propozycję wyglądu gatunku.",
+        "BRAMOR\n\nMasywny, podobny do dzika roślinożerca lasów, podgórzy i górskich dolin. Ma grube szczeciny, zakrzywione kły i zachodzące na siebie płytki na karku oraz barkach. Ryjąc w poszukiwaniu korzeni, bulw i grzybów, spulchnia ziemię.\n\nZACHOWANIE\nBramory trzymają się w małych grupach rodzinnych. Osaczony osobnik może zaszarżować, zwłaszcza w okresie godowym. Na wąskich szlakach przewoźnicy zostawiają mu miejsce do przejścia.\n\nPlansza pokazuje warianty sylwetki oraz widoki dorosłych i młodych do modelowania.",
+        "SKALORAK\n\nZwinny drapieżnik skalnych zboczy, urwisk i ruin. Chropowate łuski zlewają się z podłożem, a mocne pazury zapewniają przyczepność na stromych ścianach. Gnieździ się w szczelinach i poluje na drobne zwierzęta.\n\nZACHOWANIE\nNajczęściej trzyma się samotnie lub w parze. Czyha nad ścieżką i rzuca się z wyższej półki, gdy zdobycz przechodzi pod nim. Przewodnicy wypatrują go także powyżej drogi.\n\nPlansza pokazuje warianty ubarwienia oraz widoki dorosłych i młodych do modelowania."
     };
     static readonly string[] BeastDescriptionsEn={
         "GLOAMCLAW\n\nA quiet predator of Vesper's forests and rocky borderlands, active mainly at night and twilight. Its dense, dark mantle helps conceal its outline among brush and rocks.\n\nBEHAVIOR\nIt hunts alone; a female may stay with her young. It is cautious and territorial, especially when protecting offspring.\n\nThe sheet is a visual reference for the species.",
@@ -61,7 +72,9 @@ public partial class RiftorynMenu
         "FROSTLYNX\n\nAn alert predator of Nivoren with dense fur, broad paws and tufted ears, adapted to cold and snow. It hunts northern store nibblers among other prey, including near settlements.\n\nPEOPLE AND LYNXES\nWild lynxes can help limit rodent numbers, though people still need to secure and inspect their supplies. Lynxes remain wild animals; not all trust people. Frost, Eira’s companion, is a frostlynx. Eira freed him from a snare, tended his injuries and released him; Frost returned of his own accord.\n\nThe sheet shows adults and young.",
         "GLEAMFAWN\n\nA small, shy deer with a pale coat and gently glowing markings. It lives in small herds in glades and at forest edges, including in Aurel. It usually flees from danger.\n\nGLIMMER AND LUMEN\nLumen and a guide freed a young gleamfawn tangled in rope. Named Glimmer, he later began visiting the observatory by choice; their bond grew gradually.\n\nTravelers say that meeting a gleamfawn brings good fortune and helps one find the way. These are stories, not a guarantee of safety.",
         "EMBERCREST BASALTBEAST\n\nA powerful herbivore of Vareth’s volcanic lands. It has curved horns, dark basalt-like plates and a pale mane. It grazes on hardy plants and lichens among rock and ash.\n\nHERD AND LANDSCAPE\nUsually calm, it can fiercely defend its herd and young when threatened. Local people respect these animals and give them room on the trail, especially when adults shelter their young. Grazing is part of life on the volcanic pastures.\n\nThe sheet shows a visual concept for the species.",
-        "VEILWYRM\n\nA small winged drake encountered exceptionally rarely in remote mountains, caverns and ruins. It has scales, horns and luminous wing markings. Alert and territorial, it can fiercely defend its nest or territory despite its size.\n\nACCOUNTS AND LEGENDS\nSome stories connect veilwyrms with splotite and concentrated elemental power. The nature of that connection, the scope of their abilities and whether they are shared by the entire species remain unknown. Charged splotite attracts some beasts, but how a veilwyrm responds remains unestablished.\n\nThe sheet shows a visual concept for the species."
+        "VEILWYRM\n\nA small winged drake encountered exceptionally rarely in remote mountains, caverns and ruins. It has scales, horns and luminous wing markings. Alert and territorial, it can fiercely defend its nest or territory despite its size.\n\nACCOUNTS AND LEGENDS\nSome stories connect veilwyrms with splotite and concentrated elemental power. The nature of that connection, the scope of their abilities and whether they are shared by the entire species remain unknown. Charged splotite attracts some beasts, but how a veilwyrm responds remains unestablished.\n\nThe sheet shows a visual concept for the species.",
+        "BRAMOR\n\nA heavy, boar-like herbivore of forests, foothills and mountain valleys. It has coarse bristles, curved tusks and overlapping plates along its neck and shoulders. It loosens the soil as it roots for tubers, roots and fungi.\n\nBEHAVIOR\nBramors live in small family groups. A cornered animal may charge, especially during breeding season. On narrow trails, carriers give it room to pass.\n\nThe sheet shows build variations and adult and juvenile views for modeling.",
+        "SKALORAK\n\nAn agile predator of rocky slopes, cliffs and ruins. Rough scales blend into the surrounding rock, and strong claws give it purchase on steep walls. It nests in crevices and hunts small animals.\n\nBEHAVIOR\nUsually solitary or found in pairs, it waits above a trail and pounces from a ledge as prey passes below. Guides watch the slopes above the road as well as the road itself.\n\nThe sheet shows color variations and adult and juvenile views for modeling."
     };
 
     static readonly string[] WagonDescriptions={
@@ -85,6 +98,22 @@ public partial class RiftorynMenu
         if(!artifactImages[index])artifactImages[index]=Resources.Load<Texture2D>("WorldArtifacts/"+ArtifactFiles[index]);
         return artifactImages[index];
     }
+    static void DrawArtifactImage(Rect bounds, Texture2D image, Rect? region)
+    {
+        if (!image) return;
+        if (!region.HasValue)
+        {
+            GUI.DrawTexture(bounds, image, ScaleMode.ScaleToFit);
+            return;
+        }
+
+        Rect uv = region.Value;
+        float aspect = image.width * uv.width / (image.height * uv.height);
+        float width = Mathf.Min(bounds.width, bounds.height * aspect);
+        float height = width / aspect;
+        Rect fitted = new(bounds.center.x - width / 2, bounds.center.y - height / 2, width, height);
+        GUI.DrawTextureWithTexCoords(fitted, image, uv);
+    }
     void WorldArtifacts()
     {
         Frame(new Rect(50,270,1500,570),panel);
@@ -102,7 +131,7 @@ public partial class RiftorynMenu
             beastPage=artifactBeast/12;
             for(int slot=0;slot<12;slot++)
             {
-                int i=beastPage*12+slot;if(i>=BeastFiles.Length)break;
+                int i=beastPage*12+slot;if(i>=BeastArtwork.Length)break;
                 if(Click(new Rect(76+(slot%4)*200,368+(slot/4)*37,192,30),RiftorynCodexData.Text(BeastNames[i],BeastNamesEn[i]),artifactBeast==i)){if(artifactBeast!=i)artifactScroll=Vector2.zero;artifactBeast=i;artifactExpanded=false;}
             }
         }
@@ -121,7 +150,15 @@ public partial class RiftorynMenu
         bool raisedImage=hasWagonVariant||artifactPage==4;
         Rect art=new(76,artifactPage==0?375:artifactPage==4?482:raisedImage?445:410,800,artifactPage==4?318:raisedImage?355:390);
         Frame(art,panelAlt);Texture2D image;
-        if(artifactPage==4){if(!beastImages[artifactBeast])beastImages[artifactBeast]=Resources.Load<Texture2D>("WorldArtifacts/"+BeastFiles[artifactBeast]);image=beastImages[artifactBeast];}
+        Rect? imageRegion = null;
+        if(artifactPage==4)
+        {
+            var artwork = BeastArtwork[artifactBeast];
+            if (!beastImages[artifactBeast])
+                beastImages[artifactBeast] = Resources.Load<Texture2D>("WorldArtifacts/" + artwork.file);
+            image = beastImages[artifactBeast];
+            imageRegion = artwork.region;
+        }
         else if(artifactPage==3){if(!outlawImages[artifactOutlaw])outlawImages[artifactOutlaw]=Resources.Load<Texture2D>("WorldArtifacts/Outlaws/"+OutlawFiles[artifactOutlaw]);image=outlawImages[artifactOutlaw];}
         else if(artifactPage==2)
         {
@@ -145,7 +182,7 @@ public partial class RiftorynMenu
             image=regionalMaps[language];
         }
         else image=ArtifactImage(artifactPage==0?0:artifactMap+1);
-        if(image)GUI.DrawTexture(new Rect(art.x+4,art.y+4,art.width-8,art.height-8),image,ScaleMode.ScaleToFit);
+        DrawArtifactImage(new Rect(art.x+4,art.y+4,art.width-8,art.height-8),image,imageRegion);
         if(GUI.Button(art,GUIContent.none,GUIStyle.none))artifactExpanded=true;
         Text(new Rect(78,780,800,24),RiftorynCodexData.Text("Kliknij ilustrację, aby ją powiększyć.","Select the image to enlarge it."),mutedText);
         Rect details=new(900,326,610,488);Frame(details,panelAlt);
@@ -171,7 +208,7 @@ public partial class RiftorynMenu
         if(artifactExpanded)
         {
             Fill(new Rect(40,85,1520,760),new Color(.035f,.03f,.055f,.98f));
-            if(image)GUI.DrawTexture(new Rect(70,120,1460,650),image,ScaleMode.ScaleToFit);
+            DrawArtifactImage(new Rect(70,120,1460,650),image,imageRegion);
             if(Click(new Rect(1340,782,190,38),RiftorynCodexData.Text("ZAMKNIJ","CLOSE"),true))artifactExpanded=false;
         }
     }

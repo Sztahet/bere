@@ -103,6 +103,13 @@ Brakuje kart modelowania siedmiu bohaterów: Varek, Eron, Kiran, Morven, Volt, R
 - Sylwetka: rude włosy z luźnym bocznym warkoczem, piegi, fioletowo-złoty strój z motywem błyskawic, szal, skórzana torba, notatnik, narzędzia i kryształowa lampa sygnałowa. Arkusz proponuje wzrost ok. 168–172 cm.
 - Widoki postaci, mimika, warstwy ubioru i pozy są materiałem do modelowania i animacji. Podpis „Lightning Specialist / Jack-of-All-Trades” oraz przykładowe akcje na planszy nie zmieniają ustalonej roli Wsparcia Błyskawic ani zasad umiejętności z GDD.
 
+## Bramor i skalorak — referencje do modelowania
+
+Oba gatunki mają wspólną [planszę koncepcyjną](riftoryn-unity/Assets/Resources/WorldArtifacts/bramor-skalorak.png). W bestiariuszu Unity każdy ma własną kartę.
+
+- **Bramor** zajmuje górną część planszy. Referencja obejmuje masywną sylwetkę, płyty barkowe, warianty kłów, rycie i szarżę oraz widoki dorosłego i młodego osobnika. Dorosła samica to propozycja towarzyszki Ildy.
+- **Skalorak** zajmuje dolną część. Referencja obejmuje wydłużoną sylwetkę, kamienne ubarwienie, wspinaczkę, skok z półki i widoki obu grup wiekowych.
+
 ## Kierunek wizualny
 
 - **Ana:** stylizowana bohaterka Natury; rude włosy, zielono-złoty strój, warstwowy płaszcz i motywy liści. Referencja proponuje ok. 170 cm wzrostu.

@@ -108,6 +108,14 @@ Skrytosmok jest niewielkim, skrzydlatym smokiem spotykanym niezwykle rzadko w od
 
 Niektóre opowieści wiążą go ze splotytem i skupioną mocą żywiołów. Natura tego związku, zakres zdolności oraz to, czy dotyczą całego gatunku, pozostają do poznania. Naładowany splotyt przyciąga niektóre bestie, lecz reakcja skrytosmoka nie została ustalona.
 
+## Bramor
+
+Bramor to masywny roślinożerca podobny do dzika, spotykany w lasach, na podgórzach i w górskich dolinach, między innymi w Kharum. Ma grubą szczecinę, zakrzywione kły i zachodzące na siebie płytki na karku oraz barkach. Spulchnia ziemię, ryjąc w poszukiwaniu korzeni, bulw i grzybów. Bramory trzymają się w małych grupach rodzinnych. Osaczony osobnik może zaszarżować, szczególnie w okresie godowym.
+
+## Skalorak
+
+Skalorak to zwinny drapieżnik skalnych zboczy, urwisk i ruin, spotykany między innymi w Kharum. Jego chropowate łuski zlewają się ze skałą, a mocne pazury ułatwiają wspinanie. Najczęściej trzyma się samotnie lub w parze i gnieździ się w szczelinach. Poluje na drobne zwierzęta z zasadzki, często z półki nad ścieżką.
+
 ## Splotyt i zależność krain
 
 ### Przed wojną
