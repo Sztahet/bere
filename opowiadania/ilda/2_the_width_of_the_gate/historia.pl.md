@@ -2,7 +2,7 @@
 
 ## Pół godziny owsa
 
-Druga połowa lipca, 12 ET · podwórze Ildy, Kamienny Próg, Kharum
+9 kwietnia, 12 ET · podwórze Ildy, Kamienny Próg, Kharum
 
 Po tygodniu na moim podwórzu znałam już wszystkie konie po sposobie, w jaki podchodziły do żłobu. Ten Hedy próbował najpierw wejść pod sam dach i dopiero potem przypominał sobie o owsie. Siwek z warsztatu wyciągał szyję przez bramę, zamiast przejść jeszcze pół kroku. Został mi na szyi po nim mokry ślad, szeroki jak dłoń. Woźnica patrzył, jak go wycieram. Zapytał, czy jutro też może tu czekać bez zapłaty.
 
@@ -32,11 +32,11 @@ Podniosłam miskę. Wzięłam palcami trzy ziarnka i wyjęłam spomiędzy nich d
 
 ## Dolna żerdź
 
-Druga połowa lipca, 12 ET · sad przy drodze do wyrobisk, Kamienny Próg, Kharum
+10 kwietnia, 12 ET · sad przy drodze do wyrobisk, Kamienny Próg, Kharum
 
 Luta założyła dolną żerdź od strony sadu tam, gdzie mocowania miały jeszcze znieść ciężar dorosłego zwierzęcia. Oparła na niej kosz. Wczoraj widziała jednego młodego przy wodzie. Tego ranka znów znalazła ślady pod jabłonią, choć położyła trzy żerdzie zgodnie z rysunkiem. Wpuściła nas na grząski brzeg przez furtkę dla ludzi. Od zewnątrz wybłyskiwała na niej skóra przywiązana do uchwytu, żeby nie uderzał o drewno.
 
-Skrawki ziemi spod dolnej żerdzi ktoś wygrzebał na stronę sadu. W samym środku była płytka bruzda. Dorosła nie zmieściłaby się tędy, ale małe mogło wsunąć łeb i podważyć miękki grunt. Widziałam dołki po końcach racic. Biegły aż pod jabłoń, od której Luta zaczynała zbiór.
+Skrawki ziemi spod dolnej żerdzi ktoś wygrzebał na stronę sadu. W samym środku była płytka bruzda. Dorosła nie zmieściłaby się tędy, ale małe mogło wsunąć łeb i podważyć miękki grunt. Widziałam dołki po końcach racic. Biegły aż pod jabłoń, której odsłonięty korzeń Luta przed tygodniem przysypała ziemią.
 
 — Wiesz, że wróci? — spytała.
 
@@ -66,7 +66,7 @@ Zgodziłam się. Kiedy wracałyśmy, zawołał za nami właściciel siwka. Chcia
 
 ## Czyja jest przerwa
 
-Początek sierpnia, 12 ET · plac przy wadze, Kamienny Próg, Kharum
+16 kwietnia, 12 ET · plac przy wadze, Kamienny Próg, Kharum
 
 Położyłam przed Baretową kartą zmian kawałek żerdzi. Miał zadarty koniec. Przy pierwszym próbnym mocowaniu kazałam wyciąć dla niego ciasne gniazdo, żeby nie obijał się na wietrze. Teraz trudno go było wyciągnąć nawet komuś, kto unosił go z obu stron. Z samego drewna widać było, że przy zaporze stanęłam parę razy bez pomocy. Zacisnęłam na nim ręce, pokazałam, jak to się stało, i odłożyłam.
 
@@ -86,15 +86,17 @@ Po południu było nas na placu więcej. Luta przyprowadziła chłopca, który n
 
 Kiedy ludzie się rozeszli, Baret powiedział, ile zapłaci każdemu, kto przez godzinę będzie stał przy wozach. Powtórzył tę sumę, ponieważ pierwsza zwykle przechodziła przez moje uszy, jak gdyby mówił o kimś innym. Poprosiłam, żeby wpisał mi tyle samo, choć nie ciągnę za sobą wozu ani nie noszę pod dzienny wykaz bloków. Przesunął kartkę w moją stronę. Przy rubryce na zapłatę zostało trochę miejsca. Podpisałam się powoli. Baret zostawił mi kartkę, aż przeczytałam ją jeszcze raz.
 
+Od wagi Kela zawołała, żeby jej przytrzymać górny róg papieru. Przypinała zaproszenie na majowe spotkanie o Wielkich Igrzyskach. Przy słowach „drogi do wyrobisk” zostawiono w druku szeroki odstęp, jakby miał się tam zmieścić jeszcze jeden wiersz. Chciałam dopisać, co się dzieje przy naszym przepuście, póki człowiek od następnego wozu jeszcze tego nie wie. Zapytałam zamiast tego, kto na spotkaniu będzie słuchał. Kela powiedziała, że przyjadą ludzie od obu programów. Przeczytałam kartkę do końca i przybiłam drugi róg.
+
 ## Od wody
 
-Sierpień, 12 ET · miedza przy sadzie, Kamienny Próg, Kharum
+28 kwietnia, 12 ET · miedza przy sadzie, Kamienny Próg, Kharum
 
 Po kilku tygodniach poznawałam po odgłosach, czy Kora idzie sama. Jej kroki było słychać dopiero pod kamieniami. Młode rwały trawę od dołu i pchały się pomiędzy śliwy, zanim ona wyszła z przepustu. Rosły szybciej, niż zmieniało się ich zachowanie. Zaczęły już wchodzić na miedzę przodem i skręcać w górę bez jej popychania. Tego dnia widziałam oba z drugiej strony wody. Samica została za nimi. Położyła łeb nisko przy płaskim kamieniu i pojedynczym ruchem odrzuciła go od pyska.
 
 Rano dyżur przy zaporze miała Heda. Siedziała na złożonej płachcie i rozgniatała pestkę na płaskim boku noża. Mówiłam jej z dołu, gdzie widzę młode. Powtórzyła, kiedy podali jej od góry, że czekają dwa wozy. Luta kazała już ubijać ziemię przy nowym płocie. Zewnętrzny brzeg zrobiłyśmy szerzej. Widziałam, że kiedy samica po raz pierwszy tamtędy poszła, nie zahaczyła bokiem o żadną żerdź. Po wewnętrznej stronie półka pod korzeniem została zasypana i młode odnalazły drogę za matką, pomiędzy murem a wodą.
 
-Kiedy przyszła moja piątkowa zmiana, mocowałam się przy zaporze tylko z górnym uchem. Drewno było nowe. Baret kazał przyciąć do niego dwa uchwyty, wyżej i niżej, żeby każdy miał za co brać. Rokan przyniósł z placu kliny i położył je obok. Usiadł dalej ode mnie niż dawniej przy ławie, na suchym murze, skąd miał widok na dół. Powiedział, że nie będzie się mi wtrącał w to, gdzie położę klin. Zapytałam, po co zatem przyniósł dwa.
+Kiedy przyszła moja kolej, mocowałam się przy zaporze tylko z górnym uchem. Drewno było nowe. Baret kazał przyciąć do niego dwa uchwyty, wyżej i niżej, żeby każdy miał za co brać. Rokan przyniósł z placu kliny i położył je obok. Usiadł dalej ode mnie niż dawniej przy ławie, na suchym murze, skąd miał widok na dół. Powiedział, że nie będzie się mi wtrącał w to, gdzie położę klin. Zapytałam, po co zatem przyniósł dwa.
 
 — Jeden pewnie zapodziejemy — odparł.
 

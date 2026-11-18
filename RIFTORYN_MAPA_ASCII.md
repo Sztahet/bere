@@ -95,7 +95,7 @@ Numery R01–R10 odnoszą się do korytarzy na mapie kontynentu. Kolejne numery 
 - **R04 — północno-wschodni korytarz** · Val Meris ↔ wschodnia strona jeziora ↔ Żarowisko Vareth (F01). [Ośrodki w GDD][gdd] · [Mapa świata][mapa]
 - **R05 — wschodni korytarz** · Iglica Zerath (Z01) ↔ Val Meris. Taren jedzie wozem do Val Meris w maju 12 ET. [Po drugiej stronie][taren3]
 - **R06 — południowy korytarz** · Korzenna Przystań (D01) ↔ Val Meris. Thora wyjeżdża w dniu wyboru i dociera pod koniec marca 12 ET. Eron, Liora i Ana z Bobem wyruszają w różnych terminach w maju. [Thora][thora2] · [Eron][eron] · [Liora][liora] · [Ana][ana]
-- **R07 — południowo-zachodni korytarz** · Kamienny Próg (K01) ↔ okolice Val Meris. W opowieści Rokana wóz Hedy wyrusza 24 maja i dociera 1 czerwca 12 ET. Osobno potwierdzony jest przewóz ładunku Vedy z Kharum do składu pod wschodnią bramą Val Meris. [Mapa świata][mapa] · [Księga bez autora][piecarius1] · [Przysięga z księgi ojca][piecarius3] · [Jeden przechodzi pierwszy][rokan3]
+- **R07 — południowo-zachodni korytarz** · Kamienny Próg (K01) ↔ okolice Val Meris. 24 maja 12 ET Ilda rusza wozem pasażerskim ze zmianą koni i dociera 28 maja. Wóz towarowy Hedy wyjeżdża tego samego dnia, zabiera dodatkowy ładunek po drodze i dociera 1 czerwca 12 ET. Osobno potwierdzony jest przewóz ładunku Vedy z Kharum do składu pod wschodnią bramą Val Meris. [Mapa świata][mapa] · [Księga bez autora][piecarius1] · [Przysięga z księgi ojca][piecarius3] · [Jeden przechodzi pierwszy][rokan3] · [Tędy można wrócić][ilda3]
 - **R08 — zachodnie odgałęzienie na północ** · Aurel → północny szlak → schronienie, przy którym Piecarius spotyka Ruvana (N08) → dolna droga pod przełęczą. Piecarius wyrusza z Aurelu 23 kwietnia 12 ET. [Ślady w popiele][piecarius2]
 - **R09 — wschodnie odgałęzienie między korytarzami** · drogi na wschód od jeziora. W atlasie odcinek orientacyjny z ilustracji, bez ustalonej nazwy i etapów przejazdu między Vareth a Zerath. [Mapa świata][mapa]
 - **R10 — połączenie Kharum z Aurelem** · położenie łącznika jest orientacyjne. Wędrówka Piecariusa jest potwierdzona w opowiadaniach. Jest w Kharum 8 kwietnia i w Aurelu 22 kwietnia 12 ET. [Księga bez autora][piecarius1] · [Ślady w popiele][piecarius2] · [To, co zostaje po drodze][veda1]
@@ -281,6 +281,7 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 [piecarius3]: opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md
 [rokan2]: opowiadania/rokan/2_the_longer_road/historia.pl.md#pod-półką
 [ilda1]: opowiadania/ilda/1_from_the_orchard/historia.pl.md
+[ilda3]: opowiadania/ilda/3_a_way_back/historia.pl.md
 [rokan3]: opowiadania/rokan/3_one_goes_first/historia.pl.md#miejsce-na-wozie
 [rian1]: opowiadania/rian/1_eleven_minutes/historia.pl.md
 [rian2]: opowiadania/rian/2_the_second_pencil/historia.pl.md

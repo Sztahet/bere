@@ -2,23 +2,23 @@
 
 ## Kiedy przychodzi deszcz
 
-Wrzesień, 12 ET · podwórze Ildy, Kamienny Próg, Kharum
+3 maja, 12 ET · podwórze Ildy, Kamienny Próg, Kharum
 
-Luta przywiozła mi dwa kosze jabłek. Za pierwszy zapłaciłam, drugi miał w dnie deskę, którą chciała dostać z powrotem. W ogrodzeniu potrzebowała właśnie takiej szerokości. Wyjęłyśmy ją razem. Jabłka potoczyły się do końca stołu i przez chwilę zbierałyśmy je, schylając się w tę samą stronę. Były dobre. Luta potrafiła wybrać owoce, które przeleżały tydzień na słońcu i wciąż dało się je trzymać przez jesień. Na moje przywiozła jedno pęknięte, żebym od razu je zjadła. Od dłuższego czasu robiła dla mnie takie rzeczy. Nadal liczyła wszystko, zanim odjeżdżała.
+Luta przywiozła mi ostatni kosz jabłek z piwnicy. Pod owocami wiozła wąską deskę. Pożyczyła ode mnie drugą taką samą i chciała ją odzyskać do naprawy płotu. Kiedy przykładałyśmy jedną do drugiej, jabłka potoczyły się do końca stołu i obie schyliłyśmy się w tę samą stronę. Luta wybrała dla mnie to z pomarszczoną skórką. Powiedziała, żebym od niego zaczęła, bo pod spodem jest jeszcze twarde. Od dłuższego czasu robiła dla mnie takie rzeczy. Nadal liczyła wszystko, zanim odjeżdżała.
 
-Kora chodziła już znacznie dalej za śliwy. Widziałyśmy ją mniej więcej raz na trzy poranki. Młode trzymały się wysokiego brzegu. Coraz trudniej było przewidzieć, czy niżej zobaczę wszystkie racice, czy tylko odciśnięte w deszczu ślady. Luta spytała, czy po zbiorze nadal warto wpuszczać ludzi na postój. Miałam teraz połowę dachu załataną. Naprawę opłaciliśmy z poranków przy przejściu i z pieniędzy człowieka od warsztatu. Wziął jeden boks, kiedy dostał od Hedy propozycję wspólnego rozładunku. Wchodził tylko w wyznaczone dni i potrafił nawet odstawić drabinę na miejsce.
+Kora chodziła już znacznie dalej za śliwy. Widziałyśmy ją mniej więcej raz na trzy poranki. Młode trzymały się wysokiego brzegu. Coraz trudniej było przewidzieć, czy niżej zobaczę wszystkie racice, czy tylko odciśnięte w deszczu ślady. Luta spytała, czy nadal warto wpuszczać ludzi na postój, skoro bramory nie pojawiają się codziennie. Miałam teraz połowę dachu załataną. Naprawę opłaciliśmy z poranków przy przejściu i z pieniędzy człowieka od warsztatu. Wziął jeden boks, kiedy dostał od Hedy propozycję wspólnego rozładunku. Wchodził tylko w wyznaczone dni i potrafił nawet odstawić drabinę na miejsce.
 
 — Ludzie mają gdzie czekać — odpowiedziałam. — Jeszcze trochę z tego będzie.
 
-Przy wiadrze wisiała igła, którą Rokan przywiózł w czerwcu. W nowym płótnie robiła szerszy otwór, niż sądziłam. Podałam ją Lucie, kiedy rozdarł się jej worek na jabłka. Umiała szycie, choć zawsze ciągnęła nitkę zbyt daleko i potem nie miała gdzie zmieścić dłoni. Raz chciałam ją poprawić. Zobaczyłam, że po każdym drugim ściegu przygładza szew grzbietem kciuka. Tak robiłam przed laty na kantarze, kiedy pod spodem miał zostać miękki brzeg. Zabrałam kosz ze stołu i zrobiłam jej więcej miejsca.
+Przy wiadrze wisiała moja długa igła. Ucho miała wyszczerbione i grubą nić trzeba było wyciągać pod kątem. Pokazałam Lucie jak, kiedy rozdarł się jej worek na jabłka. Umiała szyć, choć zawsze brała za długą nić i plątała ją sobie wokół nadgarstka. Raz chciałam ją poprawić. Zobaczyłam, że po każdym drugim ściegu przygładza szew grzbietem kciuka. Tak robiłam przed laty na kantarze, kiedy pod spodem miał zostać miękki brzeg. Zabrałam kosz ze stołu i zrobiłam jej więcej miejsca.
 
 Przed południem przyszła od wody mgła. Kiedy uniosła się nad sad, niebo było całkiem ciemne. Pozdejmowałyśmy ze sznura chusty i wniosłyśmy je pod dach. Luta nie odjechała od razu. Dałam jej swój stary płaszcz, bo na bocznym rękawie miała już mokry pas po sam łokieć. Kiedy dotarła do bramy, zobaczyłyśmy obie, że z podwórza płynie woda między brukiem, w stronę zakrętu. Zwykle schodziła za mur od strony wyrobiska. Musiało jej być więcej także na górze albo nie miała już gdzie płynąć przy przepuście.
 
-Później cieszyłam się, że przełożyłam worki z owsem do dawnego pustego boksu zamiast czekać na pewność. Tylko tam było dość wysoko. Zanim przestałam słyszeć koła na drodze, wyniosłam jeszcze ze studzienki zgubiony w czerwcu klin. Powietrze zrobiło się zimne. Położyłam go przy drugim i domknęłam drzwi od strony ulicy.
+Później cieszyłam się, że przełożyłam worki z owsem pod górną ścianę koniuszni, zamiast czekać na pewność. Tylko tam było dość wysoko. Zanim przestałam słyszeć koła na drodze, wyjęłam jeszcze ze studzienki klin zgubiony przy pierwszym postoju wozów. Powietrze zrobiło się zimne. Położyłam go przy drugim i domknęłam drzwi od strony ulicy.
 
 ## Pierwszy wóz
 
-Wrzesień, 12 ET · droga przy sadzie, Kamienny Próg, Kharum
+4 maja, 12 ET · droga przy sadzie, Kamienny Próg, Kharum
 
 Nazajutrz Heda przyszła piechotą. Zostawiła konia u człowieka, któremu miała wieźć drewno. Od górnej strony było widać, że na drodze zebrał się żwir. Od niższej woda naniosła do przepustu gałęzie, a potem poszła drugim korytem, pod samym sadem. Płot Luty trzymał się w czterech miejscach. Był równy aż do śliw, a dalej dwie żerdzie przysiadły na trawie. Powiedziałam, że mogę zejść do muru i obejrzeć przestrzeń od drugiej strony. Heda złapała mnie za płaszcz.
 
@@ -36,7 +36,7 @@ Zawołałam, że wóz ma jeszcze stać. Usłyszałam głos Hedy, która podeszł
 
 ## Drzwi, które się odbiły
 
-Wrzesień, 12 ET · dawna koniusznia Ildy, Kamienny Próg, Kharum
+4 maja, 12 ET · dawna koniusznia Ildy, Kamienny Próg, Kharum
 
 Kela pozwoliła wpuszczać po jednym wozie do mojego podwórza, kiedy przestało już cieknąć przez bruk. Z tej strony kamień był suchy. Górną drogę miała sprawdzić po południu i tamtędy kierować mniejsze ładunki. Na dole odbili dość wody od muru, żeby nie rozmiękał dalej. Nadal trzeba było czekać z załadunkiem najcięższych bloków. Przyszła zapytać, czy wóz stojący najwyżej może na chwilę wjechać na moją starą płytę pod wiatą. Na płycie w zeszłym tygodniu stawiałam chore zwierzęta, kiedy było za ciasno na stole. Pokazałam jej, dokąd mogą dosięgnąć koła.
 
@@ -56,20 +56,78 @@ Heda zawołała mnie po imieniu. Nie zapytała, czy ma od razu tu wjeżdżać. C
 
 ## Późne jabłko
 
-Październik, 12 ET · droga przy sadzie i dom Ildy, Kamienny Próg, Kharum
+10 maja, 12 ET · droga przy sadzie i dom Ildy, Kamienny Próg, Kharum
 
 Przy naprawie płotu Kela zostawiła po stronie wody więcej miejsca. Odtworzyliśmy miedzę, tym razem bez dolnych żerdzi sięgających pod sam przepust. Tam miała już wystarczyć szeroka przestrzeń, zanim zacznie się część ogrodzona. Luta dostała z wyrobiska żerdzie i człowieka do ich przeniesienia. Nosiła mu wodę i zakazała wieszać czegokolwiek na gałęziach jabłoni. Heda obejrzała przejazd od strony wozu i powiedziała, przy którym kamieniu jeszcze się nie zmieści bez wychodzenia z kołem za brzeg. Powtórzyła to drugi raz, kiedy Baret zdjął z korony muru jeden luźny odłamek, jakby to miało zaraz wystarczyć. Dopiero potem kazał wszystkim odczekać, aż ziemia lepiej osiądzie.
 
 W podwórzu przeniosłam swój stół pod wyższy dach. Stary boks z miską przejął człowiek od warsztatu, na godziny zapisane przy drzwiach. Kiedy przyprowadził pierwszy wóz, spytał, czy chce mi się jeszcze raz zmierzyć odległość pomiędzy burtą a żłobem. Wystawiłam po prostu ramię. Mógł jechać, dopóki cały łokieć mieścił się między drewnem. Konia trzymała Heda. Niczego więcej nie potrzebowali.
 
-Później ułożyłyśmy płachtę od strony składu. Nad brzegiem deski nie było już śladu wilgoci. Uszyłam do końca drugą torbę na opatrunki, tę z głębszym dnem, która starczała na wyjazd. Kela oberwała dwa suche liście w drodze od placu. Ze sobą niosła kartkę z godzinami. Na targu przygotowywano pokaz pracy przy Kamiennym Kręgu. Mogłam zgłosić, czego potrzeba zwierzętom i ludziom podczas prób przejścia. Kto chce prowadzić własne zwierzę, ma je przyprowadzić i wcześniej umówić z człowiekiem, który zna teren. Od zeszłego lata nie szłam w tamtą stronę. Nawet gdy tylko myślałam o pójściu, najpierw liczyłam stopnie nad murem.
+Później ułożyłyśmy płachtę od strony składu. Nad brzegiem deski nie było już śladu wilgoci. Uszyłam do końca drugą torbę na opatrunki, tę z głębszym dnem, która starczała na wyjazd. Kela przyniosła kartkę z godzinami otwartych ćwiczeń przy Kamiennym Kręgu. Przygotowywano je dla ludzi, którzy myśleli o kwalifikacjach w Val Meris. Chciała, żebym obejrzała miejsce odpoczynku dla zwierząt. Kto chciał ćwiczyć z własnym zwierzęciem, miał się wcześniej umówić z opiekunem placu. Od zeszłego lata nie szłam w tamtą stronę. Nawet gdy tylko myślałam o pójściu, najpierw liczyłam stopnie nad murem.
 
 — Wpisz mnie przy pytaniach — powiedziałam. — Mogę przyjść na dwie godziny, zanim się zaczną. Chcę zobaczyć, gdzie będzie odpoczywał koń, którego ktoś ściągnie z drogi.
 
-Kela zapisała, co powiedziałam. Spytała, czy chcę wpisać jakieś zwierzę na nagłówek. Pokręciłam głową. Miałam w tym tygodniu prowadzić dwa konie, owce obcego człowieka i psa, który po wypadku wciąż zawracał tam, gdzie ze schodów widać było ulicę. Kora chodziła przy wodzie. Zobaczę ją wtedy, kiedy będzie przechodzić.
+Kela zapisała, co powiedziałam. Spytała, czy przyjdę z jakimś zwierzęciem. Pokręciłam głową. Miałam w tym tygodniu prowadzić dwa konie, owce obcego człowieka i psa, który po wypadku wciąż zawracał tam, gdzie ze schodów widać było ulicę. Kora chodziła przy wodzie. Zobaczę ją wtedy, kiedy będzie przechodzić.
 
-Za zakrętem spotkałam ją przed końcem zbioru. Na krótko wyszła sama pod odłamany mur. Nie wiem, gdzie od dwóch dni były młode. Widziałam ich ślady wysoko pod śliwami. Kora zatrzymała się przy płaskim kamieniu, który kiedyś spychała z pyska. Jedna płyta przy uchu nadal odstawała. Stamtąd zawsze poznawałam, w którą stronę obróciła łeb, nawet w gęstym cieniu.
+Za zakrętem spotkałam ją, zanim Luta skończyła tego dnia pracę w sadzie. Kora na krótko wyszła sama pod odłamany mur. Ślady obu młodych widziałam rano wysoko pod śliwami. Kora zatrzymała się przy płaskim kamieniu, który kiedyś odrzuciła pyskiem. Jedna płyta przy uchu nadal odstawała. Po niej poznawałam, w którą stronę obróciła łeb, nawet w gęstym cieniu.
 
 Stałam przy linii muru, z wolną przestrzenią od wody i z otwartą drogą poza plecami. Kora zbliżyła się na długość mojego ramienia. Wąchała skórę przy fartuchu, którą wczoraj zostawiłam na stole w kuchni obok pokrojonego owocu. Opuściłam dłoń. Gdy uniosła pysk, poczułam jej oddech na otwartej ręce, a chwilę później znów było mi zimno. Zrobiła jeszcze krok, ryjąc w ziemi po zewnętrznej stronie muru.
 
-Miałam w kieszeni jedno jabłko. Zabrałam je ze stołu dla siebie i wciąż chciałam je zjeść. Ugryzłam, kiedy Kora wsunęła się pomiędzy śliwy. Skórka była twarda po nocy, ale miąższ oddał sok od razu. Gdy wracałam na podwórze, Heda czekała przy bramie. Podałam jej drugą połowę. Zatrzymała konia, zacisnęła wodze na kolanie i zjadła, zanim weszłyśmy do środka.
+Miałam w kieszeni ostatnie jabłko z kosza Luty. Ugryzłam, kiedy Kora wsunęła się pomiędzy śliwy. Skórka była już twarda jak pergamin. Gdy wracałam na podwórze, Heda czekała przy bramie. Pożyczyłam od niej nóż i odcięłam dla niej połowę, której jeszcze nie nadgryzłam. Oparła wodze o kolano i zaczęła jeść.
+
+— Chodzisz jeszcze pod Kamienny Krąg od strony wagi? — spytałam.
+
+— Tam od zimy są dwa stopnie więcej.
+
+Zjadła prawie do pestek. Wytarła nóż o płócienny róg fartucha.
+
+— Od składu da się wejść bez schodów — dodała. — Tamtędy idę z koniem.
+
+## Od mojego końca
+
+14 maja, 12 ET · Kamienny Krąg, Kamienny Próg, Kharum
+
+Weszłam od składu. Na placu dwoje ludzi niosło puste nosze. Musieli przejść z nimi pod belką. Belkę podnosiła na linie trzecia osoba, która stała z boku. Kiedy do niej podeszłam, miała obie dłonie czerwone. Pokazała mi, gdzie odłożyć torbę. Potem przynieśli worek z piaskiem, żeby nosze miały ciężar człowieka. Poprosili mnie, żebym zmieniła kogoś przy tylnym uchwycie.
+
+Po pierwszym przejściu miałam piasek pod językiem. Z przodu słyszałam polecenia, ale nie widziałam belki. Kiedy drugi raz ktoś krzyknął, że już można, poczułam, jak najcięższy koniec ramy zaczyna mi wyjeżdżać z dłoni. Powiedziałam, żeby stanęli. Nikt z przodu nie stanął od razu. Dopiero gdy powiedziałam, że puszczę, wrócili o krok.
+
+Za trzecim razem umówiliśmy się, że ruszą dopiero, kiedy powtórzę ich słowo. Z tyłu widziałam głównie plecy człowieka, który niósł drugi koniec. Wiedziałam za to dokładnie, kiedy worek zaczynał się zsuwać w moją stronę. Pod samą belką poprosiłam, żeby stanęli. Tym razem człowiek z przodu zatrzymał się od razu. Opuściliśmy nosze razem. Zdążyłam wsunąć worek z powrotem, zanim zsunął się na piasek.
+
+Przy wyjściu Kela pokazała mi dwa ogłoszenia przybite do jednej deski. W programie Wspólnych Szlaków zapisano, że drogi do wyrobisk mogą obejrzeć wspólne zespoły razem z górnikami. Na drugiej kartce obiecywano, że miejscowi będą mogli rozstrzygać sprawy szybciej. Patrzyłam długo na pierwszą. Kiedy przed laty osunął się brzeg drogi z kamieniołomu, brygadzista kazał nam jechać środkiem. Siwek odsunął się od nadjeżdżającego wozu. Zapadł się po brzuch. Przez dwa tygodnie nie mógł wyjść z boksu, a tamtędy nadal jechało się w obie strony.
+
+— Przy wspólnych oględzinach wezmą kogoś, kto naprawdę chodzi dołem? — spytałam. — Nawet jeśli już nie jest u nich na zmianie?
+
+— Mają brać ludzi z wyrobisk. Kogo wybiorą, tego tu nie ma.
+
+Patrzyłam na puste miejsce przy brzegu kartki. W dniu, kiedy wyciągaliśmy Siwka, ktoś zaniósł do wagi jego uprząż. Tego wieczoru znalazłam ją na swoim stole, wymytą i zwiniętą. W szwie kantara pod sprzączką zostało błoto. Dłubałam przy nim do ciemna. Człowiek, który obszedł z nami rów, spisał liczbę wozów i grubość belek. Do koniuszni nie przyszedł.
+
+Pod ogłoszeniami wisiał osobny druk Urzędu Prób. Przeczytałam datę na głos. Dwudziesty dziewiąty maja. Potem jeszcze raz przeczytałam, że trzeba wpisać krainę i stronę, po której się startuje. Kela przytrzymała mi dolny róg, bo zawijał się na wietrze i zakrywał ostatni wiersz.
+
+— Spróbuję się zgłosić — powiedziałam.
+
+Wyszłam tą samą drogą. Chciałam zdążyć do wagi, zanim Heda ruszy po drugi ładunek. Miałam ją zapytać, na którym wozie kupię miejsce do Val Meris i ile pracy mogę oddać komuś na te dni. Dopiero w połowie drogi zauważyłam, że niosę swoją torbę w lewej ręce. W prawej po noszach nie mogłam jeszcze zacisnąć palców.
+
+## Lżejszy wóz
+
+24 maja, 12 ET · Kamienny Próg, Kharum
+
+Gdy Rokan zabrał Krzemienia, przy stole zostały nitka i płaski kamień. Igłę z wyszczerbionym uchem dałam mu na wzór. Nie zdążyłam powiedzieć, że chciałabym potem z nim pójść na targ. Heda miała jeszcze odebrać towar w drugim składzie. Sama pokazała mi, kto zabiera podróżnych i zmienia konie po drodze. Kupiłam u niego miejsce. Jeśli jechał zgodnie z zapowiedzią, miałam w Val Meris nawet noc na rozprostowanie nóg przed pierwszym dniem kwalifikacji.
+
+Na bramie wywiesiłam godziny pracy dla człowieka, który miał mnie zastąpić przy koniach. Zapłaciłam mu z pieniędzy za boks, za tyle dni, ile potrzebowałam na drogę w obie strony i początek prób. Zapora przy drodze miała już własny rozkład. Zostałam tam chwilę, chociaż od dwóch dni ani razu nie wypadała moja kolej.
+
+Przy przepuście oba młode wyszły najpierw. Jedno podeszło pod żerdź, gdzie po deszczu wciąż leżała luźna ziemia. Kora zaczekała, aż ruszy. Rozsunęła pyskiem zeszłoroczne liście i poszła za nim wzdłuż muru. Miała na nosie świeżą rysę, krótką, jasną jak ślad paznokcia na chlebie. Widziałam, że urosły. Wciąż zwracały się do niej na każdy dźwięk od drogi.
+
+W domu, pakując płótno, przez chwilę patrzyłam na sznur, za który Heda pociągnęła wtedy z ulicy. Odwiązałam go od ucha przy boksie i przytroczyłam do torby. Pomyślałam, że kiedy wrócę, pójdę znów pod przepust. Może zastanę tam całą trójkę, może tylko ślady. Woźnica zawołał od bramy. Wzięłam torbę i poszłam sama.
+
+## Przez bramę
+
+28–29 maja, 12 ET · Val Meris
+
+Przyjechaliśmy dwudziestego ósmego po południu. Za pierwszą bramą ktoś zapytał woźnicę, czy na placu jeszcze trwają zawody. Odpowiedział, że nie wie, ale z tamtej strony wciąż słychać ludzi. Podał mi torbę. Przy wysiadaniu nogi miałam tak sztywne, że przez chwilę trzymałam go za rękaw, chociaż już stałam na obu stopach.
+
+Przy zapisach urzędniczka pokazała mi, gdzie wpisać Kharum. W drugiej rubryce zapisałam wspólny nadzór. Spytała, czy biorę na próbę zwierzę. Na skraju stołu tkwiła zaschnięta kropla atramentu. Przesunęłam po niej paznokciem, zanim odpowiedziałam, że zgłaszam tylko siebie. Potem zapytałam, gdzie mogę obejrzeć wejście na dziedziniec. Wskazała ulicę obok wagi i podała mi kartkę, z którą miałam się stawić rano. Zapisała na niej godzinę i numer grupy.
+
+W nocy trzymałam torbę na stołku u wezgłowia. Gdy budziłam się od kół za oknem, szukałam ręką jej brzegu. Nad ranem usłyszałam wóz, który długo się cofał po kamieniu. Potem rozległy się głosy i stuk jednego koła, kiedy wreszcie oparło się o coś twardego. Chciałam wyjść i zobaczyć, ile ludzi potrzeba do podłożenia klina w tym mieście. Leżałam jeszcze chwilę z ręką na złożonym płótnie.
+
+Przed dziedzińcem zobaczyłam dwoje ludzi z tym samym numerem na kartce. Rozmawiali, stojąc bokiem do mnie. Z ulicy niosło się tyle głosów, że ledwie ich słyszałam. Podeszłam bliżej i podałam im swoje imię. Potem poprosiłam, żeby powiedzieli mi swoje jeszcze raz, już twarzą do mnie.
+
+Od strony placu uderzono w dzwon. Przy bramie otworzyła się wąska furtka i sędzia podniósł kartkę. Kiedy wyczytał moje imię, chciałam jeszcze obejrzeć się na ulicę. Człowiek, który przed chwilą tak cicho się przedstawił, odwrócił się w przejściu i odczekał, aż do niego dojdę. Weszliśmy razem.

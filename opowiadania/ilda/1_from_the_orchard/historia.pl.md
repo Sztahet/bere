@@ -2,7 +2,7 @@
 
 ## Worek owsa
 
-Koniec czerwca, 12 ET · Kamienny Próg, Kharum
+27 marca, 12 ET · Kamienny Próg, Kharum
 
 Heda kupiła ode mnie pół worka owsa. Przesypała go na moich oczach i oddała mi sznurek, chociaż drugi raz już by się nie przydał. Od kiedy zaczęła wozić kamień na własny rachunek, niczego nie zostawiała obok wagi. Kiedy była mała, zbierałam za nią pod żłobem wstążki. Najczęściej znajdowałam je tam, gdzie koń chciał sięgnąć po siano, a ona chciała patrzeć, jak rusza uszami.
 
@@ -38,7 +38,7 @@ Od dawna krępowało mnie, że gdy człowiek przykucnie, ludzie chcą go natychm
 
 ## Ukruszony kieł
 
-Koniec czerwca, 12 ET · droga przy sadzie, Kamienny Próg, Kharum
+28 marca, 12 ET · droga przy sadzie, Kamienny Próg, Kharum
 
 Następnego ranka czekała już przy przepuście. Poznałam ją po ukruszonym kle. Stanęła tak, że z jednej strony miała wodę, z drugiej niski mur. Dwa młode przeszły jej pod pyskiem. Jedno przystanęło nad korzeniem, którego chyba nie umiało przegryźć. Samica trąciła je w zad i oba zniknęły w pokrzywach. Potem spojrzała w moją stronę.
 
@@ -46,13 +46,13 @@ Dzielił nas mur i szerokość drogi. Zwykle widzi się człowieka nad głową z
 
 Samica podeszła dwa kroki bliżej. Czarną ziemię miała wysoko na ryju. Wciągnęła powietrze, odwróciła się i poszła za młodymi. Zaczekałam, aż z pokrzyw przestanie iść dźwięk. Dopiero wtedy ruszyłam zobaczyć, którędy da się przejść bez wychodzenia na środek drogi.
 
-Sad od strony wyrobiska należał do Luty. Widywałam ją kiedyś z ojcem na targu. Teraz nosiła drabinę sama i zawsze kładła ją na ostatnim boku muru, żeby dało się tamtędy przewieźć skrzynkę. Tego dnia zbierała małe, opadłe jabłka. Wrzucała je do wiadra za siebie i rozpoznawała po dźwięku, kiedy jest pełne.
+Sad od strony wyrobiska należał do Luty. Widywałam ją kiedyś z ojcem na targu. Teraz nosiła drabinę sama i zawsze kładła ją na końcu muru, żeby dało się tamtędy przewieźć skrzynkę. Tego dnia podcinała połamane przez śnieg gałęzie. Wrzucała je do kosza za siebie. Na niektórych pąki były już lepkie.
 
 — Przeszła przez twój sad? — spytałam.
 
-— Wczoraj nic mi tu nie przeszło. Dziś mam od rana zjedzony cały dół pod dwiema jabłoniami.
+— Wczoraj nic mi tu nie przeszło. Dziś mam dwa odsłonięte korzenie i trzeci przełamany.
 
-Pokazała mi ślady. Zwierzęta przeszły skrajem. Pod samym pniem faktycznie nie było owoców, tylko kilka wdeptanych w ziemię ogonków. Po drugiej stronie muru ciągnęła się trawiasta miedza. Prowadziła od przepustu za sad, aż na górę do lasu. W dwóch miejscach rosły tam niskie śliwy. Pomiędzy ich gałęziami widać było, którędy dotąd szedł bramor.
+Pokazała mi ślady. Zwierzęta przeszły skrajem. Pod młodą jabłonią ziemia była rozgarnięta aż do drewna. Woda zbierała się teraz pod korzeniem zamiast spływać do rowu. Po drugiej stronie muru ciągnęła się trawiasta miedza. Prowadziła od przepustu za sad, aż na górę do lasu. W dwóch miejscach rosły tam niskie śliwy. Pomiędzy ich gałęziami widać było, którędy dotąd szedł bramor.
 
 Luta chciała od razu przedłużyć płot aż do przepustu. Spytałam, co zostanie wtedy przy wodzie. Pokazała miejsce po paliku po przeciwnej stronie drogi. Przejście byłoby tam. Tylko że zaraz za skrętem na drogę wychodził wóz, którego z przepustu nie widać.
 
@@ -60,7 +60,7 @@ Luta chciała od razu przedłużyć płot aż do przepustu. Spytałam, co zostan
 
 — Taką, żeby mi w jesieni zostało co sprzedać.
 
-Byłam u niej pierwszy raz od dawna. Z bliska drewno w dolnym końcu drabiny wyglądało, jakby mogło nabrać wody od samego dotknięcia. Nie zmieniłaby go w środku zbiorów. Przytrzymałam szczebel, kiedy weszła obejrzeć nisko zwieszoną gałąź. Z góry powiedziała, że przez kilka dni może zbierać opadłe owoce zaraz po poranku. Dłużej nie da rady. Ustaliłyśmy z Hedą, że pierwsze wozy ruszą w te dni trochę później. Luta w zamian pozwoliła nam sprawdzić odcisk ziemi poza sadem, żebyśmy wiedziały, dokąd zwierzęta idą po żerowaniu.
+Byłam u niej pierwszy raz od dawna. Z bliska drewno przy stopie drabiny wyglądało, jakby mogło nabrać wody od samego dotknięcia. Przytrzymałam szczebel, kiedy weszła obejrzeć gałąź złamaną tuż przy pniu. Z góry powiedziała, że przez kilka dni może zaczynać od drzew przy murze i dawać nam znać, kiedy zobaczy młode. Dłużej nie da rady. Ustaliłyśmy z Hedą, że pierwsze wozy ruszą w te dni trochę później. Luta pozwoliła nam też sprawdzić odciski poza sadem, żebyśmy wiedziały, dokąd zwierzęta idą po żerowaniu.
 
 — A przez ile dni będę miała zaraz po poranku robić to, co robiłam dotąd wieczorem? — zapytała. Stała już na ziemi. Składała drabinę powoli, żeby nie przyszczypnąć sobie palców.
 
@@ -70,9 +70,9 @@ Mówiąc to, przypomniałam sobie, ile razy Rokanowi wystarczała jedna odpowied
 
 ## Dopóki nie odejdą
 
-Lipiec, 12 ET · droga przy sadzie, Kamienny Próg, Kharum
+30 marca, 12 ET · droga przy sadzie, Kamienny Próg, Kharum
 
-Heda przysłała po mnie drugiego dnia, bo przy zakręcie stanął cudzy wóz. Poszłam przez sad. Wóz był już częściowo za skrętem i z przyczółka widać było koński bok. Koń stał z jedną przednią nogą wysuniętą daleko w dół. Widziałam naprężenie na uprzęży, ilekroć przekładał ciężar. Człowiek na koźle próbował go cofnąć. Pod kołem leżało pęknięte jabłko, które spadło z pierwszej skrzyni.
+Heda przysłała po mnie drugiego dnia, bo przy zakręcie stanął cudzy wóz. Poszłam przez sad. Wóz był już częściowo za skrętem i z przyczółka widać było koński bok. Koń stał z jedną przednią nogą wysuniętą daleko w dół. Widziałam naprężenie na uprzęży, ilekroć przekładał ciężar. Człowiek na koźle próbował go cofnąć. Pod kołem leżało pęknięte jabłko, które spadło z pierwszej skrzyni. Miało w zagłębieniu przy ogonku plewę z zimowego składu.
 
 Heda trzymała swój wóz po górnej stronie, na płaskim odcinku. Zatrzymała kolejnego woźnicę. Pokazała mi ręką osłonięty kawałek przy murze. Stanęłam pod nim, aż zobaczyłam cały dół. Samica szła od przepustu. Widoczna była dopiero wtedy, gdy podnosiła kark. Młodych nie widziałam. Za dużo było krzaków przy wodzie.
 
@@ -96,7 +96,7 @@ Wracałam przez podwórze. Przy białej kresce od warsztatu ktoś położył dwa
 
 ## Po której stronie
 
-Lipiec, 12 ET · podwórze Ildy, Kamienny Próg, Kharum
+1 kwietnia, 12 ET · podwórze Ildy, Kamienny Próg, Kharum
 
 Człowiek z warsztatu przyszedł po zawiasy i przyprowadził kogoś z miarką. Gdy im otworzyłam, usiadł na ławie, jakbyśmy mieli tylko ustalić, gdzie zaczną. Rozwinęłam przed nim kartkę z zapłatą. Chciał wynająć całe podwórze od bramy po koniusznię. Zawiasy będą jego. Brama miała stać dokładnie tam, gdzie zrobił kreskę, więc wóz będzie mógł czekać w środku, aż dojdzie po niego koń.
 
@@ -108,7 +108,7 @@ Spytałam, czy weźmie jeden boks razem z częścią dachu. Dałby za to mniej n
 
 Podniósł zawiasy. Jeden odwrócił tak, żeby nie pomylić prawego z lewym. Zaproponował mi jeszcze, że wróci z tą samą ceną na jesieni, jeśli do tego czasu nie znajdzie gdzie indziej. Powiedziałam, że będę pamiętać. Kiedy szedł do wyjścia, przytrzymałam zawias w jego ręce, aż wysunął sobie zapadkę w bramie. Niczego dobrego nie zawdzięczałam temu, że się ze mną zgadzał. To on po zimie zostawił mi na stryszku drabinę, której dotąd używałam przy przeciekach.
 
-Heda i Luta przyszły, gdy drzwi już zamknęłam. Przyniosły dwie kartki. Heda wypisała woźniców, dla których dodatkowe pół godziny ma sens, jeśli dowiedzą się o tym przed wyjazdem. Luta dorysowała płot, który kończył się wcześniej, zostawiając dla zwierząt dość szeroką miedzę między sadem a wodą. Trzeba było na razie przełożyć trzy żerdzie i pilnować zapory przed zakrętem. Mogłyśmy próbować przez tydzień. Potem kazała przeczytać na głos, kto uzupełni jej jabłka, jeśli w tym czasie straci następne.
+Heda i Luta przyszły, gdy drzwi już zamknęłam. Przyniosły dwie kartki. Heda wypisała woźniców, dla których dodatkowe pół godziny ma sens, jeśli dowiedzą się o tym przed wyjazdem. Luta dorysowała płot, który kończył się wcześniej, zostawiając dla zwierząt dość szeroką miedzę między sadem a wodą. Trzeba było na razie przełożyć trzy żerdzie i pilnować zapory przed zakrętem. Mogłyśmy próbować przez tydzień. Potem Luta spytała, kto zapłaci za nowe sadzonki, jeżeli zwierzęta wywrócą któreś z młodych drzew.
 
 Z niedoszłego czynszu wystarczyłoby na taki wydatek bez zastanowienia. Z tego, co miałam w szufladzie, musiałam liczyć. Zgodziłam się dołożyć do pierwszych żerdzi i przyjąć pod dach konie rano. Heda wzięła na siebie zaporę w dni, kiedy jechała. Po południu rysowałyśmy miejsca na paliki. Kiedy młode pójdą za samicą w górę, górny odcinek nadal będzie od nich oddzielony murem. Przy samym przepuście trzeba będzie zaczekać.
 
