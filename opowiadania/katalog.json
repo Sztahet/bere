@@ -432,6 +432,33 @@
     ]
   },
   {
+    "id": "rokan",
+    "name": "Rokan",
+    "region": "Kharum",
+    "portrait": "rokan-earth-summoner.png",
+    "series": "Pod własnym ciężarem",
+    "stories": [
+      {
+        "id": "miejsce-po-kamieniu",
+        "folder": "opowiadania/rokan/1_where_the_stone_was",
+        "unity": "RokanDraft1",
+        "draft": true
+      },
+      {
+        "id": "dluzsza-droga",
+        "folder": "opowiadania/rokan/2_the_longer_road",
+        "unity": "RokanDraft2",
+        "draft": true
+      },
+      {
+        "id": "jeden-przechodzi-pierwszy",
+        "folder": "opowiadania/rokan/3_one_goes_first",
+        "unity": "RokanDraft3",
+        "draft": true
+      }
+    ]
+  },
+  {
     "id": "volt",
     "name": "Volt",
     "region": "Zerath",
