@@ -56,6 +56,12 @@ Mrocznopazur to ostrożny, terytorialny drapieżnik lasów i skalistych pogranic
 
 Cierniogrzbiet to duży, dwugłowy roślinożerca lasów Verdan. Żeruje w zaroślach, przekopując ziemię w poszukiwaniu roślin; w jego gęstej sierści przenoszą się nasiona i rzepy. Żyje w grupach, jest na ogół spokojny, lecz broni młodych. Dwie głowy pozwalają mu jednocześnie żerować i obserwować otoczenie.
 
+## Głęboskór (Vaultwurm)
+
+Głęboskór jest ogromną bestią żyjącą głęboko pod ziemią, między innymi w jaskiniach pod Kharum. Jego pancerz składa się z warstw kamiennych płyt, bez kryształowych narośli. Potężnymi łapami drąży korytarze, a długie wąsy czuciowe pomagają mu orientować się w ciemności. Dorosły osobnik jest kolosalny; dokładne masa i długość życia pozostają do ustalenia.
+
+Zwykle nie jest agresywny, lecz może bronić legowiska i młodych. Ze względu na jego masę nawet przypadkowy ruch w ciasnym wyrobisku jest niebezpieczny. Górnicy, którzy rozpoznają jego ślady albo odkryją legowisko, wycofują się i ostrzegają innych. Jego przejścia zmieniają układ podziemnych korytarzy.
+
 ## Splotyt i zależność krain
 
 ### Przed wojną

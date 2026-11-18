@@ -29,21 +29,23 @@ public partial class RiftorynMenu
     static readonly string[] OutlawNames={"GRUPA","MACZUGA","MIECZ","KUSZA","MAGIA I","MAGIA II"};
     static readonly string[] OutlawNamesEn={"GROUP","MACE","SWORD","CROSSBOW","MAGIC I","MAGIC II"};
     readonly Texture2D[] outlawImages=new Texture2D[6];
-    readonly Texture2D[] beastImages=new Texture2D[4];
-    static readonly string[] BeastFiles={"gloamclaw","ashstride","brambleback","rimeback"};
-    static readonly string[] BeastNames={"MROCZNOPAZUR","POPIELEC","CIERNIOGRZBIET","SZRONOGRZBIET"};
-    static readonly string[] BeastNamesEn={"GLOAMCLAW","ASHSTRIDE","BRAMBLEBACK","RIMEBACK"};
+    readonly Texture2D[] beastImages=new Texture2D[5];
+    static readonly string[] BeastFiles={"gloamclaw","ashstride","brambleback","rimeback","vaultwurm"};
+    static readonly string[] BeastNames={"MROCZNOPAZUR","POPIELEC","CIERNIOGRZBIET","SZRONOGRZBIET","GŁĘBOSKÓR"};
+    static readonly string[] BeastNamesEn={"GLOAMCLAW","ASHSTRIDE","BRAMBLEBACK","RIMEBACK","VAULTWURM"};
     static readonly string[] BeastDescriptions={
         "MROCZNOPAZUR · GLOAMCLAW\n\nCichy drapieżnik lasów i skalistych pograniczy Vesper. Jest aktywny przede wszystkim nocą i o zmierzchu. Gęsta, ciemna kryza pomaga mu kryć sylwetkę wśród zarośli i skał.\n\nZACHOWANIE\nPoluje samotnie; samica może przebywać z młodymi. Jest ostrożny i terytorialny, szczególnie gdy broni potomstwa.\n\nPlansza jest referencją wyglądu gatunku.",
         "POPIELEC · ASHSTRIDE\n\nSmukły, długonogi drapieżnik i padlinożerca popielnych terenów, przystosowany do biegu i gorącego, suchego środowiska. Duże uszy pomagają mu oddawać ciepło. Żyje samotnie, w parach lub małych grupach.\n\nISKRA I PYRRA\nIskra jest bardzo młodym popielcem. Po połknięciu splotytu naładowanego przez Pyrrę ujawniła się wokół niego ognista energia. Nie wiadomo, czy inne popielce potrafią to samo. Pyrra obawia się, czy jako dorosły nie zagrozi innym.\n\nPlansza pokazuje również znacznie większe dorosłe osobniki.",
         "CIERNIOGRZBIET · BRAMBLEBACK\n\nDuży, dwugłowy roślinożerca lasów Verdan. Żeruje w gęstych zaroślach, przekopując ziemię w poszukiwaniu roślin. Jego sierść zbiera nasiona, liście i rzepy, które przenosi dalej.\n\nZACHOWANIE\nNa ogół spokojny i stadny, może bronić młodych przed zagrożeniem. Dwie głowy pomagają mu jednocześnie żerować i obserwować otoczenie.\n\nPlansza jest referencją wyglądu gatunku.",
-        "SZRONOGRZBIET · RIMEBACK\n\nSilny drapieżnik i padlinożerca wysokich gór Nivoren. Gęsta sierść chroni go przed zimnem, a szerokie łapy pomagają poruszać się po śniegu. Ma ciemne cętki i szorstką grzywę wzdłuż grzbietu.\n\nZACHOWANIE\nŻyje w grupach i chroni młode. W opowieści Saily samica osłania dwoje potomstwa, gdy pobliska wieża ostrzeliwuje skały.\n\nPlansza przedstawia osobniki dorosłe i młode."
+        "SZRONOGRZBIET · RIMEBACK\n\nSilny drapieżnik i padlinożerca wysokich gór Nivoren. Gęsta sierść chroni go przed zimnem, a szerokie łapy pomagają poruszać się po śniegu. Ma ciemne cętki i szorstką grzywę wzdłuż grzbietu.\n\nZACHOWANIE\nŻyje w grupach i chroni młode. W opowieści Saily samica osłania dwoje potomstwa, gdy pobliska wieża ostrzeliwuje skały.\n\nPlansza przedstawia osobniki dorosłe i młode.",
+        "GŁĘBOSKÓR · VAULTWURM\n\nOgromny mieszkaniec głębokich jaskiń, spotykany między innymi pod Kharum. Ma potężne łapy do kopania, długie wąsy czuciowe i pancerz z warstw kamiennych płyt. Drążąc przejścia, zmienia układ podziemnych korytarzy.\n\nŚLADY I LEGOWISKO\nZwykle nie jest agresywny, ale może bronić legowiska i młodych. Jego masa sprawia, że nawet przypadkowy ruch w ciasnym tunelu jest niebezpieczny. Górnicy, którzy rozpoznają jego ślady lub znajdą legowisko, wycofują się i ostrzegają innych.\n\nDorosły jest kolosalny; dokładna masa i długość życia pozostają do ustalenia."
     };
     static readonly string[] BeastDescriptionsEn={
         "GLOAMCLAW\n\nA quiet predator of Vesper's forests and rocky borderlands, active mainly at night and twilight. Its dense, dark mantle helps conceal its outline among brush and rocks.\n\nBEHAVIOR\nIt hunts alone; a female may stay with her young. It is cautious and territorial, especially when protecting offspring.\n\nThe sheet is a visual reference for the species.",
         "ASHSTRIDE\n\nA lean, long-legged predator and scavenger of the ashlands, adapted to running through hot, dry terrain. Large ears help it release heat. It lives alone, in pairs or in small groups.\n\nSPARK AND PYRRA\nSpark is a very young ashstride. Fiery energy appeared around him after he swallowed splotite charged by Pyrra. Whether other ashstrides can do the same is unknown. Pyrra worries that he could become a danger to others as an adult.\n\nThe sheet also shows much larger adults.",
         "BRAMBLEBACK\n\nA large, two-headed grazer of Verdan's forests. It forages in dense thickets, rooting through soil for plants. Seeds, leaves and burrs cling to its coat and are carried elsewhere.\n\nBEHAVIOR\nGenerally peaceful and social, it may defend its young when threatened. Its two heads help it forage and watch its surroundings at the same time.\n\nThe sheet is a visual reference for the species.",
-        "RIMEBACK\n\nA powerful predator and scavenger of Nivoren's high mountains. Dense fur protects it from the cold, and broad paws help it move over snow. Dark spots mark its coat, with a coarse mane along its back.\n\nBEHAVIOR\nIt lives in groups and protects its young. In Saila's story, a female shields her two offspring as a nearby tower fires at the rocks.\n\nThe sheet shows adults and juveniles."
+        "RIMEBACK\n\nA powerful predator and scavenger of Nivoren's high mountains. Dense fur protects it from the cold, and broad paws help it move over snow. Dark spots mark its coat, with a coarse mane along its back.\n\nBEHAVIOR\nIt lives in groups and protects its young. In Saila's story, a female shields her two offspring as a nearby tower fires at the rocks.\n\nThe sheet shows adults and juveniles.",
+        "VAULTWURM\n\nAn enormous inhabitant of deep caverns, found among other places beneath Kharum. It has powerful digging limbs, long sensory feelers and armor of layered stone plates. Its tunneling changes the layout of underground passages.\n\nTRACKS AND LAIRS\nUsually non-aggressive, it may defend its lair and young. Its sheer mass makes even an accidental movement dangerous in a narrow tunnel. Miners who recognize its tracks or find a lair withdraw and warn others.\n\nAdults are colossal; exact weight and lifespan remain undecided."
     };
 
     static readonly string[] WagonDescriptions={
@@ -77,7 +79,7 @@ public partial class RiftorynMenu
         if(Click(new Rect(550,326,150,34),RiftorynCodexData.Text("BANDYCI","OUTLAWS"),artifactPage==3)&&artifactPage!=3){artifactPage=3;artifactScroll=Vector2.zero;artifactExpanded=false;}
         if(Click(new Rect(708,326,150,34),RiftorynCodexData.Text("BESTIE","BEASTS"),artifactPage==4)&&artifactPage!=4){artifactPage=4;artifactScroll=Vector2.zero;artifactExpanded=false;}
         if(artifactPage==4)
-            for(int i=0;i<4;i++)if(Click(new Rect(76+i*200,368,192,30),RiftorynCodexData.Text(BeastNames[i],BeastNamesEn[i]),artifactBeast==i)){if(artifactBeast!=i)artifactScroll=Vector2.zero;artifactBeast=i;artifactExpanded=false;}
+            for(int i=0;i<5;i++)if(Click(new Rect(76+(i%3)*260,368+(i/3)*37,250,30),RiftorynCodexData.Text(BeastNames[i],BeastNamesEn[i]),artifactBeast==i)){if(artifactBeast!=i)artifactScroll=Vector2.zero;artifactBeast=i;artifactExpanded=false;}
         if(artifactPage==1)
             for(int i=0;i<6;i++)if(Click(new Rect(76+i*131,368,125,30),RiftorynCodexData.Text(ArtifactNames[i],ArtifactNamesEn[i]),artifactMap==i)){artifactMap=i;artifactExpanded=false;}
         if(artifactPage==2)
@@ -90,7 +92,8 @@ public partial class RiftorynMenu
             if(Click(new Rect(76,405,190,30),RiftorynCodexData.Text("WARIANT I","VARIANT I"),!artifactWagonVariant)){artifactWagonVariant=false;artifactExpanded=false;}
             if(Click(new Rect(274,405,190,30),RiftorynCodexData.Text("WARIANT II","VARIANT II"),artifactWagonVariant)){artifactWagonVariant=true;artifactExpanded=false;}
         }
-        Rect art=new(76,artifactPage==0?375:hasWagonVariant?445:410,800,hasWagonVariant?355:390);
+        bool raisedImage=hasWagonVariant||artifactPage==4;
+        Rect art=new(76,artifactPage==0?375:raisedImage?445:410,800,raisedImage?355:390);
         Frame(art,panelAlt);Texture2D image;
         if(artifactPage==4){if(!beastImages[artifactBeast])beastImages[artifactBeast]=Resources.Load<Texture2D>("WorldArtifacts/"+BeastFiles[artifactBeast]);image=beastImages[artifactBeast];}
         else if(artifactPage==3){if(!outlawImages[artifactOutlaw])outlawImages[artifactOutlaw]=Resources.Load<Texture2D>("WorldArtifacts/Outlaws/"+OutlawFiles[artifactOutlaw]);image=outlawImages[artifactOutlaw];}
