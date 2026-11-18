@@ -62,6 +62,12 @@ Głęboskór jest ogromną bestią żyjącą głęboko pod ziemią, między inny
 
 Zwykle nie jest agresywny, lecz może bronić legowiska i młodych. Ze względu na jego masę nawet przypadkowy ruch w ciasnym wyrobisku jest niebezpieczny. Górnicy, którzy rozpoznają jego ślady albo odkryją legowisko, wycofują się i ostrzegają innych. Jego przejścia zmieniają układ podziemnych korytarzy.
 
+## Zorzoróg (Aurorath)
+
+Zorzoróg to niezwykle rzadkie, samotne stworzenie wysokich gór i odległych dolin. Jest ogromny, ma jasną sierść, rozłożyste poroże i płytki na barkach. Zwykle unika spotkań i nie przejawia agresji.
+
+Według opowieści mieszkańców jego pojawieniu się towarzyszą odnowa roślinności, czystsza woda i uspokojenie ziemi; bywa uznawany za znak równowagi. Są to wierzenia i relacje, a nie potwierdzenie, że stworzenie powoduje takie zmiany. Jego ewentualne zdolności, dokładne wymiary i długość życia pozostają niewyjaśnione.
+
 ## Splotyt i zależność krain
 
 ### Przed wojną
