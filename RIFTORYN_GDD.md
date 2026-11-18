@@ -985,6 +985,14 @@ Badała stabilność skalnych przejść i nauczyła się czytać teren przed roz
 
 **Rodzina:** Rodzina nie została jeszcze opisana.
 
+### Kela
+
+**Specjalista Ziemi z Kamiennego Progu w Kharum.**
+
+Kamieniarka uczyła się oceny skały u Rokana. Podczas ratowania Bareta wybrała bezpieczne miejsce do pracy i zabezpieczyła odsunięty głaz. W 12 ET zostaje w Kamiennym Progu, żeby poprowadzić pierwszą własną zmianę. [Dłuższa droga](opowiadania/rokan/2_the_longer_road/historia.pl.md)
+
+**Kierunek projektowy**. Przygotowywanie przejść dla drużyny, na przykład doraźne utwardzenie krótkiego odcinka podłoża.
+
 ### Adrien
 [USTALONE] **Obrona — Specjalista wież:** wieży pilotowanej przez Adriena nie można w żaden sposób zatrzymać. [OTWARTE] Doprecyzować wpływ obrażeń i zniszczenia wieży, ograniczeń celowania, efektów na operatorze oraz dokładny moment rozpoczęcia i zakończenia ochrony, w tym fazę przejmowania sterowania.
 

@@ -653,6 +653,23 @@
       "passEn": "After standing still briefly, Kiran detects hazards and traps in a small area ahead."
     },
     {
+      "id": "kela",
+      "name": "Kela",
+      "role": "Specjalista",
+      "element": "Ziemia",
+      "img": "kela-earth-specialist.png",
+      "desc": "Kamieniarka z Kamiennego Progu. Przygotowuje przejścia dla ekip i obserwuje, jak zmienia się podłoże w trakcie pracy.",
+      "descEn": "A quarry worker from Stone Threshold. She prepares passages for crews and watches how the ground shifts while they work.",
+      "conceptOnly": true,
+      "bio": {
+        "city": "Kamienny Próg",
+        "cityEn": "Stone Threshold",
+        "specialty": "Zabezpieczanie przejść",
+        "story": "Kela zaczynała od znakowania bloków i pracy przy wadze w kamieniołomach Kamiennego Progu. Chodziła z Rokanem po wyrobisku, żeby nauczyć się oceny skały. Kiedy próbowała zwrócić mu uwagę na ślady przy ścianie, uznał je za ślad po spływającej wodzie i ruszył kamień. Pod odłamkiem zginął kamienioząb. Kela dopilnowała, żeby w zapisie zdarzenia znalazło się jej ostrzeżenie.\n\nPo odwilży przy dolnej drodze głaz przycisnął stopę Bareta do muru. Kela wskazała Rokanowi twarde oparcie, a kiedy odsunął kamień, wsunęła pod niego drewno. Później poprowadziła własną zmianę. Zamiast jechać na kwalifikacje, przekazała Rokanowi postulat, żeby załogi wyznaczały swoich przedstawicieli do oględzin i dostawały zapłatę za ten czas.",
+        "storyEn": "Kela started out marking blocks and working at the weigh station in the Stone Threshold quarries. She went into the quarry with Rokan to learn how to assess the rock. When she pointed out tracks by the wall, he took them for signs of runoff and moved a stone. A pebblemaw was killed under the debris. Kela made sure the report included her warning.\n\nAfter the thaw, a boulder pinned Baret’s foot against a wall on the lower road. Kela pointed Rokan toward solid footing and wedged timber under the boulder once he moved it. She later took charge of her own shift. She stayed in Stone Threshold during the qualifiers and asked Rokan to take her proposal to Val Meris. Crews should choose their own representatives for inspections and be paid for the time they spend there."
+      }
+    },
+    {
       "name": "Adrien",
       "role": "Specjalista",
       "element": "Światło",
