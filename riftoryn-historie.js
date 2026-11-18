@@ -13,7 +13,7 @@ window.RIFTORYN_HISTORIE = {
   "name": "Eira",
   "city": "Biały Przesmyk",
   "cityEn": "White Pass",
-  "specialty": "Przywoływacz Lodu; towarzyszy mu ryś Szron",
+  "specialty": "Przywoływacz Lodu; towarzyszy mu ryś mroźny Szron",
   "story": "Wiek w 12 ET: 56 lat.\n\nPrzez lata Eira pilnował chłodni i zapasów w Białym Przesmyku. Zimą uczył się planować dostawy tak, by najmniejsze osady nie zostały odcięte od żywności. Spokój i dokładność pomagały mu równie dobrze przy liczeniu zapasów, jak i podczas wypraw przez zasypane ścieżki.\n\nNa jednej z takich wypraw odnalazł w śniegu rannego rysia, którego łapa zaplątała się we wnyki. Zwierzę było wyczerpane i nieufne. Eira podszedł powoli, uwolnił je i osłonił własnym płaszczem, a następnie zabrał do bezpiecznego schronienia.\n\nPrzy ogniu podał rysiowi wodę i opatrzył obrażenia, ostrożnie używając mocy Lodu. Przez kolejne dni nie wymuszał bliskości: zostawiał pokarm, pilnował ciepła i pozwalał gościowi odpoczywać. Białe futro pokrywał delikatny szron, więc Eira zaczął nazywać rysia Szronem.\n\nKiedy zwierzę odzyskało siły, Eira wypuścił je na leśną ścieżkę. Szron odszedł między drzewa, lecz po chwili wrócił. Od tej pory towarzyszył mu na północnych szlakach, wypatrując niebezpieczeństw i pomagając mu bezpiecznie wracać do domu.\n\nW Próbach Eira i Szron chcą zdobyć wpływ na sprawiedliwy podział zasobów. Eira walczy o to, by nawet odległe osady otrzymywały potrzebne dostawy. Ich więź przypomina mu, że troska wymaga cierpliwości i szacunku dla cudzej wolności.",
   "reason": "Chce dopilnować sprawiedliwego podziału zasobów, rzetelnej ewidencji rezerw i zapasowych tras dostaw do odległych osad.",
   "family": "Rodzina Eiry pozostaje do ustalenia; Szron jest jego bliskim towarzyszem.",

@@ -76,13 +76,19 @@ Kamienioząb jest niewielkim, opancerzonym zwierzęciem jaskiń i kamienistych w
 
 Spichrzak północny jest niewielkim gryzoniem Nivoren, przystosowanym do chłodu i żyjącym w koloniach. Wspina się i kopie, a do magazynów potrafi przedostać się przez szczeliny lub przegryźć drewno, skórę i tkaninę. Wyjada oraz zanieczyszcza żywność.
 
-W osadach odciętych zimą utrata zapasów może zagrozić przetrwaniu mieszkańców. Dlatego wzmacniają skrzynie, zabezpieczają wejścia do magazynów, regularnie kontrolują zapasy i rozdzielają rezerwy. Koty pomagają ograniczać liczbę gryzoni, ale nie zastępują kontroli i napraw. To zagrożenie wynika ze sposobu żerowania zwierząt, nie z ich złych zamiarów.
+W osadach odciętych zimą utrata zapasów może zagrozić przetrwaniu mieszkańców. Dlatego wzmacniają skrzynie, zabezpieczają wejścia do magazynów, regularnie kontrolują zapasy i rozdzielają rezerwy. Koty oraz dzikie rysie mroźne polują na spichrzaki, ale nie zastępują kontroli i napraw. To zagrożenie wynika ze sposobu żerowania zwierząt, nie z ich złych zamiarów.
 
 ## Żmija graniowa (Ridgebrand Serpent)
 
 Żmija graniowa to duży, jadowity wąż Nivoren, spotykany na skalistych stokach, w wąwozach i przy górskich przełęczach. Wygrzewa się na cieplejszych skałach, a dzięki ubarwieniu trudno ją dostrzec wśród kamieni. Poluje z zasadzki na niewielkie zwierzęta i gwałtownie broni się, gdy zostanie zaskoczona lub osaczona.
 
 Dla transportu niebezpieczne są zarówno ukąszenie, jak i spłoszenie zaprzęgu: nagły ruch i syk mogą sprawić, że konie zerwą się na wąskiej drodze. Przewoźnicy obserwują pobocza, przekazują ostrzeżenia i w miarę możliwości omijają zauważone węże. Nie każde spotkanie kończy się atakiem, lecz utrata wozu lub opóźnienie dostaw może być szczególnie dotkliwe zimą.
+
+## Ryś mroźny (Frostlynx)
+
+Ryś mroźny jest drapieżnikiem Nivoren przystosowanym do chłodu i śniegu. Ma gęste futro, szerokie łapy i uszy zakończone pędzelkami. Poluje między innymi na spichrzaki północne, także w pobliżu osad; jego obecność może ograniczać liczbę gryzoni, ale nie zastępuje ochrony zapasów. Pozostaje dzikim zwierzęciem, a zaufanie do człowieka zależy od osobnika.
+
+Szron, towarzysz Eiry, jest mroźnym rysiem. Eira uwolnił go z wnyków i opatrzył, a po wyzdrowieniu wypuścił; Szron sam do niego wrócił.
 
 ## Splotyt i zależność krain
 
