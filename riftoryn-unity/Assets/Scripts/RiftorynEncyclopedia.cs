@@ -13,7 +13,7 @@ using UnityEngine;
 public partial class RiftorynMenu
 {
     int artifactPage, artifactMap, artifactWagon, artifactOutlaw;
-    bool artifactExpanded;
+    bool artifactExpanded, artifactWagonVariant;
     Vector2 artifactScroll;
     readonly Texture2D[] artifactImages=new Texture2D[5];
     static readonly string[] ArtifactFiles={"selen","mapa-ozdobna","mapa-kolorowa","mapa-szkic","mapa-odrys"};
@@ -22,6 +22,7 @@ public partial class RiftorynMenu
     static readonly string[] WagonFiles={"veda","verdan","kharum","vareth","nivoren","vesper"};
     static readonly string[] WagonNames={"VEDA","VERDAN","KHARUM","VARETH","NIVOREN","VESPER"};
     readonly Texture2D[] wagonImages=new Texture2D[6];
+    readonly Texture2D[] wagonVariants=new Texture2D[2];
     static readonly string[] OutlawFiles={"grupa","maczuga","miecz","kusza","magia-1","magia-2"};
     static readonly string[] OutlawNames={"GRUPA","MACZUGA","MIECZ","KUSZA","MAGIA I","MAGIA II"};
     static readonly string[] OutlawNamesEn={"GROUP","MACE","SWORD","CROSSBOW","MAGIC I","MAGIC II"};
@@ -58,13 +59,28 @@ public partial class RiftorynMenu
         if(artifactPage==1)
             for(int i=0;i<4;i++)if(Click(new Rect(76+i*196,368,188,30),RiftorynCodexData.Text(ArtifactNames[i],ArtifactNamesEn[i]),artifactMap==i)){artifactMap=i;artifactExpanded=false;}
         if(artifactPage==2)
-            for(int i=0;i<6;i++)if(Click(new Rect(76+i*131,368,125,30),WagonNames[i],artifactWagon==i)){if(artifactWagon!=i)artifactScroll=Vector2.zero;artifactWagon=i;artifactExpanded=false;}
+            for(int i=0;i<6;i++)if(Click(new Rect(76+i*131,368,125,30),WagonNames[i],artifactWagon==i)){if(artifactWagon!=i){artifactScroll=Vector2.zero;artifactWagonVariant=false;}artifactWagon=i;artifactExpanded=false;}
         if(artifactPage==3)
             for(int i=0;i<6;i++)if(Click(new Rect(76+i*131,368,125,30),RiftorynCodexData.Text(OutlawNames[i],OutlawNamesEn[i]),artifactOutlaw==i)){artifactOutlaw=i;artifactExpanded=false;}
-        Rect art=new(76,artifactPage==0?375:410,800,390);
+        bool hasWagonVariant=artifactPage==2&&(artifactWagon==0||artifactWagon==3);
+        if(hasWagonVariant)
+        {
+            if(Click(new Rect(76,405,190,30),RiftorynCodexData.Text("WARIANT I","VARIANT I"),!artifactWagonVariant)){artifactWagonVariant=false;artifactExpanded=false;}
+            if(Click(new Rect(274,405,190,30),RiftorynCodexData.Text("WARIANT II","VARIANT II"),artifactWagonVariant)){artifactWagonVariant=true;artifactExpanded=false;}
+        }
+        Rect art=new(76,artifactPage==0?375:hasWagonVariant?445:410,800,hasWagonVariant?355:390);
         Frame(art,panelAlt);Texture2D image;
         if(artifactPage==3){if(!outlawImages[artifactOutlaw])outlawImages[artifactOutlaw]=Resources.Load<Texture2D>("WorldArtifacts/Outlaws/"+OutlawFiles[artifactOutlaw]);image=outlawImages[artifactOutlaw];}
-        else if(artifactPage==2){if(!wagonImages[artifactWagon])wagonImages[artifactWagon]=Resources.Load<Texture2D>("WorldArtifacts/Wagons/"+WagonFiles[artifactWagon]);image=wagonImages[artifactWagon];}
+        else if(artifactPage==2)
+        {
+            if(hasWagonVariant&&artifactWagonVariant)
+            {
+                int variantIndex=artifactWagon==0?0:1;
+                if(!wagonVariants[variantIndex])wagonVariants[variantIndex]=Resources.Load<Texture2D>("WorldArtifacts/Wagons/"+(variantIndex==0?"kryty-przewoznika":"warsztat-rozkladany"));
+                image=wagonVariants[variantIndex];
+            }
+            else{if(!wagonImages[artifactWagon])wagonImages[artifactWagon]=Resources.Load<Texture2D>("WorldArtifacts/Wagons/"+WagonFiles[artifactWagon]);image=wagonImages[artifactWagon];}
+        }
         else image=ArtifactImage(artifactPage==0?0:artifactMap+1);
         if(image)GUI.DrawTexture(new Rect(art.x+4,art.y+4,art.width-8,art.height-8),image,ScaleMode.ScaleToFit);
         if(GUI.Button(art,GUIContent.none,GUIStyle.none))artifactExpanded=true;
@@ -76,6 +92,9 @@ public partial class RiftorynMenu
             RiftorynCodexData.Text("MAPY FABULARNE\nTo mapy, z jakich mogą korzystać mieszkańcy Riftorynu. Kartografowie i kopiści przedstawiają kontynent na różne sposoby; rysunki nie są pomiarem granic ani gwarancją bezpieczeństwa dróg.\n\nCZTERY EGZEMPLARZE\nOzdobny, kolorowy, szkic i prosty odrys pokazują różną ilość pracy i szczegółów. Kto ma więcej środków, może kupić kunsztownie wykonaną mapę. Inni zdobywają prostszą kopię lub odrysowują ją samodzielnie. Konkretne ceny nie są ustalone.\n\nPRZED PODRÓŻĄ\nNawet kosztowna mapa może być nieaktualna, a prosty szkic może zawierać przydatne miejscowe informacje. Stan przejść należy sprawdzać u przewodników i na posterunkach. Dokładny przebieg dróg i granic pozostaje otwarty.",
             "IN-WORLD MAPS\nThese are maps the people of Riftoryn might use. Cartographers and copyists depict the continent in different ways; drawings are not a survey of borders or a guarantee that roads are safe.\n\nFOUR EXAMPLES\nThe ornate map, colored copy, sketch and simple hand-drawn copy show different levels of detail and work. Someone with more means may buy an elaborate map. Others obtain a simpler copy or trace one themselves. Exact prices are not established.\n\nBEFORE TRAVEL\nEven an expensive map can be outdated, while a simple sketch may contain useful local knowledge. Check crossing conditions with guides and posts. Exact routes and borders remain open.");
         if(artifactPage==2)content=RiftorynCodexData.Text(WagonDescriptions[artifactWagon],WagonDescriptionsEn[artifactWagon]);
+        if(hasWagonVariant&&artifactWagonVariant)content+=artifactWagon==0?
+            RiftorynCodexData.Text("\n\nDRUGI WARIANT\nKryty wóz przewoźnika ma łataną plandekę, zdejmowany stelaż oraz dostęp do skrzyń od tyłu. To dodatkowa referencja dla wozu Vedy i podobnych przewozów; szczegóły wykonania mogą się różnić.","\n\nSECOND VARIANT\nThis covered carrier's wagon has patched canvas, a removable frame, and rear access to the cargo. It is an additional reference for Veda's wagon and similar transport; construction details can vary."):
+            RiftorynCodexData.Text("\n\nDRUGI WARIANT\nMobilny warsztat rozkłada boczny blat i osłonę na czas postoju. Szuflady i skrzynie mieszczą narzędzia, a imadło pozwala przytrzymać naprawianą część. Przed drogą właściciel składa stanowisko i zabezpiecza wyposażenie. To przykład jednego z możliwych warsztatów.","\n\nSECOND VARIANT\nA mobile workshop unfolds a side workbench and awning when stopped. Drawers and chests hold tools, while a vise secures a part being repaired. Before traveling, its owner folds the workspace and secures the equipment. This is one possible workshop design.");
         if(artifactPage==3)content=RiftorynCodexData.Text(
             "BANDYCI NA SZLAKACH\n\nW wielu rejonach Riftorynu działają grupy rozbójników, które utrzymują się z napadów na transporty i podróżnych. Dla przewoźników oznacza to zagrożenie nie tylko utratą ładunku: załoga może zostać ranna, a mieszkańcy czekający na żywność, leki lub części mogą nie dostać dostawy.\n\nLUDZIE I MOTYWACJE\nCzęść członków band z różnych powodów nie chce żyć w społecznościach miast i osad. Inni mają odmienne historie i powody. Nie jest to jedna organizacja ani grupa pochodząca tylko z jednej krainy. Samo życie z dala od osad, ubóstwo lub podróżowanie nie czynią nikogo bandytą.\n\nOCHRONA PRZEWOZÓW\nPatrole, eskorty, ostrzeżenia i schronienia pomagają ograniczać niebezpieczeństwo. Żadna kraina nie może jednak stale osłaniać każdej drogi. Załogi muszą oceniać informacje o trasie, planować postoje i wiedzieć, jak wezwać pomoc.\n\nWYGLĄD\nPlansze pokazują możliwe sylwetki i wyposażenie rozbójników: zużyte ubrania, broń oraz sprzęt obozowy. To przykłady do przyszłego modelowania, a nie mundur wspólny dla wszystkich band ani gotowe modele 3D.",
             "OUTLAWS ON THE ROADS\n\nBands of robbers operate in many parts of Riftoryn, living by attacking shipments and travelers. For carriers, the danger goes beyond lost cargo: crews can be injured, and people waiting for food, medicine, or parts may not receive their supplies.\n\nPEOPLE AND MOTIVES\nSome members of these bands choose not to live in the communities of towns and settlements, for different reasons. Others have different histories and motives. They are not one organization or confined to one region. Living far from settlements, poverty, or traveling does not make someone a bandit.\n\nPROTECTING SHIPMENTS\nPatrols, escorts, warnings, and shelters help reduce danger. No region can constantly guard every road. Crews must assess route information, plan stops, and know how to call for help.\n\nAPPEARANCE\nThe sheets show possible outlaw silhouettes and equipment: worn clothing, weapons, and camp gear. They are examples for future modeling, not a uniform shared by all bands or finished 3D models.");

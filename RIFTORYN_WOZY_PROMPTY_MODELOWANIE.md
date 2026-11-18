@@ -4,6 +4,8 @@ Sześć propozycji wizualnych do przyszłego modelowania, a nie zatwierdzone mod
 
 Dostarczone plansze: [Veda](assets/lore/wagons/veda.png), [Verdan](assets/lore/wagons/verdan.png), [Kharum](assets/lore/wagons/kharum.png), [Vareth](assets/lore/wagons/vareth.png), [Nivoren](assets/lore/wagons/nivoren.png) i [Vesper](assets/lore/wagons/vesper.png). Ich opisy i powiększane ilustracje znajdują się w kodeksie Unity: **Życie świata → Wozy**.
 
+Dodatkowe warianty: [kryty wóz przewoźnika](assets/lore/wagons/kryty-przewoznika.png) jako referencja dla wozu Vedy i podobnych przewozów oraz [rozkładany warsztat](assets/lore/wagons/warsztat-rozkladany.png). W kodeksie są dostępne jako drugi wariant odpowiednio przy Vedzie i Vareth. To ilustracyjne referencje, nie gotowe modele 3D.
+
 ## Wspólne ustawienia
 
 Do każdego promptu dołącz poniższy fragment. Jeśli generator umożliwia użycie referencji, można dodać [mapy Riftorynu](assets/lore/cartography/) jako wskazówkę nastroju i położenia krain. Konie, jeżeli są pokazane, mają być osobno od widoków samego wozu, aby nie zasłaniać konstrukcji.
