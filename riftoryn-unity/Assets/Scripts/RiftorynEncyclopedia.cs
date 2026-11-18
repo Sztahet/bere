@@ -22,10 +22,10 @@ public partial class RiftorynMenu
     static readonly string[] WagonFiles={"veda","verdan","kharum","vareth","nivoren","vesper"};
     static readonly string[] WagonNames={"VEDA","VERDAN","KHARUM","VARETH","NIVOREN","VESPER"};
     readonly Texture2D[] wagonImages=new Texture2D[6];
-    static readonly string[] OutlawFiles={"grupa","maczuga","miecz","kusza"};
-    static readonly string[] OutlawNames={"GRUPA","MACZUGA","MIECZ","KUSZA"};
-    static readonly string[] OutlawNamesEn={"GROUP","MACE","SWORD","CROSSBOW"};
-    readonly Texture2D[] outlawImages=new Texture2D[4];
+    static readonly string[] OutlawFiles={"grupa","maczuga","miecz","kusza","magia-1","magia-2"};
+    static readonly string[] OutlawNames={"GRUPA","MACZUGA","MIECZ","KUSZA","MAGIA I","MAGIA II"};
+    static readonly string[] OutlawNamesEn={"GROUP","MACE","SWORD","CROSSBOW","MAGIC I","MAGIC II"};
+    readonly Texture2D[] outlawImages=new Texture2D[6];
     static readonly string[] WagonDescriptions={
         "WÓZ VEDY · PRZEWOZY NA SZLAKACH\n\nVeda przewozi skrzynie, paczki i części między Kharum a innymi miejscami. W jej historii wóz ciągną konie, a ładunek chroni plandeka. Kiedy jedno z kół zjeżdża z drogi, przewoźnicy przesuwają skrzynię i zabezpieczają ją zapasowym pasem. Później naprawiają uszkodzoną plandekę.\n\nBoczne burty, pasy, narzędzia i zdejmowana osłona pomagają przygotować wóz do różnych zleceń. Właściciel i załoga muszą także uzgodnić ładunek, trasę oraz odbiór.\n\nPlansza pokazuje koncepcję wyglądu wozu, nie gotowy model 3D.",
         "WÓZ ROLNICZY · VERDAN\n\nOtwarty wóz służy do przewożenia plonów, worków, koszy i skrzyń między gospodarstwami, targiem a magazynami. Niskie burty ułatwiają ręczny załadunek; liny pomagają utrzymać towar na nierównej drodze.\n\nZbiory muszą dotrzeć na czas, a stan kanałów, przepraw i dróg ma znaczenie również dla ludzi poza doliną. Użyte tu kolory i konstrukcja pokazują jeden możliwy egzemplarz; wozy innych gospodarstw mogą się różnić.",
@@ -60,7 +60,7 @@ public partial class RiftorynMenu
         if(artifactPage==2)
             for(int i=0;i<6;i++)if(Click(new Rect(76+i*131,368,125,30),WagonNames[i],artifactWagon==i)){if(artifactWagon!=i)artifactScroll=Vector2.zero;artifactWagon=i;artifactExpanded=false;}
         if(artifactPage==3)
-            for(int i=0;i<4;i++)if(Click(new Rect(76+i*196,368,188,30),RiftorynCodexData.Text(OutlawNames[i],OutlawNamesEn[i]),artifactOutlaw==i)){artifactOutlaw=i;artifactExpanded=false;}
+            for(int i=0;i<6;i++)if(Click(new Rect(76+i*131,368,125,30),RiftorynCodexData.Text(OutlawNames[i],OutlawNamesEn[i]),artifactOutlaw==i)){artifactOutlaw=i;artifactExpanded=false;}
         Rect art=new(76,artifactPage==0?375:410,800,390);
         Frame(art,panelAlt);Texture2D image;
         if(artifactPage==3){if(!outlawImages[artifactOutlaw])outlawImages[artifactOutlaw]=Resources.Load<Texture2D>("WorldArtifacts/Outlaws/"+OutlawFiles[artifactOutlaw]);image=outlawImages[artifactOutlaw];}
@@ -79,6 +79,7 @@ public partial class RiftorynMenu
         if(artifactPage==3)content=RiftorynCodexData.Text(
             "BANDYCI NA SZLAKACH\n\nW wielu rejonach Riftorynu działają grupy rozbójników, które utrzymują się z napadów na transporty i podróżnych. Dla przewoźników oznacza to zagrożenie nie tylko utratą ładunku: załoga może zostać ranna, a mieszkańcy czekający na żywność, leki lub części mogą nie dostać dostawy.\n\nLUDZIE I MOTYWACJE\nCzęść członków band z różnych powodów nie chce żyć w społecznościach miast i osad. Inni mają odmienne historie i powody. Nie jest to jedna organizacja ani grupa pochodząca tylko z jednej krainy. Samo życie z dala od osad, ubóstwo lub podróżowanie nie czynią nikogo bandytą.\n\nOCHRONA PRZEWOZÓW\nPatrole, eskorty, ostrzeżenia i schronienia pomagają ograniczać niebezpieczeństwo. Żadna kraina nie może jednak stale osłaniać każdej drogi. Załogi muszą oceniać informacje o trasie, planować postoje i wiedzieć, jak wezwać pomoc.\n\nWYGLĄD\nPlansze pokazują możliwe sylwetki i wyposażenie rozbójników: zużyte ubrania, broń oraz sprzęt obozowy. To przykłady do przyszłego modelowania, a nie mundur wspólny dla wszystkich band ani gotowe modele 3D.",
             "OUTLAWS ON THE ROADS\n\nBands of robbers operate in many parts of Riftoryn, living by attacking shipments and travelers. For carriers, the danger goes beyond lost cargo: crews can be injured, and people waiting for food, medicine, or parts may not receive their supplies.\n\nPEOPLE AND MOTIVES\nSome members of these bands choose not to live in the communities of towns and settlements, for different reasons. Others have different histories and motives. They are not one organization or confined to one region. Living far from settlements, poverty, or traveling does not make someone a bandit.\n\nPROTECTING SHIPMENTS\nPatrols, escorts, warnings, and shelters help reduce danger. No region can constantly guard every road. Crews must assess route information, plan stops, and know how to call for help.\n\nAPPEARANCE\nThe sheets show possible outlaw silhouettes and equipment: worn clothing, weapons, and camp gear. They are examples for future modeling, not a uniform shared by all bands or finished 3D models.");
+        if(artifactPage==3)content+=RiftorynCodexData.Text("\n\nMAGIA WŚRÓD BAND\nNiektórzy rozbójnicy władają magią żywiołów lub korzystają z przygotowanych urządzeń. W jednej grupie mogą działać osoby o różnych umiejętnościach; sam żywioł nie określa niczyich zamiarów. Ilustracje są przykładami wyglądu i nie ustalają konkretnych zdolności ani ograniczeń rozgrywki.","\n\nMAGIC AMONG OUTLAWS\nSome robbers wield elemental magic or use prepared devices. People with different skills may work in the same band; an element alone does not determine anyone's intentions. The illustrations are visual examples and do not establish specific abilities or gameplay limits.");
         float height=Mathf.Max(430,body.CalcHeight(new GUIContent(content),530)+20);
         artifactScroll=GUI.BeginScrollView(new Rect(920,344,565,450),artifactScroll,new Rect(0,0,545,height));
         Text(new Rect(0,0,530,height),content,body);GUI.EndScrollView();

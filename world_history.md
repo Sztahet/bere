@@ -80,6 +80,8 @@ Na szlakach większym zagrożeniem są bandyci i napady ludzi. Rzadkie spotkania
 
 W wielu rejonach działają bandy rozbójników utrzymujących się z napadów na transporty i podróżnych. Część ich członków z różnych powodów nie chce żyć w społecznościach miast i osad; inni mają odmienne motywacje i historie. Grupy te nie tworzą jednej organizacji ani nie pochodzą wyłącznie z jednej krainy. Samo życie z dala od osad, ubóstwo czy podróżowanie nie oznaczają udziału w napadach. Bandy zagrażają przewoźnikom, ich załogom i mieszkańcom czekającym na dostawy; patrole, eskorty i ostrzeżenia mogą ograniczać ryzyko, lecz nie chronią każdej drogi.
 
+Wśród rozbójników są również osoby władające magią różnych żywiołów lub korzystające z przygotowanych urządzeń. Umiejętności różnią się między ludźmi, a żaden żywioł sam w sobie nie świadczy o zamiarach ani przynależności do bandy.
+
 Załogi Vesper rozwinęły sposoby maskowania promieniowania naładowanego splotytu, co pomaga chronić transporty przed dzikimi bestiami reagującymi na kryształy. Są również cenione za ochronę przewozów po ciemku i znajomość nocnych tras. Maskowanie ogranicza jedno z zagrożeń: nie usuwa ryzyka napadu, pogody ani przypadkowego spotkania ze zwierzęciem. Jego zasięg, koszt i szczegółowe ograniczenia wymagają dalszego ustalenia.
 
 ### Sieć i ochrona szlaków
