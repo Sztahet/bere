@@ -96,6 +96,12 @@ Szron, towarzysz Eiry, jest mroźnym rysiem. Eira uwolnił go z wnyków i opatrz
 
 Blask, towarzysz Lumen, należy do tego gatunku. Lumen i przewodniczka uwolniły go z porzuconej liny, a on później sam zaczął pojawiać się w pobliżu obserwatorium. Ich więź rozwijała się bez przymusu.
 
+## Bazaltoróg (Embercrest Basaltbeast)
+
+Bazaltoróg to potężny, stadny roślinożerca wulkanicznych terenów Vareth. Ma zakrzywione rogi, jasną grzywę i ciemne płytki przypominające bazalt. Żeruje na odpornych roślinach oraz porostach wśród skał i popiołu; wypas jest częścią życia wulkanicznych pastwisk.
+
+Zazwyczaj spokojny, może bronić stada i młodych, gdy poczuje zagrożenie. Mieszkańcy szanują bazaltorogi i dają im przestrzeń na szlakach, szczególnie gdy dorosłe osobniki osłaniają młode. Dokładna natura żarzących się wzorów na pancerzu pozostaje do ustalenia.
+
 ## Splotyt i zależność krain
 
 ### Przed wojną
