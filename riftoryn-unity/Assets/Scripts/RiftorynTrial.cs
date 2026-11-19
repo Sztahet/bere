@@ -26,10 +26,11 @@ public partial class RiftorynTrial : MonoBehaviour
         public float hp, shield, shieldMax, shieldTick, cooldown, attackCooldown, boost, exposure, fogTick, along, damage;
         public float chillTime, hitFlash, slowImmunity, rollTime, rollCooldown, progressSpeed, bestProgress, finishTime;
         public bool done;
+        public readonly SharedAbilityState kit=new();
         public readonly RiftorynPeriodicEffect burn=new(), poison=new();
     }
     class FloatingCombatText { public Transform anchor; public Vector3 position; public string text; public Color color; public float started, offset; }
-    class Tower { public int slot,type; public float hp=100,wait,disabled; public GameObject obj, marker; public LineRenderer range, warning; public Runner target; public RiftorynPatkaPreview petTarget; public float windup; public bool discovered; }
+    class Tower { public int slot,type; public float hp=100,wait,disabled; public GameObject obj, marker; public LineRenderer range, warning; public Runner target,divertedTo; public RiftorynPatkaPreview petTarget; public float windup,divertUntil,rangeVisibleUntil; public bool discovered; }
     class Shot { public GameObject obj; public Vector3 direction; public float remaining,damage; public Runner target; public RiftorynPatkaPreview petTarget; public int type; }
     enum Phase { Setup, Playing, Finished }
     public bool menuOpen = true;
@@ -152,7 +153,7 @@ public partial class RiftorynTrial : MonoBehaviour
         Quad(new Vector3(0,.10f,-r),new Vector3(0,.10f,r),new Vector3(0,2.65f,r),new Vector3(0,2.65f,-r));
         var mesh=new Mesh{name="Warstwy mgły"};mesh.SetVertices(vertices);mesh.SetUVs(0,uv);mesh.SetTriangles(triangles,0);mesh.RecalculateBounds();return mesh;
     }
-    void OnDestroy(){if(lan)lan.Stop();ClearLanShots();if(healingRing&&healingRing.material)Destroy(healingRing.material);if(fogMesh)Destroy(fogMesh);if(fogMaterial)Destroy(fogMaterial);foreach(var material in worldMaterials.Values)if(material)Destroy(material);worldMaterials.Clear();foreach(var material in towerMaterials.Values)if(material)Destroy(material);towerMaterials.Clear();if(wallTexture)Destroy(wallTexture);if(floorTexture)Destroy(floorTexture);if(floorMaterial)Destroy(floorMaterial);}
+    void OnDestroy(){ClearHeatBarrier();if(lan)lan.Stop();ClearLanShots();if(healingRing&&healingRing.material)Destroy(healingRing.material);if(fogMesh)Destroy(fogMesh);if(fogMaterial)Destroy(fogMaterial);foreach(var material in worldMaterials.Values)if(material)Destroy(material);worldMaterials.Clear();foreach(var material in towerMaterials.Values)if(material)Destroy(material);towerMaterials.Clear();if(wallTexture)Destroy(wallTexture);if(floorTexture)Destroy(floorTexture);if(floorMaterial)Destroy(floorMaterial);}
     Runner MakeRunner(int h,bool bot){var go=new GameObject(bot?"Sojusznik AI":"Gracz");go.transform.SetParent(runnerRoot.transform);go.transform.position=At(0)+(bot?Vector3.right*.8f:Vector3.zero);var body=GameObject.CreatePrimitive(PrimitiveType.Capsule);body.name="Bohater";body.transform.SetParent(go.transform,false);body.transform.localPosition=Vector3.up;body.transform.localScale=new Vector3(.85f,1,.85f);body.GetComponent<Renderer>().sharedMaterial=Mat(bot?new Color(.16f,.75f,.85f):new Color(.88f,.71f,.36f));body.GetComponent<Collider>().isTrigger=true;if(h==3)AttachCharacterModel(go,body,"Characters/koneva-poc",true);else if(h==SailaHero)AttachCharacterModel(go,body,"Characters/saila-poc",true);else if(h==PyrraHero){AttachCharacterModel(go,body,"Characters/pyrra-poc",true);var follower=go.AddComponent<RiftorynSparkFollower>();follower.Initialize(go.transform);}else if(!bot&&genericModelPreview)AttachCharacterModel(go,body,"Characters/generic-prototype",false);if(h==3){body.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.22f,.12f,.28f));var prefab=Resources.Load<GameObject>("Pets/patka");if(prefab){var pet=Instantiate(prefab,go.transform);pet.name="Patka";pet.transform.localPosition=new Vector3(0,.05f,2f);pet.transform.localRotation=Quaternion.Euler(0,180,0);pet.transform.localScale=Vector3.one*.42f;var ph=pet.AddComponent<RiftorynPetHealth>();ph.petName="Patka";ph.maxHp=ph.currentHp=50;pet.AddComponent<RiftorynPatkaPreview>();}}var r=new Runner{hero=h,obj=go,hp=MaxHp[h]};return r;}
     void AttachCharacterModel(GameObject runner,GameObject capsule,string resource,bool saila)
     {
@@ -172,6 +173,7 @@ public partial class RiftorynTrial : MonoBehaviour
     }
     void Setup()
     {
+        ClearHeatBarrier();
         healingTime=0; healingTick=0;
         if(healingRing) healingRing.enabled=false;
         briefing=false; selectingHero=-1; phase=Phase.Setup;
@@ -319,12 +321,12 @@ public partial class RiftorynTrial : MonoBehaviour
             cameraYaw+=RiftorynInput.Look.x*3;
             pitch=Mathf.Clamp(pitch-RiftorynInput.Look.y*2,0,60);
         }
-        StepTrial(dt,MoveInput(),RiftorynInput.Ability,RiftorynInput.Roll,RiftorynInput.Attack);
+        StepTrial(dt,MoveInput(),RiftorynInput.Ability,RiftorynInput.Roll,RiftorynInput.Attack,RiftorynInput.Ultimate);
         if(lanPlaying) SendLanState(phase==Phase.Finished);
         UpdateCamera();
     }
 
-    void StepTrial(float dt,Vector3 direction,bool ability,bool roll,bool attack)
+    void StepTrial(float dt,Vector3 direction,bool ability,bool roll,bool attack,bool ultimate)
     {
         elapsed+=dt;
         if(IsRunning(player))
@@ -332,7 +334,12 @@ public partial class RiftorynTrial : MonoBehaviour
             player.rollCooldown=Mathf.Max(0,player.rollCooldown-dt);
             if(ability) Skill(player);
             if(roll) StartRoll(player,direction);
-            if(!sharedEscape&&attack&&player.hero==0) Attack(player);
+            if(sharedEscape)
+            {
+                if(attack) UseSharedPlayerAbility(false);
+                if(ultimate) UseSharedPlayerAbility(true);
+            }
+            else if(attack&&player.hero==0) Attack(player);
             MoveRunner(player,direction,dt);
         }
         StepRunner(player,dt);
@@ -345,7 +352,11 @@ public partial class RiftorynTrial : MonoBehaviour
             ally.velocity=(ally.obj.transform.position-before)/dt;
             StepRunner(ally,dt);
         }
-        if(sharedEscape) DiscoverSharedTowers();
+        if(sharedEscape)
+        {
+            DiscoverSharedTowers();
+            StepSharedAbilityEffects(dt);
+        }
         StepHealing(dt);
         StepTowers(dt);
         StepShots(dt);
@@ -412,18 +423,21 @@ public partial class RiftorynTrial : MonoBehaviour
     }
     void StartRoll(Runner runner,Vector3 direction)
     {
-        if(runner.rollCooldown>0||runner.rollTime>0) return;
+        if(runner.rollCooldown>0||runner.rollTime>0||runner.kit.surgeUntil>elapsed) return;
         runner.rollDirection=direction.sqrMagnitude>.01f?direction.normalized:runner.obj.transform.forward;
         runner.rollTime=RollDuration;
         runner.rollCooldown=RollCooldown;
+        runner.kit.rewardedRoll=false;
     }
 
     float RunnerSpeed(Runner runner)
     {
         float speed=Speed[runner.hero];
         if(runner.exposure>0) speed*=runner.hero==SailaHero?.915f:.9f;
-        if(runner.boost>0) speed*=1.2f;
+        if(runner.boost>0) speed*=sharedEscape&&runner.hero==ZetHero?1.15f:1.2f;
         if(runner.chillTime>0) speed*=runner.hero==4?.88f:runner.hero==SailaHero?.8725f:.85f;
+        if(runner.kit.surgeUntil>elapsed) speed*=1.8f;
+        if(runner.kit.dodgeBoostUntil>elapsed) speed*=1.2f;
         return speed;
     }
 
@@ -431,6 +445,7 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         bool dodging=IsDodging(runner);
         if(dodging) direction=runner.rollDirection;
+        else if(runner.kit.surgeUntil>elapsed&&direction.sqrMagnitude<.01f) direction=runner.obj.transform.forward;
         float speed=dodging?RollSpeed:RunnerSpeed(runner);
         Transform body=runner.obj.transform;
         Vector3 before=body.position;
@@ -463,7 +478,44 @@ public partial class RiftorynTrial : MonoBehaviour
         }
         return position;
     }
-    void StepRunner(Runner r,float dt){if(r.hp<=0||r.done)return;r.burn.Advance(dt,amount=>{if(r.hp>0)Damage(r,amount,true,false,"PODPALENIE");});r.poison.Advance(dt,amount=>{if(r.hp>0)Damage(r,amount,true,false,"TRUCIZNA");});r.chillTime=Mathf.Max(0,r.chillTime-dt);r.slowImmunity=Mathf.Max(0,r.slowImmunity-dt);if(r.hp<=0)return;r.cooldown=Mathf.Max(0,r.cooldown-dt);r.attackCooldown=Mathf.Max(0,r.attackCooldown-dt);r.boost=Mathf.Max(0,r.boost-dt);if(r.shield>0){r.shieldTick-=dt;while(r.shield>0&&r.shieldTick<=0){r.shield*=.9f;r.shieldTick+=1f;if(r.shield<.01f){r.shield=0;r.shieldMax=0;r.shieldTick=0;}}}if(RunnerInFog(r)){r.exposure+=dt;r.fogTick+=dt;while(r.fogTick>=1&&r.hp>0){r.fogTick-=1;Damage(r,MaxHp[r.hero]*Mathf.Floor(r.exposure)/100f,true,false,"MGŁA");}}else{r.exposure=Mathf.Max(0,r.exposure-dt);r.fogTick=0;}if(r.hp<=0)r.obj.SetActive(false);}
+    void StepRunner(Runner r,float dt)
+    {
+        if(!IsRunning(r)) return;
+        float periodicDamage=sharedEscape&&r.hero==KaelHero?.8f:1f;
+        r.burn.Advance(dt,amount=>{if(r.hp>0) Damage(r,amount*periodicDamage,true,false,"PODPALENIE");});
+        r.poison.Advance(dt,amount=>{if(r.hp>0) Damage(r,amount*periodicDamage,true,false,"TRUCIZNA");});
+        r.chillTime=Mathf.Max(0,r.chillTime-dt);
+        r.slowImmunity=Mathf.Max(0,r.slowImmunity-dt);
+        if(r.hp<=0) return;
+        r.cooldown=Mathf.Max(0,r.cooldown-dt);
+        r.attackCooldown=Mathf.Max(0,r.attackCooldown-dt);
+        r.boost=Mathf.Max(0,r.boost-dt);
+        if(r.shield>0)
+        {
+            r.shieldTick-=dt;
+            while(r.shield>0&&r.shieldTick<=0)
+            {
+                r.shield*=ShieldDecay(r);
+                r.shieldTick+=1f;
+                if(r.shield<.01f){r.shield=0;r.shieldMax=0;r.shieldTick=0;}
+            }
+        }
+        if(RunnerInFog(r))
+        {
+            r.exposure+=dt;
+            r.fogTick+=dt;
+            while(r.fogTick>=1&&r.hp>0)
+            {
+                r.fogTick-=1;
+                Damage(r,MaxHp[r.hero]*Mathf.Floor(r.exposure)/100f,true,false,"MGŁA");
+            }
+        }
+        else
+        {
+            r.exposure=Mathf.Max(0,r.exposure-dt);
+            r.fogTick=0;
+        }
+    }
     void AddShield(Runner r,float amount){if(r==null||amount<=0)return;if(r.shield<=0)r.shieldTick=1f;r.shield+=amount;r.shieldMax=Mathf.Max(r.shieldMax,r.shield);}
     Tower Nearest(Runner runner,float range)
     {
@@ -499,7 +551,17 @@ public partial class RiftorynTrial : MonoBehaviour
         if(r.hero==4){Runner other=r==player?ally:player;Runner target=other!=null&&other.hp>0&&!other.done&&other.chillTime>0&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<=8?other:r;target.chillTime=0;target.slowImmunity=2;r.cooldown=18;r.uses++;return;}
         if(r.hero==5){healingPosition=r.obj.transform.position;healingTime=5;healingTick=1;UpdateHealingRing();r.cooldown=20;r.uses++;return;}
         if(r.hero!=0&&r.hero!=3&&t==null){if(r==player)Notify("Podejdź bliżej wieży, aby użyć umiejętności.");return;}
-        if(r.hero==3){var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.Fly()){if(r==player)Notify(RiftorynCodexData.Text("Patka jest niedostępna.","Patsy is unavailable."));return;}}
+        if(r.hero==KonevaHero)
+        {
+            var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();
+            if(!pet||!pet.Fly())
+            {
+                if(r==player) Notify(RiftorynCodexData.Text("Patka jest niedostępna.","Patsy is unavailable."));
+                return;
+            }
+            r.kit.guardUntil=0;
+            r.kit.recallUntil=0;
+        }
         if(r.hero==SailaHero)
         {
             t.disabled=Mathf.Max(t.disabled,3f);r.cooldown=Cooldowns[SailaHero];r.uses++;
@@ -560,10 +622,15 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         foreach(var t in towers)
         {
-            if(sharedEscape&&!t.discovered) continue;
+            if(sharedEscape)
+            {
+                if(!t.discovered) continue;
+                t.range.enabled=t.hp>0&&t.rangeVisibleUntil>elapsed;
+            }
             if(t.hp<=0){t.warning.enabled=false;continue;}
             t.disabled=Mathf.Max(0,t.disabled-dt);
             if(t.disabled>0){t.warning.enabled=false;t.target=null;t.petTarget=null;t.windup=0;continue;}
+            if(sharedEscape) RetargetSharedTower(t);
             if(t.petTarget!=null)
             {
                 var pet=t.petTarget;
@@ -587,6 +654,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 if(t.windup>0)continue;
                 var bolt=GameObject.CreatePrimitive(PrimitiveType.Sphere);bolt.name="Pocisk";bolt.transform.position=start;bolt.transform.localScale=Vector3.one*.38f;Destroy(bolt.GetComponent<Collider>());bolt.GetComponent<Renderer>().sharedMaterial=Mat(TowerColors[t.type]);
                 shots.Add(new Shot{obj=bolt,direction=(aim-start).normalized,remaining=Mathf.Max(TowerRange[t.type],Vector3.Distance(start,aim)+1f),damage=TowerDamage[t.type],target=t.target,type=t.type});
+                if(t.divertedTo==t.target) t.divertedTo=null;
                 t.target=null;t.warning.enabled=false;t.wait=Mathf.Max(0,TowerRate[t.type]-TowerWindup);
                 continue;
             }
@@ -631,19 +699,20 @@ public partial class RiftorynTrial : MonoBehaviour
     void ApplyTowerHit(Runner victim,int type,float baseDamage,Vector3 impact)
     {
         if(victim.hp<=0||victim.done)return;
-        if(IsDodging(victim)){ShowCombatText(victim,"DODGE",Color.white);return;}
+        if(IsDodging(victim)){MarkSharedDodge(victim);return;}
         float direct = baseDamage;
         if (victim.hero == 1 && type == 0) direct *= .85f;
         if (victim.hero == LucenHero && type == 2) direct *= .75f;
         Damage(victim,direct,true,true,"WIEŻA: "+TowerNames[type].ToUpperInvariant());
-        if(victim.hp<=0)return;
+        if(victim.hp<=0||ConsumeSharedWard(victim,type))return;
         if(type==0)victim.burn.Apply(3,3);
         else if(type==1&&victim.slowImmunity<=0)victim.chillTime=2;
         else if(type==3)victim.poison.Apply(4,3);
     }
     void ResolveShot(Shot shot,Runner victim,Vector3 impact)
     {
-        if(IsDodging(victim)){ShowCombatText(victim,"DODGE",Color.white);return;}
+        if(IsDodging(victim)){MarkSharedDodge(victim);return;}
+        if(sharedEscape&&PatkaGuardsShot(victim,shot)) return;
         if(shot.type==0)
         {
             foreach(var r in new[]{player,ally})
@@ -687,7 +756,23 @@ public partial class RiftorynTrial : MonoBehaviour
             }
             RiftorynPatkaPreview petVictim=null;
             foreach(var r in new[]{player,ally}){if(r==null||!r.obj)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsAlive)continue;Vector3 center=pet.AimPosition;float q=segment.sqrMagnitude>0?Mathf.Clamp01(Vector3.Dot(center-start,segment)/segment.sqrMagnitude):0;if(Vector3.Distance(center,start+q*segment)<.65f&&q<first){first=q;petVictim=pet;victim=null;}}
-            if(petVictim){end=start+first*segment;petVictim.ReceiveHit(s.damage);}
+            if(sharedEscape&&HeatBarrierBlocks(start,segment,first))
+            {
+                Destroy(s.obj);
+                shots.RemoveAt(i);
+                continue;
+            }
+            if(petVictim)
+            {
+                end=start+first*segment;
+                petVictim.ReceiveHit(s.damage);
+                if(sharedEscape&&s.target!=null)
+                {
+                    Runner guard=PartnerOf(s.target);
+                    if(IsRunning(guard)&&guard.hero==KonevaHero&&guard.kit.guardUntil>elapsed&&petVictim.transform.IsChildOf(guard.obj.transform))
+                        FinishPatkaGuard(guard,petVictim);
+                }
+            }
             else if(victim!=null){end=start+first*segment;ResolveShot(s,victim,end);}
             s.obj.transform.position=end;s.remaining-=step;
             if(hitWall||victim!=null||petVictim!=null||s.remaining<=0){Destroy(s.obj);shots.RemoveAt(i);}
@@ -695,7 +780,8 @@ public partial class RiftorynTrial : MonoBehaviour
     }
     void Damage(Runner r,float amount,bool shielded,bool avoidable=true,string source="OBRAŻENIA")
     {
-        if(avoidable&&shielded&&IsDodging(r)){ShowCombatText(r,"DODGE",Color.white);return;}
+        if(avoidable&&shielded&&IsDodging(r)){MarkSharedDodge(r);return;}
+        if(sharedEscape&&shielded) TryTriggerSharedReserve(r,amount);
         float absorbed=shielded?Mathf.Min(r.shield,amount):0, lost=amount-absorbed;
         r.shield-=absorbed;if(r.shield<=0){r.shield=0;r.shieldMax=0;r.shieldTick=0;}r.hp-=lost;r.damage+=lost;
         if(lost>0||absorbed>0)r.hitFlash=.18f;
@@ -1002,6 +1088,8 @@ public partial class RiftorynTrial : MonoBehaviour
                 GUI.Label(new Rect(18,67,w-36,24),RiftorynCodexData.Text("OBSERWUJESZ SOJUSZNIKA","SPECTATING ALLY")+" · "+HeroNames[ally.hero],small);
                 return;
             }
+            DrawSharedKitHud();
+            return;
         }
         else RiftorynL10n.Label(new Rect(18,40,w-36,24),RiftorynL10n.Format("CEL: DOTRZYJ DO METY   •   CZAS {0:F1} s   •   MGŁA {1:F1} s",elapsed,player.exposure),heading);
         if(lanPlaying&&!lan.IsHost){RiftorynL10n.Label(new Rect(18,67,w-36,24),"LAN · "+HeroNames[player.hero].ToUpperInvariant()+"   •   Q: UMIEJĘTNOŚĆ   •   WASD: RUCH   •   MYSZ: KAMERA   •   ESC: KURSOR   •   UNIK NIEDOSTĘPNY",small);return;}
@@ -1032,9 +1120,19 @@ public partial class RiftorynTrial : MonoBehaviour
             :"Dostań się do złotego portalu, unikając ostrzału i uciekając przed mgłą. Sprawdź, czy potrafisz odczytać zagrożenia i reagować na czas.",heading);
         GUI.Box(new Rect(45,155,535,450),"");GUI.Box(new Rect(600,155,555,450),"");
         RiftorynL10n.Label(new Rect(65,175,490,30),"STEROWANIE I CEL",heading);
-        RiftorynL10n.Label(new Rect(65,212,490,130),"WASD — ruch  ·  mysz — kamera\nSPACJA — unik; podczas przewrotu pociski nie ranią. Odnowienie 10 s.\nQ — umiejętność bohatera.\nESC — zwolnij lub przechwyć kursor.",small);
-        RiftorynL10n.Label(new Rect(65,355,490,100),AbilityDescription(),heading);
-        RiftorynL10n.Label(new Rect(65,475,490,110),"Na minimapie: TY — złoty, AI — błękitny, czerwony krzyż — miejsce śmierci. W panelu drużyny zobaczysz HP, statusy i dystans do mety.",small);
+        if(sharedEscape)
+        {
+            GUI.Label(new Rect(65,212,490,82),RiftorynCodexData.Text(
+                "WASD · ruch    Mysz · kamera    Esc · kursor\nSpacja · unik z odnowieniem 10 s    Q / E / R · zdolności",
+                "WASD · move    Mouse · camera    Esc · cursor\nSpace · dodge with a 10 s cooldown    Q / E / R · abilities"),small);
+            GUI.Label(new Rect(65,290,490,300),SharedKitSummary(selectedHero),small);
+        }
+        else
+        {
+            RiftorynL10n.Label(new Rect(65,212,490,130),"WASD — ruch  ·  mysz — kamera\nSPACJA — unik; podczas przewrotu pociski nie ranią. Odnowienie 10 s.\nQ — umiejętność bohatera.\nESC — zwolnij lub przechwyć kursor.",small);
+            RiftorynL10n.Label(new Rect(65,355,490,100),AbilityDescription(),heading);
+            RiftorynL10n.Label(new Rect(65,475,490,110),"Na minimapie: TY — złoty, AI — błękitny, czerwony krzyż — miejsce śmierci. W panelu drużyny zobaczysz HP, statusy i dystans do mety.",small);
+        }
         RiftorynL10n.Label(new Rect(620,175,500,30),"ZAGROŻENIA",heading);
         string threats="Linia w kolorze wieży ostrzega o przygotowywanym strzale. Wieże celują z wyprzedzeniem; mury blokują pociski.\n\nOGIEŃ — obrażenia obszarowe i podpalenie.\nLÓD — wychłodzenie i wolniejszy ruch.\nBŁYSKAWICE — przeskok na pobliskiego sojusznika.";
         RiftorynL10n.Label(new Rect(620,212,500,265),sharedEscape
@@ -1283,6 +1381,17 @@ public partial class RiftorynTrial : MonoBehaviour
         string availability=playable<0?"W PRZYGOTOWANIU":selectingHero==1&&playable==selectedHero?"WYBRANY PRZEZ GRACZA"
             :DraftHeroAvailable(playable)?"DOSTĘPNY W PRÓBIE":RiftorynCodexData.Text("DOSTĘPNY W TRENINGU","AVAILABLE IN TRAINING");
         RiftorynL10n.Label(new Rect(1305,254,245,38),availability,small);
+        if(sharedEscape&&IsSharedHero(playable))
+        {
+            GUI.Label(new Rect(1160,308,395,44),SharedRoleSummary(playable),small);
+            DraftStat(1160,362,126,"HP",MaxHp[playable].ToString("0"));
+            DraftStat(1292,362,126,"RUCH m/s",RiftorynL10n.Format("{0:F1}",Speed[playable]));
+            if(playable==KonevaHero&&stats!=null)
+                DraftStat(1424,362,131,RiftorynCodexData.Text("HP PATKI","PATSY HP"),stats.petHp.ToString());
+            GUI.Label(new Rect(1160,435,395,28),RiftorynCodexData.Text("ZDOLNOŚCI","ABILITIES"),heading);
+            GUI.Label(new Rect(1160,466,395,348),SharedKitSummary(playable),small);
+            return;
+        }
         if(hero.comingSoon)
         {
             RiftorynL10n.Label(new Rect(1160,308,395,58),RiftorynCodexData.Text(hero.desc,hero.descEn),small);

@@ -17,6 +17,7 @@ static class RiftorynInput
     public static bool Ability => Keys != null && Keys.qKey.wasPressedThisFrame;
     public static bool Roll => Keys != null && Keys.spaceKey.wasPressedThisFrame;
     public static bool Attack => Keys != null && Keys.eKey.wasPressedThisFrame;
+    public static bool Ultimate => Keys != null && Keys.rKey.wasPressedThisFrame;
     public static Vector2 Movement
     {
         get
@@ -43,6 +44,7 @@ static class RiftorynInput
     public static bool Ability => Input.GetKeyDown(KeyCode.Q);
     public static bool Roll => Input.GetKeyDown(KeyCode.Space);
     public static bool Attack => Input.GetKeyDown(KeyCode.E);
+    public static bool Ultimate => Input.GetKeyDown(KeyCode.R);
     public static Vector2 Movement => new Vector2(Input.GetAxisRaw("Horizontal"),Input.GetAxisRaw("Vertical"));
 #endif
 }

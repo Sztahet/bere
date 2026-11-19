@@ -23,7 +23,7 @@ public partial class RiftorynTrial
     RiftorynSharedScores ScoreStore => sharedScores??=new RiftorynSharedScores(
         Path.Combine(Application.persistentDataPath,RiftorynSharedScores.FileName));
 
-    static bool IsSharedHero(int hero)=>hero is 0 or 2 or 3 or NeraHero;
+    static bool IsSharedHero(int hero)=>hero is KaelHero or ZetHero or KonevaHero or NeraHero;
 
     public void OpenSharedEscape()
     {
@@ -116,17 +116,20 @@ public partial class RiftorynTrial
 
         Tower underFire=SharedTowerAimingAt(ally);
         Tower partnerUnderFire=partnerNear?SharedTowerAimingAt(player):null;
-        if(ally.cooldown<=0)
+        bool partnerIncoming=partnerNear&&IncomingSharedShot(player);
+        bool fogClose=elapsed>=FogStartTime&&ally.along-FogFront()<BotFogBuffer;
+        bool usedExtra=TrySharedBotExtra(underFire,partnerUnderFire,shotIncoming,partnerIncoming,fogClose);
+        if(!usedExtra&&ally.cooldown<=0)
         {
-            if(ally.hero==2)
+            if(ally.hero==ZetHero)
             {
                 Tower threat=underFire;
                 if(threat==null||!CanDisableSharedTower(ally,threat)) threat=partnerUnderFire;
                 if(threat!=null&&CanDisableSharedTower(ally,threat)) UseSkill(ally,threat);
             }
-            else if(underFire!=null||partnerUnderFire!=null||shotIncoming||partnerNear&&IncomingSharedShot(player))
+            else if(underFire!=null||partnerUnderFire!=null||shotIncoming||partnerIncoming)
             {
-                if(ally.hero!=3||underFire!=null||partnerUnderFire!=null) Skill(ally);
+                if(ally.hero!=KonevaHero||ally.kit.guardUntil<=elapsed&&(underFire!=null||partnerUnderFire!=null)) Skill(ally);
             }
         }
 
@@ -140,8 +143,7 @@ public partial class RiftorynTrial
 
         float lead=partnerRunning?ally.along-player.along:0f;
         if(lead<=BotLeadDistance-2f) botWaitTime=0;
-        bool fogClose=elapsed>=FogStartTime&&ally.along-FogFront()<BotFogBuffer;
-        if(lead>BotLeadDistance&&!fogClose&&underFire==null&&!shotIncoming&&!IsDodging(ally))
+        if(lead>BotLeadDistance&&!fogClose&&underFire==null&&!shotIncoming&&!IsDodging(ally)&&ally.kit.surgeUntil<=elapsed)
         {
             if(player.progressSpeed>.5f)
             {

@@ -9,18 +9,35 @@ public class RiftorynPatkaPreview : MonoBehaviour
     PlayableGraph graph;
     AnimationClipPlayable playable;
     AnimationClip run, flight;
-    Transform owner;
+    Transform owner, guardedRunner;
     RiftorynPetHealth health;
     float flightTime;
     Vector3 previousPosition;
     bool flying;
     public bool IsFlying => flying && health != null && health.currentHp > 0;
     public bool IsAlive => health != null && health.currentHp > 0 && gameObject.activeInHierarchy;
+    public bool IsHurt => IsAlive && health.currentHp < health.maxHp;
     public Vector3 AimPosition => transform.position + Vector3.up*.45f;
     public bool Fly()
     {
         if (!IsAlive || flying) return false;
-        flightTime=0; flying=true; SetClip(flight); return true;
+        guardedRunner=null; flightTime=0; flying=true; SetClip(flight); return true;
+    }
+    public void Guard(Transform runner)
+    {
+        ReturnToOwner();
+        guardedRunner=runner;
+    }
+    public void ReturnToOwner()
+    {
+        guardedRunner=null;
+        if(!flying) return;
+        flying=false;
+        SetClip(run);
+    }
+    public void Heal(float amount)
+    {
+        if(IsAlive) health.currentHp=Mathf.Min(health.maxHp,health.currentHp+amount);
     }
     public void ReceiveHit(float damage)
     {
@@ -55,7 +72,9 @@ public class RiftorynPatkaPreview : MonoBehaviour
         if(!owner || !IsAlive) return;
         // Preserve world position when the parent moves; follow with the pet's own speed.
         transform.position=previousPosition;
-        Vector3 target=owner.position+owner.forward*FollowDistance;
+        bool guarding=guardedRunner&&guardedRunner.gameObject.activeInHierarchy;
+        Vector3 target=guarding?guardedRunner.position+guardedRunner.forward*.8f+Vector3.up*.55f
+            :owner.position+owner.forward*FollowDistance;
         if(flying)
         {
             flightTime+=Time.deltaTime;
@@ -69,7 +88,7 @@ public class RiftorynPatkaPreview : MonoBehaviour
         else
         {
             Vector3 before=transform.position;
-            transform.position=Vector3.MoveTowards(before,target,Speed*Time.deltaTime);
+            transform.position=Vector3.MoveTowards(before,target,(guarding?10f:Speed)*Time.deltaTime);
             Vector3 direction=target-before;direction.y=0;
             if(direction.sqrMagnitude>.01f) transform.rotation=Quaternion.LookRotation(direction);
         }
