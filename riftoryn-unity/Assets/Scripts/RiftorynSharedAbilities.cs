@@ -375,18 +375,10 @@ public partial class RiftorynTrial
         return summary;
     }
 
-    void DrawSharedKitHud()
+    void DrawSharedControls()
     {
-        float width=Mathf.Max(1,(Screen.width-32f)/3f);
-        for(int slot=0;slot<3;slot++)
-        {
-            var info=SharedSkillInfo(player.hero,slot);
-            float cooldown=slot==0?player.cooldown:SharedCooldownLeft(player,slot==2);
-            string state=cooldown>0?RiftorynL10n.Format("{0:F1} s",cooldown):RiftorynL10n.Translate("GOTOWA");
-            GUI.Label(new Rect(18+slot*width,67,width-5,22),$"{SharedSkillKeys[slot]} · {info.name} · {state}",small);
-        }
         string dodge=player.rollCooldown>0?RiftorynL10n.Format("{0:F1} s",player.rollCooldown):RiftorynL10n.Translate("GOTOWY");
         string controls=RiftorynCodexData.Text("SPACJA · UNIK {0}   •   WASD · RUCH   •   MYSZ · KAMERA","SPACE · DODGE {0}   •   WASD · MOVE   •   MOUSE · CAMERA");
-        GUI.Label(new Rect(18,89,Screen.width-36,20),RiftorynL10n.Format(controls,dodge),small);
+        GUI.Label(new Rect(18,67,Screen.width-36,20),RiftorynL10n.Format(controls,dodge),small);
     }
 }

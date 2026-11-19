@@ -995,12 +995,14 @@ public partial class RiftorynTrial : MonoBehaviour
             GUI.Box(team,"");
             HudRunner(ally,"SOJUSZNIK",new Color(.18f,.72f,.82f),team.x+10,team.y+5,hudWidth);
         }
-        DrawPlayerHealth(size);
+        float skillTile=SharedSkillTileSize();
+        DrawPlayerHealth(size,skillTile>0f?skillTile+8f:0f);
+        if(skillTile>0f) DrawSharedSkillBar(skillTile);
     }
-    void DrawPlayerHealth(float minimapSize)
+    void DrawPlayerHealth(float minimapSize,float lift)
     {
         float width=Mathf.Clamp(Screen.width-2f*(minimapSize+48f),180f,370f);
-        float x=(Screen.width-width)*.5f, y=Screen.height-68f;
+        float x=(Screen.width-width)*.5f, y=Screen.height-68f-lift;
         var pet=player.obj.GetComponentInChildren<RiftorynPetHealth>(true);
         if(hudCenterStyle==null)hudCenterStyle=new GUIStyle(GUI.skin.label){alignment=TextAnchor.MiddleCenter,fontStyle=FontStyle.Bold,fontSize=15,normal={textColor=Color.white}};
         bool inFog=RunnerInFog(player);int statusCount=ActiveStatusCount(player,inFog);float shieldHeight=player.shield>0?13:0;float statusY=y-(statusCount>0?StatusHeight(statusCount)+4+shieldHeight:6+shieldHeight);
@@ -1032,7 +1034,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(lanPanel){DrawLanPanel();return;}
         if(phase==Phase.Setup&&selectingHero>=0){DrawDraft();return;}
         if(phase==Phase.Setup&&briefing){DrawBriefing();return;}
-        GUI.Box(new Rect(0,0,w,phase==Phase.Setup?155:110),"");
+        GUI.Box(new Rect(0,0,w,phase==Phase.Setup?155:sharedEscape?94:110),"");
         if(GUI.Button(new Rect(w-90,6,75,28),RiftorynL10n.CurrentCode+" ⇄")) RiftorynL10n.Toggle();
         RiftorynL10n.Label(new Rect(18,8,490,34),sharedEscape
             ?RiftorynCodexData.Text("RIFTORYN  /  WSPÓLNA UCIECZKA","RIFTORYN  /  SHARED ESCAPE"):"RIFTORYN  /  PRÓBA BOHATERA",title);
@@ -1088,7 +1090,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 GUI.Label(new Rect(18,67,w-36,24),RiftorynCodexData.Text("OBSERWUJESZ SOJUSZNIKA","SPECTATING ALLY")+" · "+HeroNames[ally.hero],small);
                 return;
             }
-            DrawSharedKitHud();
+            DrawSharedControls();
             return;
         }
         else RiftorynL10n.Label(new Rect(18,40,w-36,24),RiftorynL10n.Format("CEL: DOTRZYJ DO METY   •   CZAS {0:F1} s   •   MGŁA {1:F1} s",elapsed,player.exposure),heading);
