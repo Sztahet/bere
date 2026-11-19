@@ -58,8 +58,24 @@ public partial class RiftorynMenu : MonoBehaviour {
     void OnGUI(){if(trial==null||!trial.menuOpen)return;Init();if(sailaReaderOpen){DrawSailaReader();return;}Matrix4x4 old=GUI.matrix;if(page==2&&tab==0&&storyOpen&&(Screen.width<1000||Screen.height<600)){GUI.matrix=Matrix4x4.identity;HeroStoryCompact();GUI.matrix=old;return;}float scale=Mathf.Min(Screen.width/1600f,Screen.height/900f);if(scale<=0)return;GUI.matrix=Matrix4x4.TRS(new Vector3((Screen.width-1600*scale)/2,(Screen.height-900*scale)/2,0),Quaternion.identity,new Vector3(scale,scale,1));Fill(new Rect(0,0,1600,900),bg);Top();if(page==0)Home();else if(page==1)Modes();else if(tab==0&&storyOpen)HeroStory();else Codex();GUI.matrix=old;}
     void Top(){Fill(new Rect(0,0,1600,70),new Color(.065f,.055f,.10f));Fill(new Rect(0,69,1600,1),line);Text(new Rect(52,20,230,36),"RIFTORYN",brand);string[] labels={"MENU","GRAJ","KODEKS"};for(int i=0;i<3;i++){var n=new GUIStyle(nav);n.normal.textColor=page==i?gold:muted;if(RiftorynL10n.Button(new Rect(310+i*116,23,104,32),labels[i],n)){page=i;storyOpen=false;scroll=Vector2.zero;detailScroll=Vector2.zero;}}Text(new Rect(1270,24,220,25),"PRE-POC  ·  v0.2.2  ·  OFFLINE",heroBadge);if(GUI.Button(new Rect(1500,20,70,32),RiftorynL10n.CurrentCode+" ⇄"))RiftorynL10n.Toggle();}
     void Home(){Frame(new Rect(48,104,1504,694),panel);Picture(new Rect(832,105,719,692),Portrait("morrak"));Fill(new Rect(49,105,885,692),new Color(.095f,.08f,.13f,.97f));Fill(new Rect(828,105,106,692),new Color(.095f,.08f,.13f,.56f));Text(new Rect(110,175,600,25),"RIFTORYN  /  PIERWSZA PRÓBA",eyebrow);Text(new Rect(106,229,690,180),"BUDUJ.\nUCIEKAJ.\nADAPTUJ SIĘ.",title);Text(new Rect(110,430,590,70),"Wejdź do labiryntu, poznaj bohaterów i sprawdź swoje umiejętności pod ostrzałem wież.",mutedText);if(Click(new Rect(110,530,215,55),"ROZPOCZNIJ PRÓBĘ  →",true))trial.OpenTraining();if(Click(new Rect(340,530,205,55),"ODKRYJ KODEKS  ↗")){page=2;tab=0;}Fill(new Rect(110,660,580,1),line);Text(new Rect(110,683,240,24),"31 BOHATERÓW",eyebrow);Text(new Rect(110,710,260,40),"Historie, role i umiejętności",mutedText);Text(new Rect(390,683,260,24),"PIERWSZA PRÓBA 3D",eyebrow);Text(new Rect(390,710,290,40),"Trzy grywalne postacie",mutedText);Text(new Rect(50,830,1400,35),"Prototyp koncepcji. Zasady, opisy, oprawa i balans pozostają do testów.",mutedText);}
-    void Modes(){Text(new Rect(50,110,500,22),"PRZYGOTUJ SIĘ  /  TRYBY GRY",eyebrow);Text(new Rect(48,145,700,55),"WYBIERZ SWOJĄ PRÓBĘ",section);Text(new Rect(50,194,1000,30),"Przygotuj bohatera i poznaj labirynt przed właściwą rozgrywką.",mutedText);ModeCard(new Rect(50,252,730,390),"DOSTĘPNE  /  PRE-POC","PRÓBA BOHATERA","Wybierz bohatera, przygotuj automatyczne wieże i przejdź spiralny labirynt sam lub z sojusznikiem AI.",true);ModeCard(new Rect(800,252,750,390),"W PRZYGOTOWANIU","MECZ DRUŻYNOWY","W przyszłości dwie drużyny zbudują obronę i zmierzą się z labiryntem przeciwnika.",false);}
-    void ModeCard(Rect r,string badge,string name,string description,bool available){Frame(r,panel);Text(new Rect(r.x+32,r.y+32,r.width-64,26),badge,eyebrow);Text(new Rect(r.x+30,r.y+100,r.width-60,45),name,section);Text(new Rect(r.x+32,r.y+165,r.width-64,85),description,mutedText);if(available){if(Click(new Rect(r.x+32,r.y+290,250,52),"PRZEJDŹ DO PRÓBY  →",true))trial.OpenTraining();}else{Text(new Rect(r.x+32,r.y+307,300,30),"WKRÓTCE",heroBadge);}}
+    void Modes()
+    {
+        Text(new Rect(50,110,500,22),"PRZYGOTUJ SIĘ  /  TRYBY GRY",eyebrow);
+        Text(new Rect(48,145,700,55),"WYBIERZ SWOJĄ PRÓBĘ",section);
+        ModeCard(new Rect(50,252,730,390),
+            RiftorynCodexData.Text("WSPÓLNA UCIECZKA","SHARED ESCAPE"),
+            RiftorynCodexData.Text("Dotrzyj do mety z sojusznikiem AI. Komputer losuje wieże, a ich pozycje odkrywacie podczas biegu.","Reach the finish with an AI teammate. The computer rolls tower positions, which you discover while running."),
+            trial.OpenSharedEscape);
+        ModeCard(new Rect(800,252,750,390),"PRÓBA BOHATERA",
+            "Wybierz bohatera, przygotuj automatyczne wieże i przejdź spiralny labirynt sam lub z sojusznikiem AI.",trial.OpenTraining);
+    }
+    void ModeCard(Rect r,string name,string description,Action open)
+    {
+        Frame(r,panel);
+        Text(new Rect(r.x+30,r.y+48,r.width-60,50),name,section);
+        Text(new Rect(r.x+32,r.y+120,r.width-64,120),description,mutedText);
+        if(Click(new Rect(r.x+32,r.y+290,250,52),"PRZEJDŹ DO PRÓBY  →",true)) open();
+    }
     void Codex()
     {
         Text(new Rect(50,100,900,22),RiftorynCodexData.Text("ARCHIWUM RIFTORYN  /  ENCYKLOPEDIA","RIFTORYN ARCHIVE  /  ENCYCLOPEDIA"),eyebrow);
