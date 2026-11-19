@@ -762,7 +762,14 @@ public partial class RiftorynTrial : MonoBehaviour
         cam.transform.position=focus+direction*unobstructed;
         cam.transform.rotation=rotation;
     }
-    void End(){phase=Phase.Finished;Capture(false);if(!sharedEscape)UpdateResult();}
+    void End()
+    {
+        if(phase==Phase.Finished) return;
+        phase=Phase.Finished;
+        Capture(false);
+        if(sharedEscape) RecordSharedScore();
+        else UpdateResult();
+    }
     void UpdateResult(){int arrived=(player.done?1:0)+(ally!=null&&ally.done?1:0),count=ally==null?1:2;result=RiftorynL10n.Format("META {0}/{1}  •  {2}: {3}",arrived,count,HeroNames[player.hero],RiftorynL10n.Translate(player.done?"meta":"pokonany"))+(ally!=null?RiftorynL10n.Format(lanPlaying?"  •  {0}: {1}":"  •  {0} AI: {1}",HeroNames[ally.hero],RiftorynL10n.Translate(ally.done?"meta":"pokonany")):"")+RiftorynL10n.Format("\nCzas {0:F1} s  •  obrażenia {1:F0}  •  zdolności {2}",elapsed,player.damage,player.uses);}
     void Notify(string text){message=text;messageTimer=3;}
     // The minimap shares the same map coordinates as the world, with north at the top.
@@ -925,7 +932,24 @@ public partial class RiftorynTrial : MonoBehaviour
         RiftorynL10n.Label(new Rect(x,y,width,25),hp,hudCenterStyle);
         RiftorynL10n.Label(new Rect(x,y+27,width,20),RiftorynL10n.Format("{0}  ·  DO METY {1} m",HeroNames[player.hero],player.done?0:Mathf.CeilToInt(Mathf.Max(0,total-Project(player.obj.transform.position,out _)))),small);
     }
-    void OnGUI(){if(menuOpen)return;if(title==null){title=new GUIStyle(GUI.skin.label){fontSize=24,fontStyle=FontStyle.Bold,normal={textColor=new Color(1,.83f,.52f)}};heading=new GUIStyle(GUI.skin.label){fontSize=16,fontStyle=FontStyle.Bold,normal={textColor=Color.white}};small=new GUIStyle(GUI.skin.label){fontSize=13,wordWrap=true,normal={textColor=Color.white}};}float w=Screen.width;if(lanPanel){DrawLanPanel();return;}if(phase==Phase.Setup&&selectingHero>=0){DrawDraft();return;}if(phase==Phase.Setup&&briefing){DrawBriefing();return;}GUI.Box(new Rect(0,0,w,phase==Phase.Setup?155:110),"");if(GUI.Button(new Rect(w-90,6,75,28),RiftorynL10n.CurrentCode+" ⇄"))RiftorynL10n.Toggle();RiftorynL10n.Label(new Rect(18,8,490,34),sharedEscape?RiftorynCodexData.Text("RIFTORYN  /  WSPÓLNA UCIECZKA","RIFTORYN  /  SHARED ESCAPE"):"RIFTORYN  /  PRÓBA BOHATERA",title);
+    void OnGUI()
+    {
+        if(menuOpen&&!SharedScoresOpen) return;
+        if(title==null)
+        {
+            title=new GUIStyle(GUI.skin.label){fontSize=24,fontStyle=FontStyle.Bold,normal={textColor=new Color(1,.83f,.52f)}};
+            heading=new GUIStyle(GUI.skin.label){fontSize=16,fontStyle=FontStyle.Bold,normal={textColor=Color.white}};
+            small=new GUIStyle(GUI.skin.label){fontSize=13,wordWrap=true,normal={textColor=Color.white}};
+        }
+        if(SharedScoresOpen){DrawSharedScores();return;}
+        float w=Screen.width;
+        if(lanPanel){DrawLanPanel();return;}
+        if(phase==Phase.Setup&&selectingHero>=0){DrawDraft();return;}
+        if(phase==Phase.Setup&&briefing){DrawBriefing();return;}
+        GUI.Box(new Rect(0,0,w,phase==Phase.Setup?155:110),"");
+        if(GUI.Button(new Rect(w-90,6,75,28),RiftorynL10n.CurrentCode+" ⇄")) RiftorynL10n.Toggle();
+        RiftorynL10n.Label(new Rect(18,8,490,34),sharedEscape
+            ?RiftorynCodexData.Text("RIFTORYN  /  WSPÓLNA UCIECZKA","RIFTORYN  /  SHARED ESCAPE"):"RIFTORYN  /  PRÓBA BOHATERA",title);
       if(phase==Phase.Setup){
         if(!sharedEscape&&GUI.Button(new Rect(620,42,110,30),"LAN")){lanPanel=true;GUIUtility.ExitGUI();}
         RiftorynL10n.Label(new Rect(18,44,75,24),"Bohater",small);
