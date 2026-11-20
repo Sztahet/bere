@@ -174,7 +174,7 @@ public partial class RiftorynTrial
         Vector3 center=runner.obj.transform.position+Vector3.up;
         foreach(var shot in shots)
         {
-            Vector3 origin=shot.obj.transform.position;
+            Vector3 origin=shot.visual.root.transform.position;
             Vector3 relativeVelocity=shot.direction*ProjectileSpeed-runner.velocity;
             if(relativeVelocity.sqrMagnitude<.001f) continue;
             Vector3 offset=center-origin;

@@ -31,7 +31,7 @@ public partial class RiftorynTrial : MonoBehaviour
     }
     class FloatingCombatText { public Transform anchor; public Vector3 position; public string text; public Color color; public float started, offset; }
     class Tower { public int slot,type; public float hp=100,wait,disabled; public GameObject obj, marker; public LineRenderer range, warning; public Runner target,divertedTo; public RiftorynPatkaPreview petTarget; public float windup,divertUntil,rangeVisibleUntil; public bool discovered; }
-    class Shot { public GameObject obj; public Vector3 direction; public float remaining,damage; public Runner target; public RiftorynPatkaPreview petTarget; public int type; }
+    class Shot { public ShotVisual visual; public Vector3 origin,direction; public float remaining,damage; public Runner target; public int id,type; }
     enum Phase { Setup, Playing, Finished }
     enum TrialMode { Training, SharedEscape, LanTest }
     TrialMode mode;
@@ -41,9 +41,9 @@ public partial class RiftorynTrial : MonoBehaviour
     Phase phase; int selectedHero=0, allyChoice=0, selectedType=0, selectingHero=-1, draftPreview=-1; bool initialDraft, briefing; CodexHero[] roster=Array.Empty<CodexHero>(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); RiftorynHeroStats[] heroStats=Array.Empty<RiftorynHeroStats>(); Vector2 abilityTooltipScroll; string lastAbilityTooltip=""; float abilityTooltipUntil; readonly Dictionary<string,Texture2D> draftPortraits=new(); bool custom, genericModelPreview; float elapsed,total, cameraYaw, pitch=18f, messageTimer, fogArrivalTime; string message="", result=""; int floatingSequence; readonly List<FloatingCombatText> combatTexts=new(); Runner player,ally; Camera cam; GameObject world,runnerRoot,slotRoot,fogRoot; GameObject[] slots; readonly List<Tower> towers=new(); readonly List<Shot> shots=new(); readonly List<GameObject> fogTiles=new(); readonly List<float> fogDistances=new(); float[] lengths; Mesh fogMesh; Material fogMaterial; GUIStyle title, small, heading, floatingStyle, hudCenterStyle, hudStatusStyle, draftHeroTitle, draftRoleStyle, draftCompactNameStyle,draftResistanceNameStyle,draftResistanceValueStyle,draftResistanceNoteStyle; readonly Dictionary<string,Texture2D> statIcons=new(), statusIcons=new(); bool mouseCaptured;
     [Serializable] class LanInput { public float x,z; public bool ability,attack; }
     [Serializable] class LanRunner { public float x,z,yaw,hp,shield,shieldMax,cooldown,exposure,damage; public bool done; public int uses; }
-    [Serializable] class LanShot { public float x,y,z; public int type; }
+    [Serializable] class LanShot { public float x,y,z,dx,dy,dz,travel; public int id,type; }
     [Serializable] class LanState { public float time,healTime,healX,healZ; public bool finished; public int hostHero,guestHero; public LanRunner host,guest; public float[] towerHp,towerDisabled; public LanShot[] shots; }
-    RiftorynLan lan; bool lanPanel,lanPlaying; string lanAddress="127.0.0.1"; float lanSendAt,lanInputAt; Vector3 lanRemoteInput; bool lanRemoteAbility,lanRemoteAttack; int lanHero; string lanNotice=""; float healingTime,healingTick; Vector3 healingPosition; LineRenderer healingRing; readonly List<GameObject> lanShotVisuals=new();
+    RiftorynLan lan; bool lanPanel,lanPlaying; string lanAddress="127.0.0.1"; float lanSendAt,lanInputAt; Vector3 lanRemoteInput; bool lanRemoteAbility,lanRemoteAttack; int lanHero; string lanNotice=""; float healingTime,healingTick; Vector3 healingPosition; LineRenderer healingRing;
     int visibleFogTiles;
     Vector3 P(Vector2 p) => new((p.x-400)*Scale,0,(330-p.y)*Scale);
     Vector3 Slot(int i)=>P(SlotMap[i]);
@@ -157,7 +157,7 @@ public partial class RiftorynTrial : MonoBehaviour
         Quad(new Vector3(0,.10f,-r),new Vector3(0,.10f,r),new Vector3(0,2.65f,r),new Vector3(0,2.65f,-r));
         var mesh=new Mesh{name="Warstwy mgły"};mesh.SetVertices(vertices);mesh.SetUVs(0,uv);mesh.SetTriangles(triangles,0);mesh.RecalculateBounds();return mesh;
     }
-    void OnDestroy(){ClearHeatBarrier();if(lan)lan.Stop();ClearLanShots();if(healingRing&&healingRing.material)Destroy(healingRing.material);if(fogMesh)Destroy(fogMesh);if(fogMaterial)Destroy(fogMaterial);foreach(var material in worldMaterials.Values)if(material)Destroy(material);worldMaterials.Clear();foreach(var material in towerMaterials.Values)if(material)Destroy(material);towerMaterials.Clear();if(wallTexture)Destroy(wallTexture);if(floorTexture)Destroy(floorTexture);if(floorMaterial)Destroy(floorMaterial);}
+    void OnDestroy(){ClearHeatBarrier();if(lan)lan.Stop();DisposeShotVisuals();if(healingRing&&healingRing.material)Destroy(healingRing.material);if(fogMesh)Destroy(fogMesh);if(fogMaterial)Destroy(fogMaterial);foreach(var material in worldMaterials.Values)if(material)Destroy(material);worldMaterials.Clear();foreach(var material in towerMaterials.Values)if(material)Destroy(material);towerMaterials.Clear();if(wallTexture)Destroy(wallTexture);if(floorTexture)Destroy(floorTexture);if(floorMaterial)Destroy(floorMaterial);}
     Runner MakeRunner(int h,bool bot){var go=new GameObject(bot?"Sojusznik AI":"Gracz");go.transform.SetParent(runnerRoot.transform);go.transform.position=At(0)+(bot?Vector3.right*.8f:Vector3.zero);var body=GameObject.CreatePrimitive(PrimitiveType.Capsule);body.name="Bohater";body.transform.SetParent(go.transform,false);body.transform.localPosition=Vector3.up;body.transform.localScale=new Vector3(.85f,1,.85f);body.GetComponent<Renderer>().sharedMaterial=Mat(bot?new Color(.16f,.75f,.85f):new Color(.88f,.71f,.36f));body.GetComponent<Collider>().isTrigger=true;if(h==3)AttachCharacterModel(go,body,"Characters/koneva-poc",true);else if(h==SailaHero)AttachCharacterModel(go,body,"Characters/saila-poc",true);else if(h==PyrraHero){AttachCharacterModel(go,body,"Characters/pyrra-poc",true);var follower=go.AddComponent<RiftorynSparkFollower>();follower.Initialize(go.transform);}else if(!bot&&mode==TrialMode.Training&&genericModelPreview)AttachCharacterModel(go,body,"Characters/generic-prototype",false);if(h==3){body.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.22f,.12f,.28f));var prefab=Resources.Load<GameObject>("Pets/patka");if(prefab){var pet=Instantiate(prefab,go.transform);pet.name="Patka";pet.transform.localPosition=new Vector3(0,.05f,2f);pet.transform.localRotation=Quaternion.Euler(0,180,0);pet.transform.localScale=Vector3.one*.42f;var ph=pet.AddComponent<RiftorynPetHealth>();ph.petName="Patka";ph.maxHp=ph.currentHp=50;pet.AddComponent<RiftorynPatkaPreview>();}}var r=new Runner{hero=h,obj=go,hp=MaxHp[h]};return r;}
     void AttachCharacterModel(GameObject runner,GameObject capsule,string resource,bool saila)
     {
@@ -185,8 +185,7 @@ public partial class RiftorynTrial : MonoBehaviour
         combatTexts.Clear(); floatingSequence=0;
         botWaitTime=0; cameraRunner=null;
         Capture(false);
-        foreach(var shot in shots) if(shot.obj) Destroy(shot.obj);
-        shots.Clear();
+        ClearShotVisuals();
         foreach(var tower in towers)
         {
             if(!tower.obj) continue;
@@ -306,6 +305,7 @@ public partial class RiftorynTrial : MonoBehaviour
 
     void Update()
     {
+        UpdateFadingShots();
         if(menuOpen) return;
         if(player==null||!player.obj||(ally!=null&&!ally.obj))
         {
@@ -649,24 +649,22 @@ public partial class RiftorynTrial : MonoBehaviour
                 var pet=t.petTarget;
                 if(!pet.IsAlive || Vector3.Distance(pet.AimPosition,Slot(t.slot))>=TowerRange[t.type] || !TowerHasClearShot(t,pet.AimPosition))
                 {t.petTarget=null;t.windup=0;t.warning.enabled=false;continue;}
-                Vector3 start=t.obj.transform.position+Vector3.up*3f, aim=pet.AimPosition;
+                Vector3 aim=pet.AimPosition, start=ShotOrigin(t,aim);
                 t.warning.enabled=true;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);t.windup-=dt;
                 if(t.windup>0)continue;
-                var bolt=GameObject.CreatePrimitive(PrimitiveType.Sphere);bolt.name="Pocisk";bolt.transform.position=start;bolt.transform.localScale=Vector3.one*.38f;Destroy(bolt.GetComponent<Collider>());bolt.GetComponent<Renderer>().sharedMaterial=Mat(TowerColors[t.type]);
-                shots.Add(new Shot{obj=bolt,direction=(aim-start).normalized,remaining=Mathf.Max(TowerRange[t.type],Vector3.Distance(start,aim)+1f),damage=TowerDamage[t.type],petTarget=pet,type=t.type});
+                FireTowerShot(t,start,aim,null);
                 t.petTarget=null;t.warning.enabled=false;t.wait=Mathf.Max(0,TowerRate[t.type]-TowerWindup);continue;
             }
             if(t.target!=null)
             {
                 if(t.target.hp<=0||t.target.done||!t.target.obj||Vector3.Distance(t.target.obj.transform.position,Slot(t.slot))>=TowerRange[t.type]||!TowerHasClearShot(t,t.target.obj.transform.position+Vector3.up))
                 {t.target=null;t.windup=0;t.warning.enabled=false;continue;}
-                Vector3 start=t.obj.transform.position+Vector3.up*3f;
-                Vector3 aim=PredictAim(start,t.target.obj.transform.position+Vector3.up,t.target.velocity,ProjectileSpeed);
+                Vector3 center=t.target.obj.transform.position+Vector3.up, start=ShotOrigin(t,center);
+                Vector3 aim=PredictAim(start,center,t.target.velocity,ProjectileSpeed);
                 t.warning.enabled=true;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);
                 t.windup-=dt;
                 if(t.windup>0)continue;
-                var bolt=GameObject.CreatePrimitive(PrimitiveType.Sphere);bolt.name="Pocisk";bolt.transform.position=start;bolt.transform.localScale=Vector3.one*.38f;Destroy(bolt.GetComponent<Collider>());bolt.GetComponent<Renderer>().sharedMaterial=Mat(TowerColors[t.type]);
-                shots.Add(new Shot{obj=bolt,direction=(aim-start).normalized,remaining=Mathf.Max(TowerRange[t.type],Vector3.Distance(start,aim)+1f),damage=TowerDamage[t.type],target=t.target,type=t.type});
+                FireTowerShot(t,start,aim,t.target);
                 if(t.divertedTo==t.target) t.divertedTo=null;
                 t.target=null;t.warning.enabled=false;t.wait=Mathf.Max(0,TowerRate[t.type]-TowerWindup);
                 continue;
@@ -756,7 +754,7 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         for(int i=shots.Count-1;i>=0;i--)
         {
-            var s=shots[i];float step=Mathf.Min(s.remaining,ProjectileSpeed*dt);Vector3 start=s.obj.transform.position;
+            var s=shots[i];float step=Mathf.Min(s.remaining,ProjectileSpeed*dt);Vector3 start=s.visual.root.transform.position;
             bool hitWall=Physics.Raycast(start,s.direction,out RaycastHit hit,step,~0,QueryTriggerInteraction.Ignore);
             Vector3 end=hitWall?hit.point:start+s.direction*step, segment=end-start;
             Runner victim=null;float first=float.PositiveInfinity;
@@ -769,9 +767,10 @@ public partial class RiftorynTrial : MonoBehaviour
             }
             RiftorynPatkaPreview petVictim=null;
             foreach(var r in new[]{player,ally}){if(r==null||!r.obj)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsAlive)continue;Vector3 center=pet.AimPosition;float q=segment.sqrMagnitude>0?Mathf.Clamp01(Vector3.Dot(center-start,segment)/segment.sqrMagnitude):0;if(Vector3.Distance(center,start+q*segment)<.65f&&q<first){first=q;petVictim=pet;victim=null;}}
-            if(sharedEscape&&HeatBarrierBlocks(start,segment,first))
+            if(sharedEscape&&HeatBarrierBlocks(start,segment,first,out Vector3 barrierImpact))
             {
-                Destroy(s.obj);
+                MoveShotVisual(s.visual,barrierImpact,s.direction,Vector3.Distance(s.origin,barrierImpact));
+                FadeShotVisual(s.visual);
                 shots.RemoveAt(i);
                 continue;
             }
@@ -787,8 +786,9 @@ public partial class RiftorynTrial : MonoBehaviour
                 }
             }
             else if(victim!=null){end=start+first*segment;ResolveShot(s,victim,end);}
-            s.obj.transform.position=end;s.remaining-=step;
-            if(hitWall||victim!=null||petVictim!=null||s.remaining<=0){Destroy(s.obj);shots.RemoveAt(i);}
+            MoveShotVisual(s.visual,end,s.direction,Vector3.Distance(s.origin,end));
+            s.remaining-=step;
+            if(hitWall||victim!=null||petVictim!=null||s.remaining<=0){FadeShotVisual(s.visual);shots.RemoveAt(i);}
         }
     }
     void Damage(Runner r,float amount,bool shielded,bool avoidable=true,string source="OBRAŻENIA")
@@ -865,6 +865,8 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         if(phase==Phase.Finished) return;
         phase=Phase.Finished;
+        foreach(var shot in shots) FadeShotVisual(shot.visual);
+        shots.Clear();
         Capture(false);
         if(sharedEscape) RecordSharedScore();
         else UpdateResult();
@@ -1153,10 +1155,11 @@ public partial class RiftorynTrial : MonoBehaviour
             RiftorynL10n.Label(new Rect(65,475,490,110),"Na minimapie: TY — złoty, AI — błękitny, czerwony krzyż — miejsce śmierci. W panelu drużyny zobaczysz HP, statusy i dystans do mety.",small);
         }
         RiftorynL10n.Label(new Rect(620,175,500,30),"ZAGROŻENIA",heading);
-        string threats="Linia w kolorze wieży ostrzega o przygotowywanym strzale. Wieże celują z wyprzedzeniem; mury blokują pociski.\n\nOGIEŃ — obrażenia obszarowe i podpalenie.\nLÓD — wychłodzenie i wolniejszy ruch.\nBŁYSKAWICE — przeskok na pobliskiego sojusznika.";
-        RiftorynL10n.Label(new Rect(620,212,500,265),sharedEscape
-            ?RiftorynCodexData.Text(threats,"The colored line warns of a shot. Towers lead their targets and walls stop projectiles.\n\nFIRE — area damage and burning.\nICE — chill and slower movement.\nLIGHTNING — jumps to a nearby ally.")
-            :threats+"\nNATURA — trucizna zadająca obrażenia w czasie.",small);
+        string threats=RiftorynCodexData.Text(
+            "Linia w kolorze wieży ostrzega o przygotowywanym strzale. Wieże celują z wyprzedzeniem; mury blokują pociski.\n\nOGIEŃ — kule spadają z góry, rażą obszarowo i podpalają.\nLÓD — wychłodzenie i wolniejszy ruch.\nBŁYSKAWICE — przeskok na pobliskiego sojusznika.",
+            "The colored line warns of a shot. Towers lead their targets and walls stop projectiles.\n\nFIRE — fireballs fall from above, dealing area damage and burning.\nICE — chill and slower movement.\nLIGHTNING — jumps to a nearby ally.");
+        if(!sharedEscape) threats+=RiftorynCodexData.Text("\nNATURA — trucizna zadająca obrażenia w czasie.","\nNATURE — poison deals damage over time.");
+        GUI.Label(new Rect(620,212,500,265),threats,small);
         RiftorynL10n.Label(new Rect(620,480,500,110),"MGŁA pojawia się po 5 s, spowalnia i z czasem zadaje coraz większe obrażenia. Statusy widać nad paskiem HP; kolorowe liczby obrażeń unoszą się nad postacią.",small);
         RiftorynL10n.Label(new Rect(50,625,1080,45),"To wersja testowa: zwróć uwagę, czy widzisz ostrzał, rozumiesz przyczynę obrażeń i masz czas zareagować.",small);
         if(GUI.Button(new Rect(1070,30,75,32),RiftorynL10n.CurrentCode+" ⇄"))RiftorynL10n.Toggle();
@@ -1231,7 +1234,12 @@ public partial class RiftorynTrial : MonoBehaviour
         if(!lanPlaying||!lan.IsHost||!lan.Connected||(!force&&Time.unscaledTime<lanSendAt))return;lanSendAt=Time.unscaledTime+.05f;
         var state=new LanState{time=elapsed,healTime=healingTime,healX=healingPosition.x,healZ=healingPosition.z,finished=phase==Phase.Finished,hostHero=player.hero,guestHero=ally.hero,host=CaptureLanRunner(player),guest=CaptureLanRunner(ally),towerHp=new float[towers.Count],towerDisabled=new float[towers.Count],shots=new LanShot[shots.Count]};
         for(int i=0;i<towers.Count;i++){state.towerHp[i]=towers[i].hp;state.towerDisabled[i]=towers[i].disabled;}
-        for(int i=0;i<shots.Count;i++){var p=shots[i].obj.transform.position;state.shots[i]=new LanShot{x=p.x,y=p.y,z=p.z,type=shots[i].type};}
+        for(int i=0;i<shots.Count;i++)
+        {
+            var shot=shots[i];
+            Vector3 p=shot.visual.root.transform.position, d=shot.direction;
+            state.shots[i]=new LanShot{x=p.x,y=p.y,z=p.z,dx=d.x,dy=d.y,dz=d.z,travel=Vector3.Distance(shot.origin,p),id=shot.id,type=shot.type};
+        }
         lan.Send("S"+JsonUtility.ToJson(state),state.finished||force);
     }
     void ReceiveLan(string message)
@@ -1253,8 +1261,6 @@ public partial class RiftorynTrial : MonoBehaviour
         if(phase==Phase.Playing){bool ability=RiftorynInput.Ability,attack=RiftorynInput.Attack;if(Time.unscaledTime>=lanSendAt||ability||attack){var input=MoveInput();lan.Send("I"+JsonUtility.ToJson(new LanInput{x=input.x,z=input.z,ability=ability,attack=attack}),ability||attack);lanSendAt=Time.unscaledTime+.05f;}}
         UpdateFogVisuals();UpdateRunnerVisual(player,Time.deltaTime);UpdateRunnerVisual(ally,Time.deltaTime);UpdateCamera();
     }
-    void ClearLanShots(){foreach(var o in lanShotVisuals)if(o)Destroy(o);lanShotVisuals.Clear();}
-    void UpdateLanShots(LanShot[] states){if(states==null)return;while(lanShotVisuals.Count>states.Length){int i=lanShotVisuals.Count-1;Destroy(lanShotVisuals[i]);lanShotVisuals.RemoveAt(i);}while(lanShotVisuals.Count<states.Length){var o=GameObject.CreatePrimitive(PrimitiveType.Sphere);o.name="Pocisk LAN";o.transform.localScale=Vector3.one*.38f;Destroy(o.GetComponent<Collider>());lanShotVisuals.Add(o);}for(int i=0;i<states.Length;i++){var s=states[i];lanShotVisuals[i].transform.position=new Vector3(s.x,s.y,s.z);lanShotVisuals[i].GetComponent<Renderer>().material.color=TowerColors[Mathf.Clamp(s.type,0,TowerColors.Length-1)];}}
 
     void StartDraft(int slot,bool first)
     {

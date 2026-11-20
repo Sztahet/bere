@@ -152,16 +152,19 @@ public partial class RiftorynTrial
         heatBarrier=null;
     }
 
-    bool HeatBarrierBlocks(Vector3 start,Vector3 segment,float firstHit)
+    bool HeatBarrierBlocks(Vector3 start,Vector3 segment,float firstHit,out Vector3 impact)
     {
+        impact=start;
         if(heatBarrier==null) return false;
         float length=segment.magnitude;
         if(length<=0) return false;
         var ray=new Ray(start,segment/length);
         var plane=new Plane(heatBarrier.normal,heatBarrier.center);
         if(!plane.Raycast(ray,out float distance)||distance>length||distance>length*firstHit) return false;
-        Vector3 offset=ray.GetPoint(distance)-heatBarrier.center;
+        Vector3 intercept=ray.GetPoint(distance);
+        Vector3 offset=intercept-heatBarrier.center;
         if(Mathf.Abs(Vector3.Dot(offset,heatBarrier.side))>BarrierWidth*.5f||Mathf.Abs(offset.y)>BarrierHeight*.5f) return false;
+        impact=intercept;
         if(--heatBarrier.charges==0) ClearHeatBarrier();
         return true;
     }
