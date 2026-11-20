@@ -10,7 +10,7 @@ public partial class RiftorynTrial
     sealed class SharedAbilityState
     {
         public float secondaryReadyAt, ultimateReadyAt, wardUntil, reserveUntil, surgeUntil, dodgeBoostUntil;
-        public float recallUntil, guardUntil, mikoBoostUntil;
+        public float recallUntil, guardUntil, mikoBoostUntil, mikoSpeedBonus;
         public bool rewardedRoll;
     }
 
@@ -76,7 +76,6 @@ public partial class RiftorynTrial
         else if(result==1){HitTower(tower,tower.hp);message=RiftorynCodexData.Text("Wieża wyłączona","Tower disabled");}
         else if(result==2){tower.misfires=true;message=RiftorynCodexData.Text("Wieża może pudłować","Tower may misfire");}
         else{tower.overload=5f;message=RiftorynCodexData.Text("Pech! Wieża przyspiesza","Bad luck! Tower fires faster");}
-        if(result!=3) runner.kit.mikoBoostUntil=elapsed+2f;
         runner.cooldown=Cooldowns[MikoHero];runner.uses++;
         LightningArc(runner.obj.transform.position+Vector3.up,tower.obj.transform.position+Vector3.up*2f);
         if(runner==player) Notify(message); else ShowCombatText(runner,message,new Color(.7f,.85f,1f));
@@ -94,12 +93,11 @@ public partial class RiftorynTrial
                 candidate.disabled=Mathf.Max(candidate.disabled,2.5f);hit=true;
                 LightningArc(runner.obj.transform.position+Vector3.up,candidate.obj.transform.position+Vector3.up*2f);
             }
-            if(hit)runner.kit.mikoBoostUntil=elapsed+2f;
             return hit;
         }
         tower??=Nearest(runner,5f);
         if(tower==null||Vector3.Distance(runner.obj.transform.position,Slot(tower.slot))>=5f) return false;
-        HitTower(tower,20f);runner.kit.mikoBoostUntil=elapsed+2f;
+        HitTower(tower,20f);
         LightningArc(runner.obj.transform.position+Vector3.up,tower.obj.transform.position+Vector3.up*2f);
         return true;
     }
@@ -397,7 +395,7 @@ public partial class RiftorynTrial
         (MikoHero,0)=>SkillText("Szczęśliwy sabotaż","Lucky Sabotage","Losuje jeden z czterech wyników: zatrzymanie wieży na 5 s, zniszczenie, 50% szansy na pudło do końca próby albo przyspieszenie jej ostrzału na 5 s.","One of four outcomes: disable the tower for 5 s, destroy it, give it a 50% miss chance for the trial, or speed up its fire for 5 s."),
         (MikoHero,1)=>SkillText("Pchnięcie szpadą","Fencer's Thrust","Zadaje 20 obrażeń pobliskiej wieży.","Deals 20 damage to a nearby tower."),
         (MikoHero,2)=>SkillText("Impuls z cewki","Coil Pulse","Wyłącza odkryte, widoczne wieże w zasięgu na 2,5 s.","Disables revealed towers in sight and range for 2.5 s."),
-        (MikoHero,3)=>SkillText("Szczęście sprzyja zuchwałym","Fortune Favors the Bold","Udany sabotaż zwiększa szybkość Miko o 10% na 2 s.","Successful sabotage grants Miko 10% movement speed for 2 s."),
+        (MikoHero,3)=>SkillText("Ładunek burzy","Storm Charge","Po trafieniu Błyskawicami Miko zyskuje losowo od 0 do 50% szybkości ruchu na 4 s. Kolejne trafienie losuje premię ponownie i odświeża czas.","After a Lightning hit, Miko gains a random 0–50% movement speed bonus for 4 s. Each new hit rerolls and refreshes the bonus."),
         _=>("","")
     };
 

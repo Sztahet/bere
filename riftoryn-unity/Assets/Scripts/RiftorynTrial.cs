@@ -465,7 +465,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(runner.rootTime>0) speed*=.8f;
         if(runner.kit.surgeUntil>elapsed) speed*=1.8f;
         if(runner.kit.dodgeBoostUntil>elapsed) speed*=1.2f;
-        if(runner.kit.mikoBoostUntil>elapsed) speed*=1.1f;
+        if(runner.kit.mikoBoostUntil>elapsed) speed*=1f+runner.kit.mikoSpeedBonus;
         return speed;
     }
 
@@ -741,6 +741,12 @@ public partial class RiftorynTrial : MonoBehaviour
         if (victim.hero == 1 && type == 0) direct *= .85f;
         if (victim.hero == LucenHero && type == 2) direct *= .75f;
         Damage(victim,direct,true,true,"WIEŻA: "+TowerNames[type].ToUpperInvariant());
+        if(type==2&&victim.hero==MikoHero&&victim.hp>0)
+        {
+            victim.kit.mikoSpeedBonus=UnityEngine.Random.Range(0f,.5f);
+            victim.kit.mikoBoostUntil=elapsed+4f;
+            ShowCombatText(victim,RiftorynCodexData.Text("SZYBKOŚĆ +","SPEED +")+Mathf.RoundToInt(victim.kit.mikoSpeedBonus*100f)+"%",new Color(1f,.85f,.3f));
+        }
         if(victim.hp<=0||ConsumeSharedWard(victim,type))return;
         if(type==0)victim.burn.Apply(3,3);
         else if(type==1&&victim.slowImmunity<=0)victim.chillTime=2;
@@ -1154,7 +1160,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(selectedHero==5)return "LIORA · Q: pole pod postacią leczy pobliskich sojuszników przez 5 s.";
         if(selectedHero==SailaHero)return "SAILA · Q: zamraża najbliższą wieżę w zasięgu na 3 s. Odnowienie 24 s.";
         if(selectedHero==NeraHero)return RiftorynCodexData.Text("NERA · Q: 35 osłony dla Ciebie i 65 dla pobliskiego sojusznika (8 m). Osłona słabnie o 10% na sekundę. Model zastępczy.","NERA · Q: 35 shield for you and 65 for a nearby ally (8 m). Shield decays by 10% per second. Placeholder model.");
-        if(selectedHero==MikoHero)return RiftorynCodexData.Text("MIKO · Q: sabotaż najbliższej wieży, cztery losowe wyniki. Udany sabotaż przyspiesza Miko na 2 s.","MIKO · Q: sabotage the nearest tower with four possible outcomes. Successful sabotage speeds Miko up for 2 s.");
+        if(selectedHero==MikoHero)return RiftorynCodexData.Text("MIKO · Q: sabotaż wieży. Trafienia Błyskawicami losują premię 0–50% do szybkości na 4 s.","MIKO · Q: sabotage a tower. Lightning hits grant a random 0–50% speed bonus for 4 s.");
         if(selectedHero==PyrraHero)return "PYRRA · model i Iskra w próbie wizualnej; umiejętność w przygotowaniu.";
         if(selectedHero>=6&&selectedHero!=LucenHero)return HeroNames[selectedHero].ToUpperInvariant()+" · umiejętność niedostępna w tym prototypie.";
         if(selectedHero==0)return sharedEscape?RiftorynCodexData.Text("KAEL · Q: osłona dla Ciebie i pobliskiego sojusznika.","KAEL · Q: shields you and a nearby ally."):"KAEL · Q: osłona dla Ciebie i pobliskiego sojusznika. E: testowy atak na pobliską wieżę.";

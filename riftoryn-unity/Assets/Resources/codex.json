@@ -497,10 +497,10 @@
         "family": "Rodzina Miko pozostaje do ustalenia.",
         "storyEn": "Age in 12 AT: 42.\n\nMiko grew up among the relays and workshops of Zerath Spire. He loved taking devices apart, and loved convincing others he could put them back together even more. He always kept a fencing sword near his tools: he valued precision in a duel, though in the workshop he often relied just as much on improvisation.\n\nOne day he worked on a small device for gathering lightning. The first pulse jumped to his hand; another attempt ended with a violent discharge and a fall from his chair. Miko dusted himself off, adjusted his hat and returned to the bench, this time studying the coils and wires more carefully.\n\nAfter many adjustments he tested the device. The first strike against a wooden target looked promising; the next was far stronger than intended. It surprised him too, but instead of hiding the mistake he investigated what had worked and how to repeat it safely.\n\nFurther experiments taught him to combine a fencer's sense of distance with pulses from his invention. Not everything was predictable. Sometimes he stumbled, lost his rhythm or sent sparks in the wrong direction; he masked his embarrassment with a smile and returned to improving the mechanism.\n\nMiko enters the Trials as a specialist, hoping to use his knowledge of machinery to help protect the crews maintaining the relays. Luck may help at an unexpected moment, he knows, but every successful trick also takes practice, patience and a willingness to try again."
       },
-      "passName": "Szczęście sprzyja zuchwałym",
-      "pass": "Po udanym sabotażu Miko porusza się o 10% szybciej przez 2 sekundy. Pechowy wynik zdolności nie aktywuje premii.",
-      "passNameEn": "Fortune Favors the Bold",
-      "passEn": "After a successful sabotage, Miko moves 10% faster for 2 seconds. An unlucky ability outcome does not activate the bonus."
+      "passName": "Ładunek burzy",
+      "pass": "Po trafieniu Błyskawicami Miko zyskuje losowo od 0 do 50% szybkości ruchu na 4 sekundy. Kolejne trafienie losuje premię ponownie i odświeża czas.",
+      "passNameEn": "Storm Charge",
+      "passEn": "After a Lightning hit, Miko gains a random 0–50% movement speed bonus for 4 seconds. Each new hit rerolls and refreshes the bonus."
     },
     {
       "name": "Iskar",
