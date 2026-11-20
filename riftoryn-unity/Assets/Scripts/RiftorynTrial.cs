@@ -33,6 +33,10 @@ public partial class RiftorynTrial : MonoBehaviour
     class Tower { public int slot,type; public float hp=100,wait,disabled; public GameObject obj, marker; public LineRenderer range, warning; public Runner target,divertedTo; public RiftorynPatkaPreview petTarget; public float windup,divertUntil,rangeVisibleUntil; public bool discovered; }
     class Shot { public GameObject obj; public Vector3 direction; public float remaining,damage; public Runner target; public RiftorynPatkaPreview petTarget; public int type; }
     enum Phase { Setup, Playing, Finished }
+    enum TrialMode { Training, SharedEscape, LanTest }
+    TrialMode mode;
+    bool sharedEscape=>mode==TrialMode.SharedEscape;
+    bool CustomTrainingDefense=>mode==TrialMode.Training&&custom;
     public bool menuOpen = true;
     Phase phase; int selectedHero=0, allyChoice=0, selectedType=0, selectingHero=-1, draftPreview=-1; bool initialDraft, briefing; CodexHero[] roster=Array.Empty<CodexHero>(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); RiftorynHeroStats[] heroStats=Array.Empty<RiftorynHeroStats>(); Vector2 abilityTooltipScroll; string lastAbilityTooltip=""; float abilityTooltipUntil; readonly Dictionary<string,Texture2D> draftPortraits=new(); bool custom, genericModelPreview; float elapsed,total, cameraYaw, pitch=18f, messageTimer, fogArrivalTime; string message="", result=""; int floatingSequence; readonly List<FloatingCombatText> combatTexts=new(); Runner player,ally; Camera cam; GameObject world,runnerRoot,slotRoot,fogRoot; GameObject[] slots; readonly List<Tower> towers=new(); readonly List<Shot> shots=new(); readonly List<GameObject> fogTiles=new(); readonly List<float> fogDistances=new(); float[] lengths; Mesh fogMesh; Material fogMaterial; GUIStyle title, small, heading, floatingStyle, hudCenterStyle, hudStatusStyle, draftHeroTitle, draftRoleStyle, draftCompactNameStyle,draftResistanceNameStyle,draftResistanceValueStyle,draftResistanceNoteStyle; readonly Dictionary<string,Texture2D> statIcons=new(), statusIcons=new(); bool mouseCaptured;
     [Serializable] class LanInput { public float x,z; public bool ability,attack; }
@@ -154,7 +158,7 @@ public partial class RiftorynTrial : MonoBehaviour
         var mesh=new Mesh{name="Warstwy mgły"};mesh.SetVertices(vertices);mesh.SetUVs(0,uv);mesh.SetTriangles(triangles,0);mesh.RecalculateBounds();return mesh;
     }
     void OnDestroy(){ClearHeatBarrier();if(lan)lan.Stop();ClearLanShots();if(healingRing&&healingRing.material)Destroy(healingRing.material);if(fogMesh)Destroy(fogMesh);if(fogMaterial)Destroy(fogMaterial);foreach(var material in worldMaterials.Values)if(material)Destroy(material);worldMaterials.Clear();foreach(var material in towerMaterials.Values)if(material)Destroy(material);towerMaterials.Clear();if(wallTexture)Destroy(wallTexture);if(floorTexture)Destroy(floorTexture);if(floorMaterial)Destroy(floorMaterial);}
-    Runner MakeRunner(int h,bool bot){var go=new GameObject(bot?"Sojusznik AI":"Gracz");go.transform.SetParent(runnerRoot.transform);go.transform.position=At(0)+(bot?Vector3.right*.8f:Vector3.zero);var body=GameObject.CreatePrimitive(PrimitiveType.Capsule);body.name="Bohater";body.transform.SetParent(go.transform,false);body.transform.localPosition=Vector3.up;body.transform.localScale=new Vector3(.85f,1,.85f);body.GetComponent<Renderer>().sharedMaterial=Mat(bot?new Color(.16f,.75f,.85f):new Color(.88f,.71f,.36f));body.GetComponent<Collider>().isTrigger=true;if(h==3)AttachCharacterModel(go,body,"Characters/koneva-poc",true);else if(h==SailaHero)AttachCharacterModel(go,body,"Characters/saila-poc",true);else if(h==PyrraHero){AttachCharacterModel(go,body,"Characters/pyrra-poc",true);var follower=go.AddComponent<RiftorynSparkFollower>();follower.Initialize(go.transform);}else if(!bot&&genericModelPreview)AttachCharacterModel(go,body,"Characters/generic-prototype",false);if(h==3){body.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.22f,.12f,.28f));var prefab=Resources.Load<GameObject>("Pets/patka");if(prefab){var pet=Instantiate(prefab,go.transform);pet.name="Patka";pet.transform.localPosition=new Vector3(0,.05f,2f);pet.transform.localRotation=Quaternion.Euler(0,180,0);pet.transform.localScale=Vector3.one*.42f;var ph=pet.AddComponent<RiftorynPetHealth>();ph.petName="Patka";ph.maxHp=ph.currentHp=50;pet.AddComponent<RiftorynPatkaPreview>();}}var r=new Runner{hero=h,obj=go,hp=MaxHp[h]};return r;}
+    Runner MakeRunner(int h,bool bot){var go=new GameObject(bot?"Sojusznik AI":"Gracz");go.transform.SetParent(runnerRoot.transform);go.transform.position=At(0)+(bot?Vector3.right*.8f:Vector3.zero);var body=GameObject.CreatePrimitive(PrimitiveType.Capsule);body.name="Bohater";body.transform.SetParent(go.transform,false);body.transform.localPosition=Vector3.up;body.transform.localScale=new Vector3(.85f,1,.85f);body.GetComponent<Renderer>().sharedMaterial=Mat(bot?new Color(.16f,.75f,.85f):new Color(.88f,.71f,.36f));body.GetComponent<Collider>().isTrigger=true;if(h==3)AttachCharacterModel(go,body,"Characters/koneva-poc",true);else if(h==SailaHero)AttachCharacterModel(go,body,"Characters/saila-poc",true);else if(h==PyrraHero){AttachCharacterModel(go,body,"Characters/pyrra-poc",true);var follower=go.AddComponent<RiftorynSparkFollower>();follower.Initialize(go.transform);}else if(!bot&&mode==TrialMode.Training&&genericModelPreview)AttachCharacterModel(go,body,"Characters/generic-prototype",false);if(h==3){body.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.22f,.12f,.28f));var prefab=Resources.Load<GameObject>("Pets/patka");if(prefab){var pet=Instantiate(prefab,go.transform);pet.name="Patka";pet.transform.localPosition=new Vector3(0,.05f,2f);pet.transform.localRotation=Quaternion.Euler(0,180,0);pet.transform.localScale=Vector3.one*.42f;var ph=pet.AddComponent<RiftorynPetHealth>();ph.petName="Patka";ph.maxHp=ph.currentHp=50;pet.AddComponent<RiftorynPatkaPreview>();}}var r=new Runner{hero=h,obj=go,hp=MaxHp[h]};return r;}
     void AttachCharacterModel(GameObject runner,GameObject capsule,string resource,bool saila)
     {
         var prefab=Resources.Load<GameObject>(resource);
@@ -195,9 +199,9 @@ public partial class RiftorynTrial : MonoBehaviour
         ReplaceRunners();
         for(int i=0;i<visibleFogTiles;i++) fogTiles[i].SetActive(false);
         visibleFogTiles=0;
-        foreach(var slot in slots) slot.SetActive(!sharedEscape&&custom);
+        foreach(var slot in slots) slot.SetActive(CustomTrainingDefense);
         if(sharedEscape) BuildSharedDefense();
-        else if(!custom)
+        else if(!CustomTrainingDefense)
         {
             int[] standardSlots={2,5,9,12,15,19,23};
             for(int i=0;i<standardSlots.Length;i++) AddTower(standardSlots[i],i);
@@ -268,23 +272,32 @@ public partial class RiftorynTrial : MonoBehaviour
     void Capture(bool value){mouseCaptured=value;Cursor.lockState=value?CursorLockMode.Locked:CursorLockMode.None;Cursor.visible=!value;}
     public void OpenTraining()
     {
-        sharedEscape=false;
+        mode=TrialMode.Training;
         selectedHero=trainingHero;
         allyChoice=trainingAlly;
         menuOpen=false;
         Setup();
         StartDraft(0,true);
     }
+
+    public void OpenLanTest()
+    {
+        mode=TrialMode.LanTest;
+        menuOpen=false;
+        Setup();
+        lanPanel=true;
+    }
+
     public void ReturnToMenu()
     {
-        if(!sharedEscape)
+        if(mode==TrialMode.Training)
         {
             trainingHero=selectedHero;
             trainingAlly=allyChoice;
         }
         StopLan();
         menuOpen=true;
-        sharedEscape=false;
+        mode=TrialMode.Training;
         selectedHero=trainingHero;
         allyChoice=trainingAlly;
         Setup();
@@ -307,7 +320,7 @@ public partial class RiftorynTrial : MonoBehaviour
         }
         if(phase==Phase.Setup)
         {
-            if(!sharedEscape&&custom&&!briefing&&selectingHero<0&&RiftorynInput.PointerPressed&&RiftorynInput.PointerPosition.y<Screen.height-155)
+            if(CustomTrainingDefense&&!briefing&&selectingHero<0&&RiftorynInput.PointerPressed&&RiftorynInput.PointerPosition.y<Screen.height-155)
                 EditTowerAtPointer();
             return;
         }
@@ -1036,10 +1049,14 @@ public partial class RiftorynTrial : MonoBehaviour
         if(phase==Phase.Setup&&briefing){DrawBriefing();return;}
         GUI.Box(new Rect(0,0,w,phase==Phase.Setup?155:sharedEscape?94:110),"");
         if(GUI.Button(new Rect(w-90,6,75,28),RiftorynL10n.CurrentCode+" ⇄")) RiftorynL10n.Toggle();
-        RiftorynL10n.Label(new Rect(18,8,490,34),sharedEscape
-            ?RiftorynCodexData.Text("RIFTORYN  /  WSPÓLNA UCIECZKA","RIFTORYN  /  SHARED ESCAPE"):"RIFTORYN  /  PRÓBA BOHATERA",title);
+        string modeTitle=mode switch
+        {
+            TrialMode.SharedEscape=>RiftorynCodexData.Text("RIFTORYN  /  WSPÓLNA UCIECZKA","RIFTORYN  /  SHARED ESCAPE"),
+            TrialMode.LanTest=>RiftorynCodexData.Text("RIFTORYN  /  TEST LAN","RIFTORYN  /  LAN TEST"),
+            _=>RiftorynCodexData.Text("RIFTORYN  /  TRENING","RIFTORYN  /  TRAINING")
+        };
+        RiftorynL10n.Label(new Rect(18,8,490,34),modeTitle,title);
       if(phase==Phase.Setup){
-        if(!sharedEscape&&GUI.Button(new Rect(620,42,110,30),"LAN")){lanPanel=true;GUIUtility.ExitGUI();}
         RiftorynL10n.Label(new Rect(18,44,75,24),"Bohater",small);
         if(RiftorynL10n.Button(new Rect(90,42,200,30),HeroNames[selectedHero]+RiftorynL10n.Translate("  ·  ZMIEŃ"))){StartDraft(0,false);GUIUtility.ExitGUI();}
         RiftorynL10n.Label(new Rect(310,44,85,24),"Sojusznik",small);
@@ -1186,11 +1203,15 @@ public partial class RiftorynTrial : MonoBehaviour
         if(!lan.Active){if(GUI.Button(new Rect(x+20,y+225,250,42),"UTWÓRZ GRĘ"))lan.StartHost(this);if(GUI.Button(new Rect(x+330,y+225,250,42),"DOŁĄCZ"))lan.StartClient(this,lanAddress);}
         else if(GUI.Button(new Rect(x+20,y+225,250,42),"PRZERWIJ ŁĄCZENIE")){lan.Stop();lanNotice="";}
         GUI.Label(new Rect(x+20,y+280,560,55),lan.Status+"\n"+lanNotice+"\nUDP 7777 · sieć lokalna");
-        if(GUI.Button(new Rect(x+380,y+360,200,40),"POWRÓT")){StopLan();GUIUtility.ExitGUI();}
+        if(GUI.Button(new Rect(x+380,y+360,200,40),RiftorynCodexData.Text("← TRYBY GRY","← GAME MODES")))
+        {
+            ReturnToMenu();
+            GUIUtility.ExitGUI();
+        }
     }
     void PrepareLan(bool host,int hostHero,int guestHero)
     {
-        custom=false;selectedHero=host?hostHero:guestHero;allyChoice=(host?guestHero:hostHero)+2;Setup();
+        selectedHero=host?hostHero:guestHero;allyChoice=(host?guestHero:hostHero)+2;Setup();
         lanPlaying=true;lanPanel=false;lanRemoteInput=Vector3.zero;lanRemoteAbility=false;lanRemoteAttack=false;lanSendAt=0;lanInputAt=Time.unscaledTime;Begin();
     }
     void StepLanAlly(float dt)
@@ -1278,7 +1299,7 @@ public partial class RiftorynTrial : MonoBehaviour
         GUI.matrix=Matrix4x4.TRS(new Vector3((Screen.width-1600*scale)*.5f,(Screen.height-900*scale)*.5f,0),Quaternion.identity,new Vector3(scale,scale,1));
         HudFill(new Rect(0,0,1600,900),new Color(.045f,.035f,.07f,1));
         Color panel=new(.095f,.08f,.13f), border=new(.29f,.25f,.34f), gold=new(.87f,.72f,.46f);
-        RiftorynL10n.Label(new Rect(25,15,800,24),sharedEscape?RiftorynCodexData.Text("WSPÓLNA UCIECZKA  /  WYBÓR DRUŻYNY","SHARED ESCAPE  /  SELECT TEAM"):"✦  PRÓBA BOHATERA  /  WYBÓR DRUŻYNY",small);
+        RiftorynL10n.Label(new Rect(25,15,800,24),sharedEscape?RiftorynCodexData.Text("WSPÓLNA UCIECZKA  /  WYBÓR DRUŻYNY","SHARED ESCAPE  /  SELECT TEAM"):RiftorynCodexData.Text("TRENING  /  WYBÓR DRUŻYNY","TRAINING  /  SELECT TEAM"),small);
         RiftorynL10n.Label(new Rect(22,43,900,40),"WYBIERZ BOHATERA",title);
         RiftorynL10n.Label(new Rect(24,86,900,25),"Wybierz portret, sprawdź bohatera i potwierdź wybór.",small);
         if(GUI.Button(new Rect(1330,35,70,38),RiftorynL10n.CurrentCode+" ⇄"))RiftorynL10n.Toggle();

@@ -10,7 +10,6 @@ public partial class RiftorynTrial
     const float SharedDiscoveryRange=20f, TowerSkillRange=17.4f;
     const float StartSafeDistance=10f, BotLeadDistance=5f, BotWaitLimit=2.5f;
     const float BotFogBuffer=12f, BotLookAhead=2.2f, DodgeReactionTime=.28f;
-    bool sharedEscape;
     int defenseSeed, trainingHero, trainingAlly;
     float botWaitTime;
     Runner cameraRunner;
@@ -27,7 +26,7 @@ public partial class RiftorynTrial
 
     public void OpenSharedEscape()
     {
-        sharedEscape=true;
+        mode=TrialMode.SharedEscape;
         selectedHero=0;
         allyChoice=0;
         menuOpen=false;
