@@ -15,6 +15,8 @@ public partial class RiftorynTrial
         public Renderer body;
         public TrailRenderer trail;
         public LineRenderer bolt, glow;
+        public LineRenderer vine;
+        public Transform shadow;
         public float fadeEndsAt;
     }
 
@@ -25,6 +27,93 @@ public partial class RiftorynTrial
     readonly List<int> endedLanShots=new();
     Material shotLineMaterial;
     int nextShotId;
+    const float EarthRadius=3.8f, EarthDelay=.8f;
+    readonly List<EarthStrike> lanEarthStrikes=new();
+
+    EarthStrike CreateEarthStrike(Vector3 position,float remaining,float damage)
+    {
+        if(!shotLineMaterial) shotLineMaterial=new Material(Shader.Find("Sprites/Default"));
+        var obj=new GameObject("Pękająca ziemia");
+        obj.transform.SetParent(world.transform,false);
+        var line=obj.AddComponent<LineRenderer>();
+        line.sharedMaterial=shotLineMaterial;line.useWorldSpace=true;line.loop=true;
+        line.positionCount=40;line.startWidth=line.endWidth=.09f;
+        line.startColor=line.endColor=new Color(.8f,.48f,.23f,.9f);
+        for(int i=0;i<40;i++)
+        {
+            float angle=i*Mathf.PI*2f/40f;
+            float radius=EarthRadius*(i%2==0?1f:.95f);
+            line.SetPosition(i,position+new Vector3(Mathf.Cos(angle)*radius,.06f,Mathf.Sin(angle)*radius));
+        }
+        return new EarthStrike{position=position,remaining=remaining,damage=damage,marker=obj,ring=line};
+    }
+
+    void StartEarthStrike(Vector3 target,float damage)
+    {
+        Vector3 position=new(target.x,0,target.z);
+        var strike=CreateEarthStrike(position,EarthDelay,damage);strike.id=++nextShotId;earthStrikes.Add(strike);
+    }
+
+    void StepEarthStrikes(float dt)
+    {
+        for(int i=earthStrikes.Count-1;i>=0;i--)
+        {
+            var strike=earthStrikes[i];strike.remaining-=dt;
+            strike.ring.startWidth=strike.ring.endWidth=.09f+.06f*(1f-Mathf.Clamp01(strike.remaining/EarthDelay));
+            if(strike.remaining>0) continue;
+            Vector3 impact=strike.position+Vector3.up;
+            foreach(var runner in new[]{player,ally})
+            {
+                if(!IsRunning(runner)) continue;
+                Vector3 center=runner.obj.transform.position+Vector3.up;
+                if(Vector3.Distance(center,impact)<=EarthRadius&&HasLineOfSight(impact,center)) ApplyTowerHit(runner,4,strike.damage,impact);
+                var pet=runner.obj.GetComponentInChildren<RiftorynPatkaPreview>();
+                if(pet&&pet.IsAlive&&Vector3.Distance(pet.AimPosition,impact)<=EarthRadius&&HasLineOfSight(impact,pet.AimPosition)) pet.ReceiveHit(strike.damage);
+            }
+            EarthImpact(strike.position);
+            Destroy(strike.marker);earthStrikes.RemoveAt(i);
+        }
+    }
+
+    void EarthImpact(Vector3 position)
+    {
+        for(int i=0;i<8;i++)
+        {
+            float angle=i*Mathf.PI*.25f;
+            var stone=GameObject.CreatePrimitive(PrimitiveType.Cube);
+            stone.name="Odłamek ziemi";
+            stone.transform.position=position+new Vector3(Mathf.Cos(angle)*2f,.4f,Mathf.Sin(angle)*2f);
+            stone.transform.localScale=new Vector3(.4f,.8f,.4f);
+            stone.transform.rotation=Quaternion.Euler(20,angle*Mathf.Rad2Deg,25);
+            var collider=stone.GetComponent<Collider>();collider.enabled=false;Destroy(collider);
+            if(!shotMaterials[4]) shotMaterials[4]=Mat(TowerColors[4]);
+            stone.GetComponent<Renderer>().sharedMaterial=shotMaterials[4];
+            Destroy(stone,.35f);
+        }
+    }
+
+    void ClearEarthStrikes()
+    {
+        foreach(var strike in earthStrikes) if(strike.marker) Destroy(strike.marker);
+        foreach(var strike in lanEarthStrikes) if(strike.marker) Destroy(strike.marker);
+        earthStrikes.Clear();lanEarthStrikes.Clear();
+    }
+
+    void UpdateLanEarth(LanEarth[] states)
+    {
+        for(int i=lanEarthStrikes.Count-1;i>=0;i--)
+        {
+            var old=lanEarthStrikes[i];bool found=false;
+            if(states!=null) foreach(var state in states) if(state.id==old.id){found=true;break;}
+            if(!found){EarthImpact(old.position);Destroy(old.marker);lanEarthStrikes.RemoveAt(i);}
+        }
+        if(states==null) return;
+        foreach(var state in states)
+        {
+            bool found=false;foreach(var strike in lanEarthStrikes) if(strike.id==state.id){found=true;break;}
+            if(!found){var strike=CreateEarthStrike(new Vector3(state.x,0,state.z),state.remaining,0);strike.id=state.id;lanEarthStrikes.Add(strike);}
+        }
+    }
 
     Vector3 ShotOrigin(Tower tower,Vector3 target)
     {
@@ -62,6 +151,8 @@ public partial class RiftorynTrial
         MoveShotVisual(shot,position,direction,travel);
         shot.root.SetActive(true);
         if(shot.body) shot.body.enabled=type!=1;
+        if(shot.vine) shot.vine.enabled=true;
+        if(shot.shadow) shot.shadow.gameObject.SetActive(true);
         if(shot.trail)
         {
             shot.trail.Clear();
@@ -123,10 +214,10 @@ public partial class RiftorynTrial
         var shot=new ShotVisual{root=root,type=type};
         if(!shotLineMaterial) shotLineMaterial=new Material(Shader.Find("Sprites/Default"));
         Color color=TowerColors[type];
-        if(type==LightningShot)
+        if(type==LightningShot||type==5)
         {
-            shot.glow=CreateBoltLine(root.transform,"Poświata",.25f);
-            shot.bolt=CreateBoltLine(root.transform,"Rdzeń",.085f);
+            shot.glow=CreateBoltLine(root.transform,"Poświata",type==5?.18f:.25f);
+            shot.bolt=CreateBoltLine(root.transform,"Rdzeń",type==5?.06f:.085f);
             return shot;
         }
 
@@ -149,6 +240,20 @@ public partial class RiftorynTrial
         }
         shot.body.sharedMaterial=shotMaterials[type];
         shot.body.shadowCastingMode=ShadowCastingMode.Off;
+        if(type==3)
+        {
+            var vineObject=new GameObject("Pnącze");vineObject.transform.SetParent(root.transform,false);
+            shot.vine=vineObject.AddComponent<LineRenderer>();shot.vine.sharedMaterial=shotLineMaterial;
+            shot.vine.useWorldSpace=false;shot.vine.positionCount=12;shot.vine.startWidth=.12f;shot.vine.endWidth=.035f;
+            shot.vine.startColor=shot.vine.endColor=new Color(.25f,.65f,.19f);
+        }
+        if(type==6)
+        {
+            var shadow=GameObject.CreatePrimitive(PrimitiveType.Sphere);shadow.name="Wirujący cień";
+            shadow.transform.SetParent(root.transform,false);shadow.transform.localScale=Vector3.one*.2f;
+            var shadowCollider=shadow.GetComponent<Collider>();shadowCollider.enabled=false;Destroy(shadowCollider);
+            shadow.GetComponent<Renderer>().sharedMaterial=shotMaterials[type];shot.shadow=shadow.transform;
+        }
         body.transform.localScale=type switch
         {
             FireShot=>Vector3.one*.62f,
@@ -200,6 +305,15 @@ public partial class RiftorynTrial
         direction=direction.sqrMagnitude>.0001f?direction:Vector3.forward;
         Vector3 up=Mathf.Abs(direction.y)>.98f?Vector3.forward:Vector3.up;
         shot.root.transform.SetPositionAndRotation(position,Quaternion.LookRotation(direction,up));
+        if(shot.vine)
+        {
+            for(int i=0;i<shot.vine.positionCount;i++)
+            {
+                float t=i/(float)(shot.vine.positionCount-1);
+                shot.vine.SetPosition(i,new Vector3(Mathf.Sin(t*15f+Time.time*8f)*.18f,Mathf.Cos(t*15f+Time.time*8f)*.12f,-t*Mathf.Min(travel,2.5f)));
+            }
+        }
+        if(shot.shadow) shot.shadow.localPosition=new Vector3(Mathf.Cos(Time.time*9f)*.36f,Mathf.Sin(Time.time*9f)*.36f,0);
         if(!shot.bolt) return;
 
         float length=Mathf.Min(travel,4.2f);
@@ -207,7 +321,7 @@ public partial class RiftorynTrial
         for(int i=0;i<shot.bolt.positionCount;i++)
         {
             float t=i/(float)(shot.bolt.positionCount-1);
-            float amplitude=Mathf.Min(length*.12f,.28f)*Mathf.Sin(t*Mathf.PI);
+            float amplitude=shot.type==5?0:Mathf.Min(length*.12f,.28f)*Mathf.Sin(t*Mathf.PI);
             float side=i%2==0?1f:-1f;
             Vector3 point=new(side*amplitude,Mathf.Sin(i*2.8f+travel*2f)*amplitude,t*length-length);
             shot.bolt.SetPosition(i,point);
@@ -217,6 +331,14 @@ public partial class RiftorynTrial
 
     static void TintLightning(ShotVisual shot,float opacity)
     {
+        if(shot.type==5)
+        {
+            shot.bolt.startColor=new Color(1f,.86f,.55f,opacity*.45f);
+            shot.bolt.endColor=new Color(1f,1f,.9f,opacity);
+            shot.glow.startColor=new Color(1f,.85f,.4f,opacity*.1f);
+            shot.glow.endColor=new Color(1f,.9f,.6f,opacity*.6f);
+            return;
+        }
         shot.bolt.startColor=new Color(1f,.8f,.35f,opacity*.35f);
         shot.bolt.endColor=new Color(1f,.98f,.83f,opacity);
         shot.glow.startColor=new Color(1f,.66f,.12f,opacity*.1f);
@@ -226,6 +348,8 @@ public partial class RiftorynTrial
     void FadeShotVisual(ShotVisual shot)
     {
         if(shot.body) shot.body.enabled=false;
+        if(shot.vine) shot.vine.enabled=false;
+        if(shot.shadow) shot.shadow.gameObject.SetActive(false);
         if(shot.trail) shot.trail.emitting=false;
         shot.fadeEndsAt=Time.time+(shot.trail?shot.trail.time:LightningFadeTime);
         fadingShots.Add(shot);

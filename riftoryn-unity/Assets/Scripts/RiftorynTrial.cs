@@ -24,7 +24,7 @@ public partial class RiftorynTrial : MonoBehaviour
         public GameObject obj;
         public Vector3 velocity, rollDirection;
         public float hp, shield, shieldMax, shieldTick, cooldown, attackCooldown, boost, exposure, fogTick, along, damage;
-        public float chillTime, hitFlash, slowImmunity, rollTime, rollCooldown, progressSpeed, bestProgress, finishTime;
+        public float chillTime, rootTime, shadowTime, hitFlash, slowImmunity, rollTime, rollCooldown, progressSpeed, bestProgress, finishTime;
         public bool done;
         public readonly SharedAbilityState kit=new();
         public readonly RiftorynPeriodicEffect burn=new(), poison=new();
@@ -32,6 +32,8 @@ public partial class RiftorynTrial : MonoBehaviour
     class FloatingCombatText { public Transform anchor; public Vector3 position; public string text; public Color color; public float started, offset; }
     class Tower { public int slot,type; public float hp=100,wait,disabled; public GameObject obj, marker; public LineRenderer range, warning; public Runner target,divertedTo; public RiftorynPatkaPreview petTarget; public float windup,divertUntil,rangeVisibleUntil; public bool discovered,iceActive; public LineRenderer[] snowflakes; }
     class Shot { public ShotVisual visual; public Vector3 origin,direction; public float remaining,damage; public Runner target; public int id,type; }
+    class EarthStrike { public Vector3 position; public float remaining,damage; public int id; public GameObject marker; public LineRenderer ring; }
+    readonly List<EarthStrike> earthStrikes=new();
     enum Phase { Setup, Playing, Finished }
     enum TrialMode { Training, SharedEscape, LanTest }
     TrialMode mode;
@@ -40,10 +42,11 @@ public partial class RiftorynTrial : MonoBehaviour
     public bool menuOpen = true;
     Phase phase; int selectedHero=0, allyChoice=0, selectedType=0, selectingHero=-1, draftPreview=-1; bool initialDraft, briefing; CodexHero[] roster=Array.Empty<CodexHero>(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); RiftorynHeroStats[] heroStats=Array.Empty<RiftorynHeroStats>(); Vector2 abilityTooltipScroll; string lastAbilityTooltip=""; float abilityTooltipUntil; readonly Dictionary<string,Texture2D> draftPortraits=new(); bool custom, genericModelPreview; float elapsed,total, cameraYaw, pitch=18f, messageTimer, fogArrivalTime; string message="", result=""; int floatingSequence; readonly List<FloatingCombatText> combatTexts=new(); Runner player,ally; Camera cam; GameObject world,runnerRoot,slotRoot,fogRoot; GameObject[] slots; readonly List<Tower> towers=new(); readonly List<Shot> shots=new(); readonly List<GameObject> fogTiles=new(); readonly List<float> fogDistances=new(); float[] lengths; Mesh fogMesh; Material fogMaterial; GUIStyle title, small, heading, floatingStyle, hudCenterStyle, hudStatusStyle, draftHeroTitle, draftRoleStyle, draftCompactNameStyle,draftResistanceNameStyle,draftResistanceValueStyle,draftResistanceNoteStyle; readonly Dictionary<string,Texture2D> statIcons=new(), statusIcons=new(); bool mouseCaptured;
     [Serializable] class LanInput { public float x,z; public bool ability,attack; }
-    [Serializable] class LanRunner { public float x,z,yaw,hp,shield,shieldMax,cooldown,exposure,damage,chillTime; public bool done; public int uses; }
+    [Serializable] class LanRunner { public float x,z,yaw,hp,shield,shieldMax,cooldown,exposure,damage,chillTime,rootTime,shadowTime; public bool done; public int uses; }
     [Serializable] class LanIce { public int index; public float x,y,z; }
+    [Serializable] class LanEarth { public int id; public float x,z,remaining; }
     [Serializable] class LanShot { public float x,y,z,dx,dy,dz,travel; public int id,type; }
-    [Serializable] class LanState { public float time,healTime,healX,healZ; public bool finished; public int hostHero,guestHero; public LanRunner host,guest; public float[] towerHp,towerDisabled; public LanShot[] shots; public LanIce[] ice; }
+    [Serializable] class LanState { public float time,healTime,healX,healZ; public bool finished; public int hostHero,guestHero; public LanRunner host,guest; public float[] towerHp,towerDisabled; public LanShot[] shots; public LanIce[] ice; public LanEarth[] earth; }
     RiftorynLan lan; bool lanPanel,lanPlaying; string lanAddress="127.0.0.1"; float lanSendAt,lanInputAt; Vector3 lanRemoteInput; bool lanRemoteAbility,lanRemoteAttack; int lanHero; string lanNotice=""; float healingTime,healingTick; Vector3 healingPosition; LineRenderer healingRing;
     int visibleFogTiles;
     Vector3 P(Vector2 p) => new((p.x-400)*Scale,0,(330-p.y)*Scale);
@@ -187,6 +190,7 @@ public partial class RiftorynTrial : MonoBehaviour
         botWaitTime=0; cameraRunner=null;
         Capture(false);
         ClearShotVisuals();
+        ClearEarthStrikes();
         foreach(var tower in towers)
         {
             if(!tower.obj) continue;
@@ -373,6 +377,7 @@ public partial class RiftorynTrial : MonoBehaviour
         }
         StepHealing(dt);
         StepTowers(dt);
+        StepEarthStrikes(dt);
         StepShots(dt);
         EndRunnerFrame(player,dt);
         if(ally!=null) EndRunnerFrame(ally,dt);
@@ -450,6 +455,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(runner.exposure>0) speed*=runner.hero==SailaHero?.915f:.9f;
         if(runner.boost>0) speed*=sharedEscape&&runner.hero==ZetHero?1.15f:1.2f;
         if(runner.chillTime>0) speed*=runner.hero==4?.88f:runner.hero==SailaHero?.8725f:.85f;
+        if(runner.rootTime>0) speed*=.8f;
         if(runner.kit.surgeUntil>elapsed) speed*=1.8f;
         if(runner.kit.dodgeBoostUntil>elapsed) speed*=1.2f;
         return speed;
@@ -499,6 +505,7 @@ public partial class RiftorynTrial : MonoBehaviour
         r.burn.Advance(dt,amount=>{if(r.hp>0) Damage(r,amount*periodicDamage,true,false,"PODPALENIE");});
         r.poison.Advance(dt,amount=>{if(r.hp>0) Damage(r,amount*periodicDamage,true,false,"TRUCIZNA");});
         r.chillTime=Mathf.Max(0,r.chillTime-dt);
+        r.rootTime=Mathf.Max(0,r.rootTime-dt);r.shadowTime=Mathf.Max(0,r.shadowTime-dt);
         r.slowImmunity=Mathf.Max(0,r.slowImmunity-dt);
         if(r.hp<=0) return;
         r.cooldown=Mathf.Max(0,r.cooldown-dt);
@@ -610,7 +617,7 @@ public partial class RiftorynTrial : MonoBehaviour
     }
     void Attack(Runner r){if(r.attackCooldown>0)return;Tower t=Nearest(r,7.8f);if(t==null){if(r==player)Notify("Podejdź bliżej wieży, aby ją zaatakować.");return;}r.attackCooldown=1;HitTower(t,25);}
     void HitTower(Tower t,float damage){t.hp-=damage;if(t.hp<=0){t.hp=0;t.marker.SetActive(false);foreach(var ren in t.obj.GetComponentsInChildren<Renderer>())foreach(var material in ren.materials){material.color=Color.gray;material.DisableKeyword("_EMISSION");}}}
-    void StepBot(float dt){if(ally.hp<=0||ally.done)return;Tower t=Nearest(ally,ally.hero==0?7.8f:17.4f);if(t!=null&&ally.cooldown<=0)Skill(ally);if(t!=null&&ally.hero==0&&ally.attackCooldown<=0)Attack(ally);float speed=Speed[ally.hero]*(ally.exposure>0?(ally.hero==SailaHero?.915f:.9f):1f)*(ally.boost>0?1.2f:1)*(ally.chillTime>0?(ally.hero==SailaHero?.8725f:.85f):1f);ally.along=Mathf.Min(total,ally.along+speed*dt);Vector3 old=ally.obj.transform.position, next=At(ally.along);ally.obj.transform.position=next;if((next-old).sqrMagnitude>.00001f)ally.obj.transform.rotation=Quaternion.LookRotation(next-old);if(ally.along>=total){ally.done=true;ally.obj.SetActive(false);}}
+    void StepBot(float dt){if(ally.hp<=0||ally.done)return;Tower t=Nearest(ally,ally.hero==0?7.8f:17.4f);if(t!=null&&ally.cooldown<=0)Skill(ally);if(t!=null&&ally.hero==0&&ally.attackCooldown<=0)Attack(ally);float speed=Speed[ally.hero]*(ally.exposure>0?(ally.hero==SailaHero?.915f:.9f):1f)*(ally.boost>0?1.2f:1)*(ally.chillTime>0?(ally.hero==SailaHero?.8725f:.85f):1f);if(ally.rootTime>0)speed*=.8f;ally.along=Mathf.Min(total,ally.along+speed*dt);Vector3 old=ally.obj.transform.position, next=At(ally.along);ally.obj.transform.position=next;if((next-old).sqrMagnitude>.00001f)ally.obj.transform.rotation=Quaternion.LookRotation(next-old);if(ally.along>=total){ally.done=true;ally.obj.SetActive(false);}}
     // Solve |target + velocity * time - origin| = projectileSpeed * time.
     // If interception is impossible, aim at the current position instead.
     static Vector3 PredictAim(Vector3 origin, Vector3 target, Vector3 velocity, float projectileSpeed)
@@ -657,7 +664,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 if(t.type==1&&t.iceActive) SetIceStream(t,true,aim);
                 if(t.windup>0)continue;
                 if(t.type==1){t.iceActive=true;t.windup=.25f;FireTowerShot(t,start,aim,null);SetIceStream(t,true,aim);continue;}
-                FireTowerShot(t,start,aim,null);
+                if(t.type==4) StartEarthStrike(aim,TowerDamage[t.type]); else FireTowerShot(t,start,aim,null);
                 t.petTarget=null;t.warning.enabled=false;t.wait=Mathf.Max(0,TowerRate[t.type]-TowerWindup);continue;
             }
             if(t.target!=null)
@@ -671,7 +678,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 t.windup-=dt;
                 if(t.windup>0)continue;
                 if(t.type==1){t.iceActive=true;t.windup=.25f;FireTowerShot(t,start,aim,t.target);SetIceStream(t,true,center);continue;}
-                FireTowerShot(t,start,aim,t.target);
+                if(t.type==4) StartEarthStrike(aim,TowerDamage[t.type]); else FireTowerShot(t,start,aim,t.target);
                 if(t.divertedTo==t.target) t.divertedTo=null;
                 t.target=null;t.warning.enabled=false;t.wait=Mathf.Max(0,TowerRate[t.type]-TowerWindup);
                 continue;
@@ -695,6 +702,8 @@ public partial class RiftorynTrial : MonoBehaviour
         Color color=r==player?new Color(.88f,.71f,.36f):new Color(.16f,.75f,.85f);
         if(r.chillTime>0)color=Color.Lerp(color,new Color(.25f,.75f,1f),.65f);
         if(r.poison.Remaining>0)color=Color.Lerp(color,new Color(.25f,1f,.2f),.6f);
+        if(r.rootTime>0)color=Color.Lerp(color,new Color(.15f,.6f,.2f),.35f);
+        if(r.shadowTime>0)color=Color.Lerp(color,new Color(.3f,.12f,.45f),.5f);
         if(r.burn.Remaining>0)color=Color.Lerp(color,new Color(1f,.28f,.08f),.6f);
         if(r.hitFlash>0){color=Color.Lerp(color,Color.white,.8f);r.hitFlash=Mathf.Max(0,r.hitFlash-dt);}
         renderer.sharedMaterial.color=color;
@@ -718,14 +727,15 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         if(victim.hp<=0||victim.done)return;
         if(IsDodging(victim)){MarkSharedDodge(victim);return;}
-        float direct = baseDamage;
+        float direct = baseDamage*(victim.shadowTime>0?1.15f:1f);
         if (victim.hero == 1 && type == 0) direct *= .85f;
         if (victim.hero == LucenHero && type == 2) direct *= .75f;
         Damage(victim,direct,true,true,"WIEŻA: "+TowerNames[type].ToUpperInvariant());
         if(victim.hp<=0||ConsumeSharedWard(victim,type))return;
         if(type==0)victim.burn.Apply(3,3);
         else if(type==1&&victim.slowImmunity<=0)victim.chillTime=2;
-        else if(type==3)victim.poison.Apply(4,3);
+        else if(type==3){victim.poison.Apply(4,3);if(victim.slowImmunity<=0)victim.rootTime=1.5f;}
+        else if(type==6)victim.shadowTime=3f;
     }
     void ResolveShot(Shot shot,Runner victim,Vector3 impact)
     {
@@ -872,6 +882,7 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         if(phase==Phase.Finished) return;
         phase=Phase.Finished;
+        ClearEarthStrikes();
         foreach(var tower in towers) if(tower.type==1){tower.iceActive=false;SetIceStream(tower,false,Vector3.zero);}
         foreach(var shot in shots) FadeShotVisual(shot.visual);
         shots.Clear();
@@ -952,7 +963,7 @@ public partial class RiftorynTrial : MonoBehaviour
         return y;
     }
     bool RunnerInFog(Runner runner)=>IsRunning(runner)&&runner.obj&&Project(runner.obj.transform.position,out _)<FogFront();
-    int ActiveStatusCount(Runner runner,bool inFog)=> (runner.burn.Remaining>0?1:0)+(runner.chillTime>0?1:0)+(runner.poison.Remaining>0?1:0)+(inFog?1:0);
+    int ActiveStatusCount(Runner runner,bool inFog)=> (runner.burn.Remaining>0?1:0)+(runner.chillTime>0?1:0)+(runner.poison.Remaining>0?1:0)+(runner.rootTime>0?1:0)+(runner.shadowTime>0?1:0)+(inFog?1:0);
     float StatusHeight(int count)=>((count+1)/2)*25f;
     Texture2D StatusIcon(string name){if(!statusIcons.TryGetValue(name,out var icon)){icon=Resources.Load<Texture2D>("StatusIcons/"+name);statusIcons[name]=icon;}return icon;}
     void DrawStatusBadges(Runner runner,float x,float y,float width,bool inFog)
@@ -979,6 +990,8 @@ public partial class RiftorynTrial : MonoBehaviour
         bool en=RiftorynL10n.CurrentCode=="EN";
         if(runner.burn.Remaining>0)Draw(en?"BURN":"OPARZENIE","burning",runner.burn.Remaining,new Color(1f,.55f,.25f));
         if(runner.chillTime>0)Draw(en?"CHILL":"CHŁÓD","chill",runner.chillTime,new Color(.5f,.85f,1f));
+        if(runner.rootTime>0)Draw(en?"ROOTS":"PNĄCZA","poison",runner.rootTime,new Color(.3f,.8f,.3f));
+        if(runner.shadowTime>0)Draw(en?"VULNERABLE":"PODATNOŚĆ","exposure",runner.shadowTime,new Color(.7f,.4f,.85f));
         if(runner.poison.Remaining>0)Draw(en?"POISON":"TRUCIZNA","poison",runner.poison.Remaining,new Color(.55f,1f,.4f));
         if(inFog)Draw(en?"FOG":"MGŁA",null,runner.exposure,new Color(.85f,.55f,1f));
     }
@@ -1231,12 +1244,13 @@ public partial class RiftorynTrial : MonoBehaviour
         if(lanRemoteAbility){Skill(ally);lanRemoteAbility=false;}if(lanRemoteAttack){if(ally.hero==0)Attack(ally);lanRemoteAttack=false;}
         Vector3 dir=Time.unscaledTime-lanInputAt<.5f?lanRemoteInput:Vector3.zero;
         float mult=ally.exposure>0?(ally.hero==SailaHero?.915f:.9f):1f;if(ally.boost>0)mult*=1.2f;if(ally.chillTime>0)mult*=ally.hero==4?.88f:ally.hero==SailaHero?.8725f:.85f;
+        if(ally.rootTime>0)mult*=.8f;
         ally.obj.transform.position=MoveAgainstWalls(ally.obj.transform.position,dir*Speed[ally.hero]*mult*dt);
         if(dir.sqrMagnitude>.01f)ally.obj.transform.rotation=Quaternion.LookRotation(dir);
         if(Vector3.Distance(ally.obj.transform.position,At(total))<1.5f)ally.done=true;
     }
-    LanRunner CaptureLanRunner(Runner r)=>new LanRunner{x=r.obj.transform.position.x,z=r.obj.transform.position.z,yaw=r.obj.transform.eulerAngles.y,hp=r.hp,shield=r.shield,shieldMax=r.shieldMax,cooldown=r.cooldown,exposure=r.exposure,damage=r.damage,chillTime=r.chillTime,done=r.done,uses=r.uses};
-    void ApplyLanRunner(Runner r,LanRunner s){r.obj.transform.position=new Vector3(s.x,0,s.z);r.obj.transform.rotation=Quaternion.Euler(0,s.yaw,0);r.hp=s.hp;r.shield=s.shield;r.shieldMax=s.shieldMax;r.cooldown=s.cooldown;r.exposure=s.exposure;r.damage=s.damage;r.chillTime=s.chillTime;r.done=s.done;r.uses=s.uses;r.obj.SetActive(s.hp>0&&!s.done);}
+    LanRunner CaptureLanRunner(Runner r)=>new LanRunner{x=r.obj.transform.position.x,z=r.obj.transform.position.z,yaw=r.obj.transform.eulerAngles.y,hp=r.hp,shield=r.shield,shieldMax=r.shieldMax,cooldown=r.cooldown,exposure=r.exposure,damage=r.damage,chillTime=r.chillTime,rootTime=r.rootTime,shadowTime=r.shadowTime,done=r.done,uses=r.uses};
+    void ApplyLanRunner(Runner r,LanRunner s){r.obj.transform.position=new Vector3(s.x,0,s.z);r.obj.transform.rotation=Quaternion.Euler(0,s.yaw,0);r.hp=s.hp;r.shield=s.shield;r.shieldMax=s.shieldMax;r.cooldown=s.cooldown;r.exposure=s.exposure;r.damage=s.damage;r.chillTime=s.chillTime;r.rootTime=s.rootTime;r.shadowTime=s.shadowTime;r.done=s.done;r.uses=s.uses;r.obj.SetActive(s.hp>0&&!s.done);}
     void SendLanState(bool force=false)
     {
         if(!lanPlaying||!lan.IsHost||!lan.Connected||(!force&&Time.unscaledTime<lanSendAt))return;lanSendAt=Time.unscaledTime+.05f;
@@ -1244,6 +1258,8 @@ public partial class RiftorynTrial : MonoBehaviour
         var ice=new List<LanIce>();
         for(int i=0;i<towers.Count;i++){var t=towers[i];if(t.type==1&&t.iceActive&&(t.target!=null||t.petTarget!=null)){Vector3 p=t.petTarget!=null?t.petTarget.AimPosition:t.target.obj.transform.position+Vector3.up;ice.Add(new LanIce{index=i,x=p.x,y=p.y,z=p.z});}}
         state.ice=ice.ToArray();
+        state.earth=new LanEarth[earthStrikes.Count];
+        for(int i=0;i<earthStrikes.Count;i++){var strike=earthStrikes[i];state.earth[i]=new LanEarth{id=strike.id,x=strike.position.x,z=strike.position.z,remaining=strike.remaining};}
         for(int i=0;i<towers.Count;i++){state.towerHp[i]=towers[i].hp;state.towerDisabled[i]=towers[i].disabled;}
         for(int i=0;i<shots.Count;i++)
         {
@@ -1265,6 +1281,7 @@ public partial class RiftorynTrial : MonoBehaviour
             for(int i=0;i<towers.Count&&i<state.towerHp.Length;i++){if(towers[i].hp>0&&state.towerHp[i]<=0)HitTower(towers[i],towers[i].hp);towers[i].hp=state.towerHp[i];towers[i].disabled=state.towerDisabled[i];}
             foreach(var tower in towers) if(tower.type==1) SetIceStream(tower,false,Vector3.zero);
             if(state.ice!=null&&!state.finished) foreach(var stream in state.ice) if(stream.index>=0&&stream.index<towers.Count&&towers[stream.index].type==1) SetIceStream(towers[stream.index],true,new Vector3(stream.x,stream.y,stream.z));
+            UpdateLanEarth(state.earth);
             UpdateLanShots(state.shots);if(state.finished&&phase!=Phase.Finished)End();
         }
     }
