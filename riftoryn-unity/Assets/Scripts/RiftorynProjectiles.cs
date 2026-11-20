@@ -29,6 +29,92 @@ public partial class RiftorynTrial
     int nextShotId;
     const float EarthRadius=3.8f, EarthDelay=.8f;
     readonly List<EarthStrike> lanEarthStrikes=new();
+    const float VineRadius=2.2f, VineLifetime=4f;
+
+    VinePatch CreateVinePatch(Vector3 position,int id)
+    {
+        if(!shotLineMaterial) shotLineMaterial=new Material(Shader.Find("Sprites/Default"));
+        var root=new GameObject("Pnącza na ziemi");root.transform.SetParent(world.transform,false);
+        for(int strand=0;strand<12;strand++)
+        {
+            var obj=new GameObject("Pnącze");obj.transform.SetParent(root.transform,false);
+            var line=obj.AddComponent<LineRenderer>();line.sharedMaterial=shotLineMaterial;
+            line.positionCount=7;line.startWidth=.11f;line.endWidth=.035f;
+            line.startColor=new Color(.16f,.48f,.12f);line.endColor=new Color(.45f,.8f,.23f);
+            float angle=strand*Mathf.PI*2f/12f;
+            for(int j=0;j<7;j++)
+            {
+                float t=j/6f;float a=angle+Mathf.Sin(t*8f+strand)*.16f;
+                float radius=VineRadius*t;
+                line.SetPosition(j,position+new Vector3(Mathf.Cos(a)*radius,.07f+Mathf.Sin(t*Mathf.PI)*.05f,Mathf.Sin(a)*radius));
+            }
+        }
+        return new VinePatch{id=id,position=position,remaining=VineLifetime,visual=root};
+    }
+
+    void StartVinePatch(Vector3 target,Vector3 velocity)
+    {
+        Vector3 forward=Vector3.ClampMagnitude(Vector3.ProjectOnPlane(velocity,Vector3.up)*.65f,3.2f);
+        Vector3 origin=new(target.x,1f,target.z);
+        if(forward.sqrMagnitude>.001f&&Physics.Raycast(origin,forward.normalized,out RaycastHit hit,forward.magnitude,~0,QueryTriggerInteraction.Ignore))
+            forward=forward.normalized*Mathf.Max(0,hit.distance-.3f);
+        Vector3 position=origin+forward;position.y=0;
+        vinePatches.Add(CreateVinePatch(position,++nextShotId));
+    }
+
+    void UpdateVineOccupants()
+    {
+        foreach(var runner in new[]{player,ally})
+        {
+            if(runner==null) continue;
+            bool slowed=false;
+            foreach(var patch in vinePatches)
+            {
+                bool inside=IsRunning(runner)&&Vector3.Distance(Vector3.ProjectOnPlane(runner.obj.transform.position-patch.position,Vector3.up),Vector3.zero)<=VineRadius
+                    &&HasLineOfSight(patch.position+Vector3.up,runner.obj.transform.position+Vector3.up);
+                if(inside)
+                {
+                    slowed=true;
+                    if(patch.occupants.Add(runner)&&!ConsumeSharedWard(runner,3)) runner.poison.Apply(4,3);
+                }
+                else patch.occupants.Remove(runner);
+            }
+            runner.rootTime=slowed&&runner.slowImmunity<=0?.1f:0;
+        }
+    }
+
+    void StepVinePatches(float dt)
+    {
+        for(int i=vinePatches.Count-1;i>=0;i--)
+        {
+            var patch=vinePatches[i];patch.remaining-=dt;
+            if(patch.remaining>0) continue;
+            Destroy(patch.visual);vinePatches.RemoveAt(i);
+        }
+    }
+
+    void ClearVinePatches()
+    {
+        foreach(var patch in vinePatches) if(patch.visual) Destroy(patch.visual);
+        foreach(var patch in lanVinePatches) if(patch.visual) Destroy(patch.visual);
+        vinePatches.Clear();lanVinePatches.Clear();
+    }
+
+    void UpdateLanVines(LanVine[] states)
+    {
+        for(int i=lanVinePatches.Count-1;i>=0;i--)
+        {
+            var patch=lanVinePatches[i];bool found=false;
+            if(states!=null) foreach(var state in states) if(state.id==patch.id){found=true;break;}
+            if(!found){Destroy(patch.visual);lanVinePatches.RemoveAt(i);}
+        }
+        if(states==null) return;
+        foreach(var state in states)
+        {
+            bool found=false;foreach(var patch in lanVinePatches) if(patch.id==state.id){found=true;break;}
+            if(!found) lanVinePatches.Add(CreateVinePatch(new Vector3(state.x,0,state.z),state.id));
+        }
+    }
 
     EarthStrike CreateEarthStrike(Vector3 position,float remaining,float damage)
     {

@@ -34,6 +34,8 @@ public partial class RiftorynTrial : MonoBehaviour
     class Shot { public ShotVisual visual; public Vector3 origin,direction; public float remaining,damage; public Runner target; public int id,type; }
     class EarthStrike { public Vector3 position; public float remaining,damage; public int id; public GameObject marker; public LineRenderer ring; }
     readonly List<EarthStrike> earthStrikes=new();
+    class VinePatch { public int id; public Vector3 position; public float remaining; public GameObject visual; public readonly HashSet<Runner> occupants=new(); }
+    readonly List<VinePatch> vinePatches=new(), lanVinePatches=new();
     enum Phase { Setup, Playing, Finished }
     enum TrialMode { Training, SharedEscape, LanTest }
     TrialMode mode;
@@ -42,11 +44,12 @@ public partial class RiftorynTrial : MonoBehaviour
     public bool menuOpen = true;
     Phase phase; int selectedHero=0, allyChoice=0, selectedType=0, selectingHero=-1, draftPreview=-1; bool initialDraft, briefing; CodexHero[] roster=Array.Empty<CodexHero>(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); RiftorynHeroStats[] heroStats=Array.Empty<RiftorynHeroStats>(); Vector2 abilityTooltipScroll; string lastAbilityTooltip=""; float abilityTooltipUntil; readonly Dictionary<string,Texture2D> draftPortraits=new(); bool custom, genericModelPreview; float elapsed,total, cameraYaw, pitch=18f, messageTimer, fogArrivalTime; string message="", result=""; int floatingSequence; readonly List<FloatingCombatText> combatTexts=new(); Runner player,ally; Camera cam; GameObject world,runnerRoot,slotRoot,fogRoot; GameObject[] slots; readonly List<Tower> towers=new(); readonly List<Shot> shots=new(); readonly List<GameObject> fogTiles=new(); readonly List<float> fogDistances=new(); float[] lengths; Mesh fogMesh; Material fogMaterial; GUIStyle title, small, heading, floatingStyle, hudCenterStyle, hudStatusStyle, draftHeroTitle, draftRoleStyle, draftCompactNameStyle,draftResistanceNameStyle,draftResistanceValueStyle,draftResistanceNoteStyle; readonly Dictionary<string,Texture2D> statIcons=new(), statusIcons=new(); bool mouseCaptured;
     [Serializable] class LanInput { public float x,z; public bool ability,attack; }
-    [Serializable] class LanRunner { public float x,z,yaw,hp,shield,shieldMax,cooldown,exposure,damage,chillTime,rootTime,shadowTime; public bool done; public int uses; }
+    [Serializable] class LanRunner { public float x,z,yaw,hp,shield,shieldMax,cooldown,exposure,damage,chillTime,rootTime,shadowTime,poisonTime; public bool done; public int uses; }
     [Serializable] class LanIce { public int index; public float x,y,z; }
     [Serializable] class LanEarth { public int id; public float x,z,remaining; }
+    [Serializable] class LanVine { public int id; public float x,z; }
     [Serializable] class LanShot { public float x,y,z,dx,dy,dz,travel; public int id,type; }
-    [Serializable] class LanState { public float time,healTime,healX,healZ; public bool finished; public int hostHero,guestHero; public LanRunner host,guest; public float[] towerHp,towerDisabled; public LanShot[] shots; public LanIce[] ice; public LanEarth[] earth; }
+    [Serializable] class LanState { public float time,healTime,healX,healZ; public bool finished; public int hostHero,guestHero; public LanRunner host,guest; public float[] towerHp,towerDisabled; public LanShot[] shots; public LanIce[] ice; public LanEarth[] earth; public LanVine[] vines; }
     RiftorynLan lan; bool lanPanel,lanPlaying; string lanAddress="127.0.0.1"; float lanSendAt,lanInputAt; Vector3 lanRemoteInput; bool lanRemoteAbility,lanRemoteAttack; int lanHero; string lanNotice=""; float healingTime,healingTick; Vector3 healingPosition; LineRenderer healingRing;
     int visibleFogTiles;
     Vector3 P(Vector2 p) => new((p.x-400)*Scale,0,(330-p.y)*Scale);
@@ -191,6 +194,7 @@ public partial class RiftorynTrial : MonoBehaviour
         Capture(false);
         ClearShotVisuals();
         ClearEarthStrikes();
+        ClearVinePatches();
         foreach(var tower in towers)
         {
             if(!tower.obj) continue;
@@ -346,6 +350,7 @@ public partial class RiftorynTrial : MonoBehaviour
 
     void StepTrial(float dt,Vector3 direction,bool ability,bool roll,bool attack,bool ultimate)
     {
+        UpdateVineOccupants();
         elapsed+=dt;
         if(IsRunning(player))
         {
@@ -378,6 +383,8 @@ public partial class RiftorynTrial : MonoBehaviour
         StepHealing(dt);
         StepTowers(dt);
         StepEarthStrikes(dt);
+        StepVinePatches(dt);
+        UpdateVineOccupants();
         StepShots(dt);
         EndRunnerFrame(player,dt);
         if(ally!=null) EndRunnerFrame(ally,dt);
@@ -664,7 +671,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 if(t.type==1&&t.iceActive) SetIceStream(t,true,aim);
                 if(t.windup>0)continue;
                 if(t.type==1){t.iceActive=true;t.windup=.25f;FireTowerShot(t,start,aim,null);SetIceStream(t,true,aim);continue;}
-                if(t.type==4) StartEarthStrike(aim,TowerDamage[t.type]); else FireTowerShot(t,start,aim,null);
+                if(t.type==4) StartEarthStrike(aim,TowerDamage[t.type]); else if(t.type==3) StartVinePatch(aim,Vector3.zero); else FireTowerShot(t,start,aim,null);
                 t.petTarget=null;t.warning.enabled=false;t.wait=Mathf.Max(0,TowerRate[t.type]-TowerWindup);continue;
             }
             if(t.target!=null)
@@ -678,7 +685,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 t.windup-=dt;
                 if(t.windup>0)continue;
                 if(t.type==1){t.iceActive=true;t.windup=.25f;FireTowerShot(t,start,aim,t.target);SetIceStream(t,true,center);continue;}
-                if(t.type==4) StartEarthStrike(aim,TowerDamage[t.type]); else FireTowerShot(t,start,aim,t.target);
+                if(t.type==4) StartEarthStrike(aim,TowerDamage[t.type]); else if(t.type==3) StartVinePatch(center,t.target.velocity); else FireTowerShot(t,start,aim,t.target);
                 if(t.divertedTo==t.target) t.divertedTo=null;
                 t.target=null;t.warning.enabled=false;t.wait=Mathf.Max(0,TowerRate[t.type]-TowerWindup);
                 continue;
@@ -734,7 +741,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(victim.hp<=0||ConsumeSharedWard(victim,type))return;
         if(type==0)victim.burn.Apply(3,3);
         else if(type==1&&victim.slowImmunity<=0)victim.chillTime=2;
-        else if(type==3){victim.poison.Apply(4,3);if(victim.slowImmunity<=0)victim.rootTime=1.5f;}
+        else if(type==3)victim.poison.Apply(4,3);
         else if(type==6)victim.shadowTime=3f;
     }
     void ResolveShot(Shot shot,Runner victim,Vector3 impact)
@@ -883,6 +890,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(phase==Phase.Finished) return;
         phase=Phase.Finished;
         ClearEarthStrikes();
+        ClearVinePatches();
         foreach(var tower in towers) if(tower.type==1){tower.iceActive=false;SetIceStream(tower,false,Vector3.zero);}
         foreach(var shot in shots) FadeShotVisual(shot.visual);
         shots.Clear();
@@ -1249,8 +1257,8 @@ public partial class RiftorynTrial : MonoBehaviour
         if(dir.sqrMagnitude>.01f)ally.obj.transform.rotation=Quaternion.LookRotation(dir);
         if(Vector3.Distance(ally.obj.transform.position,At(total))<1.5f)ally.done=true;
     }
-    LanRunner CaptureLanRunner(Runner r)=>new LanRunner{x=r.obj.transform.position.x,z=r.obj.transform.position.z,yaw=r.obj.transform.eulerAngles.y,hp=r.hp,shield=r.shield,shieldMax=r.shieldMax,cooldown=r.cooldown,exposure=r.exposure,damage=r.damage,chillTime=r.chillTime,rootTime=r.rootTime,shadowTime=r.shadowTime,done=r.done,uses=r.uses};
-    void ApplyLanRunner(Runner r,LanRunner s){r.obj.transform.position=new Vector3(s.x,0,s.z);r.obj.transform.rotation=Quaternion.Euler(0,s.yaw,0);r.hp=s.hp;r.shield=s.shield;r.shieldMax=s.shieldMax;r.cooldown=s.cooldown;r.exposure=s.exposure;r.damage=s.damage;r.chillTime=s.chillTime;r.rootTime=s.rootTime;r.shadowTime=s.shadowTime;r.done=s.done;r.uses=s.uses;r.obj.SetActive(s.hp>0&&!s.done);}
+    LanRunner CaptureLanRunner(Runner r)=>new LanRunner{x=r.obj.transform.position.x,z=r.obj.transform.position.z,yaw=r.obj.transform.eulerAngles.y,hp=r.hp,shield=r.shield,shieldMax=r.shieldMax,cooldown=r.cooldown,exposure=r.exposure,damage=r.damage,chillTime=r.chillTime,rootTime=r.rootTime,shadowTime=r.shadowTime,poisonTime=r.poison.Remaining,done=r.done,uses=r.uses};
+    void ApplyLanRunner(Runner r,LanRunner s){r.obj.transform.position=new Vector3(s.x,0,s.z);r.obj.transform.rotation=Quaternion.Euler(0,s.yaw,0);r.hp=s.hp;r.shield=s.shield;r.shieldMax=s.shieldMax;r.cooldown=s.cooldown;r.exposure=s.exposure;r.damage=s.damage;r.chillTime=s.chillTime;r.rootTime=s.rootTime;r.shadowTime=s.shadowTime;r.poison.SyncRemaining(s.poisonTime);r.done=s.done;r.uses=s.uses;r.obj.SetActive(s.hp>0&&!s.done);}
     void SendLanState(bool force=false)
     {
         if(!lanPlaying||!lan.IsHost||!lan.Connected||(!force&&Time.unscaledTime<lanSendAt))return;lanSendAt=Time.unscaledTime+.05f;
@@ -1260,6 +1268,8 @@ public partial class RiftorynTrial : MonoBehaviour
         state.ice=ice.ToArray();
         state.earth=new LanEarth[earthStrikes.Count];
         for(int i=0;i<earthStrikes.Count;i++){var strike=earthStrikes[i];state.earth[i]=new LanEarth{id=strike.id,x=strike.position.x,z=strike.position.z,remaining=strike.remaining};}
+        state.vines=new LanVine[vinePatches.Count];
+        for(int i=0;i<vinePatches.Count;i++){var patch=vinePatches[i];state.vines[i]=new LanVine{id=patch.id,x=patch.position.x,z=patch.position.z};}
         for(int i=0;i<towers.Count;i++){state.towerHp[i]=towers[i].hp;state.towerDisabled[i]=towers[i].disabled;}
         for(int i=0;i<shots.Count;i++)
         {
@@ -1282,6 +1292,7 @@ public partial class RiftorynTrial : MonoBehaviour
             foreach(var tower in towers) if(tower.type==1) SetIceStream(tower,false,Vector3.zero);
             if(state.ice!=null&&!state.finished) foreach(var stream in state.ice) if(stream.index>=0&&stream.index<towers.Count&&towers[stream.index].type==1) SetIceStream(towers[stream.index],true,new Vector3(stream.x,stream.y,stream.z));
             UpdateLanEarth(state.earth);
+            UpdateLanVines(state.vines);
             UpdateLanShots(state.shots);if(state.finished&&phase!=Phase.Finished)End();
         }
     }

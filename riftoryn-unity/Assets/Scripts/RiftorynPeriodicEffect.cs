@@ -7,6 +7,12 @@ public sealed class RiftorynPeriodicEffect
     public float DamagePerTick { get; private set; }
     float untilTick;
 
+    public void SyncRemaining(float remaining)
+    {
+        Remaining = Math.Max(0, remaining);
+        if (Remaining <= 0) DamagePerTick = 0;
+    }
+
     public void Apply(float damage, float duration)
     {
         if (damage <= 0 || duration <= 0 || (Remaining > 0 && damage < DamagePerTick)) return;
