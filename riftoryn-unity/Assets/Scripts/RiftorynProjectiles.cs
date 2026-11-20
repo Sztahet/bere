@@ -46,7 +46,7 @@ public partial class RiftorynTrial
             origin=origin,
             direction=direction,
             remaining=type==FireShot?reach:Mathf.Max(TowerRange[type],offset.magnitude+1f),
-            damage=TowerDamage[type],
+            damage=type==1?TowerDamage[type]*.25f/TowerRate[type]:TowerDamage[type],
             target=target,
             id=++nextShotId,
             type=type
@@ -61,14 +61,58 @@ public partial class RiftorynTrial
         var shot=pool.Get();
         MoveShotVisual(shot,position,direction,travel);
         shot.root.SetActive(true);
-        if(shot.body) shot.body.enabled=true;
+        if(shot.body) shot.body.enabled=type!=1;
         if(shot.trail)
         {
             shot.trail.Clear();
-            shot.trail.emitting=true;
+            shot.trail.emitting=type!=1;
         }
         if(shot.bolt) TintLightning(shot,1f);
         return shot;
+    }
+
+    void SetIceStream(Tower tower,bool visible,Vector3 target)
+    {
+        if(!visible)
+        {
+            if(tower.snowflakes!=null) foreach(var line in tower.snowflakes) line.enabled=false;
+            return;
+        }
+        if(tower.snowflakes==null)
+        {
+            if(!shotLineMaterial) shotLineMaterial=new Material(Shader.Find("Sprites/Default"));
+            tower.snowflakes=new LineRenderer[36];
+            for(int i=0;i<tower.snowflakes.Length;i++)
+            {
+                var obj=new GameObject("Płatek śniegu");
+                obj.transform.SetParent(tower.obj.transform,false);
+                var line=tower.snowflakes[i]=obj.AddComponent<LineRenderer>();
+                line.sharedMaterial=shotLineMaterial;
+                line.positionCount=2;
+                line.startWidth=line.endWidth=.035f;
+                line.startColor=line.endColor=new Color(.65f,.9f,1f,.9f);
+                line.shadowCastingMode=ShadowCastingMode.Off;
+            }
+        }
+        Vector3 start=tower.obj.transform.position+Vector3.up*3f;
+        Vector3 direction=target-start;
+        if(direction.sqrMagnitude<.001f) return;
+        if(Physics.Raycast(start,direction.normalized,out RaycastHit hit,direction.magnitude,~0,QueryTriggerInteraction.Ignore)) target=hit.point;
+        Vector3 side=Vector3.Cross(direction.normalized,Vector3.up).normalized;
+        if(side.sqrMagnitude<.01f) side=Vector3.right;
+        Vector3 up=Vector3.Cross(side,direction.normalized).normalized;
+        for(int i=0;i<12;i++)
+        {
+            float progress=Mathf.Repeat(Time.time*1.25f+i/12f,1f);
+            float wobble=Mathf.Sin(Time.time*5f+i*2.4f)*.2f*progress;
+            Vector3 center=Vector3.Lerp(start,target,progress)+side*wobble+up*Mathf.Cos(Time.time*4f+i)*.15f*progress;
+            for(int arm=0;arm<3;arm++)
+            {
+                float angle=arm*Mathf.PI/3f+Time.time+i;
+                Vector3 extent=(side*Mathf.Cos(angle)+up*Mathf.Sin(angle))*.13f;
+                var line=tower.snowflakes[i*3+arm];line.enabled=true;line.SetPosition(0,center-extent);line.SetPosition(1,center+extent);
+            }
+        }
     }
 
     ShotVisual CreateShotVisual(int type)

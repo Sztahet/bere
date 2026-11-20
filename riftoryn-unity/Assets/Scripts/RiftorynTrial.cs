@@ -30,7 +30,7 @@ public partial class RiftorynTrial : MonoBehaviour
         public readonly RiftorynPeriodicEffect burn=new(), poison=new();
     }
     class FloatingCombatText { public Transform anchor; public Vector3 position; public string text; public Color color; public float started, offset; }
-    class Tower { public int slot,type; public float hp=100,wait,disabled; public GameObject obj, marker; public LineRenderer range, warning; public Runner target,divertedTo; public RiftorynPatkaPreview petTarget; public float windup,divertUntil,rangeVisibleUntil; public bool discovered; }
+    class Tower { public int slot,type; public float hp=100,wait,disabled; public GameObject obj, marker; public LineRenderer range, warning; public Runner target,divertedTo; public RiftorynPatkaPreview petTarget; public float windup,divertUntil,rangeVisibleUntil; public bool discovered,iceActive; public LineRenderer[] snowflakes; }
     class Shot { public ShotVisual visual; public Vector3 origin,direction; public float remaining,damage; public Runner target; public int id,type; }
     enum Phase { Setup, Playing, Finished }
     enum TrialMode { Training, SharedEscape, LanTest }
@@ -40,9 +40,10 @@ public partial class RiftorynTrial : MonoBehaviour
     public bool menuOpen = true;
     Phase phase; int selectedHero=0, allyChoice=0, selectedType=0, selectingHero=-1, draftPreview=-1; bool initialDraft, briefing; CodexHero[] roster=Array.Empty<CodexHero>(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); RiftorynHeroStats[] heroStats=Array.Empty<RiftorynHeroStats>(); Vector2 abilityTooltipScroll; string lastAbilityTooltip=""; float abilityTooltipUntil; readonly Dictionary<string,Texture2D> draftPortraits=new(); bool custom, genericModelPreview; float elapsed,total, cameraYaw, pitch=18f, messageTimer, fogArrivalTime; string message="", result=""; int floatingSequence; readonly List<FloatingCombatText> combatTexts=new(); Runner player,ally; Camera cam; GameObject world,runnerRoot,slotRoot,fogRoot; GameObject[] slots; readonly List<Tower> towers=new(); readonly List<Shot> shots=new(); readonly List<GameObject> fogTiles=new(); readonly List<float> fogDistances=new(); float[] lengths; Mesh fogMesh; Material fogMaterial; GUIStyle title, small, heading, floatingStyle, hudCenterStyle, hudStatusStyle, draftHeroTitle, draftRoleStyle, draftCompactNameStyle,draftResistanceNameStyle,draftResistanceValueStyle,draftResistanceNoteStyle; readonly Dictionary<string,Texture2D> statIcons=new(), statusIcons=new(); bool mouseCaptured;
     [Serializable] class LanInput { public float x,z; public bool ability,attack; }
-    [Serializable] class LanRunner { public float x,z,yaw,hp,shield,shieldMax,cooldown,exposure,damage; public bool done; public int uses; }
+    [Serializable] class LanRunner { public float x,z,yaw,hp,shield,shieldMax,cooldown,exposure,damage,chillTime; public bool done; public int uses; }
+    [Serializable] class LanIce { public int index; public float x,y,z; }
     [Serializable] class LanShot { public float x,y,z,dx,dy,dz,travel; public int id,type; }
-    [Serializable] class LanState { public float time,healTime,healX,healZ; public bool finished; public int hostHero,guestHero; public LanRunner host,guest; public float[] towerHp,towerDisabled; public LanShot[] shots; }
+    [Serializable] class LanState { public float time,healTime,healX,healZ; public bool finished; public int hostHero,guestHero; public LanRunner host,guest; public float[] towerHp,towerDisabled; public LanShot[] shots; public LanIce[] ice; }
     RiftorynLan lan; bool lanPanel,lanPlaying; string lanAddress="127.0.0.1"; float lanSendAt,lanInputAt; Vector3 lanRemoteInput; bool lanRemoteAbility,lanRemoteAttack; int lanHero; string lanNotice=""; float healingTime,healingTick; Vector3 healingPosition; LineRenderer healingRing;
     int visibleFogTiles;
     Vector3 P(Vector2 p) => new((p.x-400)*Scale,0,(330-p.y)*Scale);
@@ -635,35 +636,41 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         foreach(var t in towers)
         {
+            if(t.type==1) SetIceStream(t,false,Vector3.zero);
+            if(t.target==null&&t.petTarget==null) t.iceActive=false;
             if(sharedEscape)
             {
                 if(!t.discovered) continue;
                 t.range.enabled=t.hp>0&&t.rangeVisibleUntil>elapsed;
             }
-            if(t.hp<=0){t.warning.enabled=false;continue;}
+            if(t.hp<=0){t.iceActive=false;t.warning.enabled=false;continue;}
             t.disabled=Mathf.Max(0,t.disabled-dt);
-            if(t.disabled>0){t.warning.enabled=false;t.target=null;t.petTarget=null;t.windup=0;continue;}
+            if(t.disabled>0){t.iceActive=false;t.warning.enabled=false;t.target=null;t.petTarget=null;t.windup=0;continue;}
             if(sharedEscape) RetargetSharedTower(t);
             if(t.petTarget!=null)
             {
                 var pet=t.petTarget;
                 if(!pet.IsAlive || Vector3.Distance(pet.AimPosition,Slot(t.slot))>=TowerRange[t.type] || !TowerHasClearShot(t,pet.AimPosition))
-                {t.petTarget=null;t.windup=0;t.warning.enabled=false;continue;}
+                {t.iceActive=false;t.petTarget=null;t.windup=0;t.warning.enabled=false;continue;}
                 Vector3 aim=pet.AimPosition, start=ShotOrigin(t,aim);
-                t.warning.enabled=true;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);t.windup-=dt;
+                t.warning.enabled=!t.iceActive;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);t.windup-=dt;
+                if(t.type==1&&t.iceActive) SetIceStream(t,true,aim);
                 if(t.windup>0)continue;
+                if(t.type==1){t.iceActive=true;t.windup=.25f;FireTowerShot(t,start,aim,null);SetIceStream(t,true,aim);continue;}
                 FireTowerShot(t,start,aim,null);
                 t.petTarget=null;t.warning.enabled=false;t.wait=Mathf.Max(0,TowerRate[t.type]-TowerWindup);continue;
             }
             if(t.target!=null)
             {
                 if(t.target.hp<=0||t.target.done||!t.target.obj||Vector3.Distance(t.target.obj.transform.position,Slot(t.slot))>=TowerRange[t.type]||!TowerHasClearShot(t,t.target.obj.transform.position+Vector3.up))
-                {t.target=null;t.windup=0;t.warning.enabled=false;continue;}
+                {t.iceActive=false;t.target=null;t.windup=0;t.warning.enabled=false;continue;}
                 Vector3 center=t.target.obj.transform.position+Vector3.up, start=ShotOrigin(t,center);
                 Vector3 aim=PredictAim(start,center,t.target.velocity,ProjectileSpeed);
-                t.warning.enabled=true;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);
+                t.warning.enabled=!t.iceActive;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);
+                if(t.type==1&&t.iceActive) SetIceStream(t,true,center);
                 t.windup-=dt;
                 if(t.windup>0)continue;
+                if(t.type==1){t.iceActive=true;t.windup=.25f;FireTowerShot(t,start,aim,t.target);SetIceStream(t,true,center);continue;}
                 FireTowerShot(t,start,aim,t.target);
                 if(t.divertedTo==t.target) t.divertedTo=null;
                 t.target=null;t.warning.enabled=false;t.wait=Mathf.Max(0,TowerRate[t.type]-TowerWindup);
@@ -865,6 +872,7 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         if(phase==Phase.Finished) return;
         phase=Phase.Finished;
+        foreach(var tower in towers) if(tower.type==1){tower.iceActive=false;SetIceStream(tower,false,Vector3.zero);}
         foreach(var shot in shots) FadeShotVisual(shot.visual);
         shots.Clear();
         Capture(false);
@@ -1227,12 +1235,15 @@ public partial class RiftorynTrial : MonoBehaviour
         if(dir.sqrMagnitude>.01f)ally.obj.transform.rotation=Quaternion.LookRotation(dir);
         if(Vector3.Distance(ally.obj.transform.position,At(total))<1.5f)ally.done=true;
     }
-    LanRunner CaptureLanRunner(Runner r)=>new LanRunner{x=r.obj.transform.position.x,z=r.obj.transform.position.z,yaw=r.obj.transform.eulerAngles.y,hp=r.hp,shield=r.shield,shieldMax=r.shieldMax,cooldown=r.cooldown,exposure=r.exposure,damage=r.damage,done=r.done,uses=r.uses};
-    void ApplyLanRunner(Runner r,LanRunner s){r.obj.transform.position=new Vector3(s.x,0,s.z);r.obj.transform.rotation=Quaternion.Euler(0,s.yaw,0);r.hp=s.hp;r.shield=s.shield;r.shieldMax=s.shieldMax;r.cooldown=s.cooldown;r.exposure=s.exposure;r.damage=s.damage;r.done=s.done;r.uses=s.uses;r.obj.SetActive(s.hp>0&&!s.done);}
+    LanRunner CaptureLanRunner(Runner r)=>new LanRunner{x=r.obj.transform.position.x,z=r.obj.transform.position.z,yaw=r.obj.transform.eulerAngles.y,hp=r.hp,shield=r.shield,shieldMax=r.shieldMax,cooldown=r.cooldown,exposure=r.exposure,damage=r.damage,chillTime=r.chillTime,done=r.done,uses=r.uses};
+    void ApplyLanRunner(Runner r,LanRunner s){r.obj.transform.position=new Vector3(s.x,0,s.z);r.obj.transform.rotation=Quaternion.Euler(0,s.yaw,0);r.hp=s.hp;r.shield=s.shield;r.shieldMax=s.shieldMax;r.cooldown=s.cooldown;r.exposure=s.exposure;r.damage=s.damage;r.chillTime=s.chillTime;r.done=s.done;r.uses=s.uses;r.obj.SetActive(s.hp>0&&!s.done);}
     void SendLanState(bool force=false)
     {
         if(!lanPlaying||!lan.IsHost||!lan.Connected||(!force&&Time.unscaledTime<lanSendAt))return;lanSendAt=Time.unscaledTime+.05f;
         var state=new LanState{time=elapsed,healTime=healingTime,healX=healingPosition.x,healZ=healingPosition.z,finished=phase==Phase.Finished,hostHero=player.hero,guestHero=ally.hero,host=CaptureLanRunner(player),guest=CaptureLanRunner(ally),towerHp=new float[towers.Count],towerDisabled=new float[towers.Count],shots=new LanShot[shots.Count]};
+        var ice=new List<LanIce>();
+        for(int i=0;i<towers.Count;i++){var t=towers[i];if(t.type==1&&t.iceActive&&(t.target!=null||t.petTarget!=null)){Vector3 p=t.petTarget!=null?t.petTarget.AimPosition:t.target.obj.transform.position+Vector3.up;ice.Add(new LanIce{index=i,x=p.x,y=p.y,z=p.z});}}
+        state.ice=ice.ToArray();
         for(int i=0;i<towers.Count;i++){state.towerHp[i]=towers[i].hp;state.towerDisabled[i]=towers[i].disabled;}
         for(int i=0;i<shots.Count;i++)
         {
@@ -1252,6 +1263,8 @@ public partial class RiftorynTrial : MonoBehaviour
             var state=JsonUtility.FromJson<LanState>(message.Substring(1));if(state==null||state.host==null||state.guest==null)return;
             if(!lanPlaying){if(state.hostHero<0||state.hostHero>=HeroNames.Length||state.guestHero<0||state.guestHero>=HeroNames.Length)return;PrepareLan(false,state.hostHero,state.guestHero);}elapsed=state.time;healingTime=state.healTime;healingPosition=new Vector3(state.healX,0,state.healZ);UpdateHealingRing();ApplyLanRunner(player,state.guest);ApplyLanRunner(ally,state.host);
             for(int i=0;i<towers.Count&&i<state.towerHp.Length;i++){if(towers[i].hp>0&&state.towerHp[i]<=0)HitTower(towers[i],towers[i].hp);towers[i].hp=state.towerHp[i];towers[i].disabled=state.towerDisabled[i];}
+            foreach(var tower in towers) if(tower.type==1) SetIceStream(tower,false,Vector3.zero);
+            if(state.ice!=null&&!state.finished) foreach(var stream in state.ice) if(stream.index>=0&&stream.index<towers.Count&&towers[stream.index].type==1) SetIceStream(towers[stream.index],true,new Vector3(stream.x,stream.y,stream.z));
             UpdateLanShots(state.shots);if(state.finished&&phase!=Phase.Finished)End();
         }
     }
