@@ -10,7 +10,7 @@ public partial class RiftorynTrial
     sealed class SharedAbilityState
     {
         public float secondaryReadyAt, ultimateReadyAt, wardUntil, reserveUntil, surgeUntil, dodgeBoostUntil;
-        public float recallUntil, guardUntil;
+        public float recallUntil, guardUntil, mikoBoostUntil;
         public bool rewardedRoll;
     }
 
@@ -37,6 +37,7 @@ public partial class RiftorynTrial
         NeraHero=>(14f,32f),
         ZetHero=>(16f,26f),
         KonevaHero=>(18f,30f),
+        MikoHero=>(12f,32f),
         _=>(0f,0f)
     };
 
@@ -53,6 +54,7 @@ public partial class RiftorynTrial
             NeraHero=>ProtectSharedPartner(runner,partner,ultimate),
             ZetHero=>ultimate?StartSharedSurge(runner):ScoutSharedTower(runner,partner),
             KonevaHero=>CommandPatka(runner,partner,ultimate),
+            MikoHero=>MikoExtra(runner,ultimate,tower),
             _=>false
         };
         if(!cast) return false;
@@ -63,6 +65,42 @@ public partial class RiftorynTrial
         var info=SharedSkillInfo(runner.hero,ultimate?2:1);
         if(runner==player) Notify(info.name);
         else ShowCombatText(runner,info.name,new Color(.50f,.88f,1f));
+        return true;
+    }
+
+    void SabotageMiko(Runner runner,Tower tower)
+    {
+        int result=Random.Range(0,4);
+        string message;
+        if(result==0){tower.disabled=Mathf.Max(tower.disabled,5f);message=RiftorynCodexData.Text("Wieża zatrzymana na 5 s","Tower disabled for 5 s");}
+        else if(result==1){HitTower(tower,tower.hp);message=RiftorynCodexData.Text("Wieża wyłączona","Tower disabled");}
+        else if(result==2){tower.misfires=true;message=RiftorynCodexData.Text("Wieża może pudłować","Tower may misfire");}
+        else{tower.overload=5f;message=RiftorynCodexData.Text("Pech! Wieża przyspiesza","Bad luck! Tower fires faster");}
+        if(result!=3) runner.kit.mikoBoostUntil=elapsed+2f;
+        runner.cooldown=Cooldowns[MikoHero];runner.uses++;
+        LightningArc(runner.obj.transform.position+Vector3.up,tower.obj.transform.position+Vector3.up*2f);
+        if(runner==player) Notify(message); else ShowCombatText(runner,message,new Color(.7f,.85f,1f));
+    }
+
+    bool MikoExtra(Runner runner,bool ultimate,Tower tower)
+    {
+        if(ultimate)
+        {
+            bool hit=false;
+            foreach(var candidate in towers)
+            {
+                if(candidate.hp<=0||sharedEscape&&!candidate.discovered) continue;
+                if(Vector3.Distance(runner.obj.transform.position,Slot(candidate.slot))>9f||!TowerHasClearShot(candidate,runner.obj.transform.position+Vector3.up)) continue;
+                candidate.disabled=Mathf.Max(candidate.disabled,2.5f);hit=true;
+                LightningArc(runner.obj.transform.position+Vector3.up,candidate.obj.transform.position+Vector3.up*2f);
+            }
+            if(hit)runner.kit.mikoBoostUntil=elapsed+2f;
+            return hit;
+        }
+        tower??=Nearest(runner,5f);
+        if(tower==null||Vector3.Distance(runner.obj.transform.position,Slot(tower.slot))>=5f) return false;
+        HitTower(tower,20f);runner.kit.mikoBoostUntil=elapsed+2f;
+        LightningArc(runner.obj.transform.position+Vector3.up,tower.obj.transform.position+Vector3.up*2f);
         return true;
     }
 
@@ -328,6 +366,9 @@ public partial class RiftorynTrial
                     &&TryUseSharedAbility(ally,true)) return true;
                 return threat==null&&partnerThreat==null&&!shotIncoming&&pet.IsHurt&&!pet.IsFlying&&ally.kit.guardUntil<=elapsed
                     &&TryUseSharedAbility(ally,false);
+            case MikoHero:
+                if((threat!=null||partnerThreat!=null)&&TryUseSharedAbility(ally,true)) return true;
+                return threat!=null&&TryUseSharedAbility(ally,false,threat);
             default:return false;
         }
     }
@@ -353,6 +394,10 @@ public partial class RiftorynTrial
         (KonevaHero,1)=>SkillText("Powrót Patki","Recall Patsy","Odwołuje Patkę. Blisko Konevy, poza ostrzałem i mgłą, Patka odzyskuje HP przez maks. 5 s.","Recalls Patsy. Out of fire and fog, she heals near Koneva for up to 5 s."),
         (KonevaHero,2)=>SkillText("Osłona z powietrza","Aerial Cover","Patka leci do pobliskiego partnera i przez 5 s może przejąć jeden jego pocisk.","Patsy flies to a nearby ally and can intercept one of their incoming shots within 5 s."),
         (KonevaHero,3)=>SkillText("Zwinny unik","Nimble Dodge","Po uniknięciu trafienia Koneva przyspiesza na 2 s.","After dodging a hit, Koneva gains speed for 2 s."),
+        (MikoHero,0)=>SkillText("Szczęśliwy sabotaż","Lucky Sabotage","Losuje jeden z czterech wyników: zatrzymanie wieży na 5 s, zniszczenie, 50% szansy na pudło do końca próby albo przyspieszenie jej ostrzału na 5 s.","One of four outcomes: disable the tower for 5 s, destroy it, give it a 50% miss chance for the trial, or speed up its fire for 5 s."),
+        (MikoHero,1)=>SkillText("Pchnięcie szpadą","Fencer's Thrust","Zadaje 20 obrażeń pobliskiej wieży.","Deals 20 damage to a nearby tower."),
+        (MikoHero,2)=>SkillText("Impuls z cewki","Coil Pulse","Wyłącza odkryte, widoczne wieże w zasięgu na 2,5 s.","Disables revealed towers in sight and range for 2.5 s."),
+        (MikoHero,3)=>SkillText("Szczęście sprzyja zuchwałym","Fortune Favors the Bold","Udany sabotaż zwiększa szybkość Miko o 10% na 2 s.","Successful sabotage grants Miko 10% movement speed for 2 s."),
         _=>("","")
     };
 
@@ -364,6 +409,7 @@ public partial class RiftorynTrial
         NeraHero=>RiftorynCodexData.Text("Chroni pobliskiego partnera przed obrażeniami i statusami.","Protects a nearby partner from damage and status effects."),
         ZetHero=>RiftorynCodexData.Text("Odkrywa wieże i otwiera krótkie okno na przebieg.","Scouts towers and opens short windows to run past them."),
         KonevaHero=>RiftorynCodexData.Text("Kieruje Patką, by osłonić duet lub odciągnąć ostrzał.","Directs Patsy to cover the pair or draw enemy fire."),
+        MikoHero=>RiftorynCodexData.Text("Sabotuje wieże szpadą i wynalazkami.","Sabotages towers with his blade and inventions."),
         _=>""
     };
 

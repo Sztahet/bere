@@ -30,6 +30,7 @@ public partial class RiftorynTrial
         NeraHero=>new Color(.59f,.91f,.94f),
         ZetHero=>new Color(.58f,.72f,1f),
         KonevaHero=>new Color(.88f,.62f,.96f),
+        MikoHero=>new Color(.85f,.78f,.35f),
         _=>new Color(.91f,.74f,.47f)
     };
 
@@ -73,7 +74,7 @@ public partial class RiftorynTrial
         HudFill(bounds,ready?Color.Lerp(SkillTrayColor,accent,.73f):new Color(.24f,.21f,.30f));
         Rect inset=new(bounds.x+2,bounds.y+2,bounds.width-4,bounds.height-4);
         HudFill(inset,Color.Lerp(new Color(.075f,.062f,.105f),accent,.14f));
-        if(sharedSkillIcons)
+        if(sharedSkillIcons&&player.hero!=MikoHero)
         {
             float columnWidth=1f/SharedActiveSkillCount, rowHeight=1f/SharedSkillIconRows;
             int row=SharedSkillIconRow(player.hero);
