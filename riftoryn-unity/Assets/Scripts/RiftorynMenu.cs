@@ -93,11 +93,15 @@ public partial class RiftorynMenu : MonoBehaviour {
             GUIUtility.ExitGUI();
         }
         Text(new Rect(48,464,1300,44),RiftorynCodexData.Text("TRYBY TESTOWE","TEST MODES"),section);
-        TestModeCard(new Rect(50,523,735,222),RiftorynCodexData.Text("TRENING","TRAINING"),
+        TestModeCard(new Rect(50,523,480,222),RiftorynCodexData.Text("TRENING","TRAINING"),
             RiftorynCodexData.Text("Sprawdź bohatera i wypróbuj standardowy albo własny układ wież. Zagraj samodzielnie lub z AI.",
                 "Try a hero against the standard tower layout or build your own. Play solo or with an AI companion."),
             RiftorynCodexData.Text("OTWÓRZ TRENING","OPEN TRAINING"),trial.OpenTraining);
-        TestModeCard(new Rect(815,523,735,222),RiftorynCodexData.Text("TEST LAN","LAN TEST"),
+        TestModeCard(new Rect(560,523,480,222),RiftorynCodexData.Text("OBRONA PRZED AI","DEFENSE AGAINST AI"),
+            RiftorynCodexData.Text("Rozmieść wieże i zatrzymaj bohaterów sterowanych przez AI przed dotarciem do mety.",
+                "Place towers and stop AI-controlled heroes from reaching the finish."),
+            RiftorynCodexData.Text("USTAW OBRONĘ","BUILD DEFENSE"),trial.OpenDefense);
+        TestModeCard(new Rect(1070,523,480,222),RiftorynCodexData.Text("TEST LAN","LAN TEST"),
             RiftorynCodexData.Text("Sprawdź próbę z drugim graczem w tej samej sieci lokalnej. Utwórz grę lub dołącz po adresie gospodarza.",
                 "Test the trial with a second player on the same local network. Host a game or join by host address."),
             RiftorynCodexData.Text("OTWÓRZ TEST LAN","OPEN LAN TEST"),trial.OpenLanTest);

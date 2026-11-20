@@ -37,10 +37,11 @@ public partial class RiftorynTrial : MonoBehaviour
     class VinePatch { public int id; public Vector3 position; public float remaining; public GameObject visual; public readonly HashSet<Runner> occupants=new(); }
     readonly List<VinePatch> vinePatches=new(), lanVinePatches=new();
     enum Phase { Setup, Playing, Finished }
-    enum TrialMode { Training, SharedEscape, LanTest }
+    enum TrialMode { Training, SharedEscape, LanTest, Defense }
     TrialMode mode;
     bool sharedEscape=>mode==TrialMode.SharedEscape;
-    bool CustomTrainingDefense=>mode==TrialMode.Training&&custom;
+    bool DefenseMode=>mode==TrialMode.Defense;
+    bool CustomTrainingDefense=>DefenseMode||mode==TrialMode.Training&&custom;
     public bool menuOpen = true;
     Phase phase; int selectedHero=0, allyChoice=0, selectedType=0, selectingHero=-1, draftPreview=-1; bool initialDraft, briefing; CodexHero[] roster=Array.Empty<CodexHero>(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); RiftorynHeroStats[] heroStats=Array.Empty<RiftorynHeroStats>(); Vector2 abilityTooltipScroll; string lastAbilityTooltip=""; float abilityTooltipUntil; readonly Dictionary<string,Texture2D> draftPortraits=new(); bool custom, genericModelPreview; float elapsed,total, cameraYaw, pitch=18f, messageTimer, fogArrivalTime; string message="", result=""; int floatingSequence; readonly List<FloatingCombatText> combatTexts=new(); Runner player,ally; Camera cam; GameObject world,runnerRoot,slotRoot,fogRoot; GameObject[] slots; readonly List<Tower> towers=new(); readonly List<Shot> shots=new(); readonly List<GameObject> fogTiles=new(); readonly List<float> fogDistances=new(); float[] lengths; Mesh fogMesh; Material fogMaterial; GUIStyle title, small, heading, floatingStyle, hudCenterStyle, hudStatusStyle, draftHeroTitle, draftRoleStyle, draftCompactNameStyle,draftResistanceNameStyle,draftResistanceValueStyle,draftResistanceNoteStyle; readonly Dictionary<string,Texture2D> statIcons=new(), statusIcons=new(); bool mouseCaptured;
     [Serializable] class LanInput { public float x,z; public bool ability,attack; }
@@ -275,7 +276,16 @@ public partial class RiftorynTrial : MonoBehaviour
         cameraRunner=player;
         cameraYaw=90;
         if(sharedEscape) pitch=18f;
-        Capture(true);
+        Capture(!DefenseMode);
+    }
+    public void OpenDefense()
+    {
+        mode=TrialMode.Defense;
+        selectedHero=trainingHero;
+        allyChoice=0;
+        menuOpen=false;
+        Setup();
+        StartDraft(0,true);
     }
     void Capture(bool value){mouseCaptured=value;Cursor.lockState=value?CursorLockMode.Locked:CursorLockMode.None;Cursor.visible=!value;}
     public void OpenTraining()
@@ -337,6 +347,11 @@ public partial class RiftorynTrial : MonoBehaviour
 
         float dt=Mathf.Min(Time.deltaTime,.05f);
         if(dt<=0) return;
+        if(DefenseMode)
+        {
+            StepTrial(dt,Vector3.zero,false,false,false,false);
+            return;
+        }
         if(RiftorynInput.Escape) Capture(!mouseCaptured);
         if(mouseCaptured)
         {
@@ -354,6 +369,14 @@ public partial class RiftorynTrial : MonoBehaviour
         elapsed+=dt;
         if(IsRunning(player))
         {
+            if(DefenseMode)
+            {
+                Vector3 before=player.obj.transform.position;
+                StepBot(player,dt);
+                player.velocity=(player.obj.transform.position-before)/dt;
+            }
+            else
+            {
             player.rollCooldown=Mathf.Max(0,player.rollCooldown-dt);
             if(ability) Skill(player);
             if(roll) StartRoll(player,direction);
@@ -364,6 +387,7 @@ public partial class RiftorynTrial : MonoBehaviour
             }
             else if(attack&&player.hero==0) Attack(player);
             MoveRunner(player,direction,dt);
+            }
         }
         StepRunner(player,dt);
         if(IsRunning(ally))
@@ -371,7 +395,7 @@ public partial class RiftorynTrial : MonoBehaviour
             Vector3 before=ally.obj.transform.position;
             if(lanPlaying) StepLanAlly(dt);
             else if(sharedEscape) StepSharedBot(dt);
-            else StepBot(dt);
+            else StepBot(ally,dt);
             ally.velocity=(ally.obj.transform.position-before)/dt;
             StepRunner(ally,dt);
         }
@@ -388,7 +412,7 @@ public partial class RiftorynTrial : MonoBehaviour
         StepShots(dt);
         EndRunnerFrame(player,dt);
         if(ally!=null) EndRunnerFrame(ally,dt);
-        UpdateFogVisuals();
+        if(!DefenseMode) UpdateFogVisuals();
         if(!IsRunning(player)&&!IsRunning(ally)) End();
     }
 
@@ -626,7 +650,7 @@ public partial class RiftorynTrial : MonoBehaviour
     }
     void Attack(Runner r){if(r.attackCooldown>0)return;Tower t=Nearest(r,7.8f);if(t==null){if(r==player)Notify("Podejdź bliżej wieży, aby ją zaatakować.");return;}r.attackCooldown=1;HitTower(t,25);}
     void HitTower(Tower t,float damage){t.hp-=damage;if(t.hp<=0){t.hp=0;t.marker.SetActive(false);foreach(var ren in t.obj.GetComponentsInChildren<Renderer>())foreach(var material in ren.materials){material.color=Color.gray;material.DisableKeyword("_EMISSION");}}}
-    void StepBot(float dt){if(ally.hp<=0||ally.done)return;Tower t=Nearest(ally,ally.hero==0?7.8f:17.4f);if(t!=null&&ally.cooldown<=0)Skill(ally);if(t!=null&&ally.hero==0&&ally.attackCooldown<=0)Attack(ally);float speed=RunnerSpeed(ally);ally.along=Mathf.Min(total,ally.along+speed*dt);Vector3 old=ally.obj.transform.position, next=At(ally.along);ally.obj.transform.position=next;if((next-old).sqrMagnitude>.00001f)ally.obj.transform.rotation=Quaternion.LookRotation(next-old);if(ally.along>=total){ally.done=true;ally.obj.SetActive(false);}}
+    void StepBot(Runner runner,float dt){if(runner.hp<=0||runner.done)return;Tower t=Nearest(runner,runner.hero==0?7.8f:17.4f);if(t!=null&&runner.cooldown<=0)Skill(runner);if(t!=null&&runner.hero==0&&runner.attackCooldown<=0)Attack(runner);float speed=RunnerSpeed(runner);runner.along=Mathf.Min(total,runner.along+speed*dt);Vector3 old=runner.obj.transform.position, next=At(runner.along);runner.obj.transform.position=next;if((next-old).sqrMagnitude>.00001f)runner.obj.transform.rotation=Quaternion.LookRotation(next-old);if(runner.along>=total){runner.done=true;runner.obj.SetActive(false);}}
     // Solve |target + velocity * time - origin| = projectileSpeed * time.
     // If interception is impossible, aim at the current position instead.
     static Vector3 PredictAim(Vector3 origin, Vector3 target, Vector3 velocity, float projectileSpeed)
@@ -907,7 +931,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(sharedEscape) RecordSharedScore();
         else UpdateResult();
     }
-    void UpdateResult(){int arrived=(player.done?1:0)+(ally!=null&&ally.done?1:0),count=ally==null?1:2;result=RiftorynL10n.Format("META {0}/{1}  •  {2}: {3}",arrived,count,HeroNames[player.hero],RiftorynL10n.Translate(player.done?"meta":"pokonany"))+(ally!=null?RiftorynL10n.Format(lanPlaying?"  •  {0}: {1}":"  •  {0} AI: {1}",HeroNames[ally.hero],RiftorynL10n.Translate(ally.done?"meta":"pokonany")):"")+RiftorynL10n.Format("\nCzas {0:F1} s  •  obrażenia {1:F0}  •  zdolności {2}",elapsed,player.damage,player.uses);}
+    void UpdateResult(){int arrived=(player.done?1:0)+(ally!=null&&ally.done?1:0),count=ally==null?1:2;if(DefenseMode){result=RiftorynCodexData.Text(arrived==0?"OBRONA WYGRANA":"BOHATEROWIE PRZEDARLI SIĘ",arrived==0?"DEFENSE WON":"HEROES BROKE THROUGH")+"\n"+string.Format(RiftorynCodexData.Text("Bohaterowie na mecie: {0}/{1}","Heroes at the finish: {0}/{1}"),arrived,count);return;}result=RiftorynL10n.Format("META {0}/{1}  •  {2}: {3}",arrived,count,HeroNames[player.hero],RiftorynL10n.Translate(player.done?"meta":"pokonany"))+(ally!=null?RiftorynL10n.Format(lanPlaying?"  •  {0}: {1}":"  •  {0} AI: {1}",HeroNames[ally.hero],RiftorynL10n.Translate(ally.done?"meta":"pokonany")):"")+RiftorynL10n.Format("\nCzas {0:F1} s  •  obrażenia {1:F0}  •  zdolności {2}",elapsed,player.damage,player.uses);}
     void Notify(string text){message=text;messageTimer=3;}
     // The minimap shares the same map coordinates as the world, with north at the top.
     Vector2 MinimapPoint(Vector3 position, Rect map)
@@ -979,7 +1003,7 @@ public partial class RiftorynTrial : MonoBehaviour
         }
         return y;
     }
-    bool RunnerInFog(Runner runner)=>IsRunning(runner)&&runner.obj&&Project(runner.obj.transform.position,out _)<FogFront();
+    bool RunnerInFog(Runner runner)=>!DefenseMode&&IsRunning(runner)&&runner.obj&&Project(runner.obj.transform.position,out _)<FogFront();
     int ActiveStatusCount(Runner runner,bool inFog)=> (runner.burn.Remaining>0?1:0)+(runner.chillTime>0?1:0)+(runner.poison.Remaining>0?1:0)+(runner.rootTime>0?1:0)+(runner.shadowTime>0?1:0)+(inFog?1:0);
     float StatusHeight(int count)=>((count+1)/2)*25f;
     Texture2D StatusIcon(string name){if(!statusIcons.TryGetValue(name,out var icon)){icon=Resources.Load<Texture2D>("StatusIcons/"+name);statusIcons[name]=icon;}return icon;}
@@ -1036,7 +1060,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 Vector2 marker=MinimapPoint(Slot(tower.slot),map);
                 HudFill(new Rect(marker.x-2,marker.y-2,4,4),tower.hp>0?TowerColors[tower.type]:Color.gray);
             }
-        MinimapMarker(map,player,new Color(1f,.75f,.25f),"TY");
+        MinimapMarker(map,player,new Color(1f,.75f,.25f),DefenseMode?"AI":"TY");
         MinimapMarker(map,ally,new Color(.2f,.85f,.95f),"AI");
         if(ally!=null)
         {
@@ -1093,19 +1117,26 @@ public partial class RiftorynTrial : MonoBehaviour
         {
             TrialMode.SharedEscape=>RiftorynCodexData.Text("RIFTORYN  /  WSPÓLNA UCIECZKA","RIFTORYN  /  SHARED ESCAPE"),
             TrialMode.LanTest=>RiftorynCodexData.Text("RIFTORYN  /  TEST LAN","RIFTORYN  /  LAN TEST"),
+            TrialMode.Defense=>RiftorynCodexData.Text("RIFTORYN  /  OBRONA PRZED AI","RIFTORYN  /  DEFENSE AGAINST AI"),
             _=>RiftorynCodexData.Text("RIFTORYN  /  TRENING","RIFTORYN  /  TRAINING")
         };
         RiftorynL10n.Label(new Rect(18,8,490,34),modeTitle,title);
       if(phase==Phase.Setup){
-        RiftorynL10n.Label(new Rect(18,44,75,24),"Bohater",small);
+        GUI.Label(new Rect(18,44,75,24),DefenseMode?"AI 1":RiftorynL10n.Translate("Bohater"),small);
         if(RiftorynL10n.Button(new Rect(90,42,200,30),HeroNames[selectedHero]+RiftorynL10n.Translate("  ·  ZMIEŃ"))){StartDraft(0,false);GUIUtility.ExitGUI();}
-        RiftorynL10n.Label(new Rect(310,44,85,24),"Sojusznik",small);
+        GUI.Label(new Rect(310,44,85,24),DefenseMode?"AI 2":RiftorynL10n.Translate("Sojusznik"),small);
         string allyLabel=allyChoice==0?"AUTO · "+HeroNames[AllyHero()]:allyChoice==1?"BRAK":HeroNames[AllyHero()];
         if(RiftorynL10n.Button(new Rect(395,42,210,30),RiftorynL10n.Translate(allyLabel)+RiftorynL10n.Translate("  ·  ZMIEŃ"))){StartDraft(1,false);GUIUtility.ExitGUI();}
         RiftorynL10n.Label(new Rect(18,78,60,23),"Wieże",small);
         if(sharedEscape)
         {
             GUI.Label(new Rect(90,78,490,32),RiftorynCodexData.Text("Komputer losuje obronę. Odkryjecie ją podczas biegu.","The computer rolls the defense. You discover it while running."),small);
+        }
+        else if(DefenseMode)
+        {
+            selectedType=RiftorynL10n.SelectionGrid(new Rect(90,78,560,28),selectedType,TowerNames,7);
+            GUI.Label(new Rect(665,82,100,25),$"{towers.Count} / {TowerNames.Length}",small);
+            GUI.Label(new Rect(18,115,Mathf.Max(0,w-245),30),RiftorynCodexData.Text("Wybierz żywioł i kliknij pole na murze. Kliknij wieżę, aby ją usunąć. Po jednej wieży każdego żywiołu.","Choose an element and click a wall slot. Click a tower to remove it. One tower per element."),small);
         }
         else
         {
@@ -1116,13 +1147,14 @@ public partial class RiftorynTrial : MonoBehaviour
             if(newPreview!=genericModelPreview){genericModelPreview=newPreview;ReplaceRunners();GUIUtility.ExitGUI();}
             RiftorynL10n.Label(new Rect(260,115,Mathf.Max(0,w-475),30),custom?"Kliknij pole, by postawić lub usunąć wieżę; po jednej z każdego żywiołu.":"Standardowy układ: 7 wież, po jednej z każdego żywiołu.",small);
         }
-        if(RiftorynL10n.Button(new Rect(w-210,42,190,63),"ROZPOCZNIJ PRÓBĘ")){briefing=true;GUIUtility.ExitGUI();}
+        if(RiftorynL10n.Button(new Rect(w-210,42,190,63),"ROZPOCZNIJ PRÓBĘ")){if(DefenseMode){if(towers.Count==0)Notify(RiftorynCodexData.Text("Ustaw co najmniej jedną wieżę.","Place at least one tower."));else Begin();}else briefing=true;GUIUtility.ExitGUI();}
+        if(DefenseMode&&messageTimer>0)GUI.Label(new Rect(770,82,250,26),message,small);
         if(RiftorynL10n.Button(new Rect(w-210,110,190,30),"← MENU GŁÓWNE")){ReturnToMenu();GUIUtility.ExitGUI();}
       }
       else
       {
         if(player==null||!player.obj||(ally!=null&&!ally.obj))return;
-        DrawFogExposure();DrawCombatTexts();DrawHud();DrawCombatHeader();
+        if(!DefenseMode) DrawFogExposure();DrawCombatTexts();DrawHud();DrawCombatHeader();
         if(messageTimer>0)RiftorynL10n.Label(new Rect(20,145,600,30),message,heading);
         if(phase==Phase.Finished)
         {
@@ -1130,7 +1162,7 @@ public partial class RiftorynTrial : MonoBehaviour
             UpdateResult();
             GUI.Box(new Rect(w/2-270,Screen.height/2-85,540,170),"");
             RiftorynL10n.Label(new Rect(w/2-245,Screen.height/2-65,490,65),result,heading);
-            if(!lanPlaying&&RiftorynL10n.Button(new Rect(w/2-225,Screen.height/2+20,210,45),"ZAGRAJ PONOWNIE")){Setup();StartDraft(0,true);GUIUtility.ExitGUI();}
+            if(!lanPlaying&&RiftorynL10n.Button(new Rect(w/2-225,Screen.height/2+20,210,45),"ZAGRAJ PONOWNIE")){if(DefenseMode){var layout=new List<(int slot,int type)>();foreach(var tower in towers)layout.Add((tower.slot,tower.type));Setup();foreach(var item in layout)AddTower(item.slot,item.type);}else{Setup();StartDraft(0,true);}GUIUtility.ExitGUI();}
             if(RiftorynL10n.Button(new Rect(w/2+15,Screen.height/2+20,210,45),"MENU GŁÓWNE")){ReturnToMenu();GUIUtility.ExitGUI();}
         }
       }
@@ -1138,6 +1170,12 @@ public partial class RiftorynTrial : MonoBehaviour
     void DrawCombatHeader()
     {
         float w=Screen.width;
+        if(DefenseMode)
+        {
+            GUI.Label(new Rect(18,40,w-36,24),RiftorynCodexData.Text("ZATRZYMAJ BOHATERÓW PRZED METĄ","STOP THE HEROES BEFORE THE FINISH"),heading);
+            GUI.Label(new Rect(18,67,w-36,24),string.Format(RiftorynCodexData.Text("Czas {0:F1} s · {1} i {2} sterowani przez AI","Time {0:F1} s · {1} and {2} controlled by AI"),elapsed,HeroNames[player.hero],ally!=null?HeroNames[ally.hero]:"—"),small);
+            return;
+        }
         if(sharedEscape)
         {
             string goal=RiftorynCodexData.Text("CEL: OBOJE DO METY   •   CZAS {0:F1} s","GOAL: BOTH REACH THE FINISH   •   TIME {0:F1} s");
@@ -1356,7 +1394,7 @@ public partial class RiftorynTrial : MonoBehaviour
         GUI.matrix=Matrix4x4.TRS(new Vector3((Screen.width-1600*scale)*.5f,(Screen.height-900*scale)*.5f,0),Quaternion.identity,new Vector3(scale,scale,1));
         HudFill(new Rect(0,0,1600,900),new Color(.045f,.035f,.07f,1));
         Color panel=new(.095f,.08f,.13f), border=new(.29f,.25f,.34f), gold=new(.87f,.72f,.46f);
-        RiftorynL10n.Label(new Rect(25,15,800,24),sharedEscape?RiftorynCodexData.Text("WSPÓLNA UCIECZKA  /  WYBÓR DRUŻYNY","SHARED ESCAPE  /  SELECT TEAM"):RiftorynCodexData.Text("TRENING  /  WYBÓR DRUŻYNY","TRAINING  /  SELECT TEAM"),small);
+        GUI.Label(new Rect(25,15,800,24),DefenseMode?RiftorynCodexData.Text("OBRONA PRZED AI  /  WYBÓR BOHATERÓW","DEFENSE AGAINST AI  /  SELECT HEROES"):sharedEscape?RiftorynCodexData.Text("WSPÓLNA UCIECZKA  /  WYBÓR DRUŻYNY","SHARED ESCAPE  /  SELECT TEAM"):RiftorynCodexData.Text("TRENING  /  WYBÓR DRUŻYNY","TRAINING  /  SELECT TEAM"),small);
         RiftorynL10n.Label(new Rect(22,43,900,40),"WYBIERZ BOHATERA",title);
         RiftorynL10n.Label(new Rect(24,86,900,25),"Wybierz portret, sprawdź bohatera i potwierdź wybór.",small);
         if(GUI.Button(new Rect(1330,35,70,38),RiftorynL10n.CurrentCode+" ⇄"))RiftorynL10n.Toggle();
@@ -1366,9 +1404,9 @@ public partial class RiftorynTrial : MonoBehaviour
             GUI.matrix=oldMatrix;GUIUtility.ExitGUI();
         }
         DraftFrame(new Rect(22,135,170,500),border,panel);
-        RiftorynL10n.Label(new Rect(35,150,150,24),"TWOJA DRUŻYNA",small);
+        GUI.Label(new Rect(35,150,150,24),DefenseMode?RiftorynCodexData.Text("BOHATEROWIE AI","AI HEROES"):RiftorynL10n.Translate("TWOJA DRUŻYNA"),small);
         DraftFrame(new Rect(35,185,144,74),selectingHero==0?gold:border,new Color(.06f,.055f,.09f));
-        RiftorynL10n.Label(new Rect(45,195,125,55),initialDraft&&selectingHero==0?"TY\nWYBIERA TERAZ":RiftorynL10n.Translate("TY\n")+HeroNames[selectedHero],small);
+        GUI.Label(new Rect(45,195,125,55),DefenseMode?(selectingHero==0?"AI 1\n…":"AI 1\n"+HeroNames[selectedHero]):initialDraft&&selectingHero==0?"TY\nWYBIERA TERAZ":RiftorynL10n.Translate("TY\n")+HeroNames[selectedHero],small);
         DraftFrame(new Rect(35,270,144,74),selectingHero==1?gold:border,new Color(.06f,.055f,.09f));
         string allyText=selectingHero==1?"WYBIERA TERAZ":allyChoice==1?"BRAK":HeroNames[AllyHero()];
         RiftorynL10n.Label(new Rect(45,280,125,55),RiftorynL10n.Translate("SOJUSZNIK AI\n")+RiftorynL10n.Translate(allyText),small);
