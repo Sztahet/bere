@@ -88,7 +88,7 @@ Meret powiedziała, że ich nie zauważyła. Córka twierdziła, że widziała j
 
 Przez chwilę przymierzała ręce do wspomnienia. Potem wzruszyła ramionami.
 
-Zapisałem: „rozdarty rękaw, strona nieustalona”. Dziewczynka chciała zobaczyć, czy rzeczywiście tak napisałem. Przesunąłem do niej kartę. Uśmiechnęła się dopiero, gdy znalazła własne słowa.
+Zapisałem: „rozdarty rękaw, dwa jasne, krzywe ściegi przy nadgarstku, strona nieustalona”. Dziewczynka chciała zobaczyć, czy rzeczywiście tak napisałem. Przesunąłem do niej kartę. Uśmiechnęła się dopiero, gdy znalazła własne słowa.
 
 Meret odprowadziła mnie do drzwi.
 

@@ -20,7 +20,7 @@ Mirela chciała, bym dołączył żeton do akt wypadku. Nie chciała natomiast, 
 
 — Mówi pani, że znalazła go pani przy bramie. Zapiszę, kto go znalazł, i poproszę drugą osobę o potwierdzenie.
 
-— Wtedy nadzorca dowie się, że rozmawiałam z panem.
+— Wtedy ludzie nadzorcy dowiedzą się, że rozmawiałam z panem.
 
 — Dlaczego to dla pani niebezpieczne?
 
