@@ -2,150 +2,234 @@
 
 ## Dwa pytania
 
-Maj, 12 ET · Iglica Zerath
+16 maja, 12 ET · Iglica Zerath
 
-Córka Varek zapytała o kuchnię, zanim jej matka zdążyła powiedzieć, o co przyszły.
+Córka Varek zapytała o kuchnię, zanim jej matka zdążyła powiedzieć po co przyszły.
 
 — Mogę pomagać?
 
 — W mojej? — upewniłam się.
 
-Skinęła głową. Trzymała zeszyt przyciśnięty do piersi, jakby chciała nim zasłonić rysunek na okładce.
+Skinęła głową. Trzymała zeszyt przyciśnięty do piersi. Na okładce narysowała konia z nogami tak krótkimi, że przez chwilę nie wiedziałam, czy to koń, czy pies. Nie pytałam.
 
-Varek wyjaśniła, że wybiera się do Val Meris na kwalifikacje i szuka kogoś, kto zostałby z córką na kilka dni. Powiedziała, kiedy planuje wyjechać, jak długo potrwa podróż i co już ustaliła. Dziewczynka chciała wiedzieć, czy może zabrać zeszyt. Na to matka odpowiedziała jeszcze przed przyjściem do mnie.
+Varek wyjaśniła, że wybiera się do Val Meris na kwalifikacje i szuka kogoś, kto zaopiekowałby się córką podczas jej wyjazdu. Powiedziała, kiedy zamierza wyruszyć i ile czasu może jej nie być.
 
 — A w kuchni? — przypomniała córka.
 
-— Możesz mieszać ciasto — powiedziałam. — Jeśli nie wsypiesz do niego całej soli, jak ostatnio ja.
+— Możesz mieszać ciasto — powiedziałam. — Bylebyś nie wsypała do niego całej soli, jak ostatnio ja.
 
 — Dlaczego wsypałaś?
 
 — Bo chciałam posłuchać rozmowy przez okno i nie patrzyłam na łyżkę.
 
-Przyjęła tę odpowiedź z powagą. Varek uśmiechnęła się, ale zaraz rozłożyła na stole grafik ze stacji. Na czas jej wyjazdu trzeba było przejąć kilka zmian. Volt też chciał pojechać, więc jego godziny pozostały puste.
+Przyjęła tę odpowiedź z powagą. Varek uśmiechnęła się, po czym rozłożyła na stole grafik ze stacji. Volt również wybierał się do Val Meris. Trzeba było znaleźć zastępstwo na kilka zmian.
 
-Spojrzałam na własne. Dwie noce, poranek przy odbiorniku i zastępstwo przy wydawaniu kart. Po jednej z nocnych zmian miałam zaprowadzić dziecko do szkoły.
+Spojrzałam na swoje imię. Przy jednym z wieczorów ktoś dopisał już ołówkiem moje inicjały. Obok były dwie noce i dodatkowy poranek przy odbiorniku.
 
-— Jeśli będę tu całą noc, mogę nie zdążyć rano — powiedziałam. — Albo zdążę i później zasnę przy odbiorniku. Najpierw ustalmy grafik.
+— Volt też będzie startował?
 
-Córka Varek odłożyła zeszyt i przysunęła palec do tabeli.
+— Chce spróbować.
 
-— A to co znaczy?
+— A Miko?
 
-— Że twoja mama miała wtedy pracować — wyjaśniłam. — Szukamy kogoś na jej miejsce.
+— On też się wybiera. Taren zresztą również.
 
-— Mogę pójść sama do szkoły.
+Przesunęłam palcem po grafiku. Miałam zostać z dzieckiem, pracować przy odbiorniku, pomóc przy wydawaniu kart i znaleźć czas na ćwiczenia, które opłaciłam z góry. Od kilku miesięcy odkładałam też pieniądze na podróż, choć nie zdecydowałam jeszcze, dokąd chciałabym pojechać.
 
-Varek odwróciła się do niej.
+— A jeśli ja też pojadę?
 
-— Porozmawiamy o drodze, ale dziś chcę wiedzieć, kto będzie mógł pójść z tobą, jeśli będzie trzeba.
+Varek podniosła głowę.
 
-Dziewczynka opuściła rękę. Nie wyglądała na przekonaną. Później, kiedy Varek poszła po drugi wykaz, pokazała mi swoją trasę na odwrocie rysunku. Znała sklep przy zakręcie, dom z zielonymi drzwiami i miejsce, gdzie kałuża utrzymywała się najdłużej po deszczu. Obiecałam, że obejrzymy drogę razem. Decyzja należała do niej i do matki; ja chciałam wiedzieć, którędy zamierza iść.
+— Chcesz zobaczyć Igrzyska?
 
-Na stacji wykreśliłam się z nocy przed wyjazdem Varek. Dyżurny z bocznej przejął przegląd odbiornika, a Zet zgodził się nosić pilne wiadomości między dwoma stanowiskami w godzinach, które sam wybrał. Kiedy skończyliśmy, pokazałam Varek dwie wciąż puste rubryki.
+— Nie. Chcę wziąć w nich udział.
 
-— Tego wciąż nie obsadziliśmy.
+— Od kiedy?
 
-Wyszła szukać zmiennika. Po południu znalazła człowieka na pierwszą zmianę. Drugą część udało mi się ustalić z kobietą ze składu, która wcześniej pracowała przy wydawaniu kart. Chciała wiedzieć, czy ktoś odbierze od niej stanowisko na czas. Podałam jej imię osoby z następnej zmiany i poprosiłam, żeby powiedziała mi, jeśli ta nie przyjdzie.
+— Od teraz.
 
-Dopiero wtedy zgodziłam się na opiekę. Jeszcze tego samego dnia Varek i jej córka przyniosły zeszyt, kilka ubrań oraz kartkę z adresem sąsiadów. Dziewczynka zapytała, czy możemy zrobić ciasto pierwszego wieczoru. Powiedziałam, że jeśli najpierw zjemy coś poza ciastem.
+Córka Varek oderwała wzrok od zeszytu. Chyba żadna z nich nie była bardziej zaskoczona ode mnie.
 
-## Ćwiczenie
+— Chcesz przejść kwalifikacje? — upewniła się Varek.
 
-Maj, 12 ET · stacja przekaźnikowa w Iglicy Zerath
+— A dlaczego nie? Ty jedziesz, Volt jedzie, Miko jedzie. Chciałabym choć raz pojechać z wami, zamiast przejmować wszystkie dyżury.
 
-Volt przed wyjazdem pokazał mi lampę, którą mieliśmy zabrać na małą stację przy drodze. Jej zapasowy kryształ wymagał doładowania. Potrzebny był tylko niewielki ładunek na próbę; do pełnego zasilenia mieli później przysłać doświadczoną osobę.
+Powiedziałam to ostrzej, niż zamierzałam. Varek spojrzała jeszcze raz na grafik.
 
-Ćwiczyłam już przekazywanie energii pod nadzorem i chciałam wreszcie zrobić to przy urządzeniu, które naprawdę ktoś wykorzysta. Volt zgodził się, ale powiedział, że najpierw sprawdzimy obudowę i przygotujemy wszystko tak, żeby w każdej chwili można było przerwać próbę.
+— Myślałam, że chcesz zostać. Nigdy nie wspominałaś o starcie.
 
-— Wiem — odparłam.
+— Bo jeszcze rano o tym nie myślałam.
 
-— To powiedz, co robimy.
+— Rozumiem. Ale musimy znaleźć ludzi na stację i kogoś do opieki nad małą.
 
-Powiedziałam. Przy drugim punkcie się zatrzymałam. Nie dlatego, że go zapomniałam. Po prostu byłam przekonana, że pierwszą czynność zrobiliśmy wczoraj.
+— Wiem. Tylko nie wpisuj mnie jeszcze nigdzie, dobrze?
 
-— Sprawdzamy jeszcze raz — dokończyłam.
+Starła moje inicjały. W rubryce zostało szare miejsce po ołówku.
 
-— Wczoraj obudowa była zamknięta — powiedział. — Od tego czasu ktoś mógł ją otworzyć.
+Dziewczynka zapytała, czy to znaczy, że nie będziemy robiły ciasta. Powiedziałam jej, że możemy zrobić je jeszcze przed wyjazdem. Tym razem chciała sama odmierzać sól.
 
-Sprawdziliśmy. Wszystko było na miejscu. Volt nadzorował próbę, a ja powoli przekazałam kryształowi odrobinę energii. Kiedy uruchomił lampę, zaświeciła. Zapisałam czas. Po krótkiej chwili światło osłabło i zgasło.
+## Czy się nadaję?
 
-— Za mało? — zapytałam.
+18 maja, 12 ET · stacja przekaźnikowa w Iglicy Zerath
 
-— Do długiej pracy tak. Do sprawdzenia, czy lampa odpowiada, wystarczyło.
+Przez dwa dni zdążyłam powiedzieć o swoim pomyśle Zetowi, dyżurnemu i nauczycielowi Błyskawic. Zet zapytał, czy zamierzam zabrać wszystkie swoje zeszyty. Dyżurny poradził mi przeczytać warunki zgłoszenia. Nauczyciel chciał wiedzieć, do czego czuję się przygotowana.
 
-Chciałam spróbować jeszcze raz. Volt spojrzał na moją dłoń. Palce miałam sztywne od napięcia, chociaż upierałam się, że mogę ćwiczyć dalej. Zaproponował przerwę, a potem wspólne sprawdzenie, czy możemy powtórzyć ćwiczenie bez pośpiechu. Zgodziłam się, choć wolałabym usłyszeć, że potrafię już zrobić to sama.
+Na to ostatnie pytanie nie potrafiłam odpowiedzieć od razu.
 
-Przy drugiej próbie lampa świeciła dłużej. Sama zaproponowałam, żeby na tym skończyć. W karcie wpisałam oba wyniki i dopisałam, że kryształ nie jest przygotowany do pracy na pełnej zmianie. Volt podpisał się obok jako osoba nadzorująca.
+Volt pokazał mi tego ranka lampę przeznaczoną dla małej stacji przy drodze. Jej zapasowy kryształ wymagał doładowania. Do próby wystarczała niewielka ilość energii, a pełnym ładowaniem miał się zająć doświadczony mag. Poprosiłam, żebym tym razem sama mogła przygotować przyrząd i przeprowadzić próbę pod jego nadzorem.
 
-— Mogę zabrać lampę na stację? — zapytałam.
+Sprawdziłam obudowę, odłączyłam zasilanie i przyłożyłam końcówki przyrządu. Volt stał obok, lecz nie podpowiadał mi kolejnych czynności. Przy ładowaniu musiałam dwukrotnie poprawić ułożenie dłoni. Nie chciałam się spieszyć, szczególnie kiedy poczułam na opuszkach ciepło, które tak przestraszyło mnie podczas pierwszych ćwiczeń zimą.
 
-— Możesz. Nie możesz obiecać, że wystarczy im na całą noc.
+Lampa zaświeciła. Tym razem światło było równe, choć nadal nie utrzymywało się długo. Zapisałam wynik i dopiero wtedy spojrzałam na Volta.
 
-Schowałam kartę do torby razem z lampą. Jeszcze nigdy nie cieszyło mnie tak bardzo urządzenie, które świeciło krócej, niż ktokolwiek chciał.
+— Myślisz, że mam jakiekolwiek szanse na Igrzyskach?
 
-## Podczas nieobecności
+— Nie widziałem pozostałych kandydatów.
 
-Początek kwalifikacji, 12 ET · Iglica Zerath
+— A gdybyś miał zgadywać?
 
-Pierwszego wieczoru córka Varek rozbiła jajko o krawędź miski. Połowa skorupki wpadła do środka. Wydobywałyśmy ją większym kawałkiem, bo palce tylko odsuwały ją na bok. Dziewczynka uznała to za najlepszą część gotowania i przy drugim jajku też spróbowała.
+Uśmiechnął się.
 
-Ciasto wyszło nierówne. Zjadłyśmy ciepły brzeg, zanim reszta zdążyła wystygnąć. Wieczorem usiadła przy oknie z zeszytem. Zapytała, czy jej mama już dotarła. Powiedziałam, kiedy spodziewamy się wiadomości, ale nie wiedziałam, gdzie jest w tej chwili. Dziewczynka przyjęła to bez dalszych pytań, choć później jeszcze dwa razy podeszła do okna.
+— Mam zgadywać?
 
-Rano poszłyśmy do szkoły. Pokazała mi dom z zielonymi drzwiami i kałużę, której już prawie nie było. Na rogu spotkałyśmy sąsiadkę, którą znała. Uzgodniłyśmy wcześniej z Varek, że sąsiadka może odebrać ją po zajęciach, jeśli ja utknę na stacji; dziewczynka wiedziała, że ma wtedy poczekać w szkole.
+Przypomniałam sobie dwa styki w jednej przegródce i błędny numer, który wysłałam mu zimą.
 
-Na zmianie dostałam wiadomość z bocznego stanowiska. Dyżurny prosił o zapasową lampę dla ekipy pracującej przy drodze. Ta sama lampa, którą ćwiczyłam z Voltem, stała w szafce. Wiedziałam też, że po próbie pozostał w niej niewielki ładunek, a człowiek od pełnego ładowania miał przyjść dopiero po południu.
+— Dobrze, już nic nie mów.
 
-Chciałam wysłać lampę od razu. Jeśli napiszę na karcie, ile trwała próba, ekipa sama zobaczy, że nie jest gotowa na noc. Ale wiadomość mówiła o pracy przy drodze, nie o tym, jak długo mają tam zostać. Zapytałam, kiedy jej potrzebują i czy mają inne światło.
+— Wiem, że umiesz więcej niż rok temu — dodał. — Wiem też, że przy urządzeniach nadal potrzebujesz nadzoru. Resztę sprawdzisz na kwalifikacjach, jeśli pojedziesz.
 
-Odpowiedź przyszła szybko: przed zmrokiem, bo jedna z dwóch ich lamp zgasła. Druga działała, lecz nie wiedzieli, czy wystarczy do zakończenia prac. Poprosiłam dyżurnego, żeby sprawdził, kto może doładować kryształ przed wysłaniem. Znalazł osobę z sąsiedniego stanowiska, która miała właśnie wolne okno między dyżurami. Zgodziła się przyjść za godzinę.
+Chciałam spróbować jeszcze raz, ale palce zesztywniały mi od napięcia. Zrobiliśmy przerwę. Przy drugiej próbie lampa świeciła dłużej. W karcie zapisałam oba wyniki i zaznaczyłam, że kryształ wymaga pełnego naładowania przed wysłaniem. Volt podpisał się obok mnie.
 
-W międzyczasie Zet wpadł po pakunek do bramy. Mogłam mu dać lampę wtedy, ale byłoby za wcześnie. Miał już pełną torbę i następną trasę; nie mógł wrócić po godzinie bez przesunięcia innej dostawy. Zapytał, czy może ją zabrać ktoś ze składu jadący w tę stronę. Sprawdziliśmy wykaz. Wóz odchodził po południu i miał miejsce na małą skrzynkę.
+Przy okazji zapytałam, czego on chciałby się nauczyć w Val Meris. Opowiedział mi o kilku urządzeniach, które spodziewał się tam zobaczyć, i o magach, z którymi chciałby porozmawiać. Słuchałam chyba dłużej, niż planował.
 
-— Jeśli nie przyjdzie do ładowania, daj znać przed wyjazdem wozu — powiedział Zet. — Spróbuję znaleźć inny transport później, ale nie obiecuję, dopóki nie zobaczę swojej trasy.
+— W takim razie ja też chcę je zobaczyć — powiedziałam.
 
-Osoba od ładowania przyszła zgodnie z umową. Zapytałam, czy mogę obserwować. Pozwoliła, ale najpierw poprosiła mnie o kartę z wynikami naszej próby. Zajrzała do obudowy, sprawdziła urządzenie i dopiero potem zajęła się kryształem. Nie robiła niczego widowiskowego. Najbardziej chciałam ją zapytać, po czym poznaje, że tempo jest odpowiednie. Zapytałam po zakończeniu. Wyjaśniła, co sprawdza na przyrządzie, i powiedziała, że reszty nie pokaże mi w dwóch zdaniach między dyżurami. Zaproponowała, żebym przyszła na jej kolejne ćwiczenie.
+— To zapisz sobie, o co zamierzasz pytać.
 
-Zostałam jednak przy stacji dłużej, niż zamierzałam. Nie z powodu samej lampy: woźnica nie znalazł od razu miejsca na skrzynkę z lampą, a ja chciałam dopilnować, żeby karta nie została na stole. Kiedy wreszcie zamknął wieko, do końca zajęć w szkole zostało mniej czasu niż na drogę.
+Wyjęłam zeszyt. Miałam już cztery pytania, zanim Volt zdążył zamknąć obudowę lampy.
 
-Posłałam wiadomość sąsiadce. Potwierdziła, że może odebrać córkę Varek. Ja przyszłam do nich później. Dziewczynka siedziała przy kuchennym stole i rysowała. Na mój widok zamknęła zeszyt.
+## Zanim wyjedziemy
 
-— Mówiłaś, że będziesz ty.
+20 maja, 12 ET · Iglica Zerath
 
-— Tak. Przepraszam. Zostałam na stacji za długo i poprosiłam sąsiadkę.
+Varek znalazła sąsiadkę, którą jej córka dobrze znała i która zgodziła się zaopiekować nią na czas wyjazdu. Ustaliłyśmy, kto będzie odprowadzał dziewczynkę do szkoły i odbierał ją po zajęciach. Poszłam potem z Varek i jej córką obejrzeć drogę między domem a szkołą. Córka Varek pokazała nam zielone drzwi przy zakręcie i miejsce, w którym kałuża utrzymywała się najdłużej po deszczu.
 
-— Myślałam, że zapomniałaś.
+Wróciłyśmy do mnie upiec obiecane ciasto. Dziewczynka rozbiła pierwsze jajko z taką siłą, że musiałyśmy wyławiać skorupkę z miski. Przy drugim poradziła sobie znacznie lepiej. Po skończeniu zapytała, czy jej mama i ja będziemy razem na Igrzyskach.
 
-Usiadłam obok. Nie tłumaczyłam jej, ile zajęło znalezienie wozu. Zapytałam, czy chciałaby następnym razem wiedzieć wcześniej, że przyjdzie ktoś inny. Powiedziała, że tak, nawet jeśli tą osobą ma być sąsiadka, którą zna. Sąsiadka zaproponowała, że jeśli jeszcze raz dostanie wiadomość, poprosi pracownicę szkoły, żeby przekazała ją dziewczynce przed końcem zajęć.
+— Możliwe — odpowiedziałam. — Najpierw musimy przejść kwalifikacje. Nie wiem jeszcze, czy mi się uda.
 
-W drodze do domu córka Varek szła obok mnie, nieco szybciej niż rano. Przy zielonych drzwiach zwolniła.
+— A jak się nie uda?
 
-— Ciasto jeszcze jest?
+— To wrócę i będę się dalej uczyć.
 
-— Kawałek. Chyba że zjadłaś go przed śniadaniem.
+— I zrobimy ciasto?
 
-Spojrzała na mnie z oburzeniem. Wieczorem podzieliłyśmy resztę na pół.
+— Nawet jeśli się uda.
 
-## Następna zmiana
+Podzieliłyśmy między siebie ciepły brzeg ciasta. Resztę zostawiłam jej na następny dzień. Varek zabrała córkę do domu, a ja poszłam na stację.
 
-Czerwiec, 12 ET · stacja przekaźnikowa w Iglicy Zerath
+Grafik wciąż wisiał przy drzwiach. Dyżurni zgodzili się zamienić kilkoma zmianami. Kobieta ze składu, która wcześniej wydawała karty, mogła wrócić do tego zajęcia na część tygodnia. Varek zwróciła się do sąsiedniego stanowiska o pomoc przy obsłudze odbiornika. Po południu dostaliśmy potwierdzenie. Pozostałe dyżury przydzieliła dopiero po rozmowie z każdym ze zmienników.
 
-Kiedy Varek wróciła, córka opowiedziała jej najpierw o jajku, a dopiero potem o szkole. Ja opowiedziałam w odwrotnej kolejności. Varek wysłuchała obu wersji i podziękowała sąsiadce. Wieczorem przyszła do mnie po torbę, którą dziewczynka zostawiła pod stołem.
+Zaproponowałam, że pokażę kobiecie ze składu nowy układ kart. Przy drugim odbiorniku miałam jeszcze własną zmianę. Umówiłyśmy się więc na godzinę po jej zakończeniu.
 
-— Muszę cię za to przeprosić — powiedziałam. — Obiecałam jej, że przyjdę.
+Wtedy przyszła wiadomość z bocznego stanowiska. Ekipa przy drodze potrzebowała zapasowej lampy przed zmrokiem, bo jedna z ich dwóch przestała działać. W szafce stała ta, którą sprawdzaliśmy z Voltem. Wiedziałam, że nie jest gotowa do wysłania.
 
-— Znalazłaś kogoś, kogo znała, i powiedziałaś mi o tym. To ważne. Następnym razem ustalmy też wcześniej, kto przekaże wiadomość w szkole.
+Poprosiłam dyżurnego o znalezienie maga do pełnego ładowania, a Zeta zapytałam o transport. Znalazł w wykazie wóz, który miał wyjechać po południu. Ustaliłam z pracownicą składu, że odbierze lampę i kartę po zakończeniu ładowania, niezależnie od tego, czy będę wtedy na stacji.
 
-Wyjęłam z torby zeszyt i podałam go Varek. Na tylnej okładce nadal był ślad po mące. Otrzepała go dłonią, ale nie otworzyła.
+— Nie zostaniesz? — zapytał Zet.
 
-Następnego dnia miałam rozpocząć ćwiczenia u osoby, która ładowała lampę. Przyjęła mnie jeszcze z dwiema osobami. Każda miała dostać własny czas przy urządzeniu; nikt nie obiecywał, że po pierwszym spotkaniu pozwolą nam samodzielnie obsługiwać stację.
+— Mam ćwiczenia. Jeśli wóz wyjedzie wcześniej albo mag się spóźni, dajcie znać dyżurnemu. On ma oba terminy.
 
-W drodze do sali ćwiczeń zaczepił mnie Zet. Potrzebował pomocy z torbą. Miała nową sprzączkę, ale pasek wysunął się z uchwytu.
+Zet skinął głową. Postałam jeszcze chwilę przy drzwiach, bo chciałam zobaczyć, jak doświadczony mag napełnia kryształ. Ale moje ćwiczenia zaczynały się za kwadrans. Poszłam.
 
-— Mogę ci go potrzymać — powiedziałam. — Potem idę na ćwiczenie.
+Kiedy wróciłam po zeszyt wieczorem, lampy nie było w szafce. W rejestrze znalazłam potwierdzenie odbioru. Ktoś dopisał również godzinę dostarczenia jej na miejsce.
+
+Ucieszyłam się, że zdążyli. Jeszcze bardziej ucieszyłam się z tego, że nie musiałam przy tym stać przez całe popołudniu.
+
+## Jedno miejsce więcej
+
+23 maja, 12 ET · Iglica Zerath
+
+Wieczorem przed wyjazdem trzy razy sprawdziłam torbę. Zabrałam ubrania, rękawice, pieniądze na podróż i zeszyt. Potem doszłam do wniosku, że jeden zeszyt nie wystarczy, więc włożyłam drugi. W pierwszym były przepisy, wyniki ćwiczeń i znaki używane przy odbiorniku. Drugi był prawie pusty.
+
+Rano spotkałam Varek przed stacją. Volt kończył mocować bagaż na wozie. Uzgodniliśmy wcześniej miejsce dla mnie, choć jeszcze kilka dni temu spodziewali się, że będę ich żegnać.
+
+Zet przyszedł z paczką, którą miał zanieść do składu. Pasek jego torby wysunął się z uchwytu. Pokazał mi sprzączkę, jakby liczył na to, że tym razem naprawię ją na zawsze.
+
+— Mogę ci potrzymać torbę. Potem jadę.
 
 — W takim razie sam go przewlekę.
 
-Przytrzymałam torbę, kiedy poradził sobie z paskiem. Zapytał, czy wrócę na popołudniową zmianę. Powiedziałam, że tak, i że chcę wtedy usiąść przy drugim odbiorniku. Musiałam jeszcze dużo się nauczyć, zanim pozwolą mi prowadzić całe stanowisko. Wreszcie umiałam o ten czas poprosić, zanim ktoś zdążył wypełnić go za mnie.
+Zrobił to, oddałam mu torbę i podeszłam do wozu. Varek jeszcze raz sprawdziła, czy córka ma wszystko, czego potrzebuje. Dziewczynka pomachała nam spod drzwi sąsiadki.
 
-Zet zarzucił torbę na ramię. Pożegnałam go i poszłam do sali. W kieszeni miałam zeszyt, a na ostatniej stronie trzy pytania, które chciałam dziś zadać.
+— Przywieźć ci coś? — zawołałam.
+
+— Przepis!
+
+Varek roześmiała się. Obiecałam, że poszukam.
+
+Kiedy wyjeżdżaliśmy z Iglicy, zaczęłam się zastanawiać, czy nie podjęłam tej decyzji tylko dlatego, że byłam zła. Nadal trochę zazdrościłam Varek i Voltowi. Przez ostatnie dni jednak znacznie częściej myślałam o tym, kogo mogę poznać w Val Meris, niż o dyżurach, których nie przejęłam.
+
+Chciałam spróbować swoich sił. Gdybyśmy trafili do jednej drużyny, chętnie pomogłabym znajomym z Zerath. Ale jeśli trafię do ludzi, których nie znam, też spróbuję sobie z nimi poradzić.
+
+## W kolejce
+
+28 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris
+
+Dotarliśmy do stolicy poprzedniego dnia. Varek i Volt poszli załatwiać własne sprawy, a ja znalazłam punkt zapisów. Zgłoszenia przyjmowano jeszcze tego dnia. Nie zamierzałam czekać do ostatniej chwili, chociaż po drodze zdążyłam zajrzeć na dwa stoiska z przyrządami, których nie znałam.
+
+Kolejka ciągnęła się aż do schodów. Przede mną stała kobieta z notesem i niewielką skrzynką. Co pewien czas zaglądała do środka, sprawdzając, czy nic się nie przesunęło. Za trzecim razem nie wytrzymałam.
+
+— Co masz w środku?
+
+Odwróciła się. Przez chwilę myślałam, że uznała mnie za wścibską, lecz uniosła wieko, żebym mogła zobaczyć przyrząd.
+
+— Sprawdza połączenia w urządzeniach — powiedziała. — Jeden z sygnałów pokazuje, że wynik jest niepewny. Jeszcze muszę sprawdzić mocowanie przesłony.
+
+— A jak ktoś nie zauważy, że wynik jest niepewny?
+
+Zamiast odpowiedzieć od razu, zapytała, skąd przyjechałam i gdzie pracuję. Powiedziałam jej o odbiornikach w Zerath i o znaku, który pomyliłam podczas nauki. Zainteresowała się tym, jak prosimy drugą stację o powtórzenie wiadomości. Narysowałam jej oba znaki w swoim zeszycie.
+
+— Możesz mi to jeszcze raz pokazać? — poprosiła.
+
+Pokazałam. Przerysowała oba znaki do swojego notesu, a potem zapytała, czy zajmuję się wyłącznie przekazywaniem wiadomości.
+
+— Nie. Pomagam też przy naprawach, przygotowuję karty i uczę się ładować kryształy.
+
+— Naprawiasz urządzenia?
+
+— Trochę. Zwykle z Voltem.
+
+— A kryształy potrafisz już ładować sama?
+
+— Małe i pod nadzorem. Wciąż się uczę.
+
+Zapisała coś w notesie.
+
+— A co potrafisz najlepiej?
+
+Musiałam się zastanowić. Znałam ludzi, którzy bez namysłu potrafiliby odpowiedzieć na to pytanie. Volt wiedziałby, co powiedzieć o urządzeniach. Miko zapewne znalazłby kilka odpowiedzi. Ja pomyślałam o odbiorniku, lampie i dwóch różnych sposobach wiązania paska torby Zeta.
+
+— Chyba szybko się uczę. A jeśli czegoś nie umiem, zwykle wiem, kogo o to zapytać. Pokażesz mi później, jak działa przesłona?
+
+— Chętnie. Ale najpierw muszę się zgłosić.
+
+— Ja też.
+
+Przedstawiła się jako Lena z Aurel. Kiedy podałam swoje imię, zapisała je obok narysowanych znaków. Poprosiłam, żeby dopisała również nazwę stacji, na wypadek gdyby chciała kiedyś porównać nasze sposoby przekazywania wiadomości.
+
+Kolejka ruszyła. Podeszłam do stołu za Leną i odebrałam formularz. Przy pytaniach o doświadczenie wymieniłam zarówno pracę przy odbiorniku, jak i ćwiczenia z Błyskawic. Nie wpisałam, że samodzielnie naprawiam urządzenia. Chociaż bardzo chciałabym kiedyś móc to napisać.
+
+Urzędnik przyjął formularz i wskazał mi, gdzie sprawdzić przydział do prób. Zapytałam dwa razy, żeby nie pomylić wejścia. Nie wiedziałam, czy przejdę kwalifikacje, ale przynajmniej zgłosiłam się w terminie.
+
+Lena czekała przy schodach. Chciała wiedzieć, czy znaki w moim zeszycie są takie same we wszystkich stacjach Zerath. Nie byłam pewna, więc obiecałam, że zapytam Volta i Varek.
+
+Potem otworzyła skrzynkę.
+
+— Masz chwilę? Mogę ci pokazać tę przesłonę.
+
+O tej porze na stacji zwykle przygotowywałam karty na następną zmianę. Tutaj nikt na mnie nie czekał, a do prób miałam jeszcze czas.
+
+— Mam — odpowiedziałam.
+
+Wyjęłam nowy zeszyt.
