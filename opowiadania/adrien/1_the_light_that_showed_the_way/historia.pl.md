@@ -10,13 +10,11 @@ Pierwszy prototyp wskazywał drogę z odległości, na której człowiek przesta
 
 Sprawdziłem to trzykrotnie. Poprosiłem ucznia z warsztatu, żeby stanął przy kamiennej ścianie za placem, i kazałem mu cofać się, dopóki nie przestanę widzieć jego twarzy. Potem włączyłem sygnalizator.
 
-Dwie wąskie linie przecięły kurz. Uczeń podniósł rękę.
+Dwie wąskie linie przecięły kurz. Uczeń zamachał obiema rękami.
 
 <!-- ilustracja: 01 -->
 
-— Widzę! — krzyknął.
-
-Nie słyszałem go z tej odległości, ale poruszał ustami w sposób sugerujący nadmierny entuzjazm. Wystarczyło. Zapisałem wynik.
+Poruszał przy tym ustami z nadmiernym entuzjazmem, choć z tej odległości nie słyszałem ani słowa. Wystarczyło. Zapisałem wynik.
 
 Kryształ wewnątrz przyrządu był już naładowany. Dostałem jeden do prób i polecenie, żeby oszczędzać zapas. Oczywiście. Znowu będę musiał prosić maga o doładowanie. A on znowu powie, że ma inne zajęcia i moje kryształy mogą poczekać. Szkoda tylko, że razem z nimi musi czekać mój sygnalizator.
 
@@ -66,7 +64,7 @@ Oficer spojrzał na mapę rozłożoną pod oknem. Na jednej z dróg ktoś zaznac
 
 Można było go zatrzymać. Można też było wysłać go bez sygnału. Żadna z tych decyzji nie należała do mnie, co uznałem za wygodne.
 
-Podpisałem dopuszczenie urządzenia. Lena nie podpisała protokołu próby terenowej. Tej próby nie było.
+Podpisałem dopuszczenie urządzenia, choć nie przeprowadziliśmy próby terenowej.
 
 ## Droga zamknięta
 
@@ -86,7 +84,7 @@ Urządzenie leżało przy prowizorycznym stanowisku. Skrzynia nie była rozbita.
 
 <!-- ilustracja: 05 -->
 
-Narysowałem jego położenie. Zmierzyłem odległość między końcem uchwytu a śrubą. Na jednym z ramion mocowania znalazłem ślad, który Lena zaznaczyła przed wymianą. Nowa część pękła w tym samym miejscu.
+Narysowałem położenie kryształu. Zmierzyłem odległość między końcem uchwytu a śrubą. Nowa część pękła w tym samym miejscu, w którym Lena zauważyła kreskę na poprzednim mocowaniu.
 
 Zapytałem, gdzie jest przewodnik, ponieważ chciałem ustalić, co dokładnie widział.
 

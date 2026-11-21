@@ -212,7 +212,7 @@ Oszczędność była cenna. Zanim dostarczono kryształy do tych prób, zdąży�
 
 Miko spytał kiedyś, czy zamierzam sprowadzić do Aurelu burzę. Odpowiedziałem, że gdyby potrafił zapakować jedną tak starannie jak swoje urządzenia, chętnie przyjmę dostawę.
 
-Zapisałem wyniki. Dopisałem imię Miko, zanim przypomniała mi o tym Rian. Po chwili dopisałem jej imię przy uwadze o śrubie i osobno imię Leny przy kontroli mocowań.
+Zapisałem wyniki. Dopisałem imię Miko, zanim przypomniała mi o tym Rian. Po chwili dopisałem imię Rian przy uwagach dotyczących prób, a imię Leny przy wadliwej śrubie i kontroli mocowań.
 
 Rian odłożyła narzędzia i sięgnęła po płaszcz.
 

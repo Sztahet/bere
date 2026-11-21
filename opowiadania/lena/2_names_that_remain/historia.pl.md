@@ -4,7 +4,7 @@
 
 29 listopada, 1 ET · Aurel
 
-Adrien pisze wniosek dotyczący pracy dla kobiety oskarżonej o wojenny sabotaż. Właściwie pisze go trzeci raz, bo pierwsze dwa wróciły. Zapytałam, czy robi to dla niej.
+Adrien pisze wniosek dotyczący pracy dla kobiety oskarżonej o wojenny sabotaż. Właściwie pisze go trzeci raz, bo dwa poprzednie wnioski odesłano. Zapytałam, czy robi to dla niej.
 
 — Dla moich konstrukcji.
 
@@ -22,7 +22,7 @@ Znalazła sposób zablokowania trzpienia. Adrien zapytał, kto chciałby to robi
 
 Nie była to sympatia. Raczej ulga, że ktoś jeszcze potrafi uciszyć Adriena jednym spojrzeniem.
 
-Po próbie chciałam zapytać ją o bramę. Zamiast tego zapytałam, czy uchwyt byłby bezpieczniejszy z drugą osłoną. Wyjaśniła, dlaczego sama osłona nie wystarczy. Zanim skończyła, osoba nadzorująca przypomniała o końcu czasu.
+Po próbie chciałam zapytać ją o bramę. Zamiast tego zapytałam, czy uchwyt byłby bezpieczniejszy z drugą osłoną. Zaczęła wyjaśniać, dlaczego sama osłona nie wystarczy, ale osoba nadzorująca przypomniała nam, że czas minął.
 
 Nie wiem, czy jeszcze będę chciała pytać o bramę. Nie wiem też, czy ona będzie chciała odpowiadać.
 
@@ -42,7 +42,7 @@ Sprawdziłam. Ruszało się. Ledwie, ale wystarczająco, żeby odłączyć stano
 
 Lubię ludzi, którzy zadają drugie pytanie.
 
-Lucen nie opowiadał o sobie wiele. Mniej więcej mój wiek, może trochę młodszy; uczy się pracy z mechanizmami i magii Światła. Powiedział, że widział, co się dzieje, gdy urządzenie przestaje działać prawidłowo. Wtedy chciałam zapytać gdzie. Zacisnął jednak palce na pasku torby i zabrał się do pracy, więc podałam mu śrubokręt.
+Lucen nie opowiadał o sobie wiele. Jest mniej więcej w moim wieku, może trochę młodszy; ukończył naukę magii Światła i zdobywa doświadczenie w pracy z mechanizmami. Powiedział, że widział, co się dzieje, gdy urządzenie przestaje działać prawidłowo. Wtedy chciałam zapytać, gdzie to widział. Zacisnął jednak palce na pasku torby i zabrał się do pracy, więc podałam mu śrubokręt.
 
 Może był po prostu zmęczony moimi pytaniami. To też wystarczający powód, żeby przestać.
 
@@ -50,19 +50,21 @@ Może był po prostu zmęczony moimi pytaniami. To też wystarczający powód, �
 
 Dzisiaj ktoś przyszedł do mnie, a nie do Adriena.
 
-Kiran przyjechała z Kamiennego Progu i uczy się na uniwersytecie w Aurelu. Interesuje ją inżynieria terenowa: podpory, przejścia i to, co może zawieść, zanim ktokolwiek zobaczy niebezpieczeństwo. Poznałyśmy się na pokazie prób, gdzie obejrzała moje mocowanie i zapytała, czy wytrzyma także pył wciskający się w szczeliny. Zamiast odpowiedzieć, musiałam przyznać, że jeszcze tego nie sprawdziłam.
+Kiran przyjechała z Kamiennego Progu i uczy się na uniwersytecie w Aurelu. Interesuje ją inżynieria terenowa: podpory, przejścia i to, co może zawieść, zanim ktokolwiek zobaczy niebezpieczeństwo. Poznałyśmy się na pokazie prób, gdzie obejrzała moje mocowanie i zapytała, czy wytrzyma także pył wciskający się w szczeliny. Nie umiałam odpowiedzieć. Jeszcze tego nie sprawdziłam.
 
 Teraz pracuje przy studenckim zadaniu w małym punkcie, gdzie naprawia się lampy dla okolicznych domów. Wskaźnik zapala się tam prawidłowo, ale ludzie z ulicy mylą słaby sygnał z odbiciem w szybie. Kiran zapytała, czy pomogę jej obejrzeć stanowisko. Prowadząca punkt zgodziła się na próby, jeśli nie zatrzymamy wydawania lamp na cały dzień.
 
-Poszłam z torbą tak ciężką, jakbym zamierzała wymienić cały magazyn. Kiran szukała natomiast czegoś, co da się sprawdzić bez zdejmowania szklanej osłony i bez marnowania zapasu na ciągłe świecenie. Chciała też przekonać się, czy podobny odczyt sprawdziłby się kiedyś w zapylonym przejściu; nie zamierzała jednak udawać, że próba w punkcie dowiedzie bezpieczeństwa pod ziemią.
+Poszłam z torbą tak ciężką, jakbym zabrała ze sobą cały magazyn. Kiran zależało na tym, żeby odczyt był widoczny bez zdejmowania szklanej osłony i żeby urządzenie nie zużywało energii na ciągłe świecenie. Zastanawiała się też, czy podobne rozwiązanie sprawdziłoby się kiedyś w zapylonym przejściu; nie zamierzała jednak udawać, że próba w punkcie dowiedzie bezpieczeństwa pod ziemią.
 
-Pierwszy projekt był zły. Zrobiłam dwie szczeliny dla światła: jedną wąską, drugą szeroką. Kiran zawołała sąsiada i poprosiła, żeby spojrzał z ulicy. Pomylił je obie. Przy następnej próbie przesłona miała odsłaniać znak tylko po naciśnięciu dźwigni. Znak było widać, ale dźwignia zacinała się pod pyłem.
+Pierwszy projekt był zły. Zrobiłam dwie szczeliny dla światła: jedną wąską, drugą szeroką. Kiran zawołała sąsiada i poprosiła, żeby spojrzał z ulicy. Pomylił jedną z drugą. W następnej wersji znak pojawiał się dopiero po naciśnięciu dźwigni. Znak było widać, ale dźwignia zacinała się od pyłu.
 
 — Można ją czyścić — powiedziała Kiran.
 
 — Możesz. A jeśli nie zdążysz?
 
-Usiadłyśmy na progu z częściami w fartuchu. Kiran zaproponowała większy występ, który da się poruszyć także w rękawicy. Ja dodałam sprężynę zwracającą przesłonę do położenia spoczynkowego i okienko, przez które widać, czy dźwignia rzeczywiście wróciła. Nie stworzyłyśmy nowego źródła światła. Korzystałyśmy z tego, które już było, i sprawdzałyśmy, ile energii zabiera odczyt.
+Usiadłyśmy na progu i obejrzałyśmy części. Kiran zaproponowała większy występ, który da się poruszyć także w rękawicy. Ja dodałam sprężynę zwracającą przesłonę do położenia spoczynkowego i okienko, przez które widać, czy dźwignia rzeczywiście wróciła. Nie stworzyłyśmy nowego źródła światła. Korzystałyśmy z tego, które już było, i sprawdzałyśmy, ile energii zabiera odczyt.
+
+14 sierpnia, 4 ET · Aurel
 
 Po sześciu dniach Kiran sama uruchomiła urządzenie, a sąsiad rozpoznał znak przy otwartych i zamkniętych drzwiach. Potem poprosiłam go, żeby celowo przysłonił okienko. Tym razem wskaźnik nie dawał pewnej odpowiedzi. Dopisałam to w instrukcji dużymi literami: jeśli nie widać położenia przesłony, sprawdź urządzenie, nie zgaduj.
 
@@ -84,7 +86,11 @@ Pomyliłam się co do Rian.
 
 Przy próbie odłączonego modelu długo milczała, kiedy nadzorujący przypomniał o liczeniu części. Pomyślałam, że jest jej przykro słuchać tego za każdym razem. Po zajęciach powiedziałam nadzorującemu, że mogłabym przygotować części wcześniej, żeby nie musiał liczyć przy niej.
 
-Odmówił. Następnego dnia Rian zapytała mnie przy stole, dlaczego rozmawiałam z nim o jej warunkach pracy.
+Odmówił.
+
+13 lutego, 5 ET · Aurel
+
+Rian zapytała mnie przy stole, dlaczego rozmawiałam z nim o jej warunkach pracy.
 
 — Chciałam ci oszczędzić nieprzyjemności.
 
@@ -102,7 +108,7 @@ Powiedziałam, że niczego nikomu nie powtórzyłam. To nie pomogło. Nie miała
 
 — Tak.
 
-Nie chciała wtedy rozmawiać dalej. Pracowałyśmy resztę czasu nad modelem. Wskazała wadę w moim schemacie, a ja sprawdziłam ją dwa razy, zanim przyznałam jej rację. Nie dlatego, że przestałam ufać jej umiejętnościom. Dlatego, że byłam zła na siebie i chciałam chociaż w jednym miejscu mieć rację.
+Nie chciała wtedy rozmawiać dalej. Przez resztę czasu pracowałyśmy nad modelem. Wskazała wadę w moim schemacie, a ja sprawdziłam ją dwa razy, zanim przyznałam jej rację. Nie dlatego, że przestałam ufać jej umiejętnościom. Dlatego, że byłam zła na siebie i chciałam chociaż w jednym miejscu mieć rację.
 
 3 marca, 5 ET · Aurel
 
@@ -114,13 +120,13 @@ Zapytałam Rian, czy mogę usiąść obok niej podczas przerwy. Powiedziała, ż
 
 — Teraz zapytałaś mnie, czy możesz usiąść.
 
-Nie wybaczyła mi wszystkiego jednym zdaniem. Zresztą nie o wszystko ją prosiłam. Następnego tygodnia sama powiedziała mi, jakiego narzędzia brakuje przy stanowisku. Przekazałam prośbę dopiero po tym, jak się zgodziła.
+Nie wybaczyła mi wszystkiego jednym zdaniem. Zresztą nie o wszystko ją prosiłam. W następnym tygodniu sama powiedziała mi, jakiego narzędzia brakuje przy stanowisku. Przekazałam jej prośbę dopiero wtedy, gdy się na to zgodziła.
 
 ## Ci, którzy wracają
 
 12 września, 7 ET · Aurel
 
-Adrien poprosił dzisiaj o Lucena. Konkretnie o Lucena. Sprawdziłam imię dwa razy, bo równie dobrze mógł to być dzień, w którym nauczył się chwalić bez zastrzeżeń.
+Dzisiaj Adrien poprosił mnie, żebym sprowadziła Lucena. Kazałam mu powtórzyć. Prędzej uwierzyłabym, że nauczył się chwalić bez zastrzeżeń.
 
 Lucen przyniósł szkic uchwytu. Adrien stwierdził, że go rozważy. Kiedy zapytałam o zastrzeżenia do pracy Lucena, usłyszałam, że zadaje za dużo pytań.
 
@@ -132,12 +138,12 @@ Lucen przyniósł szkic uchwytu. Adrien stwierdził, że go rozważy. Kiedy zapy
 
 Lucen był już przy drzwiach, ale widziałam, jak się uśmiechnął.
 
-7 czerwca, 9 ET · miejsce zajęć rzemieślników
+7 czerwca, 9 ET · pracownia rzemieślnicza, Aurel
 
-Rian uczy teraz młodych rzemieślników. Po zajęciach jeden z uczniów wrócił, żeby podziękować jej za cierpliwość. Powiedziała, że nie była szczególnie cierpliwa. Chłopak wskazał śrubokręt, który dostał do trzeciej próby, i odparł, że byłby jej nie oddał, gdyby naprawdę straciła cierpliwość.
+Rian uczy teraz młodych rzemieślników. Po zajęciach jeden z uczniów wrócił, żeby podziękować jej za cierpliwość. Powiedziała, że nie była szczególnie cierpliwa. Chłopak wskazał śrubokręt, który dostał do trzeciej próby, i odparł, że nie dałaby mu go, gdyby naprawdę straciła cierpliwość.
 
-Zapytałam, czy pójdzie ze mną na spacer. Przyjęła zaproszenie. Nie rozmawiałyśmy o wyroku. Rozmawiałyśmy o tym, że uczeń schował źle dopasowaną śrubę w kieszeni, a potem przez pół godziny jej szukał.
+Zapytałam Rian, czy pójdzie ze mną na spacer. Przyjęła zaproszenie. Nie rozmawiałyśmy o wyroku. Rozmawiałyśmy o tym, że uczeń schował źle dopasowaną śrubę w kieszeni, a potem przez pół godziny jej szukał.
 
 Kiedy żegnałyśmy się przy rozstaju, Rian powiedziała, że w przyszłym tygodniu kończy później. Nie wiem, czy była to propozycja następnego spaceru. Odpowiedziałam, że poczekam przy warsztacie, jeśli będzie miała ochotę. Skinęła głową.
 
-Mój notes pełen jest imion, lecz nie wszystko musi się tu znaleźć. Niektóre rozmowy zostawiam drugiej osobie. O własnej pracy będę jednak pisać nadal, nawet jeśli Adrien zbuduje jutro coś, co przyćmi wszystkie moje przesłony. Zwłaszcza wtedy.
+W notesie mam mnóstwo imion, ale nie wszystko musi się w nim znaleźć. Niektóre rozmowy zostawiam drugiej osobie. O własnej pracy będę jednak pisać nadal, nawet jeśli Adrien zbuduje jutro coś, co przyćmi wszystkie moje przesłony. Zwłaszcza wtedy.

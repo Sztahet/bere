@@ -102,7 +102,7 @@ Dziś przyniosłem poprawiony schemat. Nie pozwolono mi jej go pokazać. Będę 
 
 29 listopada, 1 ET · uniwersytet w Aurelu
 
-Nie miałem wpływu na zeznania, dowody ani wyrok. Miałem natomiast stanowisko na uniwersytecie, kilku przełożonych, którzy cenili moje projekty, oraz przekonanie, że komisja i sąd powinny poznać moje zdanie o przydatności Rian.
+Nie miałem wpływu na zeznania ani dowody. O wyroku miał zdecydować sąd. Miałem natomiast stanowisko na uniwersytecie, kilku przełożonych, którzy cenili moje projekty, oraz przekonanie, że komisja i sąd powinny poznać moje zdanie o przydatności Rian.
 
 Wniosek pisałem trzy razy. Pierwszy zwrócono mi z uwagą, że „niezwykła sprawność umysłowa” nie jest propozycją wykonania kary. W drugim wyliczyłem zadania, które mogłaby wykonywać pod nadzorem: badanie odłączonych prototypów, wskazywanie wad i udział w próbach zabezpieczeń. W trzecim dopisałem, że odbudowa pozostaje częścią jej obowiązków, a dostęp do cywilnych systemów obronnych powinien być ograniczony.
 
@@ -164,8 +164,6 @@ Zostawiłem wniosek na biurku. Wrócił z prośbą o kosztorys. Na razie wróci�
 
 Dziś wreszcie przysłali kogoś do ładowania. Jakiegoś dzieciaka. Przedstawił się jako Lucen i od razu spytał, gdzie zapisuję wyniki poprzednich prób. Przyszedł doładować kryształy, nie prowadzić dochodzenie w moim notatniku.
 
-Lena powiedziała mi później, że ma około dwudziestu lat, uczy się magii Światła i pracy z mechanizmami. Przez chwilę sądziłem, że żartuje. Sam pamiętam, jak miałem dwadzieścia lat, i z pewnością nie zadawałem tylu pytań.
-
 Kiedy Lucen ładował pierwszy kryształ, obserwował wskaźnik i zatrzymał przepływ, zanim wskazówka dotarła do kreski, którą narysowałem.
 
 <!-- ilustracja: 06 -->
@@ -212,7 +210,7 @@ Przyszedł z własnym szkicem uchwytu. Wskazał miejsce, w którym moja osłona 
 
 Gdy Lena spytała, czy mam zastrzeżenia do jego pracy, odpowiedziałem, że wciąż zadaje zbyt wiele pytań. Nie musiałem dodawać, że większość z nich warto sobie zadać.
 
-7 czerwca, 9 ET · miejsce zajęć rzemieślników
+7 czerwca, 9 ET · pracownia rzemieślnicza, Aurel
 
 Rian po odbyciu kary zaczęła uczyć młodych rzemieślników. Spotkałem ją przy stole z grupą uczniów; wyjaśniała im, dlaczego trzeba przewidzieć również ten błąd, który wydaje się niemożliwy. Podała jednemu z nich śrubokręt i czekała, aż sam znajdzie mocowanie. Trwało to bardzo długo.
 

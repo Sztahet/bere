@@ -8,7 +8,7 @@ Miko z Zerath ma płaszcz, który mógłby samodzielnie stanąć pod ścianą. P
 
 Nie przeszkadzałam im. Przez pierwsze pięć minut.
 
-Miko chciał uzyskać czytelny impuls przy mniejszym zużyciu energii. Adrien pracował nad tym samym. Porównali oba regulatory na przygotowanym stanowisku, zamienili kryształy miejscami i powtórzyli pomiar. Urządzenie Miko w tych warunkach zużyło mniej.
+Miko chciał uzyskać czytelny impuls przy mniejszym zużyciu energii. Adrien pracował nad tym samym. Porównali oba regulatory na przygotowanym stanowisku, zamienili kryształy miejscami i powtórzyli pomiar. Przy takim samym impulsie regulator Miko zużył mniej energii z kryształu.
 
 — Miałeś szczęście — powiedział Adrien.
 
@@ -16,7 +16,7 @@ Miko chciał uzyskać czytelny impuls przy mniejszym zużyciu energii. Adrien pr
 
 Miko pokazał mu kartki z wynikami. Później, gdy wyszli po części, zerknęłam na zapis pierwszych prób. Nie wyglądał jak dzieło człowieka, któremu po prostu poszczęściło się siedemnaście razy. Przy każdej zmianie zaznaczał wynik; tam, gdzie nie wiedział, co wpłynęło na pomiar, dopisywał pytanie. W jednym miejscu dopisał też, że nie powinien jeść nad rysunkami. Tu dowód był bardzo przekonujący.
 
-Poznałam Miko wcześniej przelotnie, przy jego wizycie w Aurelu, ale dopiero dzisiaj zobaczyłam go przy pracy z Adrienem. Kiedy jego regulator po kolejnych uruchomieniach zaczął drżeć, nie próbował udawać, że wszystko jest dobrze. Wyłączył zasilanie, poczekał, aż wskaźnik opadnie, i znalazł poluzowaną śrubę.
+Poznałam Miko przelotnie podczas jego wcześniejszej wizyty w Aurelu, ale dopiero dzisiaj zobaczyłam go przy pracy z Adrienem. Kiedy jego regulator po kolejnych uruchomieniach zaczął drżeć, nie próbował udawać, że wszystko jest dobrze. Wyłączył zasilanie, poczekał, aż wskaźnik opadnie, i znalazł poluzowaną śrubę.
 
 Przy obiedzie zapytałam, czy zawsze tak chętnie pokazuje innym niedokończone urządzenia.
 
@@ -24,17 +24,17 @@ Przy obiedzie zapytałam, czy zawsze tak chętnie pokazuje innym niedokończone 
 
 — I powie ci o tym.
 
-— Szczegółowo. Za to jeśli coś zadziała, będzie próbował to zrozumieć, nawet gdy udaje, że go nie obchodzi.
+— Szczegółowo. Ale jeśli coś zadziała, będzie chciał wiedzieć, dlaczego. Nawet jeśli udaje, że wynik nie zrobił na nim wrażenia.
 
-Zanotowałam wynik Miko. Przypomniał mi się piec, w którym Adrien zmienił dozowanie energii, więc dopisałam go obok. Lubię ich obu za to, że po dobrym wyniku chcą jeszcze wiedzieć dlaczego. Miko mówi o tym głośniej.
+Zanotowałam wynik Miko. Przypomniał mi się piec, w którym Adrien zmienił dozowanie energii, więc dopisałam go obok. Lubię ich obu za to, że po dobrym wyniku chcą jeszcze wiedzieć, dlaczego. Miko mówi o tym głośniej.
 
 20 kwietnia, 12 ET · Aurel
 
-Adrien poprosił mnie o sprawdzenie mocowań obu stanowisk przed kolejną próbą. W jednej śrubie znalazłam wadę i kazałam ją wymienić. Później Rian opowiedziała mi, jak Adrien przewidział nagrzewanie się małego styku pod przesłoną. Po wymianie wskazówka wracała równo, a oszczędniejszy układ nadal dawał dobry wynik.
+Adrien poprosił mnie o sprawdzenie mocowań obu stanowisk przed kolejną próbą. Znalazłam wadliwą śrubę i kazałam ją wymienić. Później Rian opowiedziała mi, jak Adrien przewidział nagrzewanie się małego styku pod przesłoną. W kolejnej próbie wskazówka wracała równo, a oszczędniejszy układ nadal dawał dobry wynik.
 
-Zapisałam to tutaj. Adrien zasługuje na własny wiersz w moim notesie, choć zapewne zapytałby, dlaczego tak mało miejsca.
+Zapisałam to tutaj. Adrien zasługuje na osobną linijkę w moim notesie, choć zapewne zapytałby, dlaczego tak mało miejsca.
 
-Wieczorem zastałam go nad listem i dwoma szkicami. Organizatorzy Wielkich Igrzysk zaprosili go jako konsultanta. Wiedziałam, że coś z tego wyniknie, zanim zobaczyłam formularz zgłoszenia.
+Wieczorem zastałam go nad listem i dwoma szkicami. Organizatorzy Wielkich Igrzysk zaprosili go jako konsultanta. Obok listu leżał formularz zgłoszenia.
 
 — To odpowiedź na zaproszenie? — zapytałam.
 
@@ -46,7 +46,7 @@ Rozłożył formularz. Spytałam, czy chce pomóc rozwiązać spór.
 
 — To dużo prostsza odpowiedź.
 
-Wpisał imię. Jeden z przyrządów na szkicu miał pomagać sojuszniczej wieży, drugi zakłócać mechanizm przeciwnika. Na razie były kreskami na papierze. Znałam go jednak na tyle, by wiedzieć, że jutro będzie potrzebował stołu, pojutrze kryształów, a trzeciego dnia kogoś, kto przypomni mu o jedzeniu.
+Wpisał imię. Jeden z przyrządów na szkicu miał pomagać sojuszniczej wieży, drugi zakłócać mechanizm przeciwnika. Na razie istniały tylko na papierze. Znałam go jednak na tyle, by wiedzieć, że jutro będzie potrzebował stołu, pojutrze kryształów, a trzeciego dnia kogoś, kto przypomni mu o jedzeniu.
 
 Nie śmiałam się z jego zgłoszenia. Widziałam, co potrafi zbudować. Chciałam tylko, żeby ci, którzy zobaczą urządzenia, wrócili potem do domu.
 
@@ -58,13 +58,11 @@ Prototyp Adriena zadziałał na odłączonym modelu mechanizmu kierującego. Zap
 
 — Ostatnim razem, kiedy dopuściłem urządzenie bez wystarczających prób, ktoś zginął.
 
-Pamiętałam dzień przy mapie równie dokładnie jak on, a mimo to przez chwilę nie mogłam znaleźć odpowiedzi.
+Przypomniał mi się oficer pochylony nad mapą i pęknięty uchwyt, który Adrien przywiózł po wypadku. Przez chwilę żadne z nas się nie odezwało.
 
-— Dobrze — powiedziałam w końcu, kiedy obiecał sprawdzić urządzenie przed użyciem.
+— Sprawdzę urządzenie, zanim ktokolwiek go użyje — powiedział Adrien.
 
-— Oczywiście, że dobrze. To mój projekt.
-
-Ten człowiek nawet odpowiedzialność potrafi wypowiedzieć tak, jakby odbierał nagrodę. Może właśnie dlatego łatwiej nam było wrócić do pracy.
+Skinęłam głową. Wzięłam rysunek i przyjrzałam się mocowaniu.
 
 Później poprosił mnie o dodatkową kontrolę. Nie o przytrzymanie obudowy ani sprawdzenie rachunków, tylko o niezależną ocenę projektu. Wyszłam z rysunkami pod pachą i długo stałam na schodach. Wciąż żałuję, że potrzebowaliśmy tragedii, by nauczyć się zadawać niektóre pytania. Doceniam, że teraz je zadaje.
 
@@ -72,9 +70,9 @@ Później poprosił mnie o dodatkową kontrolę. Nie o przytrzymanie obudowy ani
 
 Kiran znów jest w Aurelu. Przyjechała z Kamiennego Progu na krótki cykl zajęć i prób związanych z inżynierią terenową; później zamierza wrócić do swojej pracy. Poszłyśmy razem zobaczyć punkt naprawy lamp, gdzie przed laty pomagałyśmy przy wskaźniku. Nadal działa, choć ktoś wymienił w nim dźwignię na większą. Pochwaliłam zmianę, a Kiran przypomniała mi, że sama zaproponowała większy występ w pierwszym projekcie. Rzeczywiście. Na szczęście zapisałyśmy to na formularzu.
 
-Opowiedziałam Kiran o moim nowym projekcie. Noszę przy pasie mały przyrząd diagnostyczny: kryształ, przesłonę i wskaźnik. Pozwala sprawdzić, czy zasilanie dociera do styku; kiedy trzeba, kieruję w układ krótki impuls Światła, żeby rozróżnić brak zapasu od przerwy w połączeniu. Przyrząd nie naprawia niczego sam. Trzeba wiedzieć, gdzie go przyłożyć, a każdy pomiar kosztuje trochę energii.
+Opowiedziałam Kiran o moim nowym projekcie. Noszę przy pasie mały przyrząd diagnostyczny: kryształ, przesłonę i wskaźnik. Pozwala sprawdzić, czy zasilanie dociera do styku; kiedy trzeba, uruchamiam krótki impuls Światła z kryształu i kieruję go do badanego układu, żeby rozróżnić brak zapasu od przerwy w połączeniu. Przyrząd nie naprawia niczego sam. Trzeba wiedzieć, gdzie go przyłożyć, a każdy pomiar kosztuje trochę energii.
 
-Chciałabym rozwinąć go do pracy w ruchu. Nie dla widoku błysków. Na drodze albo w labiryncie ktoś może potrzebować kilku chwil, żeby odłączyć wadliwy mechanizm lub znaleźć bezpieczne przejście. Jeśli potrafię pokazać stan styku i dać wyraźny sygnał drugiej osobie, może nie będzie musiała wybierać w ciemno.
+Chciałabym go przerobić tak, żeby można go było używać w terenie. Na drodze albo w labiryncie nie zawsze da się stanąć przy mechanizmie we dwoje. Chcę sprawdzić styk i przekazać wynik osobie, która czeka dalej. Nie powiem jej w ten sposób, czy cała droga jest bezpieczna, ale może pomogę jej zdecydować, co zrobić z mechanizmem.
 
 Kiran zapytała, czy przyrząd ma działać także wtedy, gdy go upuszczę.
 
@@ -90,33 +88,33 @@ Pękła osłona.
 
 4 maja, 12 ET · hala ćwiczeń, Aurel
 
-Poprosiłam o użyczenie stanowiska prób przy hali, w której ćwiczą kandydaci. Zgodził się opiekun obiektu, pod warunkiem że nie będziemy podłączać prototypów do działających zabezpieczeń hali. Słusznie. Przygotowaliśmy oddzielny model, własny zapas i ręczne odłączenie.
+Poprosiłam o użyczenie stanowiska prób przy hali, w której ćwiczą kandydaci. Zgodził się opiekun obiektu, pod warunkiem że nie będziemy podłączać prototypów do działających zabezpieczeń hali. Słusznie. Przygotowaliśmy oddzielny model, własny zapas energii i ręczny wyłącznik.
 
 Miko przywiózł poprawiony regulator. Rian zgodziła się obejrzeć plan po zajęciach, a Lucen miał pomóc nam porównać próby z różnym zapasem w kryształach. Zaprosiłam Kiran ze względu na jej doświadczenie z przejściami i pracą w terenie. Przyszła z torbą jedzenia i szkicem podpory, który chciała później omówić na zajęciach. Zapytała, czy na pewno przyda mi się bardziej niż jeszcze jeden mag.
 
-Przydała się. Kiedy pokazałam jej oznaczenia na obudowie, odwróciła przyrząd i wskazała, że dłoń w rękawicy zasłoni oba. Spytała też, czy osoba idąca w zapylonym przejściu będzie mogła odróżnić sygnał od odbicia.
+Przydała się. Kiedy pokazałam jej oznaczenia na obudowie, odwróciła przyrząd i zauważyła, że dłoń w rękawicy zasłoni oba oznaczenia. Spytała też, czy osoba idąca w zapylonym przejściu będzie mogła odróżnić sygnał od odbicia.
 
 Zanim ustawiliśmy model, Kiran uklękła przy kamiennej płycie toru. Przyłożyła do niej dłoń i poprowadziła odrobinę magii Ziemi; cienka warstwa pyłu drgnęła przy krawędzi. Płyta lekko się poruszyła, kiedy nacisnęła ją drugi raz.
 
 — Tu trzeba podłożyć klin. Nie wiem, co jest głębiej, ale na tym brzegu stanowisko będzie się chwiać.
 
-Sprawdziliśmy krawędź ręcznie, a potem unieruchomiliśmy płytę. Kiran zapisała, co zauważyła; nie próbowała z jednej próby wywnioskować stanu całego toru.
+Sprawdziliśmy krawędź ręcznie, a potem unieruchomiliśmy płytę. Kiran zapisała, co zauważyła.
 
-Przy pierwszej próbie mój sygnał był wyraźny, dopóki stałam obok modelu. Kiedy przeszłam na drugi koniec toru, jasne odbicie od metalowej osłony zlało się z oznaczeniem. Kiran podniosła rękę na znak, że nie widzi wyniku. Nie uruchomiliśmy kolejnej części próby.
+Przy pierwszej próbie mój sygnał był wyraźny, dopóki stałam obok modelu. Kiedy przeszłam na drugi koniec toru, jasne odbicie od metalowej osłony zlało się z oznaczeniem. Kiran podniosła rękę na znak, że nie widzi wyniku. Przerwaliśmy próbę.
 
-Zmieniłam kąt przesłony. Pomogło z jednej strony, pogorszyło z drugiej. Miko zaproponował, żebyśmy nie zwiększali mocy sygnału, tylko zmienili jego kształt. Przyniósł kawałek własnej osłony. Lucen sprawdził, czy krótki impuls nadal daje odczyt przy mniejszym zapasie. Rian zapytała, co się stanie, gdy mój wskaźnik utknie między położeniami.
+Zmieniłam kąt przesłony. Z jednej strony sygnał było widać lepiej, z drugiej — gorzej. Miko zaproponował, żebyśmy nie zwiększali mocy sygnału, tylko zmienili jego kształt. Przyniósł kawałek własnej osłony. Lucen sprawdził, czy krótki impuls nadal daje odczyt przy mniejszym zapasie. Rian zapytała, co się stanie, gdy mój wskaźnik utknie między położeniami.
 
 — Wtedy go poprawię — powiedziałam.
 
 — A osoba po drugiej stronie będzie wiedziała, że masz zły odczyt?
 
-Nie będzie. Dopisałam trzeci znak: niepewny wynik. Żadnego zgadywania, tak jak przy dawnym wskaźniku w punkcie napraw.
+Nie będzie. Dopisałam do projektu trzeci znak: niepewny wynik. Musiałam jeszcze sprawdzić, jak go pokazać, jeśli wskaźnik się zatnie.
 
 Pracowaliśmy do wieczora i nadal nie mieliśmy przyrządu gotowego na arenę. Mieliśmy za to trzy strony wyników i listę rzeczy, które należy zmienić. Miko chciał od razu poprawiać przesłonę, ale Rian przypomniała, że obiecał sprawdzić własne mocowanie po uderzeniu. Nie obraził się. Zabrał swój regulator do stołu.
 
 Gdy zostaliśmy z Lucenem sami przy modelu, podziękowałam mu za porównanie kryształów.
 
-— Zapytałaś, czy mam czas, zanim go zaplanowałaś — powiedział. — To pomaga.
+— Zapytałaś, czy mam czas, zanim zaplanowałaś mój udział — powiedział. — To pomaga.
 
 Zastanawiam się, ile razy zapomniałam o tym wobec innych, bo wydawało mi się, że wspólna praca musi ich cieszyć tak samo jak mnie.
 
@@ -134,25 +132,25 @@ Kupiłyśmy po bułce na drogę. Kiran opowiedziała mi jeszcze o podróżnym, k
 
 9 maja, 12 ET · Aurel
 
-Urządziliśmy próbę przejścia na pustym torze ćwiczebnym. Kiran została przy ręcznym wyłączniku modelu, Lucen przy odłączanym zasilaniu, a ja z przyrządem po drugiej stronie przesłony. Zadanie było proste tylko na papierze: sprawdzić styk, przekazać wynik i pozwolić drugiej osobie zdecydować, czy można przejść.
+Urządziliśmy próbę na pustym torze ćwiczebnym. Stałam przy modelu z przyrządem, a Kiran czekała dalej, przy ręcznym wyłączniku. Lucen nadzorował zasilanie. Miałam sprawdzić styk i przekazać Kiran wynik światłem. Umówiłyśmy się, że jeśli wynik będzie niepewny, odłączy model.
 
-Za pierwszym razem pokazałam sygnał zbyt wcześnie. Uchwyt był luźny, ale nacisk mojej sondy na moment przywrócił połączenie. Lucen zatrzymał się, bo widział, że wskazówka drga. Musieliśmy powtórzyć próbę.
+Za pierwszym razem pokazałam sygnał zbyt wcześnie. Kiedy słabiej nacisnęłam sondą, wskazówka opadła. Docisnęłam ją ponownie, a wskazówka się podniosła. Sondą dociskałam poluzowany uchwyt, na chwilę przywracając połączenie. Zawołałam do Kiran, żeby zaczekała, i powtórzyłyśmy próbę.
 
-Byłam zła. Najpierw na uchwyt, potem na siebie. Kiran podała mi wodę i zapytała, co właściwie chciałam zmierzyć. Zaczęłam tłumaczyć konstrukcję, lecz przerwała.
+Byłam zła. Najpierw na uchwyt, potem na siebie. Kiran podeszła do mnie i podała mi wodę.
 
-— Co chcesz powiedzieć człowiekowi, który czeka za zakrętem?
+— Co właściwie sprawdziłaś? — zapytała.
 
-— Czy może przejść.
+— Że styk przewodził, kiedy dociskałam go sondą.
 
-— Czy ty wiesz, że może?
+— A kiedy przestałaś?
 
-Nie wiedziałam. Wiedziałam tylko, że przez moment był styk. Zmieniłam więc kolejność: najpierw sprawdzenie bez nacisku, potem krótki impuls, następnie odczyt po odjęciu sondy. Jeśli połączenie znów zanikało, pokazywałam znak niepewności. To trwało dłużej. Za to druga osoba dostawała uczciwą odpowiedź.
+Wskazałam opadniętą wskazówkę. Przy następnej próbie poruszyłam sondą i sprawdziłam, czy odczyt utrzymuje się bez mocnego nacisku. Jeśli się zmieniał, pokazywałam znak niepewnego wyniku.
 
-W kolejnej próbie Rian celowo poluzowała część modelu, nie mówiąc mi którą. Znalazłam wadliwy styk. Skierowałam światło przez wąską przesłonę, a Kiran zobaczyła umówiony znak i odłączyła stanowisko. Lucen podszedł dopiero po potwierdzeniu. Wymieniliśmy uchwyt i przeprowadziliśmy całą próbę ponownie.
+W kolejnej próbie Rian celowo poluzowała część modelu, nie mówiąc mi, którą. Przy jednym ze styków wskazówka opadła, gdy zmniejszyłam nacisk na sondę. Skierowałam światło przez wąską przesłonę i pokazałam znak niepewnego wyniku. Kiran odłączyła model. Znaleźliśmy luźny uchwyt, wymieniliśmy go i przeprowadziliśmy próbę ponownie.
 
-Mój nadgarstek bolał od utrzymywania krótkich impulsów. Przyrząd miał własny zapas, ale prowadzenie Światła wymagało ode mnie skupienia. Po kilku powtórzeniach musiałam odpocząć i doładować kryształ. Na szczęście tutaj był bardzo mały kryształ, z mocniejszym musiałabym poprosić o pomoc Lucena. Sygnał działał tylko tam, gdzie można go było zobaczyć. Nie chronił nikogo przed uderzeniem i nie zastępował naprawy.
+Po kilku powtórzeniach potrzebowałam przerwy, a zapas w krysztale był już niewielki. Poprosiłam Lucena o pomoc z ładowaniem. Sygnał działał tylko tam, gdzie można go było zobaczyć; za zakrętem, który całkiem zasłaniał światło, nie przydałby się nikomu.
 
-Mimo to, kiedy Lucen przeszedł tor po ostatniej próbie, poczułam tę samą radość co przy szóstym obciążeniu mocowania przed laty. Tym razem mogłam się nią podzielić przy stole pełnym ludzi.
+Mimo to, kiedy Lucen przeszedł tor po ostatniej próbie, ucieszyłam się tak samo jak przed laty, gdy moje mocowanie wytrzymało szóstą próbę. Tym razem mogłam podzielić się radością z pozostałymi.
 
 Rian nie pochwaliła od razu wyniku. Zapytała, co się stanie, jeśli zabraknie mi sił w połowie odczytu. Pokazałam jej, że przesłona wraca wtedy do znaku niepewności. Sprawdziła to sama. Dopiero potem powiedziała:
 
@@ -198,9 +196,9 @@ To również zapisałam.
 
 Kiedy wychodziłam, sięgnął do kieszeni po mały notes. Dawniej zapytałabym, co pisze. Przez lata zauważyłam, że wyciąga go wtedy, kiedy coś naprawdę zwróci jego uwagę: wynik próby, czyjaś uwaga albo błąd, do którego chce wrócić. Nie wiem, co napisał tym razem. Wystarczyło mi, że sięgnął po notes, patrząc na mój projekt. Zamknęłam za sobą drzwi.
 
-28 maja, 12 ET · pracownia Adriena
+28 maja, 12 ET · pracownia Adriena, Aurel
 
-Dzisiaj kończyły się zgłoszenia. Wiedziałam o tym od tygodnia, ale dopiero po południu dotarło do mnie, że kartka z terminem nie zmieni się w formularz tylko dlatego, że będę na nią patrzeć.
+Dzisiaj kończyły się zgłoszenia. Od tygodnia patrzyłam na kartkę z terminem, ale wciąż nie zdecydowałam, czy chcę wziąć udział w Igrzyskach.
 
 Adrien stał przy stole i objaśniał mi kolejną zmianę w swoim urządzeniu. Zadałam dwa pytania o mocowanie i jedno o to, czy naprawdę chce sprawdzić nowy układ tuż przed kwalifikacjami.
 
@@ -220,12 +218,12 @@ Spojrzał na mnie, potem na mój przyrząd leżący obok jego rysunków.
 
 Nie wiem, czy próbował mnie zachęcić, czy po prostu chciał wrócić do pracy. Być może jedno i drugie. Poszłam po formularz.
 
-W drodze zastanawiałam się, czy naprawdę chcę biec na zgłoszenia tylko po to, żeby pilnować Adriena. Nie. Poradzi sobie bez tego, a ja nie mam żadnej pewności, że trafimy do jednej drużyny. Ale chciałam być tam, gdzie pracują ludzie z różnych krain, sprawdzić swoje umiejętności i przekonać się, co mój przyrząd potrafi w ich rękach. Od tygodni szukałam dla niego miejsca poza warsztatem. Chyba szukałam go też dla siebie.
+W drodze zastanawiałam się, czy naprawdę chcę się zgłosić tylko po to, żeby pilnować Adriena. Nie. Poradzi sobie bez tego, a ja nie mam żadnej pewności, że trafimy do jednej drużyny. Ale chciałam być tam, gdzie pracują ludzie z różnych krain, sprawdzić swoje umiejętności i przekonać się, co mój przyrząd potrafi w ich rękach. Od tygodni szukałam dla niego miejsca poza warsztatem. Chyba szukałam go też dla siebie.
 
 Dotarłam przed zamknięciem. Ręka trochę mi drżała, kiedy wpisywałam imię. Oddałam formularz i dopiero na schodach przypomniałam sobie, że nie zapytałam osoby przyjmującej zgłoszenia o jej imię. Jutro spróbuję je poznać, jeśli jeszcze ją spotkam.
 
 Nie wiem, czy mój przyrząd zostanie dopuszczony ani czy przejdę kwalifikacje. Cieszę się, że dotarłam przed zamknięciem. A jeśli kiedyś znajdę się z Adrienem przy jednym stole na arenie, nadal zamierzam mieć na niego oko.
 
-W notesie mam imiona ludzi, których nie chcę zapomnieć, oraz wyniki ich pracy. Dzisiaj na następnej stronie napisałam swoje. Pod nim: sprawdzić przesłonę po uderzeniu; zapytać o zasady dopuszczenia; zabrać zapasową sprężynę.
+W notesie mam imiona ludzi, których nie chcę zapomnieć, oraz wyniki ich pracy. Dzisiaj na następnej stronie napisałam swoje. Pod moim imieniem: sprawdzić przesłonę po uderzeniu; zapytać o zasady dopuszczenia; zabrać zapasową sprężynę.
 
 I jeszcze jedno: spróbować.

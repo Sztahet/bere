@@ -22,7 +22,7 @@ Wrócił później. Wieża w pobliskiej osadzie przestała działać po tym, jak
 
 Powiedział. Zabrałam narzędzia. W drodze pytałam o zasilanie, dostęp do obudowy i to, czy ktoś próbował uruchomić wieżę od czasu awarii. Odpowiadał szybko, jakby każda odpowiedź mogła nas przybliżyć do osady. Nie zapytałam wtedy, czy ktoś zginął. Bałam się odpowiedzi i wiedziałam, że niezależnie od niej pojedziemy dalej.
 
-Przy urządzeniu pracowały już inne osoby. Pokazałam im, co chłopak zrobił, i gdzie należy sprawdzić mechanizm. Nie wszystko dało się rozpoznać z jego opisu. Jeden z rzemieślników nie pozwolił mi dotknąć zasilania; powiedziałam mu, czego szukać, a on sprawdził sam.
+Przy urządzeniu pracowały już inne osoby. Pokazałam im, co chłopak zrobił i gdzie należy sprawdzić mechanizm. Nie wszystko dało się rozpoznać z jego opisu. Jeden z rzemieślników nie pozwolił mi dotknąć zasilania; powiedziałam mu, czego szukać, a on sprawdził sam.
 
 <!-- ilustracja: 05 -->
 
@@ -82,7 +82,7 @@ Wskazałam osłonę wymienioną przed moim przybyciem. Dwóch członków komisji
 
 10 października, 1 ET · sala komisji, wieczór
 
-Podczas przerwy podszedł do mnie mężczyzna ze szkicem. Przy osobie prowadzącej przesłuchanie rozłożył go na stole.
+Podczas przerwy podszedł do mnie mężczyzna ze szkicem. W obecności osoby prowadzącej przesłuchanie rozłożył go na stole.
 
 — Chcę wiedzieć, jak by je pani wyłączyła.
 
@@ -198,8 +198,8 @@ Umówiliśmy się na przyszły tydzień pod warunkiem, że przyniesie poprzednie
 
 Chłopak w końcu znalazł właściwe położenie. Uśmiechnęłam się, zanim zdążyłam to powstrzymać. Widziałam jego skupienie i tę chwilę, kiedy przestał zgadywać, a zaczął rozumieć.
 
-Po zajęciach poprosił o dodatkową kartkę. Wskazałam dwa ołówki na stole. Jednym zaznaczył miejsce, w którym można unieruchomić mechanizm. Drugim narysował niezależne odcięcie. Pierwszą poprawkę zrobiłam mu ja, drugą znalazł sam.
+Po zajęciach poprosił o dodatkową kartkę. Wskazałam dwa ołówki na stole. Pierwszym zaznaczył miejsce, w którym wcześniej pokazałam mu, jak można unieruchomić mechanizm. Drugim narysował niezależne odcięcie, które znalazł sam.
 
 <!-- ilustracja: 06 -->
 
-Nie wszystkie moje dawne decyzje doprowadziły do tej chwili. Nie wolno mi tak układać rachunku, jakby śmierć za bramą była ceną za dzisiejszą lekcję. Chłopak zabrał projekt do sprawdzenia. Ja zostałam, żeby policzyć narzędzia.
+Nie wolno mi tak układać rachunku, jakby śmierć za bramą była ceną za dzisiejszą lekcję. Chłopak zabrał projekt do sprawdzenia. Ja zostałam, żeby policzyć narzędzia.
