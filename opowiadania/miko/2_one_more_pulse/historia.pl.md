@@ -8,7 +8,7 @@ Varek, która prowadziła brygadę przekaźników, postawiła przede mną lampę
 
 — Trzy błyski znaczą „możecie wracać” — powiedziała. — Jeśli ekipa zobaczy tylko jeden, musi zostać na miejscu i czekać, aż powtórzymy cały znak.
 
-Varek chciała, żeby lampa działała na tym, co zostawało w krysztale pod koniec zmiany. Poprosiła mnie też o obudowę, którą da się otworzyć w rękawicach. Według mojego pierwszego rysunku przy odkręcaniu pokrywy trzeba by przytrzymać nakrętkę od spodu. Varek położyła rękawice na stole. Wsunąłem je i spróbowałem podnieść ze stołu taką nakrętkę. Wypadła mi z palców. Skreśliłem mocowanie.
+Varek chciała, żeby lampa działała na tym, co zostawało w krysztale pod koniec zmiany. Poprosiła mnie też o obudowę, którą da się otworzyć w rękawicach. Według mojego pierwszego rysunku przy odkręcaniu pokrywy trzeba by przytrzymać nakrętkę od spodu. Varek położyła rękawice na stole. Założyłem je i spróbowałem podnieść taką nakrętkę. Wypadła mi z palców. Skreśliłem mocowanie.
 
 Przy pierwszych trzech ustawieniach regulatora lampa zużywała większość zapasu na pierwszy błysk. Przesunąłem cewkę. Pierwszy błysk stał się krótszy, a z końca przejścia dało się policzyć wszystkie trzy. Wysłałem Adrienowi tabelę. Odpisał, żebym zaznaczył, ile energii miał kryształ przed każdą próbą. Musiałem zajrzeć do dwóch innych kartek, żeby mu odpowiedzieć. Od następnej próby zapisywałem to w tej samej tabeli.
 
@@ -48,7 +48,7 @@ Czekaliśmy, aż obudowa ostygnie.
 
 — Do złego przewodu.
 
-Varek wskazała białą opaskę na przewodzie, który wciąż leżał na stole. Widziałem go także ze swojego miejsca. Po prostu sięgnąłem po pierwszy, jaki miałem pod ręką. Kiedy spróbowałem zapisać wynik, ołówek zaczął stukać o blat. Odłożyłem go i poczekałem, aż palce przestaną mi drżeć.
+Varek wskazała białą opaskę na przewodzie, który wciąż leżał na stole. Widziałem go także ze swojego miejsca. Po prostu sięgnąłem po pierwszy, jaki miałem pod ręką. Przez chwilę patrzyłem na białą opaskę przewodu, którego nie wybrałem. Potem sięgnąłem po kartę wyników.
 
 Zapisałem, że dotarłem do stołu na czas i podłączyłem zły przewód. Przy następnej próbie miałem najpierw poszukać białej opaski, a dopiero wtedy sięgnąć po przewód.
 

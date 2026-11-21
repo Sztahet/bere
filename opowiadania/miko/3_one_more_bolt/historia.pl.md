@@ -24,7 +24,7 @@ Odebrałem regulator od Adriena i na próbę u Leny przywiozłem go już z popra
 
 Chciałem od razu poprawić przesłonę. Rian przypomniała mi, że obiecałem sprawdzić, czy śruby regulatora trzymają po próbie uderzeniowej. Zabrałem go do stołu. Jedna śruba się nie ruszyła. Drugą dokręciłem o ćwierć obrotu i zapisałem to w tabeli, żeby mieć z czym porównać następny wynik.
 
-Wieczorem wysłałem Varek wyniki porównania regulatorów. Dołożyłem rysunek przesłony, którą wypróbowaliśmy u Leny. Jeśli odbicia przeszkadzają też na stacji, mogła zamontować taką samą i sprawdzić, czy z końca przejścia widać wszystkie trzy błyski na powrót.
+Wieczorem wysłałem Varek wyniki porównania regulatorów. Dołożyłem rysunek przesłony, którą wypróbowaliśmy u Leny. Jeśli odbicia przeszkadzają też na stacji, Varek będzie mogła zamontować taką samą przesłonę i sprawdzić, czy z końca przejścia widać wszystkie trzy błyski sygnału powrotu.
 
 ## Imię na formularzu
 
@@ -52,7 +52,7 @@ Rozumiałem, czemu Taren chciał załatwić sprawę u siebie. W mojej brygadzie 
 
 Przy wymiarach części Taren miał zapisane ciśnienie, pod jakim pracują jego pompy. Przed zakupem chciał się upewnić, że nowe części je wytrzymają. Pożyczyłem od niego ołówek. Na swoim kwicie zapisałem, o co zapytam przy następnym zamówieniu. Przy jakim obciążeniu sprawdzili to mocowanie?
 
-Przy zapisach wisiało Porozumienie Val Meris. Krainy nie doszły do zgody w sprawie nadzoru nad splotytem, kryształem, z którego zasilaliśmy przekaźniki. Podpisały więc oba warianty i zobowiązały się wprowadzić ten, który wygra Wielkie Igrzyska. Żeby pomóc którejś stronie, trzeba było przejść kwalifikacje. Punkty zdobyte później w meczach miały się liczyć dla wybranego przez zawodnika wariantu.
+Przy zapisach wisiało Porozumienie Val Meris. Krainy nie potrafiły uzgodnić, kto ma nadzorować splotyt, więc o wyborze jednego z dwóch wariantów miały rozstrzygnąć Wielkie Igrzyska. Każdy zawodnik musiał wskazać, na który wariant będą pracować zdobyte przez niego punkty.
 
 Przeczytałem jeszcze raz ustęp o wspólnym nadzorze. Rada nadal ustalałaby zasady prób i dopuszczania splotytu do użytku. Musiałaby uzasadniać decyzje, a krainy mogłyby się od nich odwołać. Wolałem, żeby po obu stronach granicy badano kryształ i jego mocowanie w ten sam sposób. Następnym razem nasz dyżurny mógłby przy odbiorze sprawdzić wynik próby i od razu rozstrzygnąć, czy wolno uruchomić przekaźnik.
 
@@ -62,9 +62,9 @@ Wpisałem Zerath i wspólny nadzór Rady. Urzędnik zapytał, czy przyniosę na 
 
 Pierwsze dni kwalifikacji, 12 ET · Val Meris
 
-Sędzia sprawdził mocowanie cewki i dopuścił ją do próby. Przy modelu śluzy mnie przypadło przełożyć przewód za przegrodą. Thora miała trzymać dźwignię w połowie drogi. Gdy wtyk znajdzie się w gnieździe, mogła pociągnąć dźwignię do końca i wysłać sygnał na drugą stronę. Mieliśmy jedną szansę w każdym podejściu. Jeśli pociągnie przy odłączonym przewodzie, sygnał przepadnie. Trzecia osoba pilnowała czasu. Kiedy wskazówka opadnie do kreski, miała zawołać, a Thora puścić dźwignię.
+Sędzia sprawdził mocowanie cewki i dopuścił ją do próby. Przy modelu śluzy mnie przypadło przełożyć przewód za przegrodą. Thora miała trzymać dźwignię w połowie drogi. Dopiero po włożeniu wtyku do gniazda Thora mogła pociągnąć dźwignię do końca i wysłać sygnał na drugą stronę. Mieliśmy jedną szansę w każdym podejściu. Jeśli pociągnie przy odłączonym przewodzie, sygnał przepadnie. Trzecia osoba pilnowała czasu: miała zawołać przy kresce na wskaźniku, a Thora — natychmiast puścić dźwignię.
 
-Powiedziałem „zaraz wracam”, wyzwoliłem impuls i obiegłem przegrodę. Znalazłem właściwy przewód. Zaczęły mi drżeć palce i wtyk ześlizgnął się po krawędzi gniazda. Usłyszałem wołanie ze stanowiska obok, a potem stuk puszczonej dźwigni. Wycofałem rękę i wróciłem do Thory.
+Powiedziałem „zaraz wracam”, wyzwoliłem impuls i obiegłem przegrodę. Znalazłem właściwy przewód. Próbowałem wsunąć wtyk zbyt szybko. Ześlizgnął się po krawędzi gniazda. Usłyszałem wołanie ze stanowiska obok, a potem stuk puszczonej dźwigni. Wycofałem rękę i wróciłem do Thory.
 
 — Myślałem, że zdążę — powiedziałem. — Długo czekałaś?
 
@@ -78,7 +78,7 @@ Przy przegrodzie stuknąłem dwa razy w deskę.
 
 — A jak zawołają, puszczam. Nawet jeśli zaraz potem stukniesz.
 
-Zaczekałem, aż dłoń przestanie drżeć. Przy drugim podejściu znowu użyłem impulsu. Za przegrodą oparłem nadgarstek o obudowę i wsunąłem wtyk. Stuknąłem dwa razy. Usłyszałem, jak dźwignia dobija do oporu. Lampka po mojej stronie rozbłysła. Zdążyliśmy przed kreską. Kiedy cofnąłem rękę, światło na moment przygasło. Sędzia zakończył próbę i zanotował wynik.
+Przed drugim podejściem sprawdziłem położenie gniazda. Znowu użyłem impulsu. Za przegrodą oparłem nadgarstek o obudowę i wsunąłem wtyk. Stuknąłem dwa razy. Usłyszałem, jak dźwignia dobija do oporu. Lampka po mojej stronie rozbłysła. Zdążyliśmy przed kreską. Kiedy cofnąłem rękę, światło na moment przygasło. Sędzia zakończył próbę i zanotował wynik.
 
 Na karcie oba czasy dobiegnięcia do przegrody były prawie takie same. Przy drugiej próbie dopisałem, po czym Thora wiedziała, kiedy pociągnąć dźwignię.
 

@@ -16,13 +16,13 @@ Adrien stanął na drugim końcu stołu. Odstawiłem szpadę pod ścianę i wł�
 
 Gdy Adrien zapisywał wynik pierwszej próby, prawą ręką przytrzymałem obudowę, a lewą pchnąłem blaszkę w bok. Zacisk puścił i blaszka zaczęła spadać. W tej samej chwili iskra z obudowy przeskoczyła mi na prawą dłoń. Puściłem lampkę i odruchowo chwyciłem blaszkę, nim dotknęła stołu. Poczułem szarpnięcie w ramieniu. Ostra krawędź rozcięła mi palec.
 
-Adrien wyłączył lampkę. Położyłem blaszkę na stole. Prawa dłoń wciąż mi drżała.
+Adrien wyłączył lampkę. Położyłem blaszkę na stole. Spojrzałem na rozcięty palec, a potem na blaszkę. Zdążyłem.
 
 — Widziałeś, jak szybko ją złapałem?
 
 — Podniosłem głowę, kiedy już ją trzymałeś. Pokaż palec.
 
-Adrien owinął mi palec bandażem. Pokazałem mu, gdzie trzymałem prawą rękę, gdy blaszka wypadła. Żeby ją złapać, musiałem sięgnąć z boku lampki aż przed nią. Przy szermierce wiedziałem, ile czasu zajmuje mi taki ruch. Teraz wydał mi się o wiele krótszy.
+Adrien owinął mi palec bandażem. Pokazałem mu, gdzie trzymałem prawą rękę, gdy blaszka wypadła. Żeby ją złapać, musiałem sięgnąć z boku lampki aż przed nią. Z treningów szermierki wiedziałem, ile zwykle zajmuje mi taki ruch. Teraz wydał mi się o wiele krótszy.
 
 — Myślisz, że to przez iskrę? — spytał Adrien.
 
@@ -36,7 +36,7 @@ Wyjęliśmy kryształ z lampki. Trzymałem prawą dłoń w tym samym miejscu co 
 
 — Zaczynasz sięgać, zanim ją puszczę — powiedział Adrien.
 
-Położyliśmy blaszkę na podpórce na wysokości, z której wypadła. Adrien wysuwał podpórkę za nitkę, żebym nie widział jego ręki. Teraz za każdym razem blaszka uderzała w stół. Za drugim razem zdążyłem jej dotknąć, ale wysunęła mi się spomiędzy palców.
+Umieściliśmy blaszkę na podpórce na tej samej wysokości, z której wcześniej spadła. Adrien wysuwał podpórkę za nitkę, żebym nie widział jego ręki. Teraz za każdym razem blaszka uderzała w stół. Za drugim razem zdążyłem jej dotknąć, ale wysunęła mi się spomiędzy palców.
 
 Chciałem zasilić lampkę i sprawdzić, czy znów poczuję ukłucie. Adrien spytał, kto wyłączy zasilanie, jeśli ręka zesztywnieje mi podczas próby. Wskazałem mu wyłącznik za lampką.
 
@@ -78,7 +78,7 @@ Położyłem podkładkę na kartce. Na górze planu dopisałem, od czego zacznie
 
 Kilka dni po wypadku, 5 PT · pracownia uniwersytecka, Aurel
 
-Kilka dni później mogłem znowu zacisnąć dłoń bez bólu. Opiekun przeczytał plan, obejrzał naprawioną lampkę i pozwolił nam wrócić do stołu. Adrien przyniósł podpórkę z nitką.
+Mogłem już zacisnąć dłoń bez bólu. Opiekun przeczytał plan, obejrzał naprawioną lampkę i pozwolił nam wrócić do stołu. Adrien przyniósł podpórkę z nitką.
 
 Tym razem wyjęliśmy cewkę z lampki i podłączyliśmy ją osobno do słabo naładowanego kryształu. Od cewki poprowadziłem przewód do miedzianej opaski na prawym nadgarstku. Mogłem wywołać krótki impuls przełącznikiem pod lewą dłonią. Prawą położyłem z boku pustej obudowy, w tym samym miejscu, w którym miałem ją przy wypadku. Adrien stanął przy wyłączniku z nitką w ręce.
 
@@ -88,6 +88,6 @@ Uzgodniliśmy, że gdy skinę głową, Adrien pociągnie za nitkę, a ja nacisn�
 
 — Widziałem. Zrobimy jeszcze po jednej?
 
-Poczekaliśmy, aż ustanie drżenie palców. Powtórzyliśmy obie próby na ten sam znak. Bez impulsu blaszka stuknęła o stół. Po impulsie została mi w dłoni. Kiedy Adrien sięgnął po kartę, żeby zapisać wynik, odłożyłem blaszkę. Palce znów mi drżały.
+Sprawdziliśmy opaskę i powtórzyliśmy obie próby na ten sam znak. Bez impulsu blaszka stuknęła o stół. Po impulsie została mi w dłoni. Kiedy Adrien sięgnął po kartę, żeby zapisać wynik, odłożyłem blaszkę. Chciałem już sprawdzić to po raz trzeci.
 
-— Jutro od tego zaczniemy — powiedziałem. — Chcę zmierzyć, ile czasu ręka potrzebuje, żeby przestać drżeć.
+— Jutro od tego zaczniemy — powiedziałem. — Chcę zmierzyć, o ile szybciej wykonuję ten sam ruch po impulsie.
