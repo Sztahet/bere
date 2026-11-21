@@ -204,7 +204,7 @@ Nazajutrz Soren odebrał odpis dotyczący strat. Trzecią skrzynię wpisałem ja
 
 — A pan?
 
-Spojrzałem na mokry ślad po kubku, który zostawił podczas pierwszej wizyty. Przez noc podłożyłem pod niego czystą kartkę. Krąg przeszedł na nią i teraz była bezużyteczna.
+Spojrzałem na ślad po kubku, który zostawił podczas pierwszej wizyty. Wciąż nie udało mi się usunąć go ze stołu.
 
 — Ja też — powiedziałem.
 
