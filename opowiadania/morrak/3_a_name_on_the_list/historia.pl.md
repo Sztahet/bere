@@ -190,7 +190,7 @@ Poprawiłem zdanie.
 
 — Znów chciałeś opisać, co to znaczyło.
 
-Nie zaprzeczyłem. Po latach w archiwum nadal łapałem się na tym, że wolę zdecydowane zdanie od wiernego. Zdecydowane krócej zajmuje miejsce i łatwiej je odnaleźć w indeksie.
+Nie zaprzeczyłem. Po latach w archiwum nadal łapałem się na tym, że wolę zdecydowane zdanie od wiernego. Zdecydowane zdanie zajmuje mniej miejsca i łatwiej je odnaleźć w indeksie.
 
 Vaelis odłożyła kartę.
 
@@ -240,7 +240,7 @@ Miała rację. Dlatego obok pustego miejsca postawiłem znak odsyłający do pro
 
 Wieczorem zamknąłem szafę, której zawias wreszcie się nie zacinał. Na jednej półce leżały relacje o drodze, na drugiej sprawa kopalni, na trzeciej kopia zgłoszenia. Nie przeniosłem ich do wspólnej teczki. Dodałem odsyłacze, żeby kolejna osoba mogła je porównać i sama zobaczyć, skąd pochodzą podobieństwa.
 
-Nie wiem, czy człowiek z kolejki stawi się na kwalifikacjach. Nie wiem, czy jest tym, którego widziała Meret, ani tym, którego bała się córka nadzorcy. Wiem, że jego imię zapisano, zanim je usłyszano od niego samego, a jego stronę wpisano na podstawie gestu.
+Nie wiem, czy człowiek z kolejki stawi się na kwalifikacjach. Nie wiem, czy jest tym, którego widziała Meret, ani tym, którego bała się córka nadzorcy. Wiem, że jego imię zapisano, choć ani razu sam go nie wypowiedział, a jego stronę wpisano na podstawie gestu.
 
 Kiedy gasiłem lampę, zobaczyłem przez okno Vaelis idącą w stronę portu. Niosła pod płaszczem odpisy i jedną ręką przytrzymywała je przed deszczem. Zawołałem, żeby wzięła płócienną torbę, tę z mocnym szwem.
 

@@ -48,7 +48,7 @@ Miała rację. Mimo to nie potrafiłem z samego przedmiotu wskazać człowieka.
 
 Do kopalni pojechałem trzy dni później. Poproszono mnie o sporządzenie odpisów świadectw dla rodzin i komisji badającej wypadek. Mirela nie chciała, żebym użył jej imienia w kopii dla zarządcy. Uznałem, że mogę przechować oryginał osobno, a w odpisie wskazać świadka bez imienia. Powiedziałem jej, kto będzie miał dostęp do pełnego dokumentu. Zgodziła się dopiero po przeczytaniu obu wersji.
 
-Przy wejściu naprawiano podpory. Dwóch górników dopasowywało belkę, a trzeci podawał kliny. Gdy spytałem o ranionych, starszy z nich odłożył młotek.
+Przy wejściu naprawiano podpory. Dwóch górników dopasowywało belkę, a trzeci podawał kliny. Gdy spytałem o rannych, starszy z nich odłożył młotek.
 
 — Żywych wyprowadzono tylnym chodnikiem. Przednie wejście zasypało.
 

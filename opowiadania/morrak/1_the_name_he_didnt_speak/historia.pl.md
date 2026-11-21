@@ -36,7 +36,7 @@ Dopiero wtedy opowiedział o człowieku na drodze.
 
 — Gdybym wiedział, nie wróciłbym pieszo.
 
-Kiedy przycisnąłem go pytaniami, przypomniał sobie fioletowe światło przy ręce nieznajomego. Albo przy broni. Tego już nie był pewien. Zapytałem, czy widział, by kogokolwiek zranił. Pokręcił głową. Widział za to, że kobieta ze złamaną osią wozu wyciąga dziecko spod plandeki, a nieznajomy stoi między nią i napastnikami.
+Kiedy przycisnąłem go pytaniami, przypomniał sobie fioletowe światło przy ręce nieznajomego. Albo przy broni. Tego już nie był pewien. Zapytałem, czy widział, by kogokolwiek zranił. Pokręcił głową. Widział za to, że kobieta z wozu, w którym pękła oś, wyciąga dziecko spod plandeki, a nieznajomy stoi między nią i napastnikami.
 
 — On coś powiedział?
 
@@ -158,7 +158,7 @@ Następnego dnia Meret zjawiła się bez zapowiedzi. Usłyszała od sąsiadki, �
 
 — Wiem, że ktoś pani pomógł. Próbuję ustalić resztę.
 
-Chciała zobaczyć zapis. Kiedy go czytała, do pokoju wpadł promień słońca i zatrzymał się na wilgotnym jeszcze brzegu karty. Przysunąłem dłoń nad papier, zbierając cień z framugi. Osłoniłem nim plamę, żeby zdążyła wyschnąć. Utrzymanie niewielkiej zasłony przychodziło mi łatwo, lecz gdy sięgnąłem po inną kartę, krawędź cienia zadrżała i cofnęła się na moje palce.
+Chciała zobaczyć zapis. Kiedy go czytała, do pokoju wpadł promień słońca i zatrzymał się na wilgotnym jeszcze brzegu karty. Przysunąłem dłoń nad papier, zbierając cień z framugi. Osłoniłem nim wilgotny papier przed bezpośrednim światłem słonecznym. Utrzymanie niewielkiej zasłony przychodziło mi łatwo, lecz gdy sięgnąłem po inną kartę, krawędź cienia zadrżała i cofnęła się na moje palce.
 
 Meret czytała wolno. Przy słowach Darena zacisnęła usta.
 
