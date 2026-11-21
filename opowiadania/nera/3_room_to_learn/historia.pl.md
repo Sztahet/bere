@@ -74,7 +74,7 @@ Sprawdziliśmy. Wszystko było na miejscu. Volt nadzorował próbę, a ja powoli
 
 — Do długiej pracy tak. Do sprawdzenia, czy lampa odpowiada, wystarczyło.
 
-Chciałam spróbować jeszcze raz. Volt spojrzał na moją dłoń. Palce miałam sztywne od napięcia, chociaż upierałam się, że nic mnie nie boli. Zaproponował przerwę, a potem wspólne sprawdzenie, czy możemy powtórzyć ćwiczenie bez pośpiechu. Zgodziłam się, choć wolałabym usłyszeć, że potrafię już zrobić to sama.
+Chciałam spróbować jeszcze raz. Volt spojrzał na moją dłoń. Palce miałam sztywne od napięcia, chociaż upierałam się, że mogę ćwiczyć dalej. Zaproponował przerwę, a potem wspólne sprawdzenie, czy możemy powtórzyć ćwiczenie bez pośpiechu. Zgodziłam się, choć wolałabym usłyszeć, że potrafię już zrobić to sama.
 
 Przy drugiej próbie lampa świeciła dłużej. Sama zaproponowałam, żeby na tym skończyć. W karcie wpisałam oba wyniki i dopisałam, że kryształ nie jest przygotowany do pracy na pełnej zmianie. Volt podpisał się obok jako osoba nadzorująca.
 
@@ -106,7 +106,7 @@ W międzyczasie Zet wpadł po pakunek do bramy. Mogłam mu dać lampę wtedy, al
 
 Osoba od ładowania przyszła zgodnie z umową. Zapytałam, czy mogę obserwować. Pozwoliła, ale najpierw poprosiła mnie o kartę z wynikami naszej próby. Zajrzała do obudowy, sprawdziła urządzenie i dopiero potem zajęła się kryształem. Nie robiła niczego widowiskowego. Najbardziej chciałam ją zapytać, po czym poznaje, że tempo jest odpowiednie. Zapytałam po zakończeniu. Wyjaśniła, co sprawdza na przyrządzie, i powiedziała, że reszty nie pokaże mi w dwóch zdaniach między dyżurami. Zaproponowała, żebym przyszła na jej kolejne ćwiczenie.
 
-Zostałam jednak przy stacji dłużej, niż zamierzałam. Nie z powodu samej lampy: woźnica nie znalazł od razu miejsca w skrzyni, a ja chciałam dopilnować, żeby karta nie została na stole. Kiedy wreszcie zamknął wieko, do końca zajęć w szkole zostało mniej czasu niż na drogę.
+Zostałam jednak przy stacji dłużej, niż zamierzałam. Nie z powodu samej lampy: woźnica nie znalazł od razu miejsca na skrzynkę z lampą, a ja chciałam dopilnować, żeby karta nie została na stole. Kiedy wreszcie zamknął wieko, do końca zajęć w szkole zostało mniej czasu niż na drogę.
 
 Posłałam wiadomość sąsiadce. Potwierdziła, że może odebrać córkę Varek. Ja przyszłam do nich później. Dziewczynka siedziała przy kuchennym stole i rysowała. Na mój widok zamknęła zeszyt.
 
@@ -138,9 +138,9 @@ Kiedy Varek wróciła, córka opowiedziała jej najpierw o jajku, a dopiero pote
 
 Wyjęłam z torby zeszyt i podałam go Varek. Na tylnej okładce nadal był ślad po mące. Otrzepała go dłonią, ale nie otworzyła.
 
-Następnego dnia poszłam na ćwiczenie do osoby, która ładowała lampę. Przyjęła mnie jeszcze z dwiema osobami. Każda miała dostać własny czas przy urządzeniu; nikt nie obiecywał, że po jednym spotkaniu pozwolą nam samodzielnie obsługiwać stację.
+Następnego dnia miałam rozpocząć ćwiczenia u osoby, która ładowała lampę. Przyjęła mnie jeszcze z dwiema osobami. Każda miała dostać własny czas przy urządzeniu; nikt nie obiecywał, że po pierwszym spotkaniu pozwolą nam samodzielnie obsługiwać stację.
 
-Kiedy wychodziłam, zaczepił mnie Zet. Potrzebował pomocy z torbą. Miała nową sprzączkę, ale pasek wysunął się z uchwytu.
+W drodze do sali ćwiczeń zaczepił mnie Zet. Potrzebował pomocy z torbą. Miała nową sprzączkę, ale pasek wysunął się z uchwytu.
 
 — Mogę ci go potrzymać — powiedziałam. — Potem idę na ćwiczenie.
 

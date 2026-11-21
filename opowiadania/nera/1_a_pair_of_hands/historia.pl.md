@@ -16,7 +16,7 @@ Przyniosłam nawet własny zeszyt. Wprawdzie na pierwszych stronach miał przepi
 
 — Nera! — zawołał ktoś od wejścia.
 
-Zet przyniósł mokrą torbę. Woda kapała mu z rękawów na próg, więc podałam mu ścierkę. Poprosił jeszcze o kawałek sznurka, bo sprzączka przy torbie puściła na schodach. Owinęłam pasek dwa razy i zawiązałam go tak, żeby mógł rozwiązać w rękawicach.
+Zet przyniósł mokrą torbę. Woda kapała mu z rękawów na próg, więc podałam mu ścierkę. Poprosił jeszcze o kawałek sznurka, bo sprzączka przy torbie puściła na schodach. Owinęłam pasek dwa razy i zawiązałam go tak, żeby mógł rozwiązać węzeł w rękawicach.
 
 — Uratowałaś moje listy — powiedział.
 
@@ -136,7 +136,7 @@ Zanim wstałam, dyżurny zatrzymał mnie przy stole. Sam znał drugą osobę, kt
 
 — Gdybyś poszła, kto zostałby tu ze mną?
 
-Wskazałam na niego.
+Nie wiedziałam, co odpowiedzieć.
 
 — Ja mogę nadawać. Ty możesz w tym czasie zapisywać i sprawdzać, czy nie przyszło potwierdzenie z innej stacji. Jednej osobie trudniej zrobić obie rzeczy naraz.
 

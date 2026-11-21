@@ -50,7 +50,7 @@ Wyszłam po chwili. Do sali dobiegłam z mokrymi włosami. Drzwi były zamknięt
 
 W drodze do domu przekładałam monety z jednej kieszeni do drugiej. Mogłam pójść wcześniej. Nie musiałam zaglądać do skrzynki. Powiedziałam sobie to kilka razy, ale po kolacji nadal chciałam wiedzieć, czy Volt dostał właściwy numer.
 
-Następnego dnia przyszedł na stację z kartką w dłoni. Z bocznej wysłał człowieka po część zgodną z moją odpowiedzią. Kiedy wrócił do głównej stacji, znalazł właściwy styk w przegródce obok. Uszkodzona była ta część bez rysy; Volt pamiętał, że rysa powstała na zapasowej, gdy wyjmował ją z opakowania.
+Następnego dnia przyszedł na stację z kartką w dłoni. Z bocznej wysłał człowieka po część zgodną z moją odpowiedzią. Kiedy wrócił do głównej stacji, obejrzał oba styki i rozpoznał właściwy. Uszkodzona była ta część bez rysy; Volt pamiętał, że rysa powstała na zapasowej, gdy wyjmował ją z opakowania.
 
 — Pojechał po niewłaściwą — powiedział.
 
@@ -76,7 +76,7 @@ Po południu Volt znalazł mnie przy sporządzaniu nowej karty dyżuru. Przynió
 
 Usiadł. Chciał mi pokazać, po czym rozpoznał uszkodzenie, ale nie prosił, żebym natychmiast odłożyła pióro. Dopisałam ostatnią godzinę i dopiero wtedy przesunęłam krzesło.
 
-Wadliwa część była lekko wygięta. Prawie tego nie widziałam, dopóki Volt nie przyłożył jej do prostej krawędzi płótna. Nawet wtedy musiałam podejść bliżej.
+Wadliwa część była lekko wygięta. Prawie tego nie widziałam, dopóki Volt nie przyłożył jej do metalowej linijki. Nawet wtedy musiałam podejść bliżej.
 
 — Po co pytałeś o numer, skoro nie było ci to potrzebne na bocznej stacji? — zapytałam.
 
