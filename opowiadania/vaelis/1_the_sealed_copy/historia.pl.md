@@ -88,4 +88,4 @@ Po kilku tygodniach zaczęłam przechowywać również kopie otrzymywanych polec
 
 Nie wiedziałam, jak długo potrwa moje zadanie. W kancelarii nie podano mi żadnego terminu.
 
-Rada pamiętała o tamtym odpisie z magazynu od dwóch lat.
+Od sporządzenia tamtego odpisu minęły dwa lata. Moja sprawa wciąż nie była zamknięta.

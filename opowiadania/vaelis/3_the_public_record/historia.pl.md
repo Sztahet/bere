@@ -22,6 +22,8 @@ Azmir przeczytał dokument do końca. Gdy oddał mi kartę, jego dłoń zatrzyma
 
 — Nie obiecałam, że ich nie przekażę. Mogę za to dopisać, czego nie wiemy.
 
+Wiedziałam jednak, że pokazał mi te karty dlatego, że mi ufał. Nie wiedziałam, co urzędnik zrobi ze sprawą sprzed czterech lat, kiedy dowie się, że pokazałam Azmirowi raport.
+
 Przesunął raport w moją stronę.
 
 — Dopisz, że ten człowiek istniał. Tego już nie musimy nazywać hipotezą.

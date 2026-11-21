@@ -6,7 +6,7 @@ Maj, 12 ET · archiwum Cienistego Portu
 
 Po rozmowie o imieniu wpisanym na liście niosłam odpisy pod płaszczem, żeby nie zmokły. Azmir zobaczył mnie przez okno i zawołał, żebym wzięła płócienną torbę z mocnym szwem. Podziękowałam i ruszyłam w stronę portu, choć miałam skręcić do kancelarii Rady.
 
-Rada zleciła mi raportować o jego pracy. W zleceniu nie zarzucano mu nadużyć. Pytano, czy jego prywatne zeszyty zawierają coś, czego nie ma w dostępnych aktach. Od 10 ET przesyłałam informacje o świadectwach, które sprawdzał, i o tym, co uznawał za niepewne. W raportach wymieniałam też własne błędy. Gdy przekazuję tylko cudze, łatwo pomylić szczerość z oskarżeniem.
+Rada zleciła mi sporządzanie raportów o jego pracy. W zleceniu nie zarzucano mu nadużyć. Pytano, czy jego prywatne zeszyty zawierają coś, czego nie ma w dostępnych aktach. Od 10 ET przesyłałam informacje o świadectwach, które sprawdzał, i o tym, co uznawał za niepewne. W raportach wymieniałam też własne błędy. Gdy przekazuję tylko cudze, łatwo pomylić szczerość z oskarżeniem.
 
 Tamtego dnia wpisałam, że przyjęty do kwalifikacji kandydat nie potwierdził imienia Morrak. Wymieniłam relacje Talmy, Veli, Kery i Desa osobno, bo żadne z nich nie opisało tego samego gestu z tego samego miejsca. Dodałam, że Azmir nie zamierzał przypisywać kandydatowi powodu zgłoszenia. Rada odpisała jednym zdaniem: „Dziękujemy. Prosimy kontynuować bez wpływania na pracę archiwum”.
 
