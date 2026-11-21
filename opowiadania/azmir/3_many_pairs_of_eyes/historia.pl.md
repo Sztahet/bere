@@ -26,7 +26,7 @@ Podała mi kopię raportu. Pisała o moich prywatnych zapisach, o swoim zadaniu 
 
 — Jak długo?
 
-— Od kilku lat.
+— Od 10 ET.
 
 Przeczytałem dokument do końca. Kiedy oddawałem go Vaelis, zatrzymałem dłoń na opisie pustej rubryki dla nieodnalezionych. Przypomniałem sobie, jak zamykałem przed nią szafę, a potem sam pokazywałem jej kolejne karty. Nie wiedziałem, ile razy wracała z nimi w myślach do tego drugiego zeszytu.
 
