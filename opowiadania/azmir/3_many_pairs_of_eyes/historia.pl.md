@@ -4,9 +4,9 @@
 
 29 maja, 12 ET · Val Meris
 
-Przy wejściu na kwalifikacje powstał zator. Kandydaci ustawiali się w kolejce, a pozostali widzowie próbowali zobaczyć, kto już przeszedł przez bramę. Znałem tę przestrzeń z list i map. Nie znałem jej z takiej liczby ludzi, którzy patrzyli na jedno miejsce naraz.
+Przy wejściu na kwalifikacje powstał zator. Kandydaci ustawiali się w kolejce, a widzowie próbowali zobaczyć, kto już przeszedł przez bramę. Znałem tę przestrzeń z list i map. Nigdy wcześniej nie widziałem tam tylu ludzi patrzących w jedno miejsce.
 
-Przy stole leżały karty uczestników. Obok nich stała lampa z ciężkim, źle osadzonym kloszem. Kiedy ktoś zahaczył o przewód, lampa przechyliła się nad dziewczyną niosącą arkusze, a klosz poluzował się w oprawie. Odsunęła się, ale przewód oplótł jej torbę. Mężczyzna z kolejki wyciągnął rękę. Cień przeciął stół, choć lampa wciąż świeciła. Przez palce mężczyzny przebiegł krótki fioletowy błysk. Złapał lampę i odsunął ją od przejścia.
+Przy stole leżały karty uczestników. Obok nich stała lampa z ciężkim, źle osadzonym kloszem. Kiedy ktoś zahaczył o przewód, lampa przechyliła się nad dziewczyną niosącą arkusze, a klosz poluzował się w oprawie. Odsunęła się, ale przewód zaczepił się o pasek jej torby. Mężczyzna z kolejki wyciągnął rękę. Cień przeciął stół, choć lampa wciąż świeciła. Przez palce mężczyzny przebiegł krótki fioletowy błysk. Złapał lampę i odsunął ją od przejścia.
 
 Nie krzyknął. Nie przedstawił się. Dopiero wtedy ludzie zaczęli mówić.
 
@@ -16,7 +16,7 @@ Miałem ze sobą karty obserwacyjne. Vaelis znała wcześniejsze opisy, ale nie 
 
 Poprzedniego dnia, podczas zapisów, widziałem też Tarena i Lucena. Przy tablicy z listą podnieśli do siebie ręce na powitanie, nie rozmawiając. Nie wiedziałem, co to dla nich znaczyło, więc nie dopisałem niczego do protokołu.
 
-Zebrałem opisy do porównania. W oficjalnej karcie skreśliłem zdanie, że świadectwa o Morraku mogą wynikać wyłącznie z plotki. Napisałem, że w Val Meris wiele osób widziało człowieka odpowiadającego części wcześniejszych opisów. Przy imieniu zostawiłem znak zapytania i odesłałem do zapisu rozmowy z urzędniczką.
+Zebrałem opisy do porównania. Do oficjalnej karty po raz pierwszy dołączyłem własną relację. Napisałem, że w Val Meris wiele osób widziało człowieka odpowiadającego części wcześniejszych opisów. Przy imieniu zostawiłem znak zapytania i odesłałem do zapisu rozmowy z urzędniczką.
 
 Vaelis porządkowała karty w dwa stosy. Zapytałem, dla kogo sporządza drugi zestaw notatek.
 

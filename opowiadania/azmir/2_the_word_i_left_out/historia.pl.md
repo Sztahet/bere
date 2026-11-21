@@ -6,7 +6,9 @@
 
 Vaelis przyniosła mi odpis zeznania z kopalni. Zanim zdążyłem podpisać odpis, zatrzymała pióro nad jednym zdaniem.
 
-— Tu napisałeś, że świadek widział rozkaz — powiedziała. — W pierwszej notatce jest, że go słyszał.
+Zwróciłem jej uwagę na słowo „widział”. Vaelis wskazała moje wcześniejsze podsumowanie.
+
+— Pan też napisał „widział” w podsumowaniu — powiedziała.
 
 Przeczytałem oba zapisy. Różnica mieściła się w jednym słowie. W aktach zmieniała niemal wszystko.
 
@@ -28,7 +30,7 @@ Vaelis wróciła po podpis. Zauważyła otwartą szafę.
 
 — Na razie tylko dla mnie.
 
-Nie była zadowolona z odpowiedzi. Powiedziała, że jeśli kiedyś ktoś inny będzie musiał sprawdzić te karty, nie może się domyślać, które zdania są obserwacją, a które moim wnioskiem. Miała rację. Dopisałem przy każdym opisie, czy pochodzi z moich oczu, z podpisanego raportu, czy z relacji przekazanej przez drugą osobę.
+Nie była zadowolona z odpowiedzi. Powiedziała, że jeśli kiedyś ktoś inny będzie musiał sprawdzić te karty, nie może się domyślać, które zdania są obserwacją, a które moim wnioskiem. Miała rację. Dopisałem przy każdym opisie, czy sam to widziałem, z podpisanego raportu, czy z relacji przekazanej przez drugą osobę.
 
 Na okładce nie napisałem „Morrak”. Napisałem „rzeczy, których nie potrafię połączyć”. Była to mniej efektowna nazwa, ale lepiej pasowała do zawartości.
 
