@@ -6,22 +6,86 @@
 
 Kiedy zaczynałam pracę u Azmira, myślałam, że najtrudniejsze będzie przepisywanie. Szybko odkryłam, że trudniejsze jest nie poprawiać cudzej pamięci na taką, która mieści się w rubryce.
 
-Przyniosłam mu odpis zeznania z kopalni. Mirela nie chciała, by w kopii dla zarządcy znalazło się jej imię. Chciała, żeby ktoś zachował żeton jako dowód, choć sama nie wiedziała, co oznaczał znak na jego odwrocie. Jej brat wciąż nie odzyskał sił, a ludzie przy bramie opowiadali różne rzeczy o człowieku, który pojawił się podczas zawalenia.
+Przyniosłam mu odpis zeznania z kopalni. Mirela nie chciała, by w kopii dla zarządcy znalazło się jej imię. Chciała, żeby żeton został odnotowany w aktach wypadku, choć sama nie wiedziała, co oznaczał znak na jego odwrocie.
 
-Azmir przeczytał zdanie o rozkazie wydanym przez nadzorcę. Ja znałam pierwszą notatkę: pracownik bramy słyszał rozkaz. Powiedział też, że żeton włożył strażnik, ale nie napisał wprost, czy widział ten ruch.
+Azmir przeczytał zdanie o rozkazie wydanym przez nadzorcę. Zapytał, dlaczego napisałam, że świadek widział rozkaz, skoro w pierwszej notatce było napisane, że go słyszał.
 
-— Pan też napisał „widział” w podsumowaniu — powiedziałam.
+Wskazałam jego wcześniejsze podsumowanie.
 
-Azmir nie zaprzeczył. Dopisałam do odpisu, że pracownik słyszał rozkaz, a według jego relacji żeton włożył strażnik. Potem Azmir poprawił własne podsumowanie. Zapytał, czy oryginał i kopia są już rozdzielone. Nie chciał, żeby wersja dla zarządcy zdradziła Mirelę; nie chciał też, żeby brak jej imienia wyglądał jak brak świadka. Dodałam do kopii oznaczenie, że pełny zapis znajduje się w zamkniętej teczce z ograniczonym dostępem.
+— Pan też napisał „widział” w podsumowaniu.
 
-Kiedy wróciłam po podpis, szafa Azmira była otwarta. Spytałam, dla kogo są te zapisy. Odpowiedział, że na razie tylko dla niego. Powiedziałam, że jeśli ktoś inny będzie kiedyś sprawdzał karty, musi wiedzieć, co jest obserwacją, a co wnioskiem. Nie wiedziałam, które dokumenty Azmir przeglądał pod moją nieobecność.
+Sprawdził. Nie próbował się tłumaczyć. Poprawił własny zapis, pozostawiając przekreślone zdanie czytelne.
 
-Później dostałam pierwszy list od Rady, przez kancelarię, bez znaku żadnej prywatnej organizacji. Rada chciała wiedzieć, czy Azmir przechowuje materiały dotyczące Nocy poza oficjalnymi aktami. Miałam opisać wszystko, także jego niepewność. Nie dostałam polecenia, by go osądzać. Dostałam obowiązek, by niczego nie przemilczeć.
+Lubiłam w nim to, że mogłam wskazać mu błąd bez obawy, że następnego dnia zostanę przeniesiona do przepisywania wykazów magazynowych.
 
-Zaczęłam od raportu o żetonie. Wpisałam, że Azmir oddzielił oryginał od kopii i poprawił zdanie, gdy ustaliliśmy, że przypisał świadkowi obserwację, której ten nie potwierdził. Dopisałam, że sam żeton nie potwierdza rozkazu ani tożsamości człowieka z kopalni. Zanotowałam też, że Azmir przechowuje zamknięte akta o Nocy, lecz nie wiedziałam, które z nich przeglądał, kiedy mnie nie było.
+Kiedy wróciłam po podpis, jego szafa była otwarta. Spytałam, dla kogo są przechowywane tam zapisy.
 
-Przed zapieczętowaniem raportu długo trzymałam go w dłoniach. Pieczęć Rady miała zabezpieczyć raport przed nieuprawnionym otwarciem. Przez chwilę pomyślałam, że powinnam uprzedzić Azmira. Potem przypomniałam sobie Mirelę, której obiecał wyjaśnić, kto dostanie pełny zapis, zanim zgodziła się na kopię.
+— Na razie tylko dla mnie.
 
-Wysłałam tajny raport oraz osobno odpis poprawionej karty. W obu pominęłam imię Mireli i znane mi szczegóły, po których można by ją rozpoznać. Nie mogłam mieć pewności, że ktoś znający sprawę nie domyśli się, o kogo chodzi. Gdy Azmir zapytał następnego dnia, czy ktoś poza nim i mną widział kartę, odpowiedziałam, że Rada otrzymała odpis. Nie powiedziałam mu o raporcie ani o tym, co napisałam o jego zamkniętych aktach.
+Powiedziałam, że jeśli ktoś inny będzie kiedyś sprawdzał te karty, musi wiedzieć, co jest obserwacją, a co wnioskiem.
 
-Od tamtej pory mój tajny notes miał dwie kolumny: „co widziałam” i „czego z tego nie wolno wywnioskować”. Pierwsza była krótsza. Druga zajmowała coraz więcej stron.
+Kilka dni później wezwano mnie do kancelarii Rady.
+
+Urzędnik położył przede mną odpis wykazu dostaw do portowego magazynu. Rozpoznałam własne pismo i podpis u dołu strony.
+
+Sporządziłam go dwa lata wcześniej, zanim powierzono Azmirowi nadzór nad kopiami. Pewien kupiec chciał wiedzieć, jakie towary dotrą do portu, zanim wykaz zostanie udostępniony pozostałym zainteresowanym.
+
+Nie miał upoważnienia.
+
+Zapłacił mi dwa seleny.
+
+Wiedziałam, że nie wolno mi tego zrobić. Nie potrzebowałam pieniędzy na lekarstwa ani na jedzenie. Po prostu uznałam wtedy, że dwa seleny za kilkanaście minut przepisywania to dobra zapłata.
+
+— Pani podpis? — zapytał urzędnik.
+
+— Tak.
+
+Powiedział, że odpis znalazł się w dokumentach dotyczących sporu między kupcami. Chciał wiedzieć, ile podobnych kopii sporządziłam.
+
+— Jedną.
+
+Zapisał moją odpowiedź. Nie powiedział, czy mi wierzy.
+
+Potem zapytał o Azmira.
+
+Rada chciała ustalić, czy przechowuje materiały dotyczące Nocy Zgasłych Wież poza oficjalnymi aktami. Miałam obserwować jego pracę i przekazywać informacje o dokumentach, których nie udostępniał.
+
+— Mam je zabierać?
+
+— Nie. Ma pani opisywać ich zawartość. Nie chcemy, żeby zmienił sposób pracy.
+
+Zapytałam, co stanie się z moją sprawą.
+
+Urzędnik powiedział, że na razie nie zostanie skierowana do komisji.
+
+Zgodziłam się.
+
+Po powrocie Azmir poprosił mnie o sprawdzenie dwóch odpisów. W jednym pomylił daty. W drugim to ja opuściłam cały wiersz.
+
+Poprawiliśmy oba.
+
+Nie zapytał, gdzie byłam.
+
+Wieczorem przygotowałam pierwszy raport dla Rady. Opisałam sprawę żetonu, poprawki w zeznaniach i zamkniętą szafę Azmira. Zaznaczyłam, że nie znam jeszcze zawartości wszystkich przechowywanych w niej dokumentów.
+
+W raporcie pominęłam imię Mireli oraz szczegóły, które mogłyby pozwolić na jej rozpoznanie. Nie były potrzebne do wykonania mojego zadania.
+
+Przed zapieczętowaniem raportu pomyślałam, że powinnam powiedzieć Azmirowi o rozmowie w kancelarii.
+
+Mogłam jeszcze wrócić do niego i opowiedzieć, dlaczego Rada mnie wezwała.
+
+Nie zrobiłam tego.
+
+Następnego dnia zapytał, czy ktoś poza nami otrzymał odpis zeznania.
+
+Odpowiedziałam, że Rada.
+
+Nie powiedziałam mu o raporcie.
+
+Zachowałam jego kopię we własnym notesie. Chciałam wiedzieć, co dokładnie przekazałam, gdyby Rada kiedyś zapytała mnie o coś, czego nie napisałam.
+
+Po kilku tygodniach zaczęłam przechowywać również kopie otrzymywanych poleceń.
+
+Nie wiedziałam, jak długo potrwa moje zadanie. W kancelarii nie podano mi żadnego terminu.
+
+Rada pamiętała o tamtym odpisie z magazynu od dwóch lat.
