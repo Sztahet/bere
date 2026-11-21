@@ -32,7 +32,7 @@ Wieczorem wyjąłem z szuflady koperty z całymi pieczęciami. Miałem czysty pa
 
 7 ET · Iglica Zerath
 
-Poszedłem z wykazem skrzyń do dyżurnego. Chciałem wiedzieć, kiedy możemy dostać nowe uchwyty, bo od tygodnia trzymałem ludzi przy dwóch starych. Powiedział, że zmieniono przydział na podstawie liczby przestojów. Według księgi mieliśmy ich najmniej. Pokazałem mu trzy miejsca, gdzie ludzie pompę uruchamiali ręcznie i dlatego przerwa nie trafiła do wykazu. Podanie ręcznego ruchu jest uciążliwe, a według formularza powinniśmy być zadowoleni, że pompa mimo wszystko pracuje.
+Poszedłem z wykazem skrzyń do dyżurnego. Chciałem wiedzieć, kiedy możemy dostać nowe uchwyty, bo od tygodnia trzymałem ludzi przy dwóch starych. Powiedział, że zmieniono przydział na podstawie liczby przestojów. Według księgi mieliśmy ich najmniej. Pokazałem mu trzy miejsca, gdzie ludzie pompę uruchamiali ręcznie i dlatego przerwa nie trafiła do wykazu. Ręczna obsługa pompy jest uciążliwa, a według formularza powinniśmy być zadowoleni, że pompa mimo wszystko pracuje.
 
 Dyżurny nie robił tego wykazu. Zastałby w nim takie same liczby, jak ja, gdyby dla każdego musiał szukać człowieka od pompy. Poszedłem więc do ślusarki, której warsztat stał przy najdłuższym odcinku. Znałem ją od lat. Kiedyś robiła dla Miry klucze do szafek, a od wojny utrzymywała połowę zaworów na ulicy przy swoim domu. Przyjęła mnie w fartuchu, z mokrymi rękawami. Kazała odłożyć księgę w najdalszym miejscu od misy.
 

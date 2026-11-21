@@ -160,7 +160,7 @@ Podprowadziłem go do miejsca, gdzie wystawał kamień, a obok rosła trawa. Obs
 
 — Ufam, że potrafisz je robić. Wtedy patrzyłeś na mnie, jakbym zabrał ci drogę.
 
-Pokazałem mu w zeszycie zeszłoroczny pomiar. Widać było, że znak postawiłem po sprawdzeniu zjazdu. Przewodnik spytał o dzień, w którym ktoś miał obejrzeć go ponownie. Nie miałem takiego dnia. Wykaz mówił tylko, że przejście zostało przywrócone. Na nowej tabliczce napisałem „zamknięte” i datę. Zapytał, co zrobi człowiek od wschodu, kiedy odczyta tę datę za tydzień. Poniżej dopisałem, który posterunek ma wiadomość i którędy obecnie można przejechać. Do postawienia znaku tu pomogła nam kobieta z pobliskiego gospodarstwa. Wróciła z motyką, bo w miejscu, które wybraliśmy, bolec trafiał dokładnie na korzeń.
+Pokazałem mu w zeszycie zeszłoroczny pomiar. Widać było, że znak postawiłem po sprawdzeniu zjazdu. Przewodnik spytał o dzień, w którym ktoś miał obejrzeć go ponownie. Nie miałem takiego dnia. Wykaz mówił tylko, że przejście zostało przywrócone. Na nowej tabliczce napisałem „zamknięte” i datę. Zapytał, co zrobi człowiek od wschodu, kiedy odczyta tę datę za tydzień. Poniżej dopisałem, który posterunek ma wiadomość i którędy obecnie można przejechać. Przy stawianiu znaku pomogła nam kobieta z pobliskiego gospodarstwa. Wróciła z motyką, bo w miejscu, które wybraliśmy, bolec trafiał dokładnie na korzeń.
 
 — Kiedy znowu pójdę nad wodę, mam to zgłaszać wam czy naszym? — zapytała.
 
@@ -202,7 +202,7 @@ Byłem jej wdzięczny, że wtedy zajęła się adresowaniem dwóch odpisów. Wys
 
 Na stole do zapisów leżały dwa arkusze. Przeczytałem jeszcze raz warunki wspólnego nadzoru. Chcę, żeby ostrzeżenie wpisane przy jednej stacji można było sprawdzić w następnej krainie. Chcę też, żeby pracownik mógł zatrzymać urządzenie do kontroli i żeby po nim ktoś jeszcze przeczytał odczyty. Przy przeprawie miałem obok siebie doświadczonego przewodnika. W raporcie zmieścił się w jednej rubryce. Następnym razem może go przy mnie zabraknąć.
 
-O sprawie Zerath rozmawiałem w kolejce z człowiekiem, który przyjechał szukać części do stacji. Wymienił dwie osady czekające na naprawę i spytał, ile to ma jeszcze potrwać. Nie miałem dla niego daty. Zapisałem nazwy obu miejsc na odwrocie pokwitowania. W rubryce o tym, kogo reprezentuję, wpisałem wspólny nadzór.
+O sprawie Zerath rozmawiałem w kolejce z człowiekiem, który przyjechał szukać części do stacji. Wymienił dwie osady czekające na naprawę i spytał, ile to ma jeszcze potrwać. Nie miałem dla niego daty. Zapisałem nazwy obu miejsc na odwrocie pokwitowania. W rubryce dotyczącej popieranego wariantu wpisałem: wspólny nadzór.
 
 Człowiek od części stał jeszcze przy wyjściu. Podałem mu pokwitowanie, żeby sprawdził, czy dobrze zapisałem obie nazwy. Przy drugiej poprawił końcówkę. Zapytał, czy jestem z Aurelu. Odpowiedziałem, że mieszkam tam od dawna, a tej nazwy z Zerath po prostu nigdy wcześniej nie słyszałem.
 

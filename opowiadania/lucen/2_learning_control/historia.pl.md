@@ -68,7 +68,7 @@ Kobieta po drugiej stronie stołu trzymała kilka raportów otwartych obok siebi
 
 — Kiedy to się stało? — zapytała.
 
-Pokazałem jej dzień i miesiąc. Sięgnęła do drugiej książki i przysunęła ją tak, bym mógł przeczytać opis Nocy. Dopiero wtedy zobaczyłem, że oboje patrzyliśmy na wydarzenia sprzed trzech lat. Matka zginęła rok wcześniej. Tyle czasu czekałem, aż będę dostatecznie blisko starych papierów. Tamtego dnia wystarczyło mi zobaczyć pieczęć Zerath, żebym już chciał wziąć ze sobą wszystko.
+Pokazałem jej dzień i miesiąc. Sięgnęła do drugiej książki i przysunęła ją tak, bym mógł przeczytać opis Nocy. Dopiero wtedy zobaczyłem, że oboje patrzyliśmy na wydarzenia sprzed trzech lat. Matka zginęła rok przed Nocą. Tyle czasu czekałem, aż będę dostatecznie blisko starych papierów. Tamtego dnia wystarczyło mi zobaczyć pieczęć Zerath, żebym już chciał wziąć ze sobą wszystko.
 
 Przy rejestrze spytałem, czy można znaleźć osobno dokumentację stacji sprzed Nocy. Powiedziano mi, że nie wszystkie odczyty trafiły do miasta. Jeśli znam nazwę odcinka, mogę poprosić o sprawdzenie rejestru w miejscowym archiwum. Rozłożyłem kartkę, licząc, że zobaczą coś, co pomijam. Osoba przy stole odwróciła ją pod światło. Pokazała mi, gdzie tekst kończy się za wcześnie, żeby zajrzeć do rubryki z nazwą.
 

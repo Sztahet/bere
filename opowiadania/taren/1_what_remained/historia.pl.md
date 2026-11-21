@@ -50,7 +50,7 @@ Kobieta spytała, do czego potrzebują pieca już teraz. Mistrz wskazał stojąc
 
 — Byłam. Kazali mi znaleźć człowieka od pomp.
 
-Wyjąłem ołówek i dopisałem na wykazie swoje imię. Jeśli znów zgłosi zabraknięcie wody, miała prosić o mnie przy wejściu. Mistrz spojrzał na adres u dołu kartki. Poznał dom swojej pracownicy i zaproponował, że jeśli trzeba będzie umówić obchód na jutro, przyśle ją po pracy z normalnym dowozem. Kobieta spisała godzinę. Wyszła z dwoma wiadrami. Z trzecim poszedłem za nią na piętro, choć obiecałem Lucenowi, że przed kolacją wrócę.
+Wyjąłem ołówek i dopisałem na wykazie swoje imię. Jeśli znów zgłosi brak wody, miała prosić o mnie przy wejściu. Mistrz spojrzał na adres u dołu kartki. Poznał dom swojej pracownicy i zaproponował, że jeśli trzeba będzie umówić obchód na jutro, przyśle ją po pracy z normalnym dowozem. Kobieta spisała godzinę. Wyszła z dwoma wiadrami. Z trzecim poszedłem za nią na piętro, choć obiecałem Lucenowi, że przed kolacją wrócę.
 
 Po ciemku minąłem murek pod warsztatem Miry. Ktoś przestawił ławkę, na której podczas przerw składała papiery. Majster ze składu części siedział teraz na tej ławce, opierając łokcie o kolana. Zapytałem go, czy ma klucz do rejestru. Gdy ustalił, który rejestr mam na myśli, długo rozwiązywał pasek na kłódce szafki. W środku leżały dwie księgi. W jednej wpisywano datę i godzinę wydania części, w drugiej kiedy wydawano zgodę na odjazd wozu. Daty i godziny przy naszym wozie różniły się o kwadrans.
 
@@ -142,7 +142,7 @@ Woźnica przywiózł kartkę z Aurelu. Podpisała się Aria, córka Oriena, u kt
 
 Pierwszy list zacząłem od wymieniania ludzi, po których poszedłem tamtego ranka. Napisałem, ile ważyła skrzynia z częściami. Wziąłem czysty arkusz. Zapytałem, czy ma dość ciepłą kurtkę, i dopisałem, że mogę przysłać zimową. Tę kartkę włożyłem do koperty. Kiedy list wrócił, pieczęć była cała. Napisałem jeszcze raz. Drugi wrócił razem z wykazem pustych skrzyń przeznaczonych do odesłania. Trzymałem obie koperty w kieszeni przez cały obchód.
 
-Poszedłem z kopertami do człowieka od transportu. Otworzył mi, kiedy właśnie wycierał z łap psa mokry śnieg. Wpuścił mnie pod dach i spytał, którą torbę chcę posłać. Pokazałem mu dwie koperty. Chciałem wiedzieć, czy któreś pieniądze trzeba zapłacić drugi raz, jeżeli przesyłka wróci. Powiedział, że woźnica bierze zapłatę w jedną stronę. Spojrzał na znaki na papierze i zapytał, czy te dwie oddano pod adresem, który podałem. Byłem pewien, że tak. Powiedział mi, po czym to poznać. Przy pierwszej pieczęci odcisnęli przy obsłudze drugi mały znak. Przy drugiej ten sam znak wystawiono w innym kolorze. Z treści obu wiedziałem teraz tyle, że list dotarł do domu przy schodach, a potem ktoś podjął trud, żeby wrócił tą samą drogą.
+Poszedłem z kopertami do człowieka od transportu. Otworzył mi, kiedy właśnie wycierał z łap psa mokry śnieg. Wpuścił mnie pod dach i spytał, którą torbę chcę posłać. Pokazałem mu dwie koperty. Chciałem wiedzieć, czy któreś pieniądze trzeba zapłacić drugi raz, jeżeli przesyłka wróci. Powiedział, że woźnica bierze zapłatę w jedną stronę. Spojrzał na znaki na papierze i zapytał, czy te dwie oddano pod adresem, który podałem. Byłem pewien, że tak. Powiedział mi, po czym to poznać. Przy pierwszej pieczęci odcisnęli przy obsłudze drugi mały znak. Przy drugiej ten sam znak wystawiono w innym kolorze. Z oznaczeń na kopertach wiedziałem już, że listy dotarły do domu przy schodach, a potem ktoś odesłał je tą samą drogą.
 
 — Mógł ktoś odmówić przyjęcia w jego imieniu? — spytałem.
 

@@ -46,7 +46,7 @@ Nie mógł zagwarantować żadnego terminu. Mogłem odejść z pustymi rękami a
 
 Maj, 12 ET · kwatera zespołów w Val Meris
 
-W kwaterze mieli jeszcze kartę dla zespołów przyjezdnych. Można było wpisać się jako ochotnik do pomocy i dać komuś wiadomość, że przez tydzień będzie się do znalezienia. Przy wpisie stała kobieta z koszem ubrań. Ułożyła na brzegu kartkę z dwoma imionami. Chciała wpisać ludzi od siebie do tej samej zmiany. Osoba przy stole powiedziała jej, że chętnych jest więcej, niż potrzeba. Jeśli oboje trafią do jednego wykazu, prawdopodobnie rozdzielą ich na dwie godziny pracy.
+W kwaterze mieli jeszcze kartę dla zespołów przyjezdnych. Można było wpisać się jako ochotnik do pomocy i zostawić wiadomość, że przez tydzień będzie można go znaleźć pod wskazanym adresem. Przy wpisie stała kobieta z koszem ubrań. Ułożyła na brzegu kartkę z dwoma imionami. Chciała wpisać ludzi od siebie do tej samej zmiany. Osoba przy stole powiedziała jej, że chętnych jest więcej, niż potrzeba. Jeśli oboje trafią do jednego wykazu, prawdopodobnie rozdzielą ich na dwie godziny pracy.
 
 — Mąż się myli, kiedy szybko liczy — powiedziała. — Wiem, w którym miejscu mu się to zdarza. Mogę pilnować zapisu.
 

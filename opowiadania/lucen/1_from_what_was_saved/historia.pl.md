@@ -334,7 +334,7 @@ Zapytałem, czy on by jechał. Powiedział, że w moim wieku pojechałby nawet b
 
 Przed rozpoczęciem nauki w szkole magów, 4–3 PT · Aurel
 
-Przygotowałem dla szkoły rysunek lampy i wyniki prób. Orien kazał mi dopisać wysokość schodów, bo człowiek w Val Meris może wyobrazić sobie całkiem inne. Jego córka obszyła mi torbę od środka i wsunęła w podszewkę blaszaną puszkę. Powiedziała, że podczas powrotu pozna mój krok po tym, jak będę brał ostatnie dwa stopnie naraz.
+Przygotowałem dla szkoły rysunek lampy i wyniki prób. Orien kazał mi dopisać wysokość schodów, bo człowiek w Val Meris może wyobrazić sobie całkiem inne. Jego córka przygotowała w torbie wewnętrzną kieszeń na blaszaną puszkę. Powiedziała, że podczas powrotu pozna mój krok po tym, jak będę brał ostatnie dwa stopnie naraz.
 
 Wyjąłem kartkę matki, żeby sprawdzić, czy po drodze w puszce nic się nie zagnie. Chciałem dopisać, co stało się tego dnia na stacji. Miałem trzy wyniki pomiarów i pamięć o sprzączce pasa na korytarzu. W pustym miejscu na kartce narysowałem kiedyś paznokciem głęboką kreskę. Pod światło jeszcze ją widać.
 

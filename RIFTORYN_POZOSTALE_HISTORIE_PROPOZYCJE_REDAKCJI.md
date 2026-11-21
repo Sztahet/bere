@@ -12,7 +12,7 @@
 
 **Przed:**
 
-> O sprawie Zerath rozmawiałem w kolejce z człowiekiem, który przyjechał szukać części do stacji. Wymienił dwie osady czekające na naprawę i spytał, ile to ma jeszcze potrwać. Nie miałem dla niego daty. Zapisałem nazwy obu miejsc na odwrocie pokwitowania. W rubryce o tym, kogo reprezentuję, wpisałem wspólny nadzór.
+> O sprawie Zerath rozmawiałem w kolejce z człowiekiem, który przyjechał szukać części do stacji. Wymienił dwie osady czekające na naprawę i spytał, ile to ma jeszcze potrwać. Nie miałem dla niego daty. Zapisałem nazwy obu miejsc na odwrocie pokwitowania. W rubryce dotyczącej popieranego wariantu wpisałem: wspólny nadzór.
 
 **Po:**
 

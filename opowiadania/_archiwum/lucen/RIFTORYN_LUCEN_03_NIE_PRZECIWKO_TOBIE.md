@@ -184,7 +184,7 @@ Byłem jej wdzięczny, że wtedy zajęła się adresowaniem dwóch odpisów. Wys
 
 Na stole do zapisów leżały dwa arkusze. Przeczytałem jeszcze raz warunki wspólnego nadzoru. Chcę, żeby ostrzeżenie wpisane przy jednej stacji można było sprawdzić w następnej krainie. Chcę też, żeby pracownik mógł zatrzymać urządzenie do kontroli i żeby po nim ktoś jeszcze przeczytał odczyty. Przy przeprawie miałem obok siebie doświadczonego przewodnika. W raporcie zmieścił się w jednej rubryce. Następnym razem może go przy mnie zabraknąć.
 
-O sprawie Zerath rozmawiałem w kolejce z człowiekiem, który przyjechał szukać części do stacji. Wymienił dwie osady czekające na naprawę i spytał, ile to ma jeszcze potrwać. Nie miałem dla niego daty. Zapisałem nazwy obu miejsc na odwrocie pokwitowania. W rubryce o tym, kogo reprezentuję, wpisałem wspólny nadzór.
+O sprawie Zerath rozmawiałem w kolejce z człowiekiem, który przyjechał szukać części do stacji. Wymienił dwie osady czekające na naprawę i spytał, ile to ma jeszcze potrwać. Nie miałem dla niego daty. Zapisałem nazwy obu miejsc na odwrocie pokwitowania. W rubryce dotyczącej popieranego wariantu wpisałem: wspólny nadzór.
 
 Człowiek od części stał jeszcze przy wyjściu. Podałem mu pokwitowanie, żeby sprawdził, czy dobrze zapisałem obie nazwy. Przy drugiej poprawił końcówkę. Zapytał, czy jestem z Aurelu. Odpowiedziałem, że mieszkam tam od dawna, a tej nazwy z Zerath po prostu nigdy wcześniej nie słyszałem.
 
