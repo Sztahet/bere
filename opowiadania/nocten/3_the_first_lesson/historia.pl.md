@@ -6,7 +6,7 @@
 
 Wróciłem do starego zeszytu, bo potrzebowałem czystej kartki. To kiepski powód, by otwierać zeszyt, którego obawiałem się przez większą część zimy. Na szczęście znalazłem w nim coś innego, zanim zdążyłem wyrwać stronę.
 
-Kiedy znów zbiorą się przedstawiciele siedmiu żywiołów, musisz tam być.
+*Kiedy znów zbiorą się przedstawiciele siedmiu żywiołów, musisz tam być.*
 
 Pod spodem zapisana data: 29 maja, 12 ET.
 
@@ -60,7 +60,7 @@ Potem siedziałem długo przy stole. Jeśli moje wspomnienia nie są pewne, czy 
 
 Wyjąłem odpowiedź ze szkoły na północy. Księga wskazuje, że budynek był zamknięty dnia, który podałem. Nie rozstrzyga, kiedy odbyła się lekcja ani czy zapamiętałem ją właściwie. Dwa opisy w moim zeszycie nadal leżą obok siebie: w jednym pada deszcz, w drugim podłoga jest sucha.
 
-Próbowałem odtworzyć pierwsze ćwiczenie. Położyłem dłoń na stole, a obok świecę. Poprowadziłem cień kilka szerokości palca i zatrzymałem go przy krawędzi kartki. Potem przesunąłem świecę. Cień zmienił kształt; musiałem poprawić własny ruch, żeby nie przykryć napisanego zdania.
+Próbowałem odtworzyć pierwsze ćwiczenie. Położyłem dłoń na stole, a obok świecę. Przesunąłem cień o kilka palców i zatrzymałem go przy krawędzi kartki. Potem przesunąłem świecę. Cień zmienił kształt; musiałem poprawić własny ruch, żeby nie przykryć napisanego zdania.
 
 To ćwiczenie znam teraz, niezależnie od tego, jak zapamiętałem pierwszy raz. Kiedyś chciałem zasłonić całą salę. Dzisiaj wystarczyło mi nie zasłaniać słów, które próbuję przeczytać.
 
@@ -80,7 +80,7 @@ W drodze powrotnej pomyślałem, ile razy sam zaczynałem od białych murów. Do
 
 22 maja, 12 ET · osada Noctena
 
-Otrzymałem odpowiedź z archiwum. Pracownica nie znalazła drugiej kopii mojego wykazu. W jednym rejestrze natrafiła na podobny znak, ale brakowało stron z właściwego okresu. Oddała mi tę samą ostrożność, którą sam chciałem zachować: napisała, co sprawdziła, a czego nie mogła ustalić.
+Otrzymałem odpowiedź z archiwum. Pracownica nie znalazła drugiej kopii mojego wykazu. W jednym rejestrze natrafiła na podobny znak, ale brakowało stron z właściwego okresu. Napisała dokładnie, co sprawdziła, a czego nie mogła ustalić.
 
 Dołączyła również odpis z księgi odwiedzin innego archiwum, tego, w którym szukałem mapy. Napisała, że poprosiła o sprawdzenie dawnych wpisów przy okazji mojego pytania o drogę. Pod datą sprzed kilku lat widnieje tam prośba o tę samą mapę i imię zaczynające się od „Noct”. Dalsze litery przecina ślad po zagięciu strony. Nie ma adresu ani podpisu.
 

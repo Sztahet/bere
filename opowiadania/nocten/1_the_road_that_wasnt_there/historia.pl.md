@@ -22,7 +22,7 @@ Po powrocie położyłem chleb na stole i zobaczyłem przez chwilę białą ści
 
 Pamiętam, że ją kochałem. Nie potrafię przypomnieć sobie jej twarzy.
 
-Obraz minął, gdy odsunąłem krzesło. Usiadłem i zjadłem chleb, póki był ciepły. Wydawało mi się to właściwą odpowiedzią na obie rzeczy.
+Obraz minął, gdy odsunąłem krzesło. Usiadłem i zjadłem chleb, póki był ciepły.
 
 ## II. Białe mury
 
@@ -92,7 +92,7 @@ Nie poprawiłem go. Zaznaczyłem tylko na mapie miejsce, którego nie byłem pew
 
 Wieczorem otworzyłem drugi zeszyt. Na pierwszej stronie zapisałem datę znalezienia mapy, na następnej — datę powrotu. Potem obejrzałem starszą kartkę, którą nosiłem w kieszeni płaszcza. Własnym pismem opisałem na niej drogę do miejsca, którego nazwy nie znam. Nie pamiętam, kiedy ją przebyłem ani kiedy spisałem trasę.
 
-Pod opisem ktoś dopisał: Nie wracaj sam.
+Pod opisem ktoś dopisał: *Nie wracaj sam.*
 
 Pismo przypomina moje. Przesunąłem palcem pod słowem „sam”, choć atrament był suchy od dawna.
 
