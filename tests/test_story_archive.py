@@ -21,7 +21,7 @@ class StoryArchiveTests(unittest.TestCase):
                         self.assertTrue(chapter["title"])
                         self.assertTrue(any(block.get("text") for block in chapter["blocks"]))
 
-    def test_draft_trilogies_match_unity_resources(self):
+    def test_selected_trilogies_match_unity_resources(self):
         root = Path(__file__).resolve().parents[1]
         folders = {"nocten": "Nocten", "piecarius": "Piecarius", "morrak": "Morrak",
                    "thora": "Thora", "miko": "Miko"}
@@ -33,6 +33,5 @@ class StoryArchiveTests(unittest.TestCase):
             for index, entry in enumerate(entries, 1):
                 story = load_story(*entry)
                 resource = root / "riftoryn-unity/Assets/Resources" / f"{folders[hero_id]}Draft{index}" / "story.json"
-                self.assertTrue(story.get("draft"))
                 self.assertEqual(json.loads(resource.read_text(encoding="utf-8"))["chapters"], story["chapters"])
         self.assertEqual(found, set(folders))

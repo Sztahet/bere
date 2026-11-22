@@ -17,7 +17,7 @@
           "text": "Sprawdziłem to trzykrotnie. Poprosiłem ucznia z warsztatu, żeby stanął przy kamiennej ścianie za placem, i kazałem mu cofać się, dopóki nie przestanę widzieć jego twarzy. Potem włączyłem sygnalizator."
         },
         {
-          "text": "Dwie wąskie linie przecięły kurz. Uczeń podniósł rękę."
+          "text": "Dwie wąskie linie przecięły kurz. Uczeń zamachał obiema rękami."
         },
         {
           "image": 1,
@@ -25,10 +25,7 @@
           "pending": true
         },
         {
-          "text": "— Widzę! — krzyknął."
-        },
-        {
-          "text": "Nie słyszałem go z tej odległości, ale poruszał ustami w sposób sugerujący nadmierny entuzjazm. Wystarczyło. Zapisałem wynik."
+          "text": "Poruszał przy tym ustami z nadmiernym entuzjazmem, choć z tej odległości nie słyszałem ani słowa. Wystarczyło. Zapisałem wynik."
         },
         {
           "text": "Kryształ wewnątrz przyrządu był już naładowany. Dostałem jeden do prób i polecenie, żeby oszczędzać zapas. Oczywiście. Znowu będę musiał prosić maga o doładowanie. A on znowu powie, że ma inne zajęcia i moje kryształy mogą poczekać. Szkoda tylko, że razem z nimi musi czekać mój sygnalizator."
@@ -107,7 +104,7 @@
           "text": "Można było go zatrzymać. Można też było wysłać go bez sygnału. Żadna z tych decyzji nie należała do mnie, co uznałem za wygodne."
         },
         {
-          "text": "Podpisałem dopuszczenie urządzenia. Lena nie podpisała protokołu próby terenowej. Tej próby nie było."
+          "text": "Podpisałem dopuszczenie urządzenia, choć nie przeprowadziliśmy próby terenowej."
         }
       ]
     },
@@ -143,7 +140,7 @@
           "pending": true
         },
         {
-          "text": "Narysowałem jego położenie. Zmierzyłem odległość między końcem uchwytu a śrubą. Na jednym z ramion mocowania znalazłem ślad, który Lena zaznaczyła przed wymianą. Nowa część pękła w tym samym miejscu."
+          "text": "Narysowałem położenie kryształu. Zmierzyłem odległość między końcem uchwytu a śrubą. Nowa część pękła w tym samym miejscu, w którym Lena zauważyła kreskę na poprzednim mocowaniu."
         },
         {
           "text": "Zapytałem, gdzie jest przewodnik, ponieważ chciałem ustalić, co dokładnie widział."

@@ -26,15 +26,15 @@
     },
     {
       "folder": "MorrakDraft1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "MorrakDraft2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "MorrakDraft3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "SailaStory",
@@ -86,27 +86,27 @@
     },
     {
       "folder": "LucenStory1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "LucenStory2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "LucenStory3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "TarenStory1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "TarenStory2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "TarenStory3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "AzmirDraft1",
@@ -122,27 +122,27 @@
     },
     {
       "folder": "VaelisDraft1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "VaelisDraft2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "VaelisDraft3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "ThoraDraft1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "ThoraDraft2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "ThoraDraft3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "MikoDraft1",
@@ -170,51 +170,51 @@
     },
     {
       "folder": "NeraDraft1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "NeraDraft2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "NeraDraft3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "VedaDraft1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "VedaDraft2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "VedaDraft3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "RokanDraft1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "RokanDraft2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "RokanDraft3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "IldaDraft1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "IldaDraft2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "IldaDraft3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "VoltDraft1",

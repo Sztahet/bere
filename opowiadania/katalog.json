@@ -64,19 +64,19 @@
         "id": "imie-ktorego-nie-wypowiedzial",
         "folder": "opowiadania/morrak/1_the_name_he_didnt_speak",
         "unity": "MorrakDraft1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "swiadkowie-milczenia",
         "folder": "opowiadania/morrak/2_witnesses_to_silence",
         "unity": "MorrakDraft2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "imie-na-liscie",
         "folder": "opowiadania/morrak/3_a_name_on_the_list",
         "unity": "MorrakDraft3",
-        "draft": true
+        "draft": false
       }
     ]
   },
@@ -199,19 +199,19 @@
         "id": "z-tego-co-ocalalo",
         "folder": "opowiadania/lucen/1_from_what_was_saved",
         "unity": "LucenStory1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "nauka-kontroli",
         "folder": "opowiadania/lucen/2_learning_control",
         "unity": "LucenStory2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "nie-przeciwko-tobie",
         "folder": "opowiadania/lucen/3_not_against_you",
         "unity": "LucenStory3",
-        "draft": true
+        "draft": false
       }
     ]
   },
@@ -226,19 +226,19 @@
         "id": "to-co-pozostalo",
         "folder": "opowiadania/taren/1_what_remained",
         "unity": "TarenStory1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "cena-lojalnosci",
         "folder": "opowiadania/taren/2_the_cost_of_loyalty",
         "unity": "TarenStory2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "po-drugiej-stronie",
         "folder": "opowiadania/taren/3_on_the_other_side",
         "unity": "TarenStory3",
-        "draft": true
+        "draft": false
       }
     ]
   },
@@ -280,19 +280,19 @@
         "id": "zamknieta-kopia",
         "folder": "opowiadania/vaelis/1_the_sealed_copy",
         "unity": "VaelisDraft1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "brakujace-strony",
         "folder": "opowiadania/vaelis/2_the_missing_pages",
         "unity": "VaelisDraft2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "publiczny-zapis",
         "folder": "opowiadania/vaelis/3_the_public_record",
         "unity": "VaelisDraft3",
-        "draft": true
+        "draft": false
       }
     ]
   },
@@ -307,19 +307,19 @@
         "id": "ostatni-korzen",
         "folder": "opowiadania/thora/1_the_last_root",
         "unity": "ThoraDraft1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "dzien-ktory-mial-byc-spokojny",
         "folder": "opowiadania/thora/2_the_day_that_should_have_been_quiet",
         "unity": "ThoraDraft2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "wystarczy",
         "folder": "opowiadania/thora/3_enough",
         "unity": "ThoraDraft3",
-        "draft": true
+        "draft": false
       }
     ]
   },
@@ -388,19 +388,19 @@
         "id": "wolne-rece",
         "folder": "opowiadania/nera/1_a_pair_of_hands",
         "unity": "NeraDraft1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "po-drugiej-stronie",
         "folder": "opowiadania/nera/2_the_other_end",
         "unity": "NeraDraft2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "miejsce-na-nauke",
         "folder": "opowiadania/nera/3_room_to_learn",
         "unity": "NeraDraft3",
-        "draft": true
+        "draft": false
       }
     ]
   },
@@ -415,19 +415,19 @@
         "id": "to-co-zostaje-po-drodze",
         "folder": "opowiadania/veda/1_what_the_road_keeps",
         "unity": "VedaDraft1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "woz-i-troje-ludzi",
         "folder": "opowiadania/veda/2_a_cart_and_three_people",
         "unity": "VedaDraft2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "droga-powrotna",
         "folder": "opowiadania/veda/3_a_place_for_the_return",
         "unity": "VedaDraft3",
-        "draft": true
+        "draft": false
       }
     ]
   },
@@ -442,19 +442,19 @@
         "id": "miejsce-po-kamieniu",
         "folder": "opowiadania/rokan/1_where_the_stone_was",
         "unity": "RokanDraft1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "dluzsza-droga",
         "folder": "opowiadania/rokan/2_the_longer_road",
         "unity": "RokanDraft2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "jeden-przechodzi-pierwszy",
         "folder": "opowiadania/rokan/3_one_goes_first",
         "unity": "RokanDraft3",
-        "draft": true
+        "draft": false
       }
     ]
   },
@@ -469,19 +469,19 @@
         "id": "od-strony-sadu",
         "folder": "opowiadania/ilda/1_from_the_orchard",
         "unity": "IldaDraft1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "szerokosc-bramy",
         "folder": "opowiadania/ilda/2_the_width_of_the_gate",
         "unity": "IldaDraft2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "tedy-mozna-wrocic",
         "folder": "opowiadania/ilda/3_a_way_back",
         "unity": "IldaDraft3",
-        "draft": true
+        "draft": false
       }
     ]
   },
