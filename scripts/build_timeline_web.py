@@ -1,4 +1,4 @@
-"""Generate the offline HTML timeline data from dated story sections."""
+"""Generate the offline HTML timeline data from canon events and story sections."""
 
 import json
 import re
@@ -7,6 +7,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 WEB_DATA = ROOT / "riftoryn-unity" / "Web" / "timeline-data.js"
+WORLD_HISTORY = ROOT / "world_history.md"
 
 manifest = json.loads((ROOT / "opowiadania" / "katalog.json").read_text(encoding="utf-8"))
 story_by_folder = {
@@ -22,7 +23,7 @@ def era_sort(date_text):
     range_match = re.search(r"(\d+)\s*[–-]\s*(\d+)\s+(PT|ET)", date_text)
     year_match = re.search(r"(\d+)\s+(PT|ET)\b", date_text)
     if range_match:
-        year = int(range_match.group(2))
+        year = int(range_match.group(1))
         era = range_match.group(3)
     elif year_match:
         year = int(year_match.group(1))
@@ -75,6 +76,48 @@ def display_parts(date_text):
     else:
         date_part, location = date_text, ""
     return date_part.strip(), location.strip()
+
+
+def parse_world_history():
+    text = WORLD_HISTORY.read_text(encoding="utf-8")
+    try:
+        timeline = text.split("## Pełna oś czasu\n", 1)[1].split(
+            "\n## Konflikty na przyszłość", 1
+        )[0]
+    except IndexError as error:
+        raise ValueError("Could not find the full timeline in world_history.md") from error
+
+    events = []
+    current = None
+    for line in timeline.splitlines():
+        if line.startswith("### "):
+            if current:
+                events.append(current)
+                current = None
+        elif line.startswith("#### "):
+            if current:
+                events.append(current)
+            heading = line[5:]
+            parts = re.fullmatch(r"(.+?)\s+—\s+(.+)", heading)
+            if not parts:
+                raise ValueError(f"Unrecognized world-history timeline heading: {heading}")
+            current = {
+                "date": parts.group(1).strip(),
+                "title": parts.group(2).strip(),
+                "paragraphs": [],
+            }
+        elif current and line.strip():
+            paragraph = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", line.strip())
+            paragraph = paragraph.replace("**", "")
+            current["paragraphs"].append(paragraph)
+        elif current and current["paragraphs"] and not line.strip():
+            current["paragraphs"].append("")
+
+    if current:
+        events.append(current)
+    if not events:
+        raise ValueError("No dated events found in world_history.md")
+    return events
 
 
 hero_names = {}
@@ -140,6 +183,7 @@ def render():
             year_match = re.search(r"(\d+)\s+(PT|ET)\b", date_text)
             year = year_match.group(1) + " " + year_match.group(2) if year_match else era
             events.append({
+                "kind": "story",
                 "date": date_text,
                 "datePart": date_part,
                 "location": location,
@@ -150,9 +194,50 @@ def render():
                 "hero": hero["id"],
                 "source": file_path.relative_to(ROOT).as_posix(),
                 "link": story_link(folder, heading.strip(), chapter_index),
+                "_sortKey": era_sort(date_text),
             })
 
-    events.sort(key=lambda event: era_sort(event["date"]))
+    for history_event in parse_world_history():
+        date_text = history_event["date"]
+        range_match = re.search(r"\d+\s*[–-]\s*\d+\s+(PT|ET)\b", date_text)
+        year_match = re.search(r"(\d+)\s+(PT|ET)\b", date_text)
+        era_match = re.search(r"\b(PT|ET)\b", date_text)
+        if "przed Traktatem" in date_text and not era_match:
+            year = "Przed Traktatem"
+            era = "PT"
+            sort_key = (-0.5, 1, 1)
+        elif range_match:
+            year = date_text
+            era = range_match.group(1)
+            sort_key = era_sort(date_text)
+        elif year_match and era_match:
+            year = year_match.group(1) + " " + year_match.group(2)
+            era = era_match.group(1)
+            sort_key = era_sort(date_text)
+        else:
+            raise ValueError(f"Could not determine the era for world-history event: {date_text}")
+
+        description = "\n".join(history_event["paragraphs"]).strip()
+        events.append({
+            "kind": "history",
+            "date": date_text,
+            "datePart": date_text,
+            "location": "Historia świata",
+            "year": year,
+            "era": era,
+            "title": history_event["title"],
+            "description": description,
+            "heroes": [],
+            "source": WORLD_HISTORY.relative_to(ROOT).as_posix(),
+            "sourceLink": "world_history.md",
+            "link": None,
+            "_sortKey": sort_key,
+        })
+
+    events.sort(key=lambda event: (*event["_sortKey"], event["kind"] != "history"))
+    for event in events:
+        del event["_sortKey"]
+
     hero_meta = []
     for entry in codex_portraits:
         portrait_file = portraits.get(entry["id"])

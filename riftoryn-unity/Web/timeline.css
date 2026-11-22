@@ -251,9 +251,23 @@ h1 {
   letter-spacing: .05em;
   text-transform: uppercase;
 }
+.event-kind {
+  margin: .55rem 0 .1rem;
+  color: var(--muted);
+  font-size: .66rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
 .event-card h3 {
   margin: .25rem 0 .65rem;
   font: 500 clamp(1.25rem, 2.5vw, 1.65rem)/1.18 var(--serif);
+}
+.event-description {
+  margin: .65rem 0 1rem;
+  color: var(--muted);
+  font-size: .88rem;
+  white-space: pre-line;
 }
 .event-heroes { display: flex; align-items: center; gap: .35rem; flex-wrap: wrap; }
 .event-hero {

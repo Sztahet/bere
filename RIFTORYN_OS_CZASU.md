@@ -1,25 +1,28 @@
 ﻿# Riftoryn — oś czasu całego świata
 
-**Status:** kanoniczny indeks chronologiczny opublikowanych opowieści.
+**Status:** kanoniczny indeks chronologiczny opublikowanych opowieści i ważnych wydarzeń świata.
 
-Ten plik zestawia datowane sekcje opowieści w kolejności chronologicznej.
+Ten plik zestawia datowane sekcje opowieści w kolejności chronologicznej. Widok HTML
+łączy je z datowanymi wydarzeniami z pełnej osi czasu kanonu w [`world_history.md`](world_history.md).
+Dla jednego widoku obu rodzajów wpisów otwórz [oś czasu HTML](os-czasu-riftoryn.html).
 `Bohaterowie` obejmuje narratora sceny oraz imiona bohaterów wyraźnie występujących
-lub nazwanych w sekcji.
+lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źródła.
 
 ## Źródła i zasady
 
 - Punktami sortującymi są daty i miejsca pod nagłówkami sekcji.
+- Wydarzenia świata pochodzą z sekcji „Pełna oś czasu” w `world_history.md`.
 - Daty bez dnia są sortowane na początek wskazanego miesiąca, a sezony na przybliżony miesiąc.
 - Zakresy lat są zachowane w tekście; sortowanie używa pierwszego roku zakresu.
 - Przy tej samej dacie sekcje z różnych perspektyw mogą opisować ten sam moment.
 
-## Kamienie milowe kanonu
+## Główne okresy kanonu
 
-- **Wojna Siedmiu Bram** — zapisany zakres wcześniejszych wydarzeń i konfliktów regionalnych.
-- **3 PT · Val Meris** — Noc Zgasłych Wież; przyczyna i kolejność zdarzeń pozostają niepotwierdzone.
-- **Po 3 PT · kontynent** — rozejm i zmieniona ocena ryzyka.
-- **9 ET** — powódź, która dotknęła Korzennej Przystani; związane awarie nie są przypisywane Nocy.
-- **12 ET · Val Meris** — Wielkie Igrzyska; kwalifikacje rozpoczynają się w maju.
+- **180–43 PT** — porozumienia szlaków, odkrycia techniczne i rozwój sieci.
+- **41–2 PT** — niedobór, Wojna Siedmiu Bram, Noc Zgasłych Wież i rozejm.
+- **1 PT–0 ET** — Pojedynek Bram, rozwój Prób i podpisanie Traktatu.
+- **1–12 ET** — rozwój instytucji Prób, Kodeks, niezgodności w rejestrach i przygotowania do Wielkich Igrzysk; w 9 ET powódź dotyka Korzennej Przystani, a powiązane awarie nie są przypisywane Nocy Zgasłych Wież.
+- Szczegółowe daty, opisy i zastrzeżenia kanonu znajdują się w [`world_history.md`](world_history.md).
 
 ## Oś chronologiczna
 

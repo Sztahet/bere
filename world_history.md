@@ -708,6 +708,10 @@ Urząd publikuje wyniki, tabele punktów i podziały przydziałów. Próby staj�
 
 Popularność przynosi uczestnikom sławę, ale nie zmienia zatwierdzonego podziału punktów ani zasad Traktatu.
 
+#### 9 ET — powódź w Korzennej Przystani
+
+Powódź dotyka Korzennej Przystani. Powiązane z nią awarie nie są przypisywane Nocy Zgasłych Wież; dokładny przebieg i skala szkód nie są tu ustalone.
+
 #### 9 ET — Kodeks Prób
 
 Powstaje Kodeks Prób z regułami, opisami wież i dokumentacją bezpieczeństwa.
