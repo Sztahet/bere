@@ -2,15 +2,15 @@
   "stories": [
     {
       "folder": "NoctenDraft1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "NoctenDraft2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "NoctenDraft3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "PiecariusDraft1",

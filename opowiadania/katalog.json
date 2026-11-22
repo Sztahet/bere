@@ -10,19 +10,19 @@
         "id": "droga-ktorej-nie-bylo",
         "folder": "opowiadania/nocten/1_the_road_that_wasnt_there",
         "unity": "NoctenDraft1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "tym-razem-nie-wierz-noctenowi",
         "folder": "opowiadania/nocten/2_dont_believe_nocten_this_time",
         "unity": "NoctenDraft2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "pierwsza-lekcja",
         "folder": "opowiadania/nocten/3_the_first_lesson",
         "unity": "NoctenDraft3",
-        "draft": true
+        "draft": false
       }
     ]
   },
