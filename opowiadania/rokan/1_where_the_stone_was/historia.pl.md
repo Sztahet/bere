@@ -14,7 +14,7 @@ Kiedy Heda była mała, przychodziła po mnie pod kamieniołom i z odcisków moi
 
 Pojechaliśmy. Na zakręcie przy składzie nie patrzyła na koła. Patrzyła na uszy konia. Umiała przeprowadzić obładowany wóz między murem a wagą tak płynnie, że z desek nie spadało nawet to, co zostało po poprzednim kursie. Przez szesnaście lat woziła cudze drzwi, kołyski i nagrobki, a w domu pod stołem miała klin, który nieustannie wypadał spod nogi. Dałem jej kiedyś nowy, z dobrego drewna. Stary zostawiła tam, gdzie był. Gdy szukałem nowego, wskazała okno. Podpierał je latem, kiedy od drogi szedł kurz i trzeba było uchylić skrzydło na tyle, żeby wpadało powietrze, a na tyle mało, żeby po powrocie nie wycierać wszystkiego z mączki kamiennej.
 
-Przed wagą pachniało chlebem. Heda wyjęła spod płachty dwa kawałki zwinięte w papier. Jeden podała mnie, drugi położyła sobie na kolanach.
+Przed wagą pachniało chlebem. Heda wyjęła spod płachty dwa kawałki zwinięte w papier. Jeden podała mi, drugi położyła sobie na kolanach.
 
 — Z masłem — powiedziałem.
 
@@ -78,7 +78,7 @@ Chciałem odwiązać płótno na dobre. Węzeł tak się zacisnął, że nie mog
 
 — Nie pamiętam więcej — powiedziałem.
 
-Ilda wyszła po kaganek. Sięgnąłem po swój, ale powiedziała, że najpierw chce wiedzieć, co zrobię z dorosłym. Wziąłem płótno i obszedłem z nim dom. Grunt przy murze był miękki, bo podlewała tam szczypior. Pozwoliła mi wykopać dołek przy głogu, gdzie niczego nie siała. Zanim zasypałem zwierzę, odwinąłem je i zabrałem płótno. Ziemia wpadała między płytki pancerza. Przy ostatniej garści przyłapałem się na tym, że staram się nie trafić mu w oko.
+Ilda wyszła po kaganek. Sięgnąłem po swój, ale powiedziała, że najpierw chce wiedzieć, co zrobię z martwym kamieniozębem. Wziąłem płótno i obszedłem z nim dom. Grunt przy murze był miękki, bo podlewała tam szczypior. Pozwoliła mi wykopać dołek przy głogu, gdzie niczego nie siała. Zanim zasypałem zwierzę, odwinąłem je i zabrałem płótno. Ziemia wpadała między płytki pancerza. Przy ostatniej garści przyłapałem się na tym, że staram się nie trafić mu w oko.
 
 Położyłem na kopczyku kamień. Nie był ładny. Miał dwa płaskie boki i rysę od żelaza. Ilda nie spytała, czemu go kładę. Przyniosła mi wodę do rąk i powiedziała, że jeśli wrócę do wyrobiska, mam patrzeć, którędy idę.
 
