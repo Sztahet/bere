@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#16151a">
+  <meta name="description" content="Chronologiczna oś czasu świata Riftoryn i miejsca bohaterów w wydarzeniach.">
+  <title>Oś czasu — Riftoryn</title>
+  <link rel="stylesheet" href="riftoryn-unity/Web/timeline.css">
+  <script defer src="riftoryn-unity/Web/timeline-data.js"></script>
+  <script defer src="riftoryn-unity/Web/timeline.js"></script>
+</head>
+<body>
+  <header class="masthead">
+    <div class="shell masthead-inner">
+      <a class="wordmark" href="archiwum-riftoryn.html">Riftoryn</a>
+      <nav aria-label="Powrót">
+        <a class="codex-link" href="archiwum-riftoryn.html">Archiwum <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="timeline-hero">
+      <div class="shell timeline-hero-inner">
+        <div>
+          <p class="eyebrow">Kodeks świata / chronologia</p>
+          <h1>Oś czasu</h1>
+        </div>
+        <div class="timeline-summary" aria-live="polite">
+          <strong id="event-count">0</strong>
+          <span>wydarzeń i scen</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="shell timeline-controls" aria-label="Filtry osi czasu">
+      <div class="era-tabs" id="era-tabs" role="tablist" aria-label="Era"></div>
+      <label class="search-box">
+        <span>Szukaj</span>
+        <input id="timeline-search" type="search" placeholder="Miejsce, sekcja, bohater…" autocomplete="off">
+      </label>
+    </section>
+
+    <section class="shell timeline-workspace">
+      <aside class="hero-filter" aria-label="Filtr bohaterów">
+        <p class="filter-label">Bohaterowie</p>
+        <div id="hero-filter" class="hero-filter-list"></div>
+      </aside>
+
+      <div class="timeline-content">
+        <div class="year-jump" id="year-jump" aria-label="Przejdź do roku"></div>
+        <div class="timeline-list" id="timeline-list" aria-live="polite"></div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

@@ -26,6 +26,7 @@ h1, h2, p { margin: 0; }
 h1, h2 { font-family: var(--serif); font-weight: 500; }
 h1 { font-size: clamp(2.65rem, 6.5vw, 5.2rem); line-height: 1.04; }
 .collection-heading p { margin-top: .7rem; color: var(--muted); }
+.archive-tools { display: flex; gap: 1.2rem; flex-wrap: wrap; }
 .hero-list { padding: .7rem 0 0; }
 .heroes-heading { display: flex; align-items: end; justify-content: space-between; gap: 1rem; margin-bottom: 1.15rem; }
 .section-eyebrow { display: block; color: var(--accent); font-size: .68rem; font-weight: 700; letter-spacing: .16em; }
