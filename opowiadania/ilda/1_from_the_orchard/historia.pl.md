@@ -42,7 +42,7 @@ Od dawna krępowało mnie, że gdy człowiek przykucnie, ludzie chcą go natychm
 
 Następnego ranka czekała już przy przepuście. Poznałam ją po ukruszonym kle. Stanęła tak, że z jednej strony miała wodę, z drugiej niski mur. Dwa młode przeszły jej pod pyskiem. Jedno przystanęło nad korzeniem, którego chyba nie umiało przegryźć. Samica trąciła je w zad i oba zniknęły w pokrzywach. Potem spojrzała w moją stronę.
 
-Dzielił nas mur i szerokość drogi. Zwykle widzi się człowieka nad głową zwierzęcia. Ja wtedy miałam przed oczyma tylko jej ucho, kawałek szczeciny i żółte oko, które na chwilę znieruchomiało. Podeszłam pod mur za późno, żeby móc się wycofać bez szurania. Stałam więc tam, gdzie byłam. Przez chwilę pachniałam sobie tak mocno wełną i wczorajszą cebulą, jakbym włożyła nos we własny rękaw.
+Dzielił nas mur i szerokość drogi. Zwykle widzi się człowieka nad głową zwierzęcia. Ja wtedy miałam przed oczyma tylko jej ucho, kawałek szczeciny i żółte oko, które na chwilę znieruchomiało. Podeszłam pod mur za późno, żeby móc się wycofać bez szurania. Stałam więc tam, gdzie byłam. Czułam zapach własnego płaszcza i cebuli, którą rano kroiłam do chleba. Nie poruszyłam się, kiedy samica ponownie wciągnęła powietrze.
 
 Samica podeszła dwa kroki bliżej. Czarną ziemię miała wysoko na ryju. Wciągnęła powietrze, odwróciła się i poszła za młodymi. Zaczekałam, aż z pokrzyw przestanie iść dźwięk. Dopiero wtedy ruszyłam zobaczyć, którędy da się przejść bez wychodzenia na środek drogi.
 
@@ -92,7 +92,7 @@ Dopiero wtedy Heda pokazała człowiekowi, gdzie przeprowadzić konia. Pomogła 
 
 — Następnym razem mogę być już na drugim końcu miasta — powiedziała.
 
-Zabrałyśmy go razem. Pod kołem został głęboki odcisk. Miał kształt prostokąta i ostre brzegi, zupełnie inne od tego, co zostawia kopyto. Powiedziałam, że potrzebujemy dobrej zapory już przed zakrętem. Heda odparła, że trzeba też powiedzieć ludziom, kto ją otwiera. Jeśli zostawi się ją tylko mnie, znajdą się tacy, którzy po prostu ją podniosą.
+Zabrałyśmy klin, który Heda wsunęła wcześniej pod koło. W ziemi został głęboki odcisk. Miał kształt prostokąta i ostre brzegi, zupełnie inne od tego, co zostawia kopyto. Powiedziałam, że potrzebujemy dobrej zapory już przed zakrętem. Heda odparła, że trzeba też powiedzieć ludziom, kto ją otwiera. Jeśli zostawi się ją tylko mnie, znajdą się tacy, którzy po prostu ją podniosą.
 
 Wracałam przez podwórze. Przy białej kresce od warsztatu ktoś położył dwa żelazne zawiasy. Z wałka jednego odpadł płatek czarnej farby. Wzięłam oba do domu, żeby do rana nie zginęły.
 
@@ -104,7 +104,7 @@ Dara przyszła po zawiasy z miarką zwiniętą przy pasku. Usiadła na ławie, j
 
 Spytałam, czy weźmie jeden boks razem z częścią dachu. Dałaby za to mniej niż połowę. Wóz musiałby zostać na dworze, a ludzi do rozładunku trzeba by umawiać na każdy kurs. Miała rację, że przy osobnych kursach to się nie opłaci. Przykryłam kartkę oboma zawiasami. Powiedziałam, że nie oddam bramy na wyłączność. Jeśli spróbujemy zmienić przejazd przy sadzie, potrzebuję tu miejsca dla czekających koni.
 
-— Dla koni? — zapytał.
+— Dla koni? — zapytała.
 
 — Żeby mogły zaczekać z tej strony. Wtedy dół po drugiej zostanie wolny.
 
@@ -114,4 +114,4 @@ Kiedy odsuwałam Darze zapadkę, zobaczyłam Hedę z kartką przy bramie. Wypisa
 
 Z niedoszłego czynszu wystarczyłoby na taki wydatek bez zastanowienia. Z tego, co miałam w szufladzie, musiałam liczyć. Zgodziłam się dołożyć do pierwszych żerdzi i przyjąć pod dach konie rano. Heda wzięła na siebie zaporę w dni, kiedy jechała. Po południu rysowałyśmy miejsca na paliki. Kiedy młode pójdą za samicą w górę, górny odcinek nadal będzie od nich oddzielony murem. Przy samym przepuście trzeba będzie zaczekać.
 
-Przed końcem dnia poszłam sama zobaczyć, czy przejście przy płocie da się poznać z dołu. Położyłam dłonie na jednej żerdzi. Była lekka, lecz najchętniej poprawiłabym ją jeszcze od drugiej strony, żeby od razu wytrzymała do jesieni. Wtedy z bruzdy wyszły dwa małe. Przystanęły blisko siebie. Samica ruszyła dopiero, kiedy stały na suchej stronie. Na mój widok uniosła łeb, żuchwę miała mokrą od wody. Nazwałam ją po cichu Korą. Przyszło mi to od ciemnej płytki przy uchu, odgiętej na końcu jak kora na starym pniu. Zwierzę przeszło dalej. Wróciłam po narzędzia, zanim człowiek z prowadzonego pod daszek konia musiał mnie zawołać.
+Przed końcem dnia poszłam sama zobaczyć, czy przejście przy płocie da się poznać z dołu. Położyłam dłonie na jednej żerdzi. Była lekka, lecz najchętniej poprawiłabym ją jeszcze od drugiej strony, żeby od razu wytrzymała do jesieni. Wtedy z bruzdy wyszły dwa małe. Przystanęły blisko siebie. Samica ruszyła dopiero, kiedy stały na suchej stronie. Na mój widok uniosła łeb, żuchwę miała mokrą od wody. Nazwałam ją po cichu Korą. Przyszło mi to od ciemnej płytki przy uchu, odgiętej na końcu jak kora na starym pniu. Nie zawołałam jej ani nie próbowałam podejść. Miała przejście do wody i nie chciałam, żeby zaczęła kojarzyć je z ludźmi stojącymi na drodze. Kora poszła dalej. Wróciłam po narzędzia, zanim człowiek z prowadzonego pod daszek konia musiał mnie zawołać.

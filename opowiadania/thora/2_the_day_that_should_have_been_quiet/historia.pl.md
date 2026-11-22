@@ -42,7 +42,7 @@ Po kilku tygodniach znałam większość dźwięków wieży. Czasem i tak zdarza
 
 28 maja, 12 ET · plac zawodów, Val Meris
 
-Na miejscowych zawodach do naszej trójki wylosowano człowieka, który chciał wiedzieć, ile razy walczyłam pod taką wieżą. Odpowiedziałam, że mniej, niż bym chciała przed Igrzyskami. W dolinie z wodą nauczyłam się obchodzić wcześniej. Widziałam ją zwykle dłużej, zanim we mnie uderzyła.
+Na miejscowych zawodach do naszej trójki wylosowano człowieka, który chciał wiedzieć, ile razy walczyłam pod taką wieżą. Odpowiedziałam, że mniej, niż bym chciała przed Igrzyskami. Z wodą w Verdan miałam więcej doświadczenia. Tutaj musiałam dopiero nauczyć się, skąd nadlatują pociski.
 
 Trzeci zawodnik zawiązał na pasie pętlę, żeby ciągnąć skrzynię. Poprosiłam, by sprawdził, czy wyjmie z niej palce. Wyjął, a ja zwróciłam się do Piecariusa.
 

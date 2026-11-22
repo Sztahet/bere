@@ -68,17 +68,17 @@ Zgodziłam się. Kiedy wracałyśmy, zawołał za nami właściciel siwka. Chcia
 
 16 kwietnia, 12 ET · plac przy wadze, Kamienny Próg, Kharum
 
-Położyłam przed Baretową kartą zmian kawałek żerdzi. Miał zadarty koniec. Przy pierwszym próbnym mocowaniu kazałam wyciąć dla niego ciasne gniazdo, żeby nie obijał się na wietrze. Teraz trudno go było wyciągnąć nawet komuś, kto unosił go z obu stron. Z samego drewna widać było, że przy zaporze stanęłam parę razy bez pomocy. Zacisnęłam na nim ręce, pokazałam, jak to się stało, i odłożyłam.
+Położyłam przed Baretową kartą zmian kawałek żerdzi. Miał zadarty koniec. Przy pierwszym próbnym mocowaniu kazałam wyciąć dla niego ciasne gniazdo, żeby nie obijał się na wietrze. Teraz trudno go było wyciągnąć nawet komuś, kto unosił go z obu stron. Pokazałam Baretowi, jak zacina się przy podnoszeniu. Dwa razy musiałam szarpać za ten koniec sama; dopiero teraz przyniosłam go komuś, kto mógł coś z tym zrobić.
 
 Baret zapytał, co ma z tym zrobić. Wyrobisko miało pierwszą dostawę ustaloną wcześniej, zanim ktokolwiek zadbał o przepust. Gdyby wozy miały przyjeżdżać później, ludzie od odbioru siedzieliby przez część zmiany bez roboty. Popatrzył na mnie i dodał, że płaci im od przyjętej partii. Jeśli spadnie liczba kursów, już od następnej wypłaty będą pytać, z czego im dopłaci.
 
 — Ja też pytam od tygodnia — powiedziałam.
 
-Kazał mi rozwinąć swój papier. Zaczął od godzin. Gdy przeszliśmy po kolei przez to, kto naprawdę przyjeżdżał przed pierwszym światłem, dwóch z wykazu trzeba było skreślić. Jeden woził z innej strony. Drugą była Heda, która od tygodnia jeździła po późniejszej zmianie, choć ustępowała jej część drogi ciszy. Baret zawołał Kelę. Przyszła z wagi z kartkami pod pachą i spytała, czy mamy potwierdzenia od ludzi, czy ustalamy to z papieru.
+Kazał mi rozwinąć swój papier. Zaczął od godzin. Gdy przeszliśmy po kolei przez to, kto naprawdę przyjeżdżał przed pierwszym światłem, dwóch z wykazu trzeba było skreślić. Jeden woził z innej strony. Drugą była Heda, którą wciąż wpisywano na poranną zmianę, choć od tygodnia jeździła później. Baret zawołał Kelę. Przyszła z wagi z kartkami pod pachą i spytała, czy mamy potwierdzenia od ludzi, czy ustalamy to z papieru.
 
-— To moje potwierdzenie — odparłam, podsuwając jej miskę.
+— Od dwóch woźniców mam wiadomości. Pozostałe postoje widziałam sama — odparłam. Przesunęłam ku niej miskę. — A to dostałam za poranne czekanie.
 
-Kela zajrzała do niej. Były tam teraz dwie garście owsa i połamany kredowy ołówek. Przysunęła ją sobie, jakbyśmy miały zaraz obie jeść, i zapytała, ile tego spędzonego czasu wzięłabym na stałe. Powiedziałam dwie godziny we wtorek i piątek. W rzeczywistości mogłam dać jeszcze trzy poranki, jeśli w domu nic się nie stanie. Powiedziałam jej o tym dopiero wtedy, kiedy Baret sięgnął po ołówek. Dopisała na boku, że dodatkowy dyżur wymaga pytania do mnie. Nie wpisała mnie na niego.
+Kela zajrzała do środka. Były tam dwie garście owsa i połamany kredowy ołówek. Zapytała, ile godzin mogłabym poświęcać na to regularnie. Powiedziałam dwie godziny we wtorek i piątek. W rzeczywistości mogłam dać jeszcze trzy poranki, jeśli w domu nic się nie stanie. Powiedziałam jej o tym dopiero wtedy, kiedy Baret sięgnął po ołówek. Dopisała na boku, że dodatkowy dyżur wymaga pytania do mnie. Nie wpisała mnie na niego.
 
 Baret poprosił nas, żebyśmy wróciły po południu. Musiał zagadać do ludzi, których imiona chciał wpisać obok mojego imienia. Kela przed wyjściem wzięła kawałek żerdzi i postawiła go przy ścianie, żebym nie musiała nieść go z powrotem na dół.
 
@@ -92,7 +92,11 @@ Od wagi Kela zawołała, żeby jej przytrzymać górny róg papieru. Przypinała
 
 28 kwietnia, 12 ET · miedza przy sadzie, Kamienny Próg, Kharum
 
-Po kilku tygodniach poznawałam po odgłosach, czy Kora idzie sama. Jej kroki było słychać dopiero pod kamieniami. Młode rwały trawę od dołu i pchały się pomiędzy śliwy, zanim ona wyszła z przepustu. Rosły szybciej, niż zmieniało się ich zachowanie. Zaczęły już wchodzić na miedzę przodem i skręcać w górę bez jej popychania. Tego dnia widziałam oba z drugiej strony wody. Samica została za nimi. Położyła łeb nisko przy płaskim kamieniu i pojedynczym ruchem odrzuciła go od pyska.
+Po kilku tygodniach poznawałam po odgłosach, czy Kora idzie sama. Jej kroki było słychać dopiero pod kamieniami. Młode rwały trawę od dołu i pchały się pomiędzy śliwy, zanim ona wyszła z przepustu. Jesienią miały jeszcze pręgi; teraz sięgały jej niemal do brzucha. Coraz częściej oddalały się bez ponaglania, a ona zostawała przy swoich wykopanych korzeniach. Dwa razy widziałam, jak wracały z wysokiego brzegu same. To nie znaczyło, że matka przestała być im potrzebna. Znaczyło tylko, że potrafią znaleźć drogę i pożywienie także bez niej.
+
+W kwietniu pracowałam przy ogrodzeniu niemal codziennie. Kiedy Kora ryła za murem, odkładałam szczotkę po dwóch lekkich stuknięciach trzonkiem o deskę. Z czasem przestała odchodzić na sam dźwięk. Raz podeszła bliżej do rozgarniętej ziemi, kiedy już się cofnęłam. Innego dnia nawet nie podniosła łba. Nie próbowałam powtarzać sygnału, żeby ją zatrzymać. Robiłam to tylko na spokojnej miedzy, z dala od wozów.
+
+Tego dnia widziałam oba młode z drugiej strony wody. Samica została za nimi. Położyła łeb nisko przy płaskim kamieniu i pojedynczym ruchem odrzuciła go od pyska.
 
 Rano dyżur przy zaporze miała Heda. Siedziała na złożonej płachcie i rozgniatała pestkę na płaskim boku noża. Mówiłam jej z dołu, gdzie widzę młode. Powtórzyła, kiedy podali jej od góry, że czekają dwa wozy. Dara kazała już ubijać ziemię przy nowym płocie. Zewnętrzny brzeg zrobiłyśmy szerzej. Widziałam, że kiedy samica po raz pierwszy tamtędy poszła, nie zahaczyła bokiem o żadną żerdź. Po wewnętrznej stronie półka pod korzeniem została zasypana i młode odnalazły drogę za matką, pomiędzy murem a wodą.
 

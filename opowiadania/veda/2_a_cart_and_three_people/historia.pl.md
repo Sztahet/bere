@@ -4,124 +4,162 @@
 
 8 kwietnia, 12 ET · oberża w Kharum
 
-Gruszka była dojrzała tylko z jednej strony. Obracałam ją przy oknie, szukając miejsca, od którego da się zacząć, kiedy gospodarz wskazał mi człowieka schodzącego po schodach.
+Gruszka była dojrzała tylko z jednej strony. Obracałam ją w dłoni, kiedy gospodarz wskazał człowieka schodzącego ze schodów.
 
-Miał czystą zbroję, księgę zawiniętą w płótno i tak starannie poprawiony płaszcz, że przez chwilę pomyślałam, iż pomylił nasze spotkanie z jakąś uroczystością. Spóźnił się tylko o kilka minut. Na jego szczęście Jorek potrzebował więcej czasu przy pasach.
+Miał zbroję, księgę owiniętą płótnem i płaszcz poprawiony tak starannie, że nie znalazłam na nim ani jednej luźnej nitki. Naramiennik trzymał się na rzemieniu, który wyglądał gorzej niż cała reszta.
 
 — Piecarius, rycerz Bractwa Feniksa. Stawiam się zgodnie z umową, by objąć ochroną dzisiejszy transport.
 
-Spojrzałam za niego, na gospodarza.
+Spojrzałam na gospodarza.
 
 — To on?
 
-Piecarius zapewnił mnie, że to on. Gospodarz potwierdził. Miałam nadzieję na człowieka z bronią i doświadczeniem w drodze; dostałam człowieka z bronią, księgą i bardzo wyraźnym zdaniem o sobie. O doświadczenie nadal mogłam zapytać.
+Gospodarz potwierdził. Zapłaciłam za człowieka z bronią i doświadczeniem na szlaku; człowiek z bronią właśnie się pojawił. O doświadczenie musiałam jeszcze zapytać.
 
-Powiedziałam mu, że wiozę części do pompy w górnej osadzie. Ostrzegłam też, że nie możemy stawać na każdą jego przemowę. Odpowiedział, że potrafi mówić w marszu. Na to akurat byłam gotowa mu uwierzyć.
+— Wiozę części do pompy w górnej osadzie. Jeśli napadną nas bandyci, ma pan bronić wozu, nie wygłaszać im przemowy.
 
-Patrzył na koszyk gruszek tak długo, że obiecałam mu jedną po pracy. Wstał, zabrał księgę i skłonił się gospodarzowi przy wyjściu. Widziałam, jak przy tym poprawił naramiennik. Rzemień był naprawiany, ale nie wyglądał na mocny. Zapytałam go o to jeszcze przed podpisaniem umowy. Zapewnił, że trzyma. Pociągnął za niego na dowód; nie puścił.
+— Potrafię mówić w marszu.
 
-Pod płaszczem miałam zawiniątko z dwiema butelkami specjalnych kropli. Kupiłam je od innego pośrednika niż poprzednim razem. Twierdził, że pochodzą z Verdan, ale nie miał dokumentu dopuszczającego je do sprzedaży na tym odcinku. Zamówienie złożyła mi kobieta z górnej osady. Zapłaciła już część ceny; resztę miała dać po dostawie.
+Przyjęłam to do wiadomości. Jorek od rana mocował skrzynię, a konie czekały na podwórzu.
 
-Na karcie dla gospodarza nie wpisałam butelek. Jorek nie wiedział, że je wiozę. Piecarius miał chronić wóz, a ja nie zamierzałam go pytać, co sądzi o zawartości mojej torby. Gdyby ktoś zatrzymał nas do kontroli, tłumaczyłabym się sama. Przynajmniej tak to sobie wtedy wyobrażałam.
+Piecarius poprawił naramiennik. Zapytałam, czy rzemień wytrzyma. Pociągnął za niego na dowód. Wytrzymał.
 
-Jorek stał przy wozie ze skrzynią przyciśniętą kolanem. Dociągnęłam pasy i rozłożyłam kartę przewozową. Wpisałam naszą trójkę. Przy imieniu Piecariusa dopisałam Bractwo Feniksa. Sam tak się przedstawił, a gospodarz miał zatrzymać drugi egzemplarz — chciałam, żeby w razie kłopotu wiedział, kogo pytać o najętego człowieka.
+Pod płaszczem miałam dwie małe butelki. Kupiłam je kilka dni wcześniej od pośrednika, który zapewniał, że pochodzą z Verdan. Nie miał potwierdzenia zawartości ani prawa do sprzedaży tej partii na naszym szlaku. Płyn wyglądał podobnie do kropli, na których zarobiłam jesienią, ale podobieństwo butelek nie znaczyło wiele.
 
-Piecarius przyjrzał się wpisowi, a potem podpisał starannie pod spodem. Nie wyjaśnił, że pod nazwą Bractwa nie znajdę nikogo, kto mógłby za niego odpowiedzieć. Ja też nie zapytałam. Byłam zajęta sprawdzaniem sprzączki przy skrzyni i uznałam, że skoro podpisał, to wszystko się zgadza.
+Kobieta z górnej osady zamówiła je ponownie. Wpłaciła część ceny; resztę miała dać po dostarczeniu. Nie powiedziałam Jorkowi o przesyłce. Piecarius też nie musiał znać zawartości mojej osobistej torby. Przynajmniej dopóki nikt nas nie zatrzyma.
 
-Przed odjazdem rozłożył na burcie mapę. Pokazał Jorkowi mostek, którego nie było od zeszłej wiosny. Jorek wiedział o tym z poprzedniego przejazdu i narysował mu objazd wzdłuż rzeczki. Piecarius oddał mu ołówek dopiero po chwili, ale nie próbował bronić mostu, kiedy usłyszał, co zabrała woda.
+Na karcie dla gospodarza wpisałam całą trójkę. Przy Piecariusie dopisałam „Bractwo Feniksa”, bo sam podał tę nazwę. Podpisał się bez uwag. Nie zapytałam, kto z Bractwa potwierdzi jego zatrudnienie w razie kłopotów. Za dużo miałam dziś pytań o rzemienie, pasy i drogę.
 
-To spodobało mi się bardziej niż zbroja.
+Przed wyjazdem rozłożył mapę na burcie. Wskazał mostek, którego nie było od zeszłej wiosny. Jorek poprawił trasę ołówkiem, prowadząc objazd wzdłuż rzeczki. Piecarius obejrzał poprawkę i skinął głową.
+
+To spodobało mi się bardziej niż jego zbroja.
+
+— Pani też jedzie na Igrzyska? — zapytał, kiedy składał mapę.
+
+— Pod koniec maja mam dostawę do Val Meris. Potem zamierzam się zgłosić.
+
+— Żeby reprezentować Kharum?
+
+— Żeby wystartować. Jeśli przejdę kwalifikacje, Kharum też coś z tego będzie miało.
+
+Nie dodałam, że od jakiegoś czasu liczyłam również ludzi, którzy zjadą do stolicy. Tylu magów, tylu trenerów, tylu ambitnych uczestników. Nawet ktoś, kto nie sprzedawał kropli, musiałby dostrzec w tym okazję do handlu.
+
+Piecarius spojrzał na kosz z gruszkami. Obiecałam mu dwie po pracy, jeśli dowiezie nas bezpiecznie.
 
 ## List dla Orena
 
 8 kwietnia, 12 ET · chata Orena, Kharum
 
-Oren nie lubił, kiedy stawiałam wóz tak, że zasłaniał mu drogę do drewutni. Zatrzymałam konie trochę dalej i zaniosłam list pod drzwi. Piecarius poszedł za mną; Jorek został przy zaprzęgu.
+Oren nie lubił, kiedy zastawiałam wozem drogę do drewutni. Zatrzymaliśmy konie dalej, a ja zaniosłam mu list od siostry. Jorek został na koźle. Piecarius podążył za mną, bo gospodarz miał na drzwiach stary znak przedstawiający ptaka.
 
-Oren spojrzał na ptaka na jego piersi i powiedział, że to feniks. Piecarius wyprostował się jeszcze bardziej, choć wydawało mi się, że już nie ma dokąd. Gospodarz rozpoznał płonące skrzydła, a nie Bractwo. Piecarius nie wyprowadzał go z błędu.
+Oren poprosił, żebym przeczytała list na głos. Siostra pisała o narodzinach wnuka, cieknącym dachu i cebuli, która tej wiosny zmarniała. Kiedy doszłam do imienia dziecka, kazał mi je powtórzyć. Potem poprosił o cały list jeszcze raz.
 
-List był od siostry Orena. Poprosił mnie o przeczytanie. Pisała o narodzinach wnuka, przeciekającym dachu i cebuli, która tego roku do niczego się nie nadawała. Przy dziecku Oren podniósł głowę. Kiedy skończyłam, poprosił o imię jeszcze raz. Potem o cały list.
+Jorek odwrócił się na koźle i wskazał chmury nad lasem. Nie przyspieszyłam. List miał jedną stronę, a Oren czekał na wiadomość od siostry dłużej niż my na dobrą pogodę.
 
-Przy drugim czytaniu poruszał ustami. Nie przyspieszałam, chociaż Jorek odwrócił się na koźle i pokazał mi chmury nad lasem. List mieścił się na jednej kartce. Dach, dziecko i cebula potrzebowały najwyraźniej tyle samo miejsca, ile siostra miała pod ręką.
+Piecarius w tym czasie oglądał kamień przy drodze. Oren powiedział, że przeniesiono go po osunięciu ziemi i że kiedyś ludzie z kuźni spotykali się właśnie przy nim. Ktoś nazywał wyryty znak płonącą kurą.
 
-Piecarius znalazł przy drodze stary kamień ze znakiem i spytał, czy zawsze tam stał. Oren opowiedział, że po osunięciu przenieśli go ze starej drogi. Kiedyś spotykali się przy nim po pracy w kuźni. Ktoś nazywał znak płonącą kurą.
+Piecarius spojrzał na własną broszę. Spodziewałam się wykładu o ptakach. Zamiast tego wyjął księgę i zaczął odrysowywać znak.
 
-Zobaczyłam, jak Piecarius patrzy na własny napierśnik. Przez chwilę myślałam, że zaraz nam objaśni różnicę. Zamiast tego wyjął księgę i pochylił się nad kamieniem.
-
-Oren schował list do kieszeni fartucha. Kiedy Piecarius odrysowywał znak, gospodarz zapytał go, kogo szuka. Odpowiedź usłyszałam tylko dlatego, że wracałam od wozu po sznurek do paczki.
+— Kogo pan szuka? — zapytał Oren.
 
 — Chciałbym wiedzieć, skąd mój ojciec miał tę księgę.
 
-Podałam Orenowi sznurek. Poprosił, żebym przy najbliższej okazji zabrała odpowiedź dla siostry. Jeszcze jej nie napisał. Powiedziałam, kiedy mniej więcej mogę wracać przez te strony, ale oboje wiedzieliśmy, że termin zależy od następnego ładunku. Obiecałam wysłać do niego wiadomość, jeśli mój wóz skręci wcześniej.
+Pierwszy raz tego dnia usłyszałam, żeby Piecarius powiedział coś o sobie bez przedstawiania całego Bractwa.
 
-Gdy wsiadaliśmy, Oren znów wyjął list. Szukał imienia na kartce. Piecarius też to zauważył i nie pytał już o kamień.
+Oren schował list do fartucha. Poprosił, żebym kiedyś zabrała odpowiedź dla siostry. Nie obiecałam terminu, bo następny kurs zależał od ładunku. Powiedziałam tylko, gdzie może zostawić list, jeśli nie będzie mnie w Kharum.
+
+Kiedy odjeżdżaliśmy, znów wyjął kartkę, żeby odnaleźć imię wnuka. Piecarius nie spytał już o kamień.
 
 ## Przy kole
 
 8 kwietnia, 12 ET · droga do górnej osady w Kharum
 
-Za chatą las podszedł pod drogę. Jorek zwolnił przed zakrętem; po jednej stronie mieliśmy drzewa, po drugiej rów. Widziałam już człowieka z siekierą przed końmi, kiedy drugi podszedł do kozła. Trzeci został za wozem.
+Za chatą Orena droga zwężała się między lasem a rowem. Jorek zwolnił przed zakrętem. Zobaczyłam człowieka z siekierą stojącego przed końmi, a chwilę później drugiego przy koźle. Trzeci został za wozem.
 
-— Skrzynię zdejmijcie — powiedział ten przy mnie.
+— Skrzynię zdejmijcie — powiedział ten najbliżej mnie.
 
-Powiedziałam mu, że w środku są części do pompy. Zapytałam, komu je sprzeda, skoro mieszkańcy czekają właśnie na ten wóz. Nie zamierzałam go przekonywać długo. Chciałam, żeby spojrzał na mnie, a nie na Jorka, który trzymał lejce.
+— Są w niej części do pompy. Proszę sobie najpierw znaleźć kogoś, kto za nie zapłaci.
 
-Chwycił mnie za kostkę. Zanim zdążyłam odsunąć nogę, Piecarius posłał ogień między jego buty a koło. Mężczyzna puścił i uskoczył, ale płomień doszedł aż do plandeki. Piecarius zdusił go na płótnie. Konie szarpnęły i tylne koło zjechało z pobocza.
+Chciałam zająć jego uwagę. Jorek trzymał lejce; wolałam, żeby mężczyzna patrzył na mnie. Nie zdążyłam powiedzieć nic więcej. Chwycił mnie za kostkę.
 
-Zeskoczyłam od strony rowu. Obręcz osuwała się razem z ziemią. Przyłożyłam dłoń do skarpy i wysunęłam dwa kamienie spod ziemi, pod koło. Pierwszy oparł się nierówno. Drugi przytrzymał go na tyle, że obręcz przestała zjeżdżać. Skrzynia uderzyła o burtę. Usłyszałam jęk pasów.
+Piecarius posłał krótki płomień między napastnika a koło. Mężczyzna uskoczył, ale ogień dosięgnął plandeki. Rycerz zdusił go, nim płótno zajęło się na dobre. Konie szarpnęły. Tylne koło zjechało na miękki brzeg.
 
-Nie mogłam jednocześnie trzymać kamieni i podejść do koni. Jorek siedział na koźle z wyprostowanymi plecami. Mówił do nich cicho. Jeden jeszcze przestępował, ale drugi stał.
+Zeskoczyłam od strony rowu i przyłożyłam dłoń do osuwającej się ziemi. Wyciągnęłam spod niej dwa kamienie. Pierwszy oparł się krzywo, drugi zatrzymał koło przed dalszym zsunięciem. Musiałam utrzymywać ich położenie, więc nie mogłam jednocześnie podejść do koni.
 
-— Jorek, trzymaj tak, jak trzymasz.
+— Jorek, trzymaj je!
 
-Kiedy obejrzałam się na drogę, Piecarius bronił się przed człowiekiem z siekierą. Coś metalowego spadło pod wóz. Chwilę później zobaczyłam, że nie ma naramiennika. Z tyłu ktoś przeciął jeden pas. Rycerz przesunął się przy burcie z mieczem przed sobą i odsunął człowieka z nożem od drugiego mocowania. Nie posłał więcej ognia.
+— Trzymam!
 
-Usłyszeliśmy koła za zakrętem i czyjś głos, który prosił o przejazd. Z lasu odpowiedział gwizd. Obaj napastnicy pobiegli między drzewa. Wcześniej nie widziałam, dokąd odszedł trzeci; nie wybiegłam tego sprawdzać.
+Jeden koń przestępował nerwowo, drugi stanął. Jorek mówił do obu cicho, nie oglądając się na mnie.
 
-Woźnica, który nadjechał z przeciwka, zaczekał na zakręcie. Zapytałam, czy widzi kogoś na drodze za nami. Nie widział. Piecarius wszedł na wóz, ja pchnęłam skrzynię od strony rowu. Ustawiliśmy ją na środku i założyliśmy zapasowy pas.
+Piecarius odpierał cios człowieka z siekierą. Usłyszałam metaliczny stuk. Naramiennik spadł mu pod wóz. Z tyłu ktoś przeciął pas trzymający skrzynię. Rycerz przesunął się wzdłuż burty, osłaniając drugie mocowanie. Więcej ognia już nie użył.
 
-Kamienie pod kołem trzymały, ale potrzebowaliśmy płaskiego najazdu, żeby obręcz wróciła na drogę. Znalazłam taki przy skraju i podsunęłam go przed koło. Jorek powoli poprowadził konie. Gdy wóz stanął prosto, przejęłam od niego lejce i zrobiłam mu miejsce obok siebie.
+Za zakrętem zabrzmiały koła innego wozu i głos domagający się przejazdu. Napastnicy wymienili krótki gwizd, po czym uciekli między drzewa. Nie próbowałam ich ścigać. Koło nadal wisiało nad rowem.
 
-Piecarius podniósł naramiennik z koleiny i przywiązał go do burty. Spytał Jorka, czy nic mu nie jest. Chłopak pokręcił głową, chociaż palce nadal miał zaciśnięte, jakby trzymał lejce.
+Woźnica, który nadjechał, zaczekał dalej. Piecarius wszedł na burtę i przytrzymał skrzynię, kiedy podsunęłam pod koło płaski kamień. Jorek poprowadził konie powoli. Kiedy obręcz wróciła na drogę, mogłam wreszcie rozluźnić dłoń.
 
-Odchyliłam brzeg plandeki. Dziura przy sprzączce była szeroka na dwa palce. Piecarius powiedział, że to od jego ognia.
+Sprawdziłam pasy. Jeden był przecięty. Drugi ocalał, choć skrzynia uderzyła w burtę. Wspólnie założyliśmy zapasowy.
 
-— Widziałam. Jak zacznie padać, przykryjemy skrzynię płaszczem. Niech pan sprawdzi, czy pas trzyma.
+— Płótno przypaliłem ja — przyznał Piecarius.
 
-Pociągnął. Ja zrobiłam to samo z drugiej strony. Potem dałam mu dwie gruszki, obitą i całą. Wziął obie z ukłonem i zjadł tę, której i tak długo bym nie przewiozła.
+— Widziałam. Przy następnym deszczu będziemy potrzebowali łaty. Proszę sprawdzić tę sprzączkę.
+
+Pociągnął za nią. Trzymała.
+
+Jorek oddał mi lejce, ale dłonie drżały mu jeszcze przez chwilę. Nie komentowałam tego. Piecarius znalazł naramiennik w koleinie. Powiedział, że rzemień trzeba wymienić.
+
+— Mówiłam rano.
+
+— Istotnie.
+
+Wyjęłam z koszyka dwie gruszki i wręczyłam mu je razem z kawałkiem czystego płótna. Ukłonił się tak poważnie, jakby dostał nagrodę od samej Rady.
 
 ## Zapłata
 
-8 kwietnia, 12 ET · górna osada w Kharum
+8 kwietnia, 12 ET · górna osada, Kharum
 
-Ludzie od pompy podeszli do nas jeszcze przed zatrzymaniem wozu. Jeden wyjął część ze skrzyni i porównał ją z tą, którą przyniósł z warsztatu. Pasowała. Zawołał po klucz, a drugi zapytał, ile czasu im zostawimy na rozładunek.
+Ludzie od pompy czekali przy drodze. Jeden jeszcze przed zatrzymaniem wozu porównał dostarczoną część z tą wyjętą z urządzenia. Pasowała. Dopilnowałam podpisu na karcie odbioru, a Jorek zaniósł skrzynię pod wiatę.
 
-— Tyle, ile potrzebujecie, żeby nie zrzucić reszty na nogi — powiedziałam.
+Piecariusowi wypłaciłam umówionego selena. Dodałam kilka drobnych na nowy rzemień. Próbował mi je oddać, więc położyłam pieniądze na naramienniku.
 
-Jorek pomógł im odwiązać pas. Poczekałam, aż podpiszą odbiór. Nie dlatego, że podejrzewałam ich o nieuczciwość. Chciałam mieć na karcie to, o co później obie strony mogą zapytać. Kiedy skończyli, jeden z nich zaproponował nam wodę i miejsce dla koni. Jorek poszedł z nim obejrzeć pompę.
+— Proszę go naprawić, zanim znowu ktoś będzie musiał zbierać go z drogi.
 
-Piecarius został przy wozie. Wypłaciłam mu umówionego selena i dołożyłam kilka drobnych na rzemień. Próbował oddać mi drobne. Odwiązałam naramiennik od burty i podałam mu razem z pieniędzmi.
+Wziął pieniądze. Powiedziałam mu o Lumen, która w Aurelu potrafiła odnaleźć stare karty przewozowe. Może trafi na jakiś zapis o księdze jego ojca. Uprzedziłam, że bierze zapłatę również za bezowocne poszukiwania. Zapisałam adres składu przy wschodniej bramie Val Meris, gdzie pod koniec maja zamierzałam przywieźć okucia do wież.
 
-— Na tej drodze jeszcze się panu przyda.
+— Jeśli będzie pan szukał kolejnego kursu, może pan tam o mnie zapytać — powiedziałam. — Nie obiecuję pracy. Nie wiem jeszcze, kiedy wracam.
 
-Wziął je. Odpinając przypalony róg plandeki, zauważyłam płótno wystające z jego sakwy. Powiedziałam mu o Lumen w Aurelu. Kiedy szukałam zaginionego ładunku, znalazła zapisy, z których mogłam ustalić, dokąd trafiły złączki. Jeśli Piecarius szuka informacji o księdze, mógłby zapytać właśnie ją. Uczciwie dodałam, że Lumen pobiera opłatę za szukanie, także wtedy, kiedy nie znajdzie odpowiedzi.
+Przyjął to bez obrazy. Odszedł w stronę warsztatu z naramiennikiem pod pachą i księgą przy drugim boku.
 
-Zapisałam mu adres składu przy wschodniej bramie Val Meris. Planowałam zawieźć tam pod koniec maja okucia do wież. Po rozładunku chciałam zgłosić się do kwalifikacji. Powiedziałam, że na drogę powrotną może mi się przydać ochrona i że może zapytać o pracę. Nie była to jeszcze obietnica: nie znałam terminu wyjazdu ani tego, kto oprócz Jorka będzie wtedy dostępny.
+Odbiorczyni kropli czekała przy wodopoju. Przyniosła resztę pieniędzy w chustce, ale nie od razu mi je podała.
 
-— Tylko proszę wcześniej wymienić pasek.
+— To na pewno takie same jak ostatnio?
 
-Zapytał, gdzie sprzedają rzemienie. Pokazałam mu warsztat po drugiej stronie placu. Odprowadziłam go wzrokiem; szedł z naramiennikiem pod pachą, księgę trzymał przy drugim boku.
+— Wyglądają podobnie. Pośrednik twierdzi, że są z Verdan. Nie mam potwierdzenia.
 
-Odbiorczyni kropli znalazła mnie przy wodopoju. Przyniosła resztę pieniędzy w zawiniętej chustce. Zapytała, czy jestem pewna, że to ta sama rzecz co ostatnio. Nie byłam. Butelki wyglądały podobnie, a pośrednik zapewniał, że są takie same; nic poza jego słowem tego nie potwierdzało.
+— Siostra po poprzednich przespała noc. Potem przez dwa dni ledwie wstawała. Nie wiemy, czy od nich.
 
-— Nie wiem — powiedziałam.
+Poczułam ciężar butelek w torbie. Nie wiedziałam, skąd brała się jej słabość. Nie wiedziałam też, co dokładnie sprzedawałam. Dotąd łatwiej było mi pamiętać pierwszą informację niż drugą.
 
-Otworzyła chustkę, policzyła monety i odsunęła dwie. Powiedziała, że jej siostra chce ich spróbować, ale po poprzednich kroplach długo nie mogła dojść do siebie. Zapytała, czy mogę sprowadzić coś innego. Nie znałam się na leczeniu. Powiedziałam jej o lecznicy, o której słyszałam od ludzi z dolnej drogi, lecz nie wiedziałam, czy mają tam potrzebny lek.
+— Mogę zabrać jedną — powiedziała kobieta. — Drugiej na razie nie chcę.
 
-Zabrała jedną butelkę. Drugą oddała mi razem z częścią należności. Mogłam zwrócić jej resztę pieniędzy od razu. Powiedziałam, że rozliczymy ją, gdy dowiozę coś innego albo oddam wcześniejszą wpłatę. Przystała na to, ale kazała zapisać kwotę na dwóch kartkach. Jedną zatrzymała.
+Oddałam jej jedną butelkę i przyjęłam zapłatę tylko za nią. Pozostałą część wcześniejszej wpłaty wpisałam jako dług wobec niej. Chciała, żebym sprowadziła coś innego albo oddała pieniądze przy następnym kursie. Spisałyśmy to na dwóch kartkach.
 
-Patrzyłam, jak odchodzi. Zysk był mniejszy, niż planowałam. Druga butelka nadal leżała w mojej torbie, a kobieta miała na piśmie, ile jestem jej winna.
+— Zna pani kogoś, kto może sprawdzić te krople? — zapytała.
 
-Jorek wrócił, kiedy sprawdzałam rozerwane płótno. Chciał zaszyć dziurę od razu. Powiedziałam, że dziś wystarczy ją zakryć, a porządną łatę przyszyjemy przed następnym deszczem. Poprosił o kartę przewozową. Chciał zobaczyć, czy odbiorca wpisał datę.
+Wspomniałam o lecznicy przy dolnej drodze. Nie wiedziałam, czy zajmują się takimi rzeczami. Nie zaoferowałam, że zapłacę za badanie. Przez całą rozmowę pamiętałam, ile kosztował rzemień Piecariusa i nowa łata na plandekę.
 
-Wpisał. Jorek przytrzymał mi papier, kiedy składałam go na pół. Ręce już mu nie drżały, ale pozwoliłam mu trzymać kartę tak długo, jak potrzebował.
+Kiedy odchodziła, zostałam z jedną butelką i znacznie mniejszym zyskiem, niż planowałam.
+
+Jorek wrócił od pompy. Chciał wiedzieć, czy zamawiamy nową plandekę przed drogą do Val Meris. Odpowiedziałam, że wystarczy łata. Poprosił też o kartę przewozową. Sprawdził podpis, datę i liczbę części, zanim ją złożył.
+
+Pomyślałam o człowieku, który będzie gotów zapłacić za coś, czego sam nie potrafi sprawdzić. Przy pompie nie było takiego człowieka. W Val Meris pod koniec maja pewnie znajdzie się niejeden.
+
+— Chcesz naprawdę wystartować? — zapytał Jorek.
+
+— Chcę.
+
+— Przecież nie trenujesz tyle co ci, których widywaliśmy na pokazach.
+
+— Umiem utrzymać ciężki wóz na drodze, kiedy ziemia spod niego ucieka. Warto sprawdzić, czy to wystarczy na jakąś próbę.
+
+To była prawda. Nie cała, ale nie skłamałam.

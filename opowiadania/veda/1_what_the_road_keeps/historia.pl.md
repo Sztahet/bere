@@ -4,166 +4,164 @@
 
 Jesień, 11 ET · Aurel
 
-Jorek zdjął ze skrzyni ostatni pas i podał mi go do ręki. Drugi koniec nadal był przywiązany do wozu.
+Jorek podał mi koniec pasa, który wciąż był przywiązany do burty.
 
 — Nie uciekaj — powiedziałam.
 
-Spojrzał na pas, potem na mnie. Rozwiązał węzeł i dopiero wtedy podał go ponownie.
+Spojrzał na węzeł, rozwiązał go i podał pas jeszcze raz. Tym razem przyjęłam go bez uwag. Od rana brakowało nam jednej skrzyni, a człowiek ze składu twierdził, że nigdy jej nie dostał.
 
-Nie miałam mu tego dnia za złe takich rzeczy. Wjechaliśmy do Aurelu z jednym pustym miejscem na wozie, a człowiek ze składu twierdził, że przyjęto od nas o jedną skrzynię mniej, niż wpisałam w kwicie. Powiedział to spokojnie, opierając dłonie na stole. Potem odwrócił rejestr w moją stronę.
+— Według rejestru przyjęliśmy o jedną mniej — powiedział, obracając księgę w moją stronę.
 
-Znałam zawartość tamtej skrzyni. Były w niej mosiężne złączki do rur, każda zawinięta w płótno, żeby nie obijały się o siebie. Jedną pakowałam sama, bo Jorek najpierw chciał włożyć ją na wierzch, luzem. Nie pamiętałam natomiast twarzy człowieka, który przyjmował od nas towar poprzedniej wiosny. Na kwicie była pieczęć składu, nie było podpisu odbiorcy.
+Wskazał liczbę. Na moim kwicie była inna. Pamiętałam nawet, co pakowałam do zaginionej skrzyni: mosiężne złączki do rur, każda zawinięta w płótno. Jedną wyjmowałam z rąk Jorka, bo chciał położyć ją luzem na wierzchu. Nie pamiętałam za to, kto przyjmował towar poprzedniej wiosny. Na papierze mieliśmy pieczęć, ale ani jednego podpisu.
 
-— Może została u was na wozie — powiedział magazynier.
+— Może została na wozie — zaproponował magazynier.
 
-Jorek spojrzał na mnie. Zwykle pozwalałam mu prowadzić rozmowę, kiedy znał odpowiedź. Tym razem otworzyłam usta pierwsza.
+— Potem jechaliśmy do Kharum. Rozładowaliśmy wszystko.
 
-— Wtedy jechaliśmy dalej do Kharum. Gdyby została, ktoś by ją znalazł przy następnym rozładunku.
+— Ma pani na to potwierdzenie?
 
-— A znalazł?
+Nie miałam. To właśnie najbardziej mnie denerwowało: zwykle umiałam odpowiedzieć na takie pytania, zanim ktoś je zadał.
 
-— Nie.
+Magazynier obiecał zajrzeć do dawnych kart następnego dnia. Nie chciał zatrzymać mojego kwitu, a ja nie chciałam go oddawać, więc umówiliśmy się, że przyjdę z nim rano.
 
-— W takim razie poszukamy tutaj. Tylko dziś nie obiecam. Muszę wydać towar dwóm innym ludziom.
+Na podwórzu Jorek dokończył zwijanie pasów.
 
-Poprosił nas o kopię kwitu. Miałam jeden egzemplarz i nie zamierzałam go zostawić. Zaproponował, żebym przyszła następnego dnia, kiedy będzie miał czas przejrzeć starsze rejestry.
-
-— A jeśli się nie znajdzie? — zapytał Jorek, kiedy odeszliśmy.
-
-— Zapłacę za skrzynię albo znajdę kogoś, kto pamięta, co się z nią stało.
-
-— Ja byłem przy rozładunku.
+— Ja byłem przy tamtym rozładunku — powiedział.
 
 — Wiem.
 
-Znałam tę odpowiedź zbyt dobrze. Powiedziałam „wiem” tak, jakbym już wszystko wiedziała. Jorek schował pas do schowka i nie odezwał się, dopóki nie wyprowadziliśmy koni z podwórza.
+Zamilkł. Zbyt późno zrozumiałam, że miał mi jeszcze coś do powiedzenia.
 
-W stajni czekała na mnie jeszcze kobieta, która przed rozładunkiem pomogła nam znaleźć miejsce dla koni. Miała na imię Hela i znała człowieka przywożącego z Verdan leki. Pokazała mi niewielką butelkę owiniętą w płótno. Na papierze przy szyjce została część nazwy lecznicy; resztę ktoś oderwał.
+Znaleźliśmy stajnię na noc. Kobieta, która pomogła nam ustawić konie, przedstawiła się jako Hela. Znała przewoźników z Verdan i ludzi szukających lekarstw w Kharum. Kiedy skończyliśmy przy zaprzęgu, pokazała mi dwie małe butelki owinięte w płótno.
 
-— Nazywają to specjalnymi kroplami — powiedziała. — Ludzie biorą je, żeby przespać noc bez bólu. Ktoś chce kupić dwie butelki w Kharum.
+— Podobno po tych kroplach można zasnąć mimo bólu — powiedziała. — W górnej osadzie jest kobieta, która za nie zapłaci.
 
-Zapytałam, dlaczego nie wyśle ich zwykłym transportem. Odpowiedziała, że nie ma dokumentu dopuszczającego tę partię do sprzedaży na trasie. Pokazała mi tyle papierów, ile miała: przy jednym brakowało potwierdzenia, skąd dokładnie pochodziły butelki. Nie wiedziałam, czy krople były właściwie przechowywane ani kto ustalił ich zawartość.
+Na papierze przy szyjce zostało pół nazwy lecznicy. Resztę ktoś oderwał. Hela nie miała dokumentu potwierdzającego pochodzenie tej partii ani dopuszczenia jej do sprzedaży na naszym szlaku.
 
-Zaproponowała zapłatę, od której mogłabym pokryć stajnię i większą część straty za sporną skrzynię. Nie pytała, czy mam czas. Pytała, czy chcę zarobić.
+— Co w nich jest?
 
-— Kto to odbierze?
+— To, co nazywają specjalnymi kroplami.
 
-Podała imię i miejsce w Kharum. Powiedziała, że odbiorczyni sama zapłaci. Nie znałam jej. Znałam za to kwotę, którą miałam dostać po doręczeniu. Przez chwilę trzymałam butelkę pod światło; płyn był ciemny i niczego mi to nie powiedziało.
+— To nie jest odpowiedź.
 
-Wzięłam obie. Heli dałam pieniądze, a do ceny dla odbiorczyni doliczyłam własny zarobek. Różnica była większa niż zwykła opłata za przewóz. Hela zauważyła, że się waham, i powiedziała, że ludzie na takie krople i tak znajdą pieniądze. Nie zapytałam, skąd je wezmą.
+— Innej nie dostałam.
 
-Jorek wrócił ze stajni, kiedy chowałam butelki do torby. Spytał, co kupiłam. Powiedziałam, że drobną przesyłkę. Nie skłamałam o tym, ile miejsca zajmowała. O reszcie nie powiedziałam nic.
+Powinnam była oddać jej butelkę. Zamiast tego spytałam o cenę.
 
-W stajni ułożyłam kwit na kolanie. Na odwrocie Jorek narysował kiedyś dwa konie. Jeden miał nogi dłuższe od drugiego i ogon przy samej szyi. Przykryłam rysunek dłonią, zanim odwrócił się od żłobu.
+Po odliczeniu zapłaty dla Heli zostawało mi więcej, niż mogłabym zarobić na zwykłej przesyłce tej wielkości. Dość, żeby opłacić stajnię i znaczną część ewentualnej straty za złączki.
 
-## Kto przyjmował
+— Ludzie przecież wiedzą, co kupują — powiedziała Hela.
+
+Popatrzyłam na oderwaną etykietę. Ludzie wiedzieli, ile obiecano im ulgi. O zawartości wiedzieliśmy tyle samo.
+
+Kupiłam obie butelki.
+
+Jorek wrócił, kiedy chowałam je pod zapasowym płaszczem.
+
+— Co to?
+
+— Towar do Kharum.
+
+— Mamy na niego kartę?
+
+— Osobny interes. Nie pójdzie z resztą ładunku.
+
+Nie zapytał więcej. Nie lubiłam tego, że czasami przyjmował moje odpowiedzi dokładnie tak, jak je podawałam.
+
+## Kobieta w rękawicy
 
 Jesień, 11 ET · skład w Aurelu
 
-Rano Jorek wrócił z wiadrem wody i powiedział, że pamięta kobietę od rozładunku. Nosiła rękawicę na jednej dłoni. Drugą przytrzymywała kartkę, kiedy stawiali skrzynie przy ścianie.
+Rano Jorek powiedział, że pamięta osobę, która przyjmowała złączki. Kobieta nosiła rękawicę na lewej dłoni. Drugą przytrzymywała kartę, kiedy kazała odsunąć dwie skrzynie od pozostałych.
 
-— Mówiłam ci już, że nie pamiętam twarzy — odpowiedziałam.
+— Dlaczego nie powiedziałeś wczoraj?
 
-— Ja pamiętam rękawicę.
+— Próbowałem. Powiedziałaś, że już rozmawiałaś z magazynierem.
 
-Zaczekałam. Nie patrzył na mnie, tylko na koński zad. Wygładzał sierść w tym samym miejscu, choć była już czysta.
+Przypomniałam sobie własne słowa. Pamiętałam też, że przy wozie odwrócił się do mnie z podniesioną ręką, a ja kazałam mu poczekać, bo wiatr targał kwitem.
 
-— Powiedziała, że dwie skrzynie idą od razu dalej. Tę ze złączkami i jeszcze jedną.
+— Co jeszcze widziałeś?
 
-— Dlaczego mi nie powiedziałeś wczoraj?
+Jorek opowiedział o mniejszym wozie i koniu z białą łatą na pysku. Nie znał imienia kobiety ani nazwiska woźnicy. W Aurelu nie brakowało koni z łatami, ale dwie skrzynie zabrane osobno brzmiały już jak coś, co można sprawdzić.
 
-— Próbowałem. Powiedziałaś, że rozmawiałaś z magazynierem.
+Magazynier wysłuchał Jorka. Znalazł wpis o przekazaniu dwóch skrzyń dalej, jednak numer ładunku był inny niż na moim kwicie.
 
-Pamiętałam tę chwilę. Wczoraj chciał pokazać mi coś ręką, a ja trzymałam kwit pod wiatr i bałam się, że go upuszczę. Powiedziałam, żeby chwilę zaczekał. Potem pojechaliśmy do stajni.
+— Kto prowadził tamtą zmianę?
 
-Wzięłam od niego szczotkę. Dokończyłam czyszczenie konia, a on opowiedział mi, jak kobieta kazała odsunąć dwie skrzynie od pozostałych. Nie znał jej imienia. Pamiętał, że przyjechał po nie mniejszy wóz i że jeden koń miał białą łatę na pysku. To mogło znaczyć cokolwiek; w Aurelu widywałam wiele takich koni. Rękawica i dwa osobne pakunki dawały już więcej.
+— Nie ja. Starsze karty są w archiwum. Proszę spytać Lumen.
 
-Magazynier wysłuchał Jorka. W rejestrze znalazł zapis o dwóch skrzyniach przekazanych dalej, lecz numer ładunku był inny niż na moim kwicie.
+Dał mi adres. Mogłam zapłacić za poszukiwanie albo pogodzić się ze stratą. Nie lubiłam żadnej z tych możliwości.
 
-— Kto to wpisywał? — zapytałam.
+— Pójdziesz ze mną — powiedziałam Jorkowi.
 
-— Tamtej zmiany mnie nie było. W archiwum przechowują starsze karty przewozowe. Może znajdą podpis przy tym numerze.
+— A konie?
 
-Dał mi adres i imię Lumen. Zapytałam, czy sam nie może poprosić o odpis. Powiedział, że może, ale najpierw musi skończyć własne wydania. Przedstawiłam mu nasz termin wyjazdu. Wziął kwit do ręki, obejrzał pieczęć i oddał mi go.
-
-— Pani pojedzie tam szybciej niż moje pismo.
-
-Przy drzwiach Jorek zapytał, czy ma zostać przy koniach. Chciałam mu powiedzieć, że poradzę sobie sama. Zamiast tego zapytałam, ile czasu zajmie znalezienie kogoś do pilnowania wozu. W stajni znali człowieka, któremu mogłam za to zapłacić. Jorek poszedł ze mną.
+Otworzyłam usta, żeby stwierdzić, że zostanie przy nich. Zamknęłam je i spytałam, kogo możemy wynająć do pilnowania zaprzęgu.
 
 ## Cena odpisu
 
 Jesień, 11 ET · archiwum w Aurelu
 
-Lumen odłożyła pióro, kiedy położyłam kwit na stole. Nie obejrzała najpierw pieczęci. Obejrzała złożenie przy dolnej krawędzi, w miejscu, gdzie papier zdążył się przetrzeć.
+Lumen obejrzała mój kwit uważniej niż magazynier. Najpierw podsunęła pod niego czysty arkusz, żeby nie rozrywać przetartego rogu, a dopiero potem odczytała pieczęć.
 
-— Często go pani wyjmuje?
+Opowiedziałam o skrzyni. Jorek wspomniał o kobiecie w rękawicy. Lumen zapisała jego słowa, zaznaczając, że to relacja świadka, a nie informacja z rejestru.
 
-— Ostatnio tak.
+— Była na lewej ręce — dodał.
 
-— Proszę uważać, numer zaraz się urwie.
+— Dopiszę — powiedziała. — Ale nie zamienię pańskiej pamięci w podpis na dokumencie.
 
-Chciałam jej powiedzieć, że numer znam na pamięć, ale już podsunęła mi kawałek czystego papieru, żebym nie musiała dalej rozkładać kwitu na szorstkim blacie. Opisałam ładunek, datę i skład. Jorek dopowiedział o kobiecie w rękawicy i dwóch skrzyniach wysłanych dalej.
+Podała cenę poszukiwań. Przeliczyłam pieniądze drugi raz. Mieliśmy jeszcze zapłacić za stajnię, paszę i drogę powrotną. Nie lubiłam liczyć przy obcych, więc odmierzyłam monety do ręki Jorka. To on położył je na stole.
 
-Lumen zapisała wszystko. Przy rękawicy postawiła znak zapytania.
+— Jeśli nic pani nie znajdzie? — zapytałam.
 
-— Dlaczego? — spytał Jorek.
+— Powiem, co sprawdziłam. Następna osoba nie powinna pobierać od pani pieniędzy za te same karty.
 
-— Żeby pamiętać, że to szczegół od pana, a nie z dokumentu. Nie znaczy, że panu nie wierzę.
+Jorek zapisał cenę w swoim zeszycie. U mnie na odwrocie kwitu zostało już mało miejsca.
 
-— Była na lewej ręce.
+Lumen kazała nam wrócić nazajutrz. Wyszliśmy do piekarni, którą poleciła. Sprzedawczyni Dema zapytała, czy potrzebujemy chleba na drogę, czy na dziś. Kupiliśmy dwa duże bochenki i jeden mały. Za ten ostatni Jorek zapłacił ze swoich pieniędzy.
 
-— Dobrze. Dopiszę.
-
-Podała mi cenę poszukiwania. Nie była wysoka jak za przewóz całej skrzyni, ale wystarczyła, żebym przeliczyła pieniądze jeszcze raz. Mieliśmy opłacić stajnię, jedzenie dla koni i drogę powrotną. Za odpis trzeba było zapłacić osobno, gdyby coś znalazła.
-
-— Jeśli niczego pani nie znajdzie?
-
-— Zapłaci pani za czas szukania. Powiem też, gdzie sprawdziłam, żeby nie płaciła pani komuś drugiemu za to samo.
-
-Jorek zerknął na mnie. Sięgnęłam po sakiewkę. Chciałam, żeby się czegoś nauczył, ale nie lubiłam liczyć pieniędzy przy obcych. Odwróciłam się bokiem i odliczyłam należność do jego dłoni. To on położył ją na stole.
-
-Lumen zapowiedziała, że zacznie od kart przekazania ze składu. Poprosiła, żebyśmy wrócili następnego dnia po południu. Nie było sensu stać jej nad ramieniem, więc poszliśmy do piekarni, którą wskazała Jorkowi, gdy zapytał o najbliższy chleb.
-
-Sprzedawczyni miała na imię Dema. Zapytała, czy potrzebujemy bochenków na drogę, czy do zjedzenia jeszcze tego dnia. Wybrałam dwa, które według niej miały wytrzymać podróż, i jeden mały dla nas. Jorek chciał zapłacić ze swoich pieniędzy. Pozwoliłam mu kupić ten mały. Zjedliśmy go na ławce przed stajnią, odłamując kawałki rękami.
+Usiedliśmy przy stajni.
 
 — Mogłem wczoraj powiedzieć głośniej — odezwał się.
 
 — A ja mogłam przestać mówić na tyle długo, żeby cię usłyszeć.
 
-Przytaknął. Dał mi większy kawałek chleba, chociaż próbowałam go oddać.
+Oddał mi większy kawałek chleba. Tym razem nie poprawiałam jego wyboru.
 
-## Dwa pokwitowania
+## Zapis przy pieczęci
 
 Jesień, 11 ET · Aurel
 
-Lumen znalazła kartę przekazania do drugiego wozu. Zgadzały się liczba skrzyń i data. Numeru brakowało: dolny róg karty ktoś kiedyś oderwał. Imienia odbiorcy też nie było, ale podpis należał do kobiety, która pracowała w składzie poprzedniej wiosny. Lumen wskazała mi go przy innym wpisie, sporządzonym tego samego dnia.
+Lumen odnalazła kartę przekazania do drugiego wozu. Zgadzały się data i liczba skrzyń, ale dolny róg z numerem był oderwany. Na innym wpisie znalazła podpis pracownicy, która tego dnia kierowała rozładunkiem.
 
-— To nie dowodzi jeszcze, że w środku były pani złączki — powiedziała.
+— To nie dowodzi, że w środku były pani złączki — uprzedziła.
 
-Wiedziałam. Trudno było nie dopowiedzieć sobie reszty, kiedy widziałam te dwie skrzynie na papierze. Zapytałam, czy zachowały się karty przyjęcia z miejsca, do którego wysłano drugi wóz. Lumen znalazła nazwę odbiorcy i podała mi adres człowieka, który mógł mieć własny egzemplarz.
+Miała rację, co nie poprawiło mi humoru.
 
-Jorek poprosił, żeby mógł pójść ze mną. Poprzedniej nocy zapisał na skrawku papieru, co pamięta z rozładunku. Obok rękawicy narysował dłoń, żeby jej nie pomylić z innym szczegółem. Schowałam uwagę o rysunku dla siebie.
+Poszliśmy z Jorkiem do odbiorcy drugiego transportu. Początkowo nie chciał szukać dokumentów. Twierdził, że skoro jego ludzie od dawna używają dostarczonych części, nie ma po co wracać do dawnych kart.
 
-Odbiorca potrzebował czasu, żeby przejrzeć skrzynię z dokumentami. Nie miał ochoty robić tego od razu. Mówił, że jego ludzie od dawna korzystają z tych części, więc sprawa jest zamknięta. Wyjaśniłam mu, że dla mnie nie jest: ktoś oczekuje ode mnie zapłaty za towar, który mógł już do niego dotrzeć.
+— Dla pana sprawa jest zamknięta — powiedziałam. — Ode mnie ktoś nadal żąda zapłaty za tę skrzynię.
 
-— Jeśli nic pan nie znajdzie, nie będę mogła udowodnić, co było w skrzyni — powiedziałam.
+To go przekonało. W skrzyni z dokumentami znalazł kartę z opisem złączek. Obok liczby była poprawka i pieczęć składu. Nie chciał wypuścić oryginału z rąk, pozwolił jednak Lumen porównać go następnego dnia z pozostałymi zapisami.
 
-— A jeśli znajdę?
+Trzy dokumenty razem wystarczyły, żeby ustalić, dokąd pojechały złączki. W składzie przyjęto sprostowanie. Pieniędzy nie oddali mi od razu: część miała wrócić po sprawdzeniu starej płatności. Wywalczyłam termin wpisany na kopii.
 
-— Będę mogła poprawić zapis. Pan będzie wiedział, za co podpisał odbiór.
+Przez te poszukiwania wyjechaliśmy dzień później. Jorek doliczył nocleg i paszę do kosztów kursu.
 
-Pozwolił nam zaczekać pod ścianą. Po dłuższej chwili wyciągnął kartę z opisem złączek i dwiema różnymi liczbami. Pierwszą przekreślono; przy drugiej była pieczęć składu. Poprosiliśmy o możliwość przepisania danych. Odbiorca nie chciał oddawać dokumentu, ale pozwolił Lumen obejrzeć go na miejscu.
+— Zostanie mniej — zauważył.
 
-Lumen przyszła następnego dnia. Zestawiła trzy zapisy i powiedziała, co można z nich odczytać. Drugi wóz dostarczył złączki. Odbiorca potwierdził liczbę poprawioną przy pieczęci. Na żadnej z kart nie było wszystkiego, ale razem pozwalały ustalić, gdzie trafił ładunek.
+— Zostanie tyle, ile zostanie. Na następnej karcie wpiszemy osobę, która bierze skrzynię dalej.
 
-Odpis kosztował mnie kolejne pieniądze. W składzie magazynier obejrzał go i poszedł po księgę. Przyjął poprawkę, lecz nie oddał mi od razu całej kwoty, którą pobrano wcześniej jako zabezpieczenie. Część miał wypłacić dopiero po sprawdzeniu starej płatności. Nie podobało mi się to. Stałam przy stole tak długo, aż pokazał mi, kiedy mogę wrócić po odpowiedź, i wpisał termin na kopii.
+Przed drogą kupiliśmy chleb u Demy. Jorek sam zapytał, który bochenek wytrzyma dłużej. Poczekałam razem z nim na odpowiedź.
 
-Przez to wyjechaliśmy dzień później. Jorek zapisał dodatkowy nocleg i opłatę za paszę. Potem zapytał, czy odliczymy je od pieniędzy, które odzyskam.
+W Kharum odnalazłam kobietę, do której miały trafić krople. Zapytała, czy rzeczywiście pomagają zasnąć. Powiedziałam, że tak twierdzi sprzedawczyni z Aurelu, ale nie potrafię potwierdzić składu. Obejrzała butelki, zapłaciła i zabrała obie.
 
-— Odliczymy od tego, co zarobiłam na kursie.
+Nie targowała się. Zwykle musiałam dłużej przekonywać ludzi do podanej ceny.
 
-— Zostanie mniej.
+Jorek rozliczał wtedy paszę i nie słyszał rozmowy. Do wieczora zdążyłam odłożyć zysk do osobnej sakiewki.
 
-— Tak. A na następnej karcie zostawimy miejsce na podpis tego, kto bierze skrzynię dalej.
+W gospodzie przy drodze spotkałam dwóch robotników rozmawiających o bólu dłoni po całym dniu pracy. Jeden twierdził, że po podobnych kroplach następnego ranka mógł wrócić do kopalni. Drugi zapytał, czy nie szkoda mu pieniędzy. Pierwszy powiedział, że stracony dzień kosztowałby go więcej.
 
-Wsiadł na kozioł. Ja schowałam odpis do torby, osobno od starego kwitu. U Lumen zostawiliśmy adres składu przy wschodniej bramie Val Meris na wypadek, gdyby znaleziono jeszcze jakiś zapis. Przed wyjazdem kupiliśmy u Demy chleb. Jorek sam zapytał, który bochenek wytrzyma podróż, a ja tym razem poczekałam na odpowiedź razem z nim.
+Nie wiedziałam, czy mówili o tym samym środku. Zapamiętałam za to ich sposób liczenia.
+
+W domu miałam przepisać koszty podróży. Zanim zasnęłam, dopisałam do rachunku również zysk z dwóch butelek. Jorek nie widział tej strony.

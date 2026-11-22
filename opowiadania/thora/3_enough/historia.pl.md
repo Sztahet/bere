@@ -2,7 +2,7 @@
 
 ## Dwa uderzenia
 
-Pierwsze dni kwalifikacji, 12 ET · Val Meris
+29 maja, 12 ET · kwalifikacje w Val Meris
 
 Przy modelu śluzy sędzia pokazał mi dwa położenia dźwigni. W połowie drogi miałam ją przytrzymać, aż Miko przełoży przewód za przegrodą. Pociągnięcie do oporu wysyłało sygnał. Jeżeli zrobię to przed podłączeniem przewodu, stracimy jedyną szansę w tym podejściu. Trzecia osoba miała zawołać, kiedy wskazówka dojdzie do kreski. Wtedy musiałam puścić dźwignię. Sędzia sprawdził mocowanie cewki na rękawicy Miko i dopuścił ją do zadania.
 
@@ -24,30 +24,60 @@ Za drugim razem trzymałam dźwignię w połowie drogi. Widziałam, że wskazów
 
 — Po przerwie. Najpierw chcę zobaczyć, który przewód się odsunął.
 
-Sam przytrzymał mi deskę, żebym mogła zajrzeć pod spód.
+Sam przytrzymał mi deskę, żebym mogła zajrzeć pod spód. Przewód był dobrze osadzony. Za to przy mocowaniu jedna ze śrub wystawała odrobinę dalej niż pozostałe. Pokazałam ją sędziemu. Obejrzał urządzenie i powiedział, że przy następnym podejściu sprawdzą je przed uruchomieniem.
+
+Nie wiedziałam, jak ocenią naszą próbę. Zapamiętałam za to dwa stuknięcia. Przy wieży wolałabym usłyszeć je wcześniej niż wołanie, że jest już za późno.
 
 ## Ostatnia osoba
 
-Od lipca, 12 ET · Val Meris
+Pierwsze dni kwalifikacji, 12 ET · Val Meris
 
-W jednym z meczów mieliśmy utrzymać przejście do chwili, gdy ludzie z ładunkiem znajdą się za zakrętem. Przed rozpoczęciem sprawdziłam, z którego miejsca będę ich widziała. Pod lewą ścianą odsłaniały się dwa kroki toru. Wystarczało, żebym zobaczyła ostatnie buty.
+W kolejnym zadaniu osłanialiśmy przejście. Jedna grupa miała przeciągnąć skrzynię za zakręt, a ludzie z drugiej strony próbowali ich zatrzymać. Przed rozpoczęciem sprawdziłam, skąd będę widziała ostatnią osobę. Pod lewą ścianą odsłaniały się dwa kroki toru. Więcej nie potrzebowałam, jeżeli pozostali powiedzą mi, kiedy będą gotowi.
 
-Przeciwnik dwa razy cofnął się od mojej tarczy. Za trzecim powiedział, że za zakrętem już nikogo nie ma. Słyszałam skrzynię na kamieniach. Trzecia osoba jeszcze szła, bo deska od skrzyni ocierała o swoją podpórkę przy każdym jej kroku. Oparłam się mocniej o tarczę.
+Kobieta, która ciągnęła skrzynię z tyłu, zapytała, czy mam stać aż do końca.
 
-Próbował zajść mnie z boku. Pierwszy ruch odparłam, gdy tylko zobaczyłam zmianę położenia jego stopy. Potem oparłam tarczę o występ w murze i odzyskałam rękę. Z przejścia zawołano, że jedna osoba jeszcze została. Nie widziałam jej, póki nie przeszła przez moje dwa kroki światła. Przeczekałam następny cios.
+— Do chwili, kiedy przejdziesz za zakręt albo ktoś mnie zmieni — powiedziałam.
 
-Od strony zakrętu nadeszła druga osłona. Jej właścicielka zawołała, że może mnie zmienić. Poprosiłam ją, żeby stanęła na moim miejscu, zanim przesunę tarczę. Zrobiła pół kroku. Poczułam przez deskę, że przejęła napór.
+— A jeśli nie będziesz mnie widziała?
 
-— Wystarczy — powiedziałam.
+— Krzyknij. Ale wcześniej powiedz, jak mam cię rozpoznać w tym hałasie.
 
-Zeszłam z przejścia chodnikiem dla własnej drużyny. Za zakrętem wszyscy już byli. Ktoś przytrzymał mi rzemień, bo po tylu uderzeniach skręcił się przy klamrze.
+Przesunęła po kamieniach drewniany narożnik skrzyni. Wydawał krótki zgrzyt przy każdym kroku.
+
+— Usłyszysz mnie — powiedziała.
+
+Przeciwnik dwa razy cofnął się od mojej tarczy. Za trzecim rzucił, że za zakrętem już nikogo nie ma. Słyszałam skrzynię na kamieniach. Nie odwróciłam się, żeby sprawdzić, czy mówi prawdę. Oparłam mocniej tarczę o podłoże.
+
+Próbował zajść mnie z boku. Odparłam pierwszy ruch, kiedy zobaczyłam zmianę położenia jego stopy. Za następnym razem podparłam tarczę o występ w murze i odzyskałam rękę. Z przejścia dobiegł zgrzyt, potem głos kobiety. Jeszcze szła.
+
+Od strony zakrętu nadeszła druga osłona. Jej właścicielka zawołała, że może mnie zmienić. Poprosiłam ją, żeby stanęła na moim miejscu, zanim przesunę tarczę. Zrobiła pół kroku i przyłożyła swoją osłonę do mojej. Poczułam, że przejmuje napór.
+
+— Trzymasz? — zapytałam.
+
+— Trzymam.
+
+— Wystarczy.
+
+Wycofałam tarczę. Przeszłam za zakręt chodnikiem wyznaczonym dla naszej grupy. Kobieta ze skrzynią właśnie mijała ostatni znak. Zdążyłam zobaczyć, jak stawia ją przy ścianie, zanim sędzia kazał nam opuścić tor.
+
+Przy ławie prostowałam rzemień tarczy. Po tylu uderzeniach skręcił się przy klamrze. Kobieta, która mnie zmieniła, usiadła obok i zapytała, czy za długo czekałam z zejściem.
+
+— Nie — powiedziałam. — Chciałam wiedzieć, że trzymasz, zanim puszczę.
+
+Pokazała mi otarcie na przedramieniu. Zapytałam, czy potrzebuje opatrunku. Odpowiedziała, że ma go w torbie, ale chętnie przyjmie pomoc przy zapięciu.
+
+Nie znałam jej przed wejściem na tor. Teraz wiedziałam, jak przejmuje osłonę.
 
 ## List z doliny
 
-Po zawodach, 12 ET · Val Meris
+Pierwsze dni kwalifikacji, 12 ET · Val Meris
 
-Po zawodach dziewczyna przy wyjściu spytała mnie, czy planuję jeszcze występ, skoro tak długo ćwiczyłam. Miałam w kieszeni list z doliny. W rogu zostawiono miejsce na wiadomość o sadzonce. Dziewczynka dopisała, że drzewko puściło dwa liście i podlewa je po trochu.
+Wieczorem dostałam list z Korzennej Przystani. W środku była wiadomość od Liory, że przy lecznicy skończyli naprawę zadaszenia. Na odwrocie dziewczynka zza sadu dopisała kilka zdań o drzewku. Wypuściło dwa nowe liście. Podlewała je po trochu, a po ostatnim deszczu odgarnęła ziemię, która zebrała się przy pniu.
 
-— Wrócę do domu — odpowiedziałam. — Podobno drzewko się przyjęło.
+Oparłam kartkę o kubek. Miałam obtarty kciuk i jeszcze chciałam sprawdzić rzemień przed kolejnym wejściem na tor. Najpierw zaczęłam jednak odpisywać dziewczynce. Napisałam, że cieszę się z liści. Potem chciałam przypomnieć jej, ile ziemi zostawić przy korzeniach.
 
-Przy stole odpisywałam, oglądając swój obtarty kciuk. Chciałam dopisać, ile ziemi odgarnąć przy pniu, kiedy znów spadnie deszcz. Przeczytałam dokładnie ostatnią linijkę listu. Dziewczynka zrobiła to już wczoraj.
+Przeczytałam jeszcze raz jej ostatnie zdanie. Już zrobiła to sama.
+
+Skreśliłam rozpoczętą radę i zapytałam, czy sadzonka stoi prosto. Obok dopisałam, że w Val Meris uczyłam się osłaniać ludzi, których czasem nie mogę nawet zobaczyć. Na niektórych torach było głośniej niż przy wezbranym rowie.
+
+Złożyłam list. Nie wiedziałam jeszcze, kiedy wrócę do Verdan. Następnego dnia miałam kolejne ćwiczenia, a przy pasku tarczy wciąż odstawał jeden szew. Zabrałam igłę i usiadłam bliżej lampy.

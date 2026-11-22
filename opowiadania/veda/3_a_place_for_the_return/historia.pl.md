@@ -2,25 +2,25 @@
 
 ## Miejsce na koźle
 
-Koniec maja, 12 ET · szlak z Kharum do Val Meris
+27 maja, 12 ET · szlak z Kharum do Val Meris
 
-Łata na plandece była jaśniejsza od reszty płótna. Jorek zwrócił mi na to uwagę, kiedy wyjeżdżaliśmy z Kharum. Powiedziałam mu, że trudno: ciemną nić zostawiłam w drugim koszyku, a ta, którą miałam pod ręką, była mocna.
+Łata na plandece była jaśniejsza od reszty materiału. Jorek zauważył to jeszcze przed wyjazdem. Powiedziałam mu, że ciemną nić zostawiłam w drugim koszu, a jasna trzyma równie dobrze.
 
-Okucia do wież leżały pod plandeką w trzech skrzyniach. Każdą oznaczyliśmy z obu stron, bo przy ostatnim rozładunku jedna stanęła pod ścianą napisem do desek i musieliśmy ją obracać. Na wierzchu wiozłam pakunki i listy. Drugą butelkę kropli wciąż miałam w osobnej torbie. Nie znalazłam dla niej odbiorcy, a kobiecie z górnej osady byłam winna pieniądze. Wśród nich był zawinięty osobno pakunek od Lumen, przeznaczony dla Piecariusa.
+Pod płótnem leżały trzy skrzynie z okuciami do wież. Każdą oznaczyliśmy z dwóch stron. Na wierzchu trzymaliśmy listy i pakunki. W osobnej torbie, pod moją zapasową koszulą, miałam butelkę kropli, której nie sprzedałam w kwietniu. Nadal byłam winna pieniądze kobiecie z górnej osady.
 
-Nie wiedziałam, czy przyjdzie do składu. W liście Lumen napisała, że zostawił tam mój adres, i poprosiła o przekazanie przesyłki do jego rąk. Wzięłam ją, bo i tak jechałam do Val Meris. Jeśli rycerz nie pojawiłby się przed naszym wyjazdem, umówiłyśmy się, że pakunek poczeka w składzie.
+Wiozłam także przesyłkę od Lumen dla Piecariusa. Archiwistka znalazła coś po jego wizycie w Aurelu i poprosiła, żebym przekazała pakunek osobiście albo zostawiła go w składzie przy wschodniej bramie. Nie wiedziałam, czy rycerz tam zajrzy. Obiecałam sprawdzić.
 
-Jorek prowadził od rana. Znał tę drogę na tyle, żeby wiedzieć, przy którym rozwidleniu zapytać o stan dalszej trasy. Mimo to przy każdym zakręcie łapałam się na tym, że zerkam mu przez ramię.
+Jorek prowadził konie od rana. Wiedział, przy którym rozwidleniu trzeba zapytać o stan drogi, ale i tak zaglądałam mu przez ramię.
 
-— Widzisz kałużę? — zapytałam.
+— Po lewej jest głębiej — powiedziałam, kiedy zbliżaliśmy się do kałuży.
 
 — Widzę.
 
-— Po lewej jest głębiej.
+— Jak ominiesz kamień, zostanie ci więcej miejsca.
 
 — Też widzę.
 
-Nie skręcił gwałtownie. Poczekał, aż koło minie większy kamień, i poprowadził konie bliżej suchego brzegu. Chciałam go pochwalić, ale zanim zdążyłam, wskazał następny zakręt.
+Koło minęło kamień bez zgrzytu. Jorek poczekał do następnego zakrętu.
 
 — Mogę dalej sam?
 
@@ -28,129 +28,159 @@ Nie skręcił gwałtownie. Poczekał, aż koło minie większy kamień, i poprow
 
 — A ty mogłabyś przez chwilę nie prowadzić ze mną?
 
-Podałam mu swoją część lejców. Nie potrzebował jej; trzymałam luźny koniec od poprzedniego postoju. Oparłam ręce na kolanach i patrzyłam przed siebie. Przez kilka minut nie powiedziałam ani słowa. Potem zauważyłam pękniętą deskę przy skrzyni i wstałam, żeby się jej przyjrzeć.
+Puściłam luźny koniec lejców. Nie potrzebował go od dłuższego czasu. Oparłam dłonie na kolanach. Przez kilka minut wytrzymałam bez uwag, dopóki nie zauważyłam wyszczerbienia przy skrzyni. Jorek pozwolił mi obejrzeć je dopiero na postoju.
 
-— Do tego możesz mówić — rzucił Jorek.
+Podczas posiłku wyjął swój zeszyt. Zapisał, gdzie planuje zatrzymać wóz po rozładunku i kiedy wróci do Kharum.
 
-Deska była tylko wyszczerbiona przy krawędzi, a pas leżał dalej od pęknięcia. Przełożyłam między nie kawałek płótna i usiadłam z powrotem. Jorek pozwolił mi obejrzeć następne mocowanie dopiero na postoju.
+— A ty naprawdę zostajesz na kwalifikacje?
 
-Chciał wiedzieć, czy naprawdę pojadę na kwalifikacje. Powiedziałam, że najpierw musimy dostarczyć okucia i ustalić kurs powrotny. Skrzywił się.
+— Zgłoszę się jutro, jeśli zdążymy rozładować.
 
-— Pytałem, czy chcesz.
+— Pytam, czy chcesz.
 
 — Chcę.
 
-— To dlaczego każesz mi słuchać całej listy rzeczy przed tym słowem?
+— To dlaczego najpierw mówisz o skrzyniach?
 
-Podniosłam kubek. Herbata wystygła, ale nie była jeszcze zimna. Jorek czekał, aż odpowiem.
+— Bo jeśli wóz nie wróci, nie będę miała czym zarabiać po Igrzyskach.
 
-— Bo ktoś musi wiedzieć, co będzie z wozem, kiedy mnie nie będzie.
+Jorek schował zeszyt.
 
-— Ja wiem, gdzie ma być. Możemy razem zobaczyć trasę.
+— Ja go przyprowadzę. Możesz mi powiedzieć, co jeszcze mam sprawdzić, ale nie musisz robić tego za mnie.
 
-Powiedział to zwyczajnie, tak samo jak rano o kałuży. Od dawna woził ze mną ładunki. Znał konie i kilku odbiorców. Nie prowadził jeszcze tego kursu bez mojej obecności. Miałam czas go zapytać, jak zamierza to zrobić; nie musiałam odpowiadać za niego.
+Uwierzyłam mu. Nie od razu i nie całkiem, ale na tyle, żeby następnego dnia dać mu własną kartę przewozową.
 
-## Pusta karta
+Nie zapytał, dlaczego tak bardzo zależy mi na kwalifikacjach. Znał mnie jako kobietę, która potrafi zarobić na drodze, nawet gdy wraca z pustym wozem. Nie powiedziałam mu, że tym razem zamierzałam zarabiać także bez wozu.
 
-28 maja, 12 ET · skład przy wschodniej bramie, Val Meris
-
-Wyładowaliśmy okucia przed południem. Człowiek ze składu otworzył każdą skrzynię i porównał zawartość z listą. Przy jednej zawahał się nad liczbą podkładek. Były schowane pod płótnem. Jorek wyjął je i położył obok pozostałych, a odbiorca policzył jeszcze raz. Podpisał nam obie karty.
-
-Dopiero wtedy zostawiłam Jorka z wozem i poszłam do urzędu zapisów. Obok mnie stał człowiek z dużą torbą pełną części. Wysunął z niej kawałek blachy, żeby zrobić miejsce moim dokumentom. Zapytałam, czy trzeba się wcześniej umówić. Pokazał koniec kolejki.
-
-Przy stole wyjaśniono mi, że kandydat wybiera jedną ze stron Porozumienia, a punkty zdobyte po kwalifikacji w meczach będą liczyć się dla tego wariantu. Przeczytałam oba opisy. Chciałam wiedzieć, jak po wyniku będą wyglądały dostawy do małych osad. Urzędniczka wskazała zapisy o podstawowych dostawach i o dwóch sposobach podejmowania decyzji. Nie obiecała, że którakolwiek strona naprawi drogę do każdej pompy.
-
-Stałam przy stole dłużej, niż zamierzałam. Człowiek za mną zapytał, czy mam jeszcze jedno pytanie. Miałam kilka. Pani przy zapisach poprosiła, żebym podeszła po złożeniu formularza do osoby wyjaśniającej szczegóły po drugiej stronie dziedzińca; wtedy kolejka mogła iść dalej, a ja dostałabym odpowiedź. Wróciłam do kartki i wpisałam wybór po przeczytaniu zasad.
-
-Na potwierdzeniu zapisano termin: dwudziesty dziewiąty maja. Schowałam je osobno od kart przewozowych. Wzięłam też odpis zasad, żeby wieczorem przejrzeć go bez człowieka czekającego za moimi plecami. Nie opowiadałam urzędniczce o Jorku ani o skrzyni do pompy. Potrzebowała mojego imienia, krainy i podpisu. Dałam jej wszystkie trzy.
-
-W drodze z urzędu do składu zatrzymał mnie pośrednik, którego znałam z widzenia. Zaproponował przewóz podobnych butelek do Kharum. Nie chciał dopisać ich do karty. Obiecywał więcej niż za zwykłe pakunki i zapłatę przed odjazdem. Zgodziłam się wziąć jedną zamkniętą paczkę. Nie otworzyłam jej przy nim; pokazał mi tylko butelkę, którą uznał za taką samą.
-
-Położyłam paczkę w torbie z własnymi rzeczami. Gdyby odkryto ją podczas kontroli, Jorek miałby kłopot razem ze mną, choć nie znał zawartości. Wiedziałam o tym. Nadal nie chciałam rezygnować z zapłaty.
-
-Kiedy wróciłam, Jorek liczył puste skrzynie. Przy burcie czekał też Piecarius. Pasek przy naramienniku naprawił. Ten przy sakwie wciąż mu się rozwiązywał, więc wskazałam węzeł. Zaciągnął go, zanim podałam mu pakunek od Lumen.
-
-Zauważył również kartę przewozową, na której wpisałam już jego imię przy planowanym kursie. Zanim oddałam mu zawiniątko, powiedział, że przyszedł w sprawie starej karty z Kharum. Tej z dopisanym przeze mnie Bractwem Feniksa.
-
-W urzędzie podał samo imię. Wyjaśnił, że przysięgę złożył sam i nikt z Bractwa za niego nie ręczy. Zapytałam, kogo gospodarz miałby szukać pod tamtą nazwą, gdybyśmy nie dojechali. Powiedział, że nikogo, ale mógł podać gospodę, w której sypiał.
-
-Pamiętałam, jak odsuwał człowieka z nożem od naszej skrzyni. Pamiętałam też plandekę. Jorek chciał, żebyśmy znów go zatrudnili; mówił o tym, kiedy sprawdzaliśmy wóz przed podróżą. Ja znałam już innego człowieka od ochrony, który zgodził się na termin kursu powrotnego. Powiedziałam Piecariusowi o obu rzeczach. O łatanej plandece też.
-
-Spojrzał na sakiewkę. Nie zapytałam, ile w niej ma. Zaproponował, że napisze do gospodarza, żeby poprawił wpis na jego egzemplarzu. Ja dopiszę sprostowanie na swoim. Dałam mu ołówek i przeczytałam dwa zdania, które napisał, zanim włożyłam list do przesyłek do Kharum.
-
-Dopiero potem wskazałam pakunek od Lumen.
-
-## Co można odwieźć
+## Ostatni dzień zapisów
 
 28 maja, 12 ET · skład przy wschodniej bramie, Val Meris
 
-Piecarius rozwinął przesyłkę tak ostrożnie, jakby bał się podrzeć sznurek. W środku był kwit z piekarni Demy i plomba z ptakiem. Zbliżył ją do oczu. Pamiętałam Lumen przy stole i jej cierpliwość, kiedy porównywała pieczęcie z naszych kart. Wtedy dla mnie liczyła się liczba złączek. Dla niego ten mały kawałek ołowiu najwyraźniej był wart całej drogi do składu.
+Rozładowaliśmy okucia przed południem. Człowiek ze składu policzył je dwa razy, bo część podkładek leżała pod płótnem. Jorek wyjął je bez mojej pomocy. Odbiorca podpisał oba egzemplarze karty.
 
-Zapytałam, czy to właśnie to, czego szukał. Najpierw milczał. Potem powiedział, że Tovin oznaczył tym znakiem mąkę dla piekarni, a rysunek jest podobny do tego w księdze. Tyle ustalił.
+Potem poszłam do punktu zapisów. Kolejka kończyła się przy murze dziedzińca. Przede mną stał mężczyzna z torbą pełną części i przez całą rozmowę z sąsiadem próbował znaleźć miejsce dla metalowej płytki. Kiedy powiedziałam, że tylko przechodzę, odsunął torbę, ale nie przestał szukać.
 
-Lumen i Dema prosiły, żeby kwit i plombę odesłać do Aurelu. Piecarius zwinął je z powrotem. Ja odłożyłam pakunek do właściwych przesyłek; list do gospodarza z Kharum położyłam osobno. Jorek zapytał, kto podpisze kartę przy wyjeździe, jeśli kwalifikacje będą jeszcze trwały.
+Zgłoszenia przyjmowano jeszcze tego dnia. Kwalifikacje zaczynały się jutro.
 
-— Ty. Wieczorem przejrzymy razem trasę.
+Przy stoliku dostałam formularz i wyjaśnienie, że trzeba zadeklarować, którą stronę Porozumienia chce się poprzeć. Przeczytałam oba warianty. Pytałam o dostawy do mniejszych osad, o utrzymywanie szlaków i o to, kto będzie podejmował decyzje, jeśli krainy nie zdołają się porozumieć. Urzędniczka wskazała odpowiednie zapisy. Nie obiecała, że którykolwiek z wariantów naprawi wszystkie drogi.
 
-Piecarius podał mu podkładkę z kartami i zaczekał, aż Jorek zabierze ołówek. Pożegnaliśmy się przy wozie. Następnego dnia mieliśmy się stawić przy arenie.
+Wpisałam wybór po przeczytaniu zasad. Ziemią potrafiłam podeprzeć ładunek, umocnić skarpę i utrzymać osuwające się koło. Nie wiedziałam, jak wypadnę obok ludzi, którzy trenują do walki całymi latami. Chciałam się tego dowiedzieć.
 
-Przed zamknięciem bramy przy naszym wozie przystanął mężczyzna z dwoma złożonymi wykazami. Przedstawił się jako Taren z Zerath. Szukał przewoźnika na wschodni szlak; chciał wiedzieć, ile potrwałaby droga z częściami do jego stacji.
+Ale zanim nadeszła moja kolej, usłyszałam też inną rozmowę. Dwóch kandydatów kłóciło się o to, ile prób można wytrzymać jednego dnia. Jeden miał obwiązany nadgarstek. Twierdził, że po poprzednim sparingu nie spał przez pół nocy. Drugi powiedział, że oddałby pół sakiewki za coś, co pozwoli mu jutro wstać bez bólu.
 
-— Mój wóz wraca do Kharum — powiedziałam. — Nie chcę obiecać panu terminu na drodze, którą nie pojadę.
+Nie spytałam o jego imię. Nie wtedy.
 
-Mogłam za to podać mu imię człowieka, którego spotkałam przy składach. Taren zapisał je, ale zapytał jeszcze, kiedy ostatnio widziałam tego przewoźnika przy pracy. Powiedziałam, że rozmawialiśmy dopiero dzisiaj i nie znam jego wozu ani koni. Za to wiem, przy którym stole miał pytać o ładunek.
+Na potwierdzeniu zapisano datę dwudziestego dziewiątego maja. Schowałam je osobno od kart przewozowych. Kiedy wracałam do składu, potrafiłam już w pamięci policzyć, ile małych butelek zmieściłoby się w torbie, którą nosiłam do pracy.
 
-— To wystarczy, żebym poszedł z nim porozmawiać — powiedział.
+## Druga karta
 
-Przytrzymałam mu kartkę, kiedy dopisywał numer stołu. Potem podziękował i schował wykazy. Nie wiem, czy znalazł tamtego człowieka ani jaką drogę ostatecznie wybrały części do Zerath.
+28 maja, 12 ET · okolice wschodniej bramy, Val Meris
 
-Kiedy wróciłam od bramy, Jorek trzymał moją torbę otwartą na kolanach. Jedna z butelek obróciła się w płótnie i zabrudziła jego rękaw; korek się poluzował. Przyszedł po sznurek i zajrzał do środka, bo powiedziałam mu rano, że tam go znajdzie.
+Pośrednik zaczepił mnie przy przejściu do składów. Znałam go z widzenia. W poprzednich latach przywoził drobne pakunki, o które właściciele wozów woleli nie pytać głośno.
+
+Miał trzy zamknięte butelki. Twierdził, że to ta sama receptura co krople z Verdan. Nie miał dokumentu, który by to potwierdzał. Nie umiał też odpowiedzieć, dlaczego na etykiecie wpisano inną nazwę niż na butelce, którą przywiozłam z Kharum.
+
+— Zawodnicy dobrze płacą — powiedział. — Wystarczy, że jeden poleci je drugiemu.
+
+— A jeśli ktoś po nich zachoruje?
+
+— Nie jestem lecznicą. Ty też nie.
+
+Właśnie dlatego powinnam była odejść.
+
+Zapytałam o cenę hurtową. Obiecał zniżkę za wszystkie trzy i chciał zaliczki od razu. Zapłaciłam część, resztę miał dostać po pierwszym dniu kwalifikacji. Przyjął pieniądze, podał mi paczkę i podpisał krótkie pokwitowanie tylko moim imieniem.
+
+Schowałam ją do torby z ubraniami, nie do skrzyń wozu. Uważałam to za ostrożność. Nie zapytałam, co stałoby się z Jorkiem, gdyby strażnik otworzył torbę podczas kontroli wspólnego transportu.
+
+Przy burcie czekał Piecarius. Naramiennik miał już nowy pasek. Ten przy sakwie wciąż próbował się rozwiązać.
+
+Podałam mu przesyłkę od Lumen. W środku był kwit z piekarni Demy i mała plomba z wyobrażeniem ptaka. Piecarius długo obracał ją w palcach.
+
+— Tovin używał takiego znaku przy mące — powiedział. — W księdze ojca jest podobny.
+
+— Podobny czy taki sam?
+
+Przyjrzał się ponownie.
+
+— Podobny. Jeszcze nie wiem, czy to ślad, którego szukam.
+
+Ucieszyło mnie, że potrafił powiedzieć „nie wiem”. W kwietniu miał gotową odpowiedź na każde pytanie o Bractwo.
+
+Wyjął również starą kartę z naszego transportu. W gospodzie w Kharum wpisałam mu przynależność do Bractwa Feniksa, choć nie miał dokumentu potwierdzającego, że ktokolwiek odpowiada za jego działania. W urzędzie zapisów podał już samo imię. Chciał, żebym poprawiła naszą kartę.
+
+— Gdybyśmy nie dojechali, gospodarz szukałby człowieka, którego pod tą nazwą nie znalazłby nigdzie — powiedziałam.
+
+— Mogę podać gospodę, w której nocowałem.
+
+— To trzeba było podać od razu.
+
+Podpisał sprostowanie. Schowałam je do przesyłek, które Jorek miał zabrać do Kharum. Powiedziałam Piecariusowi, że na kurs powrotny mam już umówionego innego ochroniarza. Chciałam, żeby wiedział o tym wcześniej. Nie obraził się, choć popatrzył na sakiewkę dłużej niż na mnie.
+
+Później pojawił się Taren z Zerath. Szukał przewoźnika na wschodni szlak i pytał o człowieka, którego znałam ze składów. Podałam mu imię i miejsce, gdzie może go znaleźć. Kiedy zapytał, czy sama korzystałam z jego usług, przyznałam, że nie.
+
+— Czyli nie może mi pani za niego ręczyć.
+
+— Nie. Mogę powiedzieć, gdzie rozmawialiśmy.
+
+Podziękował. Zapisał adres i odszedł.
+
+Nie miałam problemu z mówieniem prawdy o wozach, których nie znałam. Z nieznanymi kroplami radziłam sobie gorzej.
+
+## Bez Jorka
+
+28 maja, 12 ET · skład przy wschodniej bramie, Val Meris
+
+Wieczorem Jorek przyniósł moją torbę. Szukał sznurka, bo powiedziałam mu rano, że trzymam go pod koszulą. Zamiast sznurka znalazł butelkę, która przy podróży z Kharum przekręciła się w płótnie. Korek się poluzował i zabrudził mu rękaw.
 
 — Co to jest?
 
-Wzięłam od niego butelkę. W mojej torbie była ta, którą wracałam z Kharum. Zamknięta paczka od pośrednika leżała pod koszulą.
-
 — Krople. Miałam je oddać albo zwrócić pieniądze.
 
-Jorek powiedział, że zna tę nazwę. Kobieta z górnej osady pytała go niedawno o mój następny kurs. Chciała wiedzieć, czy przywiozę jej pieniądze. Powiedziała też, że po kroplach siostra znów czuła się źle i poszła do lecznicy. Nie wiedział, co było przyczyną; kobieta sama jej nie znała.
+— Kobieta z górnej osady pytała o ciebie — powiedział. — Siostra znów źle się czuła. Poszła do lecznicy.
 
-— Dlaczego nic mi nie powiedziałaś? — zapytał.
+Nie wiedział, czy to przez krople. Ja również nie. Wciąż miałam jednak w torbie butelkę z tej samej dostawy.
 
-— Bo nie chciałam, żebyś odmówił.
+Jorek obejrzał etykietę. Podałam mu własną kartę przewozową, żeby zobaczył, że butelek na niej nie ma.
 
-— Czego?
+— Dlaczego nic mi nie powiedziałaś?
 
-Nie odpowiedziałam od razu. Sięgnęłam pod koszulę, wyjęłam nową paczkę i położyłam ją między nami. Powiedziałam, co obiecał pośrednik i czego nie wpisałam na kartę.
+— Nie chciałam, żebyś odmówił kursu.
 
-Jorek odsunął się od torby.
+— Jakiego kursu? Tego, który jutro mam poprowadzić sam?
 
-— Mam jutro podpisać za ten wóz.
+Nie odpowiedziałam. Wyjęłam spod koszuli nową paczkę od pośrednika. Opowiedziałam mu, co kupiłam tego dnia i ile obiecano mi za sprzedaż.
+
+Usiadł na burcie. Miał już przygotowaną trasę powrotną, listy od odbiorców i podpisane karty. Nie miał ochoty zaczynać tego wszystkiego od nowa.
+
+— Ja mam podpisać za wóz — powiedział.
 
 — Tak.
 
-— A jeśli nas zatrzymają?
+— Więc nie może być na nim czegoś, o czym nie wiem. A jeśli strażnik otworzy torbę?
 
-Nie miałam prawa obiecywać, że wystarczy moje wyjaśnienie. Powiedziałam mu, że może odmówić tego kursu. Odpowiedział, że chciał zdecydować wcześniej, zanim zapytałam go o konie, ochronę i kartę przewozową.
+— Powiem, że jest moja.
 
-Nowej paczki nie mogliśmy dopisać do zwykłego wykazu bez informacji o zawartości i pochodzeniu. Jorek nie chciał jej wieźć bez wpisu. Odniosłam ją pośrednikowi i oddałam zaliczkę; próbował potrącić część pieniędzy za zerwaną umowę. Nie chciałam zgodzić się na tę kwotę. W końcu oddałam mu więcej, niż uważałam za uczciwe, żeby odzyskać kartkę z własnym imieniem, którą mu wcześniej podpisałam.
+— A jeśli mnie zapyta, dlaczego pozwoliłem ją wieźć?
 
-Jorkowi pokazałam pustą torbę. Obejrzał ją, ale nie powiedział, że mi wierzy. Druga butelka i tak została przy mnie. Postanowiłam nie sprzedawać jej nikomu, dopóki nie dowiem się więcej, co zawiera i skąd pochodzi. Na jutro musiałam też przygotować pieniądze dla kobiety z górnej osady.
+Chciałam mu obiecać, że nikt nas nie zatrzyma. Nie mogłam. Powiedziałam, że ma prawo odmówić wyjazdu.
 
-Wieczorem wyjęłam wszystkie przesyłki z torby. Chciałam sprawdzić kolejność. Jorek zastawił mi drogę pustą skrzynką.
+— Chciałem mieć to prawo, zanim ułożyłem cały kurs — odpowiedział.
 
-— Ja mam to zabrać. Mogę najpierw sam ułożyć?
+Mogłam zabrać paczkę do wynajętego pokoju i nie zostawiać jej na wozie Jorka. Nie musiałby mieć z nią więcej nic wspólnego. Ale następnego dnia miałam dopłacić pośrednikowi resztę ceny, a w Val Meris nie sprzedałam jeszcze ani jednej butelki. Nie chciałam zostać z trzema nieznanymi butelkami, za które musiałabym zapłacić więcej, niż miałam w sakiewce. Jedną butelkę z Kharum nadal miałam. Od niej mogłam zacząć.
 
-Odstawiłam torbę i usiadłam na burcie. Ułożył pakunki w trzech grupach. Do pierwszej włożył list Piecariusa, choć odbiorca leżał dalej niż dwie osoby z drugiej. Zapytałam dlaczego.
+Nową paczkę odniosłam pośrednikowi. Nie przyjął jej chętnie. Zatrzymał część zaliczki za zerwaną umowę, a za zwrot pokwitowania zażądał jeszcze kilku monet. Zapłaciłam, bo nie chciałam, żeby nosił przy sobie kartkę z moim imieniem. Obejrzałam ją przy nim, zanim schowałam do torby.
 
-— Bo gospodarz ma drugi egzemplarz karty. Chciałem mu ją od razu pokazać.
+Jorkowi pokazałam, że nowej paczki już nie mam. Butelkę z Kharum zatrzymałam. Powiedziałam wyraźnie, że nie pojedzie jego wozem i że nie będę podpisywać w jego imieniu dokumentów dotyczących moich własnych interesów.
 
-— A kiedy chcesz tam dojechać?
+— A pieniądze dla tamtej kobiety? — zapytał.
 
-Wskazał dzień w swoim zeszycie. Przy drugim odbiorcy nie wpisał nic. Przypomniałam mu, że kobieta ze składu będzie czekała tylko do końca tygodnia. Mieliśmy z nią ustalony termin odbioru. Sprawdził jeszcze raz kolejność i przesunął list Piecariusa za mniejszy pakunek. Zapisał też, że jeśli droga będzie zamknięta, trzeba wysłać wiadomość do obu osób, zanim pojedzie objazdem.
+Wyjęłam sakiewkę. Policzyliśmy razem należność, którą byłam jej winna. Napisałam kartkę: że zwracam wpłatę, nie mogę potwierdzić składu kropli i podaję nazwisko pośrednika dokładnie tak, jak mi je przedstawiono. Nie wiedziałam, czy mówił prawdę.
 
-Przy ostatniej skrzyni chciałam poprawić mu węzeł. Zobaczył moją rękę.
+Jorek wziął pieniądze i list dopiero po przeczytaniu.
 
-— Trzyma?
+Potem ułożył przesyłki na drogę. Na początku pomylił kolejność dwóch postojów. Wskazałam mu zapisany termin u odbiorczyni, ale nie przestawiałam pakunków. Zrobił to sam. Przy ostatniej skrzyni chciałam poprawić węzeł.
+
+— Trzyma? — zapytał.
 
 Pociągnęłam za pas. Trzymał.
 
@@ -158,36 +188,58 @@ Pociągnęłam za pas. Trzymał.
 
 — To nie rozwiązuj.
 
-Położyłam przed nim również pieniądze dla kobiety z górnej osady. Policzył je, ale nie zabrał od razu.
-
-— Zawiozę, jeśli dołączysz kartkę z tym, co masz jej do powiedzenia.
-
-Napisałam, że zwracam wpłatę, i dopisałam, od kogo kupiłam butelki. Nie wiedziałam, czy pośrednik podał prawdziwe imię. Napisałam również, że nie mogę potwierdzić zawartości. Złożyłam kartkę przy pieniądzach. Jorek wziął je dopiero wtedy.
-
-Podałam mu kartę do podpisu. Nie puściłam jej od razu; musiał poczekać, aż poprawię róg, który zagiął się pod podkładkę. Dopiero potem zostawiłam mu ołówek.
+Usiadłam na burcie. Pierwszy raz tego wieczoru nie miałam już nic do poprawienia przy jego wozie.
 
 ## Przy arenie
 
 29 maja, 12 ET · Val Meris
 
-Rano Jorek odprowadził mnie do bramy areny. Powiedział, że konie nakarmi po powrocie, a potem pojedzie pod skład po ostatnią skrzynię. Ochroniarz miał spotkać go przed wyjazdem. Powtórzył mi to wszystko z pamięci, zanim zdążyłam zapytać.
+Jorek odprowadził mnie do bramy areny. Ochroniarz, którego wynajęliśmy, miał spotkać go przy składzie. Jorek powtórzył trasę i terminy z pamięci. Powiedział też, gdzie zostawi wiadomość, jeśli któryś odcinek okaże się zamknięty.
 
-— Dobrze — powiedziałam.
+— Wiem — odpowiedziałam.
 
-— I napiszę, jeśli trzeba będzie zmienić drogę.
+— A ja wiem, że wiesz.
+
+Uśmiechnął się lekko. Wciąż nie rozmawiał ze mną tak swobodnie jak przed wczorajszym wieczorem. Nie próbowałam przekonać go, że wszystko już wróciło do dawnego porządku.
+
+Piecarius pojawił się przy bramie z poprawionym naramiennikiem. Urzędnik odhaczył nas na liście kandydatów i polecił czekać na placu. Piecarius zatrzymał się przy studni, gdzie starszy człowiek próbował wyciągnąć wiadro. Najpierw stanął mu na łańcuchu. Usłyszałam, jak tamten prosi, żeby się odsunął. Potem wyciągnęli wiadro razem.
+
+Przy placu kilku magów rozgrzewało dłonie, prowadząc krótkie impulsy nad kamieniami. Ktoś rozmawiał o pierwszych próbach. Ktoś inny liczył, na ile starczy mu sił, jeśli każą powtarzać ćwiczenia.
+
+Nie wiedziałam jeszcze, co będę musiała zrobić. Liczyłam, że przyda się to, czego nauczyłam się na drodze: podpieranie ciężaru, utrzymywanie gruntu, szybka pomoc komuś, kto traci równowagę. Nie widziałam powodu, żeby udawać mistrzynię walki.
+
+Przy ścianie rozpoznałam mężczyznę z kolejki do zapisów. Tego z obwiązanym nadgarstkiem. Poprzedniego dnia słyszałam, jak mówił o bólu po sparingach. Teraz siedział na ławie i pocierał palcami przedramię.
+
+Usiadłam obok.
+
+— Jak ręka? — zapytałam.
+
+— Wystarczy na dzisiaj. Gorzej będzie jutro, jeśli każą nam ćwiczyć długo.
+
+Miał przy sobie torbę pełną opatrunków. Zapytał, czy znam coś, co pomaga po wysiłku. Powiedziałam, że spotykałam ludzi kupujących specjalne krople, po których łatwiej zasypiali mimo bólu. Nie umiałam potwierdzić ich składu ani działania.
+
+— A na wytrzymałość? — zapytał.
+
+— Nie wiem. Słyszałam, że niektórzy po nich zasypiają mimo bólu. Nie sprawdzałam, czy następnego dnia są silniejsi.
+
+Nie powiedziałam mu o kobiecie z górnej osady i jej siostrze. Nie wiedziałam, czy krople miały związek z jej osłabieniem. Mogłam o tym wspomnieć. Zamiast tego zapytałam, czy chce zobaczyć butelkę.
+
+Miałam ją w torbie, oddzielnie od rzeczy Jorka. Obejrzał etykietę i zapytał o cenę. Podałam taką, przy której odzyskałabym sporą część pieniędzy straconych wczoraj na zaliczce.
+
+Nie targował się. Położył monety na ławie. Dopiero wtedy podałam mu butelkę.
+
+— Nie mogę obiecać, że pomoże — powiedziałam.
 
 — Wiem.
 
-Mimo to wyjęłam kartkę z adresem, pod którym miał zostawić wiadomość. Obejrzał ją, po czym wsunął mi ją z powrotem do ręki. Swoją kopię miał w torbie.
+Schował ją pod opatrunki. Zapytał, gdzie znajdzie mnie jutro, jeśli będzie chciał kupić następną.
 
-Piecarius przyszedł z nowym paskiem przy naramienniku. Urzędnik odhaczył nas oboje na liście i poprosił, żebyśmy zaczekali na placu. Rycerz poszedł pomóc starszemu człowiekowi przy studni. Najpierw stanął mu na łańcuchu; usłyszałam, jak tamten prosi go, żeby zszedł. Potem obaj wyciągnęli wiadro.
+— Przez kilka dni będę w Val Meris — odpowiedziałam. — Jutro możesz zapytać o mnie przy tym wejściu.
 
-Ja zostałam przy bramie jeszcze chwilę po odejściu Jorka. Nie widziałam stąd wozu ani koni. Mogłam za nim pobiec i jeszcze raz sprawdzić skrzynię, ale zdążyłam już pociągnąć za pas. Obejrzałam potwierdzenie zgłoszenia i schowałam je do kieszeni.
+Nie miałam następnej butelki. Miałam za to imię pośrednika, który zapewniał, że dostarczy kolejne.
 
-Po oddaniu zaliczki i przygotowaniu zwrotu dla kobiety z osady zostało mi mniej, niż planowałam zabrać do Val Meris. W kieszeni miałam imię innego pośrednika. Nie wyrzuciłam kartki. Nie obiecałam też Jorkowi, że już nigdy nie wezmę podobnej przesyłki. Obiecałam mu, że nie podpisze za ładunek, o którym nie wie.
+Prowadząca zawołała pierwszą grupę. Mężczyzna poprawił bandaż na nadgarstku i odszedł. Schowałam monety do sakiewki z pieniędzmi na pobyt w stolicy. Potem sprawdziłam numer na swoim potwierdzeniu.
 
-Na placu kandydatka przede mną próbowała podnieść sznur, który zaplątał się pod ławą. Przytrzymałam ławę, żeby mogła go wyciągnąć. Podziękowała i zapytała, czy też jadę po próbach dalej.
+Z pobliskiego stołu ktoś zawołał, że potrzebują magów Ziemi do następnej próby. Podniosłam rękę.
 
-— Nie wiem jeszcze, kiedy — powiedziałam. — Jorek przygotowuje wóz do drogi.
-
-Zrobiła mi miejsce. Usiadłam obok i po raz pierwszy od wyjazdu z Kharum nie musiałam pilnować, czy coś nie zsunie się z burty.
+Chciałam sprawdzić, ile jestem warta bez wozu. I nie zamierzałam wyjeżdżać z Val Meris z pustą sakiewką.
