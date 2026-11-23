@@ -55,8 +55,8 @@ public partial class RiftorynMenu : MonoBehaviour {
     Texture2D Portrait(string id){if(string.IsNullOrEmpty(id))return null;if(!portraits.TryGetValue(id,out var tex)){tex=Resources.Load<Texture2D>("Portraits/"+id);portraits[id]=tex;}return tex;}
     void Picture(Rect rect,Texture2D texture){Fill(rect,panelAlt);if(texture)GUI.DrawTexture(rect,texture,ScaleMode.ScaleAndCrop);}
     void PictureHead(Rect rect,Texture2D texture){Fill(rect,panelAlt);if(!texture)return;float uvHeight=Mathf.Clamp01(((float)texture.width/texture.height)/(rect.width/rect.height));float bottom=Mathf.Clamp(.90f-uvHeight,0,1-uvHeight);GUI.DrawTextureWithTexCoords(rect,texture,new Rect(0,bottom,1,uvHeight));}
-    void OnGUI(){if(trial==null||!trial.menuOpen||trial.SharedScoresOpen)return;Init();if(sailaReaderOpen){DrawSailaReader();return;}Matrix4x4 old=GUI.matrix;if(page==2&&tab==0&&storyOpen&&(Screen.width<1000||Screen.height<600)){GUI.matrix=Matrix4x4.identity;HeroStoryCompact();GUI.matrix=old;return;}float scale=Mathf.Min(Screen.width/1600f,Screen.height/900f);if(scale<=0)return;GUI.matrix=Matrix4x4.TRS(new Vector3((Screen.width-1600*scale)/2,(Screen.height-900*scale)/2,0),Quaternion.identity,new Vector3(scale,scale,1));Fill(new Rect(0,0,1600,900),bg);Top();if(page==0)Home();else if(page==1)Modes();else if(tab==0&&storyOpen)HeroStory();else Codex();GUI.matrix=old;}
-    void Top(){Fill(new Rect(0,0,1600,70),new Color(.065f,.055f,.10f));Fill(new Rect(0,69,1600,1),line);Text(new Rect(52,20,230,36),"RIFTORYN",brand);string[] labels={"MENU","GRAJ","KODEKS"};for(int i=0;i<3;i++){var n=new GUIStyle(nav);n.normal.textColor=page==i?gold:muted;if(RiftorynL10n.Button(new Rect(310+i*116,23,104,32),labels[i],n)){page=i;storyOpen=false;scroll=Vector2.zero;detailScroll=Vector2.zero;}}Text(new Rect(1270,24,220,25),"PRE-POC  ·  v0.2.2",heroBadge);if(GUI.Button(new Rect(1500,20,70,32),RiftorynL10n.CurrentCode+" ⇄"))RiftorynL10n.Toggle();}
+    void OnGUI(){if(trial==null||!trial.menuOpen||trial.SharedScoresOpen)return;Init();if(sailaReaderOpen){DrawSailaReader();return;}Matrix4x4 old=GUI.matrix;if(page==2&&tab==0&&storyOpen&&(Screen.width<1000||Screen.height<600)){GUI.matrix=Matrix4x4.identity;HeroStoryCompact();GUI.matrix=old;return;}float scale=Mathf.Min(Screen.width/1600f,Screen.height/900f);if(scale<=0)return;GUI.matrix=Matrix4x4.TRS(new Vector3((Screen.width-1600*scale)/2,(Screen.height-900*scale)/2,0),Quaternion.identity,new Vector3(scale,scale,1));Fill(new Rect(0,0,1600,900),bg);Top();if(page==0)Home();else if(page==1)Modes();else if(tab==0&&profileOpen)HeroProfile();else if(tab==0&&storyOpen)HeroStory();else Codex();GUI.matrix=old;}
+    void Top(){Fill(new Rect(0,0,1600,70),new Color(.065f,.055f,.10f));Fill(new Rect(0,69,1600,1),line);Text(new Rect(52,20,230,36),"RIFTORYN",brand);string[] labels={"MENU","GRAJ","KODEKS"};for(int i=0;i<3;i++){var n=new GUIStyle(nav);n.normal.textColor=page==i?gold:muted;if(RiftorynL10n.Button(new Rect(310+i*116,23,104,32),labels[i],n)){page=i;storyOpen=false;profileOpen=false;scroll=Vector2.zero;detailScroll=Vector2.zero;}}Text(new Rect(1270,24,220,25),"PRE-POC  ·  v0.2.2",heroBadge);if(GUI.Button(new Rect(1500,20,70,32),RiftorynL10n.CurrentCode+" ⇄"))RiftorynL10n.Toggle();}
     static string SharedEscapeTitle()=>RiftorynCodexData.Text("WSPÓLNA UCIECZKA","SHARED ESCAPE");
 
     void Home()
@@ -137,15 +137,15 @@ public partial class RiftorynMenu : MonoBehaviour {
     {
         switch(id)
         {
-            case "kael": case "thora": case "niva": case "varek": case "nera": case "liora": case "dara": case "elira": case "rian": case "saila": case "kiran": case "pyrra": case "ana": case "lumen": case "koneva": case "neris":
+            case "kael": case "thora": case "niva": case "varek": case "nera": case "liora": case "dara": case "elira": case "rian": case "saila": case "sarna": case "kiran": case "pyrra": case "ana": case "lumen": case "koneva": case "neris":
                 return RiftorynCodexData.Text("JEJ HISTORIA  →","HER HISTORY  →");
             case "brom": case "iskar": case "taren": case "orien": case "solan": case "nocten": case "zet": case "morven": case "miko": case "eron": case "adrien": case "eira": case "volt": case "rokan":
                 return RiftorynCodexData.Text("JEGO HISTORIA  →","HIS HISTORY  →");
             default: return RiftorynCodexData.Text("HISTORIA  →","THEIR HISTORY  →");
         }
     }
-    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="morrak"||id=="nera"||id=="veda"||id=="volt"||id=="varek"||id=="miko"||id=="azmir"||id=="vaelis"||id=="thora"||id=="ilda";
-    bool HasExtraStories(string id)=>id=="rian"||id=="lucen"||id=="taren";
+    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="morrak"||id=="nera"||id=="veda"||id=="volt"||id=="varek"||id=="miko"||id=="azmir"||id=="vaelis"||id=="thora"||id=="ilda"||id=="lumen";
+    bool HasExtraStories(string id)=>id=="rian"||id=="lucen"||id=="taren"||id=="ruvan"||id=="kael"||id=="iskar"||id=="sarna"||id=="morven";
     void DrawExtraStories(CodexHero hero)
     {
         string prefix; string[] titles;
@@ -154,6 +154,11 @@ public partial class RiftorynMenu : MonoBehaviour {
             case "rian": prefix="Rian"; titles=new[]{"JEDENAŚCIE MINUT", "DRUGI OŁÓWEK", "NIE PRZESTAŁAM"}; break;
             case "lucen": prefix="Lucen"; titles=new[]{"Z TEGO, CO OCALAŁO", "NAUKA KONTROLI", "NIE PRZECIWKO TOBIE"}; break;
             case "taren": prefix="Taren"; titles=new[]{"TO, CO POZOSTAŁO", "CENA LOJALNOŚCI", "PO DRUGIEJ STRONIE"}; break;
+            case "ruvan": prefix="Ruvan"; titles=new[]{"OSTATNIE PRZEJŚCIE", "PIĘTNAŚCIE ZIM", "NIE PYTAJ, ILE MAM LAT"}; break;
+            case "kael": prefix="Kael"; titles=new[]{"CI, KTÓRYCH OSŁANIAŁA", "CIĘŻAR PIECZĘCI", "PO DRUGIEJ STRONIE PIECZĘCI"}; break;
+            case "iskar": prefix="Iskar"; titles=new[]{"ZANIM ZAMKNĄ PRZEŁĘCZ", "CENA JEDNEJ ZIMY", "NIE DLA WSZYSTKICH"}; break;
+            case "sarna": prefix="Sarna"; titles=new[]{"CI, KTÓRZY NIE PYTALI", "KTO MOŻE JECHAĆ", "WŁASNYM GŁOSEM"}; break;
+            case "morven": prefix="Morven"; titles=new[]{"GDY WÓZ SIĘ SPÓŹNIA", "O JEDNĄ ESKORTĘ ZA MAŁO", "ZANIM OTWORZĄ BRAMĘ"}; break;
             default: return;
         }
         bool hasPending=false;
@@ -171,6 +176,7 @@ public partial class RiftorynMenu : MonoBehaviour {
         string prefix; string[] titles;
         switch(hero.id)
         {
+            case "lumen": prefix="Lumen"; titles=new[]{"SIEDEM DNI", "POTWIERDZENIE ODBIORU", "ZOSTALIŚCIE UPRZEDZENI"}; break;
             case "volt": prefix="Volt"; titles=new[]{"SKRZYDŁO", "OTWARTE OKNO", "PO DRUGIEJ STRONIE SYGNAŁU"}; break;
             case "varek": prefix="Varek"; titles=new[]{"DRUGI SYGNAŁ", "CZAS NA ODPOWIEDŹ", "KTO ZOSTAJE PRZY LINII"}; break;
             case "miko": prefix="Miko"; titles=new[]{"TO POWINNO ZADZIAŁAĆ", "JESZCZE JEDEN IMPULS", "JESZCZE JEDEN PIORUN"}; break;
@@ -202,10 +208,11 @@ public partial class RiftorynMenu : MonoBehaviour {
         if(heroes.Length==0)return;selected=Mathf.Clamp(selected,0,heroes.Length-1);var hero=heroes[selected];
         PictureHead(new Rect(1086,271,463,200),Portrait(hero.id));Fill(new Rect(1086,404,463,67),new Color(.07f,.055f,.10f,.84f));
         Text(new Rect(1108,414,420,25),$"{RiftorynL10n.Translate(hero.role)}  /  {RiftorynL10n.Translate(hero.element)}",heroBadge);Text(new Rect(1107,438,420,36),hero.name.ToUpperInvariant(),detailTitle);
+        if(Click(new Rect(1105,483,425,42),"KARTA POSTACI  →",true)){profileOpen=true;profileScroll=Vector2.zero;return;}
         if(hero.comingSoon)
         {
-            Text(new Rect(1105,486,425,26),"WKRÓTCE",heroBadge);
-            Text(new Rect(1105,521,425,72),RiftorynCodexData.Text(hero.desc,hero.descEn),body);
+            Text(new Rect(1105,533,425,26),"WKRÓTCE",heroBadge);
+            Text(new Rect(1105,564,425,72),RiftorynCodexData.Text(hero.desc,hero.descEn),body);
             if(HasDraftStories(hero.id))DrawDraftStories(hero);
             if(HasExtraStories(hero.id))DrawExtraStories(hero);
             if(hero.id=="lena")
@@ -219,7 +226,7 @@ public partial class RiftorynMenu : MonoBehaviour {
             }
             return;
         }
-        bool small=Screen.width<1000||Screen.height<600;Rect entry=new(1105,483,425,small?64:42);bool open;
+        bool small=Screen.width<1000||Screen.height<600;Rect entry=new(1105,532,425,small?64:42);bool open;
         if(small){Fill(entry,gold);var entryStyle=new GUIStyle(button){fontSize=23,alignment=TextAnchor.MiddleCenter};open=GUI.Button(entry,StoryButtonLabel(hero.id),entryStyle);}else open=Click(entry,StoryButtonLabel(hero.id),true);
         if(open){storyOpen=true;selectedComic=0;storyZoom=1f;storyScroll=Vector2.zero;comicListScroll=Vector2.zero;}
         bool hasDraftStories=HasDraftStories(hero.id);
@@ -245,7 +252,7 @@ public partial class RiftorynMenu : MonoBehaviour {
             if(Click(new Rect(1105,796,425,32),"WYNALAZEK, KTÓREGO NIE PRZEWIDZIAŁEM  →",true))
                 OpenSailaStory("AdrienStory3","WYNALAZEK, KTÓREGO NIE PRZEWIDZIAŁEM","ADRIEN");
         }
-        float detailTop=small?557:535;
+        float detailTop=small?605:584;
         Rect detail=new(1105,detailTop,425,isSaila||isAdrien||hasDraftStories||HasExtraStories(hero.id)?680-detailTop:820-detailTop);detailScroll=GUI.BeginScrollView(detail,detailScroll,new Rect(0,0,395,900));float y=0;
         Text(new Rect(0,y,380,56),hero.desc,mutedText);y+=62;
         if(hero.hp>0){Text(new Rect(0,y,380,26),RiftorynL10n.Format("HP  {0}     PRĘDKOŚĆ  {1}     ODNOWIENIE  {2} s",hero.hp,RiftorynL10n.Number(hero.speed),hero.cd),heroBadge);y+=42;}

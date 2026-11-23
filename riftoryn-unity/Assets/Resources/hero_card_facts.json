@@ -1,0 +1,24 @@
+{
+  "heroes": [
+    {"id":"nocten","age":"68 lat","home":"Północna osada (według dokumentów)","occupation":"Mag Ciemności; prowadzi zapiski i porównuje wspomnienia."},
+    {"id":"morrak","age":"Nieznany","home":"Nieznane; spotykany na szlakach Vesper","occupation":"Chroni podróżnych i tropi sprawców świadomych krzywd."},
+    {"id":"saila","age":"Około 23 lat","home":"Biały Przesmyk, Nivoren","occupation":"Magini Lodu; utrzymuje chłodnie i pomaga na szlaku."},
+    {"id":"adrien","age":"37 lat","home":"Aurel","occupation":"Wynalazca i konstruktor urządzeń ze splotytem."},
+    {"id":"lena","age":"Około 32 lat","home":"Aurel","occupation":"Techniczka i konstruktorka zabezpieczeń w warsztacie Adriena."},
+    {"id":"rian","age":"39 lat","home":"Żarowisko Vareth","occupation":"Specjalistka od urządzeń i zabezpieczeń; szkoli młodszych rzemieślników."},
+    {"id":"lucen","age":"29 lat","home":"Aurel","occupation":"Mag Światła i konstruktor; pracuje przy urządzeniach i oznaczeniach szlaków.","side":"Rada — wspólny nadzór"},
+    {"id":"taren","age":"52 lata","home":"Iglica Zerath","occupation":"Zabezpiecza ekipy pracujące przy stacjach i przekaźnikach.","side":"Wolne Krainy — samodzielność"},
+    {"id":"azmir","age":"Około 68 lat (propozycja)","home":"Cienisty Port, Vesper","occupation":"Archiwista; porównuje dokumenty i relacje świadków."},
+    {"id":"vaelis","age":"Około 23 lat (propozycja)","home":"Cienisty Port, Vesper","occupation":"Archiwistka i uczennica Azmira; sporządza odpisy i sprawdza świadectwa."},
+    {"id":"thora","age":"42 lata","home":"Korzenna Przystań, Verdan","occupation":"Pomaga przy odbudowie gospodarstw i ochronie mieszkańców."},
+    {"id":"nera","age":"Około 21 lat","home":"Iglica Zerath","occupation":"Pracuje przy stacji przekaźnikowej."},
+    {"id":"veda","age":"Nieustalony","home":"Kharum; podróżuje szlakami","occupation":"Przewoźniczka i kurierka; organizuje dostawy."},
+    {"id":"rokan","age":"65 lat","home":"Kamienny Próg, Kharum","occupation":"Pracuje przy kamieniołomach; towarzyszy mu Krzemień."},
+    {"id":"ilda","age":"Nieustalony","home":"Kamienny Próg, Kharum","occupation":"Opiekuje się zwierzętami i pomaga przy bezpiecznych przejściach."},
+    {"id":"miko","age":"42 lata (propozycja)","home":"Iglica Zerath","occupation":"Konstruktor i szermierz; pracuje nad urządzeniami Błyskawic."},
+    {"id":"varek","age":"33 lata (propozycja)","home":"Iglica Zerath","occupation":"Naprawia przekaźniki i koordynuje pracę zespołu."},
+    {"id":"volt","age":"26 lat (propozycja)","home":"Iglica Zerath","occupation":"Naprawia przekaźniki i przenosi wiadomości; towarzyszy mu sokół Grom."},
+    {"id":"piecarius","age":"Nieustalony","home":"Nieustalone; podróżuje po Riftorynie","occupation":"Wędrowny rycerz szukający śladów Feniksa."},
+    {"id":"lumen","age":"34 lata (propozycja)","home":"Aurel","occupation":"Przedstawicielka Aurelu w Radzie; archiwistka zajmująca się informacją i procedurami. Towarzyszy jej Blask.","side":"Rada — wspólny nadzór"}
+  ]
+}

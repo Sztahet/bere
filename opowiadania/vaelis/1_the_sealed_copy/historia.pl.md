@@ -2,7 +2,7 @@
 
 ## Pierwsze odpisy
 
-10 ET · archiwum Cienistego Portu
+Rok 10 ET · archiwum Cienistego Portu, Vesper
 
 Kiedy zaczynałam pracę u Azmira, myślałam, że najtrudniejsze będzie przepisywanie. Szybko odkryłam, że trudniejsze jest nie poprawiać cudzej pamięci na taką, która mieści się w rubryce.
 

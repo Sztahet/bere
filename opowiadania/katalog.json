@@ -253,19 +253,19 @@
         "id": "to-czego-nie-odnaleziono",
         "folder": "opowiadania/azmir/1_the_unrecovered",
         "unity": "AzmirDraft1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "slowo-ktorego-nie-wpisalem",
         "folder": "opowiadania/azmir/2_the_word_i_left_out",
         "unity": "AzmirDraft2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "wiele-par-oczu",
         "folder": "opowiadania/azmir/3_many_pairs_of_eyes",
         "unity": "AzmirDraft3",
-        "draft": true
+        "draft": false
       }
     ]
   },
@@ -486,6 +486,114 @@
     ]
   },
   {
+    "id": "lumen",
+    "name": "Lumen",
+    "region": "Aurel",
+    "portrait": "lumen-light-summoner.png",
+    "series": null,
+    "stories": [
+      {
+        "id": "siedem-dni",
+        "folder": "opowiadania/lumen/1_seven_days",
+        "unity": "LumenDraft1",
+        "draft": false
+      },
+      {
+        "id": "potwierdzenie-odbioru",
+        "folder": "opowiadania/lumen/2_acknowledgement_of_receipt",
+        "unity": "LumenDraft2",
+        "draft": false
+      },
+      {
+        "id": "zostaliscie-uprzedzeni",
+        "folder": "opowiadania/lumen/3_you_were_warned",
+        "unity": "LumenDraft3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "ruvan",
+    "name": "Ruvan",
+    "region": "Nivoren",
+    "portrait": "ruvan-ice-specialist.png",
+    "series": null,
+    "stories": [
+      {
+        "id": "ostatnie-przejscie",
+        "folder": "opowiadania/ruvan/1_the_last_passage",
+        "unity": "RuvanStory1",
+        "draft": false
+      },
+      {
+        "id": "pietnascie-zim",
+        "folder": "opowiadania/ruvan/2_fifteen_winters",
+        "unity": "RuvanStory2",
+        "draft": false
+      },
+      {
+        "id": "nie-pytaj-ile-mam-lat",
+        "folder": "opowiadania/ruvan/3_dont_ask_how_old_i_am",
+        "unity": "RuvanStory3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "kael",
+    "name": "Kael",
+    "region": "Vareth",
+    "portrait": "kael-fire-tank.png",
+    "series": null,
+    "stories": [
+      {
+        "id": "ci-ktorych-oslaniala",
+        "folder": "opowiadania/kael/1_those_she_shielded",
+        "unity": "KaelStory1",
+        "draft": false
+      },
+      {
+        "id": "ciezar-pieczeci",
+        "folder": "opowiadania/kael/2_the_weight_of_the_seal",
+        "unity": "KaelStory2",
+        "draft": false
+      },
+      {
+        "id": "po-drugiej-stronie-pieczeci",
+        "folder": "opowiadania/kael/3_beyond_the_seal",
+        "unity": "KaelStory3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "iskar",
+    "name": "Iskar",
+    "region": "Nivoren",
+    "portrait": "iskar-ice-tank-v2.png",
+    "series": null,
+    "stories": [
+      {
+        "id": "zanim-zamkna-przelecz",
+        "folder": "opowiadania/iskar/1_before_the_pass_closes",
+        "unity": "IskarStory1",
+        "draft": false
+      },
+      {
+        "id": "cena-jednej-zimy",
+        "folder": "opowiadania/iskar/2_the_price_of_one_winter",
+        "unity": "IskarStory2",
+        "draft": false
+      },
+      {
+        "id": "nie-dla-wszystkich",
+        "folder": "opowiadania/iskar/3_not_for_everyone",
+        "unity": "IskarStory3",
+        "draft": false
+      }
+    ]
+  },
+  {
     "id": "volt",
     "name": "Volt",
     "region": "Zerath",
@@ -509,6 +617,60 @@
         "folder": "opowiadania/volt/3_the_second_signal",
         "unity": "VoltDraft3",
         "draft": true
+      }
+    ]
+  },
+  {
+    "id": "morven",
+    "name": "Morven",
+    "region": "Vesper",
+    "portrait": "morven-darkness-specialist-portrait.png",
+    "series": "Zanim otworzą bramę",
+    "stories": [
+      {
+        "id": "gdy-woz-sie-spoznia",
+        "folder": "opowiadania/morven/1_when_the_wagon_is_late",
+        "unity": "MorvenStory1",
+        "draft": false
+      },
+      {
+        "id": "o-jedna-eskorte-za-malo",
+        "folder": "opowiadania/morven/2_one_escort_too_few",
+        "unity": "MorvenStory2",
+        "draft": false
+      },
+      {
+        "id": "zanim-otworza-brame",
+        "folder": "opowiadania/morven/3_before_the_gate_opens",
+        "unity": "MorvenStory3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "sarna",
+    "name": "Sarna",
+    "region": "Verdan",
+    "portrait": "sarna-nature-support.png",
+    "series": "Własnym głosem",
+    "stories": [
+      {
+        "id": "ci-ktorzy-nie-pytali",
+        "folder": "opowiadania/sarna/1_those_who_never_asked",
+        "unity": "SarnaStory1",
+        "draft": false
+      },
+      {
+        "id": "kto-moze-jechac",
+        "folder": "opowiadania/sarna/2_who_gets_to_go",
+        "unity": "SarnaStory2",
+        "draft": false
+      },
+      {
+        "id": "wlasnym-glosem",
+        "folder": "opowiadania/sarna/3_in_her_own_voice",
+        "unity": "SarnaStory3",
+        "draft": false
       }
     ]
   }

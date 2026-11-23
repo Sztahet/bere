@@ -2,7 +2,7 @@
 
 ## Wykaz ofiar
 
-W czasie Nocy Zgasłych Wież, 3 PT · Val Meris
+3 PT · Val Meris
 
 Byłem w Val Meris, kiedy zgasło światło w sali ewidencji. Nie widziałem wież ani chwili ich awarii. Dopiero kilka dni później skierowano mnie do punktu opatrunkowego i wykazów ofiar. Widziałem miasto, które próbowało ustalić, kogo wciąż można znaleźć.
 

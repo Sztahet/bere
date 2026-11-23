@@ -22,7 +22,7 @@ public partial class RiftorynTrial
     RiftorynSharedScores ScoreStore => sharedScores??=new RiftorynSharedScores(
         Path.Combine(Application.persistentDataPath,RiftorynSharedScores.FileName));
 
-    static bool IsSharedHero(int hero)=>hero is KaelHero or ZetHero or KonevaHero or NeraHero or MikoHero;
+    static bool IsSharedHero(int hero)=>hero is KaelHero or ZetHero or KonevaHero or NeraHero or MikoHero or SarnaHero;
 
     public void OpenSharedEscape()
     {
@@ -126,7 +126,7 @@ public partial class RiftorynTrial
                 if(threat==null||!CanDisableSharedTower(ally,threat)) threat=partnerUnderFire;
                 if(threat!=null&&CanDisableSharedTower(ally,threat)) UseSkill(ally,threat);
             }
-            else if(underFire!=null||partnerUnderFire!=null||shotIncoming||partnerIncoming)
+            else if(underFire!=null||partnerUnderFire!=null||shotIncoming||partnerIncoming||ally.hero==SarnaHero&&fogClose)
             {
                 if(ally.hero!=KonevaHero||ally.kit.guardUntil<=elapsed&&(underFire!=null||partnerUnderFire!=null)) Skill(ally);
             }

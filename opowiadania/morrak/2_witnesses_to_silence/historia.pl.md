@@ -2,7 +2,7 @@
 
 ## I. Żeton
 
-10 ET · archiwum Cienistego Portu
+Rok 10 ET · archiwum Cienistego Portu, Vesper
 
 Zapis Azmira: relacje dotyczące zawalenia w kopalni i późniejszej śmierci nadzorcy; zebrane w kolejnych dniach.
 
@@ -44,7 +44,7 @@ Miała rację. Mimo to nie potrafiłem z samego przedmiotu wskazać człowieka.
 
 ## II. Pod ziemią
 
-10 ET · kopalnia w Vesper
+Rok 10 ET · kopalnia w Vesper
 
 Do kopalni pojechałem trzy dni później. Poproszono mnie o sporządzenie odpisów świadectw dla rodzin i komisji badającej wypadek. Mirela nie chciała, żebym użył jej imienia w kopii dla zarządcy. Uznałem, że mogę przechować oryginał osobno, a w odpisie wskazać świadka bez imienia. Powiedziałem jej, kto będzie miał dostęp do pełnego dokumentu. Zgodziła się dopiero po przeczytaniu obu wersji.
 
@@ -90,7 +90,7 @@ Zostawiłem jego odpowiedź w całości. Łatwo byłoby skrócić ją do potwier
 
 ## III. Ostatnie ostrzeżenie
 
-10 ET · kopalnia w Vesper
+Rok 10 ET · kopalnia w Vesper
 
 Nadzorca nie mógł odpowiedzieć na pytania. Zginął w noc po zawaleniu.
 
@@ -138,7 +138,7 @@ Nie powiedziałem jej, że jeszcze nie wiem, co myśleć. Obawiam się, że zabr
 
 ## IV. Kopie
 
-10 ET · archiwum Cienistego Portu
+Rok 10 ET · archiwum Cienistego Portu, Vesper
 
 Po powrocie do portu rozłożyłem relacje na dwóch stołach. Pierwszego dnia wydawało mi się, że mam ich za mało. Drugiego — że mam ich aż nadto, by przypadkiem wybrać tylko te, które pasują do mojego wyobrażenia.
 
@@ -172,7 +172,7 @@ Napisałem do niej jeszcze tego wieczoru. Odpisała po dwóch dniach: „Brat pr
 
 ## V. Karta czterdziesta druga
 
-10 ET · archiwum Cienistego Portu
+Rok 10 ET · archiwum Cienistego Portu, Vesper
 
 Dawne zapiski o drodze leżały w tej samej szafie. Wyjąłem je i porównałem z relacjami z kopalni. Ciemny płaszcz, milczenie, ludzie osłonięci przed zagrożeniem. Imiona Morrak i Vesh. Wszystko to się powtarzało, ale nie wszystkie szczegóły pochodziły od osób, które widziały postać z bliska.
 

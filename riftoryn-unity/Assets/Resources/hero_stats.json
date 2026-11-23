@@ -73,6 +73,15 @@
       "petSpeed": 0
     },
     {
+      "id": "sarna",
+      "hp": 115,
+      "attack": 0,
+      "speed": 4.9,
+      "petHp": 0,
+      "petAttack": 0,
+      "petSpeed": 0
+    },
+    {
       "id": "elira",
       "hp": 120,
       "attack": 10,

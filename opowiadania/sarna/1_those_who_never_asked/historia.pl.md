@@ -1,0 +1,147 @@
+# Ci, którzy nie pytali
+
+## Dwa wieczory
+
+12 września, 8 ET · wspólny sad pod Korzenną Przystanią, Verdan
+
+Mela umiała nosić kosz na biodrze tak, że miała prawą rękę wolną do zrywania jabłek. Kiedy próbowałam robić to samo, obijałam sobie o obręcz zawsze to samo miejsce. Tego ranka zabrała mi kosz, zanim zdążyłam poprawić fartuch.
+
+— Ty masz wóz. Jak nam się wszystko pomiesza, będziesz musiała odróżniać obite od robaczywych po ciemku.
+
+Pod gruszą stał mój wóz. Pachniał koprem, choć dno umyłam zaraz po powrocie. Mela miała zostawić w sadzie tyle jabłek, żeby mogli przyjść po nie sąsiedzi, a resztę oddać mi na susz. Do worków z owocami mieliśmy dołożyć płaskie kosze liści zebranych przez miejscowe zielarki. Na drugim brzegu doliny stała suszarnia z dobrym ciągiem. Tam od kilku dni czekało drewno, które mieszkańcy przynieśli z domów. W zamian za nasz ładunek obiecaliśmy im wodę z ujęcia w górnym sadzie do pierwszego mycia i wynagrodzenie w suszu. Gdyby łodzie szły zgodnie z planem, wrócilibyśmy po dwóch dniach.
+
+Nie musieliśmy się długo umawiać. Widziałam, że dla Meli ważna jest woda. Jej brat czekał na rozpoczęcie pracy w suszarni od dwóch tygodni. Przez lato brał od niego opał każdy po trochu, chociaż sam chodził z ręką zawieszoną na pasie. Wypadało, żebyśmy teraz dali mu choć kilka pełnych dni pracy.
+
+Przy długim stole przysiadała Ziela, która raz na kilka dni zaglądała do ogrodów sprawdzić, co ludzie wynoszą do suszenia. Podała mi nieduży flakon i od razu spojrzała na odwzorowany na wosku znak, czy odcisnął się do końca.
+
+— Po ostatnim spałaś choć trochę?
+
+— W domu tak. U Meli za ścianą ktoś do trzeciej czyścił beczki.
+
+Zanim się roześmiała, obejrzała mi nadgarstek. Ból zaczynał się u nasady kciuka i w nocy ciągnął aż w górę ręki. Robił się wyraźniejszy po długiej jeździe, zwłaszcza jeśli dużo razy musiałam poprawiać wodze. Zabierałam krople do domu od dawna. Kiedy kończyły się u Zieli, szłam do innej zielarki. Ziela znała obie zielarki od lat. Jedna pracowała przy lecznicy, druga suszyła zioła w szopie koło mojego ogrodu. Jeśli flakon trzeba było wymienić, na stole zwykle znajdował się drugi.
+
+— Jutro masz zakos w dół? — zapytała.
+
+— Jeśli łódź będzie pod pomostem.
+
+— Nie trzymaj sama obu koni przy zjeździe.
+
+Zapłaciłam, wsunęłam flakon między czyste chustki i wróciłam do koszy. Mela przygotowała dla mnie mniejszy. Kiedy powiedziałam, że mogę przecież wziąć oba, przytrzymała drugi butem.
+
+— Wszystko pomieścisz w wozie. To nie znaczy, że wszystko musisz wnieść naraz.
+
+Razem wybrałyśmy jabłka do suszenia. Trafiały do innego kosza niż owoce dla ludzi, którzy przyjdą po nie przed obiadem. Mela trzymała dwa gorsze w fartuchu, bo na koniec dnia chciała je obrać dla brata. Trzy podziobane zjadłam, chodząc od stołu do wozu. Pod wieczór weszłam z koszem na łagodny brzeg drogi i spojrzałam w stronę wody. Zwykle widać było czubek łodzi, choćby odbierała jeszcze pasażerów niżej. Tego dnia po drugiej stronie odzywał się dzwonek na kozie, a pod pomostem nikogo nie było.
+
+## Kto czeka na drugim brzegu
+
+13 września, 8 ET · rzeczna przystań pod Korzenną Przystanią, Verdan
+
+Zanim pojechałam z ładunkiem, odprowadziłam do pomostu puste kosze. Chciałam sprawdzić, czy łódź podejdzie blisko schodków. Zastałam tam człowieka, który czyścił linę z mułu. Znałam go jako przewoźnika ludzi. Przy jego własnej łodzi zawsze leżała druga deska do wchodzenia z brzegu, na wypadek gdyby komuś noga nie sięgała pierwszej. Tego ranka używał jej jako ławy.
+
+— Pojedziecie w piątek — powiedział, kiedy mnie poznał. — Jeśli uwolnią pomost wyżej, to we czwartek wieczorem.
+
+Na słupie miał listę przybitą wczorajszym gwoździem. Przewóz zastrzeżono dla dwóch wozów z solą i częściami do przegrody wodnej. Zapis złożono przy większym składzie u góry rzeki. Tam decydowano, w jakiej kolejności schodzi z pomostu taki ciężar. Wozów spod sadu na liście nie było.
+
+— Suszarnia czeka na nas od dziś — powiedziałam. — Jak im dasz znać?
+
+— Nie wiem, kto tam czeka. Wczoraj miałem jeszcze same ciężary. Nikt nie przysłał nazw odbiorców.
+
+Nie umiałam tego zdać na własny koszt. Zgłosiłam ładunek na czas u człowieka ze składu, a u przewoźnika zostawiłam dzień przewozu. U drugiej strony czekali na nas od popołudnia. Przez dwa dni nikt nie mówił mi, że przydział może się zmienić. Sól nie mogła stać nad wodą. Rozumiałam, że części do przegrody też były komuś potrzebne. Przewoźnik zaproponował, żebym wysłała z nim wiadomość do ludzi, którzy mieli zwalniać pomost. Mógł ją zabrać, jeśli przypłyną po niego przed południem. Wolałam najpierw wiedzieć, czy da się cokolwiek wykonać inną drogą.
+
+Zaczęłam od Meli. Przy beczce na podwórzu przelała ostatnią wodę do naczyń do mycia owoców. Gdy opowiedziałam o pomostach, najpierw zapytała o części do przegrody. Rok wcześniej zrywało tam kładkę. Jeśli zostawiono w wodzie tylko drewno, następna wezbrana noc mogła zatrzymać ludzi na całym brzegu. Przestawiając misę na bok, nalała mi wody, bo całą drogę mówiłam za szybko i w końcu zaczęłam kaszleć.
+
+— Chcesz się z nimi kłócić, że tamci dostali pierwszeństwo?
+
+— Chcę wiedzieć, dlaczego nie przysłali nikogo zapytać, co możemy przez to stracić.
+
+— To zapytaj. Zanim wyjedziesz inną drogą, pozwól nam zobaczyć, czy u nas wystarczy rąk. Brat może uruchomić suszarnię dla tych, którzy już są po jego stronie. Nie zamknie pieca dlatego, że nas nie ma.
+
+Pomyślałam o małych koszach liści. Dawało się je przesypać na połowę wozu i poprowadzić konie tam, gdzie z ciężkim ładunkiem nie przejechałabym sama. Stary bród leżał o kawałek drogi w stronę lasu. Za nim droga podchodziła pod suszarnię. Sama woziłam tamtędy wiklinę. Proponowałam zabrać najpierw liście, a w drugą stronę przewieźć tylko puste kosze. Mela wzięła między palce kilka jeszcze wilgotnych liści.
+
+— Każesz ludziom nosić na omszałych kamieniach. Na wozie nie może stanąć koń bokiem, bo prąd tam ciągnie pod brzeg. Gdy przyjdzie deszcz, stracisz też drogę powrotną.
+
+— Pojadę z kimś. Przeszłam ją w zeszłym miesiącu.
+
+Właśnie wtedy powinnam była zapytać, kiedy przeszła ją ona. Zawołałam Idę, która nieraz zastępowała mnie przy koniach. Miała swój mały wóz i planowała wyjechać dopiero nazajutrz. Za pół kursu z miejsca zgodziła się zawieźć ze mną liście. Mela obliczyła, ile koszy uniosą konie, jeśli też zaczepi ich pasy przy dyszlu. Powtórzyła mi, że z wodą musimy się liczyć bardziej niż z poniesioną już pracą. Obiecałam wrócić, jeśli bród będzie głęboki. Chciałam to zrobić. Nie powiedziałam jej jednak, po czym poznam, że jest za głęboki.
+
+## Połowa wozu
+
+13 września, 8 ET · stary bród i suszarnia w dolinie Korzennej Przystani, Verdan
+
+Na wóz Idy wzięłyśmy liście i cztery grube płachty. Do pierwszego zakrętu Ida jechała sama, a ja szłam za nią. Na brzegu rozłożyłam wzdłuż ścieżki oderwane łodygi mięty, wyciągnięte z zewnętrznej kieszeni. Wracając po zachodzie, mogłyśmy poczuć je przy schodzeniu na dół. Płytką stronę znałam. Przy tej płytkiej stronie dostałam wody po buty dawno przed tym, zanim podeszłam do pierwszego kamienia w brzegu.
+
+Ida stanęła pod wierzbą. Z tamtego miejsca nie widziała, co mam pod stopami. Kazałam jej podejść i wspólnie obejrzałyśmy tamtą stronę rowu. Przy wylocie, gdzie wóz miał stanąć po wyjściu z wody, puściła mała skarpa. Miałam nadzieję, że razem przeciągniemy zwierzę obok wyrwy. Ida patrzyła przede wszystkim na drogę pod spodem.
+
+— Wjedzie, jeżeli tu mu zrobimy miejsce na obie nogi — powiedziała. — Po kamieniu, nie pod gliną. Ja będę teraz trzymać oba wodze. Ty patrz, co robisz przy brzegu.
+
+Przeszłam wodę z płachtą pod pachą. Pochyliłam się przy źdźbłach schodzących od wyrwy prosto w rzekę. Z warstwy ziemi wysuwały się cienkie korzenie, pod nimi stała woda. Najpierw docisnęłam kamień, przy którym jeszcze tkwiła stara trawa. Wsunęłam palce pod darń. Czułam kierunek, w którym rosły korzenie. Przeprowadziłam je bokiem, przez mokry brzeg. Parę znalazło luźny piasek i ruszyło dalej, zanim udało mi się podsunąć następny kamień. Najpierw położyłam na kamieniach płachtę, potem oparłam się o nią całym ciężarem. Kiedy brzeg się nie zsunął, pokazałam Idzie, żeby podprowadziła konia.
+
+Zeszła do rzeki. Przez pierwsze kilka kroków słychać było tylko plusk i drewniane mocowanie przy dyszlu. Kiedy koń znalazł się nad wyrwą, podparłam brzeg jeszcze raz. Pierwsze koło przeszło. Drugie minęło miejsce, w którym rosły korzenie, i trafiło na kawał gliny. Wóz uderzył końcem o brzeg. Ida utrzymała konia. Jeden kosz odskoczył od burty, bo mogłyśmy go spiąć mocniej, a od deszczu sznur ścisnął się na jednym rogu. Kosz wpadł do wody dnem do góry. Położyłam się na brzegu i zdołałam złapać go za ucho, zanim prąd zabrał go pod wóz. Połowę liści wypłukało. Pozostałe były mokre i oblepione piaskiem. Nie dało się tego już oddać do suszenia z resztą.
+
+Na górę wóz pociągnął koń Idy razem z ludźmi z suszarni. Zauważyli nas, gdy wychodzili z workiem po drewno. Mela nie musiała widzieć, co zrobiłam z drogą. Wystarczyło, że jej brat zobaczył z daleka mokre liście. Zabrał mnie do stołu, na którym sprawdzał plony. Rozłożył na stole zawartość pierwszego kosza i przy oknie obejrzał liście z dna. Kazał nam tak samo wysypać kolejne.
+
+— Suche biorę. Tamte trafią na kompost. Co zamoczone z rzeki, nawet na wierzchu, odkładamy. Ty też przejrzyj rękawy, zanim zabierzesz się za zdrowe.
+
+Kiedy przechodził od stołu do pieca, oszczędzał rękę. Chciałam mu od razu coś przytrzymać. Poprosił, żebym najpierw przestała kropić wodą dobre liście. Ida wyjęła mi zza kołnierza płat gliny i obie wyszłyśmy odwiesić odzież. Przy suszarni był nowy przybudowany ganek. Zanim jeszcze zwinęłam rękawy, usiadła tam obok mnie.
+
+— Zboże dla mnie miałaś zawieźć na jutro — przypomniała. — Wracam z tobą, ale przez stary bród już dzisiaj nie przejadę. Trzeba będzie piechotą do pomostu, konia zostawimy tu. Jutro nie pojadę nim na zboże.
+
+Wiedziałam, ile osób czeka na to zboże. Dwie kupowały je co tydzień z Idą, bo same musiały tego dnia wypiekać chleb. Wrócą do domu z pieniędzmi, ale bez tego, co obiecały. Chciałam powiedzieć, że zawiozę im worki moim wozem. Najpierw zapytałam, kiedy muszą je dostać. Ida przymknęła oczy, jakby wreszcie mogła przeliczyć, ile zostawiła przed wyjazdem.
+
+— Przed świtem. Jeśli mój koń zostaje tutaj, pójdę do nich od razu, zanim ty się w domu do niego zbierzesz.
+
+Przy suszarni zastała nas pierwsza godzina chłodu. Nikt nie miał paska na moje buty, które po wodzie zaczęły mi spadać. Przewiązałyśmy je sznurkiem z wyrzuconego kosza. Potem poszłyśmy do pomostu. Brat Meli został przy piecu. Wiedział już, że na dzisiaj ma za mało naszych liści, poprosił więc sąsiada o jego własne jabłka. Cieszyłam się, kiedy wchodząc po schodkach łodzi, zobaczyłam światło pod dachem suszarni. Ida odezwała się dopiero na środku rzeki. Z drobnego przewozu płynęliśmy z dwojgiem pieszych. Mogła już policzyć, ile będzie musiała oddać ludziom, którzy do jutra stracą jej wóz.
+
+## Przed powrotem łodzi
+
+14 września, 8 ET · podwórze Meli, Korzenna Przystań, Verdan
+
+Po powrocie wzięłam krople, jak co wieczór. Ból w dłoni nie zniknął. Łatwiej było trzymać ją na złożonej chustce i nie przekładać co chwilę na inne miejsce. Wstałam po paru godzinach i włożyłam do fartucha zapłatę dla Idy, tyle, ile jej umówiłam, oraz część kwoty za worki, po które nie pojechała. Musiałam wziąć ją z koperty na nowe obręcze. Jeśli będę się kłócić o koszty w przystani, nadal będę musiała jakoś płacić na swoje koła.
+
+Ida wzięła wynagrodzenie za kurs. Za zboże przyjęła tylko połowę tego, co przyniosłam, bo rano jeden z ludzi poszedł po nie z sąsiadem. Wracając, przyniosła nam garnek kwaśnego mleka, który dostała po drodze. Usiadłyśmy na ławie i wypiłyśmy po kubku.
+
+— Kiedy powiedziałaś, że tamtędy przejedziemy, widziałam, ile jest wody — odezwała się. — Mogłam zostać pod wierzbą. Tylko potem przeszłaś przez brzeg i tak zabrałaś się do roboty, że wolałam ci zaufać.
+
+— Mogłam najpierw zapytać, czego ci trzeba, żebyś weszła z koniem.
+
+— Teraz już wiesz, czego mi trzeba. Stanąć w tym samym miejscu i widzieć, co ty.
+
+Po południu poszłam z Melą do ludzi od przewozu. Starszy mężczyzna ze składu wyjaśnił, że dowiedział się o częściach do przegrody dopiero w nocy. Mógł dać znać jednemu odbiorcy koszy, ale miał pod ręką tylko umowy przewoźników, którzy przyjęli swoje zgłoszenia sami. Przy naszych liściach wpisał miejsce załadunku. Kiedy podałam mu imię brata Meli i powiedziałam, ile dni ludzie czekali na suszarnię, zobaczyłam, jak szuka tego imienia w swoich kartkach. W miejscu, gdzie powinno być, mógł sobie najwyżej postawić kropkę przy „sad”.
+
+— Jak zatrzymacie jeszcze raz drogę — powiedziałam — przyślijcie człowieka od razu do suszarni. Ludzie umieją przestawić pracę, jeśli wiedzą rano.
+
+— A jeśli mamy do wyboru przysłać jednego człowieka albo położyć przegrodę przed wodą?
+
+Mela stuknęła kubkiem o stół. Chciała usłyszeć, o ilu takich przypadkach rozmawiamy w tygodniu. Mężczyzna nie wiedział. Położył przed nami koszyk kartek z miesiąca. Znaleźliśmy trzy wozy, których terminy zmieniono w drodze, w tym nasz. Mela mogła zostawić przy wadze dyżurny koszyk z imionami od siebie, jeśli skład zobowiąże się przesunąć wiadomość do odbiorcy, gdy tylko ktoś zabierze ich na drugi brzeg. Mężczyzna spytał mnie, co bym zrobiła z mieszkańcami, którzy nie mogli czekać nawet na tego człowieka. Przypomniałam sobie, jak Ida ustawiła konia po naszej stronie rzeki. Odpowiedziałam, że same musimy widzieć, jaka jest droga, zanim zaproponujemy objazd. Mela potrzymała mi kartkę, żebym wpisała sposób zawiadomienia suszarni. Mogła już wrócić do domu, ale chciała usłyszeć, czy człowiek ze składu przeczyta zdanie na głos, zanim je schowa.
+
+Resztę liści puszczono później zwykłą trasą. Do tej pory część owoców zmiękła na rozłożonej słomie. Wybrałyśmy jabłka dla sąsiadów, dobierałyśmy do nich gruszki Meli, a z reszty zrobiło się jedzenie dla zwierząt. Brat przesłał nam potem mały woreczek suszu. Odłożyłam część Idzie, a o własną potrąconą zapłatę za liście nie pytałam już człowieka przy wodzie. Wiedziałam, gdzie straciłam pierwszy kosz.
+
+## Z kim ci po drodze
+
+18 września, 8 ET · suszarnia w dolinie Korzennej Przystani, Verdan
+
+Po zwrot pustych koszy pojechałam, kiedy przeprawa przyjmowała znowu wozy. Zaniosłam jeszcze wodę do mycia, jak obiecałam. Na pierwszym koszu ze starego przejazdu wyschło już błoto. Brat Meli posadził mnie przy piecu, dał mi kawałek kredy i pokazał, jak znaczy kosze, które nie pojadą dalej. Znak zrobił się biały nie tylko na drewnie, ale też po mojej stronie dłoni, bo z rozpędu ujęłam kredę całą ręką. Podał mi szmatę. Pod stołem leżał jeszcze płat naszej kory z nieudanej jazdy. Próbował go dopasować do dna ostatniego kosza.
+
+— Przypuszczam, że chcesz wiedzieć, kto zapłacił za dzień bez pełnego pieca — odezwał się.
+
+Chciałam. Myślałam, że wszyscy razem straciliśmy mniej, bo ludzie z drugiego brzegu dali mu własne jabłka. Uważał podobnie. Tyle że jedna z kobiet, które je oddały, miała zamiar uzbierać na przejazd z wnukiem do lecznicy. Wzięła wtedy trochę suszu na handel zamiast pieniędzy za surowe owoce. Sprzeda je później, a za przewóz kwotę musiała pożyczyć od brata Meli. Nie miał już za co oddać drugiej osobie za opał. Pokazał mi krótką półkę, na której odkładał worki, zanim zapewni sobie za nie kupca. Prawie cała była pełna.
+
+— Jak znajdujesz ludzi na drugi brzeg, możesz jej zawieźć jej własny susz pod dom? — spytał. — Wtedy sama wybierze, do kogo z nim chodzić.
+
+Poznałam adres. Dopiero gdy wzięłam paczkę do rąk, przypomniałam sobie, że minęłam kobietę w drodze do przeprawy. Miała drobno związane pakunki i chciała prosić o przewóz jednego z nich. Powiedziałam, że mogę się zatrzymać dopiero, kiedy wrócę po kosze. Usiadła wtedy koło schodów, a ja pojechałam dalej.
+
+Po południu odwiozłam jej susz. Spytała, czy na następne zbiory ruszę z taką samą przeprawą. Odpowiedziałam, że nie wiem. Chciałam ją jeszcze zapytać, gdzie najlepiej zostawić słowo o zmianie dnia, ale wzięła już pakunek na kolana i otworzyła go pod światło. W środku było mniej owoców, niż się spodziewała. Zawołała wnuka, żeby przysiadł i policzył razem z nią. Poczekałam, aż policzą, bo obiecałam wrócić do suszarni przed zmrokiem i mogłam przecież zabrać od niej wiadomość, jeśli będzie potrzebna.
+
+## Droga dalej
+
+3 października, 8 ET · skład rzeczny w Korzennej Przystani, Verdan
+
+We wrześniu zrobiłam jeszcze dwa kursy na drugi brzeg. Łódź za każdym razem stała tam, gdzie trzeba. Przy trzecim okazało się, że przez naszą przystań przejeżdża kobieta szukająca kogoś, kto odprowadzi wolne wozy do większej przeprawy na szlaku ku północy. Płaciła za jeden odcinek, a potem potrzebowała człowieka na kolejny, jeśli u niej znajdzie się ktoś inny do pilnowania lwiej części ładunków. Spytałam, gdzie w ogóle uzgadnia się taki przejazd.
+
+— Zależy, co wieziesz — powiedziała. — U mnie zawsze można sprawdzić, ile ktoś stoi i co ma w wozie. Na końcu drogi pytają jeszcze, kto czeka. W Cienistym Porcie masz przewoźników, którzy się z tym męczą od trzydziestu lat. Po kilku kursach będziesz umiała rozmawiać przynajmniej z dwojgiem.
+
+Mogłam odłożyć wyjazd do listopada, spotkać się jeszcze z ludźmi od przegrody albo pracować wyłącznie u nas, za tyle co dawniej. Ida powiedziała, że po wyjeździe będę musiała zostawić jej konie rano na hodowlę, jeśli zamierzam brać je z powrotem po zimie. U Meli mogłam zamówić na drogę liście na zwykłą herbatę, taką, od której w domu pachniało przez pół popołudnia. Poprosiłam Zielę o flakon na dłuższą jazdę. Włożyła pod sznurek znak, żebym mogła go odczytać także przy cudzym stole. Przejechałam palcem po rowku w wosku. Ziela znaczyła nim butelki, odkąd ją znałam. Położyłam flakon wysoko w koszu, między wziętymi na zmianę chustkami.
+
+Kobieta od wozów wróciła jeszcze tego wieczoru, żeby zobaczyć, jak zakładam pas na lekki ładunek. Wyciągnęłam z dna jedną z płacht, które przeżyły nasz przejazd. Pod warstwą pyłu nadal tkwiła przy fałdzie zaschnięta glina. Zamierzałam otrzepać ją pod przystanią, ale wtedy Ida zawołała, żebym przejechała do niej przed wyjazdem. Miała zostawić dla mnie kubek i opowiedzieć, kto przy drugiej przeprawie kradnie wieczorem zwoje lin. To drugie powiedziała ciszej, mimo że w składzie dawno nikogo poza nami nie było.
+
+Kiedy wyprowadzałam wóz spomiędzy ścian, Mela stała z mojej strony dyszla. Dopiero na zjeździe usiadłam obok niej. Przez chwilę wiozłam ją w rejony, które obie znałyśmy bez pytania. Pod następną wierzbą pozwoliłam jej zostać z wolnymi rękami i objechałam mokre miejsce od strony sadu. Tam, gdzie małe rynny wiodły wodę pod drzewa, ziemię poznawałam jeszcze po cieple. Dalej będę musiała pytać, zanim wjadę.

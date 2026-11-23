@@ -318,7 +318,11 @@ Pojedynek staje się argumentem za tym, by rywalizację przenieść z granic i k
 
 ### Traktat Równych Ścieżek i Igrzyska Szlaków
 
-W 0 ET upoważnieni delegaci władz siedmiu krain podpisują Traktat po konsultacjach z miastami i strażami szlaków. Val Meris, niezależny węzeł, uczestniczy w rozmowach i gości archiwum, lecz nie podpisuje Traktatu jako ósma kraina. Powstają Rada Siedmiu Szlaków, złożona z przedstawicieli krain, oraz Urząd Prób odpowiedzialny za organizację aren. Żadna z instytucji nie jest właścicielem lokalnych kopalń.
+W 0 ET upoważnieni delegaci władz siedmiu krain podpisują Traktat po konsultacjach z miastami i strażami szlaków. Val Meris, niezależny węzeł, uczestniczy w rozmowach i gości archiwum, lecz nie podpisuje Traktatu jako ósma kraina. Powstają Rada Siedmiu Szlaków oraz Urząd Prób odpowiedzialny za organizację aren. W Radzie zasiada po jednej przedstawicielce lub jednym przedstawicielu każdej z siedmiu krain. Żadna z instytucji nie jest właścicielem lokalnych kopalń.
+
+**Robocze ustalenie do formalnego zatwierdzenia.** Pierwszym przedstawicielem Nivoren w Radzie był Ruvan, Wielki Mistrz Magii Lodu. Objął mandat przy utworzeniu Rady w 0 ET i uczestniczył w pracach nad bezpieczeństwem wież, współpracą między krainami i finansowaniem wspólnej infrastruktury. W 3 ET ustąpił, wskazując wiek i chęć powrotu do badań. Mandat Nivoren objął po nim Iskar, który prowadził górskie konwoje na Białym Przesmyku.
+
+Przed Lumen Aurel reprezentowała w Radzie jej matka Dema. Gdy stan zdrowia utrudnił Demie częste podróże i obowiązki polityczne, ustąpiła; nie oznaczało to całkowitej niezdolności do pracy i obecnie pracuje w piekarni w Aurelu. Na początku 11 ET Starszyzna Aurelu wybrała Lumen na nową przedstawicielkę krainy. Mandat nie przeszedł na nią automatycznie: wcześniej pracowała jako archiwistka nad mapami i dokumentacją. W Radzie przygotowuje sprawy informacji publicznej, dokumentacji i przeglądu procedur. Może przedstawiać projekty i wnioski, ale nie stanowi samodzielnie zasad dla krain ani nie rozstrzyga sporów zastrzeżonych dla niezależnych arbitrów. Zabiega o dostęp do dokumentów i aktualnych map także dla mniejszych osad; jej podejście do oceny skutków formalnie prawidłowych decyzji budzi w Radzie spory.
 
 Każda kraina wnosi podatek solidarnościowy naliczany od liczby mieszkańców oraz uzgodnione wkłady z wybranych źródeł lub opłat za wspólne szlaki. W zamian korzysta z ochrony tras przed jednostronną blokadą, pomocy przy naprawach i uzgodnionych minimalnych dostaw kryzysowych. Wielkość wkładów podlega okresowym przeglądom; spór o to, czy są uczciwe, nie znika. Zanim cokolwiek trafi do podziału, zabezpiecza się rezerwy na żywność, leczenie, podstawowe bezpieczeństwo i ratownictwo. Dopiero nadwyżka tworzy pulę możliwą do rozdziału w Próbie.
 
@@ -362,6 +366,8 @@ Gdy jeden z transportów zostaje zatrzymany do wyjaśnienia dokumentów, lokalna
 
 ### Dwie drogi dla siedmiu krain
 
+**Wolne Krainy** powstały z praktycznego sporu o to, kto decyduje o ochronie przewozów. **22 października 11 ET** Morven, już jako przedstawiciel Vesper w Radzie Siedmiu Szlaków, zwołał w Val Meris pierwsze zebranie ruchu. Nadał nazwę wspólnemu pismu, pod którym zaczęto zbierać podpisy przy składach. Pierwsze postulaty dotyczyły swobody wyboru eskorty i uzgadniania tras przez załogi oraz miejscowych ratowników. Morven nadal popierał wspólne finansowanie dodatkowej ochrony tam, gdzie odbiorców nie było na nią stać. Do maja 12 ET ruch rozszerzył postulaty o samodzielność krain w gospodarowaniu splotytem. Morven zachował mandat Vesper i 26 maja zgłosił się do Igrzysk po stronie wspólnego nadzoru. [Pierwsze zebranie](opowiadania/morven/2_one_escort_too_few/historia.pl.md#pierwsze-zebranie) · [Zgłoszenie Morvena](opowiadania/morven/3_before_the_gate_opens/historia.pl.md#zgłoszenie)
+
 Zwolennicy **samodzielności krain** wskazują rozbieżności w księgach jako jeden z powodów, dla których nie ufają centralnemu nadzorowi. Chcą odebrać Radzie władzę nad certyfikacją i przydziałem dostaw oraz przekazać te decyzje władzom poszczególnych krain; niezgodności same w sobie nie dowodzą, kto zawinił. Chcą większej swobody gospodarowania i sprzedaży własnych zasobów po wypełnieniu wspólnych zobowiązań. Uważają, że lokalni władcy lepiej znają potrzeby mieszkańców i mogą szybciej odpowiadać na niedobory. Nie wszyscy chcą likwidacji zabezpieczeń: część górników żąda lokalnych inspekcji i prawa do odmowy niebezpiecznej pracy. Inni widzą w reformie okazję do szybkiego zwiększenia wydobycia i zysków. Zwolennicy podkreślają też, że Rada już teraz wpływa na certyfikaty i wspólną pulę, choć nie jest właścicielem wszystkich kopalń.
 
 Zwolennicy **wspólnego nadzoru** chcą zachować uprawnienia Rady do ustalania wspólnych ograniczeń, certyfikacji i koordynacji dostaw. Pamiętają awarie sprzed piętnastu lat i obawiają się, że decyzje podejmowane bez wspólnych zasad przeniosą ryzyko przez granice razem z kryształami i energią. Część domaga się niezależnych audytów i przejrzystszych decyzji Rady; inni boją się oddać jej jakąkolwiek władzę. W obu obozach są władcy, mieszkańcy, inżynierowie i bohaterowie z różnych krain. Żywioł ani pochodzenie nie przesądzają stanowiska.
@@ -397,6 +403,8 @@ Kwalifikacje do Wielkich Igrzysk 12 ET rozpoczynają się **29 maja 12 ET**. Wł
 
 Chętni championi zgłaszają się do Wielkich Igrzysk po stronie jednego z dwóch wariantów zarządzania i deklarują krainę, którą chcą reprezentować. Pochodzenie nie ogranicza tego wyboru. Wpis „Lucen, Aurel” wskazuje deklarowaną reprezentację Lucena, który pochodzi z Zerath, a od lat mieszka w Aurelu. Przed naborem Urząd Prób ogłasza zasady kwalifikacji. Kandydaci przechodzą serię testów sprawdzających znajomość taktyki, wykonanie zadań i współpracę w drużynie. Kwalifikacje rozstrzygają, kto wystąpi w składach; sposób zapewnienia głosu wszystkim krainom pozostaje do ustalenia. Właściwą klasyfikację Igrzysk rozlicza się od początku serii finałowej.
 
+Członkostwo w Radzie i wybór wariantu w Igrzyskach są odrębnymi sprawami. Członek Rady może zgłosić się do kwalifikacji, lecz nie ocenia własnych prób ani nie uczestniczy w rozstrzyganiu dotyczących ich zarzutów lub odwołań. Urząd Prób organizuje kwalifikacje, a zarzuty rozpatrują niezależni arbitrzy zgodnie z zasadami Porozumienia.
+
 Obie strony mogą zatrudniać najemników. Zdarza się również przekupywanie championów za kulisami: pieniądze lub obietnica lepszego kontraktu mogą skłonić zawodnika do zgłoszenia się po stronie, której wcześniej nie zamierzał poprzeć. Najemnicy przechodzą te same kwalifikacje co pozostali kandydaci. W składach finałowych obowiązuje zarejestrowana reprezentacja i wcześniej ustalony podział punktów.
 
 ### Seria meczów i wynik Igrzysk
@@ -416,6 +424,12 @@ Załączony do Porozumienia **Protokół Val Meris** określa, jak wprowadzić w
 Niezależnie od wyniku lokalna własność kopalń pozostaje bez zmian. Obowiązujące wkłady do wspólnej puli, zatwierdzone przydziały i umowy dostaw nie mogą zostać anulowane wstecznie pod pretekstem reformy. Wkłady, w tym podatek solidarnościowy, pochodzą z wcześniej wskazanych źródeł lub opłat za szlaki, zgodnie z ogłoszonym harmonogramem; najpierw zabezpiecza się uzgodnione rezerwy na podstawowe usługi, bezpieczeństwo i ratownictwo. Wielkość i sposób obliczania przyszłych wkładów pozostają przedmiotem odrębnych uzgodnień. Po wniesieniu wkładu kraina nie może sama go wycofać ani zmienić zatwierdzonego wspólnego przydziału.
 
 Rada w obu wariantach prowadzi wspólny rejestr, koordynuje uzgodnione szlaki oraz pomoc kryzysową i publikuje wyniki audytów. Nie może użyć podstawowych dostaw ani ratownictwa jako sankcji. Niezależni arbitrzy rozpatrują spory o wykonanie protokołu; sankcje mogą ograniczyć przyszłe dodatkowe korzyści ze wspólnych usług.
+
+### Fundusz awaryjny — propozycja zasad
+
+Część chronionych środków na pomoc kryzysową tworzy fundusz awaryjny przeznaczony na pilne potrzeby, takie jak transport rannych, tymczasowe schronienie, zapasy lub niezbędne naprawy. O pomoc mogą wystąpić mieszkańcy albo przedstawiciele osady, służby ratunkowe, władze krainy lub członek Rady. Wniosek mieszkańca może dotrzeć do Rady bez zgody miejscowych władz.
+
+Rada rozpatruje wniosek i określa zakres pomocy; w nagłym zagrożeniu upoważniona osoba dyżurująca może uruchomić pomoc w granicach wcześniej przyznanego pełnomocnictwa. Decyzja, jej powód i wykorzystanie środków trafiają do rejestru i podlegają późniejszej kontroli. Wniosek nie gwarantuje natychmiastowego dostarczenia pomocy: znaczenie mają dostępne środki, transport i czas. Ratownictwa ani podstawowych dostaw nie można odmówić jako sankcji, a chronionych rezerw nie rozdziela się w Próbach. Szczegóły limitu dla dyżurnego i czasu rozpatrywania pozostają do ustalenia. Istnienie funduszu nie rozstrzyga jeszcze, czy i dlaczego w sprawie Birch złożono lub pominięto wniosek.
 
 We **wariancie krain** dostawy przeznaczone na wspólne szlaki lub do puli nadal muszą spełniać wcześniej uzgodnione minimum bezpieczeństwa. Jeśli audytorzy udokumentują bezpośrednie zagrożenie dla ludzi lub sieci, Rada może czasowo wstrzymać konkretną partię i niezwłocznie przekazać sprawę do niezależnego audytu oraz odwołania. Samo wstrzymanie partii nie daje jej prawa do zamknięcia całego lokalnego wydobycia.
 
@@ -525,6 +539,8 @@ Kharum wydobywa i dostarcza na kontynent rudy, kamień oraz inne minerały; podc
 Aurel porównuje raporty i przechowuje kopie świadectw. Jego archiwa są ważne, lecz nie nieomylne: część danych jest niepełna, a niektóre zapisy wykonano po czasie. Pozostałe krainy żądają kopii poza Aurel i prawa do niezależnego sprawdzania dokumentów.
 
 Aurel jest ośrodkiem wynalazków i badań. Jego wyspecjalizowane wieże oświetlają niektóre szlaki nocą, a urządzenia cieplne, w tym piece udoskonalone przez Adriena, wykorzystują kryształy ładowane między innymi w Vareth. Badacze zależą od materiałów, załóg i wiedzy innych krain.
+
+Przy bocznej drodze w okolicach Aurelu leży mała osada Birch. Jej mieszkańcy wynajmowali lampy od stacji i opłacali strażnika. Lumen prowadziła w Aurelu fundusz map przeznaczony na sprawdzanie tras i przygotowanie aktualnych odpisów dla mniejszych osad, również po wyborze do Rady. Jako przedstawicielka Aurelu zgłasza się do kwalifikacji Wielkich Igrzysk 12 ET po stronie wspólnego nadzoru; jej wynik pozostaje otwarty.
 
 W warsztacie Adriena pracuje Lena, techniczka z Aurelu, która w 4 PT miała 16 lat, a w 12 ET ma około 32. Ostrzegała go przed wadą wojennego sygnalizatora, a po awarii pomagała sprawdzać poprawione konstrukcje. Współpracuje z nim również Lucen, syn Tarena i Miry: po przybyciu do Aurelu szkolił się w magii Światła oraz pracy z mechanizmami. Jako młody adept doładowywał kryształy w warsztacie, a po latach Adrien sam zaczął prosić o jego pomoc. Lucen łączy magię z konstrukcją urządzeń; nie zmienia to faktu, że przyczyna awarii, w której zginęła Mira, pozostaje nieznana.
 
@@ -723,6 +739,10 @@ Kodeks opisuje również zgłaszanie zadań politycznych, przyznawanie i dzielen
 Kilka miast zgłasza rozbieżności w rejestrach wydobycia. Rada rozpoczyna kontrolę, nie wskazując publicznie winnych ani przyczyny.
 
 Część miast uważa, że rozbieżności wynikają z różnych metod pomiaru stosowanych przed Traktatem. Inne podejrzewają przemyt lub manipulację. Nieliczni widzą w nich możliwy ślad dawnych zaburzeń, ale nie przedstawiają dowodów.
+
+#### 22 października 11 ET — początki Wolnych Krain
+
+Morven zwołuje pierwsze zebranie w Val Meris i wpisuje nazwę „Wolne Krainy” na wspólnym piśmie przewoźników. Żądania dotyczą początkowo decyzji o eskortach i trasach. Podpisy zbierane przy składach dają początek ruchowi, który przed Wielkimi Igrzyskami rozszerza postulaty na gospodarkę splotytem.
 
 #### 12 ET — początek gry
 

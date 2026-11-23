@@ -2,6 +2,8 @@
 
 **Status:** dokument zawiera wersję polską i angielską. Wspólna historia Nivy, Liory i Eliry oraz ich indywidualne biografie zostały zatwierdzone w obecnym kształcie na potrzeby PoC; nie planuje się teraz ich rozszerzania. Historie Dary, Noctena i Rian również zostały zatwierdzone na potrzeby PoC. Przyjęto także wspólny kierunek historii Tarena i Lucena oraz ich wiek. Wątek Saily opiera się na przyjętych założeniach świata; pozostałe historie bohaterów i nowe szczegóły pozostają propozycjami do zatwierdzenia. Rozwinięte historie poniżej uzupełniają krótkie szkice. Wiek dotyczy początku gry w 12 ET; poza wcześniej ustalonymi wartościami jest propozycją. Wiek Morraka pozostaje nieznany.
 
+**Aktualizacja Lumen:** na początku 11 ET Starszyzna Aurelu wybrała ją do Rady Siedmiu Szlaków po ustąpieniu jej matki Demy, która pracuje teraz w piekarni. Lumen zajmuje się przygotowywaniem spraw informacji publicznej, dokumentacji i procedur oraz prowadziła lokalny fundusz map także po wyborze. Jej zgłoszenie do kwalifikacji po stronie wspólnego nadzoru jest odrębne od mandatu w Radzie. Szczegóły tej decyzji i ograniczeń oceny własnych prób określa [historia świata](world_history.md). Starsze szkice poniżej nie uwzględniają jeszcze tej funkcji.
+
 ## Bohaterowie z pierwszej puli
 
 ### Kael — Ogień

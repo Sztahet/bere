@@ -14,9 +14,9 @@ public partial class RiftorynTrial : MonoBehaviour
     const float FogStartTime=5f, MinFogArrivalTime=120f, CleanRunMargin=30f;
     static readonly Vector2[] Map = { new(400,330),new(475,330),new(475,245),new(315,245),new(315,410),new(550,410),new(550,170),new(240,170),new(240,485),new(625,485),new(625,95),new(165,95),new(165,560),new(700,560),new(700,35) };
     static readonly Vector2[] SlotMap = {new(445,205),new(405,205),new(365,205),new(275,290),new(275,350),new(355,450),new(415,450),new(475,450),new(590,360),new(590,290),new(590,220),new(510,130),new(450,130),new(390,130),new(330,130),new(200,235),new(200,320),new(200,400),new(305,525),new(385,525),new(465,525),new(545,525),new(665,450),new(665,370),new(665,290),new(665,210)};
-    const int LucenHero = 9, SailaHero = 10, PyrraHero = 11, NeraHero = 12, MikoHero = 13;
-    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten","Lucen","Saila","Pyrra","Nera","Miko"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
-    static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115,105,105,60,110,105}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f,5.6f,5.2f,5.2f,5.0f,5.8f}, Cooldowns={22,16,18,20,18,20,20,20,20,20,24,20,20,20}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
+    const int LucenHero = 9, SailaHero = 10, PyrraHero = 11, NeraHero = 12, MikoHero = 13, SarnaHero = 14;
+    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten","Lucen","Saila","Pyrra","Nera","Miko","Sarna"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
+    static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115,105,105,60,110,105,115}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f,5.6f,5.2f,5.2f,5.0f,5.8f,4.9f}, Cooldowns={22,16,18,20,18,20,20,20,20,20,24,20,20,20,18}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
     static readonly Color[] TowerColors={new(1f,.30f,.12f),new(.32f,.77f,1f),new(1f,.8f,.2f),new(.32f,.83f,.4f),new(.65f,.43f,.25f),new(1f,.91f,.55f),new(.55f,.28f,.75f)};
     class Runner
     {
@@ -587,6 +587,7 @@ public partial class RiftorynTrial : MonoBehaviour
     void UseSkill(Runner r,Tower t)
     {
         if(r.cooldown>0)return;
+        if(r.hero==SarnaHero){BoostSarnaTeam(r);return;}
         if(r.hero>=6&&r.hero!=LucenHero&&r.hero!=SailaHero&&r.hero!=NeraHero&&r.hero!=MikoHero){if(r==player)Notify("Zdolność tej postaci nie jest jeszcze dostępna w próbie.");return;}
         if(r.hero==MikoHero){if(t==null){if(r==player)Notify(RiftorynCodexData.Text("Brak wieży w zasięgu.","No tower in range."));return;} SabotageMiko(r,t);return;}
         if(r.hero==NeraHero)
@@ -773,7 +774,7 @@ public partial class RiftorynTrial : MonoBehaviour
         }
         if(victim.hp<=0||ConsumeSharedWard(victim,type))return;
         if(type==0)victim.burn.Apply(3,3);
-        else if(type==1&&victim.slowImmunity<=0)victim.chillTime=2;
+        else if(type==1&&victim.slowImmunity<=0)victim.chillTime=victim.hero==SarnaHero?1.5f:2f;
         else if(type==3)victim.poison.Apply(4,3);
         else if(type==6)victim.shadowTime=3f;
     }
@@ -1199,6 +1200,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(selectedHero==SailaHero)return "SAILA · Q: zamraża najbliższą wieżę w zasięgu na 3 s. Odnowienie 24 s.";
         if(selectedHero==NeraHero)return RiftorynCodexData.Text("NERA · Q: 35 osłony dla Ciebie i 65 dla pobliskiego sojusznika (8 m). Osłona słabnie o 10% na sekundę. Model zastępczy.","NERA · Q: 35 shield for you and 65 for a nearby ally (8 m). Shield decays by 10% per second. Placeholder model.");
         if(selectedHero==MikoHero)return RiftorynCodexData.Text("MIKO · Q: sabotaż wieży. Trafienia Błyskawicami losują premię 0–50% do szybkości na 4 s.","MIKO · Q: sabotage a tower. Lightning hits grant a random 0–50% speed bonus for 4 s.");
+        if(selectedHero==SarnaHero)return "SARNA · Q: "+SharedSkillInfo(SarnaHero,0).description;
         if(selectedHero==PyrraHero)return "PYRRA · model i Iskra w próbie wizualnej; umiejętność w przygotowaniu.";
         if(selectedHero>=6&&selectedHero!=LucenHero)return HeroNames[selectedHero].ToUpperInvariant()+" · umiejętność niedostępna w tym prototypie.";
         if(selectedHero==0)return sharedEscape?RiftorynCodexData.Text("KAEL · Q: osłona dla Ciebie i pobliskiego sojusznika.","KAEL · Q: shields you and a nearby ally."):"KAEL · Q: osłona dla Ciebie i pobliskiego sojusznika. E: testowy atak na pobliską wieżę.";
@@ -1247,7 +1249,7 @@ public partial class RiftorynTrial : MonoBehaviour
 
     int PlayableHero(string id)
     {
-        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;case "niva":return 4;case "liora":return 5;case "elira":return 6;case "dara":return 7;case "nocten":return 8;case "lucen":return LucenHero;case "saila":return SailaHero;case "pyrra":return PyrraHero;case "nera":return NeraHero;case "miko":return MikoHero;default:return -1;}
+        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;case "niva":return 4;case "liora":return 5;case "elira":return 6;case "dara":return 7;case "nocten":return 8;case "lucen":return LucenHero;case "saila":return SailaHero;case "pyrra":return PyrraHero;case "nera":return NeraHero;case "miko":return MikoHero;case "sarna":return SarnaHero;default:return -1;}
     }
     Texture2D DraftPortrait(string id)
     {
@@ -1272,7 +1274,7 @@ public partial class RiftorynTrial : MonoBehaviour
         float x=Screen.width*.5f-300,y=Screen.height*.5f-210;
         GUI.Box(new Rect(x,y,600,420),"LAN · TEST 2 GRACZY");
         GUI.Label(new Rect(x+20,y+35,560,40),"Wybierz bohatera przed połączeniem. Bez duplikatów.\nUnik drugiego gracza nie jest jeszcze dostępny.");
-        int[] picks={0,1,2,4,5,6,7,8,LucenHero,NeraHero};string[] names={"Kael","Rian","Zet","Niva","Liora","Elira*","Dara*","Nocten*","Lucen","Nera"};
+        int[] picks={0,1,2,4,5,6,7,8,LucenHero,NeraHero,SarnaHero};string[] names={"Kael","Rian","Zet","Niva","Liora","Elira*","Dara*","Nocten*","Lucen","Nera","Sarna"};
         int index=Array.IndexOf(picks,lanHero);if(index<0)index=0;
         GUI.enabled=!lanPlaying&&(lan==null||!lan.Active||(!lan.IsHost&&lan.Connected));
         int chosen=GUI.SelectionGrid(new Rect(x+20,y+85,560,60),index,names,4);GUI.enabled=true;
@@ -1548,7 +1550,7 @@ public partial class RiftorynTrial : MonoBehaviour
         else if(playable==1){passive="Otrzymujesz o 15% mniej bezpośrednich obrażeń Ognia.";active="Zadaje 100 obrażeń najbliższej wieży w zasięgu.";}
         else if(playable==2){active="Wyłącza najbliższą wieżę w zasięgu na 2 s i zwiększa Twoją prędkość o 20% na 2 s.";}
         else if(playable==MikoHero){passive=SharedSkillInfo(MikoHero,3).description;active=SharedSkillInfo(MikoHero,0).description;}
-        if(!string.IsNullOrEmpty(defense))defense=RiftorynL10n.Translate("Umiejętność projektowa, niedostępna w próbie. ")+RiftorynL10n.Translate(defense);
+        if(!string.IsNullOrEmpty(defense)&&playable!=SarnaHero)defense=RiftorynL10n.Translate("Umiejętność projektowa, niedostępna w próbie. ")+RiftorynL10n.Translate(defense);
         int abilityRow=0;
         var roleBonus=RiftorynCodexData.RoleBonus(roleBonuses,hero.role);
         if(roleBonus!=null){float rowY=464+abilityShift+abilityRow++*24;var roleIcon=Resources.Load<Texture2D>("CodexIcons/roles/"+roleBonus.icon);if(roleIcon)GUI.DrawTexture(new Rect(1163,rowY+2,20,20),roleIcon,ScaleMode.ScaleToFit);string roleName=RiftorynCodexData.Text(roleBonus.name,roleBonus.nameEn);string roleDescription=RiftorynCodexData.Text(roleBonus.description,roleBonus.descriptionEn);hovered=DraftAbility(new Rect(1188,rowY,367,22),RiftorynCodexData.Text("KLASA","CLASS"),roleName,roleDescription)??hovered;}

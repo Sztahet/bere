@@ -2,7 +2,7 @@
 
 ## Brakujące strony
 
-Maj, 12 ET · archiwum Cienistego Portu
+Maj, po 12 maja, 12 ET · archiwum Cienistego Portu, Vesper
 
 Po rozmowie o imieniu wpisanym na liście niosłam odpisy pod płaszczem, żeby nie zmokły. Azmir zobaczył mnie przez okno i zawołał, żebym wzięła płócienną torbę z mocnym szwem. Podziękowałam i ruszyłam w stronę portu, choć miałam skręcić do kancelarii Rady.
 

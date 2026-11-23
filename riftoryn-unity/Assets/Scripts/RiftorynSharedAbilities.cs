@@ -38,6 +38,7 @@ public partial class RiftorynTrial
         ZetHero=>(16f,26f),
         KonevaHero=>(18f,30f),
         MikoHero=>(12f,32f),
+        SarnaHero=>(16f,32f),
         _=>(0f,0f)
     };
 
@@ -55,6 +56,7 @@ public partial class RiftorynTrial
             ZetHero=>ultimate?StartSharedSurge(runner):ScoutSharedTower(runner,partner),
             KonevaHero=>CommandPatka(runner,partner,ultimate),
             MikoHero=>MikoExtra(runner,ultimate,tower),
+            SarnaHero=>SupportSarnaTeam(runner,partner,ultimate),
             _=>false
         };
         if(!cast) return false;
@@ -66,6 +68,41 @@ public partial class RiftorynTrial
         if(runner==player) Notify(info.name);
         else ShowCombatText(runner,info.name,new Color(.50f,.88f,1f));
         return true;
+    }
+
+    void BoostSarnaTeam(Runner runner)
+    {
+        if(!IsRunning(runner)) return;
+        runner.boost=Mathf.Max(runner.boost,3f);
+        Runner partner=PartnerOf(runner);
+        if(RunnersNear(runner,partner,SupportRange)) partner.boost=Mathf.Max(partner.boost,3f);
+        runner.cooldown=Cooldowns[SarnaHero];
+        runner.uses++;
+        if(runner==player) Notify(SharedSkillInfo(SarnaHero,0).name);
+    }
+
+    bool SupportSarnaTeam(Runner runner,Runner partner,bool ultimate)
+    {
+        bool near=RunnersNear(runner,partner,SupportRange);
+        if(!ultimate)
+        {
+            if(!near||partner.hp>=MaxHp[partner.hero]) return false;
+            float restored=Mathf.Min(25f,MaxHp[partner.hero]-partner.hp);
+            partner.hp+=restored;
+            ShowCombatText(partner,$"+{Mathf.CeilToInt(restored)} HP",new Color(.57f,.85f,.42f));
+            return true;
+        }
+
+        ClearSarnaSlows(runner);
+        if(near) ClearSarnaSlows(partner);
+        return true;
+    }
+
+    static void ClearSarnaSlows(Runner runner)
+    {
+        runner.chillTime=0;
+        runner.rootTime=0;
+        runner.slowImmunity=Mathf.Max(runner.slowImmunity,3f);
     }
 
     void SabotageMiko(Runner runner,Tower tower)
@@ -367,6 +404,11 @@ public partial class RiftorynTrial
             case MikoHero:
                 if((threat!=null||partnerThreat!=null)&&TryUseSharedAbility(ally,true)) return true;
                 return threat!=null&&TryUseSharedAbility(ally,false,threat);
+            case SarnaHero:
+                if((ally.chillTime>0||ally.rootTime>0
+                    ||RunnersNear(ally,player,SupportRange)&&(player.chillTime>0||player.rootTime>0))
+                    &&TryUseSharedAbility(ally,true)) return true;
+                return IsRunning(player)&&player.hp<=MaxHp[player.hero]-20f&&TryUseSharedAbility(ally,false);
             default:return false;
         }
     }
@@ -396,6 +438,10 @@ public partial class RiftorynTrial
         (MikoHero,1)=>SkillText("Pchnięcie szpadą","Fencer's Thrust","Zadaje 20 obrażeń pobliskiej wieży.","Deals 20 damage to a nearby tower."),
         (MikoHero,2)=>SkillText("Impuls z cewki","Coil Pulse","Wyłącza odkryte, widoczne wieże w zasięgu na 2,5 s.","Disables revealed towers in sight and range for 2.5 s."),
         (MikoHero,3)=>SkillText("Ładunek burzy","Storm Charge","Po trafieniu Błyskawicami Miko zyskuje losowo od 0 do 50% szybkości ruchu na 4 s. Kolejne trafienie losuje premię ponownie i odświeża czas.","After a Lightning hit, Miko gains a random 0–50% movement speed bonus for 4 s. Each new hit rerolls and refreshes the bonus."),
+        (SarnaHero,0)=>SkillText("Korzenie szlaku","Trail Roots","Sarna i sojusznik w promieniu 8 m zyskują 20% szybkości ruchu na 3 s.","Sarna and her ally within 8 m gain 20% movement speed for 3 s."),
+        (SarnaHero,1)=>SkillText("Żywe wiązanie","Living Binding","Przywraca do 25 HP rannemu sojusznikowi w promieniu 8 m.","Restores up to 25 HP to an injured ally within 8 m."),
+        (SarnaHero,2)=>SkillText("Oddech wytchnienia","Breath of Relief","Usuwa spowolnienie od Lodu i pnączy u Sarny i sojusznika w promieniu 8 m. Przez 3 s chroni przed spowolnieniem od Lodu.","Clears Ice chill and roots on Sarna and her ally within 8 m. Prevents Ice chill for 3 s."),
+        (SarnaHero,3)=>SkillText("Pewny krok","Sure Step","Spowolnienie od Lodu trwa u Sarny 1,5 s zamiast 2 s.","Ice chill lasts 1.5 s on Sarna instead of 2 s."),
         _=>("","")
     };
 
@@ -408,6 +454,7 @@ public partial class RiftorynTrial
         ZetHero=>RiftorynCodexData.Text("Odkrywa wieże i otwiera krótkie okno na przebieg.","Scouts towers and opens short windows to run past them."),
         KonevaHero=>RiftorynCodexData.Text("Kieruje Patką, by osłonić duet lub odciągnąć ostrzał.","Directs Patsy to cover the pair or draw enemy fire."),
         MikoHero=>RiftorynCodexData.Text("Sabotuje wieże szpadą i wynalazkami.","Sabotages towers with his blade and inventions."),
+        SarnaHero=>RiftorynCodexData.Text("Przyspiesza duet, leczy partnera i usuwa spowolnienia.","Speeds up the pair, heals her ally, and clears slows."),
         _=>""
     };
 

@@ -155,6 +155,7 @@ Przywoływacz ma dwa pełne zestawy statystyk: własne oraz swojego peta. Przywo
 | Taren | Tank / Błyskawice | 165 | 14 | 4,2 | — | — | — | — |
 | Orien | Tank / Światło | 170 | 14 | 4,3 | — | — | — | — |
 | Liora | Wsparcie / Natura | 120 | 10 | 4,8 | — | — | — | — |
+| Sarna | Wsparcie / Natura | 115 | — | 4,9 | — | — | — | — |
 | Elira | Wsparcie / Światło | 120 | 10 | 4,8 | — | — | — | — |
 | Varek | Wsparcie / Błyskawice | 115 | 10 | 4,9 | — | — | — | — |
 | Nera | Wsparcie / Błyskawice | 110 | 10 | 5,0 | — | — | — | — |
@@ -608,6 +609,10 @@ Rozejm nie rozwiązał jednak najtrudniejszego problemu: kryształów i bezpiecz
 Pierwszy krok wykonali dowódcy dwóch zwaśnionych miast. Zgodzili się rozstrzygnąć ograniczony spór o konwój w **Pojedynku Bram**. Każda strona otrzymała taki sam układ murów, zbudowała własną obronę i wysłała drużynę przez labirynt przeciwnika. Dopiero kiedy obie drużyny zagrały obie role, porównano wyniki. Próba nie usunęła nieufności, ale pozwoliła dostarczyć zaopatrzenie bez bitwy. Ten precedens stał się podstawą traktatowego systemu Prób.
 
 W **0 ET** przedstawiciele siedmiu krain podpisali **Traktat Równych Ścieżek**. Traktat powołał **Radę Siedmiu Szlaków** — organ wspólnego nadzoru nad traktatem, rejestrem zasobów i przydziałami — oraz niezależny od pojedynczej krainy **Urząd Prób**, który przygotowuje areny, publikuje zasady i zatwierdza wyniki. Rada nie jest dawną Umową Siedmiu Szlaków: Umowa była porozumieniem handlowym, a Rada instytucją ustanowioną przez Traktat.
+
+W Radzie zasiada po jednej osobie z każdej z siedmiu krain. Na początku 11 ET Starszyzna Aurelu wybrała Lumen na miejsce jej matki Demy, która ustąpiła, gdy zdrowie utrudniło jej podróże i obowiązki polityczne; nadal pracuje w piekarni. Lumen przygotowuje sprawy informacji publicznej, dokumentacji i procedur. Wspiera jawność dokumentów i dostęp mniejszych osad do aktualnych map; decyzje podejmuje Rada w granicach swoich uprawnień, a spory rozpatrują niezależni arbitrzy. Lumen zgłasza się do kwalifikacji po stronie wspólnego nadzoru; nie ocenia własnych prób ani nie rozstrzyga dotyczących ich odwołań.
+
+**Symbole:** [pieczęć Rady Siedmiu Szlaków](./assets/lore/symbols/rada-siedmiu-szlakow.png) oraz [pieczęć Wolnych Krain](./assets/lore/symbols/wolne-krainy.png).
 
 Traktat ustanowił **Igrzyska Szlaków** jako system wiążących Prób. Zwykłe Próby zwołuje się w miarę potrzeb, aby rozstrzygać określone impasy o wspólną nadwyżkę lub kolejność działań po negocjacjach. Wielkie Igrzyska w 12 ET są pierwszym wydarzeniem tej rangi. Wybiorą model zarządzania na mocy osobnego Porozumienia Val Meris. Żadna Próba nie ustala winy ani przyczyny Nocy; fakty badają niezależni arbitrzy i inspektorzy. Stawka oraz warunki są jawne, drużyny mogą być mieszane, a podział punktów uzgadnia się przed startem.
 

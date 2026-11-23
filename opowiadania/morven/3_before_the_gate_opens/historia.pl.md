@@ -1,0 +1,271 @@
+# Zanim otworzą bramę
+
+## Ile można odczytać
+
+7 maja, 12 ET · archiwum Rady, Val Meris
+
+Lumen przyniosła trzy odpisy z Cienistego Portu. Najstarszy dostałem od Dali przed wyjazdem. Sam składałem pozostałe dwa. Lumen rozłożyła je przed nami w takim porządku, w jakim udostępniano je w porcie. Z dołu dobiegało pchanie wózka z rękopisami. Koło szło po kamieniu z takim hałasem, że odsunąłem krzesło, żebyśmy mogli mówić bliżej siebie.
+
+— Który z tych odpisów mógłby zobaczyć ktoś z zewnątrz? — zapytała.
+
+Wskazałem wszystkie trzy. Z pierwszego usunęliśmy godzinę i drogę, drugi zawierał koszt za przydzieloną eskortę, trzeci tylko dni, w których można było odebrać obsługę z portowej stajni. Przewoźnicy potrzebowali go do uzgodnienia wyjazdu. Wtedy Lumen złożyła dwie kartki brzegami do siebie.
+
+— Tutaj wypłacasz więcej, ilekroć załoga bierze drugiego konia. Tutaj przed odbiorem konia prosisz ludzi, żeby sprawdzili zaprzęg. Z którego końca drogi najdalej po pomoc?
+
+— Zależy od stanu dróg.
+
+— Od tego też jest odpis. Droga po deszczu i droga bez deszczu.
+
+Pochyliłem się nad wpisami. Przy jesiennych rozliczeniach dwa razy posyłaliśmy drugiego konia na zmianę w górę strumienia. Odpis położyłem na wierzchu sam, bo zawierał uczciwie poniesione koszty. Lumen nie umiałaby jeszcze wskazać zakrętu. Jeśliby dorastała w porcie, odczytałaby przynajmniej, którą stajnię obserwować po deszczu.
+
+— Ktoś mógłby dojść do tego bez twoich trzech odpisów — powiedziałem. — Pójść pod stajnię i poczekać.
+
+— Ktoś już tam stoi. Czy chcesz, żeby wiedział, kiedy zostać na noc drugiego dnia z rzędu?
+
+Wsunąłem odpisy do płóciennej torby. Lumen czekała. Przyjrzałem się kartce, która pozostała na stole. Rozpoznałem dopisek Sarny o warunkowej gotowości załogi. Ktoś w archiwum zdążył go odłożyć osobno, więc koszt godziny konia nie widniał obok dnia wyjazdu na żadnym z udostępnianych arkuszy.
+
+— Mogę zamienić kwotę każdej eskorty na kwotę za miesiąc — powiedziałem.
+
+— Możesz też przeznaczyć do publicznego odczytu widełki cen. Kwotę dla konkretnego przewoźnika sprawdza człowiek uprawniony do przeglądu. Przyniesiesz mu wszystkie pozycje.
+
+— A jeśli ja jednemu policzę dwa razy drożej niż drugiemu, wyrówna się pod koniec miesiąca. Ludzie zobaczą widełki zgodne z obietnicą, a ktoś otrzyma rachunek, pod którym nie powinien być zmuszony się podpisać.
+
+— Dlatego ten człowiek może złożyć odwołanie.
+
+Wstałem, otworzyłem nieco szerzej okno i dałem się rozejść hałasowi z dziedzińca. Tyle razy tłumaczyłem przewoźnikom w porcie, że mogą pytać o przydział. W większości wniosków, które poprawiliśmy po kursie Sarny, Dala sama przeszła się w porze obiadu po stajniach, żeby znaleźć tych, których dotyczyła zmiana. Wiedziała, czego brakuje, więc znalazła ludzi, zanim wymyślili sobie wspólne pytanie. W Cienistym Porcie ja nauczyłem się tego od Teski. Jeździłem z nią dwa razy na objazd, za trzecim spytała, czy zauważyłem, że regularnie oddaje klientowi odpis planu, chociaż wystarczyłby potwierdzony dyżur w stajni. W razie zmiany obie drogi trzeba uzgodnić razem.
+
+— Powód i kwotę trzeba podać przewoźnikowi od razu — powiedziałem. — Zanim zacznie planować, zanim odda komuś towar. Jak w testach pomp. Mówisz człowiekowi, która część jest zużyta, a jeśli się nie zgadza, może kazać ją obejrzeć drugiemu.
+
+Lumen otworzyła szufladę i sięgnęła po kartkę. Sądziłem, że od razu przeniesie zdanie do projektu. Zamiast tego zapisała kilka osobnych słów. Ich nie przeczytałem.
+
+— Jeśli wóz wyjeżdża dzisiaj wieczorem, kto może jeszcze zmienić przydział? — zapytała.
+
+— Ten, kto go przyjął. Albo jego zastępca.
+
+— Kiedy przyjęcie i wydanie przeszły przez tę samą osobę, kto sprawdzi, dlaczego jedno zgłoszenie zniknęło ze stosu? Dyżurnemu w stajni możesz zaufać w sprawie konia. Tu potrzebujesz kogoś, kto w odpowiednim czasie zajrzy do papierów i zna swój zakres.
+
+Zapytałem ją, czy wie, gdzie znajdę człowieka, na którego zdanie w sprawie osłony będą czekali i przewoźnicy, i członkowie Rady. Potrafiła podyktować dwa miejsca, gdzie wypadałoby zaczynać. W pierwszym człowiek nie pracował w nocy. W drugim nie zapłacono mu za zeszłoroczne nadgodziny i przestał przyjmować jakiekolwiek ustalenia ustne. Spisaliśmy oba kontakty. Do drugiego postanowiłem pójść pierwszy.
+
+Przed wyjściem zapytała, czy biorę za majowe pokazy zapłatę od któregoś ze składów. Miałem umówiony przejazd z Radlem po Igrzyskach i jeszcze trzy drobniejsze zlecenia na wiosnę. Przejazd z Radlem wpisaliśmy do spraw, w których powinienem się wyłączyć, jeżeli jego wóz poprosi o wspólne pieniądze.
+
+— W piśmie Wolnych Krain jest bardzo podobne zdanie do tego, które mi dziś powiedziałeś — odezwała się, kiedy wkładałem rękę w rękaw płaszcza. — „Każda załoga uzgadnia trasę z ludźmi, którzy mają po nią wyjechać”. Czytałam je w odpisie z jesieni.
+
+— Sam je napisałem.
+
+Poprawiłem rękaw. Lumen odsunęła krzesło, żebym mógł jeszcze usiąść. Zostałem przy stole na stojąco.
+
+— Mówiłeś nam, że zebrałeś przewoźników w Val Meris — powiedziała. — To ty zwołałeś tamto zebranie?
+
+Powiedziałem jej, kto wyszedł z pierwszym odpisem. Od paru miesięcy pismo przywożono do Val Meris wraz z następnymi żądaniami. Ludzie, którzy jesienią nie mieli żadnego wozu, zaczęli się do niego odwoływać w sprawach kopalń i warsztatów. Niektórzy przychodzili do mnie po lokal. Potrafiłem wskazać im izbę i pójść na posiedzenie w innym końcu miasta, zanim spytają, jak bym za nimi zagłosował.
+
+— Daj im własną odpowiedź przed Igrzyskami — powiedziała Lumen. — Jeśli przyjdą z tobą rozmawiać tutaj, zapytam, w czyim imieniu ich przyjmujesz. To będzie słychać za drzwiami.
+
+— Spotkamy się przy osłonach? — spytała.
+
+— Jeżeli przyniosę coś lepszego od tych trzech arkuszy.
+
+Starła ze stołu odłamek wosku. Podała mi kartkę z adresami. Na odchodne usłyszałem jeszcze, że mogę zatrzymać najstarszy odpis, jeśli przy zamknięciu akt policzę wszystkie jego strony. Znalazłem przy nim jedną kartkę więcej, niż zanotowałem w porcie. Był na niej koszt wysłania człowieka do przewoźnika z wiadomością o odrzuconym wniosku. Wpisałem do własnego projektu pozycję na takie kursy.
+
+## Ile ma noc
+
+25 maja, 12 ET · skład przy zachodnim wjeździe do Val Meris
+
+Kiedy Radel przyjechał z Vesper, miał w wozie jedną jasną skrzynię spośród samych ciemnych. Wyjął tę jasną i kazał mi się z nią przesunąć w cień, bo cieśla okleił jej boki papierem i świeży klej w słońcu pękał. Zeszliśmy razem pod ścianę składu. Po drodze obrócił skrzynię w rękach. Bez ładunku ważyła tyle co dwie mokre derki.
+
+— Dla tego, co będzie woził za mnie, kiedy mnie na wozie zabraknie — powiedział. — Narel ją przygotował. Chciał wiedzieć, czy teraz bez ciebie pojedzie.
+
+Od wiosny pracował u Radla. Załadowywał mu skrzynie, jeździł na znanych trasach i dostał już pierwszą wypłatę od człowieka, który widział, że potrafi dopilnować wozu po zmierzchu. Radel chciał, żebym jechał z nimi do Val Meris. Przy drodze od portu trwały roboty, a z tyłu wozu miał jechać naładowany kamień. Odmówiłem. Chciałem na maj zająć się dostawami, które miały szansę dostać dopłatę niezależnie od właściciela. Radlowi przyrzekłem lipcowy kurs, dzięki któremu mógł ściągnąć do portu dawnego wspólnika. Człowiek nie wyruszyłby bez umówionej załogi.
+
+Na dziedzińcu była jeszcze druga rzecz od Radla. Przyniósł szkic umowy od kupca, który występował po stronie Wolnych Krain. Zaoferował Vesper kilka nocnych kursów z osłoną, o ile załogi zrobią rozpoznanie drogi i poradzą sobie z dokumentacją bez dodatkowej opłaty. Do drogi przyłączą się drobniejsi przewoźnicy, jeśli zechcą przenieść swoje przejazdy na te same godziny. Przy osobnych wyjazdach kupiec żadnego udziału nie obiecywał. Radel potrafił już policzyć, kto pomieści się między jego skrzyniami a tylnymi wrotami cudzego wozu. Jeden przejazd ze szkicu mógł zamknąć w umowie następnego dnia.
+
+— Gdybyś jesienią nie wszedł do Rady, wziąłbyś taką umowę? — zapytał.
+
+— Wziąłbym. Do pierwszego przejazdu dopisałbym koszt konia ratowników.
+
+— Jest już skreślony. Za dużo.
+
+— To przenieś go do tego, co macie zapewnić przed wyjazdem. Port ma zwykły dyżur. Po drugiego konia, jeśli droga się rozciągnie, będzie musiał pojechać któryś z waszych.
+
+— Tylko że wtedy z jednego wozu zejdzie człowiek, który ma się przyuczać. Zapłacimy mu za czekanie i potem jeszcze raz za jazdę. Wiem. Już to mieliśmy.
+
+Podał mi szkic, bo chciał, żebym znalazł mu miejsce dla tego wydatku. Przeczytałem dwie strony. Przy szacunkach żywności klej zostawił znak po jego palcu. Miał rację, że prywatnie da się zorganizować większość tego, co chcieliśmy załatwić przez Radę. Umowa działała, jeśli wozy miały gdzie się spotkać, odbiorcy mogli czekać i mieściły się wszystkie skrzynie. Przy wspólnej dopłacie też musieliśmy umieć odmówić komuś, kto już przygotował ludzi, a odmowa trwała przeważnie dłużej niż uzgodnienie na podwórzu.
+
+Poszliśmy pod wagę za Narelem. Odbierał tam dla Radla stary klucz oddany do naprężenia. Pomachał nam nim o wiele wyżej, niż należało, a Radel poprosił, żeby ciszej świętował rzeczy, za które przyjdzie dopiero zapłacić. Kiedy wróciliśmy do rozmowy, Narel już zabrał jasną skrzynię. Zrozumiałem, że wolałby, żebyśmy przy nim pytali, ile warta jest jego praca, zamiast omawiać go przy pustym wozie.
+
+— Wniosek do tej waszej majowej ochrony też złożyłem — powiedział Radel. — Na wyjazd Narela. Jak mu nie dadzą, to kupiec podpisze z nami prywatnie na inny wieczór. Chcę wiedzieć, o co się właściwie staramy.
+
+— Dostarczysz kamień dalej niż przy tej umowie?
+
+— Dalej. Za część drogi płaci odbiorca. Drugi przewoźnik chce dołączyć i wyłożyć, ile da radę. Wnioski złożyliśmy osobno, bo wozów nie znamy jeszcze dostatecznie dobrze, żeby rozłożyć wszystko w jedną noc.
+
+Zdjął spod deski jeszcze jedną kartkę. Na nagłówku były dwa słowa, które wpisałem jesienią w izbie nad stajnią. Pod nimi drukarni dyktowano już nowe żądania. Splotyt, przewozy i pieniądze miały podlegać przede wszystkim krainom. Przy ostatnim ustępie ręcznie dopisano, że podpisy zbiorą po zakończeniu zapisów, przed zachodnią bramą. Wolne Krainy chciały, żebym tam przeczytał pierwsze żądania i poparł zobowiązanie do oddawania zamówień na dodatkową eskortę miastom i przewoźnikom. Odpis przyniosła Sarna. Miała w maju jeździć dla ludzi, których przy zeszłorocznych wnioskach widziała tylko pod ścianą.
+
+— Pytają, czy wystąpisz z nimi jako ten, który zaczął — powiedział Radel.
+
+— Dam jej odpowiedź osobiście.
+
+Odwróciłem kartkę, jakby z drugiej strony miała zostać jeszcze połowa arkusza na moją odpowiedź. Radel wyjął mi ją spod dłoni. Chciał ją położyć przy bramie dla swoich ludzi. Zapasowych odpisów nie dostał.
+
+Było tam miejsce na dwie osłony w maju, złożone przez dwa składy niezależnie od wyniku Igrzysk. Wydatki finansowały miejscowe umowy na próbę. Rada miała później przyjrzeć się zapisom, jeśli będzie rozpatrywać wspólny nadzór. Chciałem się oprzeć na tym, co potrafiły zrobić załogi bez wielkich kwot. Dopiero przy wadze zacząłem myśleć, co mają zrobić członkowie Rady, kiedy część tych ludzi zarabiała z nami na życie. Lipcowego przejazdu z Radlem nie mogłem jednocześnie sprzedawać i przydzielać mu miejsca, którym w maju rozporządzała ta sama umowa próbna. W Val Meris miałem tylko przekazać miejscowym rozliczenia, a przecież przy pierwszym pytaniu o wniosek znów przychodziło mi do głowy powiedzieć „dostaniesz odpowiedź jutro” i pójść sprawdzić, czy tak się stanie.
+
+Powiedziałem Radlowi, co uzgodniliśmy z Lumen. Zacisnął szczękę, kiedy usłyszał o drugiej osobie od przydziału. Myślał zapewne, że sprowadzę mu kolejną rozmowę i że załoga będzie powtarzała dotychczasową, już po terminie.
+
+— Będziesz mógł spytać, czym według nich różnią się drogi. Dostaniesz własne rozliczenie od ludzi, którzy je sprawdzili — dodałem. — Ja się z twojego wniosku wyłączę.
+
+— Dobrze. Umów się z Narelem, kiedy ma pokazać swoją osłonę. Ty mu wytłumacz, w którym miejscu kończy się twoja pomoc.
+
+## Zgłoszenie
+
+26 maja, 12 ET · punkt zapisów Urzędu Prób, Val Meris
+
+Chciałem się zapisać przed południem. Brakowało mi podpisu na kartce od załóg, więc czekałem przy ścianie, aż Radel wróci z podpisem Teski, która przywiozła z Vesper dwie osoby do ćwiczeń. Radel dał mi kartkę, sam następnie nieco się cofnął i przeczytał tablicę z terminami. Do ostatniego dnia zapisów pozostawały dwa dni. Przed nami czekała już kobieta, której przy składaniu zgłoszenia towarzyszyło aż pięcioro kucharzy. Ustawili dla niej stołek. My staliśmy. W pewnej chwili zorientowałem się, że przy bramie nikt od przejścia kobiety nie podchodzi do stołu. Niektórzy chcieli się przyjrzeć, a innym udało się już przepchnąć z nosidłami na drugą stronę placu.
+
+— Ja występuję po stronie tych, co chcą wspólnie płacić za ochronę — powiedziałem, jeszcze zanim otwarto dla mnie książkę.
+
+— Wspólny nadzór — powtórzyła urzędniczka. — Potwierdzisz tutaj, gdy przeczytasz całość.
+
+Umiałem już czytać przy głośnej sali. Przeszedłem do następnego wiersza, a potem zacząłem jeszcze raz od początku. Zgłaszałem się jako uczestnik. W spisie radnych od jesieni figurowałem jako przedstawiciel Vesper. Z tego wpisu nikt przy bramie nie mógł się dowiedzieć, że potrafię utrzymać osłonę na wozie po wyjściu z zadaszonego przejazdu, kiedy stąpa się po kamieniach i otwiera płótno tylko od zawietrznej. Chciałem, żeby przy ocenie ludzie od wozów mieli kogoś, kto zrobi to osobiście. Wiosną na widok pierwszego szkicu pokazów wykreślałem po kolei zdania o wyczuciu trasy przez widownię. Na zawodach mogłem przejść sprawdzian pod tymi samymi warunkami co inni i przyjąć ocenę. Tak obiecałem Tesce. Gdybym tylko wysłał załogę i poszedł usiąść w miejscu dla Rady, za cudzą pracę znów ręczyłbym własnym podpisem.
+
+— Czy na placu będą brać twoje uwagi z izby? — zapytał Radel.
+
+Urzędniczka przerwała wpisywanie zgłoszenia. Podała mi drugi arkusz. Określał, co wolno powiedzieć zawodnikom przed startem. Dopiero teraz zobaczyłem, że wybrany przeze mnie sposób nie gwarantuje mi nawet możliwości samodzielnego zaprezentowania osłony przed pierwszą oceną. Mogą zacząć od innego zadania. Gdy zapytałem, czy w takim razie istnieje osobna kolejka dla ludzi, którzy składają próbę z odpowiednią umiejętnością, urzędniczka wskazała miejsce, w którym można wpisać posiadane doświadczenie. Nikt na liście nie zgłaszał siebie jako członka Rady. Wpisałem pracę przy nocnych przejazdach.
+
+— Dobrze, że dzisiaj to przeczytałeś — powiedział Radel.
+
+— Dobrze, że mnie posłaliście osobiście.
+
+Przy drzwiach stali ludzie z odpisami Wolnych Krain. Poznałem kobietę, która na pierwszym zebraniu trzymała w ręce klucz od stajni. Zobaczyła stronę, pod którą nas dopisywano do wykazu, i powiedziała do swojego towarzysza, że to mój wpis. Odsunęli się oboje, żebym przeszedł. Nie spytała mnie, co powie Sarna. W nocy nie mogłem sobie przypomnieć, czy pierwszy odwróciłem wzrok, czy zrobiła to ona.
+
+Miałem ze sobą arkusz od załóg, lecz urzędniczka go nie potrzebowała. Na dole były kółka wytarte od podpisów. Narel dopisał przy swoim imieniu słowo „ładunek”, bo chciał ujawnić, czego da się nauczyć na ćwiczeniach, których nie prowadzi zawodnik. Zabrałem arkusz i owinąłem nim kwit zgłoszenia. Kiedy wychodziliśmy, Radel powiedział, że wieczorem wybierze się z Narelem na plac po pracy. Mogą przećwiczyć wiązanie ram, jeżeli pozwolą im przynieść własną pustą skrzynię.
+
+Poszedłem z nimi. Na ćwiczeniach Narel poprosił, żeby osłonić ładunek i krok po kroku przeprowadzić go od skraju placu do stanowiska, przy którym będzie otwierał mocowanie. Dokładnie w połowie zazgrzytało koło. Zatrzymał wózek i ruszył docisków tyle, żeby sprawdzić, czy ładunek się przesunął. Ramę poprawił wolno, przytrzymując róg tak, jak mnie przed laty nauczył Radel. Kiedy skończył, górna część jego koszuli była tak mokra, że w szatni musiałem rozwiązać sznur przy karku za niego. Powiedział mi, że w domu następnym razem założy cieńszą. Uśmiechnąłem się, a on poprosił, żebym nie chodził za wózkiem podczas następnego ćwiczenia. Chciał się nauczyć odróżniać bez mojego kroku, kiedy koło trze o boczny klin.
+
+## Miejsce na drugi wóz
+
+27 maja, 12 ET · skład przy zachodnim wjeździe do Val Meris
+
+Przyniesiono Radlowi decyzję jeszcze przed obiadem. Wybrano drugi wóz. Jego ładunek był lżejszy, a mimo to odbiorca nie mógł go rozdzielić między dwie załogi, bo kolejnego miejsca na przeładunek nie było do początku czerwca. Radlowi pozostawała umowa kupca i droga innego wieczora. Chciał przeczytać uzasadnienie do końca, ale podpisać odbiór dopiero po powrocie Narela z wagi. Mieli razem pojechać do kupca w południe. W ostatnim akapicie pisarz uprzedził, że odpowiedź na pytania dostaną jeszcze przed końcem odprawy.
+
+Mój odpis warunków przydziału leżał pod jego pismem. Przeczytał oba naraz i położył palec na rubryce, która opisywała „ładunek podzielny”.
+
+— Splotyt mogę podzielić — powiedział. — Kamień do wymiany w suszarni i małe części dla drugiego odbiorcy też mogę podzielić. A o drugą skrzynię mnie ktoś zapytał?
+
+— Co masz w drugiej?
+
+— Ramę. Wkładam ją w skrzynię, bo jak wystaje, ludzie opierają o nią deski. Można ją zdjąć z wozu, ale bez ramy nie jadę z pierwszą skrzynią. Księgowy policzył jako drugi ładunek coś, co wróci ze mną do portu.
+
+Narel podszedł z boku. Popatrzył najpierw na mnie, potem na arkusz. Zapytał, dlaczego o tym nie powiedziałem, a wtedy Radel odwrócił papier ku niemu. Na formularzu zgłoszenia, który sam składał, opisał ramę jako część osłony. Mieli dowód. Miałem tam też człowieka ze składu, którego wybrano do rozpatrzenia odwołania. Nie pracował po ciemku, jak zwróciła uwagę Lumen. Umówił się na dyżur do odprawy i przyszedł wcześniej. Trzeba było do niego podejść.
+
+Radel zaczekał, żebym zrobił to razem z nim. Powiedziałem, że w sprawie jego wozu nie oceniam przydziału. Mogłem pójść jako człowiek, który potrafi otworzyć skrzynię i wskazać ramę. Jeśli pozwolą, zrobię to samo przed drugim przewoźnikiem. Radel położył palec na godzinie w dolnej części swojej odpowiedzi.
+
+— Masz się wyłączyć z przydziału i jeszcze dla niego otwierać skrzynię?
+
+— Jeśli powie, że rama pojedzie z nim, ktoś musi potwierdzić, co to zmienia. Tobie też się to należy.
+
+Radel wysłał Narela do kupca z prośbą o godzinę zwłoki. Przy mnie rozebrał wóz. Zdjął dwie skrzynie. Włożyliśmy tę ze splotytem między elementy ramy, a pustą przestawiliśmy na tył. W międzyczasie przyszedł człowiek od odwołań. Porównał zgłoszenie z tym, co mu pokazaliśmy, i kazał poprawić spis ładunku. Potem poprosił o kartę drugiego wozu. Otworzył ją przy pisarzu, który przyszedł z nim ze składu. Jeszcze raz poszli sprawdzić termin przeładunku u drugiej załogi.
+
+Siedzieliśmy na burcie, czekając na niego. Wrócił z wiadomością, że utrzymuje przydział. Odbiorca Radla zgodził się zaczekać na kurs w innym terminie. Przy drugim wozie miejsce do przeładunku przepadłoby aż do początku czerwca. Pisarz poprawił też kartę Radla do późniejszych zgłoszeń, żeby drugi raz nikt mu nie kazał dzielić ramy od ładunku. Koszt ponownego obejrzenia wozu wzięli na siebie organizatorzy. Radel przeczytał nowe uzasadnienie na miejscu. Potem dał mi je potrzymać, żeby mieć obie ręce wolne do złożenia ramy.
+
+— Ucieszyłeś się? — spytał mnie, gdy zostaliśmy sami.
+
+— Ucieszyłem się, że przyszedł na czas.
+
+— My z Narelem wrócimy teraz do kupca. U niego od zeszłego tygodnia wiem, ile ładunków zabiorę w maju i w lipcu. Nie mam tylko pieniędzy na dodatkowy dyżur. Jeśli dołoży połowę, resztę wezmę z tego, co odłożyłem na nasz lipcowy kurs. Z resztą ładunków pojadę potem jego wozami. Zwolnisz mnie z umowy z tobą?
+
+Z lipcowego kursu liczyłem na zapłatę za siebie i za osłonę. Zgodziłem się już z cieślą, że dostanie ją za wymianę dwóch belek w mieszkaniu. Mogłem je obie zobaczyć, kiedy tylko otwierałem po powrocie drzwi. Miałem dość na drewno, a na wymianę musiałbym poszukać innego zlecenia. Radlowi wystarczyło, że powiem mu teraz. Mógł później pójść do ludzi i zapłacić im za dzisiejsze czekanie oraz za udział w nocnych kursach, jeśli się na nie zdecydują.
+
+— Jeżeli pytasz, czy masz moje słowo, oddam ci je dziś — powiedziałem. — A jak będziesz zbierał załogę po drodze do Vesper, weź Narela. Przy ramie sam robi tyle, ile już potrafimy od niego wymagać.
+
+Zabrał wtedy kwit na lipcowy przejazd i zaniósł go człowiekowi od umów. Na plac wrócił tylko po kubek z wozu. Powiedział mi, że to o Narelu dobrze będzie powtórzyć samemu zainteresowanemu, bo on mu ciągle tylko każe brać dolny koniec skrzyni.
+
+## Pod własnym imieniem
+
+28 maja, 12 ET · dziedziniec przy zachodniej bramie Val Meris
+
+Sarna podsunęła mi stołek, kiedy już było jasne, że przy stole się nie zmieścimy. Znała tylu przewoźników, że odruchowo trzymała drugą dłoń wyciągniętą w bok na powitanie. Jej sąsiad położył przed nami tekst nowych zobowiązań. Ludzie mieli zacząć składać podpisy, gdy skończą się zapisy do Igrzysk. Sarna zawiadomiła wcześniej składy, że chcemy porozmawiać przed odprawą. Wtedy można jeszcze było posłuchać bez porzucania wozu w drodze.
+
+Pod murem czekał też przedstawiciel portowych składów, z którym do rana ustalałem koszty próby. Przywiózł dla mnie teczkę na dalsze rozmowy Rady o wspólnej eskorcie. Poprosił mnie na bok.
+
+— Pod koniec tygodnia masz ich przekonać, żeby wyłożyli pieniądze. Jak wyjdziesz z tym pismem jako założyciel, połowa ludzi w izbie usłyszy już tylko, że obmawiałeś ich za drzwiami. Druga połowa będzie chciała, żebyś dał słowo, że wykreślisz ich koszty. Nie chcę potem odpowiadać za obietnice złożone przy bramie.
+
+— Rozumiem — powiedziałem.
+
+— Jeśli potrzebujesz powiedzieć, gdzie zaczynałeś, znajdź nam kogoś innego do poprowadzenia rozmów o osłonach. O prowadzenie ich poprosiliśmy ciebie, bo razem zbieraliśmy rozliczenia. Tyle jeszcze mogę wyjaśnić ludziom u siebie.
+
+Zostawił teczkę na parapecie, żebym mógł ją wziąć, kiedy skończymy. Za jego plecami pierwszy raz zobaczyłem, że Sarna przyniosła też oryginał naszego pisma. Pożyczyłem go jej wczoraj, kiedy przyszła po odpowiedź i znalazła mnie przy wadze. Wtedy była sama. Powiedziałem jej, że chcę utrzymać pieniądze na wspólne eskorty. Poprosiła, żebym dziś powiedział to wszystkim, przy tym samym stole, przy którym prosiłem ich o pierwsze podpisy. Przyniosłem tamto pismo w brązowej oprawie. Teraz leżało już bez niej.
+
+— Morven, przeczytaj im pierwsze zdanie — powiedziała.
+
+Przeczytałem. O tym, że ludzie w krainach mają sami wybierać, z kim jadą, i przekazywać plany tym, którzy pojadą ich ratować. Usta zaschły mi w połowie. Sarna podała mi swój kubek. Wypiłem łyk i przeczytałem następne zdanie, to o warsztatach. Kiedy cofnąłem dłoń, pokazała ludziom, gdzie na oryginale znajdują się pierwsze podpisy.
+
+— On nas na to zebranie sprowadził — powiedziała. — On nazwał Wolne Krainy. Dzisiaj prosimy go, żeby stanął za tym, do czego doszliśmy po zimie.
+
+Widziałem, jak Radel stawia nogę na progu stajni po drugiej stronie. Czekał, aż człowiek kupca podbije mu kwit. Gdybym podpisał całe zobowiązanie, zgodziłbym się, by dodatkowe eskorty zależały od osobnych zamówień. Radel znalazł kupca, który opłaci mu taki wyjazd. Sarna w październiku nie miała nawet zaliczki na dyżur.
+
+— Pierwsze pismo jest także moje — powiedziałem. — Zostawcie pod nim mój podpis, kiedy je przeczytacie w domu. Pod tym dzisiejszym się nie podpiszę. Chcę, żeby krainy wspólnie płaciły także za dodatkową eskortę tam, gdzie odbiorcy nie znajdą na nią pieniędzy. Dlatego zapisałem się po stronie wspólnego nadzoru.
+
+— To twoje zdanie przed Radą czy przed nami? — spytała Sarna.
+
+— Przed wami też. Wczoraj ci je powiedziałem przy wadze, kiedy żaden z nich nie słuchał. To im jestem winien drugi raz.
+
+Na brzegu stołu wciąż stał jej kubek. Przesunęła go do siebie.
+
+— Pamiętam, kto opłacił mój przejazd w październiku — powiedziała. — Pamiętam też, kto mógł wtedy napisać dla mnie wyjątek i zamknąć sprawę. Chciałam mocniejszego prawa u siebie. Ty mi je obiecałeś przed miesiącami. Jeśli wspólny nadzór wprowadzi nowe warunki, będę tego od ciebie wymagała nawet wtedy, kiedy nas tu nie będzie.
+
+Wstała, żeby ludzie sięgnęli po nowe pismo nad jej krzesłem. Została przy stole. Złożyłem oryginał tak, by przy przepisywaniu dało się odczytać podpisy. Oddałem go jej. Pierwszą kartkę do wywieszenia miała napisać sama. Chciała to zrobić przy mnie, ale o odpowiedź na następne pytanie poprosiła już człowieka po swojej lewej.
+
+Poszedłem po teczkę. Człowiek ze składów czekał przy parapecie. Wyjąłem z niej kopie swoich rozliczeń, dałem mu oryginały złożone przez załogi i powiedziałem, że znajdziemy kogoś, kto przedstawi je na rozmowach o wspólnej puli. Będę odpowiadał za Vesper na posiedzeniu, jeśli padną pytania. W imieniu składów o środki wystąpi ktoś inny.
+
+— Kiedy się do nas zgłosi? — spytał.
+
+Obiecałem, że zaniosę mu przed jutrem listę ludzi, którzy znają rachunki. Odkąd Vesper wysłało mnie do Rady, szykowałem właśnie tę rozmowę. Sam prosiłem trzy składy o ceny i obiecałem jednemu, że jego straty pokażę od razu, zanim członkowie Rady dojdą do kosztów własnych krain. Zostałem z kopią przewiązaną sznurkiem. Przeczytałem pierwszą stronę, chociaż umiałem ją prawie na pamięć.
+
+## Odbiór
+
+28 maja, 12 ET · zachodnia brama Val Meris
+
+Zawinąłem rozliczenia w płótno i oddałem do składu. Przy bramie czekał na mnie wóz z przydzieloną osłoną. Przez tę samą bramę miał po nim wyjechać Narel, choć osobno i inną drogą, na uzgodnionych przez Radla warunkach. Mnie proszono o osłonę pierwszego wozu do zmiany przy rozwidleniu drogi. Przygotowałem ramę i wziąłem swój płaszcz ze składu. Przesiąkł zapachem juty od ciągłego wieszania wśród worków. Potrzebowałem teraz zająć się czymś, co można zrobić od początku do końca przed nastaniem nocy.
+
+Przy pierwszej załodze okazało się, że przewoźnik umówił latarnię w składzie wcześniej, niż skończyła się robota przy kole. Dyżurny spodziewał się już potwierdzenia, więc posłano po niego człowieka. Kiedy znów oglądałem ramę, kierownik składu zaproponował, żeby przed rozjazdem wywieźć cięższe skrzynie zwykłym wozem i czekać na ich eskortę poza murami. Chciał zwolnić miejsce przy bramie, bo gęstniał tłum.
+
+— Odsuńmy od bramy pusty wóz — odparłem. — Zostaw przy mnie skrzynie, poczekamy na potwierdzenie.
+
+Pomogłem przesunąć wóz pod mur. Obok dwoje dzieci odrysowywało na małych deszczułkach układ jutrzejszego placu. Podniosły się z bruku dopiero, kiedy woźnica im powiedział, że jeśli zostaną na środku przejścia, będą mogły sobie zaraz odrysować koło. Przy wadze czekał Narel. Stał z rękami w kieszeniach i patrzył na to, co działo się z kołem pierwszego wozu.
+
+— Kupiec zapłaci za konia w gotowości? — zapytałem.
+
+— Radel z tym kupcem idą po połowie. Mnie darują koszt skrzyni, jeśli będę pilnował, żeby następnego dnia wróciła.
+
+Spojrzał na jasny papier. Wieczorem przewoźnicy chcieli ją wypełnić zapasem do ramy, więc ładunek do drogi złożono bez drewna wystającego z boku. Wypadało powiedzieć mu to, co wczoraj powiedziałem przy nim zaocznie. Zacząłem od ramy. Zatrzymał mnie na pierwszym słowie.
+
+— Jak ją ustawię sam, będziesz miał czas zobaczyć, co zrobię, jeśli koło stuknie?
+
+— Pokaż.
+
+Położył rękę na tylnym narożniku, pozwolił mi poruszyć drewnem i odpiął tylko ten rzemień, który trzymał ruchomą część. Potem sam zajrzał pod przednią skrzynię i pokazał, gdzie dołożył klin. Zapytałem, którego odcinka drogi najchętniej by uniknął. Zaczął od kamienia wystającego zza muru i skończył na miejscu, w którym trzeba dać koniowi odpocząć. Wtedy mogłem mu powiedzieć, że jeśli Radel potrzebuje kogoś przy następnym przejeździe, będę o nim wspominał po imieniu. Kiwnął głową. Założył rękawice i od razu jedną zdjął, bo przeszkadzała mu przy sprzączce.
+
+Dyżurny przyszedł pół godziny przed rozjazdem wozów. Z każdą załogą potwierdził osobno plan. Z odchodzącymi ustalił chwilę, po której będzie ich wypatrywał. Jeśli spóźnią się oba wozy, dyżurny dostanie drugą parę ludzi ze stajni. Ich konie miały czekać pod siodłem do powrotu obu załóg. Narel odszedł krok w stronę wozu, ale sam zawrócił do dyżurnego. Przeczytał z nim kartkę. Kiedy skończyli, przy bramie zostałem z pustą ramą do ćwiczeń, którą miałem oddać na plac przed własnym startem. Z placu za ulicą wracali ludzie z kwitami. Potem dobiegł mnie stuk zasuwy. Zamykano wejście na dziedziniec zapisów.
+
+Narel ułożył sobie lejce tak, żeby sięgać do hamulca. Podniósł rękę do dyżurnego i poczekał, aż ten odpowie. Odniosłem ramę do ćwiczeń na plac, zanim zamknięto przejście, a przy swoim wozie zastałem już człowieka od bramy. Oddał mi kwit z godziną wyjazdu. Rudą klacz widziałem w biegu wcześniej. Kiedy na nią wsiadłem, odwróciła głowę, usiłując dosięgnąć kieszeni mojego płaszcza. Pozwoliłem jej poszukać czegoś chwilę, zanim ruszyliśmy za wozem.
+
+## Spod płótna
+
+28 maja, 12 ET · droga do zachodniego rozwidlenia, okolice Val Meris
+
+Za murami ucichł hałas odpraw. Pojechaliśmy przed Narelem wspólnym odcinkiem do rozwidlenia przy niskiej grobli. Tam jego wóz miał odbić w dół i zabrać ludzi od Radla. Ja miałem oddać osłonę pierwszego wozu czekającej przy grobli załodze. Zdążylibyśmy w kwadrans, gdyby klin na osi nie pękł. Przednie koło wysunęło się i stanęło ukosem. Skrzynia z naładowanym kamieniem dosunęła się do deski, a rama podskoczyła od uderzenia. Ściągnąłem wodze i zsiadłem. Poczułem, że jeden bok osłony puszcza. Woźnica zeskoczył z kozła. Zasłonił dłonią chwiejny płomień latarni.
+
+Przy pierwszym przejeździe od bramy magazynier pokazał mi tropy pod groblą. Teraz w jej żwirze za nami coś się poruszyło. Dwa razy zobaczyłem, jak w ciemności podnoszą się i gasną oczy. Wystarczyło, kiedy od strony drugiego brzegu odpowiedziało im skrobanie pazurów. Poleciłem woźnicy stanąć przy kole i przycisnąć skrzynię ramieniem, jeśli usłyszy, że się przesuwa. Chciał mi podać drąg. Wskazałem mu lampę, żeby zawiesił ją przy przednim kole: człowiek idący ku nam powinien widzieć, z której strony można podejść.
+
+Wsunąłem rękę pod róg płótna. Z ramą jest tak, że drewno pomaga rozłożyć osłonę, dopóki obejmuje ładunek na czterech narożach. Teraz musiałem związać krawędź mocy samą dłonią. Zacząłem od miejsca, w którym czułem splotyt najwyraźniej. Przycisnąłem nadgarstek do deski, żeby drżenie palców go nie odsunęło. Powietrze wokół skrzyni pociemniało, a zaraz potem znów zobaczyłem sęk w desce i skraj płótna. Dobrze położona osłona nie zabiera światła na stałe. Tłumiła to, co ciągnęło bestie do kamienia. Oczy przy żwirze rozsunęły się. Jedno zwierzę zbiegło wzdłuż grobli, drugie zatrzymało się na stoku. Klacz tupnęła. Oczy obróciły się ku nam.
+
+— Światło im chyba wystarczy — powiedział woźnica.
+
+Bestia podeszła do koła i szarpnęła wiszący rzemień. Sprzączka zagrała o obręcz. Instynktownie zacisnąłem palce na drewnie, a woźnica odsunął zwierzę drągiem od nogi konia. Szarpnęło raz jeszcze i zeskoczyło z drogi, w trawę od strony wody. Miałem osłonę na kamieniu, a woźnica drąg i własny głos. Mogłem trzymać swój narożnik, póki palce trzymały się deski. Za nas nie ruszyłby ani kamień, ani wóz.
+
+Od strony miasta nadjechał Narel. Stanął poza zasięgiem naszej lampy. Nie dołączył do mnie przy skrzyni. Zapytał z wozu, czy obie bestie są z tej samej strony, i ustalił z woźnicą, że ma wrócić przez bramę po człowieka z belką do koła. Na rozwidleniu czekali na jego wóz ludzie, którzy mieli już plan. Sam poprosił, żeby przy bramie od razu donieśli o zmianie ratownikom. Potem cofnął wóz powoli, tak żeby między końmi a obcą lampą zostało dość drogi na zwrot.
+
+Kiedy czekałem, przestałem czuć mały palec i część dłoni. Woźnica oparł mi łokieć o swoją złożoną kurtkę, której wcześniej nie chciał zmoczyć przy kole. W oddali, przy rozwidleniu, dostrzegłem światło latarni. To ludzie od zmiany, którzy spostrzegli lampę na kole, wysłali do nas człowieka pieszo. Miał krótki zapasowy rzemień. Przytrzymałem osłonę, dopóki nie dociągnął nim ramy do burty. Zanim wyjąłem rękę spod płótna, człowiek od zmiany przejął ode mnie osłonę, a woźnica sprawdził, czy koło przesunie się w ogóle o ćwierć obrotu. Nie przesunęło się. Zostałem z nimi do czasu, aż Narel wrócił z ludźmi i belką. Dopiero kiedy sam zobaczył, że nasz dyżurny przejął wyjazd, wrócił do swojego konia.
+
+— Słyszałem, co powiedziałeś przy bramie — odezwał się, kiedy stanąłem koło jego wozu. — Radel jeszcze się z tobą będzie kłócił o te pieniądze. Nie chciał, żebym brał twój rzemień do mojej skrzyni. Wziąłem. Jak wrócę, sam mu powiem.
+
+Sprawdziłem, czy ruszam już każdym palcem, i oddałem mu rękawicę, którą zostawił u wagi. Czekał, aż zjadę z drogi. Miał własną lampę i kogoś, kto wiedział, gdzie go szukać. Zabrałem klacz w stronę murów. Przy pierwszym zakręcie odwróciłem się i zobaczyłem, że Narel zatrzymał wóz przy rozwidleniu. Ludzie Radla wyszli mu naprzeciw z latarnią. Poznałem jego sylwetkę, kiedy pochylił się nad mocowaniem i pokazał im, który rzemień trzeba najpierw odpiąć. Na plac miałem wrócić o świcie.

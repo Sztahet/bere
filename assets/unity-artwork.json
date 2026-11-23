@@ -11,6 +11,7 @@
     "ui/stats": "StatIcons"
   },
   "files": {
+    "ui/skills/shared-skill-icons.png": "shared-skill-icons.png",
     "lore/cartography/mapa-kolorowa.png": "WorldArtifacts/mapa-kolorowa.png",
     "lore/cartography/mapa-odrys.png": "WorldArtifacts/mapa-odrys.png",
     "lore/cartography/mapa-ozdobna.png": "WorldArtifacts/mapa-ozdobna.png",

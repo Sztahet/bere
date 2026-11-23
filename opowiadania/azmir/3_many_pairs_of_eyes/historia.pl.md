@@ -2,7 +2,7 @@
 
 ## Świadkowie na dziedzińcu
 
-29 maja, 12 ET · Val Meris
+29 maja, 12 ET · dziedziniec kwalifikacji, Val Meris
 
 Przy wejściu na kwalifikacje powstał zator. Kandydaci ustawiali się w kolejce, a widzowie próbowali zobaczyć, kto już przeszedł przez bramę. Znałem tę przestrzeń z list i map. Nigdy wcześniej nie widziałem tam tylu ludzi patrzących w jedno miejsce.
 

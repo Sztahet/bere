@@ -174,7 +174,7 @@ Jorkowi pokazałam, że nowej paczki już nie mam. Butelkę z Kharum zatrzymała
 
 — A pieniądze dla tamtej kobiety? — zapytał.
 
-Wyjęłam sakiewkę. Policzyliśmy razem należność, którą byłam jej winna. Napisałam kartkę: że zwracam wpłatę, nie mogę potwierdzić składu kropli i podaję nazwisko pośrednika dokładnie tak, jak mi je przedstawiono. Nie wiedziałam, czy mówił prawdę.
+Wyjęłam sakiewkę. Policzyliśmy razem należność, którą byłam jej winna. Napisałam kartkę: że zwracam wpłatę, nie mogę potwierdzić składu kropli i podaję imię pośrednika dokładnie tak, jak mi je przedstawiono. Nie wiedziałam, czy mówił prawdę.
 
 Jorek wziął pieniądze i list dopiero po przeczytaniu.
 

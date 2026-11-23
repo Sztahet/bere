@@ -82,3 +82,15 @@ class TimelineWebTests(unittest.TestCase):
         ):
             with self.subTest(file=relative):
                 self.assertTrue((root / relative).is_file())
+
+    def test_ruvan_receives_the_report_after_saila_stops_the_tower(self):
+        prefix = "const riftorynTimeline = "
+        line = next(line for line in WEB_DATA.read_text(encoding="utf-8").splitlines() if line.startswith(prefix))
+        events = json.loads(line[len(prefix):].rstrip(";"))
+
+        def position(hero, title):
+            return next(i for i, event in enumerate(events) if event.get("hero") == hero and event["title"] == title)
+
+        self.assertLess(position("ruvan", "Niedzielny obchód"), position("saila", "Zatrzymać ruch"))
+        self.assertLess(position("saila", "Zatrzymać ruch"), position("ruvan", "Trzecia wiadomość"))
+        self.assertLess(position("ruvan", "Trzecia wiadomość"), position("ruvan", "Torba na progu"))

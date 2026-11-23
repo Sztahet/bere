@@ -110,15 +110,15 @@
     },
     {
       "folder": "AzmirDraft1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "AzmirDraft2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "AzmirDraft3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "VaelisDraft1",
@@ -217,6 +217,54 @@
       "draft": false
     },
     {
+      "folder": "LumenDraft1",
+      "draft": false
+    },
+    {
+      "folder": "LumenDraft2",
+      "draft": false
+    },
+    {
+      "folder": "LumenDraft3",
+      "draft": false
+    },
+    {
+      "folder": "RuvanStory1",
+      "draft": false
+    },
+    {
+      "folder": "RuvanStory2",
+      "draft": false
+    },
+    {
+      "folder": "RuvanStory3",
+      "draft": false
+    },
+    {
+      "folder": "KaelStory1",
+      "draft": false
+    },
+    {
+      "folder": "KaelStory2",
+      "draft": false
+    },
+    {
+      "folder": "KaelStory3",
+      "draft": false
+    },
+    {
+      "folder": "IskarStory1",
+      "draft": false
+    },
+    {
+      "folder": "IskarStory2",
+      "draft": false
+    },
+    {
+      "folder": "IskarStory3",
+      "draft": false
+    },
+    {
       "folder": "VoltDraft1",
       "draft": true
     },
@@ -227,6 +275,30 @@
     {
       "folder": "VoltDraft3",
       "draft": true
+    },
+    {
+      "folder": "MorvenStory1",
+      "draft": false
+    },
+    {
+      "folder": "MorvenStory2",
+      "draft": false
+    },
+    {
+      "folder": "MorvenStory3",
+      "draft": false
+    },
+    {
+      "folder": "SarnaStory1",
+      "draft": false
+    },
+    {
+      "folder": "SarnaStory2",
+      "draft": false
+    },
+    {
+      "folder": "SarnaStory3",
+      "draft": false
     }
   ]
 }

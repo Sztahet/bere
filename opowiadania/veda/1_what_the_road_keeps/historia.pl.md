@@ -82,7 +82,7 @@ Przypomniałam sobie własne słowa. Pamiętałam też, że przy wozie odwróci�
 
 — Co jeszcze widziałeś?
 
-Jorek opowiedział o mniejszym wozie i koniu z białą łatą na pysku. Nie znał imienia kobiety ani nazwiska woźnicy. W Aurelu nie brakowało koni z łatami, ale dwie skrzynie zabrane osobno brzmiały już jak coś, co można sprawdzić.
+Jorek opowiedział o mniejszym wozie i koniu z białą łatą na pysku. Nie znał imienia kobiety ani woźnicy. W Aurelu nie brakowało koni z łatami, ale dwie skrzynie zabrane osobno brzmiały już jak coś, co można sprawdzić.
 
 Magazynier wysłuchał Jorka. Znalazł wpis o przekazaniu dwóch skrzyń dalej, jednak numer ładunku był inny niż na moim kwicie.
 

@@ -51,14 +51,17 @@ def era_sort(date_text):
             ("koniec grudnia", 12), ("koniec listopada", 11), ("koniec października", 10),
             ("koniec września", 9), ("koniec sierpnia", 8), ("koniec lipca", 7),
             ("koniec czerwca", 6), ("koniec maja", 5), ("koniec kwietnia", 4),
-            ("koniec marca", 3), ("koniec zimy", 2), ("pierwsza odwilż", 3),
-            ("środek zimy", 1), ("późna jesień", 11), ("wiosna", 4),
-            ("lato", 7), ("jesień", 10), ("zima", 1), ("marzec", 3),
+            ("koniec marca", 3), ("koniec zimy", 12), ("pierwsza odwilż", 3),
+            ("środek zimy", 12), ("późna jesień", 11), ("wiosna", 4),
+            ("lato", 7), ("jesień", 10), ("zima", 12), ("marzec", 3),
             ("kwiecień", 4), ("maj", 5), ("czerwiec", 6),
         ]
         for label, season_month in season_months:
             if label in date_text.lower():
                 month = season_month
+                # Winter belongs to the year before the first thaw. Sort broad
+                # winter labels after scenes explicitly set in midwinter.
+                day = {"środek zimy": 15, "zima": 30, "koniec zimy": 31}.get(label, 1)
                 break
 
     if era == "PT":

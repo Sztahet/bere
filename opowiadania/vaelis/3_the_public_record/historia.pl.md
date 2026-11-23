@@ -2,7 +2,7 @@
 
 ## Karta kwalifikacji
 
-29 maja, 12 ET · Val Meris
+29 maja, 12 ET · dziedziniec kwalifikacji, Val Meris
 
 W dzień rozpoczęcia kwalifikacji dziedziniec był pełen kandydatów, obsługi i widzów. Przy bramie stał stół z kartami. Znałam już imię Morrak; nie wiedziałam, czy sam je wybrał. Wiedziałam, że Azmir od lat zachowuje opisy człowieka w ciemnym płaszczu, który osłaniał innych.
 

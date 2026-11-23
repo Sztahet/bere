@@ -1,0 +1,121 @@
+# Własnym głosem
+
+## Znak na wosku
+
+23 kwietnia, 12 ET · gospoda na trakcie w Kharum
+
+Późną zimą trzy razy odłożyłam wyjazd do Verdan. Za pierwszym czekałam na ludzi, którzy zatrzymali transport na cudzej drodze. Za drugim przyjęłam umowę na przewóz człowieka z uszkodzonym kolanem. Za trzecim miałam już własne drobne zlecenia dla Wolnych Krain i nie wystarczyło czasu na oba kierunki. Kiedy wreszcie udało się przekazać wiadomość Idzie, uzgodniłyśmy, że wyśle mi krople Zieli przez przewoźników. Flakon doszedł do nas w porcie po długim czasie, a następny w ogóle nie ruszył od wagi. Ktoś zapomniał go dołączyć do worka, który chciał puścić w drogę. W końcu zostawiłam Idzie wszystkie terminy, które znałam na pewno, a i tak okazało się, że jestem o dwa postoje od stacji, kiedy jeszcze czekał tam przewoźnik z Verdan.
+
+Tedzie powiedziałam, że mam złą noc, bo znów za długo trzymałam konie. To też było prawdą. W izbie w Kharum prosiłam o cebrzyk ciepłej wody, choć wiedziałam, że nadgarstek i tak będzie mi przeszkadzał zasnąć. Stajenny podał mi nazwę człowieka, który dowozi nawet niewielkie rzeczy dla górników jadących w górę, a ten pokazał mi, gdzie zaczekać na Vedę. Miał o niej mówić, że sporo wie o rzeczach, których nie wypisuje się wielkimi literami na składzie. Widziałam wcześniej jej pracę przy wozach. Umiała podejść do człowieka na zapleczu warsztatu bez tłoku, zanim każdy zdoła wyjaśnić, po co przyszedł.
+
+Veda usiadła przy moim stole dopiero, kiedy posiłek zabrano z sąsiedniej ławy. Pokazałam jej pusty flakon po kroplach Zieli. Zapytała, co ma się w nim znaleźć. Miałam opis od zielarki, ale zaczynał się od mojego imienia i stanu ręki, a pod nim tkwiło pół mojego życia w Verdan. Schowałam kartkę do kieszeni.
+
+— Tego samego nie obiecam — powiedziała Veda. — Mam dojście do pośrednika. Mówi, że jego krople pomagają ludziom zasnąć mimo bólu. Nie znam zielarki. W lecznicy może ci powiedzą więcej ode mnie.
+
+— Gdzie mam je odebrać?
+
+— Tutaj odbierzesz je do jutra. Na dalszą drogę powinny dostać wpis na karcie przewozowej. Jedni ich nie wpisują, a drudzy chowają butelki pod cudzym ładunkiem. Jeśli pytasz, czy możesz liczyć na pokwitowanie, to ode mnie dostaniesz tylko pokwitowanie na uiszczoną kwotę. Wystawię ci je, jeśli chcesz.
+
+Odwróciłam puste szkło pod światło. Wosk Zieli był wypukły i niepotrzebnie długo czekałam, aż palec znajdzie jego rowek. Veda położyła na stole własną kartę z rozpisanym wyjazdem koni i nie zakrywała jej. Mogłam się dowiedzieć, dokąd pojedzie z jawnym ładunkiem. O reszcie mogła mi powiedzieć tyle, ile akurat miała ochotę. Poprosiłam, żeby butelka dotarła przed moim wyjazdem z Kharum. Układałyśmy termin tak, żebym ją wzięła do własnych rzeczy. Miała jeszcze załatwić dla mnie możliwość kolejnego odbioru, jeśli nie wrócę na tę drogę przed latem.
+
+Następnego dnia zobaczyłam, że szkło ma proste ścianki i zwykły korek. Wzięłam je do pokoju i nie przyjęłam kropli od razu. Chciałam przeczekać do wieczora, jak robiłam to w domu. W nocy zasnęłam wcześniej, ale po przebudzeniu dłoń nadal musiałam zgiąć lekkim ruchem, zanim włożyłam ją w rękaw. Nie mogłam sprawdzić, co sprawiło, że tym razem spałam. Następnego dnia po odebraniu własnego konia kazałam go wyszorować, chociaż porządnie umyła go już gospodyni. Mogłam zapłacić za godzinę pracy. Musiałam jakoś doprowadzić rękę do tego poranka.
+
+## Drugi koniec stołu
+
+9 maja, 12 ET · stajnia przewoźników w Cienistym Porcie, Vesper
+
+Rozmowa o ochranianiu drobnych dostaw zaczęła się przed domem za wozem z płótnem. Dwoje ludzi z osad kupiło sobie razem kurs na godziny, kiedy osłonę najłatwiej nająć. Trzecia osoba miała położyć do wspólnego ładunku dwie skrzynie dla końcowej stacji, ale jej odbiorca nie miał o tej porze ludzi do rozładunku. Poradziłam jej szukać eskorty w dwóch składach na własną rękę. Przeszła je oba. Wróciła ze zdaniem, że owszem, wszędzie ma swobodę zamówienia i nigdzie za podaną cenę niczego nie przyjmie.
+
+Przyprowadziła do nas chłopaka, którego ojciec miał odebrać jej pierwszy kurs. Chłopak znał dwa dojścia do swojego domu i wiedział, przy którym koń mógł odpocząć. Obiecałam mu sprawdzić, czy jednym z tych dojść dopisze się ich do drogi, na którą przewoźnicy zbierali cenę razem. Liczyliśmy siedząc za stołem, póki przy drzwiach nie zobaczyłam Meli. Przywiozła do portu susz wraz z ludźmi, którzy jechali potem do Val Meris. Nikt jej ode mnie nie wysłał. Posadziliśmy ją najpierw przy workach, gdzie szukała człowieka od wagi, a po godzinie zastałam ją z powrotem przy stole. Chłopak usiadł obok i sam jej powiedział, że jutro nie wróci do domu z tym, co miał zabrać.
+
+— U was w dolinie napisałaś, że ludzie chcą sami wybierać, za co płacą — powiedziała mi Mela.
+
+— Chcą. Od czasu przystani sama pewnie wiesz, co byś zrobiła przy kolejnym wozie soli.
+
+— Posłałabym do suszarni człowieka z wiadomością. Na wybór innych przewozów masz odpowiedź ode mnie i od Idy. Kiedy to przywiozą do ludzi w dolinie, na końcu kartki nie będziemy całym Verdan.
+
+Znałam pismo, o którym mówiła. Nad jej zdaniem wymieniłam też miejsca, w których po drodze się odezwały jeszcze po dwie osoby. Ktoś w następnym składzie przepisał nagłówek „Głos z Verdan”, bo tyle osób z dalszej drogi zabierało się z nami do wspólnego tekstu. Nie sprawdzałam, ilu ludzi potem słyszy, że to głos całej krainy. Pogoniłam już trzy osoby, żeby przywiozły ten sam odpis do Val Meris. Mela wyjęła go z chustki.
+
+— A ja do Val Meris pojadę z własnym suszem — powiedziała. — Nie będę ci potrzebna, jak się zapytają, czy masz moje pozwolenie.
+
+Zabrałam arkusz na stronę, w miejsce, w którym wciąż leżała miska po kolacji. Przy nazwach osad zostawiłam tylko ludzi, którzy wyraźnie poprosili mnie o przekazanie głosu we własnej sprawie. Resztę mogłam pokazać jako nazwę istniejącego punktu spotkań, jeżeli sami mi ją potwierdzą. Mela i tak nie zamierzała dać mi podpisu. Chciała zobaczyć, ile kosztuje zmiana jej własnego zamówienia u przewoźników, skoro znała już z drugiego końca historię odmowy. Chłopak poczekał na nią, dopóki nie wypisała adresu domu. Wzięła go ze sobą pod wagę. Między nami została ta sama pusta połowa stołu, na której przez większość dnia rozkładałam decyzje za nich oboje.
+
+## Co trzyma drogę
+
+11 maja, 12 ET · droga do dolnego magazynu Cienistego Portu, Vesper
+
+Dwa dni później znów zaczęłam liczyć cenę ochrony. Lżej wyszłoby nam oddać wspólnie zamawiany wóz człowiekowi, który może wyjechać przed końcem dnia z obiema skrzyniami. Ludzie chłopaka nie zdołają jednak wcześniej zwolnić kogoś do rozładunku. Rozwiązanie, które mi się podobało, od razu wymagało od nich zmiany dnia pracy. Morven mówił w porcie od miesięcy, że takim ludziom można zrobić miejsce dzięki wspólnym pieniądzom. Przewoźnicy z jego strony mieli rację co do ceny. Jedna z jego eskort mogłaby ich znaleźć na odludziu i nie pobrać od nich więcej za sam fakt, że jadą daleko. Mnie trudno było uwierzyć, że u kogoś nad składem pojawi się miejsce akurat w dniu, w którym człowiekowi wyjdzie żona z pracy. Mogłam sobie obie te sprawy uszeregować, dopóki nie nadszedł pierwszy wóz.
+
+Kiedy czekałam pod magazynem, Teda podprowadziła wóz z mąką. Przy burcie kobieta próbowała unieść kosz, który zsunął się z worka. Pęknięty bok kosza zgiął się pod napiętym rzemieniem i przyszczypnął jej rękę. Teda wcisnęła klin pod koło. Podała mi latarnię, żebym mogła zobaczyć sprzączkę. Rzemień był tak napięty, że nie dało się pod nim przepchnąć języka. Wzięłam z wozu pęk świeżej wikliny, wsunęłam trzy pręty pod łub i przytrzymałam końce dłonią. Pręty zacisnęły się wokół kosza i odciągnęły pęknięty bok. Teda mogła wreszcie poluzować sprzączkę. Nie utrzymałby się później na worku. Kobietę posadziłam u wylotu drogi, poprosiłam człowieka, który mieszał przy latarni oliwę, żeby posłał po kogoś od opatrunków, i pokazałam Tedzie, gdzie koń będzie miał pod spodem dobre kamienie. Stary pas do wozu trzeba było wymienić. Mogłam zrobić jeszcze jeden prowizoryczny chwyt, żeby wyjąć komuś nogę. Nie wzięłabym takiego wiązania na wyjazd.
+
+Spod koła wytoczył się okrągły korek. Sięgnęłam do kieszeni. W chwili kiedy wchodziłam pod rzemień, z torby wysunęła się ostatnia butelka, przysłana przez człowieka od Vedy. Teda zgarnęła ją wcześniej z piasku. Trzymała szkło osobno. Tak długo przyjmowałam krople przy noclegach, że w domu wiedziałam od razu, na którą półkę sięgać. Od kwietnia, za każdym razem gdy odebrałam zawiniątko, zdejmowałam z niego sznurek, zanim ktoś zdążył odczytać, od kogo przyszło. Teda odwróciła ku mnie szkło. Przez chwilę mogła wziąć tę ciszę za sprawdzanie, czy zostało mi coś na dnie.
+
+— Mam je potem wypłukać? — zapytała.
+
+— Zostaw. Potrzebuję go w takim stanie.
+
+Wcisnęłam korek na swoje miejsce. Kobieta z ranną dłonią chciała wrócić na wóz, kiedy się zorientowała, że stajnia zaraz zamknie drogę do składu. Poprosiłam, żeby najpierw sama powiedziała, który palec czuje i będzie mogła ruszać. W tym czasie Teda mogła z nią wyładować mąkę z pozostałych worków albo zjechać ze mną cięższym wozem w dół. Wybrała, że zostanie. Przepracowałam resztę dnia samotnie przy dwóch przejazdach. Przed wieczorem posłałam do chłopaka człowieka, żeby wiedział, ile kosztuje jego odcinek i czemu nasz łączony kurs mu nie pomaga. Wpłaciłam z własnej kieszeni za jeden wóz, który pojedzie po ich skrzynie za dnia. Na drugi, który chłopakowi był potrzebny do końca tygodnia, nie miałam. Napisałam cenę bez zniżki w tej samej wiadomości.
+
+## Przed odprawą
+
+25 maja, 12 ET · dziedziniec zapisów w Val Meris
+
+Zapisałam się przed ludźmi, którzy mieli przyjechać ze mną na zachodni plac. Przyszłam z imieniem i własną deklaracją poparcia dla Wolnych Krain. Kiedy w punkcie zapisów zapytano, kogo deklaruję jako swoją reprezentację, powiedziałam „Verdan”. Zaraz potem dopowiedziałam, że nie przyniosłam pisma od starszyzny. Kobieta przy księdze wskazała mi wiersz przewidziany na taki wybór. Nie domagała się, żebym podawała się za jedną z osób, które starszyzna wysłała do Val Meris. Pokazała mi tylko miejsce na podpis.
+
+Na plac obok wpuścili nas przed zmrokiem, żeby ludzie korzystający z czekania na kwalifikacje uczyli się wspólnych sygnałów. Mogłabym zostać przy bramie, gdzie najlepiej było pytać o wozy. Zamiast tego zgłosiłam się do ćwiczenia z ludźmi, którzy mieli prowadzić partnera przez wilgotny grunt. Od lat mówiłam za ludzi, którzy w ciemności muszą ruchem ręki powiedzieć, którędy się wycofują. Chciałam stanąć obok kogoś, kto zna inne znaki, i podjąć razem z nim zadanie, zamiast oddawać jego słowa komuś po powrocie. Kiedy człowiek znad wagi zapytał, czy idę walczyć o nasze żądania, powiedziałam, że będzie mógł się dowiedzieć, jak pracuję obok cudzej załogi. Skończyłam ćwiczenie z gliną na kolanie. Partner przysiadł na skraju placu i wyciągnął do mnie brudną rękę, na znak że jutro możemy jeszcze raz spróbować razem.
+
+Po powrocie do składu Radel położył między nami własną umowę. Rozmawiałam z kupcem po tej samej stronie sporu, a teraz chciałam się dowiedzieć, jaką cenę dostali przewoźnicy z Vesper. Radel powiedział, że przy tej cenie weźmie jeszcze dwa wozy. Jednocześnie pokazał mi miejsce, w którym kupiec skreślił koszt dodatkowego konia ratowników. Daleko w polu od tej stajni każdy zamawiający widział cenę od nowa. Proponowałam wspólne miejscowe zamówienia, ale sama widziałam już, kto nie sięgnie do nich z własnego podwórza. Radel dał mi odpis, żebym rano zajrzała do jego rachunku. Poprosił tylko, bym przy czytaniu nie odjęła od tej umowy tego, co już sobie zapewnili z Narelem. Uznałam to za słuszne. Mnie łatwo było utrzymać w ręku zdanie większe od niego, kiedy on właśnie umawiał się, dokąd pojedzie nazajutrz.
+
+## Dwie osoby przy wodzie
+
+28 maja, 12 ET · okolice wschodniej bramy Val Meris
+
+Czekałam na Vedę przed składem, póki nie skończyła rozmowy z ludźmi, którzy dopytywali o punkt zapisów. Już przed południem zajrzałam do pierwszego kramu, gdzie sprzedawano lekarstwa z Verdan. Kobieta, która mnie tam przyjęła, nie znała Zieli, ale potrafiła zapisać mój opis i posłać po kogoś do czasu kwalifikacji. Zaproponowała, żebym zostawiła jej ostatnie szkło. Powiedziałam, że potrzymam je u siebie. Zaczynał się tłok. Po południu chciałam przejść jedną bramę dalej, na rozmowę, którą umówiłam wszystkim sama.
+
+Veda wyszła do mnie z zawiniątkiem w ręce. Kiedy zapytałam o flakon, nie rozwiązała go. Miała nową paczkę od człowieka, który obiecał sprzedać również na następne dni. Żądał za całość. Powiedział jej, że może rozdzielić towar po tym, jak dostanie pieniądze. Veda nie chciała wyjąć jednej butelki na próbę i zostać dłużna za pozostałe. Mnie brakowało już cierpliwości na następny obchód miasta.
+
+— U ciebie biorę regularnie — powiedziałam.
+
+— Ode mnie dostajesz to, co dowożą, Sarna. Mówiłam ci w Kharum, że nie znam zielarki. Ten człowiek też mi jej nie wskazał.
+
+Widziałam przy jej torbie przypiętą kartę przewozową. Pod podpisem miała jeszcze miejsce na nazwę ostatniego składu. Żadnej nazwy dla kropli, które mi woziła, nie umiałabym tam podać. Mogłam wyłożyć jej pieniądze za całą paczkę, zabrać ją do składu na zachodzie i potem odprawić przy własnych papierach, ustalając z ludźmi, że nie warto podpisywać za mnie. Wątpiłam, czy któraś z osób, które prosiłam o własne decyzje, zobaczyłaby w mojej potrzebie powód, żeby tego nie zauważyć.
+
+— Mam jutro pracować na placu — powiedziałam w końcu. — Zostawię pakunek tobie.
+
+Veda poprawiła pętlę na kciuku. Spytała, czy trzeba mi wskazać człowieka ze składu, który potrafi znaleźć zielarkę po zmierzchu. Dopiero wtedy usłyszałam, że sama wciąż ma w torbie osobną butelkę z Kharum. Nie pytałam, co z nią zrobi. Oddałam proste szkło do kramu przy bramie, żeby kobieta mogła zaczepić o nie swój kartonik. Miałam wrócić po odpowiedź, jeśli w międzyczasie znajdzie się ktoś, kto umie mi pomóc. W drodze do zachodniej bramy dwa razy sięgnęłam do torby, zanim przypomniałam sobie, że zostawiłam flakon w kramie.
+
+## Własnym głosem
+
+28 maja, 12 ET · dziedziniec przy zachodniej bramie Val Meris
+
+Przy stole zabrakło miejsca, więc podsunęłam Morvenowi stołek. Wczoraj przy wadze pożyczył mi oryginał pisma. Znałam już jego odpowiedź o finansowaniu. Chciałam, żeby dał ją także ludziom, którzy na mój apel przyszli przed odprawą. Zanim wyjął arkusze z teczki, wydobyłam nasze pierwsze żądania z brązowej oprawy. Na samym dole podpisano ludzi z pierwszego zebrania. Moje imię zaczęło się pojawiać później, w odpisach.
+
+— Morven, przeczytaj im pierwsze zdanie — powiedziałam.
+
+Wsunęłam mu do ręki kubek, kiedy zamilkł po pierwszym zdaniu. Spostrzegłam, że patrzy ponad stołem, na Radla po drugiej stronie dziedzińca. Gdyby teraz pozwolił sobie wpisać podpis obok naszych nowych żądań, wiedziałabym, co z nim zrobić. Przeczytał jednak zdanie o warsztatach i oddał mi miejsce przy piśmie. Powiedziałam wszystkim, kto zwołał pierwsze zebranie i skąd wziął się nagłówek.
+
+Morven potwierdził, że pierwsze pismo jest również jego i że podpis ma pod nim zostać. Odmówił podpisania nowego zobowiązania. Wypowiedział przed ludźmi z portu to, co powiedział mi wczoraj: wspólne pieniądze mają chronić także ładunki, których odbiorcy nie znajdą sobie eskorty. Dlatego zapisał się po stronie wspólnego nadzoru. Głos kobiety stojącej przy moim krześle umilkł. Przez ostatnią godzinę przekazywała półgłosem jego słowa tym, którzy stali bliżej bramy. Zamilkła akurat wtedy, gdy powinna mówić głośniej. Poprosiłam ją wzrokiem, żeby skończyła. Powtórzyła zdanie o wspólnych pieniądzach i usłyszałam je jeszcze raz z drugiego końca stołu.
+
+— To twoje zdanie przed Radą czy przed nami? — spytałam.
+
+Powiedział, że przed nami też. Przesunęłam kubek ku sobie. Przypomniałam mu, kto opłacił mój październikowy przejazd i jak łatwo mógł rozwiązać sprawę jednym wyjątkiem. Upomniałam się o to, co obiecał na początku, także wtedy, kiedy wspólny nadzór wejdzie do izb przydziałów z nowymi warunkami. Wstałam. Ludzie z brzegu przestali sięgać ponad moim ramieniem i wreszcie mogli położyć nowe zobowiązanie przed sobą.
+
+Mela przyszła na plac z własnym towarem, tak jak zapowiadała. Stanęła oparta o swój wóz, przy człowieku, którego odbiorca nie może płacić za pustą eskortę z powrotem. Słyszała, jak ktoś do protokołu chce dopisać poparcie ludzi z Verdan. Poszłam po nią, ale nie chciała podejść do stołu. Od dzieciństwa słyszałam, że Mela nigdy nie wystąpi przeciwko komuś, kto ją woła przy tylu ludziach. Stałam pod wozem i czekałam na ten zwyczaj. Mela poprawiła ręce na burcie i nic za mnie nie powiedziała.
+
+Wróciłam i kazałam wykreślić całe Verdan z odpisu. Zostawiłam imiona z miejscem, skąd przyjechali, dla tych, którzy sami potwierdzą własne poparcie. Morven złożył oryginał i oddał mi go z podpisami na wierzchu. Obiecałam sporządzić pierwszą kartkę do wywieszenia. Człowiek po mojej lewej ręce czekał na pytanie o jego małą osadę. Zapytałam, czy mogą wspólnie uzgadniać eskortę, kiedy przy pierwszym kursie dołoży im do opłaty miejsce z sąsiedniego wozu. Wyjaśnił, że pierwszy raz tak, ale na następny już nie obiecają się w tym samym dniu. Usiadł. Przyciągnęłam do brzegu jego krzesło, żeby mogli go usłyszeć także ci, którzy przychodzili od wagi. Morven poszedł odebrać teczkę od człowieka pod ścianą.
+
+## O jedną osobę więcej
+
+28 maja, 12 ET · skład przewoźników przy zachodniej bramie Val Meris
+
+Po spotkaniu ktoś zaprosił mnie do stołu, pod którym przygotowano już worki na następny wyjazd. Coraz trudniej było trzymać tam ołówek. Ustaliłam z ludźmi spod dolnej drogi, że na jutrzejszą godzinę chcą jeszcze sporządzić własną rozpiskę. Wzięłam dwie czyste kartki. Za pierwszym razem rozdzieliłam im miejsca przy stole tak, jak podpowiadał mój porządek. Chcieli usiąść według tego, kto przyjechał sam, a kto może zwołać jeszcze drugi wóz. Ludzie od suszarni zażądali, żebym położyła mój wydany wcześniej rachunek obok papieru do podpisów. Można było od razu zobaczyć, komu dałam zaliczkę i ile zostało na następny przejazd. Wtedy Mela usiadła bliżej, choć nadal z własną pustą kartką. Spytała, kto zamierza jutro sprawdzać koszty, skoro ja idę na plac.
+
+Dotąd zamierzałam wpisać samą siebie przy pierwszym wozie. Mogłam przyjść po świcie i zobaczyć godzinę odprawy, a potem w porę stawić się do kwalifikacji. Wystarczyło usiąść w nocy, dokończyć i mieć jeszcze godziny na sen. Zauważyłam, że przesuwam palcem po torbie w poszukiwaniu kropli. Tedzie mogłam powiedzieć, że mam do zamknięcia tylko jedną rzecz, i wysłać ją samą do stajni. Byłoby to drugie miejsce, w którym policzyłabym dziś komuś jego czas.
+
+Poprosiłam Tedę i Melę, żeby wyszły ze mną na chwilę pod bramę. Powiedziałam im, co przyjmuję po kursach i od kogo kupowałam ostatnio. Teda od razu spytała, czy kiedy jeździmy razem, może się dowiedzieć przede mną, że z ręką będą kłopoty. Nie po północy, kiedy tylko ona będzie mogła zawrócić. Powiedziałam, że powiem jej przed każdym kursem, ile spałam i czy zdołam wziąć wodze. Jeśli uzna, że nie usiądzie ze mną na wozie, sama podejmie decyzję.
+
+Mela nie prosiła, żebym obiecywała, iż więcej nie kupię kropli. Zapytała, o której wracam z placu. Chciała wiedzieć, czy będę mogła przejść z nią pod wschodni kram po odpowiedź od kobiety, u której zostawiłam flakon. Powiedziałam, że pójdę po pierwszej odprawie albo po powrocie od ludzi od prób. Zamierzała poczekać, chyba że wcześniej ktoś będzie potrzebował jej wozu. O swoim udziale w rozliczeniach powiedziała tyle, że może przy stole porównać dwa rachunki, bo więcej naraz nie zdąży, i zrobi to, jeśli ludzie zechcą jej odpowiadać.
+
+Wróciłyśmy we trzy. Oddałam Tedzie klucz od składu i spytałam ludzi na sali, kto rano może otworzyć drugie miejsce do rozmów, jeśli tamto zajmie ona. Jedna osoba podniosła rękę. Poprosiłam ją, żeby razem z Tedą sprawdziła, jaki mają odstęp pomiędzy wyjazdami. Mela przyciągnęła do siebie jeden rachunek, a drugi podała człowiekowi, który czekał od bramy. Obok usiadła osoba z małej osady. Dostała pustą kartkę i uzgodniła z sąsiadem, które z nich jutro znajdzie człowieka do wspólnej rozmowy o brakującej eskorcie. Gdy chciałam jeszcze przyspieszyć dyskusję, zobaczyłam, że już zamieniają się krzesłami, żeby lepiej słyszeć odpowiedź.
+
+Na jutro zostawili mi przy drzwiach mały kaftan do pracy na placu i kwit z zapisów, który odłożyłam podczas rozrachunków. Wzięłam tylko swoje rzeczy. Kiedy wyszłam, Teda oparła klucz o stół i czekała, aż ktoś skończy jej mówić, o której może przyprowadzić konia.

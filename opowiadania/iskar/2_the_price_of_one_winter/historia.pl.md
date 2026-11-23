@@ -1,0 +1,123 @@
+# Cena jednej zimy
+
+## Nadwyżka
+
+Późna jesień, 9 ET · sala przyjęć Rady Siedmiu Szlaków, Val Meris
+
+Rozłożyłem list z Białego Przesmyku. Na stół osypała się mąka, która wcisnęła się w złożony brzeg. Bera napisała, że gospodarz kazał zważyć ostatni worek przed odebraniem wozu. Chciał wiedzieć, czy razem z opłatą za worek nie liczymy mu czegoś, czego już nie ma w spisie. Pisarz przy drzwiach podał mi ścierkę. Otarłem deskę, bo za chwilę mieliśmy na niej rozłożyć rachunki wspólnych przewozów i pisarz chciał zachować czytelne kopie.
+
+Trzy wozy z podstawowym przydziałem dotarły do Nivoren. O dwóch wiedziałem od ludzi przy magazynach, trzeci widziałem na liście przyjęć. W stanach rezerw wyglądało to na bezpieczne sześć tygodni. Otworzyłem odpis spod przełęczy. W wykazie ubył tylko jeden większy zapas, ze starego magazynu. Tam, gdzie trzymano zwykle przygotowaną na zimę żywność, poszła woda z rynny wprost na regały. Dwa worki udało się odłożyć, bo od razu je rozcięto i wysuszono. Gospodarz pokazał mi kiedyś, ile takie suszenie zabiera miejsca. Gdybym wtedy kazał mu przenieść rezerwę na piętro, przewoźnicy musieliby dołożyć ludzi do każdego rozładunku. Trzy razy miałem ten wydatek przed sobą i trzy razy zgodziłem się go odłożyć.
+
+Przedstawicielka Verdan przyniosła własne rachunki w worku po zielu. Nazywała się Asta. Obiecała pół dodatkowego ładunku, o ile północni przewoźnicy sami znajdą na niego miejsce i dowiozą go do schronów. Po roztopach u niej też sporo zjedzono z zapasów, zanim z pól dało się cokolwiek zebrać. W rubryce na zimę umieściła sześć mniejszych osad. Przy dwóch imionach ktoś zamazał ilości ziarna. Asta zapytała, czy zamierzam policzyć je jak zakupy dla miasta. Chciała mieć pewność, że ludzie z doliny zachowają prawo do odbioru nawet wtedy, gdy pierwsza połowa rozjedzie się dalej. Pokazała mi klucz do osobnej komory, w której odłożono dla nich przydział. Przyniosła go na stół, bo po powrocie prosto z posiedzenia miała być przy otwarciu magazynu.
+
+Znałem zboże z Verdan i potrafiłem rozpoznać jeden pełny ładunek z daleka po tym, jak koń siadał na tylnych nogach przy hamowaniu. Pół miało dla mnie ogromne znaczenie. Między ostatnim otwartym traktem a pierwszym wozem po odwilży ludzie żyli z miary, której nikt by nie kupił jako dobrego naczynia na targu. Od roku dwie osady dostawały przydział do wspólnego magazynu poniżej przełęczy. Przy dobrej pogodzie ludzie mogli iść po niego po pracy. Przed trzema zimami przy jednym takim przejściu zamarzli mali Ilo i Mena. Matka szła wtedy po drewno na skróty, wzięła ich ze sobą, bo w domu nie było komu dopilnować ognia. Pamiętałem, jak podawano mi z ręki do ręki mokre buty, żeby ktoś starszy sprawdził, do którego domu trzeba iść. W stole Rady pod moim kciukiem tkwiła drzazga. Poprosiłem Astę drugi raz, żeby dopełniła zapas przynajmniej do trzech czwartych.
+
+Obróciła kartkę. W jednym miejscu pokazała mi opłatę za mielenie. Sporo ziarna zachowali, ale pęknięty wał z roztopów zostawił rozmoknięte dojazdy. Teraz jeszcze potrzebowali części do młyna. Póki go nie uruchomią, część plonu jechała w inną stronę do przemiału. Ludzie zabierali po dwa wozy, jeden na zapasowy dzień, gdy okaże się za ciężko przy strumieniu. Gdybym dostał całe wolne zboże, Asta musiałaby kupić dodatkowe worki za cenę, jaką uzgodniłby za nią magazyn w obcej osadzie. Powtórzyła, że pół to ilość, którą może oddać od razu.
+
+— Przyszłaś z kluczem, żeby mi pokazać, co możecie zamknąć przed nami? — powiedziałem tak głośno, że pisarz pod drzwiami przestał przewracać kartki. — Łatwo ci wyliczać połowę, kiedy twoje dzieci mieszkają po tej stronie przełęczy.
+
+Asta zabrała klucz ze stołu. Przez chwilę przytrzymywała go w obu dłoniach, zanim schowała do worka.
+
+— Miałam z tobą przejrzeć listy gospodarstw i zobaczyć, czy po przyszłym przemiale znajdziemy coś jeszcze. Połowę dostaniesz, jak obiecałam. Po resztę przyjdź do biura. Przyjmę wniosek przy pisarzu.
+
+Zaczęła zbierać swoje kartki. Jedną przytrzymałem, bo pod nią był odpis, który musiałem zabrać do wozowni. Widziałem na nim te sześć osad, każdą w osobnym wierszu. Wiedziałem, po co przyniosła klucz. Powiedziała mi to, zanim się na nią wydarłem. Oddałem jej kartkę i kiedy odchodziła, poszedłem za nią aż pod drzwi.
+
+— Nie powinienem był mówić o twoich dzieciach.
+
+Odwróciła się. Spytała, czy pisarz zdążył już poświadczyć tę połowę. Sam zaniosłem mu odpis. Potem czekałem obok Asty, aż zrobi dla nas drugi. Dawniej przy takich okazjach można było się jeszcze z nią umówić na rozmowę po posiedzeniu. Tym razem wzięła swoją kopię i wyszła.
+
+Zostało znaleźć wóz z obsadą i osłoną, który zdąży przejechać. Wspólny zapas taboru miał jeszcze jeden zestaw na dodatkowe kursy. Na wniosek Verdan wpisano go wstępnie pod części do młyna. Wolny termin z innej puli wypadał sześć dni później. W kieszeni miałem wiadomość o wczorajszym śniegu w Nivoren. Kiedy ją przeczytałem przy oknie, zauważyłem, że Bera dopisała na końcu, ile czasu zajął jej powrót ostatniego wieczoru. Dwie godziny więcej niż zakładał ostatni wykaz przewozów.
+
+## Sprawdzona droga
+
+Późna jesień, 9 ET · dziedziniec przewozów w Val Meris
+
+Spytali mnie, czy dam sobie radę z jednym wozem, gdybyśmy poprowadzili go bez urzędowej osłony. Umiem osłonić wóz w miejscu, w którym stoję. To zresztą robiłem, zanim nauczyłem się czytać księgi z wydatkami. Wymagałoby to jednak osłonięcia przez jednego człowieka zarówno przeprawy, jak i podejścia do schronu, po wielu godzinach drogi, gdy ktoś z ekipy będzie już musiał przygotować uprząż do następnego odcinka. Chętnie pojechałbym za wynajętym woźnicą. Ostatnie pieniądze starczały mi na połowę opłaty do dolnego schronu. Znalazłem tamtych dwóch ludzi poprzedniego dnia, gdy pożyczali smar na zimne osie. Jeden zgodził się wziąć płaszcz w zastaw. Drugi zapytał, kto mu wypłaci za rzeczy, które straci, jeśli trzeba będzie zostawić ładunek na stoku.
+
+Pozwoliłem im obejrzeć swój zapasowy płaszcz. Dałem im też pokwitowanie na przewóz dwóch skrzyń leków do pierwszego posterunku, bo ten ładunek jechał zwykłym kursem i nie miał w nim kto przytrzymać skrzyń. Przed odjazdem jeden z ludzi oddał mi część pieniędzy za nocleg. Prowadził konia dalej do gospody, gdzie ktoś był w stanie zabrać go na dodatkową zmianę od razu. Za wóz ciągnący pół ładunku nadal nie miał kto zapłacić. Wróciłem do dziedzińca, bo przy następnym stole można było przeznaczyć część pieniędzy na bezpieczną drogę przez Nivoren, jeśli gdzie indziej dostawa miała wolne miejsce.
+
+Przy odpisach siedziała Kael. Przyniosła rachunki za metalowe osie i wnioski o przegląd nagrzewających się zapinek. Wychodziła co chwilę na dwór, żeby nie brudzić połowy kart czarnym smarem. Znałem ją niedługo. Kiedy pierwszy raz powiedziałem, że w Nivoren ktoś w ogóle nie otworzy przejścia, jeśli gwoździe przy kładce nie dotrą przed jesienią, spytała, czy potrzebujemy gwoździ, czy ludzi, którym wolno przymocować pomost inaczej. Północni ludzie wzięli wtedy jedno i drugie. Z nią nad rozliczeniem mogłem nie zgodzić się przez godzinę, a na drugi dzień i tak przychodziła sprawdzić odczyt.
+
+— Bera potwierdziła wozownię od waszej strony — powiedziała, kiedy zobaczyła, że stoję przy stole. — Człowiek od osłony też wszystko podpisał. Przynieśli mi kopię, bo przy okazji transportują nasze oprawy do wymiany.
+
+Podała mi kartę. Na końcu był dopisek Bery o wąskim przejeździe na zakręcie. Jej ludzie byli gotowi na odprawę, a w zapasie został jeden koń więcej niż zwykle. Miałem poświadczyć, że zabezpieczenie północnego odcinka wymaganego w umowie jest przygotowane, potem przekazać potwierdzenie do wspólnego rozliczenia. Wozy mogły pojechać z własnych środków także bez tej kartki. Dopóki nie było potwierdzenia, biuro nie zatwierdziłoby jednak przydzielenia im wspólnej eskorty i opłaty za jej postój. Ludzie pracujący ponad własny przydział jeździli wyłącznie po tym, gdy widzieli, kto im zapłaci.
+
+Włożyłem odpis do obwoluty z napisem „Północ”. Zgodnie z planem po odprawie mieli zatwierdzić kurs z oprawami dla kilku krain i wysłać wolny zaprzęg z częściami do młyna. Przewoźnik miał podstawić wozy z jednej stajni. Na oba kursy obiecał tę samą stawkę, jeśli pokryjemy z góry pracę osłony i jej postój na północy. Gdyby zabrakło mojego potwierdzenia, mógł wstrzymać oba wozy i zażądać rozliczenia od nowa. Mogłem pójść do biura i normalnie złożyć propozycję przesunięcia wolnego zaprzęgu. Wtedy Asta uprzedziłaby ludzi w młynie i mogliby zgłosić swoje koszty, zanim padnie decyzja. Na widok potwierdzenia z Nivoren sama miałaby podstawę zapytać, czemu rozbieramy ustalony plan. Wróciłbym do swojego półładunku i czekał sześć dni.
+
+Spod obwoluty wystawała koperta od Nivy, którą przywiózł człowiek wracający z gór. Rozpoznałem jej pismo po jednym odstającym znaku przy imieniu Bery. Wiosną w Verdan przytrzymała śluzę lodem podczas powodzi. Dowiedziałem się o tym od niej dopiero latem. Przysłała wtedy list do swojej rodziny z przełęczy, żeby pamiętali, że poszła pomagać Liorze i że wróci po rzeczy, kiedy woda opadnie. Teraz w kopercie były trzy małe karty z jej własnych obchodów, z decyzją o dwóch punktach, gdzie trzeba będzie postawić znaczniki przed śniegiem. Na odwrocie jednej spytała, czy przy okazji mogę dowiedzieć się, co zostało z planowanego przewozu części do młyna. Liora wciąż rozliczała tam wypożyczenie wozu.
+
+Podkreśliłem w liście oba miejsca na znaczniki. O młynie nie zapisałem nic. Miałem jeszcze kilkanaście minut do zamknięcia wykazu, a właśnie od tego wykazu zależało, czy w jej domach na przełęczy będą mogli przełożyć worek z zapasu na codzienny stół.
+
+— Kiedy wysyłasz? — zapytała Kael.
+
+— Po rozmowie o wozach.
+
+Przytrzymała róg odpisu. Chciała wziąć folię ze spodniej strony, żeby móc dalej pisać na suchym.
+
+— To potwierdzenie dostałam przed obiadem. Jeśli będziesz mówił, że czekasz na wiadomość, powiem, kiedy przyszła.
+
+Wyjąłem folię i podałem jej do ręki. Został mi papier. Wiedziałem, że dotrzyma słowa. Sam też miałem zamiar dotrzymać tego, które przed wyjazdem dałem ludziom z osad. Pytali, czy mają uruchamiać wypożyczone piece na dłużej. Powiedziałem, żeby oszczędzali przez tydzień, bo do tego czasu zorganizuję przejazd.
+
+## Zatrzymać obieg
+
+Późna jesień, 9 ET · biuro przydziałów przewozowych, Val Meris
+
+Przed stołem stała Asta z odpisem w sprawie młyna. Czekała też na zgodę, żeby zarezerwować późniejszy kurs do odbioru części, których nie chciano zostawiać przez zimę na postoju. Sądziłem, że rozmowa pójdzie szybciej. Poprosiłem o pusty arkusz i rozpisałem możliwość zabrania zboża do Nivoren pierwszym wolnym zaprzęgiem. Na dole zaznaczyłem, że Verdan można nadać termin późniejszy i pokryć pierwszy dzień dodatkowego przechowania części. Sprawdziłem cenę. Pieniądze pochodziłyby z pozostałej kwoty przeznaczonej na wozy posiłkowe. Koszt przemiału pozostawałby bez pokrycia. W dodatku rachunki rodzin rozliczano w innym miejscu. Musiałbym je sprowadzić tutaj przed ustaleniem ostatecznej stawki.
+
+Do tej pory oboje mogliśmy wrócić do własnych dokumentów i czekać na człowieka od wolnego wozu. Chciano mu oddać plan do południa. Pisarz podsunął mi kartę odbiorczą. Popatrzył prosto na podpis, którego brakowało na wniosku o koszty gotowości dla północnego odcinka.
+
+— Tę kartę mam wysłać razem z planem?
+
+Odwróciłem ją. W dolnej rubryce można było podać powód, dla którego podpis jeszcze się nie pojawił. Mógłbym napisać, że nie ustalono miejsca części zapasowych i konia na zmianę. To właśnie sprawdzili Bera z dowódcą. U góry odpisu oba miejsca zaczynały się od tych samych dobrze znanych nazw. Za ścianą wozowni ktoś zaprzęgał konia do ćwiczebnego nawrotu. Przez chwilę słyszałem tylko, jak uderzały obręcze na równym placu.
+
+— Na razie nie — powiedziałem. Wpisałem w rubrykę „gotowość do potwierdzenia” i położyłem na karcie rękę.
+
+Kael stała przy drugim końcu stołu. Od razu położyła obok swoją kopię. Wskazała podpis dowódcy i godzinę przyjęcia. Pisarz zapytał, czy dokument z osady nie został później odwołany.
+
+— Jest ważny — odpowiedziałem. — Nie poświadczę gotowości do kursu, dopóki nie zamkniemy przydziału wolnego wozu. Na północ ma zabrać zboże.
+
+Asta przeczytała mój podpis. Nie dała pisarzowi zabrać własnej karty.
+
+— Czy od tego wspomnianego wozu zmieni się wam pogoda na przełęczy?
+
+— Dojadą przed opadem. Ich trasa jest sprawdzona.
+
+— A moje wozy już stoją. Zboże możesz wziąć za cztery godziny, jeśli zamówisz kurs od kogoś innego.
+
+— Nie mam od kogo.
+
+Milczała chwilę, jakby nadal czekała na właściwy powód odmowy. Mogłem powiedzieć, że bez wspólnego przydziału nie zaciągnę bezpiecznie ładunku pod górę. Wiedziała o tym od pierwszej rozmowy. Pisarz chciał sprawdzić, kiedy trzeba odpowiedzieć przewoźnikowi. Mieli jeszcze czas przyjąć plan od Kael i zostawić odcinek osłony bez finansowania, gdyby ktoś potrafił pokryć brakujące pieniądze. Kael zapytała, czy za zgłoszenie transportu osobno Vareth może dopłacić ze swojej zaliczki. Uznał, że owszem, ale wystarczy tylko na ich skrzynie. Dwa pozostałe miasta potrzebowały opraw tak samo jak ona. Jeden z ich woźniców był już w drodze z wozem, który miał wrócić załadowany.
+
+— Jeśli chcesz zamienić trasy, zawiadommy tych, którzy tracą termin — powiedziała Kael. — Usłyszymy, czy mogą poczekać.
+
+— Kiedy przyjdzie odpowiedź? — spytałem.
+
+— Z młyna najwcześniej jutro.
+
+Jutro w południe musieli zamknąć termin kursu zbożowego. Najłatwiej było wtedy odpowiedzieć, że właśnie dlatego tak naciskam. Wiedziałem jednak, że z młyna ktoś zdoła zareagować szybciej, jeśli pismo pójdzie od razu. Ludzie przyślą po kosztach przemiału kogoś z innych miejsc, może przed wieczorem będzie do kogo pójść tutaj, w Val Meris. To z tego powodu nie puściłem kartki. Mogłem zatrzymać teraz jeden dokument. Dwóch kolejek do podpisu przede mną nie zatrzymałbym już w tym samym dniu.
+
+— Pismo wyślemy z nową datą — powiedziałem.
+
+Kael już niczego nie tłumaczyła. Poprosiła pisarza, żeby przyjął kopię Bery i odnotował godzinę. Podałem mu koszt odkładania części na inny termin. Asta upomniała się, żeby zamiast samej opłaty wpisać także termin zwolnienia wozu oraz liczbę dni, w których odbiorca pozostanie bez przydzielonego kursu. Po trzynastej zmienili wykaz kursów. Złożyłem podpis pod gotowością osłony. Ledwie zdążyłem odsunąć pióro, zanim pracownik wziął oba arkusze do suszenia. Na palcu pisarza została czarna kreska.
+
+## Przed pierwszym śniegiem
+
+Późna jesień, 9 ET · magazyn na Białym Przesmyku, Nivoren
+
+W drodze wiozłem na lewym kolanie oprawę z cudzej skrzyni i cały czas czułem, jak przy wybojach dotyka kostek pod płaszczem. Kael posłała ją do naprawy na północną stację. Bera wiedziała, że z jej wnioskiem leżała na stole także karta dla Verdan. Zapytała mnie dopiero pod pierwszym schronieniem, dlaczego przewóz jej własnych opraw dostał zgodę sześć godzin po zgłoszeniu gotowości. Chciała wpisać kwotę za ten dzień do następnego rozliczenia. Powiedziałem jej, że zapłacę ze swojej stawki, jeśli nie przyjmą kosztu.
+
+— Zeszłym razem też chciałeś płacić sam — powiedziała. — Czekałam miesiąc, zanim sprawdzili, skąd się wziął twój podpis.
+
+— Co mam zrobić dzisiaj?
+
+— Podpisać godzinę, o której odeszliśmy od stołu. Następnym razem chcę mieć stawkę postoju uzgodnioną zanim podstawię wozy.
+
+Zapisałem godzinę. Trochę przesadziłem z szerokością litery, bo podczas przejazdu wyrobił mi się na dłoni twardy ślad od uchwytu. Chciałem jeszcze spytać, czy zgodzi się dalej dla nas wozić bez wypłaty z góry. Gdy minęliśmy szczególnie wąskie miejsce, zeszła z sań, rozluźniła pas i sprawdziła, czy jeszcze da się dołożyć pod oś kawałek drewna. Znała swój wóz. Nikt jej dzisiaj nie zapowiadał dodatkowej pracy. Mieliśmy wspólne pieniądze do różnych godzin dnia.
+
+Dotarliśmy przed śniegiem. Przy wejściu do magazynu czekała Tami. Wyrosła już dawno z ubrań, w których widziałem ją przy misce chleba. Miała z sobą młodszą kuzynkę, która chciała pomagać przy podawaniu pustych worków. Pokazałem im narożnik skrzyni, na którym łatwo przytrzymać ładunek przed zdjęciem z wozu. Najpierw położyliśmy na desce mąkę z wcześniejszego przydziału i przesypaliśmy ją do naczyń, które ludzie przynieśli sami. Dodatkowe zboże trafiło na piętro. Teraz mieli mieć je w ręku również w osadzie od stoków. Opał przeznaczony na przewóz stamtąd do dolnego magazynu zostanie w piecach.
+
+Ręce odmówiły mi posłuszeństwa przy czwartym worku. Usiadłem przy schodach. Od progu widziałem, że ludzie ustawiają małe pojemniki po stronie tablicy. Jeden chłopiec podał mi metalowy garnek i zapytał, czy w ostatnim pojemniku jest wystarczająco na dwa obiady. Powiedziałem, że ma iść z nim do domu i zobaczyć, ile zwykle nasypują. Miał spróbować sobie zapamiętać przed następnym wejściem po przydział. Chciałem mu pokazać pęknięcie nisko pod uchem, żeby nie brał garnka gorącego z jednej strony. W tym samym momencie zauważyłem, że najstarsza dziewczynka z ich domu schodzi na podwórze i niesie drugie naczynie. Chyba dopiero wtedy mogłem spokojnie wziąć oddech. Gdy wycierałem nos, okazało się, że płaczę.
+
+Tami usiadła obok. Złapała mnie ramieniem, żeby nie widać mnie było tak dobrze z kolejki. Kazałem jej wrócić do ludzi. Zaklaskała w moje oszronione rękawice i oznajmiła, że przy następnym kursie pojedzie na zmianę z Berą. Wstałem, pomogłem jej podnieść ostatni worek i dałem odpocząć palcom dopiero w ciepłej izbie. Tam przyjąłem kwit na odbiór.
+
+W torbie nadal leżała karta Verdan. Pisarz poprosił o adres do przekazania powiadomienia z Nivoren, bo w Val Meris zostało za mało wolnego miejsca na bieżącym wozie. Obiecałem ją posłać od razu po przyjeździe. Magazynier wiedział, który przewoźnik wraca jeszcze od strony przełęczy. Spytał, czy dołączyć rachunek za dodatkowy dowóz. Podpisałem go. Kartę dla Verdan wsunąłem między pierwszą stronę a okładkę. Powinienem był oddać ją przewoźnikowi, który rano jechał w dół. Zaniosłem mu rachunek i powiedziałem, żeby zaczekał na mój odpis. Potem wróciłem do ludzi przy workach.

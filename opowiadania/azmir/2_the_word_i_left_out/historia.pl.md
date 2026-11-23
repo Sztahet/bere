@@ -2,11 +2,11 @@
 
 ## Odpis zeznania
 
-10 ET · archiwum Cienistego Portu
+Rok 10 ET · archiwum Cienistego Portu, Vesper
 
 Vaelis przyniosła mi odpis zeznania z kopalni. Zanim zdążyłem podpisać odpis, zatrzymała pióro nad jednym zdaniem.
 
-Zwróciłem jej uwagę na słowo „widział”. Vaelis wskazała moje wcześniejsze podsumowanie.
+Vaelis wskazała słowo „widział”, a potem przesunęła w moją stronę moje wcześniejsze podsumowanie.
 
 — Pan też napisał „widział” w podsumowaniu — powiedziała.
 
