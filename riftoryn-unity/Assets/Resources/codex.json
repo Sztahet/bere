@@ -701,6 +701,22 @@
       "passEn": "When Eron approaches an undiscovered tower, he briefly gets a hint to its location; it is not revealed to his whole team."
     },
     {
+      "id": "asta",
+      "name": "Asta",
+      "role": "Specjalista",
+      "element": "Natura",
+      "img": "asta-nature-specialist.png",
+      "desc": "Przedstawicielka Verdan w Radzie Siedmiu Szlaków. Negocjuje dostęp do przewozów i zabezpiecza dostawy dla mniejszych osad.",
+      "descEn": "Verdan's representative on the Council of Seven Routes. She negotiates access to transport and protects deliveries to smaller settlements.",
+      "conceptOnly": true,
+      "bio": {
+        "name": "Asta",
+        "specialty": "Kontrola podejść — kierunek projektowy",
+        "story": "Asta reprezentuje Verdan w Radzie Siedmiu Szlaków. Zabiega o to, by krainy mogły szybko decydować o miejscowych dostawach, a mniejsze osady zachowały dostęp do wspólnych zapasów. Partia splotytu ze wspólnej puli może mieć określony cel. Gdy warsztat zaoferował napęd miejscowemu młynowi, Asta potrzebowała osobnej zgody na użycie w nim kryształu przydzielonego do obróbki narzędzi. Do Wielkich Igrzysk zgłosiła Verdan po stronie Wolnych Krain. Podtrzymała postulat obowiązkowych wkładów do rezerwy żywności mimo utraty poparcia części gospodarzy.",
+        "storyEn": "Asta represents Verdan on the Council of Seven Routes. She wants realms to make quick decisions about local deliveries while smaller settlements retain access to shared reserves. A batch of splotite from the common pool may be assigned to a specific use. When a workshop offered to lend its drive to the local mill, Asta needed separate approval to use the crystal earmarked for toolmaking. She entered the Great Games for Verdan on the side of the Free Realms. She continued to call for mandatory contributions to the food reserve despite losing the support of some local farmers."
+      }
+    },
+    {
       "name": "Kiran",
       "role": "Specjalista",
       "element": "Ziemia",
@@ -736,8 +752,8 @@
         "city": "Kamienny Próg",
         "cityEn": "Stone Threshold",
         "specialty": "Zabezpieczanie przejść",
-        "story": "Kela zaczynała od znakowania bloków i pracy przy wadze w kamieniołomach Kamiennego Progu. Chodziła z Rokanem po wyrobisku, żeby nauczyć się oceny skały. Kiedy próbowała zwrócić mu uwagę na ślady przy ścianie, uznał je za ślad po spływającej wodzie i ruszył kamień. Pod odłamkiem zginął kamienioząb. Kela dopilnowała, żeby w zapisie zdarzenia znalazło się jej ostrzeżenie.\n\nPo odwilży przy dolnej drodze głaz przycisnął stopę Bareta do muru. Kela wskazała Rokanowi twarde oparcie, a kiedy odsunął kamień, wsunęła pod niego drewno. Później poprowadziła własną zmianę. Zamiast jechać na kwalifikacje, przekazała Rokanowi postulat, żeby załogi wyznaczały swoich przedstawicieli do oględzin i dostawały zapłatę za ten czas.",
-        "storyEn": "Kela started out marking blocks and working at the weigh station in the Stone Threshold quarries. She went into the quarry with Rokan to learn how to assess the rock. When she pointed out tracks by the wall, he took them for signs of runoff and moved a stone. A pebblemaw was killed under the debris. Kela made sure the report included her warning.\n\nAfter the thaw, a boulder pinned Baret’s foot against a wall on the lower road. Kela pointed Rokan toward solid footing and wedged timber under the boulder once he moved it. She later took charge of her own shift. She stayed in Stone Threshold during the qualifiers and asked Rokan to take her proposal to Val Meris. Crews should choose their own representatives for inspections and be paid for the time they spend there."
+        "story": "Wiek w 12 ET: 24 lata.\n\nKela zaczynała od znakowania bloków i pracy przy wadze w kamieniołomach Kamiennego Progu. Chodziła z Rokanem po wyrobisku, żeby nauczyć się oceny skały. Kiedy próbowała zwrócić mu uwagę na ślady przy ścianie, uznał je za ślad po spływającej wodzie i ruszył kamień. Pod odłamkiem zginął kamienioząb. Kela dopilnowała, żeby w zapisie zdarzenia znalazło się jej ostrzeżenie.\n\nPo odwilży przy dolnej drodze głaz przycisnął stopę Bareta do muru. Kela wskazała Rokanowi twarde oparcie, a kiedy odsunął kamień, wsunęła pod niego drewno. Później została w Kamiennym Progu, żeby poprowadzić pierwszą własną zmianę, a Rokan zabrał do Val Meris jej postulat: załogi powinny wybierać swoich przedstawicieli do oględzin i otrzymywać zapłatę za ten czas. Po zmianie Kela zdecydowała się pojechać do Val Meris. 28 maja zgłosiła do kwalifikacji Kharum po stronie wspólnego nadzoru.",
+        "storyEn": "Age in 12 AT: 24.\n\nKela started out marking blocks and working at the weigh station in the Stone Threshold quarries. She went into the quarry with Rokan to learn how to assess the rock. When she pointed out tracks by the wall, he took them for signs of runoff and moved a stone. A pebblemaw was killed under the debris. Kela made sure the report included her warning.\n\nAfter the thaw, a boulder pinned Baret’s foot against a wall on the lower road. Kela pointed Rokan toward solid footing and wedged timber under the boulder once he moved it. She stayed in Stone Threshold to lead her first shift while Rokan took her proposal to Val Meris: crews should choose their own representatives for inspections and be paid for their time. After the shift, Kela decided to travel to Val Meris herself. On 28 May, she registered for the qualifiers representing Kharum on the side of joint oversight."
       }
     },
     {
@@ -793,18 +809,19 @@
       "img": "eira-ice-summoner.png",
       "element": "Lód",
       "pet": "ryś Szron",
-      "concept": "Ryś osłania bohaterkę i zostawia śliski ślad; w obronie wspiera kontrolę ruchu.",
+      "concept": "Szron osłania Eirę i zostawia śliski ślad; w obronie pomaga kontrolować ruch.",
       "role": "Przywoływacz",
       "id": "eira",
-      "desc": "Ryś osłania bohaterkę i zostawia śliski ślad; w obronie wspiera kontrolę ruchu.",
+      "desc": "Szron osłania Eirę i zostawia śliski ślad; w obronie pomaga kontrolować ruch.",
       "conceptOnly": true,
       "bio": {
         "city": "Biały Przesmyk",
         "cityEn": "White Pass",
         "specialty": "Przywoływacz Lodu; towarzyszy mu ryś mroźny Szron",
         "story": "Wiek w 12 ET: 56 lat.\n\nPrzez lata Eira pilnował chłodni i zapasów w Białym Przesmyku. Zimą uczył się planować dostawy tak, by najmniejsze osady nie zostały odcięte od żywności. Spokój i dokładność pomagały mu równie dobrze przy liczeniu zapasów, jak i podczas wypraw przez zasypane ścieżki.\n\nNa jednej z takich wypraw odnalazł w śniegu rannego rysia, którego łapa zaplątała się we wnyki. Zwierzę było wyczerpane i nieufne. Eira podszedł powoli, uwolnił je i osłonił własnym płaszczem, a następnie zabrał do bezpiecznego schronienia.\n\nPrzy ogniu podał rysiowi wodę i opatrzył obrażenia, ostrożnie używając mocy Lodu. Przez kolejne dni nie wymuszał bliskości: zostawiał pokarm, pilnował ciepła i pozwalał gościowi odpoczywać. Białe futro pokrywał delikatny szron, więc Eira zaczął nazywać rysia Szronem.\n\nKiedy zwierzę odzyskało siły, Eira wypuścił je na leśną ścieżkę. Szron odszedł między drzewa, lecz po chwili wrócił. Od tej pory towarzyszył mu na północnych szlakach, wypatrując niebezpieczeństw i pomagając mu bezpiecznie wracać do domu.\n\nW Próbach Eira i Szron chcą zdobyć wpływ na sprawiedliwy podział zasobów. Eira walczy o to, by nawet odległe osady otrzymywały potrzebne dostawy. Ich więź przypomina mu, że troska wymaga cierpliwości i szacunku dla cudzej wolności.",
-        "reason": "Chce dopilnować sprawiedliwego podziału zasobów, rzetelnej ewidencji rezerw i zapasowych tras dostaw do odległych osad.",
-        "family": "Rodzina Eiry pozostaje do ustalenia; Szron jest jego bliskim towarzyszem.",
+        "reason": "Zgłasza Nivoren po stronie wspólnego nadzoru. Zabiega o wspólne finansowanie dodatkowych dostaw do górskich osad i chce porozmawiać z Sailą o tym, co zrobiła przy wieży.",
+        "family": "Żona Tessa i syn Dalen zaginęli podczas Nocy Zgasłych Wież. Eirze towarzyszy ryś Szron.",
+        "familyEn": "Eira’s wife Tessa and son Dalen went missing during the Night of the Darkened Towers. His companion is a lynx named Frost.",
         "storyEn": "Age in 12 AT: 56.\n\nEira spent years tending cold storage and supplies in White Pass. During winter he planned deliveries so that the smallest settlements would not be cut off from food. Calm and precision helped him count supplies and cross snowbound trails alike.\n\nOn one journey he found an injured lynx in the snow, its paw caught in a snare. The animal was exhausted and wary. Eira approached slowly, freed it, wrapped it in his cloak and carried it to shelter.\n\nBy the fire he offered the lynx water and tended its injuries, carefully using his Ice magic. In the days that followed he did not force it close: he left food, kept the shelter warm and let his guest rest. Delicate frost covered the animal's pale coat, so Eira called him Frost.\n\nWhen the lynx recovered, Eira released him onto a forest path. Frost walked between the trees, but soon returned. From then on he accompanied Eira along the northern routes, watching for danger and helping him find his way home.\n\nEira and Frost enter the Trials to gain a voice in the fair distribution of resources. Eira wants even remote settlements to receive the supplies they need. Their bond reminds him that care takes patience and respect for another's freedom."
       },
       "passName": "Spokojny oddech",

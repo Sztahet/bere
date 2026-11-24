@@ -207,6 +207,8 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 - **Dojazd do K06 [O]** · krótszy odcinek pod skalną półką ma południowy wjazd i północny wylot. Górna droga prowadzi do tego samego zespołu wyrobisk i służy za objazd podczas zamknięcia dolnego odcinka. [Dłuższa droga][rokan2]
 - **Droga przy sadzie [O]** · miejscowy odcinek dojazdu w Kamiennym Progu, przy dawnym podwórzu koniuszym Ildy. Przy dolnym zakręcie są sad i przepust. Miedza po zewnętrznej stronie sadu prowadzi od przepustu do lasu. [Od strony sadu][ilda1]
 - **K02 [O]** — oberża w Kharum, w której Piecarius poznaje Vedę. Osada i nazwa lokalu pozostają otwarte. **K03–K05 [O]** — chata Orena na skraju lasu, przeprawa i trudny odcinek z koleiną oraz bezimienna górna osada z pompą. Tekst pozwala ustalić kolejność na trasie, a położenie względem Kamiennego Progu pozostaje otwarte. [Księga bez autora][piecarius1]
+- **K07 [?]** — szlak kopalniany pod Kamiennym Progiem w rękopisie Broma. Przejście prowadzi pod górą w stronę osad, a jego przebieg pozostaje do zatwierdzenia. [Kamień, którego nie oddaliśmy](opowiadania/brom/1_the_stone_we_kept/historia.pl.md#ostatni-wóz)
+- **K08 [?]** — skład południowy w Kamiennym Progu w rękopisie Broma. Obsługuje miejscowych przewoźników oraz wspólne konwoje. [Jedna kraina, wiele głosów](opowiadania/brom/2_one_land_many_voices/historia.pl.md#dwa-dni-w-tygodniu)
 
 ### Aurel — zachód
 

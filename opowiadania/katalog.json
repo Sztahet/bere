@@ -432,6 +432,114 @@
     ]
   },
   {
+    "id": "asta",
+    "name": "Asta",
+    "region": "Verdan",
+    "portrait": "asta-nature-specialist.png",
+    "series": "Trylogia Asty",
+    "stories": [
+      {
+        "id": "klucz-do-spichlerza",
+        "folder": "opowiadania/asta/1_the_key_to_the_granary",
+        "unity": "AstaStory1",
+        "draft": false
+      },
+      {
+        "id": "rubryka-powrotna",
+        "folder": "opowiadania/asta/2_the_return_column",
+        "unity": "AstaStory2",
+        "draft": false
+      },
+      {
+        "id": "ta-sama-droga-w-obie-strony",
+        "folder": "opowiadania/asta/3_the_same_route_both_ways",
+        "unity": "AstaStory3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "brom",
+    "name": "Brom",
+    "region": "Kharum",
+    "portrait": "brom-earth-tank.png",
+    "series": "Trylogia Broma",
+    "stories": [
+      {
+        "id": "kamien-ktorego-nie-oddalismy",
+        "folder": "opowiadania/brom/1_the_stone_we_kept",
+        "unity": "BromDraft1",
+        "draft": true
+      },
+      {
+        "id": "jedna-kraina-wiele-glosow",
+        "folder": "opowiadania/brom/2_one_land_many_voices",
+        "unity": "BromDraft2",
+        "draft": true
+      },
+      {
+        "id": "ciezar-traktatu",
+        "folder": "opowiadania/brom/3_the_weight_of_the_treaty",
+        "unity": "BromDraft3",
+        "draft": true
+      }
+    ]
+  },
+  {
+    "id": "eira",
+    "name": "Eira",
+    "region": "Nivoren",
+    "portrait": "eira-ice-summoner.png",
+    "series": "Trylogia Eiry",
+    "stories": [
+      {
+        "id": "skobel-w-drzwiach",
+        "folder": "opowiadania/eira/1_the_bolt_in_the_door",
+        "unity": "EiraStory1",
+        "draft": false
+      },
+      {
+        "id": "to-co-wrocilo",
+        "folder": "opowiadania/eira/2_what_came_back",
+        "unity": "EiraStory2",
+        "draft": false
+      },
+      {
+        "id": "pytanie-o-chlodnie",
+        "folder": "opowiadania/eira/3_the_question_about_the_cold_room",
+        "unity": "EiraStory3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "kela",
+    "name": "Kela",
+    "region": "Kharum",
+    "portrait": "kela-earth-specialist.png",
+    "series": "Trylogia Keli",
+    "stories": [
+      {
+        "id": "pierwsza-zmiana",
+        "folder": "opowiadania/kela/1_first_shift",
+        "unity": "KelaStory1",
+        "draft": false
+      },
+      {
+        "id": "kto-stanie-przy-scianie",
+        "folder": "opowiadania/kela/2_who_stands_at_the_wall",
+        "unity": "KelaStory2",
+        "draft": false
+      },
+      {
+        "id": "pod-wlasnym-nazwiskiem",
+        "folder": "opowiadania/kela/3_under_my_own_name",
+        "unity": "KelaStory3",
+        "draft": false
+      }
+    ]
+  },
+  {
     "id": "rokan",
     "name": "Rokan",
     "region": "Kharum",

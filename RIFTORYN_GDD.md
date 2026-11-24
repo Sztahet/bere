@@ -980,6 +980,16 @@ Poznawał dolinę jako przewodnik ekip odnawiających stare drogi. Szuka zastoso
 
 **Rodzina:** Rodzina nie została jeszcze opisana.
 
+### Asta
+
+**Specjalistka Natury z Verdan.** Reprezentuje krainę w Radzie Siedmiu Szlaków i w negocjacjach o przewozach pilnuje dostaw do mniejszych osad. [Historia Iskara](opowiadania/iskar/2_the_price_of_one_winter/historia.pl.md) · [Historia Broma](opowiadania/brom/3_the_weight_of_the_treaty/historia.pl.md)
+
+**Zdolność do prototypu — Zmiana szlaku.** Asta wybiera punkt, z którego rozprowadza widoczną linię przyziemnych pnączy. Przeciwnik, który przekroczy linię, na krótko zwalnia i może iść dalej. Przed wygaśnięciem Asta może raz obrócić linię wokół tego samego punktu. Pnącza najpierw odsłaniają stare przejście, a potem wyrastają w nowym kierunku z krótkim, widocznym wyprzedzeniem. W danej chwili działa tylko jedna linia. Drużyna może więc skierować pościg na jeden korytarz, a gdy przeciwnicy zmienią trasę, utrudnić im drogę przez drugi. Zakres obrotu, długość działania i wielkość spowolnienia pozostają do prototypowania.
+
+Asta zmienia koszt przejścia w znanym miejscu. Eron rozpoznaje trasę, Thora osłania ludzi, Liora pomaga im odzyskać siły, a Sarna ma własny zestaw wsparcia. Kierunek Asty wynika z pracy przy szlakach: najpierw wskazuje przejście, a kiedy zmieniają się warunki, zmienia rozkład ruchu.
+
+**Trylogia zatwierdzona literacko.** Asta zgłasza Verdan po stronie Wolnych Krain 28 maja 12 ET. Zgłasza się indywidualnie, obok kandydatów wyznaczonych przez starszyznę. Wynik kwalifikacji pozostaje otwarty. [Klucz do spichlerza](opowiadania/asta/1_the_key_to_the_granary/historia.pl.md) · [Rubryka powrotna](opowiadania/asta/2_the_return_column/historia.pl.md) · [Ta sama droga w obie strony](opowiadania/asta/3_the_same_route_both_ways/historia.pl.md)
+
 ### Kiran
 **Pochodzenie:** Kamienny Próg  
 **Specjalizacja:** Inżynieria terenowa — kierunek do zaprojektowania
@@ -996,7 +1006,9 @@ Badała stabilność skalnych przejść i nauczyła się czytać teren przed roz
 
 Kamieniarka uczyła się oceny skały u Rokana. Podczas ratowania Bareta wybrała bezpieczne miejsce do pracy i zabezpieczyła odsunięty głaz. W 12 ET zostaje w Kamiennym Progu, żeby poprowadzić pierwszą własną zmianę. [Dłuższa droga](opowiadania/rokan/2_the_longer_road/historia.pl.md)
 
-**Kierunek projektowy**. Przygotowywanie przejść dla drużyny, na przykład doraźne utwardzenie krótkiego odcinka podłoża.
+**Kierunek projektowy.** Kela jako Specjalistka Ziemi zabezpiecza na krótko wąski pas na niestabilnym podłożu, opierając go o pewny grunt. W opowiadaniu podtrzymuje w ten sposób fragment przejścia podczas przenoszenia wody. Na arenie kierunek do prototypu to wyznaczenie chwilowej drogi dla drużyny i decyzja, kiedy ją puścić.
+
+**Trylogia zatwierdzona literacko.** Kela ma 24 lata w 12 ET. Najpierw zostaje w Kamiennym Progu, a po pierwszej zmianie zmienia zdanie i jedzie do Val Meris. 28 maja zgłasza Kharum po stronie wspólnego nadzoru. Wynik kwalifikacji pozostaje otwarty. [Pierwsza zmiana](opowiadania/kela/1_first_shift/historia.pl.md) · [Kto stanie przy ścianie](opowiadania/kela/2_who_stands_at_the_wall/historia.pl.md) · [Pod własnym nazwiskiem](opowiadania/kela/3_under_my_own_name/historia.pl.md)
 
 ### Heda
 

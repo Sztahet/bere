@@ -270,6 +270,8 @@ Poniższe poważne awarie wydarzyły się w bliskim, kilkutygodniowym okresie wo
 
 Relacje te bywają sprzeczne nawet wewnątrz jednej krainy. Wspólna pamięć o ryzyku nie oznacza wspólnej zgody co do przyczyny.
 
+**Kanon autorski — nie ujawniać w sezonie 1.** W Białym Przesmyku Ruvan rozpoznał, że źródło energii zaraz rozerwie rozdzielacz i komorę. Zatrzymał czas w całym pomieszczeniu, uwiężając Tessę, Nerina, Dalena i Ivera, aby powstrzymać wybuch. Źródło podtrzymuje zaklęcie, a Ruvan pozostaje poza jego działaniem i regularnie sprawdza komorę, obawiając się, że zatrzymanie puści. Czuje winę, że ocalił czworo ludzi, lecz odebrał im możliwość dalszego życia. Ten fakt nie rozstrzyga przyczyny innych awarii. Nie ma tu dodatkowego uwięzionego bytu ani związku z Noctenem.
+
 W Aurel odnotowano dodatkowo, że wskazania latarni rozminęły się z obserwacjami innych miast w noc Nocy Zgasłych Wież i następnego dnia. W archiwum zachowały się jednak niepełne kopie, a nie wszystkie pomiary wykonano równocześnie.
 
 ### Siedem raportów komisji o Nocy
@@ -319,6 +321,8 @@ Pojedynek staje się argumentem za tym, by rywalizację przenieść z granic i k
 ### Traktat Równych Ścieżek i Igrzyska Szlaków
 
 W 0 ET upoważnieni delegaci władz siedmiu krain podpisują Traktat po konsultacjach z miastami i strażami szlaków. Val Meris, niezależny węzeł, uczestniczy w rozmowach i gości archiwum, lecz nie podpisuje Traktatu jako ósma kraina. Powstają Rada Siedmiu Szlaków oraz Urząd Prób odpowiedzialny za organizację aren. W Radzie zasiada po jednej przedstawicielce lub jednym przedstawicielu każdej z siedmiu krain. Żadna z instytucji nie jest właścicielem lokalnych kopalń.
+
+Partię splotytu ze wspólnej puli można przydzielić pod warunkiem wykorzystania jej w określonym celu. Cel zapisuje się w warunkach danego przydziału. Użycie partii do innej pracy wymaga zmiany tych warunków. W Verdan warsztat mógł pożyczyć młynarzowi własny napęd, ale użycie w młynie kryształu przydzielonego do obróbki narzędzi wymagało odrębnej zgody. [Ta sama droga w obie strony](opowiadania/asta/3_the_same_route_both_ways/historia.pl.md#odpis-dla-verdan)
 
 **Robocze ustalenie do formalnego zatwierdzenia.** Pierwszym przedstawicielem Nivoren w Radzie był Ruvan, Wielki Mistrz Magii Lodu. Objął mandat przy utworzeniu Rady w 0 ET i uczestniczył w pracach nad bezpieczeństwem wież, współpracą między krainami i finansowaniem wspólnej infrastruktury. W 3 ET ustąpił, wskazując wiek i chęć powrotu do badań. Mandat Nivoren objął po nim Iskar, który prowadził górskie konwoje na Białym Przesmyku.
 

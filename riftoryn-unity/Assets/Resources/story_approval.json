@@ -193,6 +193,54 @@
       "draft": false
     },
     {
+      "folder": "AstaStory1",
+      "draft": false
+    },
+    {
+      "folder": "AstaStory2",
+      "draft": false
+    },
+    {
+      "folder": "AstaStory3",
+      "draft": false
+    },
+    {
+      "folder": "BromDraft1",
+      "draft": true
+    },
+    {
+      "folder": "BromDraft2",
+      "draft": true
+    },
+    {
+      "folder": "BromDraft3",
+      "draft": true
+    },
+    {
+      "folder": "EiraStory1",
+      "draft": false
+    },
+    {
+      "folder": "EiraStory2",
+      "draft": false
+    },
+    {
+      "folder": "EiraStory3",
+      "draft": false
+    },
+    {
+      "folder": "KelaStory1",
+      "draft": false
+    },
+    {
+      "folder": "KelaStory2",
+      "draft": false
+    },
+    {
+      "folder": "KelaStory3",
+      "draft": false
+    },
+    {
       "folder": "RokanDraft1",
       "draft": false
     },

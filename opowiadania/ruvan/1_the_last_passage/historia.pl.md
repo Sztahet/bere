@@ -154,7 +154,7 @@ Przez kilka lat po kursie w Val Meris Iver nazywał mnie mistrzem wyłącznie wt
 
 Patrzył na schody za mną. Czekał na rzecz, którą obiecałem mu pokazać ręką. Wystarczyło, żebym puścił próg, i mogliby ruszyć. Tessa stała już prawie przy krawędzi. Z tych trzech, których miała za sobą, dwóch mogło biec.
 
-Pod palcami czułem, jak oprawa styku próbuje otworzyć się w moją stronę. Gdyby puściła, do placu wiodła ta sama droga co do mnie. Między stajnią a murem mogło się zmieścić dwieście osób. Orda dopiero tam po nie poszedł.
+Pod palcami czułem, jak oprawa styku próbuje otworzyć się w moją stronę. Źródło napierało na nią coraz mocniej. Nie musiałem już zgadywać, co stanie się przy następnym uderzeniu: rozdzielacz puści, a energia rozerwie komorę i kanały pod magazynem. Gdyby puściła, do placu wiodła ta sama droga co do mnie. Między stajnią a murem mogło się zmieścić dwieście osób. Orda dopiero tam po nie poszedł.
 
 — Wiem — powiedziałem. — Iver, bierz Tessę.
 
@@ -164,21 +164,23 @@ Iver był kiedyś najlepszy w swojej grupie w osłanianiu dwójki ludzi naraz. C
 
 — Pooddzielajcie się kamiennymi żebrami. Każdy przy innej wnęce. Lampa w przejściu, żebyś wszystkich widział. Jeśli chodnik jest drożny, wołaj od razu.
 
-Wycofał się z Tessą. Za sobą znów miałem schody i z góry znów ktoś mnie wołał. Przesunąłem ręce w górę po kamieniu. Wcisnąłem lód w spoiny futryny, zasłoniłem próg od sklepienia do dołu i zamknąłem nim kanał pod stopami. Został skrawek światła przy moim kolanie. Dokończyłem pracę od tej strony. Światło lampy znikło.
+Wycofał się z Tessą. Za sobą znów miałem schody i z góry znów ktoś mnie wołał. Nie potrafiłem już zatrzymać samego przepływu. Mogłem tylko zatrzymać czas w miejscu, przez które płynął — w całej komorze, razem z tymi, którzy zdążyli się w niej schronić.
+
+Nie wiedziałem, czy źródło utrzyma zaklęcie. Wiedziałem, że jeśli spróbuję wyprowadzić ich teraz, nie zdążę przed następnym uderzeniem. Przyłożyłem obie dłonie do kamienia i poprowadziłem Lód przez kanał, aż objął komorę. Zatrzymałem czas w całym pomieszczeniu. Sam pozostałem poza działaniem czaru. Został skrawek światła przy moim kolanie. Potem zgasł.
 
 ## Cztery wnęki
 
 Noc Zgasłych Wież, 3 PT · podziemia magazynu w Białym Przesmyku, Nivoren
 
-Na górze wrzeszczeli ludzie. Z dołu dochodził pojedynczy trzask za każdym razem, gdy rozdzielacz próbował wypchnąć moc przez zablokowany kanał. Liczyłem w myślach, ile razy jeszcze lód wytrzyma. Po trzecim uderzeniu z głębi usłyszałem Dalena, który wołał, że za zakrętem chodnika jest gruz. Za czwartym nie słyszałem już nikogo.
+Na górze wrzeszczeli ludzie. Z dołu dochodził pojedynczy trzask za każdym razem, gdy rozdzielacz próbował wypchnąć moc przez zablokowany kanał. Liczyłem uderzenia źródła. Po trzecim usłyszałem Dalena, który wołał, że za zakrętem chodnika jest gruz. Przy czwartym poprowadziłem zaklęcie dalej. Dźwięk urwał się w połowie. Ustał ruch powietrza, pyłu i lodu. Komora zamarła razem z czworgiem ludzi.
 
-Przez lodowy próg zostawiłem podczas zamykania cienkie połączenie z dawną komorą. Przechodziło przez kamienne żebro, którym kiedyś sama Tessa sprawdzała, gdzie odpływa chłód z osadzonych tam półek. Mogłem przez nie dosięgnąć wilgoci na ścianach. Na drugim końcu poczułem cztery miejsca, gdzie ciepło ludzi rozluźniało osiadły szron. Jedno było blisko podłogi.
+Przez lodowy próg zostawiłem cienkie połączenie z dawną komorą. Przechodziło przez kamienne żebro, którym kiedyś sama Tessa sprawdzała, gdzie odpływa chłód z osadzonych tam półek. Czas w środku nie płynął, ale zaklęcie wymagało podtrzymania. Przez połączenie wyczuwałem źródło oraz cztery osobne miejsca, które objąłem zatrzymaniem. Nie mogłem sprawdzić ich pulsu. Nie wiedziałem, czy kiedykolwiek zdołam ich obudzić.
 
 Widziałem dawniej, jak ratownik w górach utrzymał oddech rannego w zaklęciu przez czas, którego potrzebowaliśmy na wyniesienie go na drogę. Nauczyłem się prowadzenia tego zaklęcia i sam zrobiłem to dwa razy. Za drugim razem człowiek obudził się z tą samą raną i trzeba go było nieść dalej. Tam miałem obie ręce przy jednym człowieku, a obok osobę, która umiała rozpoznać, czy budzi się prawidłowo. Tutaj miałem cztery ślady daleko ode mnie. Nie chciałem wyobrażać sobie, ile zostało im powietrza w dymie.
 
-Wcisnąłem zapasowy splotyt z własnej latarni w płytką wnękę po pokrętle przy ścianie. Mokry rękaw przymarzł mi do kamienia. Wysunąłem rękę z rękawa i objąłem kryształ przez drugą rękawicę. Spróbowałem poprowadzić zaklęcie wszystkimi czterema żebrami. W pierwszej wnęce szron ustępował przy podłodze w regularnych odstępach. Kiedy prowadzenie zwolniło, odstęp się wydłużył. Podtrzymałem wiązanie. Ciepło przestało się zmieniać. Przez drugą wnękę przeszedł krótki ruch, jak przy szarpnięciu dłonią. Potem uspokoiła się także trzecia. W czwartej ślad był tak słaby, że cofnąłem palce i zacząłem prowadzić moc od nowa. Straciłem pozostałe trzy na jedną chwilę. Odnalazłem je przy samym kamieniu. Tym razem prowadziłem od najsłabszego.
+Wcisnąłem zapasowy splotyt z własnej latarni w płytką wnękę po pokrętle przy ścianie. Mokry rękaw przymarzł mi do kamienia. Wysunąłem rękę z rękawa i objąłem kryształ przez drugą rękawicę. Zaklęcie trzymało komorę, lecz jego ciężar przejęło źródło. Mój kryształ pozwalał mi wyczuć, czy połączenie nadal trwa. Najpierw znalazłem trzy miejsca. Czwarte było tak słabe, że cofnąłem palce i zacząłem od nowa. Kiedy uchwyciłem je wszystkie, poczułem, że czas w komorze wciąż stoi. Nie wiedziałem, jak długo źródło zdoła podtrzymywać zaklęcie.
 
-We wnęce po pokrętle został blady punkcik. Cztery obciążenia, ledwie wyczuwalne, nakładały się w krysztale. Żadne nie gasło. Nie słyszałem już, żeby urządzenia próbowały się uruchomić. Zostałem na kolanach, dopóki nie odróżniłem drżenia rąk od drżenia progu.
+We wnęce po pokrętle został blady punkcik. Źródło nadal podtrzymywało zaklęcie. Czworo ludzi pozostawało w komorze, zatrzymanych w chwili, w której rzuciłem czar. Nie słyszałem już, żeby urządzenia próbowały się uruchomić. Zostałem na kolanach, dopóki nie odróżniłem drżenia rąk od drżenia progu.
 
 Gdy na schodach pojawił się Orda, wyszarpnąłem rękaw ze ściany. Miał śnieg na obydwu barkach. Wyprowadził ludzi poza mur stajni. Ktoś zostawił pootwierane boksy. W drodze do nas dwa konie przesunęły pusty wóz aż pod magazyn i jeszcze w nim stały, kiedy z dachu spadła część blachy.
 
@@ -190,7 +192,7 @@ Orda zawrócił na schody.
 
 — Co im powiedzieć, kiedy przyjdą po ludzi z nocnej zmiany?
 
-Żeby niczego nie rozkuwali. Że w komorze czworo ludzi czeka na mnie, chociaż żadne już na mnie nie woła. Że spróbuję ich wydostać, ale muszę najpierw wiedzieć, czy potrafię cofnąć to, co właśnie zrobiłem z całą salą. Otworzyłem usta, żeby mu powiedzieć chociaż pierwszą z tych rzeczy.
+Żeby niczego nie rozkuwali. Że w komorze czworo ludzi czeka na mnie, zatrzymanych w czasie, który odebrałem im, żeby ocalić ich przed wybuchem. Że źródło wciąż podtrzymuje moje zaklęcie. Nie wiedziałem, jak ich obudzić ani co stanie się, jeśli źródło osłabnie. Otworzyłem usta, żeby powiedzieć mu chociaż, że żyją.
 
 — Jestem pewien czterech osób — powiedziałem. — Niech na razie wpiszą, że są odcięte.
 

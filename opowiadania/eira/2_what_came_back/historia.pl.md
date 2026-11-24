@@ -1,0 +1,63 @@
+# To, co wróciło
+
+## Drugi odpływ
+
+Jesień, 9 ET · Schronienie Eiry nad Białym Przesmykiem, Nivoren
+
+Ruvan przenosił narzędzia pod magazyn o różnych porach. Przestałem liczyć jego wizyty, kiedy raz przyszedł dwa dni z rzędu, a potem nie widziałem go przez miesiąc. Wtedy zacząłem liczyć, z czym wraca. Rury i drewno mógł nosić do każdej naprawy. Po małą lampę i osłonięte przyrządy sięgał również wtedy, gdy na rozpisce robót nie było już niczego pod starym chodnikiem.
+
+Nie schodziłem za nim. Wiedziałem, gdzie góra osiadała po awarii. Kiedy widziałem ślady jego butów na śniegu, sprawdzałem tylko, czy wyszedł tą samą stroną. Raz czekałem tak długo, że zacząłem się zastanawiać, czy ruszyłbym po pomoc, gdyby nie wyszedł. Poszedłbym. Jeśli Ruvan wiedział coś o Tessie i Dalenie, chciałem usłyszeć to od niego. Nie potrafiłem już sobie wyobrazić, że kiedyś znów podam mu rękę na przywitanie.
+
+Na półce w schronieniu trzymałem uszkodzony regulator z dawnej chłodni. W starym układzie chłód musiał trafiać dalej także wtedy, kiedy zamykano jeden z odpływów. Jeśli zrobiło się to w złej kolejności, pod pokrywą zbierał się szron, a w drugiej skrzyni temperatura zaczynała rosnąć. Kiedyś sprawdzałem to dla Tessy i wracałem do kolacji. Teraz zdjąłem pokrywę, doprowadziłem mały ładunek z osobnego kryształu i położyłem przy obu odpływach po mokrej nitce.
+
+Umiałem ścisnąć lodem pierwszy styk. Wciąż za późno wyczuwałem, kiedy reszta mocy pójdzie drugim. Przez trzy wieczory nitka po drugiej stronie zamarzała, zanim zdołałem ją dotknąć. Czwartego puściłem styk za wcześnie. Gdy złapałem potem łyżkę, wypuściłem ją na podłogę. Między palcami utrzymywał się chłód, choć w przyrządzie nie zostało już prawie nic.
+
+Zostawiałem narzędzia w formie, w jakiej można je było szybko schować. W osadzie nadal sądzili, że naprawiam wyłącznie chłodnie. Zresztą naprawiałem. Pewnego ranka przy progu znalazłem kartę z prośbą o przejrzenie skrzyni na leki. Ktoś dopisał, że przyjdzie po mnie przed południem. Odpisałem, żeby zostawili skrzynię przy drzwiach i wrócili jutro. Potem siedziałem przy próbie, dopóki światło nie zeszło mi pod ręce. Skrzynię naprawiłem po ciemku.
+
+Na stole miałem rysunek rozdzielacza mniej więcej taki, jaki pamiętałem z czasów przed awarią. Umiałem wskazać, którędy kiedyś szła moc. Nie wiedziałem, co Ruvan zrobił z układem pod magazynem. Im lepiej wychodziły mi próby, tym trudniej było wmówić sobie, że wystarczy znać dawny plan.
+
+## Przy otwartych drzwiach
+
+Początek zimy, 11 ET · Północny szlak nad Białym Przesmykiem, Nivoren
+
+Rysia znalazłem, kiedy szedłem obejrzeć objazd do chłodni. Śnieg przy ścieżce był rozdrapany aż do ziemi. Zwierzę szarpnęło łapą, gdy się zbliżyłem. Drut przytrzymał je tak mocno, że od razu opadło na bok. Zdjąłem płaszcz i podsunąłem mu go przed pysk. Pozwoliłem mu gryźć wełnę, dopóki nie rozluźniłem wnyków. W drodze do schronienia próbował dwa razy wstać. Za drugim pozwoliłem mu oprzeć zdrową łapę o mój rękaw.
+
+Przy ogniu opatrzyłem mu nogę i na krótko schłodziłem obrzęk przez mokre płótno. Kiedy zaczynał mi wyrywać łapę, odsuwałem się. Przez dwa dni jadł dopiero wtedy, kiedy z drugiej strony izby przestawało szeleścić. W trzecim sam sięgnął po mięso, choć wsypywałem do pieca węgiel.
+
+Raz wyłożyłem na stole zapasową śrubę Dalena. Ryś obwąchał ją, kichnął i strącił na ziemię. Zakląłem głośno. Skulił się pod ławą. Szukałem potem śruby tak długo, aż jej kant odcisnął mi się w kolanie. Wstałem, położyłem ją w szufladzie i odsunąłem ławę od ściany, żeby zwierzę miało dwie drogi wyjścia.
+
+Nazwę znalazłem któregoś ranka, gdy na grzbiecie osiadł mu drobny śnieg przyniesiony od progu. Szron przestał już uciekać na widok miski. Wyszedł za nią spod ławy i pierwszy raz oparł ciężar także na chorej łapie.
+
+Kiedy mógł chodzić pewnie, wyniosłem miskę na skraj ścieżki i otworzyłem drzwi szerzej. Znałem wszystkie miejsca, gdzie mógł przystanąć pod drzewami. Patrzyłem tylko do pierwszego. Dalej odwróciłem się do pieca i poskładałem płótna po opatrunkach. Chciałem po niego zawołać. Nie miałem nawet ustalonego dźwięku, na który miałby przyjść.
+
+Wrócił tego samego dnia. Stanął na progu przy pustej misce, wszedł do środka i ułożył się w miejscu, z którego widział drzwi. Zostawiłem je uchylone, dopóki nie zapadł zmrok.
+
+Z początku dochodził ze mną tylko do pierwszych drzew. Później, kiedy szedłem sprawdzić zapasową drogę do chłodni, wyprzedzał mnie aż do postoju i czekał przy ścieżce, którą mieliśmy wracać.
+
+## Co widział przewoźnik
+
+Środek zimy, 11 ET · Dolny posterunek pod Białym Przesmykiem, Nivoren
+
+Na posterunku mówili, że na górze zamilkła wieża. Człowiek przy wadze twierdził, że kryształ pękł. Przewoźnik, który przywiózł dwa puste wozy od strony objazdu, słyszał od straży o lodzie w mechanizmie i całej oprawie. O samej chwili zatrzymania wiedział tylko tyle, że była tam Saila.
+
+— Z Przesmyku? — spytałem.
+
+— Ta, której Ruvan uczył.
+
+Chciałem od razu zapytać, gdzie ją znajdę. Zamiast tego poprosiłem przewoźnika, żeby powiedział jeszcze raz, co rzeczywiście widział. Widział zamkniętą drogę i strażnika z mokrymi rękawicami. Resztę znał z jego słów. To mi wystarczyło na tyle, żeby po powrocie nie podpinać kryształu. Usiadłem przy regulatorze i po raz pierwszy od dawna próbowałem policzyć, ilu ludzi musiałoby zrobić coś równocześnie, gdyby układ pod magazynem nadal trzymał.
+
+Szron położył się pod ścianą. Miał teraz stałe miejsce poza zasięgiem stołu. Otworzyłem szufladę i wyjąłem kartkę od Ordy. Słowo „odcięci” przeczytałem jak dawniej. Tym razem obok niego dopisałem imię Saily. Przez chwilę zastanawiałem się, czy napisać do niej wprost. Zacząłem od pytania, co stało się z przepływem w wieży, i zostawiłem pod nim miejsce na to, po co mi ta odpowiedź.
+
+## Nad pierwszym zakrętem
+
+Pierwsza odwilż, 12 ET · Stary chodnik pomiarowy nad Białym Przesmykiem, Nivoren
+
+Przez lata wracałem do dwóch miejsc. Od strony magazynu szukałem śladu po dawnych przewodach. Na zboczu dochodziłem do deski z ostrzeżeniem, którą Orda zostawił po poszukiwaniach. Za nią był zakręt i góra kamienia, której nie dało się ruszyć bez naruszenia stropu. Przed każdą zimą patrzyłem, czy gruz wciąż leży tak samo. Za każdym razem poznawałem płaski blok przy dnie.
+
+Tego ranka śnieg stopniał już pod ścianą. Szukałem śladów od strony drogi, ale w końcu zacząłem patrzeć na samą deskę. Krawędź była ciemna od wody. Tylko przy dolnym końcu widać było jasne drewno. Gdy ktoś odsuwał deskę, to miejsce ocierało się o kamień. Miałem przy sobie lampę, którą zabierałem do chłodni. Zapaliłem ją na zewnątrz, odsunąłem deskę i zawróciłem Szrona spod wejścia. Został w świetle przy progu.
+
+Za zakrętem wciąż leżał płaski blok. Usiadłem na żwirze i uniosłem lampę. Wysoko nad gruzem zobaczyłem wolne miejsce pod sklepieniem. Przy jego krawędzi kamień był jaśniejszy na szerokość dłoni. Podniosłem się na tyle, żeby zobaczyć drugi brzeg szczeliny. Po tamtej stronie o skałę opierał się koniec krótkiej drabiny. Ktoś zostawił ją tak, żeby móc opuścić się dalej.
+
+Wracałem tam przez piętnaście lat i za każdym razem przyglądałem się blokowi, który należałoby odsunąć. Ktoś znalazł drogę nad nim. Pomyślałem o Ruvanie. Miałem przed sobą wysokość jednego kroku do miejsca, z którego mógłbym wsunąć lampę pod strop. Oparłem but o gruz. Drobny odłamek spadł na blok i stuknął tak głośno, że Szron zerwał się u wejścia. Zdjąłem stopę. Orda zostawił tu ostrzeżenie w dniu, kiedy kamień po ruszeniu zaczął się sypać. Na zewnątrz wciąż miałem tylko jedną lampę i nikogo, kto wiedział, gdzie jestem.
+
+Zasunąłem deskę, aż jasna krawędź znów dotknęła kamienia. W schronieniu na odwrocie kartki od Ordy narysowałem zakręt i wolne miejsce nad płaskim blokiem. Przy drabinie zostawiłem pusty kawałek papieru. Tego, dokąd sięgała, jeszcze nie widziałem.

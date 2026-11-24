@@ -1,0 +1,69 @@
+# Klucz do spichlerza
+
+## Sześć osad
+
+Późna jesień, 9 ET · Korzenna Przystań, Verdan
+
+Klucz przywiozłam z Val Meris w worku po zielu. Kiedy wysypałam zawartość na stół, oprócz klucza wypadły dwie suche łodygi i zwinięty odpis decyzji o przewozach. Moja córka odsunęła kubek, żebym nie zamoczyła papieru. Potem spytała, czy może wziąć worek. W szkole rozdawali ziarno do sadzenia i w zeszłym tygodniu dostała je w chustce, której potem szukałyśmy do wieczora.
+
+— Weź. Tylko wytrzep go na dworze.
+
+Rozwinęłam odpis. Przy częściach do młyna wpisano późniejszy kurs. Znałam datę jeszcze przed wyjazdem z miasta. Dopiero w domu, gdy mogłam porównać ją z kartą przybitą nad stołem, zobaczyłam, że przez ten czas dwa gospodarstwa miały nam oddać po worku mąki za wspólny przemiał. Nie miały czego oddać, dopóki ich ziarno leżało niezmielone.
+
+W spichlerzu czekał już młynarz z córką. Oboje przyszli pieszo, choć wcześniej zapowiadali wóz.
+
+— Po ziarno mogę wysłać konie — powiedziałam.
+
+— Po ziarno nie przychodzę. Pokaż mi, co wydacie ludziom w czwartek.
+
+Otworzyłam komorę. Stało w niej sześć rzędów worków, po jednym dla każdej osady. Dwa miały przewiązane szyjki na nowo, bo poprawialiśmy wagę po ostatnim przemiale. Młynarz położył rękę na pierwszym z brzegu.
+
+— No właśnie. To jest ziarno. Chleb z tego będzie, jak znajdziesz młyn.
+
+Ostatni przemiał na zapas wpisałam na początek tygodnia. W Val Meris pilnowałam, żeby żadna z sześciu osad nie zniknęła z wykazu, kiedy dodatkowy ładunek pojedzie na północ. Własnych dat nie poprawiłam. Na moim stole wciąż wyglądało, jakby ludzie mogli odebrać wszystko w czwartek.
+
+— Ile zmielisz ręcznie?
+
+Młynarz wymienił trzy domy, w których zostały całe żarna. Zdołaliby dać każdemu trochę, gdyby pracowali po zmroku. Jego córka zapytała, kto przyjdzie w tym czasie zbierać u nich jabłka. Chciałam jej powiedzieć, że z jabłkami można poczekać. Spojrzałam na jej mokry rękaw. Musiała sięgać po owoce jeszcze tego ranka. Z gałęzi spadały od trzech dni i zaczynały gnić przy pierwszym przymrozku.
+
+Zamknęłam komorę. Poprosiłam ich, żeby poszli ze mną do dwóch osad najbliżej młyna, zanim poślemy woźniców do pozostałych.
+
+## Powrót po swoje
+
+Późna jesień, 9 ET · Droga nad rzeką, okolice Korzennej Przystani, Verdan
+
+Na skraju drogi natknęliśmy się na kobietę wracającą z pustymi workami. Zeszła z wozu, żeby nas przepuścić pod wierzbami. Poznałam ją. W spichlerzu podpisywała się zawsze całym nazwiskiem, nawet gdy za nią stało piętnaście osób.
+
+— Pani radna — powiedziała. — Mleka pani nie trzeba?
+
+Na wozie miała dwa garnki przykryte miską. Zwykle odwoziła je do drugiej doliny i brała w drodze powrotnej narzędzia z naprawy albo tkaninę. Spytałam, czy w tamtejszym młynie mielą cudze ziarno. Powiedziała, że jej sąsiadka ostatnio oddała worek. Dostała mąkę po dwóch dniach i zabrała ją przy następnym kursie.
+
+Chciałam wziąć jej wóz na wszystkie sześć rzędów. Zanim to zaproponowałam, sama podniosłam jeden z pustych garnków, żeby zajrzeć pod deskę. Na skrzyni nie było miejsca na taki ładunek, nawet gdyby miała prawo wracać z drugiej doliny bez tego, co dostała za mleko.
+
+— Ile weźmiesz przy zwykłym kursie?
+
+— Dwa worki, jeśli ktoś je zniesie do drogi. Z powrotem tyle samo. Rano wyjeżdżam przed otwarciem spichlerza.
+
+Młynarz znał właściciela drugiego młyna. Mógł ustalić, ile ten przyjmie bez przestawiania własnej kolejki. Spytałam, czy pojechałby rano z pierwszymi workami. Sam wskazał ludzi, od których ma zacząć. Jeden dom przysłał mu już wczoraj dziecko z miską. Drugie gospodarstwo miało jeszcze własne żarna, ale po zapaleniu w piecu od trzech dni nie można było używać izby, bo dym wracał do środka.
+
+Pozostałe osady rozłożyliśmy na późniejsze kursy. Dwa gospodarstwa zgodziły się odłożyć odbiór o dzień, kiedy młynarz pokazał im, ile mąki zdołamy przywieźć wcześniej dla innych. Jedno poprosiło o worek ziarna od razu. Mieli żarna i woleli mielić sami. Zapytałam, czy mają w domu człowieka do przeniesienia worka. Wysłali z nami starszego chłopaka.
+
+Przed wieczorem siedziałam w spichlerzu z rachunkiem za wóz i przemiał. Pierwszy kurs kosztował więcej, niż wyliczyłam na drodze. Na jego opłacenie wystarczały pieniądze odłożone na awaryjny dowóz zapasów. Na resztę mogłam złożyć wniosek o zwrot uzgodnionych kosztów postoju. Pisarz spytał, czy wpisać oczekiwaną kwotę od razu po stronie wpływów.
+
+— Zostaw tę rubrykę pustą. Dopóki odpowiedź nie przyjdzie, wystarczy wpisać, co wypłaciliśmy.
+
+Przy drzwiach wisiała kartka z czwartkowym odbiorem. Zdjęłam ją i wzięłam na stół. Po drugiej stronie był czysty papier. Wypisałam na nim, kto następnego dnia ma odebrać ziarno, kto poczeka na mąkę i o której można przyjść, jeśli żaden z tych terminów nie wystarcza. Pisarz chciał ją wywiesić, ale poprosiłam o pięć odpisów. Szósta osada mogła przeczytać kartkę na miejscu. Ludzi z pozostałych nie było tego wieczoru pod spichlerzem.
+
+## Przed otwarciem
+
+Późna jesień, 9 ET · Spichlerz w Korzennej Przystani, Verdan
+
+Nazajutrz wyszłam przed świtem. Moja córka była już na podwórzu. Wytrzepała worek po zielu i zawiązała sznurkiem dolny róg. Powiedziała, że tamtędy wysypywałoby się ziarno. Pokazałam jej dziurę, która została nad wiązaniem. Wróciła do domu po igłę.
+
+Pod spichlerzem woźniczka czekała z jednym kołem na suchym kamieniu. Młynarz stał przy niej i trzymał w ręce kupon na przemiał. Z drugiego młyna przyszło potwierdzenie na dwa worki.
+
+Po zważeniu worków rozdzieliliśmy kopie. Woźniczka wzięła swoją i poprosiła, żebym do jutra znalazła kogoś do otwierania komory przed zwykłą porą. Chciała rano załadować ziarno bez czekania, aż wrócę z odprawy.
+
+— Mogę ja — powiedział młynarz. — I tak jestem pierwszy przy wadze.
+
+Spytałam pisarza, czy ma jeszcze jedną kartę wydania. Wpisałam na niej godzinę, dwa nazwiska i miejsce na podpis woźniczki. Potem oddałam młynarzowi klucz. Sprawdził go raz w drzwiach i wrócił ze mną pod wóz. Uchwycił pierwszy worek z drugiej strony, żebym nie musiała przyciskać go brodą do piersi.

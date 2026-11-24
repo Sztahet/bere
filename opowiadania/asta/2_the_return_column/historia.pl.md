@@ -1,0 +1,67 @@
+# Rubryka powrotna
+
+## Dwie godziny u przewoźnika
+
+Późna jesień, 11 ET · Korzenna Przystań, Verdan
+
+Zatrzymałam się przy wozie, bo kobieta od mleka ładowała na niego puste klatki, a na jej karcie widniało zboże. Zapytałam, co chce zrobić z workami.
+
+— Zostają. Na dolnej drodze woda zabrała kawał pobocza. Mogę przejechać górą z pustym wozem. Z pełnym już próbowałam.
+
+Od dwóch lat brała nam na powrotnych kursach po dwa worki do przemiału. Tym razem miała odwieźć zboże ze wspólnej rezerwy do drugiego składu. Wczoraj zatwierdziłam kurs na posiedzeniu w mieście. Dziś mogłam obejrzeć drogę z woźniczką albo poczekać, aż poprawiony wykaz trafi przez dwa biura do Val Meris.
+
+— Kto obejrzał tę drogę po wodzie?
+
+— Ludzie, którzy nią wracali. Jeden urwał okucie koła. Przyprowadzić go pani?
+
+Pokiwałam głową i poszłam po wykaz. Wolny wóz był wpisany również na późniejszy kurs z pustymi klatkami. Na karcie leżała więc odpowiedź na pytanie, jak przenieść zboże przez najbliższe dwa dni. Wystarczyło uzgodnić objazd, podzielić ciężar i zapłacić za drugi przejazd. Tego ostatniego punktu nie chciałam pomijać. Woźniczka już raz przez tydzień jeździła według rozkładu, którego kosztów potem nikt nie uznał.
+
+## Przed podpisaniem
+
+Późna jesień, 11 ET · Skład w Korzennej Przystani, Verdan
+
+W składzie zebrały się cztery osoby. Ja przyniosłam kartę kursu. Człowiek, który urwał okucie, przyniósł okucie, choć nikt go o to nie prosił. Położył je na stole i pokazał, z której strony obręcz starła się o kamień. Przewoźniczka rozłożyła obok rachunek. Drugi kurs oznaczał powrót po ciemku, a ona miała już rano odebrać klatki u gospodarza. Koszt wieczornego kursu policzyła ze zmianą człowieka i konia.
+
+Mogłam potwierdzić wypłatę ze środków Verdan. Jeżeli później rozliczenie wspólnego transportu jej nie uzna, koszt zostanie u nas. Zarządca składu zapytał, czy wobec tego nie lepiej posłać pismo jeszcze dziś, a zboże zostawić do odpowiedzi.
+
+— Ile mamy do wydania po drugiej stronie?
+
+Wiedział, ile zostało w wykazie. Spytałam, czy ktoś stamtąd to potwierdził. Dopiero wtedy przyznał, że ostatni odpis jest sprzed dwóch dni. Posłaliśmy po człowieka z drugiego składu. Kiedy wrócił, wiedzieliśmy, że dwa lżejsze wozy wystarczą na najbliższy odbiór. Jeden mógł jechać rano, a drugi później, razem z klatkami. Koszt spadł, bo woźniczka znalazła w ten sposób zastępstwo na pierwszy kurs.
+
+Podpisałam kartę. Zarządca chciał przepisać do księgi tylko nową trasę. Poprosiłam, żeby dopisał też nazwiska osób, które ją obejrzały, planowaną liczbę worków i cenę. Zostawił na dole miejsce na godzinę powrotu. Uzgodniliśmy, że w następnych dniach skład pozwoli załogom dzielić ładunki i wybierać spośród otwartych dróg. Do wyznaczonego limitu pokryjemy też koszt dodatkowego kursu. W zamian mieli zostawiać u zarządcy kartę z nową trasą.
+
+## Wóz przy wierzbach
+
+Późna jesień, 11 ET · Droga nad rzeką, okolice Korzennej Przystani, Verdan
+
+Trzy dni później córka znalazła mnie na targu. Wcześniej czekała przy szkole, aż wszystkie dzieci poszły do domów. Obiecałam, że razem odbierzemy naprawioną obręcz do jej sita. Zamiast tego poprosiłam ją, żeby zaniosła do składu wiadomość. Jeden z naszych wozów osiadł przy zakręcie nad rzeką. Potrzebowali ludzi do rozładunku.
+
+— Obręcz już mam — odpowiedziała. — Sama po nią poszłam.
+
+Wyjęła ją spod płaszcza. Rzemieślnik źle zrozumiał, które sito naprawia, a ona nie przyniosła starej siatki na wymiar. Obręcz była za duża. Obiecałam, że wrócimy razem następnego ranka. Tym razem zapytałam, o której może ze mną wyjść. Wyznaczyła godzinę i dopiero potem pobiegła do składu.
+
+Przy zakręcie zastałam woźniczkę i ludzi z jej załogi. Poprowadzili pełny wóz górną drogą. Uznali, że skoro po ostatniej zmianie objazd dobrze zniósł dwa lekkie kursy, a od dwóch dni nie padało, uda się przewieźć wszystko naraz i zostawić drugi zaprzęg sąsiadom. Koło zsunęło się na łuku i wóz przechylił się ku rowowi. Zanim zdążyli odpiąć konia, dwa dolne worki nasiąkły wodą.
+
+Chciałam podejść od strony rowu. Woźniczka krzyknęła, żebym stanęła. Pokazała mi ziemię pod tylnym kołem. Kiedy człowiek na burcie ruszał workiem, z krawędzi odpadały grudki. Wzdłuż rowu rosły stare pnącza. Przyciągnęłam do siebie żywe pędy, przeplotłam je mocą między korzeniami wierzb i przytrzymałam darń u brzegu. Mogłam osłonić ten jeden skrawek, dopóki mieliśmy wynosić worki. Koło wciąż opierało się o miękką ziemię. Kazałam ludziom zejść z wozu pojedynczo i podawać ładunek na drogę, od strony drzew.
+
+Kiedy puściłam pędy, prawie nie czułam dwóch palców. Jeden z mokrych worków rozpruł się przy podnoszeniu. Woźniczka przykucnęła przy ziarnie i wyciągała z niego błoto, dopóki człowiek ze składu nie powiedział, że oszacują stratę na wadze. Pojechał z dwoma workami mniej. Wieczorem z drugiej strony rzeki przysłali wiadomość, że na poranny odbiór zabraknie mąki dla czterech domów.
+
+## Ile waży zgoda
+
+Późna jesień, 11 ET · Skład w Korzennej Przystani, Verdan
+
+Następnego dnia zarządca położył przede mną rachunek. Dwa worki z rezerwy pojechały pierwszym wozem i cztery domy dostały mąkę po południu. Po doliczeniu nowego przewozu wyszło więcej niż na pierwszym rachunku za dwa osobne kursy. Zarządca miał już przygotowany nakaz, żeby znów wszystkie zmiany w rozkładzie podpisywała radna.
+
+Woźniczka stała przy progu. Kiedy zaprosiłam ją do stołu, powiedziała, że nie widzi w rachunku naprawy koła. Zabrała wóz do siebie i zamówiła naprawę na własny koszt, bo to ona zdecydowała o ładunku. Zarządca spytał, czy w takim razie pokryje również zboże.
+
+— Sumę worków wpisaliśmy wspólnie — powiedziałam. — Podpisałam zgodę na wybór otwartej drogi. Powinnam była dopisać, do jakiego ciężaru ją sprawdziliśmy.
+
+Woźniczka przypomniała mi, że mówiła o dwóch lekkich kursach. Pamiętałam rozmowę. Wtedy myślałam o tym, ile im zapłacimy, a nie o różnicy między dwoma lekkimi wozami a jednym pełnym.
+
+Z pieniędzy przeznaczonych na próbne przewozy pokryłam dodatkowy kurs. Ziarno musieliśmy odtworzyć z części następnego zakupu. Zarządca wyliczył, ile da się odłożyć bez odkładania planowanego przemiału. Wyszło, że zapas odzyskamy dopiero po kolejnej dostawie. Woźniczka wzięła na siebie naprawę koła. Kartę o powrocie wszystkich decyzji do Rady odsunęłam na bok. Ustaliliśmy, że przy objazdach załoga wpisuje dopuszczony ciężar i nazwisko osoby, która sprawdziła przejazd. Jeśli droga była sprawdzona na lekko, pełny wóz ma stanąć, dopóki nie będzie potwierdzenia dla jego ładunku.
+
+— Jeżeli zabraknie drugiego konia, podzielimy zapas na dwie dostawy — powiedziała woźniczka. — Tylko ktoś po drugiej stronie musi wiedzieć, kiedy dostanie resztę.
+
+Dopisałam kopię dla odbiorcy. Poprosiłam ją też o cenę kolejnego kursu. Mogła odmówić po naprawie koła. Podała stawkę i poprosiła, żeby pierwszy kurs następnego dnia przypadł komuś innemu. Chciała osobiście sprawdzić, czy warsztat dobrze założył obręcz.
+
+Wpisała stawkę własną ręką. Dopiero gdy odłożyłam kartę, zobaczyłam, że w rubryce z nazwiskiem przewoźnika przez cały czas stało tylko nazwisko właściciela wozu. Poprosiłam ją, żeby i ten wpis uzupełniła.

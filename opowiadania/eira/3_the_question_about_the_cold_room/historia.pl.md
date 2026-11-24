@@ -1,0 +1,57 @@
+# Pytanie o chłodnię
+
+## Dwie drogi na mapie
+
+Maj, 12 ET · Dolny posterunek pod Białym Przesmykiem, Nivoren
+
+Zgłoszenia leżały na tej samej ławie co wyliczenia na lato. Przyszedłem z poprawką do mapy. Po odwilży wóz nadal mógł jechać górą, jeśli przed ostatnim zakrętem zostawił połowę ciężaru i wrócił po niego drugim kursem. Przewoźnicy wiedzieli o tym od miesięcy. Na odpisie, który dostawali przy odbiorze opłat, droga figurowała nadal jako pełny przejazd. Człowiek przy wadze wysłuchał mnie i podsunął formularz.
+
+— To możesz zgłosić również w Val Meris. Tam będą ludzie od obu programów.
+
+Spytałem, czy wiadomo, kto już zapowiedział udział z Przesmyku. Wymienił Sailę. Powiedział, że zanim pojedzie, chce dopilnować dyżurów i zostawić zapas na wypadek zamknięcia drogi. Pomyślałem, że łatwo będzie zaproponować jej pomoc przy chłodni. Dopiero kiedy tak to sobie ułożyłem, wziąłem formularz do ręki.
+
+Przy wyjściu człowiek od wagi spytał, czy nadal liczę na znalezienie Tessy i Dalena. Poprzednio zapytał mnie o nich kilka lat temu. Wtedy odpowiedziałem mu, że dam znać, jeśli będę wiedział cokolwiek więcej. Teraz mogłem pokazać mu zakręt, wnękę pod sklepieniem i miejsce, w którym ktoś zostawił drabinę. Nie mogłem powiedzieć, co znajdzie na dole. Przytrzymałem dłoń na torbie, zamiast sięgać po rysunek.
+
+— Liczę, że się dowiem, co się stało — powiedziałem.
+
+Przed drogą obszyłem torbę w miejscu, gdzie pękł szew od pokrywy przyrządu. Kartkę od Ordy schowałem pod nią, ale odpiąłem małą kieszeń z jednego boku. W środku była śruba. Zostawiłem ją w szufladzie razem ze skoblem. Szron oglądał pakowanie spod ławy. Kiedy wyszedłem, szedł obok tak długo, aż wyprzedził mnie na zakręcie.
+
+## Czy masz z kim zostać
+
+28 maja, 12 ET · Urząd Prób, Val Meris
+
+Urzędniczka zapytała, czy ryś reaguje na znaki. Powiedziałem, że na niektóre. Spytała, kto może nim się zająć, jeśli podczas zadania trzeba go będzie odprowadzić. Pokazałem jej nazwisko opiekuna, z którym rozmawiałem w zagrodach. Obiecałem przyjść do niego ze Szronem jeszcze raz, żeby ryś poznał wejście od spokojniejszej strony.
+
+Wybrałem Nivoren i wspólny nadzór. Mogłem oddać poprawkę do mapy, znaleźć Sailę i wrócić do domu jako gość. Ale na mapie zmieści się najwyżej uwaga, że górą trzeba jechać dwa razy. Z tego, co wyliczyłem, jednej osady nie było stać na drugi kurs. Chciałem wystąpić po stronie programu, który zakłada wspólne finansowanie dodatkowych dostaw w górach. Podstawowy przydział mieli zabezpieczony w obu wariantach. Za późny przyjazd wozu wciąż oznaczał, że ludzie musieli po zapasy iść sami.
+
+Zapytałem, gdzie zostawić poprawkę do mapy. Urzędniczka skierowała mnie do innego budynku. Dopiero gdy wyszedłem, zauważyłem, że złożyłem odpis zgłoszenia tak, jak dotąd składałem karty odbioru na północnym szlaku. W miejscu, w którym zwykle wpisywałem właściciela wozu, stało moje imię.
+
+Przy schodach zobaczyłem Ruvana. Mówił do kogoś, stojąc bokiem do wejścia. Od razu poznałem, jak trzyma prawy bark w płaszczu. Pod magazyn wkładał go tak samo, kiedy myślał, że nikt go nie widzi. Przez chwilę chciałem podejść i zapytać, kiedy ostatnio zszedł do schodów. Szron stanął przede mną. Czekał, aż wskażę mu stronę, po której mamy minąć ludzi.
+
+Poszliśmy do budynku z mapami. Zostawiłem tam odpis, poprosiłem o potwierdzenie i zapytałem, gdzie mogę się umówić na oględziny przyrządu. Skierowali mnie do stołu napraw przy zagrodach. Obok przyjmowano uwagi do rozkładu dostaw. Na desce leżały dwie mapy z Nivoren. Jedna pokazywała moją górną trasę bez ani jednej kreski na zakręcie.
+
+## Na dwóch obwodach
+
+28 maja, 12 ET · Plac przy zagrodach Urzędu Prób, Val Meris
+
+Sailę poznałem po tym, jak odsunęła lampę, żeby móc przeczytać mapę bez cienia od własnej ręki. Ktoś wyżej wpisał przy schronisku czas przejazdu przy otwartej dolnej drodze. Saila wskazała kreskę idącą przez zakręt.
+
+— Jeżeli zamkną dół, którędy puszczacie drugi wóz?
+
+Pokazałem jej, gdzie na górze można bezpiecznie odstawić połowę ciężaru. Zapytała, czy jest tam człowiek na zmianę. Powiedziałem, że ostatnio nie było, więc jeden z woźniców musiał wrócić po resztę sam. Wzięła mój odpis, porównała go z mapą i dopisała, że do czasu przejazdu trzeba doliczyć postój na przeładunek. Mogłem się z tym nie zgodzić tylko wtedy, gdybym własny wykaz przyniósł po to, żeby go zignorować.
+
+Przedstawiłem się i spytałem o wieżę. Potwierdziła, że zatrzymała ruch części, która kierowała wyładowaniem. Kiedy zapytałem o zatrzymanie samej mocy, powiedziała, że to oddzielna sprawa. Nie zaczęła mi tłumaczyć, co wtedy poczuła. Najpierw chciała wiedzieć, czy widziałem jakiś podobny przyrząd.
+
+Zdjąłem z ramienia torbę. Regulator był zimny od wieczornego powietrza. Dwa odpływy trzymałem pod tą samą pokrywą. Wskazałem palcem miejsce, które zawsze zamarzało wcześniej, niż oczekiwałem.
+
+— Gdyby na jednym odpływie dało się zatrzymać przepływ, zanim ten drugi weźmie cały ciężar, umiałbym go sprawdzić bez przepinania przewodów. Chciałbym pokazać ci próbę.
+
+Saila uchyliła pokrywę i poprosiła o lampę. Podsunąłem ją od strony zawiasu, jak przy mapie. Przyjrzała się stykom. Potem odsunęła palec od krawędzi i zostawiła przyrząd otwarty.
+
+— Mogę obejrzeć, z czym pracujesz. Ale najpierw powiedz, co ma od tego zadziałać.
+
+Miałem gotową odpowiedź. Ułożyłem ją na posterunku, kiedy dowiedziałem się, że pojedzie do miasta. Wiedziałem, jak nazywa się skrzynia, której użyją latem, kto będzie przy niej nocą i ile trzeba będzie poświęcić czasu na pierwszy odczyt. Sam przyniosłem mapę, z której wynikało, że taka skrzynia naprawdę jest potrzebna.
+
+Saila czekała. Szron zdążył się położyć między ławą a wyjściem. Wyciągnąłem kartkę od Ordy spod pokrywy. Dopiero wtedy zauważyłem, że trzymam ją napisem do dołu.
+
+— Chłodnia — powiedziałem.

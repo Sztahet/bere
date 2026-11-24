@@ -1,0 +1,45 @@
+# Kto stanie przy ścianie
+
+## Lista na rano
+
+24 maja, 12 ET · Plac przy wadze, Kamienny Próg, Kharum
+
+Po ostatnim ważeniu wróciłam po deskę, na której Eda zaznaczyła mokry odcinek rampy. Baret stał przy kasie i omawiał jutrzejsze oględziny. Człowiek, który codziennie czyścił kanał, czekał obok z narzędziami. W wykazie na następny dzień był wpisany na pierwszą zmianę przy czyszczeniu odpływu przy górnym wyrobisku. O oględzinach nie było przy nim słowa.
+
+— Przecież rozmawialiśmy o tym rano — powiedziałam.
+
+— Rozmawialiśmy. Potem kasa spytała, z której pracy go zwolnię i kto ją przejmie. Gdyby chodziło tylko o żwir na placu, mógłby go zostawić.
+
+Na górze trzeba było wybrać osad przed pierwszym wypuszczeniem wody ze zbiornika. Bez tego nie można było zacząć cięcia kamienia. Baret wskazał środkową rubrykę. Dwa wozy miały odebrać bloki zaraz po południu. Jeśli zaczną później, jeden zdąży zabrać ładunek, a drugi odjedzie na kolejny umówiony kurs. Część ludzi rozliczano od liczby gotowych bloków.
+
+Baret chciał wziąć na oględziny kogoś, kogo łatwo zastąpić. Znałam tego człowieka. Miał dobry wzrok i pracował za dnia przy górnym wejściu. Odpływu pod rampą nie czyścił od jesieni. Kiedy zobaczy mętną wodę, nie będzie wiedział, czy wypływa tam, gdzie zwykle.
+
+Chciałam posłać człowieka od kanału najpierw na rampę, a potem na górę. Popatrzył na kartę i odłożył łopatę.
+
+— Na rampie trzeba zobaczyć, którędy idzie pierwsza woda. Jeśli stanę tam rano, na górze zastanie mnie już otwarty zbiornik. Pójdę cztery razy i dalej nie zrobię żadnej z tych robót jak trzeba.
+
+— A gdyby jutro otworzyli zbiornik później?
+
+— To musisz powiedzieć ludziom od cięcia, za co im zapłacisz. — Sięgnął po kartę. — Mogę wybrać osad dziś. Daj mi tego, którego Baret chciał wziąć na dół. Zna górny odcinek, rano sam sprawdzi, czy odpływ od wieczora się nie zatkał.
+
+Baret spytał, czy należy wobec tego wysłać ich na górę od razu. Nad placem robiło się ciemno, a obaj już oddali lampy przy wadze. Mogłam im zlecić pracę dodatkową, jeśli zechcą zostać i jeśli zapłacimy za ten czas. Drugi człowiek przyszedł jeszcze po płaszcz. Kiedy go zapytałam, powiedział, że może zostać przez godzinę. Potem musiał odebrać dziecko od sąsiadki.
+
+Wpisałam obie dodatkowe godziny na koszt naszej zmiany. Kazałam zostawić przy zbiorniku kartę z warunkiem: jeśli odpływ rano będzie niedrożny, woda zostaje zamknięta, a jeden wóz pojedzie bez kamienia. Baret uprzedził mnie, że jeśli tak będzie, sama będę musiała rozliczyć zmianę z ludźmi od cięcia. Poprosiłam go, żeby zanotował od razu robotę, którą można im dać na placu, zanim woda znów popłynie. Człowiek od kanału wziął ołówek i rozpisał obie zmiany. Wiedział, kto przychodzi wcześniej i komu trzeba zanieść odpis do domu. Zanim ruszyli na górę, obaj odebrali lampy przy wadze.
+
+## Druga kopia
+
+24 maja, 12 ET · Kamienny Próg, Kharum
+
+Na odpisie dla brygady Baret napisał, ile zapłacimy za oględziny i kogo zapisaliśmy. Mogłam zostać następnego dnia przy tej robocie i sprawdzić, czy zrobimy wszystko zgodnie z kartą. Chciałam zobaczyć, jak Eda pójdzie pod rampę z własnymi notatkami. Potem przypomniałam sobie, o co sama prosiłam na spotkaniu. Chciałam, żeby następna ekipa mogła zrobić to samo, także kiedy nie ma przy wadze kierownika skłonnego dać nam ołówek i czas.
+
+W domu pod oknem stała płyta, którą obrabiałam po kolacji. Miała być ławką dla mnie. Dotąd na progu mieściła się tylko jedna osoba, a kiedy Eda wpadała z synem, któreś musiało siedzieć na schodku. Kilka lat wcześniej przyniosłam Rokanowi podobny kawałek kamienia. Chciałam wiedzieć, czy ktoś zapłaci mi za wycięcie w nim liter. Rokan spytał najpierw, co sama chciałabym na nim napisać. Nie wiedziałam. Przez tyle czasu znaczyłam bloki numerem zamówienia, że umiałam od razu naciąć znak składu, a własne imię musiałam sobie najpierw narysować kredą. Kiedy stawiałam ostatnią literę, Rokan zajmował się swoim kawałkiem i ani razu nie odebrał mi dłuta.
+
+Zostałam w kamieniołomie, bo stamtąd umiałam przynieść do domu coś, co jeszcze rano nie nadawało się do niczego. Marzyłam też o tym, żeby kiedyś wykonać własne zamówienie od początku do końca i postawić na nim znak, który ktoś pozna. Teraz miałam do wyrycia dwa brakujące nacięcia pod ławką. Odwróciłam płytę i sprawdziłam, które jest płytsze. Potem przygotowałam torbę na drogę. Jeśli zostanę nawet tydzień, ławka poczeka.
+
+Wolne Krainy mówiły o tym, że miejscowi szybciej oglądają drogę i wiedzą, kogo zapytać. Wspólny nadzór dawał mi inną możliwość. Jeżeli kierownik odrzuci zapis załogi, ludzie mogą zwrócić się do kogoś spoza własnego zakładu. Na spotkaniu nikt nie umiał mi powiedzieć, kto od nas będzie brał udział w takich oględzinach i jak pokryją wypłatę. Właśnie w tej sprawie Rokan wiózł mój list.
+
+Znalazłam ogłoszenie przy wadze. Zgłoszenia w Val Meris przyjmowano do dwudziestego ósmego. U przewoźników pod bramą dowiedziałam się, że wieczorem rusza mały wóz z opłaconą zmianą koni. Zostało jedno miejsce. Po drodze miał postoje krótsze niż zwykłe wozy z kamieniem. Jeśli na drodze nic ich nie zatrzyma, dotrą ostatniego dnia zapisów.
+
+Nie kupiłam miejsca od razu. Wróciłam do Bareta i Edy. Powiedziałam im, że chcę jechać na kwalifikacje, a dokumenty na jutro są gotowe. Baret miał poprowadzić zmianę. Edę spytałam, z kim chce zejść do rampy, jeśli do rana podejdzie więcej wody. Wskazała człowieka od kanału i dopisała na swoim odpisie, gdzie będą mogli podejść od suchej strony. Dopiero wtedy poszłam do woźnicy.
+
+Miałam w torbie jedną koszulę, kartę wypłaty i drugi odpis z oględzin. Pierwszy został przy wadze. Eda obiecała mi dać znać po sprawdzeniu rampy. Nie zdążyłam powiedzieć, kto będzie zawoził listy z miasta. Na odwrocie karty z godziną odjazdu zapisałam dla niej adres składu w Val Meris i zostawiłam kartę w kasie.
