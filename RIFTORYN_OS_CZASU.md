@@ -307,6 +307,7 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **27 maja, 12 ET · Val Meris, wieczór** — **VI. Następna strona** — Nocten — [`źródło`](opowiadania/nocten/3_the_first_lesson/historia.pl.md)
 - **27 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — **W kolejce** — Nera, Varek, Miko, Lena, Volt — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 - **27 maja, 12 ET · Urząd Prób i plac przed areną, Val Meris** — **Dwa imiona** — Ana, Bob, Ressa — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
+- **28 maja, 12 ET · plac ćwiczebny, Val Meris** — **Środkowa deska** — Ana, Bob, Al, Senera — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
 - **28 maja, 12 ET · brama Val Meris** — **Przed zamknięciem bramy** — Taren, Lucen — [`źródło`](opowiadania/taren/3_on_the_other_side/historia.pl.md)
 - **28 maja, 12 ET · dziedziniec zapisów, Val Meris** — **Zapisy do kwalifikacji** — Taren, Lucen — [`źródło`](opowiadania/taren/3_on_the_other_side/historia.pl.md)
 - **28 maja, 12 ET · dziedziniec, Val Meris** — **Poranna odprawa** — Taren — [`źródło`](opowiadania/taren/3_on_the_other_side/historia.pl.md)
@@ -322,6 +323,8 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **28 maja, 12 ET · Val Meris** — **Zapisy do kwalifikacji** — Lucen — [`źródło`](opowiadania/lucen/3_not_against_you/historia.pl.md)
 - **28 maja, 12 ET · Val Meris** — **Co przywiozłem** — Rokan — [`źródło`](opowiadania/rokan/3_one_goes_first/historia.pl.md)
 - **28 maja, 12 ET · Val Meris, wieczór** — **Przysięga** — Piecarius — [`źródło`](opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md)
+- **28 maja, 12 ET · okolice składu przy wschodniej bramie, Val Meris** — **Przy wschodniej bramie** — Ana, Bob, Veda, Ressa — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
+- **Wieczór 28 maja, 12 ET · wschodnia brama i kwatera Any, Val Meris** — **Następna wiosna** — Ana, Bob, Veda — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
 - **29 maja, 12 ET · kwalifikacje w Val Meris** — **Dwa uderzenia** — Thora, Miko — [`źródło`](opowiadania/thora/3_enough/historia.pl.md)
 - **29 maja, 12 ET · Val Meris** — **Świadkowie na dziedzińcu** — Azmir, Morrak, Vaelis — [`źródło`](opowiadania/azmir/3_many_pairs_of_eyes/historia.pl.md)
 - **29 maja, 12 ET · Val Meris** — **Karta kwalifikacji** — Vaelis, Morrak, Azmir — [`źródło`](opowiadania/vaelis/3_the_public_record/historia.pl.md)
@@ -331,9 +334,6 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **Przed 29 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — **II. Kolejka** — Morrak — [`źródło`](opowiadania/morrak/3_a_name_on_the_list/historia.pl.md)
 - **Przed 29 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — **III. Rubryka** — Morrak — [`źródło`](opowiadania/morrak/3_a_name_on_the_list/historia.pl.md)
 - **Przed 29 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — **IV. Co widziano** — Morrak, Vaelis — [`źródło`](opowiadania/morrak/3_a_name_on_the_list/historia.pl.md)
-- **29 maja, 12 ET · kwalifikacje w Val Meris** — **Środkowa deska** — Ana, Bob, Al, Senera — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
-- **29 maja, 12 ET · okolice składu przy wschodniej bramie, Val Meris** — **Po próbie** — Ana, Bob, Veda, Ressa — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
-- **Wieczór 29 maja, 12 ET · wschodnia brama i kwatera Any, Val Meris** — **Następna wiosna** — Ana, Bob, Veda — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
 - **30 maja, 12 ET · dziedziniec ćwiczebny w Val Meris** — **Zanim gwizdnę** — Rokan, Kiran, Eron, Ilda — [`źródło`](opowiadania/rokan/3_one_goes_first/historia.pl.md)
 - **31 maja, 12 ET · dziedziniec ćwiczebny w Val Meris** — **Kiedy belka siada** — Rokan, Kiran, Eron — [`źródło`](opowiadania/rokan/3_one_goes_first/historia.pl.md)
 - **15–23 maja, 12 ET · podwórze Ildy i droga przy sadzie, Kamienny Próg, Kharum** — **Otwarta burta** — Ilda, Dara — [`źródło`](opowiadania/ilda/3_a_way_back/historia.pl.md)
@@ -400,9 +400,9 @@ Nie znaleziono sekcji bez daty.
 - **21 maja, 12 ET · rynek w Korzennej Przystani, Verdan** — Miejsce przy burcie — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
 - **26 maja, 12 ET · plac przed areną, Val Meris** — Pod murem — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
 - **27 maja, 12 ET · Urząd Prób i plac przed areną, Val Meris** — Dwa imiona — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
-- **29 maja, 12 ET · kwalifikacje w Val Meris** — Środkowa deska — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
-- **29 maja, 12 ET · okolice składu przy wschodniej bramie, Val Meris** — Po próbie — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
-- **Wieczór 29 maja, 12 ET · wschodnia brama i kwatera Any, Val Meris** — Następna wiosna — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
+- **28 maja, 12 ET · plac ćwiczebny, Val Meris** — Środkowa deska — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
+- **28 maja, 12 ET · okolice składu przy wschodniej bramie, Val Meris** — Przy wschodniej bramie — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
+- **Wieczór 28 maja, 12 ET · wschodnia brama i kwatera Any, Val Meris** — Następna wiosna — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
 
 ### Aria
 
@@ -949,8 +949,8 @@ Nie znaleziono sekcji bez daty.
 - **28 maja, 12 ET · skład przy wschodniej bramie, Val Meris** — Ostatni dzień zapisów — [`źródło`](opowiadania/veda/3_a_place_for_the_return/historia.pl.md)
 - **28 maja, 12 ET · skład przy wschodniej bramie, Val Meris** — Bez Jorka — [`źródło`](opowiadania/veda/3_a_place_for_the_return/historia.pl.md)
 - **29 maja, 12 ET · Val Meris** — Przy arenie — [`źródło`](opowiadania/veda/3_a_place_for_the_return/historia.pl.md)
-- **29 maja, 12 ET · okolice składu przy wschodniej bramie, Val Meris** — Po próbie — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
-- **Wieczór 29 maja, 12 ET · wschodnia brama i kwatera Any, Val Meris** — Następna wiosna — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
+- **28 maja, 12 ET · okolice składu przy wschodniej bramie, Val Meris** — Przy wschodniej bramie — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
+- **Wieczór 28 maja, 12 ET · wschodnia brama i kwatera Any, Val Meris** — Następna wiosna — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
 
 ### Volt
 
