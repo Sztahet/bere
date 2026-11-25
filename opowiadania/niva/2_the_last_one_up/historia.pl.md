@@ -28,6 +28,12 @@ Liora rozpoznała nazwę osady, którą miałam na starym odpisie, ale nigdy jej
 
 Najchętniej od razu przyprowadziłabym ją na północ. Ona zapytała, czy chce mi się dzisiaj siedzieć do końca wieczoru przy mokrym wozie. Odpowiedziałam, że w sumie tak. Pomogłam jej zdjąć pas z przemoczonego worka. Później powiedziała mi, gdzie mieszka. Adres zapisałam na odwrocie listy rzeczy, które przywiozłam z północy. Pierwszy raz od rozłąki miałam drogę do jednej z nich, po której mogłam przejść sama.
 
+Chciałam jej jeszcze poprawić kaptur. Kiedy była mała, podwijała go od środka, żeby końce nie łaskotały ją po nosie. Teraz odchyliła głowę i spytała, co robię. Cofnęłam rękę. Przez chwilę rozmawiałyśmy o tym, czy ktoś pod spuchniętą nogę przyniósł suchą płachtę. Dopiero potem sama podała mi sznur przy kapturze.
+
+— Przywiąż mi go z lewej. Z prawej go potem nie sięgnę w rękawicy.
+
+Miałam kopię wykazu z Białego Przesmyku. Ona rozwinęła kartkę, którą dano rodzinie przy jej przyjęciu. Pod trzema imionami widniała ta sama uwaga o rozdzieleniu jednej grupy przy przeprawie. Przy Liorze dopisano ołówkiem „jeden but”. Roześmiała się, kiedy przeczytałam ten wiersz. Pamiętała, że własny zgubiła w wodzie, a ja oddałam jej oba swoje. W drodze na wóz podwinęłam nogawki, żeby nie chodzili po nich inni, kiedy będę biegła w skarpetach. Dopiero przy tamtej ławie usłyszałam od Liory, że po drodze trzymała mój drugi but w ręce, bo nie zdążyła go zawiązać.
+
 ## Z drugiej strony śluzy
 
 Roztopy, 9 ET · wał irygacyjny pod Korzenną Przystanią, Verdan
@@ -37,3 +43,15 @@ W dolinie lód pod palcami zachowywał się inaczej niż u mnie. Woda pchała go
 Zawołałam do ludzi po drugiej stronie, żeby odeszli za słupek. Z góry przyszła jedna odpowiedź, z dołu druga. Kiedy obie usłyszałam, pozwoliłam puścić śluzie. Woda podeszła prawie do moich kolan, zanim zdołałam wyjść. Jednej strażniczki później brakowało. Dopiero przy posiłku powiedziano mi, że zginęła, kiedy zawalił się brzeg. Nie widziałam tego miejsca ze śluzy.
 
 Następnego dnia Liora zdjęła mi z poręczy kurtkę. Chciałam powiedzieć jej, ile zapasów udało się wynieść. Poprosiła, żebym chwilę z nią poszła wzdłuż zalanego pola. Sama nie pamiętała już, gdzie kończył się jeden z jej zagonów. Stanęłam tam, gdzie pokazywała mi go na jesiennej mapie. Dopiero gdy podeszła bliżej, zobaczyłam, że w ręce trzyma tyczkę, którą od tego miejsca trzeba będzie przestawić.
+
+Jeszcze dwa razy wróciłam tamtego tygodnia pod śluzę. Za pierwszym razem próbowałam ustalić, dokąd sięgałby mój lód, gdybym stanęła o krok wyżej. Zastałam tam człowieka, który przyjął ode mnie znak. Pokazał mi, że osunięcie zaczęło się za załamaniem brzegu. Nie widziałam tamtego miejsca i nie dostałam stamtąd żadnego głosu. Przyjęłam, co powiedział. Za drugim razem przyniosłam suchy płaszcz, gdy szli po rzeczy strażniczki. Nie był nikomu potrzebny. Zabrałam go do domu. Przez następne lata, ilekroć przy śluzach ktoś odpowiadał z ciemności, liczyłam, czy odzywa się tyle osób, ile spodziewam się usłyszeć.
+
+## Światło przy wnęce
+
+Późna jesień, 11 ET · zbocze pod magazynem Białego Przesmyku, Nivoren
+
+Wracałam od Bery i próbowałam półgłosem trafić w ostatni dźwięk jej zwrotki. Ruvan szedł niżej ze skrzynką, którą umiałam rozpoznać po obitej na rogu oprawie. Zwykle odpoczywał przy murze, zanim zabrał się do dalszej drogi. Tym razem odsunął deskę przy rumowisku i przecisnął się za nią z lampą. Przystanęłam na zakręcie. Myślałam, że jeśli zagląda po jakiś odczyt, przyda mu się człowiek na zewnątrz. Zawołanie zostawiłam sobie na wypadek, gdyby nie wyszedł.
+
+Podeszłam do odsuniętej deski. Za wąskim miejscem, przez które przeszedł, otwierał się dalszy odcinek. Gdy uniósł lampę, światło na moment padło na wnękę najbliżej chodnika. Klęczał tam człowiek. Na wysokości jego twarzy widziałam biały lód. Ruvan przesunął lampę tuż obok niego. Tamten nadal patrzył w poprzek sali. Wróciłam na zakręt, zanim Ruvan wyszedł. Po drodze próbowałam sobie przypomnieć, kiedy ostatnio widziałam Ivera klęczącego w ten sposób przy robocie. Zawsze chciał mieć wszystkich w zasięgu wzroku. W ciemności mogłam pomylić jego twarz. Nie umiałam pomylić tego, że pod ziemią ktoś wciąż tam jest.
+
+Wieczorem dwa razy zaczęłam opowiadać Berze, kogo widziałam. Za drugim razem spytałam tylko o dawne wejście pod magazynem. Powiedziała, że ludzie szukali tam po Nocy i zatrzymał ich zawał. Zanotowałam datę na odwrocie kartki z pieśnią. Nie zaznaczyłam wejścia. Gdybym wysłała tam kogoś z łomem, nie wiedziałabym nawet, od której strony ma odesłać resztę ludzi.

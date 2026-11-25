@@ -40,6 +40,10 @@ Podstawa — [wspomnienie Saily z 3 PT](../saila/1_the_burden_of_the_crystal/his
 
 Podstawa — [splotyt, koszty ładowania i granice urządzeń](../../world_history.md#splotyt-i-zależność-krain), [szkoły i rozwój nurtów magii](../../world_history.md), [rola Ruvana w kodeksie gry](../../riftoryn-unity/Assets/Resources/codex.json), [roboczy przegląd umiejętności bohaterów](../../RIFTORYN_BOHATEROWIE_MAGIA_I_TECHNOLOGIA_PROPOZYCJA.md).
 
+### Wątek Nivy
+
+- **Niva — propozycja w jej odrębnej trylogii.** Późną jesienią 11 ET widzi Ruvana wchodzącego pod rumowisko i z zewnątrz dostrzega nieruchomego Ivera przy chodniku. 28 maja 12 ET, po rozmowie Ruvana z Serą, dowiaduje się od niego, że w komorze czas zatrzymał się dla czworga ludzi. Niva pozostaje świadkiem, a Ruvan dalej odpowiada za wejście i badania. Rozmowa z Serą po porannej zmianie nadal czeka Ruvana. [Obserwacja Nivy](../niva/2_the_last_one_up/historia.pl.md#światło-przy-wnęce) · [Rozmowa w Val Meris](../niva/3_wait_for_my_sign/historia.pl.md#czworo)
+
 ## 3. Saila i kwalifikacje
 
 - **Datowanie uzgodnione.** „Trzecia wiadomość” przypada zimą 11 ET, po zatrzymaniu wieży w środku tej samej zimy. [Trzecia wiadomość](2_fifteen_winters/historia.pl.md#trzecia-wiadomość) · [Zatrzymać ruch](../saila/2_when_the_tower_fell_silent/historia.pl.md#zatrzymać-ruch)
