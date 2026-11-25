@@ -43,6 +43,10 @@ Przykładowe ceny przy tym samym założeniu, do porównania i zatwierdzenia:
 - Przykładowy przejazd jednej osoby do Val Meris: **około 1 sel w jedną stronę**, założony jako orientacyjna cena dla porównywalnej trasy i zwykłego przewozu. Odległość, pora roku, postój i ryzyko mogą ją zmienić; nocleg i powrót nie są wliczone. Ta cena odpowiada dwóm i pół dniom przykładowej pracy brutto.
 - Roczne miejsce na rynku lub naprawy narzędzi nie mają jeszcze zatwierdzonej taryfy: nie wpisujemy ich ponownie do koszyka, jeśli były już opłacone w pozycji „drobne naprawy”.
 
+### Wyżywienie Boba w Korzennej Przystani
+
+Ana wydaje **5–10 sel miesięcznie** na bambus i jego dowóz do domu. Przy miejscowej ścince koszt schodzi do 5 sel, w zwykłym miesiącu wynosi około 7 sel, a przy dowozie z dalszych kęp dochodzi do 10 sel. Przy stawce 0,40 sel za dzień pracy 7 sel odpowiada 17,5 dnia pracy. Przewóz samego Boba na dłuższej trasie to osobny wydatek. Zaliczka u Sewina rezerwuje ścinkę i regularny dowóz do następnej wiosny. Resztę Ana opłaca przy dostawach. [Kiedy obeschnie ziemia](opowiadania/ana/1_when_the_ground_dries/historia.pl.md#co-wyrośnie) · [Bambus na cały rok](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md#następna-wiosna)
+
 ### Ludność i roboczy scenariusz dochodów
 
 Kontynent liczy około **76 tys. mieszkańców**, w tym 8 tys. w Val Meris ujmowanym osobno; przyjmujemy poniższy podział. Uwzględnia on wszystkich mieszkańców, również dzieci i seniorów. Zarobki, koszty i udział pracowników w tabeli pozostają roboczym testem, nie ustalonymi statystykami. Na próbę 40% mieszkańców w każdym obszarze osiąga podany średni roczny zarobek z pracy; pozostali nie muszą być bezczynni — mogą prowadzić gospodarstwa, pracować na własny rachunek lub być na utrzymaniu rodziny. Płace wyrażają wartość wynagrodzenia także w naturze, nie wyłącznie monety.

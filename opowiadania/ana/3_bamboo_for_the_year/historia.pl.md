@@ -158,11 +158,11 @@ Veda poczekała, aż na nią spojrzę.
 
 — Sama bym chciała jej powiedzieć dziś, czy będzie mogła rano iść do pracy.
 
-Veda podniosła arkusz i złożyła go na pół. Dopiero wtedy przysunęłam go z powrotem ku sobie. Poprosiłam o ołówek. Ustaliłyśmy, że będę dostarczać mniejsze partie, kiedy mam dość roślin, a jeśli coś zawiedzie w ogrodzie, będę pisać od razu. Poprosiłam o wpisanie kartek przy butelkach jako części zamówienia. Veda dopisała to na obu egzemplarzach. Powiedziałam, ile żąda Sewin za umowę do następnej wiosny. Zgodziła się podnieść zaliczkę do tej kwoty. Podpisałam oba arkusze.
+Veda podniosła arkusz i złożyła go na pół. Dopiero wtedy przysunęłam go z powrotem ku sobie. Poprosiłam o ołówek. Ustaliłyśmy, że będę dostarczać mniejsze partie, kiedy mam dość roślin, a jeśli coś zawiedzie w ogrodzie, będę pisać od razu. Poprosiłam o wpisanie kartek przy butelkach jako części zamówienia. Veda dopisała to na obu egzemplarzach. Powiedziałam, ile muszę wpłacić Sewinowi z góry, żeby zarezerwował mi dostawy do następnej wiosny. Veda zgodziła się podnieść zaliczkę do tej kwoty. Podpisałam oba arkusze.
 
 Zaczęłam chować pieniądze od Ressy. Na ławie pozostał kwit Fabii. Veda podała mi go, trzymając za róg, żeby nie zasłonić mojego pisma. Przeczytałam jeszcze raz godzinę otwarcia młyna i włożyłam go do torby razem z umową.
 
-Przy kwaterze czekał wózek z bambusem, który Iwa zamówiła dla nas w mieście. Chłopak zdążył odłożyć liście pod dach i spytał, czy ścinkę na pojutrze też ma przywieźć pod szopę. Potwierdziłam. W kwaterze napisałam Sewinowi, że biorę dostawy na rok i kiedy mogę mu wpłacić należność. Iwie miałam rano odnieść kopertę, żeby wzięła ją w drogę powrotną. W drugim liście poprosiłam Milkę, by przed moim powrotem sprawdziła, czy w donicy pod murem ukazał się następny pęd. Chciałam, żeby chwilę poczekała, zanim zacznie mierzyć.
+Przy kwaterze czekał wózek z bambusem, który Iwa zamówiła dla nas w mieście. Chłopak zdążył odłożyć liście pod dach i spytał, czy ścinkę na pojutrze też ma przywieźć pod szopę. Potwierdziłam. W kwaterze napisałam Sewinowi, że biorę dostawy na rok i kiedy mogę mu wpłacić zaliczkę. Iwie miałam rano odnieść kopertę, żeby wzięła ją w drogę powrotną. W drugim liście poprosiłam Milkę, by przed moim powrotem sprawdziła, czy w donicy pod murem ukazał się następny pęd. Chciałam, żeby chwilę poczekała, zanim zacznie mierzyć.
 
 Bob zasnął pod dachem przy świeżym bambusie. Usiadłam obok i policzyłam, ile całych łodyg mamy do pojutrza. Dwie najmłodsze położyłam na górze, żeby rano łatwo było po nie sięgnąć. Na butach położyłam potwierdzenie zgłoszenia na jutrzejsze kwalifikacje. Pod rachunkiem za bambus zapisałam imię Ressy i tyle, ile dziś od niej wzięłam. Na tę dostawę wystarczało.
 

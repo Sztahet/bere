@@ -112,9 +112,11 @@ Sewin postawił łopaty przy furtce.
 
 — Zrobisz do przyszłego tygodnia jeszcze tyle, ile wzięłaś w tym? — zapytałam.
 
-— Tyle to zawsze dam radę. Przy stałym odbiorze wyszłoby ci taniej. Mógłbym wstawić twoje zamówienie między kursy do młyna. Tylko wtedy trzeba wpłacić z góry na cały okres, żebym odłożył ścinkę i ludzi.
+— Tyle to zawsze dam radę. Przy stałym odbiorze wyszłoby ci taniej. Mógłbym wstawić twoje zamówienie między kursy do młyna. Potrzebowałbym zaliczki, żeby umówić ludzi do ścinki. Resztę płaciłabyś przy dostawach.
 
-Zapytałam, czy jeden okres to miesiąc. Do lata mógł przywozić po starej cenie. Dłuższy termin mógł mi zagwarantować, jeśli zapłaci z góry właścicielom dalszych kęp. Wzięłam od niego oba rachunki, choć ten dłuższy wsunęłam od razu na spód pod krótszy.
+Latem, kiedy Sewin ciął bambus blisko domu, wyżywienie Boba kosztowało mnie pięć selenów na miesiąc. Zwykle wychodziło około siedmiu. Kiedy po ulewach przywoził liście z dalszych kęp, płaciłam nawet dziesięć.
+
+Sewin rozpisał mi na jednej kartce dostawy do lata. Na drugiej podał zaliczkę, która zapewniłaby mi bambus do następnej wiosny. Musiał z niej opłacić z góry dostęp do dalszych kęp. Drugą kartkę od razu wsunęłam pod pierwszą.
 
 — Jest jeszcze miejsce do plewienia przy młynie — powiedział. — Płacą co tydzień. Mogę zapytać, czy chcą kogoś do nadzoru.
 
@@ -144,7 +146,7 @@ Zrobiłam jeszcze jedną próbę zimą. Spodziewałam się tego samego i wstała
 
 Przeczytałam kartkę do końca. Zamówienie mogłam odesłać następnym wozem. Zaliczka miała przyjść w sakiewce razem z zapłatą za susz, jeśli od razu napiszę, że się zgadzam.
 
-Wyjęłam kartkę spod palców i zrobiłam sobie jedzenie. Obok deski do krojenia leżał kwit z młyna. Przez kilka poranków chodziłam tam pomagać, aż zebrali stałych ludzi. Zapłacili uczciwie za każdy. Kiedy chciałam wziąć tylko część tygodnia, kierownik powiedział, że ktoś codziennie musi pilnować dopływu wody. Wracając od niego, podparłam sobie ręką plecy na wysokości biodra i tak doszłam do furtki. Bob podniósł nos znad bambusa, zobaczył moją rękę na plecach i obszedł mnie od przodu. Łatwiej mu było dostać się do drugiej, w której trzymałam torbę ze śniadaniem.
+Wyjęłam kartkę spod palców i zrobiłam sobie jedzenie. Obok deski do krojenia leżał kwit z młyna. Przez kilka poranków chodziłam tam pomagać, aż zebrali stałych ludzi. Z kwitu mogłam wyliczyć, że na zwykły miesiąc bambusa trzeba prawie osiemnastu pełnych dni pracy przy młynie. Kiedy chciałam wziąć tylko część tygodnia, kierownik powiedział, że ktoś codziennie musi pilnować dopływu wody. Wracając od niego, podparłam sobie ręką plecy na wysokości biodra i tak doszłam do furtki. Bob podniósł nos znad bambusa, zobaczył moją rękę na plecach i obszedł mnie od przodu. Łatwiej mu było dostać się do drugiej, w której trzymałam torbę ze śniadaniem.
 
 Wzięłam do siebie rachunek Sewina. Położyłam na nim kartkę z ceną Vedy, tak żeby obie liczby były obok siebie. Przy tej cenie miałabym na bambus i naprawę pieca. Zostałoby na dzień, w którym Milka mogłaby przyjść sadzić u mnie fasolę według własnego pomysłu.
 
