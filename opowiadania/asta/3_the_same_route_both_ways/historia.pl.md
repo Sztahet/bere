@@ -40,7 +40,7 @@ Przewoźnik otworzył teczkę. Miał w niej odpis, którego sama używałam na s
 
 — A kiedy dach przecieknie w osadzie za rzeką, kto im kupi zboże?
 
-— Nie wiem. Wiem, że nasi gospodarze prosili mnie o przywiezienie twojego podpisu. Jak go dostanę, wywieszą twoje nazwisko pod swoim poparciem. Jeśli wpiszesz obowiązkową rezerwę, mam wrócić bez niego.
+— Nie wiem. Wiem, że nasi gospodarze prosili mnie o przywiezienie twojego podpisu. Jak go dostanę, dopiszą twoje imię pod oświadczeniem, które wywieszą. Jeśli wpiszesz obowiązkową rezerwę, mam wrócić bez niego.
 
 Z drugiej strony placu chłopak właśnie rozwiązywał powróz na tablicy ogłoszeń. Wystarczyłoby oddać przewoźnikowi jego kartę. Wniosek o napęd zostałby w biurze, a ludzie w domu przeczytaliby rano, że Asta pomaga odzyskać prawo do takich decyzji. Spytałam przewoźnika, czy widział drugą stronę starego wykazu.
 
@@ -54,7 +54,7 @@ Do własnej propozycji dołączyłam odpis starego wykazu. Pod podpisem sprzed t
 
 — To też ma wisieć? — spytał.
 
-— Pod moim nazwiskiem.
+— Tak. Z moim podpisem.
 
 Przytrzymałam luźny róg kartki, żeby chłopak mógł wbić ostatni ćwiek. Przewoźnik schował do teczki listę gospodarzy, którą miał do niej dołączyć. Na tablicy zostało po niej wolne miejsce.
 

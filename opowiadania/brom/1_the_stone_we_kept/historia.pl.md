@@ -96,7 +96,7 @@ Rena przysunęła mi księgę bliżej.
 
 — Spytaj o miejsca dla tych wszystkich, którym obiecałam, że wrócą na zmianę.
 
-Przepisałem nazwiska. Żeby zmieścić ostatnie dwa, musiałem odwrócić kartkę.
+Przepisałem imiona. Żeby zmieścić ostatnie dwa, musiałem odwrócić kartkę.
 
 ## Pierwsze posiedzenie
 

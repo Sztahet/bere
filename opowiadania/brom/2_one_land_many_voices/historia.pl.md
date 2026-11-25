@@ -82,8 +82,8 @@ Nie mogłem zmienić podpisanej umowy na zebraniu. Mogłem za to sprawić, żeby
 
 Konwój ruszył zgodnie z planem. Z placu wyjechało sześć wozów, a z nowego pobocza przyglądał im się ładowacz z zebrania. Pomachał mi, zanim ostatni wóz wjechał na zakręt.
 
-Rena stała po drugiej stronie placu. Pożyczyła sobie mniejszy wóz, żeby spróbować objazdu. Zanim zaprzęgła konia, podała mi pusty worek. Na jednym rogu ktoś wyszył nazwisko.
+Rena stała po drugiej stronie placu. Pożyczyła sobie mniejszy wóz, żeby spróbować objazdu. Zanim zaprzęgła konia, podała mi pusty worek. Na jednym rogu ktoś wyszył imię.
 
 — Będziesz w składzie? Oddaj go właścicielce. W tym tygodniu mąki nie przywiozę.
 
-Nazwisko znałem z zebrania. Właścicielka worka odezwała się wtedy raz, by zapytać, czy na pewno dobrze policzyliśmy wszystkie osady. Znalazłem ją po południu przy ładowaniu kamienia. Musiałem poczekać, aż skończy zmianę.
+Znałem to imię z zebrania. Właścicielka worka odezwała się wtedy raz, by zapytać, czy na pewno dobrze policzyliśmy wszystkie osady. Znalazłem ją po południu przy ładowaniu kamienia. Musiałem poczekać, aż skończy zmianę.

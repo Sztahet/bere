@@ -4,7 +4,7 @@
 
 24 maja, 12 ET · Plac przy wadze, Kamienny Próg, Kharum
 
-Na karcie zmiany Baret przesunął moje imię o jedno pole w lewo. Tam dotąd wpisywał człowieka, który mówił nam rano, od czego zaczynamy. Pozostałe nazwiska zostawił w tym samym miejscu.
+Na karcie zmiany Baret przesunął moje imię o jedno pole w lewo. Tam dotąd wpisywał człowieka, który mówił nam rano, od czego zaczynamy. Pozostałe imiona zostawił w tym samym miejscu.
 
 — Jeśli kamień będzie gotowy przed ostatnim ważeniem, jeszcze dziś wezmą go na drogę — powiedział.
 
@@ -44,7 +44,7 @@ Przy wadze otworzyłam kartę. Była na niej rubryka na odbiór zrobionej roboty
 
 Baret spojrzał, co piszę na marginesie.
 
-— Jeżeli ją wysłałaś obejrzeć rampę, wpisz swoje nazwisko.
+— Jeżeli ją wysłałaś obejrzeć rampę, wpisz swoje imię.
 
 — Sama mi powiedziała. Chcę, żeby przy oględzinach była dalej z nami. Wie, jak wczoraj wyglądała deska.
 
@@ -52,7 +52,7 @@ Baret spojrzał, co piszę na marginesie.
 
 Eda chciała. Chciała też, żebyśmy wiedzieli, że przed południem ma iść po syna. Zaproponowała, by przy drugiej kontroli został z nami człowiek, który codziennie czyści kanał poniżej wagi. Zanim go poprosiłam, zapytała pozostałych, czy im to odpowiada. Jeden od razu przypomniał sobie, że wczoraj chłopak od kanału musiał zawrócić, bo przy rowie stały już wozy.
 
-Baret pokazał mi, gdzie wpisać zlecenie oględzin, żeby kasjer mógł wypłacić czas pracy. Dopisałam Edę i człowieka od kanału. Swoje nazwisko zostawiłam pod decyzją o wstrzymaniu rampy. Baret przybił na dole datę i zabrał odpis do wagi. Woźnica jeszcze tam stał. Dosłyszałam, że zaczęli od ceny za podjazd.
+Baret pokazał mi, gdzie wpisać zlecenie oględzin, żeby kasjer mógł wypłacić czas pracy. Dopisałam Edę i człowieka od kanału. Sama podpisałam decyzję o wstrzymaniu rampy. Baret przybił na dole datę i zabrał odpis do wagi. Woźnica jeszcze tam stał. Dosłyszałam, że zaczęli od ceny za podjazd.
 
 ## Pierwszy wóz
 

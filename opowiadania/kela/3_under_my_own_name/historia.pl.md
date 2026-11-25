@@ -1,4 +1,4 @@
-# Pod własnym nazwiskiem
+# Pod własnym imieniem
 
 ## Szerokość dwóch stóp
 
@@ -32,11 +32,11 @@ Z wozu zeszłam z odciskiem na kolanie, bo na ostatnim postoju zasnęłam przy t
 
 Przy drzwiach dali mi formularz z dwoma polami. W pierwszym należało podać krainę, w drugim wariant. Spytałam, gdzie mogę zostawić odpis z Kamiennego Progu. Człowiek po drugiej stronie stołu wskazał osobne biuro. Wzięłam formularz i poszłam tam, póki jeszcze przyjmowali.
 
-Pisarz znalazł moje wcześniejsze pismo. Rokan zdążył je oddać. W rubryce z nazwiskiem było moje. Pisarz pokazał mi papier przeznaczony do akt i przeczytał, że załoga chce sama wyznaczać swoich ludzi do oględzin. Dodał, że decyzja o tym postulacie tutaj nie zapadnie.
+Pisarz znalazł moje wcześniejsze pismo. Rokan zdążył je oddać. W rubryce dla osoby składającej pismo widniało moje imię. Pisarz pokazał mi papier przeznaczony do akt i przeczytał, że załoga chce sama wyznaczać swoich ludzi do oględzin. Dodał, że decyzja o tym postulacie tutaj nie zapadnie.
 
 — Wiem. Chcę dołączyć coś, co da się przeczytać bez pytania, ile u nas trwa praca.
 
-Podsunęłam mu opis rampy i kartę rozliczenia. Pokazałam nazwisko Edy przy oględzinach, a pod nim moje przy decyzji o zamknięciu. Pisarz spytał, czy chcę dołączyć oryginał. Oddałam odpis. Oryginał został przy wadze, gdzie człowiek od kanału miał dopisać wynik kolejnych oględzin.
+Podsunęłam mu opis rampy i kartę rozliczenia. Pokazałam imię Edy przy oględzinach, a pod nim moje przy decyzji o zamknięciu. Pisarz spytał, czy chcę dołączyć oryginał. Oddałam odpis. Oryginał został przy wadze, gdzie człowiek od kanału miał dopisać wynik kolejnych oględzin.
 
 ## Dwa pola
 

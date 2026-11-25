@@ -32,7 +32,7 @@ Zamknęłam komorę. Poprosiłam ich, żeby poszli ze mną do dwóch osad najbli
 
 Późna jesień, 9 ET · Droga nad rzeką, okolice Korzennej Przystani, Verdan
 
-Na skraju drogi natknęliśmy się na kobietę wracającą z pustymi workami. Zeszła z wozu, żeby nas przepuścić pod wierzbami. Poznałam ją. W spichlerzu podpisywała się zawsze całym nazwiskiem, nawet gdy za nią stało piętnaście osób.
+Na skraju drogi natknęliśmy się na kobietę wracającą z pustymi workami. Zeszła z wozu, żeby nas przepuścić pod wierzbami. Poznałam ją. W spichlerzu zawsze starannie wypisywała swoje imię, nawet gdy za nią stało piętnaście osób.
 
 — Pani radna — powiedziała. — Mleka pani nie trzeba?
 
@@ -66,4 +66,4 @@ Po zważeniu worków rozdzieliliśmy kopie. Woźniczka wzięła swoją i poprosi
 
 — Mogę ja — powiedział młynarz. — I tak jestem pierwszy przy wadze.
 
-Spytałam pisarza, czy ma jeszcze jedną kartę wydania. Wpisałam na niej godzinę, dwa nazwiska i miejsce na podpis woźniczki. Potem oddałam młynarzowi klucz. Sprawdził go raz w drzwiach i wrócił ze mną pod wóz. Uchwycił pierwszy worek z drugiej strony, żebym nie musiała przyciskać go brodą do piersi.
+Spytałam pisarza, czy ma jeszcze jedną kartę wydania. Wpisałam na niej godzinę i dwa imiona. Zostawiłam miejsce na podpis woźniczki. Potem oddałam młynarzowi klucz. Sprawdził go raz w drzwiach i wrócił ze mną pod wóz. Uchwycił pierwszy worek z drugiej strony, żebym nie musiała przyciskać go brodą do piersi.

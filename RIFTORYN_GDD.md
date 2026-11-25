@@ -1009,7 +1009,7 @@ Kamieniarka uczyła się oceny skały u Rokana. Podczas ratowania Bareta wybrał
 
 **Kierunek projektowy.** Kela jako Specjalistka Ziemi zabezpiecza na krótko wąski pas na niestabilnym podłożu, opierając go o pewny grunt. W opowiadaniu podtrzymuje w ten sposób fragment przejścia podczas przenoszenia wody. Na arenie kierunek do prototypu to wyznaczenie chwilowej drogi dla drużyny i decyzja, kiedy ją puścić.
 
-**Trylogia zatwierdzona literacko.** Kela ma 24 lata w 12 ET. Najpierw zostaje w Kamiennym Progu, a po pierwszej zmianie zmienia zdanie i jedzie do Val Meris. 28 maja zgłasza Kharum po stronie wspólnego nadzoru. Wynik kwalifikacji pozostaje otwarty. [Pierwsza zmiana](opowiadania/kela/1_first_shift/historia.pl.md) · [Kto stanie przy ścianie](opowiadania/kela/2_who_stands_at_the_wall/historia.pl.md) · [Pod własnym nazwiskiem](opowiadania/kela/3_under_my_own_name/historia.pl.md)
+**Trylogia zatwierdzona literacko.** Kela ma 24 lata w 12 ET. Najpierw zostaje w Kamiennym Progu, a po pierwszej zmianie zmienia zdanie i jedzie do Val Meris. 28 maja zgłasza Kharum po stronie wspólnego nadzoru. Wynik kwalifikacji pozostaje otwarty. [Pierwsza zmiana](opowiadania/kela/1_first_shift/historia.pl.md) · [Kto stanie przy ścianie](opowiadania/kela/2_who_stands_at_the_wall/historia.pl.md) · [Pod własnym imieniem](opowiadania/kela/3_under_my_own_name/historia.pl.md)
 
 ### Heda
 

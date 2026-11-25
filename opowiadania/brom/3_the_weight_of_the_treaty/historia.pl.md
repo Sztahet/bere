@@ -40,7 +40,7 @@ Wyszedłem ostatni. Na bezpiecznym odcinku młody, który wcześniej pytał o st
 
 — To wystarczyło, żebyście wyszli. Do dalszej pracy potrzebujecie prawdziwych podpór.
 
-Zrobił krok do tyłu. Kiran odgrodziła wejście i wzięła od Neli nazwiska ludzi, którzy byli w środku. Spytała też mnie, co słyszałem i kiedy. Zapisała nasze zeznania i nakazała obejrzeć sąsiednie przejścia przed wznowieniem robót.
+Zrobił krok do tyłu. Kiran odgrodziła wejście i poprosiła Nelę o imiona ludzi, którzy byli w środku. Spytała też mnie, co słyszałem i kiedy. Zapisała nasze zeznania i nakazała obejrzeć sąsiednie przejścia przed wznowieniem robót.
 
 Nela podała mi lampę, żebym mógł zetrzeć piach z rąk w jej świetle.
 
