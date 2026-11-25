@@ -103,7 +103,7 @@ Numery R01–R10 odnoszą się do korytarzy na mapie kontynentu. Kolejne numery 
 - **R12 — dolna droga w Nivoren** · dolny posterunek (N05) i dojazd wozów z doliny do osady. Ruvan porównuje warianty dostaw. Po pierwszej odwilży tą drogą wracają leki i zapasy. [To, czego nie nauczył mnie Ruvan][saila3]
 - **R13 — dolna droga pod przełęczą** · zejście wskazane przez Ruvana → magazyn Tovina i okolica → gospoda (N09) → dolny trakt. Na tym trakcie Piecarius dołącza do transportu części na areny. Nocten także odwiedza gospodę 19 maja 12 ET. Tożsamość tej drogi z R12 pozostaje otwarta. [Ślady w popiele][piecarius2] · [Pierwsza lekcja][nocten3]
 - **R14 — dolny trakt → Val Meris** · z okolicy N09 w stronę M01. Transport ma ruszyć rankiem po 19 maja. Piecarius dociera wieczorem 26 maja 12 ET. Pośrednie postoje pozostają nieustalone. [Ślady w popiele][piecarius2] · [Przysięga z księgi ojca][piecarius3]
-- **R15 — kurs Vedy w Kharum** · oberża (K02) → chata Orena (K03) → droga i przeprawa na skraju lasu (K04) → górna osada z pompą (K05). [Księga bez autora][piecarius1]
+- **R15 — kurs Vedy w Kharum** · oberża (K02) → chata Gorena (K03) → droga i przeprawa na skraju lasu (K04) → górna osada z pompą (K05). [Księga bez autora][piecarius1]
 - **R16 — wyjazd Lucena z Zerath** · Iglica Zerath → szlak i postój wozów → rozwidlenie przy składzie → brama Aurelu. Opowiadanie potwierdza przebieg w 4 PT w tej kolejności. [Z tego, co ocalało][lucen1]
 - **R17 — szlak pod Aurelem** · odcinek z rozwidleniem, zamkniętym brodem, kładką i oznaczonym objazdem. Lucen i przewodnik zabezpieczają przejazd wozów jesienią 11 ET. [Nie przeciwko tobie][lucen3]
 - **R18 — droga w dolinie Verdan** · przepust i objazd dla wozów, z osobną górną ścieżką dla pieszych za zgodą gospodarzy. To szlak lokalny, którego przebieg opisuje Eron. [Przez cudze pole][eron]
@@ -204,13 +204,13 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 @ K01 KAMIENNY PROG ===== [R07 -> VAL MERIS]
   +-- K06 Wyrobiska i place warsztatowe
 
-[R15]  ! K02 Oberza --- K03 Chata Orena --- K04 Przeprawa --- o K05 Gorna osada
+[R15]  ! K02 Oberza --- K03 Chata Gorena --- K04 Przeprawa --- o K05 Gorna osada
 ~~~
 
 - **K01 [K/G]** — Kamienny Próg, miasto górnicze. **K06 [K/G]** obejmuje wyrobiska i place warsztatowe. **Kamienny Krąg [G]** to arena w pobliżu wyrobisk. [Kharum w historii świata][kharum] · [GDD][gdd]
 - **Dojazd do K06 [O]** · krótszy odcinek pod skalną półką ma południowy wjazd i północny wylot. Górna droga prowadzi do tego samego zespołu wyrobisk i służy za objazd podczas zamknięcia dolnego odcinka. [Dłuższa droga][rokan2]
 - **Droga przy sadzie [O]** · miejscowy odcinek dojazdu w Kamiennym Progu, przy dawnym podwórzu koniuszym Ildy. Przy dolnym zakręcie są sad i przepust. Miedza po zewnętrznej stronie sadu prowadzi od przepustu do lasu. [Od strony sadu][ilda1]
-- **K02 [O]** — oberża w Kharum, w której Piecarius poznaje Vedę. Osada i nazwa lokalu pozostają otwarte. **K03–K05 [O]** — chata Orena na skraju lasu, przeprawa i trudny odcinek z koleiną oraz bezimienna górna osada z pompą. Tekst pozwala ustalić kolejność na trasie, a położenie względem Kamiennego Progu pozostaje otwarte. [Księga bez autora][piecarius1]
+- **K02 [O]** — oberża w Kharum, w której Piecarius poznaje Vedę. Osada i nazwa lokalu pozostają otwarte. **K03–K05 [O]** — chata Gorena na skraju lasu, przeprawa i trudny odcinek z koleiną oraz bezimienna górna osada z pompą. Tekst pozwala ustalić kolejność na trasie, a położenie względem Kamiennego Progu pozostaje otwarte. [Księga bez autora][piecarius1]
 - **K07 [?]** — szlak kopalniany pod Kamiennym Progiem w rękopisie Broma. Przejście prowadzi pod górą w stronę osad, a jego przebieg pozostaje do zatwierdzenia. [Kamień, którego nie oddaliśmy](opowiadania/brom/1_the_stone_we_kept/historia.pl.md#ostatni-wóz)
 - **K08 [?]** — skład południowy w Kamiennym Progu w rękopisie Broma. Obsługuje miejscowych przewoźników oraz wspólne konwoje. [Jedna kraina, wiele głosów](opowiadania/brom/2_one_land_many_voices/historia.pl.md#dwa-dni-w-tygodniu)
 

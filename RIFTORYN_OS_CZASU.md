@@ -240,8 +240,8 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **28 marca, 12 ET · droga przy sadzie, Kamienny Próg, Kharum** — **Ukruszony kieł** — Ilda, Dara — [`źródło`](opowiadania/ilda/1_from_the_orchard/historia.pl.md)
 - **30 marca, 12 ET · droga przy sadzie, Kamienny Próg, Kharum** — **Dopóki nie odejdą** — Ilda — [`źródło`](opowiadania/ilda/1_from_the_orchard/historia.pl.md)
 - **1 kwietnia, 12 ET · podwórze Ildy, Kamienny Próg, Kharum** — **Po której stronie** — Ilda, Dara — [`źródło`](opowiadania/ilda/1_from_the_orchard/historia.pl.md)
-- **8 kwietnia, 12 ET · chata Orena, Kharum** — **Stary kamień** — Piecarius, Veda — [`źródło`](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)
-- **8 kwietnia, 12 ET · chata Orena, Kharum** — **List dla Orena** — Veda, Piecarius — [`źródło`](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md)
+- **8 kwietnia, 12 ET · chata Gorena, Kharum** — **Stary kamień** — Piecarius, Veda — [`źródło`](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)
+- **8 kwietnia, 12 ET · chata Gorena, Kharum** — **List dla Gorena** — Veda, Piecarius — [`źródło`](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md)
 - **8 kwietnia, 12 ET · droga do górnej osady w Kharum** — **Na drodze** — Piecarius, Veda — [`źródło`](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)
 - **8 kwietnia, 12 ET · droga do górnej osady w Kharum** — **Przy kole** — Veda, Piecarius — [`źródło`](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md)
 - **8 kwietnia, 12 ET · górna osada w Kharum** — **Księga** — Piecarius, Lumen, Veda — [`źródło`](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)
@@ -727,8 +727,8 @@ Nie znaleziono sekcji bez daty.
 
 ### Piecarius
 
-- **8 kwietnia, 12 ET · chata Orena, Kharum** — Stary kamień — [`źródło`](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)
-- **8 kwietnia, 12 ET · chata Orena, Kharum** — List dla Orena — [`źródło`](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md)
+- **8 kwietnia, 12 ET · chata Gorena, Kharum** — Stary kamień — [`źródło`](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)
+- **8 kwietnia, 12 ET · chata Gorena, Kharum** — List dla Gorena — [`źródło`](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md)
 - **8 kwietnia, 12 ET · droga do górnej osady w Kharum** — Na drodze — [`źródło`](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)
 - **8 kwietnia, 12 ET · droga do górnej osady w Kharum** — Przy kole — [`źródło`](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md)
 - **8 kwietnia, 12 ET · górna osada w Kharum** — Księga — [`źródło`](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)
@@ -960,8 +960,8 @@ Nie znaleziono sekcji bez daty.
 - **Jesień, 11 ET · Aurel** — Pusty wóz — [`źródło`](opowiadania/veda/1_what_the_road_keeps/historia.pl.md)
 - **Jesień, 11 ET · Aurel** — Zapis przy pieczęci — [`źródło`](opowiadania/veda/1_what_the_road_keeps/historia.pl.md)
 - **Jesień, 11 ET · skład w Aurelu** — Kobieta w rękawicy — [`źródło`](opowiadania/veda/1_what_the_road_keeps/historia.pl.md)
-- **8 kwietnia, 12 ET · chata Orena, Kharum** — Stary kamień — [`źródło`](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)
-- **8 kwietnia, 12 ET · chata Orena, Kharum** — List dla Orena — [`źródło`](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md)
+- **8 kwietnia, 12 ET · chata Gorena, Kharum** — Stary kamień — [`źródło`](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)
+- **8 kwietnia, 12 ET · chata Gorena, Kharum** — List dla Gorena — [`źródło`](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md)
 - **8 kwietnia, 12 ET · droga do górnej osady w Kharum** — Na drodze — [`źródło`](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)
 - **8 kwietnia, 12 ET · droga do górnej osady w Kharum** — Przy kole — [`źródło`](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md)
 - **8 kwietnia, 12 ET · górna osada w Kharum** — Księga — [`źródło`](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)

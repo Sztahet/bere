@@ -46,27 +46,27 @@ Nie dodałam, że od jakiegoś czasu liczyłam również ludzi, którzy zjadą d
 
 Piecarius spojrzał na kosz z gruszkami. Obiecałam mu dwie po pracy, jeśli dowiezie nas bezpiecznie.
 
-## List dla Orena
+## List dla Gorena
 
-8 kwietnia, 12 ET · chata Orena, Kharum
+8 kwietnia, 12 ET · chata Gorena, Kharum
 
-Oren nie lubił, kiedy zastawiałam wozem drogę do drewutni. Zatrzymaliśmy konie dalej, a ja zaniosłam mu list od siostry. Jorek został na koźle. Piecarius podążył za mną, bo gospodarz miał na drzwiach stary znak przedstawiający ptaka.
+Goren nie lubił, kiedy zastawiałam wozem drogę do drewutni. Zatrzymaliśmy konie dalej, a ja zaniosłam mu list od siostry. Jorek został na koźle. Piecarius podążył za mną, bo gospodarz miał na drzwiach stary znak przedstawiający ptaka.
 
-Oren poprosił, żebym przeczytała list na głos. Siostra pisała o narodzinach wnuka, cieknącym dachu i cebuli, która tej wiosny zmarniała. Kiedy doszłam do imienia dziecka, kazał mi je powtórzyć. Potem poprosił o cały list jeszcze raz.
+Goren poprosił, żebym przeczytała list na głos. Siostra pisała o narodzinach wnuka, cieknącym dachu i cebuli, która tej wiosny zmarniała. Kiedy doszłam do imienia dziecka, kazał mi je powtórzyć. Potem poprosił o cały list jeszcze raz.
 
-Jorek odwrócił się na koźle i wskazał chmury nad lasem. Nie przyspieszyłam. List miał jedną stronę, a Oren czekał na wiadomość od siostry dłużej niż my na dobrą pogodę.
+Jorek odwrócił się na koźle i wskazał chmury nad lasem. Nie przyspieszyłam. List miał jedną stronę, a Goren czekał na wiadomość od siostry dłużej niż my na dobrą pogodę.
 
-Piecarius w tym czasie oglądał kamień przy drodze. Oren powiedział, że przeniesiono go po osunięciu ziemi i że kiedyś ludzie z kuźni spotykali się właśnie przy nim. Ktoś nazywał wyryty znak płonącą kurą.
+Piecarius w tym czasie oglądał kamień przy drodze. Goren powiedział, że przeniesiono go po osunięciu ziemi i że kiedyś ludzie z kuźni spotykali się właśnie przy nim. Ktoś nazywał wyryty znak płonącą kurą.
 
 Piecarius spojrzał na własną broszę. Spodziewałam się wykładu o ptakach. Zamiast tego wyjął księgę i zaczął odrysowywać znak.
 
-— Kogo pan szuka? — zapytał Oren.
+— Kogo pan szuka? — zapytał Goren.
 
 — Chciałbym wiedzieć, skąd mój ojciec miał tę księgę.
 
 Pierwszy raz tego dnia usłyszałam, żeby Piecarius powiedział coś o sobie bez przedstawiania całego Bractwa.
 
-Oren schował list do fartucha. Poprosił, żebym kiedyś zabrała odpowiedź dla siostry. Nie obiecałam terminu, bo następny kurs zależał od ładunku. Powiedziałam tylko, gdzie może zostawić list, jeśli nie będzie mnie w Kharum.
+Goren schował list do fartucha. Poprosił, żebym kiedyś zabrała odpowiedź dla siostry. Nie obiecałam terminu, bo następny kurs zależał od ładunku. Powiedziałam tylko, gdzie może zostawić list, jeśli nie będzie mnie w Kharum.
 
 Kiedy odjeżdżaliśmy, znów wyjął kartkę, żeby odnaleźć imię wnuka. Piecarius nie spytał już o kamień.
 
@@ -74,7 +74,7 @@ Kiedy odjeżdżaliśmy, znów wyjął kartkę, żeby odnaleźć imię wnuka. Pie
 
 8 kwietnia, 12 ET · droga do górnej osady w Kharum
 
-Za chatą Orena droga zwężała się między lasem a rowem. Jorek zwolnił przed zakrętem. Zobaczyłam człowieka z siekierą stojącego przed końmi, a chwilę później drugiego przy koźle. Trzeci został za wozem.
+Za chatą Gorena droga zwężała się między lasem a rowem. Jorek zwolnił przed zakrętem. Zobaczyłam człowieka z siekierą stojącego przed końmi, a chwilę później drugiego przy koźle. Trzeci został za wozem.
 
 — Skrzynię zdejmijcie — powiedział ten najbliżej mnie.
 

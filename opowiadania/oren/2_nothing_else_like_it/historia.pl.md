@@ -48,6 +48,8 @@ Przyłożyłem zapasową osłonę do korpusu mojej nowej latarni. Trzymała się
 
 Podniosłem panel z końmi. Ten bliżej brzegu miał wciąż łeb w takim miejscu, o jakie spieraliśmy się w Żarowisku. Zdjąłem mu odrobinę pod żuchwą i wciąż lubiłem na niego patrzeć. Kiedy kupujący prosił o pokwitowanie zaliczki, powiedziałem mu, że zobaczy gotową latarnię przed wyjazdem. Nie umówiłem się z nim na sam korpus, bez osłony i bez zapasu.
 
+Wyjąłem oba mocowania, po czym jedno odłożyłem z powrotem do skrzyni. Próbowałem obliczyć, czy zdołam wykuć dwa nowe przez noc i zdążyć z własną latarnią. Po ostatniej takiej nocy ręka drżała mi przy pierwszym nicie. Sięgnąłem do skrzyni jeszcze raz. Mocowanie było już dopasowane do panelu z końmi. Przyłożyłem je na próbę, choć przez ostatni tydzień sprawdzałem to codziennie.
+
 — Jeżeli rozłożę ci obie, będziesz musiał wrócić na noc — powiedziałem. — Sam będę miał jutro za mało rąk do trzymania tych pudeł.
 
 Solan rozwiązał worek, który dopiero co zawiązał. Położył na stole rzemień, szmatę i obydwa pierścienie zdjęte z latarni. Poprosił, żebym mu pokazał, co może najpierw wyczyścić. Na osłonie od ryb został tłusty ślad po dotykaniu ręką w ciemności. Powiedziałem, żeby wytarł wszystko wokół nitu i zobaczył, czy nie ma pod nim drugiej rysy. Mógł oczyścić ten jeden brzeg. W tym czasie ja policzę, ile jestem winien odbiorcy, jeśli oddam mu całe zamówienie.

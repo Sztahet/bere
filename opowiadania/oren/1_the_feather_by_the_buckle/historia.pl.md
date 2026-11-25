@@ -2,7 +2,7 @@
 
 ## List od siostry
 
-8 kwietnia, 12 ET · rodzinna chata Orena, Kharum
+8 kwietnia, 12 ET · rodzinna chata Gorena, Kharum
 
 Do Kharum przyjechałem otworzyć dom po zimie. Znalazłem pod stołem cztery nadgryzione orzechy i kawałek sznurka, który myszy wyciągnęły mi z zamkniętej szuflady. Zostawiłem im orzechy. Sznurek zabrałem, bo do wiosennej drogi wziąłem za mało. Właśnie wynosiłem z sieni płachtę, kiedy Veda zatrzymała wóz pod lasem. Pamiętała, żeby zostawić przejazd do drewutni. Mężczyzna, który podszedł za nią, przydepnął mi brzeg płachty, zanim zdążył się przedstawić.
 
@@ -20,7 +20,11 @@ Siostra zaklejała listy skrawkami papieru. Ten był szary w drobne niebieskie p
 
 Siostra doczekała się wnuka. Dach znów przeciekał. Cebula tej wiosny do niczego. Wypisała to wszystko blisko siebie, żebym pewnie mógł się martwić o trzy rzeczy naraz. Poprosiłem Vedę, żeby powtórzyła imię dziecka, a potem przeczytała list od początku. Za drugim razem próbowałem ustalić, w którym miejscu padło imię. Poruszałem ustami za Vedą i spóźniłem się tak, że przy cebuli wciąż byłem przy dachu.
 
-Pod lasem Jorek wskazał chmury nad zakrętem drogi. Mieli do górnej osady jeszcze przeprawę. Veda doczytała do końca. Piecarius tymczasem odgarnął mech ze słupa przy drodze i chciał wiedzieć, czy zawsze tam stał. Opowiedziałem mu o osunięciu i o tym, że kiedyś zbieraliśmy się przy tym kamieniu po pracy. Ktoś mówił na wyryty znak „płonąca kura”.
+Pod lasem Jorek wskazał chmury nad zakrętem drogi. Mieli do górnej osady jeszcze przeprawę. Veda doczytała do końca i oddała mi list. Piecarius tymczasem odgarnął mech ze słupa przy drodze.
+
+— Ten słup zawsze tu stał? — zapytał.
+
+— Leżał przy starej drodze. Przenieśli go po osunięciu. Jak byłem chłopcem, czekaliśmy przy nim na siebie po robocie w kuźni. Jeden mówił na ten znak „płonąca kura”.
 
 — Pamięta pan, kto?
 
@@ -38,7 +42,7 @@ Poprosiłem Vedę, żeby zabrała odpowiedź, kiedy będzie mogła. Pokazała mi
 
 ## Zbroja z ryciny
 
-Wiosna, 6 ET · kuźnia Orena w Żarowisku Vareth
+Wiosna, 6 ET · kuźnia Gorena w Żarowisku Vareth
 
 Przyszedł do mnie kiedyś jakiś dzieciak z księgą pod pachą. Otworzył ją na ławie i przytrzymał obie strony, bo oprawa ściągała je do środka. Pomyślałem, że przyniósł rysunek z bajki. Rycerz miał na sobie purpurowe płyty ze złotymi brzegami. Kołnierz sięgał mu po uszy. W takim nie zdołałbym się obejrzeć przez ramię. Na napierśniku feniks rozpościerał ogniste skrzydła od barku do barku.
 
@@ -72,7 +76,7 @@ Został jeszcze chwilę przed blachą. Wziąłem młotek i zacząłem wybijać w
 
 ## Koń na czterech nogach
 
-Wieczór 8 kwietnia, 12 ET · rodzinna chata Orena, Kharum
+Wieczór 8 kwietnia, 12 ET · rodzinna chata Gorena, Kharum
 
 Przy palenisku oparłem list o rząd starych wzorników. Żeby wydobyć zamówienie na latarnię, przełożyłem kurek do beczki i rysunek zamka, którego już nikt ode mnie nie odbierze. Na najniższej półce leżała sprzączka z jaskółką. Ktoś przed laty oferował za nią dwa razy tyle, ile bym wziął za zwykłą. Zaprosiłem go, żeby przyszedł ją sobie jeszcze raz obejrzeć. Od tamtej pory sprzączka leżała w tym samym miejscu. Czasem, kiedy tu wracałem, zapinałem ją na jeden dzień i wspinałem się po drewno tak ostrożnie, że wracałem z połową tego, co mogłem zabrać.
 
@@ -84,7 +88,7 @@ W palenisku zostało tyle żaru, że udało mi się zagrzać kawałek żelaza pr
 
 ## Czwarty wariant uchwytu
 
-20 maja, 12 ET · kuźnia Orena w Żarowisku Vareth
+20 maja, 12 ET · kuźnia Gorena w Żarowisku Vareth
 
 Solan miał przyjść po uchwyt do swojej latarni. Przyniósł chleb z cebulą i powiedział, że to na znak, iż sobie razem usiądziemy. Wiedział, że gdyby powiedział „przerwa”, zacząłbym mu tłumaczyć, ile mi jeszcze zostało.
 

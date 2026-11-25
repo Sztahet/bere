@@ -8,7 +8,7 @@
 
 8 kwietnia, 12 ET · Kharum
 
-Poranek nie należał do najłaskawszych dla mojej sakiewki. Mapa okazała się droższa, niż zapewniał sprzedawca, a cynamonowy olejek, któremu nie potrafiłem się oprzeć, pochłonął resztę rozsądku. Zostało mi jakieś półtora selena w monecie i drobnych, a do tego rachunek za nocleg, którego oberżysta najwyraźniej nie zamierzał puścić w niepamięć.
+Poranek nie należał do najłaskawszych dla mojej sakiewki. Mapa okazała się droższa, niż zapewniał sprzedawca, a cynamonowy olejek, któremu nie potrafiłem się oprzeć, pochłonął resztę rozsądku. Zostało mi jakieś półtora selena w monecie i drobnych, a do tego rachunek za nocleg, którego oberżysta najwyraźniej nie zamierzał puścić w niepamięć. A przecież przed laty umiałem odkładać. Przez cztery lata pracy przy składach w Żarowisku brałem dodatkowe rozładunki, aż wreszcie miałem dość na zbroję z księgi.
 
 — Ładny zapach — rzucił, kiedy odliczałem monety. — Cynamon?
 
@@ -80,11 +80,11 @@ Od rana czekałem na kogoś, kto będzie wiedział, na co patrzy.
 
 Przyznałem mu rację. Gdybym chciał, żeby emblemat wymagał długich objaśnień, kazałbym namalować same płomienie.
 
-Gospodarz miał na imię Oren. Odebrał list dłońmi poznaczonymi oparzeniami, obrócił kartkę w palcach i poprosił Vedę, żeby mu przeczytała. Siostra pisała, że doczekała się wnuka, dach znów przecieka, a cebula w tym roku do niczego. Kiedy Veda skończyła, Oren poprosił, żeby powtórzyła imię dziecka. Przy drugim czytaniu poruszał ustami razem z nią.
+Gospodarz miał na imię Goren. Odebrał list dłońmi poznaczonymi oparzeniami, obrócił kartkę w palcach i poprosił Vedę, żeby mu przeczytała. Siostra pisała, że doczekała się wnuka, dach znów przecieka, a cebula w tym roku do niczego. Kiedy Veda skończyła, Goren poprosił, żeby powtórzyła imię dziecka. Przy drugim czytaniu poruszał ustami razem z nią.
 
 Czekając przy drodze, zobaczyłem kamienny słup, niższy od koła naszego wozu. Odgarnąłem mech. Na kamieniu były dwa wygięte nacięcia, oba ostro zakończone. Między nimi biegła krótka rysa. Jeśli patrzyłem z boku, widziałem skrzydła i dziób. Kiedy pochyliłem się niżej, dziób kończył się zwyczajną szczerbą.
 
-— Ten słup zawsze tu stał? — zapytałem, gdy Veda oddała Orenowi list.
+— Ten słup zawsze tu stał? — zapytałem, gdy Veda oddała Gorenowi list.
 
 — Leżał przy starej drodze. Przenieśli go po osunięciu. Jak byłem chłopcem, czekaliśmy przy nim na siebie po robocie w kuźni. Jeden mówił na ten znak „płonąca kura”.
 
@@ -92,23 +92,23 @@ Czekając przy drodze, zobaczyłem kamienny słup, niższy od koła naszego wozu
 
 — Pamiętam, że ukradł mi rękawice. Imię mi wyleciało.
 
-Spojrzałem na swój napierśnik. Przed wyjazdem wypolerowałem każde pióro osobno. Chciałem mu wyjaśnić różnicę między feniksem a kurą. Oren zdążył już znów spojrzeć na list.
+Spojrzałem na swój napierśnik. Przed wyjazdem wypolerowałem każde pióro osobno. Chciałem mu wyjaśnić różnicę między feniksem a kurą. Goren zdążył już znów spojrzeć na list.
 
 Odwinąłem płótno i otworzyłem księgę na stronie, od której ojciec zaczynał czytać. Nad inicjałem rozpościerały się skrzydła. *Niech płomień prowadzi, a popiół przypomina*. Ojciec czytał te słowa zawsze wolniej od następnego zdania. Ja też tak je czytam, nawet po cichu.
 
-Przyłożyłem kartkę do kamienia i odrysowałem nacięcia. Dziób wyszedł mi nadzwyczaj zgrabnie. Oren nachylił się nad moim ramieniem. Zanim zdążył go zobaczyć, starłem kciukiem ostatnią kreskę i zaznaczyłem szczerbę tak, jak ją widziałem z bliska.
+Przyłożyłem kartkę do kamienia i odrysowałem nacięcia. Dziób wyszedł mi nadzwyczaj zgrabnie. Goren nachylił się nad moim ramieniem. Zanim zdążył go zobaczyć, starłem kciukiem ostatnią kreskę i zaznaczyłem szczerbę tak, jak ją widziałem z bliska.
 
 — Kogo pan szuka? — zapytał.
 
-Miałem gotową odpowiedź o dawnych rycerzach i zaszczytnej sprawie. Ułożyłem ją sobie jeszcze przed zakupem zbroi. Na progu Orena wystarczyłoby powiedzieć ją tak, jak ją sobie tyle razy powtarzałem.
+Miałem gotową odpowiedź o dawnych rycerzach i zaszczytnej sprawie. Ułożyłem ją sobie jeszcze przed zakupem zbroi. Na progu Gorena wystarczyłoby powiedzieć ją tak, jak ją sobie tyle razy powtarzałem.
 
 — Chciałbym wiedzieć, skąd mój ojciec miał tę księgę.
 
-Oren złożył list i wsunął go do kieszeni fartucha. Gdy wsiadałem na wóz, wyjął kartkę z powrotem. Próbował sam odnaleźć imię wnuka. Schowałem ołówek i dałem mu spokój.
+Goren złożył list i wsunął go do kieszeni fartucha. Gdy wsiadałem na wóz, wyjął kartkę z powrotem. Próbował sam odnaleźć imię wnuka. Schowałem ołówek i dałem mu spokój.
 
 ### Na drodze
 
-Za chatą Orena las podchodził pod samą drogę. Po drugiej stronie ciągnął się rów. Siedziałem na tylnej burcie z odrysem na kolanach. Chciałem dopisać przy szczerbie, pod jakim kątem właściwie ją widziałem, ale Jorek szarpnął lejce i uderzyłem łokciem o deski.
+Za chatą Gorena las podchodził pod samą drogę. Po drugiej stronie ciągnął się rów. Siedziałem na tylnej burcie z odrysem na kolanach. Chciałem dopisać przy szczerbie, pod jakim kątem właściwie ją widziałem, ale Jorek szarpnął lejce i uderzyłem łokciem o deski.
 
 Przed końmi stał człowiek z siekierą. Drugi przeszedł wzdłuż zaprzęgu od strony lasu i zatrzymał się pod kozłem. Obejrzałem się. Za wozem, na środku drogi, trzeci trzymał nóż opuszczony wzdłuż uda. Wybrali sobie miejsce z pewną znajomością rzeczy. Chętnie powiedziałbym im, co sądzę o takim używaniu talentu, gdybym mógł patrzeć na całą trójkę naraz.
 
