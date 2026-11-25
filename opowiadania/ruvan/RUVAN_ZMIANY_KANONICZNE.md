@@ -42,7 +42,8 @@ Podstawa — [splotyt, koszty ładowania i granice urządzeń](../../world_histo
 
 ### Wątek Nivy
 
-- **Niva — propozycja w jej odrębnej trylogii.** Późną jesienią 11 ET widzi Ruvana wchodzącego pod rumowisko i z zewnątrz dostrzega nieruchomego Ivera przy chodniku. 28 maja 12 ET, po rozmowie Ruvana z Serą, dowiaduje się od niego, że w komorze czas zatrzymał się dla czworga ludzi. Niva pozostaje świadkiem, a Ruvan dalej odpowiada za wejście i badania. Rozmowa z Serą po porannej zmianie nadal czeka Ruvana. [Obserwacja Nivy](../niva/2_the_last_one_up/historia.pl.md#światło-przy-wnęce) · [Rozmowa w Val Meris](../niva/3_wait_for_my_sign/historia.pl.md#czworo)
+- **Niva — propozycja w jej odrębnej trylogii.** Późną jesienią 11 ET widzi z zewnątrz człowieka, którego kojarzy z Iverem, strażnikiem szlaku znanym jej z dzieciństwa. 28 maja 12 ET w Val Meris, gdy martwi się o to, kto podczas wyjazdu Ruvana czuwa przy wejściu, słyszy od niego potwierdzenie tożsamości Ivera i dowiaduje się, że w komorze czas zatrzymał się dla czworga ludzi. [Obserwacja Nivy](../niva/2_the_last_one_up/historia.pl.md#światło-przy-wnęce) · [Rozmowa w Val Meris](../niva/3_wait_for_my_sign/historia.pl.md#czworo)
+- **Sera i Eira.** Sera pomaga przy przyrządzie w 7 ET. Przy bramie 28 maja 12 ET słyszy o czterech odbiorach, po czym umawia się z Ruvanem na omówienie pomiarów po porannej zmianie 29 maja. W pokazanych scenach Ruvan nie ujawnia jej, kogo dotyczą odczyty. Eira od Nocy wie o czworgu odciętych. Przy odwilży 12 ET widzi szczelinę i drabinę, a 28 maja mija Ruvana w Val Meris. W obu scenach pozostaje bez wiedzy o zatrzymaniu czasu. [Próba przyrządu](2_fifteen_winters/historia.pl.md#łóżko-dla-jednego) · [Rozmowa Sery i Ruvana](3_dont_ask_how_old_i_am/historia.pl.md#formularz) · [Historia Eiry](../eira/EIRA_NOTATKA_REDAKCYJNA.md)
 
 ## 3. Saila i kwalifikacje
 

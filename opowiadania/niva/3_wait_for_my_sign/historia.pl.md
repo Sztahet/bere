@@ -36,15 +36,19 @@ Zapisałam się w urzędzie w barwach Nivoren po stronie wspólnego nadzoru. Zal
 
 Późne popołudnie 28 maja, 12 ET · pod zewnętrzną bramą Val Meris
 
-Zapytałam, czy Iver klęczy tak samo od Nocy. Ruvan spojrzał na ludzi stojących przy bramie. Zeszliśmy pod schody, gdzie z góry słychać było koła, ale nikt nie musiał nas omijać. Nie próbował mnie pytać, skąd znam wejście. Spytał, ile widziałam. Powiedziałam mu o lampie, o wnęce przy chodniku i o człowieku, który patrzył ku dalszej ścianie.
+Skoro Ruvan był w Val Meris, kto został przy wejściu pod magazynem? Żeby go o to zapytać, musiałam mu najpierw powiedzieć, co widziałam. Poprosiłam, żeby odszedł ze mną od bramy. Zeszliśmy pod schody, gdzie z góry słychać było koła, ale nikt nie musiał nas omijać.
 
-— Iver — powiedział. — Czas tam stanął. Jest ich czworo.
+Opowiedziałam mu o lampie i o człowieku, który klęczał we wnęce przy chodniku.
+
+— Czy to był Iver?
+
+— Tak — powiedział. — Czas tam stanął. Jest ich czworo.
 
 Zapytałam, czy wiedzą, że tyle minęło. Potrząsnął głową. Dopiero wtedy powiedział, że kiedy zatrzymał czas pod magazynem, na placu wciąż stali ludzie. Rozdzielacz mógł rozerwać wszystko aż do schodów. Teraz nadal nie wie, co zastanie po przerwaniu zaklęcia. Chciałam zapytać, czemu sam do tego schodzi. Zamiast tego spytałam, kto trzyma drogę od zewnątrz, kiedy wraca.
 
 — Na razie nikt.
 
-Mogłam powiedzieć, że będę tam rano, że znajdę ludzi, że oboje zdążymy na północ, zanim zrobi się ciepło. Miałam już w dłoni kartkę z godziną swoich kwalifikacji. Zapytałam, czego może ode mnie potrzebować, kiedy wrócimy. Powiedział, że kiedy będzie gotów rozmawiać o przejściu, przyjdzie do schronu i poprosi mnie sam. Obiecałam wysłuchać. Nie obiecałam, że kogoś wyprowadzę. Przed odejściem powtórzyłam jeszcze jedno pytanie, bo nie potrafiłam zostawić go bez odpowiedzi.
+Mogłam powiedzieć, że będę tam rano, że znajdę ludzi, że oboje zdążymy na północ, zanim zrobi się ciepło. Miałam już w dłoni kartkę z godziną swoich kwalifikacji. Zapytałam, czego może ode mnie potrzebować, kiedy wrócimy. Powiedział, że kiedy będzie gotów rozmawiać o przejściu, przyjdzie do schronu i poprosi mnie sam. Obiecałam wysłuchać. Nie obiecałam, że kogoś wyprowadzę. Przed odejściem zadałam jeszcze jedno pytanie.
 
 — Kto ma usłyszeć, jeśli zawczasu powiesz, że coś puszcza?
 
