@@ -57,7 +57,7 @@
     "id": "oren",
     "name": "Goren",
     "region": "Vareth",
-    "portrait": null,
+    "portrait": "goren-fire-support.png",
     "series": "Trylogia Gorena",
     "stories": [
       {
