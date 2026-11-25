@@ -405,6 +405,33 @@
     ]
   },
   {
+    "id": "ana",
+    "name": "Ana i Bob",
+    "region": "Verdan",
+    "portrait": "anna-nature-summoner-bob-v3.png",
+    "series": "Trylogia Any i Boba",
+    "stories": [
+      {
+        "id": "kiedy-obeschnie-ziemia",
+        "folder": "opowiadania/ana/1_when_the_ground_dries",
+        "unity": "AnaDraft1",
+        "draft": true
+      },
+      {
+        "id": "nie-pytam-komu",
+        "folder": "opowiadania/ana/2_i_dont_ask_who",
+        "unity": "AnaDraft2",
+        "draft": true
+      },
+      {
+        "id": "bambus-na-caly-rok",
+        "folder": "opowiadania/ana/3_bamboo_for_the_year",
+        "unity": "AnaDraft3",
+        "draft": true
+      }
+    ]
+  },
+  {
     "id": "veda",
     "name": "Veda",
     "region": "Kharum",

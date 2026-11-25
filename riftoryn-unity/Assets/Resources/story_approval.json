@@ -181,6 +181,18 @@
       "draft": false
     },
     {
+      "folder": "AnaDraft1",
+      "draft": true
+    },
+    {
+      "folder": "AnaDraft2",
+      "draft": true
+    },
+    {
+      "folder": "AnaDraft3",
+      "draft": true
+    },
+    {
       "folder": "VedaDraft1",
       "draft": false
     },

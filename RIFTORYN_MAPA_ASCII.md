@@ -94,7 +94,7 @@ Numery R01–R10 odnoszą się do korytarzy na mapie kontynentu. Kolejne numery 
 - **R03 — północny korytarz** · Val Meris ↔ zachodnia strona jeziora ↔ okolice Białego Przesmyku (N01). Połączenie pokazuje przerys. Odcinki górskie mają własny szkic poniżej. [Mapa świata][mapa] · [Biały Przesmyk][przesmyk]
 - **R04 — północno-wschodni korytarz** · Val Meris ↔ wschodnia strona jeziora ↔ Żarowisko Vareth (F01). [Ośrodki w GDD][gdd] · [Mapa świata][mapa]
 - **R05 — wschodni korytarz** · Iglica Zerath (Z01) ↔ Val Meris. Taren jedzie wozem do Val Meris w maju 12 ET. [Po drugiej stronie][taren3]
-- **R06 — południowy korytarz** · Korzenna Przystań (D01) ↔ Val Meris. Thora wyjeżdża w dniu wyboru i dociera pod koniec marca 12 ET. Eron, Liora i Ana z Bobem wyruszają w różnych terminach w maju. [Thora][thora2] · [Eron][eron] · [Liora][liora] · [Ana][ana]
+- **R06 — południowy korytarz** · Korzenna Przystań (D01) ↔ Val Meris. Thora wyjeżdża w dniu wyboru i dociera pod koniec marca 12 ET. Eron i Liora wyruszają w maju. Ana z Bobem ruszają 21 maja i docierają 26 maja 12 ET. [Thora][thora2] · [Eron][eron] · [Liora][liora] · [Bambus na cały rok][ana3]
 - **R07 — południowo-zachodni korytarz** · Kamienny Próg (K01) ↔ okolice Val Meris. 24 maja 12 ET Ilda rusza z Korą wozem do przewozu bydła. Zaprzęg jest zmieniany po drodze i docierają 28 maja. Heda wyjeżdża 24 maja odrębnym wozem towarowym z Rokanem i Krzemieniem. Po odbiorze dodatkowego ładunku docierają do Val Meris 28 maja po południu. Heda rusza w drogę powrotną 29 maja. Osobno potwierdzony jest przewóz ładunku Vedy z Kharum do składu pod wschodnią bramą Val Meris. [Mapa świata][mapa] · [Księga bez autora][piecarius1] · [Przysięga z księgi ojca][piecarius3] · [Jeden przechodzi pierwszy][rokan3] · [Tędy można wrócić][ilda3]
 - **R08 — zachodnie odgałęzienie na północ** · Aurel → północny szlak → schronienie, przy którym Piecarius spotyka Ruvana (N08) → dolna droga pod przełęczą. Piecarius wyrusza z Aurelu 23 kwietnia 12 ET. [Ślady w popiele][piecarius2]
 - **R09 — wschodnie odgałęzienie między korytarzami** · drogi na wschód od jeziora. W atlasie odcinek orientacyjny z ilustracji, bez ustalonej nazwy i etapów przejazdu między Vareth a Zerath. [Mapa świata][mapa]
@@ -194,9 +194,9 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 ~~~
 
 - **D01 [K/G]** — Korzenna Przystań, osada w dolinie rzeki. **Krąg Korzeni [G]** to arena w pobliżu szlaku do centrum. [Verdan w historii świata][verdan] · [GDD][gdd]
-- **D02 [K/O]** — rynek i wspólne stoły przy ogrodach, studnia, warsztat mijany przez Anę i Boba oraz miejsce wyboru czworga kandydatów. [Verdan w historii świata][verdan] · [Kiedy obeschnie ziemia][ana] · [Dzień, który miał być spokojny][thora2]
+- **D02 [K/O]** — rynek i wspólne stoły przy ogrodach, studnia, warsztat mijany przez Anę i Boba oraz miejsce wyboru czworga kandydatów. W Korzennej Przystani Ana prowadzi własny ogród przy domu, a Sewin przywozi bambus z okolicznego lasu. [Verdan w historii świata][verdan] · [Kiedy obeschnie ziemia][ana] · [Droga Boba](opowiadania/ana/2_i_dont_ask_who/historia.pl.md#droga-boba) · [Dzień, który miał być spokojny][thora2]
 - **D03 [O]** — lecznica, domy odwiedzane przez Liorę, trzy pola pod wałem i wloty rowów. **D04 [O]** — most przy górnym wale, sad i miejsce zasadzenia drzewka. [Zanim zamknę lecznicę][liora] · [Ostatni korzeń][thora1]
-- **D05–D06 [O]** — przepust z dwoma wylotami, gospodarstwo na krótszej drodze, ścieżka za płotem, ogród używany przez Anę przy objazdowej drodze i trzy bezimienne osady czekające na deski. Osad tych nie da się jeszcze przypisać do konkretnych punktów na mapie. [Przez cudze pole][eron] · [Kiedy obeschnie ziemia][ana]
+- **D05–D06 [O]** — przepust z dwoma wylotami, gospodarstwo na krótszej drodze, ścieżka za płotem, ogród przy objazdowej drodze, w którym pracują Ana, Dagna i Milka, oraz trzy bezimienne osady czekające na deski. Przy podmokłych grządkach stoi kładka na wiklinowych pasach. Osad tych nie da się jeszcze przypisać do konkretnych punktów na mapie. [Przez cudze pole][eron] · [Kiedy obeschnie ziemia][ana] · [Pasy pod kładkę](opowiadania/ana/2_i_dont_ask_who/historia.pl.md#pasy-pod-kładkę)
 
 ### Kharum — południowy zachód
 
@@ -240,7 +240,7 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 - **M01 [K]** — neutralne miasto przy skrzyżowaniu szlaków i gospodarz Wielkich Igrzysk. **Serce Labiryntu [G]** to propozycja areny. [Val Meris w historii świata][val] · [GDD][gdd]
 - **M01 [O]** — podczas oblężenia przejście ewakuacyjne od strony nadrzecznych składów prowadziło do punktu opatrunkowego. W izbie straży przy składach zbierano raporty z tej części miasta. [Jeszcze ktoś wołał](opowiadania/orien/1_someone_was_still_calling/historia.pl.md#łyżka)
 - **M02–M03 [O]** — wschodnia brama i skład Vedy, urząd zapisów, tablica kandydatów oraz dziedziniec. **M04–M05 [K/O]** — Szkoła Magów z pracowniami i publiczne archiwum powojennych świadectw. [Przysięga z księgi ojca][piecarius3] · [Nauka kontroli][lucen2] · [Po drugiej stronie][taren3] · [Historia świata][val]
-- **M06 [O]** — plac miejscowych zawodów, plac przed areną, wieże ćwiczebne, stanowisko z modelem śluzy i teren właściwych Igrzysk. Zawody Piecariusa i Thory odbywają się 28 maja. Próba Miko i Thory przypada na pierwsze dni kwalifikacji rozpoczętych 29 maja 12 ET. [Dzień, który miał być spokojny][thora2] · [Wystarczy][thora3] · [Jeszcze jeden piorun][miko3] · [Kiedy obeschnie ziemia][ana]
+- **M06 [O]** — plac miejscowych zawodów, plac przed areną, wieże ćwiczebne, stanowisko z modelem śluzy i teren właściwych Igrzysk. Zawody Piecariusa i Thory odbywają się 28 maja. Próba Miko i Thory przypada na pierwsze dni kwalifikacji. Ana i Bob 29 maja 12 ET biorą udział w zadaniu z przenoszeniem wody przez ruchomą kładkę. [Dzień, który miał być spokojny][thora2] · [Wystarczy][thora3] · [Jeszcze jeden piorun][miko3] · [Środkowa deska](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md#środkowa-deska)
 - **M07 [O]** — gospoda, w której Piecarius nocuje i ćwiczy powitanie przed pokrywką garnka. Nazwa i ulica pozostają otwarte. **M08 [O]** — składy, kwatera przyjezdnych, mały dziedziniec z poidłem. **M09 [K/O]** — brama sabotowana przez Rian podczas wojny. Identyfikacja jej z konkretną współczesną bramą pozostaje otwarta. [Przysięga z księgi ojca][piecarius3] · [Po drugiej stronie][taren3] · [Jedenaście minut][rian1]
 
 ### Punkty bez przypisanej pozycji
@@ -270,6 +270,7 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 [adrien1]: opowiadania/adrien/1_the_light_that_showed_the_way/historia.pl.md
 [adrien2]: opowiadania/adrien/2_the_woman_who_knew/historia.pl.md
 [ana]: opowiadania/ana/1_when_the_ground_dries/historia.pl.md
+[ana3]: opowiadania/ana/3_bamboo_for_the_year/historia.pl.md
 [eron]: opowiadania/eron/1_through_someones_field/historia.pl.md
 [lena3]: opowiadania/lena/3_i_know_someone_who_can/historia.pl.md
 [liora]: opowiadania/liora/1_the_handover/historia.pl.md

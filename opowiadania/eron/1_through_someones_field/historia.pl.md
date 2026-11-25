@@ -2,7 +2,7 @@
 
 ## Mapa na stole
 
-Druga połowa marca, 12 ET · Korzenna Przystań, Verdan
+22 marca, 12 ET · Korzenna Przystań, Verdan
 
 Na posiedzenie wziąłem mapę, chociaż nikt mnie o nią nie prosił. Przez całą drogę do stołu rulon obijał mi się o nogę. W zeszłym tygodniu woda wymyła grunt i odsłoniła drugi wylot przepustu. Na papierze w ogóle go nie było.
 

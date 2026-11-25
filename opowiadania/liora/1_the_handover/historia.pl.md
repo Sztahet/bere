@@ -2,7 +2,7 @@
 
 ## Miejsce na liście
 
-Druga połowa marca, 12 ET · Korzenna Przystań, Verdan
+22 marca, 12 ET · Korzenna Przystań, Verdan
 
 Położyłam notes na stole stroną z dyżurami do dołu. Rano wpisałam tam dwie osoby do odwiedzenia. Jedna wstydziła się prosić o opatrunek, dopóki nie bolało tak, że już nie mogła dojść do lecznicy.
 

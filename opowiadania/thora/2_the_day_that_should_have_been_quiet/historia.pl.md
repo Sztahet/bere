@@ -2,7 +2,7 @@
 
 ## Przy jednym stole
 
-Druga połowa marca, 12 ET · Korzenna Przystań, Verdan
+22 marca, 12 ET · Korzenna Przystań, Verdan
 
 Zdążyłam wbić trzy tyczki przy podmytym rowie. Czwartą oparłam o słup pod zadaszeniem, kiedy zawołała mnie starsza. Miałam jeszcze po nią wrócić. Liora położyła notes na stole. Eron trzymał mapę zwiniętą w rulon, a Bob wsunął się pod ławę obok nóg Any.
 
@@ -22,7 +22,7 @@ Później Liora poprosiła o zmianę przy lecznicy, Eron rozwinął mapę, a Ana
 
 Starsza poszła ze mną pod wał zaraz po spotkaniu. Przy ostatnim polu pokazałam jej, którędy obejść grząski brzeg. Znalazła pod trawą miejsce bardziej miękkie niż to, które sama oznaczyłam. Przestawiłam tyczkę.
 
-Druga połowa marca, 12 ET · dom Thory w Korzennej Przystani, Verdan
+22 marca, 12 ET · dom Thory w Korzennej Przystani, Verdan
 
 W domu spakowałam koszulę, osełkę, dwie kromki i tarczę. Przewoźnik stojący przy targu ruszał jeszcze tego dnia. Umówił się ze mną, że mogę iść z jego ludźmi do następnej osady. Wyszłam, kiedy Liora była jeszcze przy lecznicy. Do Val Meris dotarłam pod koniec marca.
 

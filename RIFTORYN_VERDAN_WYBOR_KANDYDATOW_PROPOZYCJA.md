@@ -2,7 +2,7 @@
 
 *Jedno posiedzenie starszyzny Verdan opowiedziane przez cztery osoby. Strony posiedzenia wracają w [opowiadaniu Thory](opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md), [Liory](opowiadania/liora/1_the_handover/historia.pl.md), [Erona](opowiadania/eron/1_through_someones_field/historia.pl.md) i [Any z Bobem](opowiadania/ana/1_when_the_ground_dries/historia.pl.md).*
 
-**Korzenna Przystań, druga połowa marca 12 ET.** Starszyzna zbiera Thorę, Liorę, Erona i Anę przy wspólnym stole pod zadaszeniem obok ogrodów. Przychodzi z nimi Bob. Lista dotyczy udziału w kwalifikacjach, które zaczynają się 29 maja. Thora przekazuje pracę jeszcze tego dnia i od razu rusza w drogę. Dociera do Val Meris pod koniec marca. Liora przekazuje dyżury, Eron sprawdza przejazd, a Ana z Bobem kończą pracę przy ogrodach przed własnymi wyjazdami. [Kanon Verdan](world_history.md#verdan--tradycje-natury) · [Kalendarz kwalifikacji](world_history.md#zgłoszenia-i-kwalifikacje)
+**Korzenna Przystań, 22 marca 12 ET.** Starszyzna zbiera Thorę, Liorę, Erona i Anę przy wspólnym stole pod zadaszeniem obok ogrodów. Przychodzi z nimi Bob. Lista dotyczy udziału w kwalifikacjach, które zaczynają się 29 maja. Thora przekazuje pracę jeszcze tego dnia i od razu rusza w drogę. Dociera do Val Meris pod koniec marca. Liora przekazuje dyżury, Eron sprawdza przejazd, a Ana z Bobem kończą pracę przy ogrodach przed własnymi wyjazdami. [Kanon Verdan](world_history.md#verdan--tradycje-natury) · [Kalendarz kwalifikacji](world_history.md#zgłoszenia-i-kwalifikacje)
 
 ## Thora
 
