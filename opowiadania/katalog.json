@@ -847,19 +847,19 @@
         "id": "kiedy-otworzysz-okno",
         "folder": "opowiadania/koneva/1_when_you_open_the_window",
         "unity": "KonevaDraft1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "dwie-wersje-tej-samej-nocy",
         "folder": "opowiadania/koneva/2_two_versions_of_the_night",
         "unity": "KonevaDraft2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "zanim-rusza-wozy",
         "folder": "opowiadania/koneva/3_before_the_wagons_leave",
         "unity": "KonevaDraft3",
-        "draft": true
+        "draft": false
       }
     ]
   },

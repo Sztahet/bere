@@ -374,15 +374,15 @@
     },
     {
       "folder": "KonevaDraft1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "KonevaDraft2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "KonevaDraft3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "TeviaDraft1",

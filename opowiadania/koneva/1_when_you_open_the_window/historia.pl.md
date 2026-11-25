@@ -38,7 +38,7 @@ Smuga Ciemności przesunęła się przez płomień. Widziałam, jak z jednej str
 
 Zgasiłam najbliższą świecę rękawem. Pati rozejrzała się, podniosła głowę i zamiauczała na mnie, jakby próbowała ustalić, czemu klęczę tak blisko jej twarzy. Podniosłam ją. Przez pół nocy leżała mi na piersi z łapą zaczepioną o kołnierz. Przy każdym ruchu pilnowałam, żeby nie przygnieść tego, co wyrosło jej na grzbiecie.
 
-Sarna wróciła, kiedy świece były już zgaszone. Dopiero rano odważyłam się powiedzieć jej, że Pati oddycha i pije. Teraz siedziała przede mną i widziała, ile z tamtej wiadomości pominęłam.
+Sarna wróciła, kiedy świece były już zgaszone. Znalazła zielarkę, która mogła przyjść najwcześniej o świcie. Dopiero rano odważyłam się powiedzieć Sarnie, że Pati oddycha i pije. Teraz siedziała przede mną i widziała, ile z tamtej wiadomości pominęłam.
 
 — Wiesz, co wtedy zrobiłaś? — zapytała.
 
