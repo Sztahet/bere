@@ -97,6 +97,16 @@ Powódź nie stworzyła ich więzi — sprawdziła więź, którą dopiero budow
 
 Siostry wspólnie pomagają potrzebującym, łącząc wyuczone umiejętności, ale nie udają, że zawsze muszą działać jako jedna drużyna. Ich współpraca pokazuje, że różne żywioły i doświadczenia mogą się uzupełniać; nie oznacza to, że jedna z sióstr musi podporządkować własną drogę pozostałym.
 
+### Trzy drogi nauki — zarys trylogii sióstr
+
+**Propozycja do zatwierdzenia.** Każda z sióstr ma własną opowieść w pierwszej osobie. Ich szkolenie przebiega osobno i kończy się przed spotkaniem po latach rozłąki. W 12 ET każda ma własne zobowiązania i własny powód, żeby jechać do Val Meris. Finał przypada przed kwalifikacjami.
+
+1. **Niva — „Daj znak, zanim puścisz”.** Wiosna 7 ET · schroniska Białego Przesmyku, Nivoren. Niva uczy się Lodu od miejscowych ratowników. Przy roztopach umie na krótko przytrzymać lodem mokre poszycie przeprawy. Za pierwszym razem czeka z ostrzeżeniem, aż przestaje czuć palce. Od tej pory umawia się z osobą po drugiej stronie, kto da znak i kto przejmie ludzi, zanim osłona puści. Jesienią 8 ET na górskim szlaku to Liora odpowiada na jej znak podczas osuwiska. Niva widzi, że może na niej polegać, kiedy Liora wraca po ostatnią osobę zgodnie z umówionym sygnałem. Dopiero po zejściu z drogi mają czas powiedzieć sobie, kim są. W 12 ET wątek prowadzi do znanych już rozmów z Iskarem o konwoju i współpracy. [Opowieść Iskara](opowiadania/iskar/3_not_for_everyone/historia.pl.md)
+2. **Liora — „Czyje grządki”.** Lato 7 ET · gospodarstwo rodziny zastępczej, Verdan. Podstawy Natury zna się tu z domu. Przy grządkach dzieci uczą się podtrzymać więdnącą sadzonkę i poprowadzić młody korzeń w wilgotną ziemię. Liora od rolników i zielarek uczy się dobierać pomoc do tego, co roślina i człowiek mogą znieść. Najchętniej oddawałaby każdemu to, co ma pod ręką. Przy roztopach w 9 ET otwiera odpływ spod lecznicy i dopiero po zejściu wody obchodzi z sąsiadami zalane pola. W 12 ET odwraca sytuację. Przed wyjazdem pozwala zmienniczkom samodzielnie poprowadzić dyżur, a od nich dostaje spis wizyt, którego sama by tak nie ułożyła. Ten finał jest już w jej opowiadaniu. [Zanim zamknę lecznicę](opowiadania/liora/1_the_handover/historia.pl.md)
+3. **Elira — „Od której strony”.** Od jesieni 2 ET do lata 8 ET · Szkoła Magów, Val Meris. Jako jedyna z sióstr trafia do Szkoły Magów. Aurel wysyła ją po latach nauki przy latarniach u przybranej rodziny. W szkole uczy się prowadzić wiązkę Światła tak, by ktoś w innym miejscu mógł wziąć z niej namiar. Po powrocie do Aurel zaczyna sprawdzać rejestry ewakuacyjne. Przy jednym przeprawowym wpisie trzeba ustalić, z której strony rzeki liczono wozy. Świadek z Korzennej Przystani pomaga jej odtworzyć dalszą drogę. Późną jesienią 8 ET Elira dociera do domu Liory i zastaje tam Nivę. Rozkłada mapy, które miały jej pomóc znaleźć adres. Siostry dopisują na nich miejsca ważne dla siebie, w tym domy rodzin, które je wychowały. Po błędzie z mapą podczas powodzi w 9 ET Elira zaczyna przy trasach zapisywać, kto widział drogę i kiedy. Wiosną 12 ET tę praktykę widać już przy pracy w obserwatorium. [Elira w opowieści Piecariusa](opowiadania/piecarius/2_traces_in_the_ashes/historia.pl.md#człowiek-od-latarni)
+
+**Wspólna scena finałowa.** 28 maja, 12 ET · Val Meris. Elira przynosi mapę i chce od razu rozłożyć ją na stole. Niva ma chwilę, zanim musi wrócić do ludzi przy północnym składzie. Liora odsuwa mapę na bok, żeby było gdzie postawić trzy miski. Kroi chleb. Już ma podać Elirze środkową kromkę, kiedy zatrzymuje rękę i pyta, czy woli piętkę. Do mapy wrócą po posiłku.
+
 ## Dodatkowi bohaterowie
 
 ### Goren — Wsparcie Ognia, Vareth [propozycja]
@@ -726,6 +736,10 @@ Niva tried to brace the damaged sluice with ice, buying people time to evacuate.
 The flood did not create their bond; it tested a bond they were only beginning to build. It showed them that they could love one another and still disagree about risk. Niva wants northern and southern settlements kept connected; Liora reminds her that every extra shipment has other people who need it; Elira will not call a route safe until someone has checked it. In 12 AT, their disagreement over a convoy may come down to the same choice: leave early with incomplete information, wait for confirmation, or divide both the supplies and the risk. None of them is selfish or infallible.
 
 The sisters now help people together, combining the skills they learned, but do not pretend they must always work as one team. Their cooperation shows how different elements and experiences can complement one another; it does not require any sister to give up her own path.
+
+### Three ways to learn magic — proposed sister trilogy
+
+Niva learns Ice from rescue crews near White Pass. In autumn 8 AT she meets Liora while helping a convoy stopped by a landslide. Liora learns the everyday foundations of Nature in Verdan and develops her healing through work with farmers and herbalists. Her story carries the consequences of the flood of 9 AT into the handover already portrayed in her existing story. Elira alone attends the School of Mages in Val Meris, from autumn 2 AT to summer 8 AT, after learning to work with lamps in Aurel. After returning to Aurel she traces the evacuation records. In late autumn 8 AT, she finds both sisters at Liora's home. The three accounts end in Val Meris on 28 May 12 AT, the day before the qualifiers.
 
 ## Additional heroes
 
