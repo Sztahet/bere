@@ -38,13 +38,13 @@ Późne popołudnie 28 maja, 12 ET · pod zewnętrzną bramą Val Meris
 
 Skoro Ruvan był w Val Meris, kto został przy wejściu pod magazynem? Żeby go o to zapytać, musiałam mu najpierw powiedzieć, co widziałam. Poprosiłam, żeby odszedł ze mną od bramy. Zeszliśmy pod schody, gdzie z góry słychać było koła, ale nikt nie musiał nas omijać.
 
-Opowiedziałam mu o lampie i o człowieku, który klęczał we wnęce przy chodniku.
+Powiedziałam mu, że widziałam w dole czworo ludzi. Czekałam przy szczelinie, aż któreś z nich choćby odwróci głowę.
 
-— Czy to był Iver?
+— Oni tam żyją?
 
-— Tak — powiedział. — Czas tam stanął. Jest ich czworo.
+— Żyją — powiedział. — Zatrzymałem tam czas w Noc Zgasłych Wież.
 
-Zapytałam, czy wiedzą, że tyle minęło. Potrząsnął głową. Dopiero wtedy powiedział, że kiedy zatrzymał czas pod magazynem, na placu wciąż stali ludzie. Rozdzielacz mógł rozerwać wszystko aż do schodów. Teraz nadal nie wie, co zastanie po przerwaniu zaklęcia. Chciałam zapytać, czemu sam do tego schodzi. Zamiast tego spytałam, kto trzyma drogę od zewnątrz, kiedy wraca.
+Zapytałam, czy wiedzą, że tyle minęło. Potrząsnął głową. Powiedział, że tamtej nocy na placu wciąż stali ludzie. Rozdzielacz mógł rozerwać wszystko aż do schodów. Teraz nadal nie wie, co zastanie po przerwaniu zaklęcia. Chciałam zapytać, czemu sam do tego schodzi. Zamiast tego spytałam, kto trzyma drogę od zewnątrz, kiedy wraca.
 
 — Na razie nikt.
 
