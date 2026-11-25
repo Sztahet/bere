@@ -200,7 +200,7 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **19 marca, 12 ET · ogród Any, Korzenna Przystań, Verdan** — **Najdroższy domownik** — Ana, Bob, Sewin, Dagna — [`źródło`](opowiadania/ana/1_when_the_ground_dries/historia.pl.md)
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — **Pod ławą** — Ana, Bob, Liora, Thora, Eron — [`źródło`](opowiadania/ana/1_when_the_ground_dries/historia.pl.md)
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — **Mapa na stole** — Eron, Liora, Thora, Ana — [`źródło`](opowiadania/eron/1_through_someones_field/historia.pl.md)
-- **22 marca, 12 ET · Korzenna Przystań, Verdan** — **Miejsce na liście** — Liora, Thora, Eron — [`źródło`](opowiadania/liora/1_the_handover/historia.pl.md)
+- **22 marca, 12 ET · Korzenna Przystań, Verdan** — **Miejsce na liście** — Liora, Thora, Eron — [`źródło`](opowiadania/liora/3_the_handover/historia.pl.md)
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — **Przy jednym stole** — Thora, Liora, Eron, Ana — [`źródło`](opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md)
 - **Kilka dni po powodzi, 12 ET · Korzenna Przystań, Verdan** — **Miejsce na drzewko** — Thora, Brom — [`źródło`](opowiadania/thora/1_the_last_root/historia.pl.md)
 - **26 marca, 12 ET · ogród przy objazdowej drodze, Korzenna Przystań, Verdan** — **Dwa worki** — Ana, Bob, Milka — [`źródło`](opowiadania/ana/1_when_the_ground_dries/historia.pl.md)
@@ -211,7 +211,7 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **Pierwsze dni kwalifikacji, 12 ET · Val Meris** — **List z doliny** — Thora — [`źródło`](opowiadania/thora/3_enough/historia.pl.md)
 - **Pierwsze dni kwalifikacji, 12 ET · Val Meris** — **Przy drugim stanowisku** — Varek, Volt — [`źródło`](opowiadania/varek/3_who_holds_the_line/historia.pl.md)
 - **Pierwsze dni kwalifikacji, 12 ET · Val Meris** — **Przy stanowisku** — Volt, Varek — [`źródło`](opowiadania/volt/3_the_second_signal/historia.pl.md)
-- **Po wyborze kandydatów, 12 ET · Korzenna Przystań, Verdan** — **Próg** — Liora — [`źródło`](opowiadania/liora/1_the_handover/historia.pl.md)
+- **Po wyborze kandydatów, 12 ET · Korzenna Przystań, Verdan** — **Próg** — Liora — [`źródło`](opowiadania/liora/3_the_handover/historia.pl.md)
 - **Przed wyborem kandydatów w marcu, 12 ET · Korzenna Przystań, Verdan** — **Rowek pod kamieniem** — Thora — [`źródło`](opowiadania/thora/1_the_last_root/historia.pl.md)
 - **Przed wyborem kandydatów w marcu, 12 ET · Korzenna Przystań, Verdan** — **Po mokrej stronie** — Thora — [`źródło`](opowiadania/thora/1_the_last_root/historia.pl.md)
 - **Przełom marca i kwietnia, 12 ET · wieża ćwiczebna, Val Meris** — **Zanim padnie polecenie** — Thora — [`źródło`](opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md)
@@ -222,7 +222,6 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **Wiosna, 12 ET · Aurel** — **Warunki Igrzysk** — Lucen — [`źródło`](opowiadania/lucen/3_not_against_you/historia.pl.md)
 - **Wiosna, 12 ET · Iglica Zerath** — **Warunki Porozumienia** — Taren, Varek — [`źródło`](opowiadania/taren/2_the_cost_of_loyalty/historia.pl.md)
 - **Wiosna, 12 ET · Korzenna Przystań, Verdan** — **Kiedy schnie droga** — Eron, Thora — [`źródło`](opowiadania/eron/1_through_someones_field/historia.pl.md)
-- **Wiosna, 12 ET · Korzenna Przystań, Verdan** — **Drugi egzemplarz** — Liora, Thora — [`źródło`](opowiadania/liora/1_the_handover/historia.pl.md)
 - **Wiosna, 12 ET · przepust pod Korzenną Przystanią, Verdan** — **Po stronie wylotu** — Eron — [`źródło`](opowiadania/eron/1_through_someones_field/historia.pl.md)
 - **Zima, 11/12 ET · Iglica Zerath** — **Przy księdze Miry** — Taren, Mira — [`źródło`](opowiadania/taren/2_the_cost_of_loyalty/historia.pl.md)
 - **Koniec zimy, 11/12 ET · warsztat w Iglicy Zerath** — **Trzy błyski** — Varek, Miko, Volt, Zet — [`źródło`](opowiadania/varek/3_who_holds_the_line/historia.pl.md)
@@ -457,7 +456,7 @@ Nie znaleziono sekcji bez daty.
 
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — Pod ławą — [`źródło`](opowiadania/ana/1_when_the_ground_dries/historia.pl.md)
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — Mapa na stole — [`źródło`](opowiadania/eron/1_through_someones_field/historia.pl.md)
-- **22 marca, 12 ET · Korzenna Przystań, Verdan** — Miejsce na liście — [`źródło`](opowiadania/liora/1_the_handover/historia.pl.md)
+- **22 marca, 12 ET · Korzenna Przystań, Verdan** — Miejsce na liście — [`źródło`](opowiadania/liora/3_the_handover/historia.pl.md)
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — Przy jednym stole — [`źródło`](opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md)
 - **Wiosna, 12 ET · Korzenna Przystań, Verdan** — Kiedy schnie droga — [`źródło`](opowiadania/eron/1_through_someones_field/historia.pl.md)
 - **Wiosna, 12 ET · przepust pod Korzenną Przystanią, Verdan** — Po stronie wylotu — [`źródło`](opowiadania/eron/1_through_someones_field/historia.pl.md)
@@ -550,10 +549,9 @@ Nie znaleziono sekcji bez daty.
 
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — Pod ławą — [`źródło`](opowiadania/ana/1_when_the_ground_dries/historia.pl.md)
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — Mapa na stole — [`źródło`](opowiadania/eron/1_through_someones_field/historia.pl.md)
-- **22 marca, 12 ET · Korzenna Przystań, Verdan** — Miejsce na liście — [`źródło`](opowiadania/liora/1_the_handover/historia.pl.md)
+- **22 marca, 12 ET · Korzenna Przystań, Verdan** — Miejsce na liście — [`źródło`](opowiadania/liora/3_the_handover/historia.pl.md)
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — Przy jednym stole — [`źródło`](opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md)
-- **Po wyborze kandydatów, 12 ET · Korzenna Przystań, Verdan** — Próg — [`źródło`](opowiadania/liora/1_the_handover/historia.pl.md)
-- **Wiosna, 12 ET · Korzenna Przystań, Verdan** — Drugi egzemplarz — [`źródło`](opowiadania/liora/1_the_handover/historia.pl.md)
+- **Po wyborze kandydatów, 12 ET · Korzenna Przystań, Verdan** — Próg — [`źródło`](opowiadania/liora/3_the_handover/historia.pl.md)
 
 ### Lucen
 
@@ -881,7 +879,7 @@ Nie znaleziono sekcji bez daty.
 
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — Pod ławą — [`źródło`](opowiadania/ana/1_when_the_ground_dries/historia.pl.md)
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — Mapa na stole — [`źródło`](opowiadania/eron/1_through_someones_field/historia.pl.md)
-- **22 marca, 12 ET · Korzenna Przystań, Verdan** — Miejsce na liście — [`źródło`](opowiadania/liora/1_the_handover/historia.pl.md)
+- **22 marca, 12 ET · Korzenna Przystań, Verdan** — Miejsce na liście — [`źródło`](opowiadania/liora/3_the_handover/historia.pl.md)
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — Przy jednym stole — [`źródło`](opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md)
 - **Kilka dni po powodzi, 12 ET · Korzenna Przystań, Verdan** — Miejsce na drzewko — [`źródło`](opowiadania/thora/1_the_last_root/historia.pl.md)
 - **Pierwsze dni kwalifikacji, 12 ET · Val Meris** — Dwa uderzenia — [`źródło`](opowiadania/miko/3_one_more_bolt/historia.pl.md)
@@ -891,7 +889,6 @@ Nie znaleziono sekcji bez daty.
 - **Przed wyborem kandydatów w marcu, 12 ET · Korzenna Przystań, Verdan** — Po mokrej stronie — [`źródło`](opowiadania/thora/1_the_last_root/historia.pl.md)
 - **Przełom marca i kwietnia, 12 ET · wieża ćwiczebna, Val Meris** — Zanim padnie polecenie — [`źródło`](opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md)
 - **Wiosna, 12 ET · Korzenna Przystań, Verdan** — Kiedy schnie droga — [`źródło`](opowiadania/eron/1_through_someones_field/historia.pl.md)
-- **Wiosna, 12 ET · Korzenna Przystań, Verdan** — Drugi egzemplarz — [`źródło`](opowiadania/liora/1_the_handover/historia.pl.md)
 - **28 maja, 12 ET · plac zawodów, Val Meris** — Nagroda — [`źródło`](opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md)
 - **28 maja, 12 ET · plac zawodów, Val Meris** — Nagroda — [`źródło`](opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md)
 - **29 maja, 12 ET · kwalifikacje w Val Meris** — Dwa uderzenia — [`źródło`](opowiadania/thora/3_enough/historia.pl.md)

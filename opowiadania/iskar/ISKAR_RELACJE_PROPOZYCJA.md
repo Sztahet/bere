@@ -36,7 +36,7 @@ Liora wnosi na rozmowę o dostawach rachunek rodziny z Verdan. Szuka podstawy do
 
 Iskar proponuje **Nivie** dodatkowe miejsce w północnym konwoju, żeby mogła zabrać sprzęt do dalszej pracy przy szlaku. Niva odmawia przyjęcia miejsca przydzielonego przez niego poza kolejnością. Jeśli trzeba będzie czekać na zwykły kurs, zaczeka. Prosi, żeby stawił się na rozmowie z Liorą i osobą, której rodzina straciła dzierżawę. Pamięta, co zrobił dla ludzi na przełęczy. Dlatego przychodzi z prośbą osobiście i daje mu czas, żeby sam wszedł na salę.
 
-**Lumen** może wystąpić krótko przy wydaniu odpisu na prawidłowo złożony wniosek Liory. W księdze przyjęcie potwierdzenia osłony i wysłanie go dalej zapisano osobno. Każda kopia jest prawdziwa, a znaczenie odstępu między datami wychodzi na jaw dopiero w zestawieniu z rachunkami i zeznaniem Iskara. Lumen zasiada w Radzie od 11 ET. [Pierwszy rok urzędowania Lumen](../../world_history.md#traktat-równych-ścieżek-i-igrzyska-szlaków) · [Liora i wizyta przed Igrzyskami](../liora/1_the_handover/historia.pl.md)
+**Lumen** może wystąpić krótko przy wydaniu odpisu na prawidłowo złożony wniosek Liory. W księdze przyjęcie potwierdzenia osłony i wysłanie go dalej zapisano osobno. Każda kopia jest prawdziwa, a znaczenie odstępu między datami wychodzi na jaw dopiero w zestawieniu z rachunkami i zeznaniem Iskara. Lumen zasiada w Radzie od 11 ET. [Pierwszy rok urzędowania Lumen](../../world_history.md#traktat-równych-ścieżek-i-igrzyska-szlaków) · [Liora i wizyta przed Igrzyskami](../liora/3_the_handover/historia.pl.md)
 
 ## Granice fabuły
 

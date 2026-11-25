@@ -273,7 +273,7 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 [ana3]: opowiadania/ana/3_bamboo_for_the_year/historia.pl.md
 [eron]: opowiadania/eron/1_through_someones_field/historia.pl.md
 [lena3]: opowiadania/lena/3_i_know_someone_who_can/historia.pl.md
-[liora]: opowiadania/liora/1_the_handover/historia.pl.md
+[liora]: opowiadania/liora/3_the_handover/historia.pl.md
 [lucen1]: opowiadania/lucen/1_from_what_was_saved/historia.pl.md
 [lucen2]: opowiadania/lucen/2_learning_control/historia.pl.md
 [lucen3]: opowiadania/lucen/3_not_against_you/historia.pl.md
