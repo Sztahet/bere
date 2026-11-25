@@ -470,15 +470,15 @@
     },
     {
       "folder": "NivaDraft1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "NivaDraft2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "NivaDraft3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "LioraDraft1",

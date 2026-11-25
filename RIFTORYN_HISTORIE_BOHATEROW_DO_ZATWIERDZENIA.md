@@ -101,7 +101,7 @@ Siostry wspólnie pomagają potrzebującym, łącząc wyuczone umiejętności, a
 
 **Rękopisy trylogii sióstr**
 
-- **Niva** · [Daj znak, zanim puścisz](opowiadania/niva/1_before_you_let_go/historia.pl.md) · [Ostatnia z drogi](opowiadania/niva/2_the_last_one_up/historia.pl.md) · [Zaczekaj na mój znak](opowiadania/niva/3_wait_for_my_sign/historia.pl.md)
+- **Niva — zatwierdzona literacko (9,3/10)** · [Daj znak, zanim puścisz](opowiadania/niva/1_before_you_let_go/historia.pl.md) · [Ostatnia z drogi](opowiadania/niva/2_the_last_one_up/historia.pl.md) · [Zaczekaj na mój znak](opowiadania/niva/3_wait_for_my_sign/historia.pl.md)
 - **Liora** · [Czyje grządki](opowiadania/liora/1_whose_garden/historia.pl.md) · [Zanim woda zejdzie](opowiadania/liora/2_the_side_channel/historia.pl.md) · [Zanim zamknę lecznicę](opowiadania/liora/1_the_handover/historia.pl.md)
 - **Elira — zatwierdzona literacko** · [Od której strony](opowiadania/elira/1_from_which_side/historia.pl.md) · [Oba brzegi](opowiadania/elira/2_both_banks/historia.pl.md) · [Kto widział most](opowiadania/elira/3_when_was_it_checked/historia.pl.md)
 

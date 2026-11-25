@@ -1063,19 +1063,19 @@
         "id": "daj-znak-zanim-puscisz",
         "folder": "opowiadania/niva/1_before_you_let_go",
         "unity": "NivaDraft1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "ostatnia-z-drogi",
         "folder": "opowiadania/niva/2_the_last_one_up",
         "unity": "NivaDraft2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "zaczekaj-na-moj-znak",
         "folder": "opowiadania/niva/3_wait_for_my_sign",
         "unity": "NivaDraft3",
-        "draft": true
+        "draft": false
       }
     ]
   },
