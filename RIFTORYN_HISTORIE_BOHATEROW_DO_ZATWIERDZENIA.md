@@ -101,7 +101,7 @@ Siostry wspólnie pomagają potrzebującym, łącząc wyuczone umiejętności, a
 
 ### Goren — Wsparcie Ognia, Vareth [propozycja]
 
-**Pełne rękopisy do zatwierdzenia.** [Pióro przy klamrze](opowiadania/oren/1_the_feather_by_the_buckle/historia.pl.md) · [Nie ma drugiej takiej](opowiadania/oren/2_nothing_else_like_it/historia.pl.md) · [Podpis pod żelazem](opowiadania/oren/3_a_signature_in_iron/historia.pl.md)
+**Pełne rękopisy do zatwierdzenia.** [Pióro przy klamrze](opowiadania/goren/1_the_feather_by_the_buckle/historia.pl.md) · [Nie ma drugiej takiej](opowiadania/goren/2_nothing_else_like_it/historia.pl.md) · [Podpis pod żelazem](opowiadania/goren/3_a_signature_in_iron/historia.pl.md)
 
 Goren ma 67 lat w 12 ET. Za młodu przez lata uczył się kowalstwa w Kamiennym Progu w Kharum. Większość zamówień warsztatu, w którym terminował, pochodziła z kopalń. Ostrzył kilofy, wyrabiał kliny i naprawiał okucia wózków. Chciał połączyć to, czego nauczył się przy kowadle, z własną magią Ognia. Przeniósł się do Żarowiska Vareth, gdzie znalazł kuźnie pracujące z magami Ognia i klientów gotowych zamawiać magiczne zbroje i broń. Tam urządził własny warsztat. W grze pełni rolę Wsparcia Ognia, a do kwalifikacji zgłasza się w barwach Vareth po stronie Wolnych Krain. [Tradycje Vareth](world_history.md#vareth--tradycje-ognia) · [Zasady reprezentacji](world_history.md#zgłoszenia-i-kwalifikacje)
 

@@ -62,19 +62,19 @@
     "stories": [
       {
         "id": "pioro-przy-klamrze",
-        "folder": "opowiadania/oren/1_the_feather_by_the_buckle",
+        "folder": "opowiadania/goren/1_the_feather_by_the_buckle",
         "unity": "OrenDraft1",
         "draft": true
       },
       {
         "id": "nie-ma-drugiej-takiej",
-        "folder": "opowiadania/oren/2_nothing_else_like_it",
+        "folder": "opowiadania/goren/2_nothing_else_like_it",
         "unity": "OrenDraft2",
         "draft": true
       },
       {
         "id": "podpis-pod-zelazem",
-        "folder": "opowiadania/oren/3_a_signature_in_iron",
+        "folder": "opowiadania/goren/3_a_signature_in_iron",
         "unity": "OrenDraft3",
         "draft": true
       }
