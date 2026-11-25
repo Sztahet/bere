@@ -8,7 +8,7 @@ Kiedy byłam mała, wpychałam do wilgotnej ziemi cały palec, żeby pokazać ko
 
 Latem zielarki z naszej rodziny trzymały przy ławie dwa kosze. Do jednego trafiały liście na kompresy. W drugim były sadzonki, które chcieliśmy utrzymać do następnych nasion. Zdrowe miałam przenieść do cienia, słabsze obejrzeć od spodu. Wzięłam kosz z najsłabszymi pod pachę. Nosiłam go od studni do okna, aż wszystkie wyglądały na trochę bardziej przytomne. Przy jednej trzymałam dłoń tak długo, że kiedy ją odjęłam, liść złożył się pod własnym ciężarem.
 
-Sadzonkę wyjęła mi z donicy Miren. To u niej zamieszkałam po ewakuacji. Uczyła mnie robić opatrunki i od tamtej pory mogłam w jej domu ciąć płótno bez pytania. Tylko nożycami od kuchni nie wolno mi było tknąć ani nitki. Obróciła doniczkę. Korzeń urywał się przy starej bruździe.
+Sadzonkę wyjęła mi z donicy Miren. To u niej zamieszkałam po ewakuacji. Uczyła mnie robić opatrunki i od tamtej pory mogłam w jej domu ciąć płótno bez pytania. Tylko nożycami od kuchni nie wolno mi było tknąć ani nitki. Obróciła sadzonkę, żebym zobaczyła urwany korzeń.
 
 — Co jej dałaś? — spytała.
 

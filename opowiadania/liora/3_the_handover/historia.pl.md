@@ -70,17 +70,19 @@ Kupiłam jedno jabłko dla siebie, drugie na kolację z siostrami. Na straganie 
 
 27 maja, 12 ET · gospoda przy składach w Val Meris
 
-Kiedy przyszłam do Inry z odpisem z archiwum, kroiła czwartą kromkę chleba. Iskar przyszedł przed moim powrotem. Z Nivą czekali, aż gospodyni zrobi miejsce na rachunki. Pomogłam przesunąć deskę od pieca. Miałam jeszcze w pamięci ustawienie dwóch dat w księdze, ale Iskar zaczął od pytania o pole.
+Kiedy przyszłam do Inry z odpisem z archiwum, kroiła czwartą kromkę chleba. Iskar i Niva już czekali. Podałam Inrze odpis, potem pomogłam przesunąć deskę, żeby zrobić miejsce na rachunki. Wciąż miałam w głowie dwie daty z księgi. Iskar zaczął od pytania o pole.
 
 — Pani już pytała — powiedziała do mnie Inra.
 
 — Teraz pyta on.
 
-Inra narysowała mu dojazd do młyna. Palcem omijała zagięcie arkusza przy strumieniu. Bez części młyn nadal nie mógł ruszyć, a za każdy dodatkowy przejazd do przemiału trzeba było płacić. Kiedy Iskar powiedział, że umyślnie przetrzymał kartę, odruchowo sięgnęłam po odpis. Chciałam mu pokazać coś, co właśnie sam powiedział. Później Inra poprosiła go, żeby zamiast rozliczać tylko ją, zapisał po kolei, kiedy dostawał potwierdzenia i kiedy je przekazywał. Cztery rachunki rozłożyliśmy tak, żeby żadnego nie przykryć rękawem.
+Inra narysowała mu drogę do młyna sąsiadów. Przy strumieniu ominęła ołówkiem zagięcie papieru. Kiedy zabrakło części do naszego młyna, za każdy kurs z ziarnem do sąsiadów musiała płacić z własnej kieszeni. Gdy Iskar przyznał, że umyślnie przetrzymał kartę, odruchowo sięgnęłam po odpis. Chciałam mu pokazać coś, co właśnie sam powiedział. Inra poprosiła go, żeby na piśmie odtworzył kolejność potwierdzeń i wysyłki kart. Rozłożyłam z nim cztery rachunki, a obok położyliśmy czystą kartkę.
 
 — A części? — zapytałam, kiedy skończyliśmy. — Chcę jutro dostać termin, który trafi również do ludzi przy młynie.
 
-Wiedziałam o miejscu przy burcie, które mogłaby dla mnie znaleźć Niva. Tym razem poszłyśmy oddać odpis i zapowiedziałam, że rano wrócę po zwykły termin. Gdy wychodziłyśmy, Inra złożyła własny rysunek. Zapytałam, czy mam go zanieść razem z papierami. Powiedziała, że chce mieć go przy sobie, gdy będzie rozmawiała z pozostałymi gospodarzami. Oddałam jej sznurek, do którego miałam już przywiązać wszystkie kartki.
+Gdy wychodziłyśmy, Inra złożyła własny rysunek. Zapytałam, czy mam go zanieść razem z papierami. Powiedziała, że chce mieć go przy sobie, gdy będzie rozmawiała z pozostałymi gospodarzami. Oddałam jej sznurek, którym zamierzałam związać wszystkie kartki.
+
+Przy północnym składzie oddałyśmy odpis Inry. Niva zapowiedziała, że rano wróci zapytać o zwykły termin. Mnie Iskar podał podpisaną kopię. Przytrzymałam ją płasko, bo wiatr podniósł dolny brzeg.
 
 ## Gdzie położyć ręce
 
@@ -90,7 +92,7 @@ Na placu postawiono skrzynię z wilgotną ziemią. Z jednej strony stały nosze.
 
 — Trzymasz ziemię. A ziemię co ma trzymać?
 
-Chciałam jej odpowiedzieć, że mogła mi to powiedzieć przed próbą. Podała mi niską plecionkę i kazała samej znaleźć dla niej miejsce. Oparłam ją o dwa słupki przy skrzyni. Dopiero wtedy poprowadziłam korzenie przez prześwity. Kiedy deska znów się odchyliła, plecionka oparła się o słupki i pod nosze przesypała się tylko garść ziemi. Poprosiłam o jeszcze jedno przejście. Tym razem chciałam nieść nosze od tyłu i sprawdzić, ile z tej osłony widać komuś, kto patrzy głównie pod nogi.
+Chciałam jej odpowiedzieć, że mogła mi to powiedzieć przed próbą. Podała mi niską plecionkę i kazała samej znaleźć dla niej miejsce. Oparłam ją o dwa słupki przy skrzyni. Dopiero wtedy poprowadziłam korzenie przez prześwity. Kiedy deska znów się odchyliła, słupki wytrzymały i pod nosze przesypała się tylko garść ziemi. Poprosiłam o jeszcze jedno przejście. Tym razem chciałam nieść nosze od tyłu i sprawdzić, ile z tej osłony widać komuś, kto patrzy głównie pod nogi.
 
 W Urzędzie Prób wpisałam Verdan i Naturę. Wybrałam wspólny nadzór. W jego programie zapisano uzgodnione naprawy kanałów i dowóz zapasów do mniejszych lecznic. Chciałam wiedzieć, komu wskazać trzy pola, o których Thora mówiła starszej, i kiedy ten ktoś będzie mógł obejrzeć kanał. Pisarz pokazał mi, przy którym stole można zapytać o dostawy i naprawy. Potem dał mi godzinę jutrzejszej odprawy.
 

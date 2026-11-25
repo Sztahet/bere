@@ -482,15 +482,15 @@
     },
     {
       "folder": "LioraDraft1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "LioraDraft2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "LioraDraft3",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "EliraDraft1",

@@ -1090,19 +1090,19 @@
         "id": "czyje-grzadki",
         "folder": "opowiadania/liora/1_whose_garden",
         "unity": "LioraDraft1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "zanim-woda-zejdzie",
         "folder": "opowiadania/liora/2_the_side_channel",
         "unity": "LioraDraft2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "zanim-zamkne-lecznice",
         "folder": "opowiadania/liora/3_the_handover",
         "unity": "LioraDraft3",
-        "draft": true
+        "draft": false
       }
     ]
   },
