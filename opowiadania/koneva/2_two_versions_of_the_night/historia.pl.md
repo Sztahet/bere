@@ -4,144 +4,108 @@
 
 7 października, 11 ET · izba przydziałów, Cienisty Port, Vesper
 
-Pisarz zapytał, czy może zapisać, że przewoźniczka z trzeciego wniosku sama zrezygnowała. Stałam przy stole, bo zabrakło krzeseł, i miałam widok na wierzch jej dłoni. W rowkach przy paznokciach wciąż trzymał się czarny wosk od wiązania ładunku. Wychodząc z domu, musiała jeszcze sprawdzić sznur.
+Pisarz zapytał, czy może zapisać, że osoba z trzeciego wniosku sama zrezygnowała. Na wierzchu jej dłoni wciąż trzymał się czarny wosk od wiązania ładunku. Wychodząc z domu, musiała jeszcze sprawdzić sznur.
 
-— Oddała dostawę drugiej załodze za pół stawki — powiedziałam. — To możesz zapisać. Resztę jej jeszcze pokaż.
+— Oddała dostawę drugiej załodze za pół stawki — powiedziałam. — To zapisz i daj jej przeczytać.
 
-Pisarz zawahał się przy słowie „oddała”, ale spojrzał na przewoźniczkę i przepisał zdanie. Podsunęłam jej krzesło. Miała już dość czekania, żeby wreszcie chcieć usiąść. Zapytałam półgłosem, czy chce powiedzieć ludziom przy stole, dlaczego zabrakło jej pieniędzy. Spojrzała w stronę okna. Nie umiałam zgadnąć, czy chciałaby, żeby ktoś przy niej został. Przesunęłam krzesło bliżej ściany. Usiadła. Po chwili przywołała pisarza i wzięła od niego kartę.
+Podsunęłam jej krzesło. Spytałam półgłosem, czy chce powiedzieć ludziom przy stole, dlaczego zabrakło jej pieniędzy. Spojrzała w stronę okna. Przesunęłam krzesło bliżej ściany i zostawiłam jej miejsce. Po chwili przywołała pisarza i sama wzięła kartę.
 
-W lewej kieszeni miałam pismo do protokołu. W prawej jego drugą część, zatwierdzoną do okazania Dali. Uparła się, żeby pisarz nie zostawiał jej na stole nawet na czas stawiania podpisu. Kiedy przyniosłam jej drugi odpis, odwróciła się do okna, zasłaniając kartkę przed ludźmi, którzy stali za mną.
+W lewej kieszeni miałam odpis do protokołu. W prawej drugą kartkę, którą mogłam pokazać Dali. Odwróciła się do okna, zasłaniając papier przed ludźmi stojącymi za mną. Potem wsunęłam go z powrotem do kieszeni. Kiedy ogłoszono przydział Sarny, na tablicy znalazło się wyjaśnienie decyzji. Jej godzina wyjazdu została u Iren.
 
-— Teraz jak mnie o coś zapytają, będę wiedziała, jak mało mogę odpowiedzieć — powiedziała.
+Wyszłam sprawdzić ogłoszenie od strony, z której podjeżdżają wozy. Na wietrze podnosił się dolny róg. Żeby doczytać zdanie, trzeba było podejść pod lampę. Obok wisiała kartka o podeście, który widziałyśmy z łodzi. Zostawiłam ją trzeci dzień bez daty sprawdzenia. Dla mnie nadal znaczyła tyle samo co przedwczoraj, bo pamiętałam klin pod wodą. Dla kogoś, kto przyjechał do portu dopiero teraz, mogła znaczyć, że do dziś nic z tą deską nie zrobiono.
 
-— W porcie akurat z tym mamy duże doświadczenie.
+Przeszłam całe nabrzeże. Podest od rana był podparty, a wózki z pustymi skrzyniami jechały już górą na dół. Wróciłam, zdjęłam wiadomość o uszkodzeniu i dopiero potem przypomniałam sobie, że Sarna prosiła mnie o zwrócenie jej odpisu. Przeszłam więc jeszcze raz. Zastałam ją już przy stajni. Pozwoliła mi zachować kartkę do wieczora, póki szłam w jej stronę.
 
-Podniosła wzrok znad papieru. Pod jej ręką leżał formularz, który poprzedniego dnia musiała oddać Sarnie. Sama wiedziała, jaką instrukcję podpisał Morven. Dzisiaj czytała wszystko jeszcze raz, nawet to, co już ktoś odczytał przy niej. Otrzymała wreszcie dwie rzeczy naraz, dowód ładunku i człowieka, który potrafił powiedzieć, co się stanie po jego opóźnieniu. Przez większą część rozmowy papier Sarny był najmniej ruchliwym przedmiotem w izbie. Ludzie wokół niego siadali, wstawali, przychodzili po wieści i przenosili krzesła do innych stołów.
+## Kubek
 
-Kiedy ogłoszono przydział Sarny, dałam Dali wszystko, co mogła wywiesić. Wyszłyśmy razem sprawdzić, jak to wygląda od strony wozów. Część o kosztach czytało się łatwiej, odkąd podeszłam z jej kartką do miejsca przy dobrej lampie. Powód, dla którego Sarna miała dostać eskortę przed Radlem, dało się przeczytać. Godzinę wyjazdu znała Iren. Włożyłam rękę do prawej kieszeni. Tym razem była już pusta.
+Wieczór 9 października, 11 ET · dom Konevy przy nabrzeżu Cienistego Portu, Vesper
 
-— Chciałbym jedną tablicę, na której bez załatwiania konia przeczytam jutro, czy przy pomoście jeszcze mokro — powiedział człowiek za moim ramieniem.
+Przy drzwiach do kuchni Pati ułożyła sobie z rękawic legowisko. Sarna nadepnęła na jedną końcówkę i szybko się cofnęła. Przez chwilę patrzyła na własne buty. Mówiłam jej poprzedniego dnia, że przychodzić może bez pukania, jeśli będzie wracała po nocy z drogi. Teraz było już po ostatnich wozach. Podałam jej kubek.
 
-— Ja też — odpowiedziałam.
+— Nocny przejazd się udał — powiedziała.
 
-Zapytałam go, czy sam wraca rano spod pomostu. Załatwiał tylko odbiór paczek i nie wiedział, kto po zmroku zamyka obejście. Zamierzał zejść z przyjacielem, kiedy skończą ważyć. Dałam mu skrawek papieru z miejscem, gdzie nie trzeba wchodzić pod uznaniową bramę składu. Powiedziałam, że jeśli znajdzie mokrą deskę, niech do rana da mi znać. Zanim zdążył spojrzeć, na którą stronę trzyma kartkę, przewróciłam ją w jego palcach.
+— Wiem. Tyle razy patrzyłaś na drogę, że biedna nie miała kiedy się rozmyślić.
 
-— Z tej strony masz drogę. Z drugiej mój własny rachunek za deskę.
+Prawą dłoń schowała pod stół. Lewą sięgnęła po kubek. Dotknęła brzegu, cofnęła palce i poprosiła, żebym go odstawiła, póki nie ostygnie.
 
-— To skąd mam wiedzieć, gdzie jest koniec?
+Opowiedziała, jak przy wyładunku nosiły skrzynię, a potem jeszcze wiadra z piwnicy, aż ruszyła pompa. Zdążyli przed świtem. W stajni Teda wzięła od niej wodze na ostatni odcinek. Wtedy Sarna już wiedziała, że po powrocie znów nie prześpi od razu całej nocy. Teraz wyjęła z torby zakorkowane szkło i postawiła je po tamtej stronie stołu. Nie odsłoniła wosku przy szyjce. Powiedziała tylko, że od pewnego czasu kupuje krople na ból i że rano wciąż ledwie zaciska palce. Żeby ruszyć następnego dnia, musi poprosić Tedę, żeby jeszcze raz usiadła od jej strony.
 
-— Gdzie kończy się nabrzeże. Na rachunku też tuż przed sumą.
+— Chcesz, żebym zaniosła jej wiadomość?
 
-Położył kartkę na dłoni i odczytał jeszcze raz. Zapytał, gdzie mnie szukać. Pokazałam mu nasze podwórze. Z górnej drogi widać było jasną deskę pod moim oknem. Pomyślałam, że jeszcze niedawno, żeby się ze mną zgadać, człowiek musiał wiedzieć, kiedy wracam z kursu, albo mieć do mnie sprawę, którą ktoś zgodził się przyjąć u wagi.
+— Jutro sama do niej pójdę. Dziś przyszłam do ciebie.
 
-## Miseczka
+Otworzyła prawą dłoń na blacie. Tak samo kładzie się czyjś rachunek, gdy chce się powiedzieć, że dalej już sam może zobaczyć każdą pozycję. Przy kciuku widać było ciemniejsze miejsce, które znałam sprzed jego ostatniego obtarcia. Poruszyła nim do połowy. Zaraz przestała.
 
-9 października, 11 ET · mieszkanie Tili w Cienistym Porcie, Vesper
+— Pati tamtej nocy też nie mogła wstać — powiedziała.
 
-Kiedy wróciłam, moja wstążka wisiała na szybie Tili. Zawinęła ją na gwoździu tak, żeby kolor widać było od strony podwórza. Umawiałyśmy się, że w ten sposób da mi znać, gdy jej starsza siostra przywiezie wino z południa. Zgarnęłam z góry dwa kubki. W sieni zobaczyłam, że drzwi na podwórze są zamknięte od wewnątrz. Tila zdążyła jedną ręką zastawić skobel koszem. Otworzyła mi, zanim mogłam zapukać.
+— Wcześniej jeszcze próbowała.
 
-— Nie mam wina — powiedziała. — Wstążkę miałam pod ręką.
+— Co jest w tej księdze?
 
-Wzięłam od niej ciężki kosz. Stała w nim miska z czystym płótnem, kawałek chleba i łyżka. Kminek leżał w domu przy piecu, w miejscu, gdzie nigdy nie kładł się dobrowolnie. Obok leżała wyciągnięta z popielnika ciepła cegła, owinięta szmatką. Gdy usiadłam na ziemi, podniósł powieki. Nie odwrócił łba, kiedy powiedziałam jego imię.
+Widziałam przez próg ogon Pati i skraj jednego skrzydła. Leżała tak, że u wejścia można było dostrzec ją dopiero wtedy, gdy chciało się przejść do środka. Przypomniałam sobie, jak później pobrudziłam od wosku podłogę, próbując poprowadzić Ciemność nad pustym kręgiem. Zdołałam utrzymać ją nad świecą, a potem przez ułamek chwili obok. Gdy odsunęłam płomień na bok i spróbowałam jeszcze raz, przeszła zupełnie gdzie indziej.
 
-Zielarka przychodziła dwa dni z rzędu. Tila nie potrafiła mi powtórzyć wszystkiego, co od niej usłyszała. Wiedziała, że Kminek ma pod bokiem zapas ciepła i że dziś trudno mu stanąć. Zapytała, czy słyszałam o kimś, kto mógłby pójść po zielarkę znowu, bo przy górnych domach czekają na nią z chorym dzieckiem.
+— Chcesz, żebym spróbowała przy tobie?
 
-— Den powinien być u wagi — powiedziałam. — Napiszę mu, gdzie ją znajdzie.
+Sarna skinęła głową. Dopiero teraz zobaczyłam, jak mocno lewą dłonią trzymała brzeg krzesła.
 
-Wyjęłam kartkę i podałam Tili. Trzymała ją tak, jak trzyma się miskę, kiedy wciąż trzeba komuś nalać. Dłonie miała zupełnie wolne, ale żadnej nie podniosła. W końcu odłożyła kartkę na kolano.
+— Przy Pati sama wybierałam, czy zaryzykować — powiedziałam. — Przez chwilę byłam pewna, że pogarszam to, co się z nią dzieje.
 
-— A księgę masz dalej?
+— Teraz ja wybieram.
 
-Między trzonkiem jej łyżki a podłogą rozdźwięczało się na chwilę drewno. Tila zgarnęła łyżkę z krawędzi kosza. Spojrzała na mnie tak, jakby przeczytała już coś w moim ciele, bo zaczęłam układać palce w pięść, zanim zdążyłam odpowiedzieć.
+Wiedziałam, co znaczy zgodzić się na przejazd, który ktoś mi odradza. Mogłam odpowiedzieć Sarnie, że ryzykuje własną ręką, i podnieść świecę. Gdyby cofnęła dłoń w połowie, nadal nie umiałabym powiedzieć jej, co zdążyłam zrobić. Odwróciłam kubek uchem w jej stronę.
 
-— Mam.
+— Nie odprawię przy tobie tego rytuału.
 
-— Przy Pati właśnie szłaś po księgę, kiedy przyniosłam ci miskę.
+Sarna wciąż miała otwartą dłoń na stole. Chciałam dotknąć palców i zobaczyć, czy chociaż drgną od ciepła. Nie zrobiłam tego. Zapytała, czy z Pati próbowałam dokładnie tak, jak było napisane. Odpowiedziałam, że tamtej nocy jeden fragment pominęłam, bo dopiero za drugim czytaniem zobaczyłam, że jeszcze coś jest pod brzegiem strony. Nawet gdybym powtórzyła wszystko z zapisów, zrobiłabym coś innego niż wtedy.
 
-— Pamiętam miskę.
+— Byłam ciekawa, czy mi po prostu odmówisz, czy najpierw wyślesz mnie po kogoś, kto zrobi to za ciebie.
 
-— Jaką?
+Wzięła łyk. Ściśniętą dłoń w tym czasie zostawiła na podłokietniku. Zapytałam, czy chce, żebym wyjęła księgę, chociaż nadal nie zrobię tego, o co poprosiła. Powiedziała, że może innym razem. Dzisiaj wystarczy jej zobaczyć, jak dobrze Pati potrafi złożyć oba skrzydła, zanim wejdzie do wąskiego przejścia.
 
-Rozstawiłam dłonie, żeby pokazać, jak była duża. Szara, pęknięta pod spodem. Tila położyła rękę na boku Kminka. Przy każdym oddechu pod palcami przesuwała jej się sierść.
-
-— Czy mogłabyś zrobić, co zrobiłaś dla niej?
-
-Przypomniałam sobie, że przy pierwszym znaku wiedziałam tylko, gdzie stoją świece. Moc przeciągnęłam o jedno miejsce dalej, niż chciałam. Kiedy Pati potem odetchnęła, potrafiłam od razu odsunąć od niej płomień, ale nie potrafiłam powiedzieć, jak go z powrotem zapalić w ten sam sposób. Przez dwa dni próbowałam poprowadzić Ciemność nad pustym kręgiem. Raz poczułam zimno aż na końcu kciuka. Za drugim razem świeca się przewróciła. Żaden z tych wieczorów nie dał mi odpowiedzi na pytanie Tili.
-
-— Przy Pati sama wybierałam, czy zaryzykować. Przez chwilę byłam pewna, że pogarszam to, co się z nią dzieje.
-
-— Teraz ja wybieram — powiedziała Tila.
-
-Mogłam pójść po księgę. Tila wiedziała o tyle, ile jej powiedziałam. Gdybym wróciła i zaczęła przesuwać meble pod krąg, pewnie odsunęłaby ławę, żeby mi pomóc. Ja zaś nawet przy pustym kręgu potrafiłam sprowadzić Ciemność tylko mniej więcej tam, gdzie chciałam. Kminek leżał półtora kroku od moich butów. Przez całe lata pozwalał mi się dotknąć za uchem, jeśli najpierw zobaczył moją rękę. Przesunęłam się, żeby miał mnie na wprost.
-
-— Nie zrobię rytuału przy Kminku — powiedziałam.
-
-Tila przytrzymała kartkę dla Dena palcem, choć drugą ręką mogła ją sobie podsunąć. Miejsce pod paznokciem zrobiło się zupełnie białe.
-
-— Możesz mi ją przynieść? Chcę przeczytać sama.
-
-Podeszłam do drzwi i zawołałam na podwórze, czy ktoś widział Dena. Zobaczyłam jego czapkę na wyższym podeście nad wozami. Krzyknęłam drugi raz. Podszedł do furtki. Podałam mu przez szczelinę kartkę. Poprosiłam, żeby przyprowadził zielarkę, kiedy skończy u dziecka.
-
-Wróciłam pod piec. Tila patrzyła na drzwi. Zdziwiła się, że wyjęłam z przejścia tylko kosz i znowu usiadłam.
-
-— Gdybym ci teraz dała stronę z księgi, mogłabyś pomyśleć, że wystarczy zrobić wszystko, co tam napisano. Ja przy Pati pomyliłam się w połowie i nawet nie umiem ci powiedzieć gdzie.
-
-Przez dłuższą chwilę Tila siedziała bez ruchu. Gdy osunęła się niżej pod piec, podałam jej szmatkę z kosza. Zwinęła ją i ułożyła Kminkowi pod łeb. Zdawało mi się, że chce go podnieść, ale pokazała tylko dłonią na własnym przedramieniu, jak mieścił się jej kiedyś, gdy wzięła go z ulicy. Pamiętałam go wyłącznie jako dorosłego. Wtedy już potrafił zająć całe krzesło i wysunąć łapę na sąsiednie.
-
-Zielarka przyszła pod wieczór. Na pytanie Tili odpowiedziała, że może tylko ulżyć Kminkowi. Poprosiła, żeby Tila przy nim została. Wzięłam pusty kosz i wyszłam po wodę.
-
-Kiedy wróciłam, Kminek już nie oddychał. Tila zasłoniła mu łapy płótnem. Usiadłam obok na podłodze. Otworzyła usta, jakby zbierała się do pytania, ale przez chwilę patrzyła tylko w stronę okna. Poprosiła mnie, żebym poszła sprawdzić, czy Pati ma co jeść.
+Pati zjawiła się, kiedy przysunęłam miskę w głąb kuchni. Przeszła obok naszych nóg i pochyliła łeb. Sarna patrzyła, jak pije. Zanim włożyła płaszcz, spytała jeszcze, czy kotka od tamtej nocy normalnie je. Mogłam jej odpowiedzieć z czystym sumieniem tylko o tym. Potrzymałam otwarte drzwi, aż zapięła torbę lewą ręką.
 
 ## Ołówkiem
 
-16 października, 11 ET · mieszkanie Konevy w Cienistym Porcie, Vesper
+16 października, 11 ET · pomost i dom Konevy w Cienistym Porcie, Vesper
 
-Na naszym podwórzu zwykle pukało się dwa razy. Chłopak z drugiego składu zapukał siedem. Za szóstym obudziła się Pati. Za siódmym siedziała na oparciu mojego krzesła i patrzyła na drzwi.
+Sarna przyniosła żagiel, który zdążyła zdjąć z mojej łodzi przed ulewą. Zostawiłam go poprzedniego ranka na masztku, bo zamierzałam wrócić. Nie wróciłam, gdy wiatr poszedł w stronę miasta i dwie łodzie przede mną musiały nocować poza portem. Sarna skręciła żagiel płótnem do środka. Z szwu przy rogu wystawały dwa długie włókna.
 
-Miałam dwa zlecenia do oddania i trzy listy, które chciałam odłożyć na wieczór. Chłopakowi brakowało w domu kota. Nie był chory. Uciekł po zmianie mieszkań i zapierał się pod deskami na górnym podwórzu. Chłopak słyszał w składzie, że umiem skłonić kota, żeby wrócił do człowieka. Przyszedł, zanim ktoś powiedział mu, żebym jedynie skoczyła po drabinę albo wyciągnęła go do jedzenia. Wolałam tę prośbę od tego, o co mnie poprzedniego dnia zapytano między dwoma wozami. Przy tamtej nawet się nie odwróciłam.
+— Mogłabyś gdzieś oznaczyć, co wolno po tobie poprawić — powiedziała.
 
-Za deskę, na której leżał kot, mogłam zajrzeć od dołu. Poprosiłam chłopaka, żeby stanął dwa kroki dalej i opowiedział coś swoim zwykłym głosem. Zaczął od spotkania przy studni, potem odezwał się ciszej i opowiadał o wozie tak długo, że po chwili sama wiedziałam, gdzie stał, kiedy kot wyszedł. Kot obwąchał mu but. Po pięciu oddechach miałam nadzieję, że da się go podnieść. Po szóstym pobiegł piętro wyżej chłopakowi prosto w ramiona. Zanim wróciłam do domu, upewniłam się, że zasunął klapę na poddaszu.
+— Zawsze możesz poprawić dopisek, że zaraz wracam.
 
-Tila czekała na mnie na podeście. Chciała odebrać kosz, który został u mnie, kiedy wyszłam po wodę. Pokazałam, że jest w sieni. Kiedy niosłam go pierwszy raz, w wiklinie zobaczyłam siwy włos Kminka. Od tamtej pory, ilekroć podnosiłam kosz, patrzyłam w tamto miejsce.
+Wzięłam od niej żagiel. W domu chciałam położyć go na podłodze. Sarna przysunęła brzeg ławy, żeby łatwiej było sobie radzić z igłą. Z zeszytu, który trzymałam pod koszem z nićmi, wysunął się ołówek. Podniosłam go, położyłam obok kubka i spytałam Sarnę, czy chce przeczytać, co zapisałam po tamtej nocy.
 
-— Chcesz przeczytać, co zrobiłam tamtej nocy? — spytałam.
+Na lewej stronie było to, czego byłam pewna. Na prawej chwile, do których cały czas coś dopowiadałam sobie w pamięci. Na jednej z pierwszych prób po przemianie Pati, kiedy ustawiłam świece w tym samym miejscu, odkryłam, że przenoszę ciężar ciała na inne kolano. Nie wiedziałam, czy wtedy, przy Pati, pamiętałam o tej szczególnej pozycji, czy po prostu zaczęła boleć mnie noga. Zostawiłam zdanie z pytajnikiem po prawej.
 
-Tila odstawiła kosz na stopień. Zamiast czekać przy nim, weszła ze mną na górę. Pokazałam jej zeszyt. Na lewej stronie zapisywałam to, czego byłam pewna. Na prawej rzeczy, które pamiętałam dopiero wtedy, gdy zamknęłam oczy, i których następnego dnia mogłam już nie pamiętać tak samo. Przy opisie pierwszej próby na pustym kręgu narysowałam trójkąt, bo zdałam sobie sprawę, że w drugiej ręce trzymałam świecę zupełnie inaczej. Widząc to w zeszycie, rozumiałam przynajmniej, skąd wiem, że robiłam coś za każdym razem trochę inaczej.
+Sarna czytała powoli. Przy wiadomości o misce zatrzymała palec.
 
-— Jeszcze nie wiem, co z tego wynika — powiedziałam. — Mogę ci pokazać wszystko, czego jestem pewna.
+— Zastanawiałam się potem, czemu tyle pamiętasz o rzeczach odłożonych na bok.
 
-— Chcę wiedzieć, czy więcej czasu spędziłaś przy księdze czy przy Pati.
+Pokazałam, gdzie siedziałam przykucnięta za pierwszym razem i gdzie stała miska. W nasadzie mojego kciuka wciąż tkwił niewielki ślad po wosku. Kiedy próbowałam wyjąć złamaną świecę z kręgu, nie puściłam jej od razu. Sarna spojrzała na miejsce. Spytała, czy pokazałam to komuś jeszcze. Powiedziałam, że dotąd pokazałam ślad przede wszystkim Pati. Ona znała go z tej samej strony.
 
-Usiadłam i zrobiłam jej miejsce na ławie. Wciąż nie miałam tej jednej liczby. Opowiedziałam jej o szukaniu pod światłem co drugiego słowa, bo papier był zbyt ciemny. Opowiedziałam, że przerywałam za każdym razem, kiedy w myślach liczyłam, ile oddechów ma Pati w następnej chwili. Mój opis nocy kończył się w miejscu, gdzie przysunęłam płaszcz, żeby usiąść na nim bliżej łóżka.
+— Pomyślałam wtedy — powiedziała Sarna — że przy Pati starczyło ci odwagi, a ja muszę jeszcze przyjść z prośbą.
 
-— To akurat pamiętam — powiedziała Tila. — Płaszcz potem miałam dłubać z podłogi, tak przymókł.
+— Gdybym miała pewność, przydałaby mi się mniej.
 
-— Wiem. Miałam nadzieję, że odczekasz tyle, żeby już nie wiedzieć, czyj jest.
+Przez chwilę przeglądała ostatnie strony. Potem złożyła zeszyt i podsunęła mi żagiel. Usiadłyśmy naprzeciw siebie. Sarna wyjęła z płótna dwa długie włókna. Kiedy sięgałam po nić, wyciągnęła lewą rękę po igłę. Obie zatrzymałyśmy się w pół ruchu, bo każda chciała nawlec igłę drugiej.
 
-— Znałam go po dziurze w łokciu. Na to trzeba więcej niż tydzień.
+— Daj tu — powiedziała w końcu.
 
-Przeczytała lewą stronę jeszcze raz. Wzięła z poręczy mój płaszcz i wróciła na ławę. Gdy dobierała nić do koloru rękawa, powiedziałam, że sama to zaszyję. Bez słowa podsunęła mi świecę. Znalazłam igłę i przez chwilę żadna z nas nie mogła zrobić kolejnego ruchu, bo obie chciałyśmy nawlec ją tej drugiej.
+Przytrzymałam materiał, a ona sfastrygowała pierwszy odcinek. Potem podała mi igłę, jakby od początku kwestią było tylko to, która zacznie.
 
 ## Światło przy ścianie
 
-11 marca, 12 ET · mieszkanie Konevy i górny podest Cienistego Portu, Vesper
+11 marca, 12 ET · dolne nabrzeże i archiwum Cienistego Portu, Vesper
 
-Zimą na deskach zgromadził się tłusty lód. Pati nauczyła się hamować skrzydłami tak, że mogła dotknąć tylko jednej łapy, gdy podest był mokry. Czasem robiła to bez potrzeby. Zostawiała na szronie jeden ślad, po czym wracała na stół i suszyła go pod własnym brzuchem. Któregoś dnia zaczęła lądować przy oknie Tili. Siedziała naprzeciw drzwi do kuchni. Odchodziła, jeśli Tila mówiła za głośno, ale zwykle dawała się przywołać z powrotem.
+Zimą na najniższym pomoście zgromadził się lód. Pati nauczyła się hamować skrzydłami, żeby dotknąć desek jedną łapą i znów wzbić się nad wodę. Czasami robiła to bez potrzeby. Zostawiała ślad na szronie, po czym wracała do łodzi i suszyła łapę pod własnym brzuchem. Kiedy pierwszy raz po odwilży odwiązałam łódź, zaczęła krążyć jeszcze przed podniesieniem żagla. Znała już miejsce przy maszcie, w które mogła zeskoczyć bez zaczepiania sznura.
 
-Po odwilży przy jednym z wejść zmienił się właściciel składu. Zamknął drogę, którą wcześniej prowadziłam Dena, bo za drzwiami trzymał nocą mąkę, a ludzie wchodzili i wychodzili bez pytania. Spytałam go, którędy teraz chodzi po zakupy. Wskazał drugie drzwi. Do nich szło się od górnej ławy, przez miejsce, gdzie Tila suszyła płótno do naprawy. Poszłam spytać, czy zgodzi się, żeby raz dziennie przechodził tamtędy kurier.
+Tego dnia wyszłam na wodę, żeby spróbować przejścia za główką nabrzeża przy północnym wietrze. Pod ścianą wyżej trzymał się lód, a za główką fala krótko wpadała od boku. Pati poszła wzdłuż burty i nagle podniosła skrzydła, choć nie leciała. Zobaczyłam, jak od tej strony silniej odbija jej się sierść. Przesunęłam dziób pół łodzi dalej. Tam miałam więcej wody pod stępką, a żagiel wziął wiatr tak lekko, że pod ręką prawie nie czułam liny. Przez następny kwadrans ćwiczyłam odwrotny zwrot, żeby sprawdzić, czy mi się uda również wtedy, kiedy obok staną wozy czekające na barkę.
 
-— Jeden — powiedziała. — Jak się pokażą wozy, wyjdę do nich ze sznurkiem. Sama zobaczysz, jaki się szybko okaże za krótki.
+Z przejścia w górnej części nabrzeża, gdzie przy mokrej desce poprzednio można było przejść pieszo, zrobiono na wiosnę zamknięty dostęp do towaru. Dwa razy podchodziłam pod tę samą bramę, zanim dowiedziałam się, że rano trzeba teraz iść przez drugą. Na starej tablicy obok wciąż wisiał znak otwartej drogi. Zdjęłam go i napisałam datę. Całą drogę do archiwum zastanawiałam się, ile osób jeszcze dzisiaj poniosło coś niepotrzebnie po schodach.
 
-Na tablicy przy wadze zostawiłam kartkę z wiadomością o zamkniętych drzwiach. Osobno wdrapałam się po schodach do chłopaka, który chodził po paczki na dolne nabrzeże. Zeszłego roku chciał tablicy z wiadomością o pomoście. Teraz dowiedział się ode mnie, gdzie zamknięto przejście i kiedy może do mnie przyjść, żeby sprawdzić obejście z pustą torbą. Nie zapisałam adresu Tili na tablicy. Wieczorem chłopak i tak chciał wiedzieć, komu za to dziękować. Poszliśmy z nim razem na górę i spytałam Tilę, czy chce go spotkać.
+Vaelis znalazłam przy oknie. Zapytałam ją, czy w portowych dokumentach zapisują gdzieś, kiedy ostatni raz i przez kogo naprawdę sprawdzono przejście. Powiedziała, że niekiedy widać to w protokole, ale z samego odpisu o zamknięciu często można się dowiedzieć tylko, kto go wypisał. Dałam jej moją kartkę. Przy dacie rozdzieliła ołówkiem dwie informacje. W jednej rubryce zostało, co sama dziś zobaczyłam. W drugiej umieściła godzinę otwarcia nowej bramy, podaną przez człowieka przy niej zatrudnionego.
 
-W kwietniu do Val Meris mieli zacząć jeździć ludzie od Prób. W urzędzie wieszano nowe zapowiedzi i prośby o zgłaszanie ludzi, którzy umieją przyprowadzić posiłki znad jeziora. Chciałam mieć środek na opłacenie kuriera, kiedy nie może roznieść swoich paczek, bo sprawdza cudze ostrzeżenia. Zanim dowiedziałam się, czy da się o to zabiegać w Val Meris, przeliczyłam sobie, ile właściwie potrzeba na początek. Na jednej stacji mogliśmy dzielić dyżury. Na dwóch potrzebny był ktoś, kto będzie gonił dowód, kiedy kurier nie wróci na czas. Na trzeciej mogłam już potrzebować człowieka przy wynagrodzeniach, a to nigdy nie była moja ulubiona część pracy.
+Zapytałam, czy chciałaby popatrzeć jeszcze na coś, co dotyczy tylko mnie. Wyjęłam zeszyt. Opowiedziałam jej, kiedy zrobiłam zapiski i dlaczego na prawej stronie tyle rzeczy wciąż mam jako pytania. Pokazała mi miejsce, w którym słowo „po” można było odczytać jak „przez”. Zmieniłam zdanie. Zostawiłam datę i kolejność. Vaelis powiedziała, że jeżeli zechcę komuś pokazać księgę, sama wzięłaby na spotkanie także zeszyt, ale bez kopiowania wszystkiego do publicznych akt.
 
-Wzięłam swój rachunek na wieczór do Tili. Dwie wersje robocze wsunęłam pod miskę, a trzecią podałam jej do ręki. Przyniosła dwa kubki i wino, które tym razem smakowało tak dobrze, jak twierdził sprzedawca. Musiała przesunąć mój kubek, żeby doczytać drobny dopisek przy wynagrodzeniach.
-
-— Ile sobie wpisałaś? — spytała.
-
-Powiedziałam, że za pierwszy tydzień zamierzałam wziąć tyle, ile Den. Potem będę więcej jeździć sprawdzać, a on będzie dłużej przy tablicy. Tila przycisnęła paznokciem w wyliczeniach jedną linijkę. Musiałam przestać żuć chleb, żeby przeczytać ją na głos.
-
-— Zapomniałaś wpisać siebie — powiedziała.
-
-Rzeczywiście zostawiłam wolną rubrykę od pierwszego dyżuru po poniedziałku. Uzupełniłam ją przy Tili. Gdy zamknęłam rachunek, Pati wyjrzała z parapetu i zobaczyła, że wciągam krzesło do stołu. Zeskoczyła tuż obok mnie. Tila przykryła otwartą dłonią ołówek, zanim Pati zdążyła się nim zainteresować. Pod futerałem na ołówek wciąż miała tę starą wstążkę. Odwróciła ją na drugą stronę, żeby Pati mogła ją złapać za czysty koniec.
+Nie mogła mi pomóc z przyczyną. Wychodząc, o to jej nawet nie zapytałam drugi raz. Na nabrzeżu poszłam zdjąć ogłoszenie o otwartej dolnej bramie. Wróciłam pod górną, żeby znowu zobaczyć to, co zapisałam po rozmowie z człowiekiem przy wadze. Dopiero wieczorem powiesiłam nową kartkę. Na jej odwrocie zaznaczyłam łuk, po którym wcześniej prowadziłam łódź, kiedy Pati podniosła skrzydła. Chciałam wejść tam znowu, kiedy wypadnie taki sam wiatr.
