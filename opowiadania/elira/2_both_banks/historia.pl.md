@@ -4,9 +4,17 @@
 
 Jesień, 8 ET · Korzenna Przystań, Verdan
 
-Świadek pamiętał, że stał po kolana w wodzie. Nie umiał powiedzieć, czy był jeszcze przy przystani, czy już za nią. Położyłam przed nim obie kopie i poprosiłam, żeby odsunął tę, którą ktoś mógł pisać z drugiej strony. Odsunął obie. Widział wtedy tylko burtę, na której ludzie ustawiali dzieci po trójce. Zaprowadził mnie do zakrętu, gdzie stawał ostatni wóz. Stamtąd przeprawa była po lewej. Z odpisu, który dotąd trzymałam pod ręką, powinna być po prawej.
+Świadek pamiętał, że stał po kolana w wodzie. Nie umiał powiedzieć, czy był jeszcze przy przystani, czy już za nią. Położyłam przed nim obie kopie. Odsunął je, bo pamiętał burtę, przy której ustawiali dzieci po trójce, i nic nie wiedział o nazwach na papierze. Zaprowadził mnie do zakrętu, gdzie stał wóz. Stamtąd przeprawa była po lewej. Na kopii, której dotąd ufałam, rampa powinna być po prawej.
 
-Wróciłam do brzegu i rozłożyłam kartki tak, jak widzieliby drogę ludzie przy obu deskach. Numery przestały sobie przeczyć. Na północ jechały osoby liczone od zewnętrznej strony. Pod drugim wpisem kończył się kurs do doliny. Pokazałam świadkowi wpis o młodszych dzieciach. Powiedział, którego odpisu używali w domu, gdzie je przyjmowano. U tego człowieka później też trzeba było zapytać, do której zagród zgłoszono Liorę. Na końcu ktoś umiał podać mi jej dorosły adres. Nie przypominał pierwszego, na który pisałam. Narysowałam objazd wokół pól, bo od strony wału nie można było wejść po zmroku.
+Po drugiej stronie rzeki z tego samego czasu zachowała się pochylnia, przy której wyładowywano łodzie. Przeszliśmy tam i stanęliśmy przy słupie. Kiedy zapytałam, którym wozem odjechały dzieci, pokazał mi drogę na północ. Potem stuknął w drugi brzeg.
+
+— Tam też podstawili wozy. Zaczęli je puszczać, zanim przeprawiła się ostatnia łódź. Po tamtej stronie wszyscy ruszali od razu do doliny.
+
+Znów rozłożyłam kopie. W obu brakowało nazw brzegów. Ktoś po wojnie przepisał wykazy pod jednym nagłówkiem „przeprawa”. Po stronie pochylni liczyli od pierwszego wozu na północ. Przy zakręcie też zaczęli od jedynki, ale stamtąd wozy jechały do doliny. Zaznaczyłam oba miejsca na swojej mapie i dopiero potem odczytałam notatkę o przyjęciu najmłodszych. Prowadziła do domu w dolinie, który przyjmował dzieci z brzegu przy zakręcie.
+
+W domu nie wystarczyło podać imienia. Tam spisywali, komu oddano dzieci, i nie notowali, kto zostanie w okolicy na stałe. Zapis o Liorze kończył się nazwą trzech zagród korzystających z jednej studni. Przeszłam do ostatniej, bo tylko tam zostało komuś do naprawienia wiadro na zimę i zastałam ludzi po pracy. Jeden z domowników podał mi jej dorosły adres. Powtórzyłam go, po czym poprosiłam, żeby mi powiedział, czy już kiedyś tam był. Był. Oddawał Liorze nóż do ziół, który zapomniała zabrać przy przeprowadzce.
+
+Szłam pod wieczór między dwoma rzędami olch. W płytkiej wodzie poniżej drogi odbijały się tak, że przez chwilę sądziłam, iż mam przed sobą dalszy ciąg alei. Stanęłam narysować oba końce mokrej ścieżki. Dopiero kiedy zapadł cień, zobaczyłam, że za olchami jest ogród. Zaznaczyłam miejsce na mapie, chociaż nie mogłabym podać stamtąd żadnego lepszego objazdu wokół pól.
 
 ## Trzy różne domy
 
@@ -15,6 +23,14 @@ Późna jesień, 8 ET · dom Liory, Korzenna Przystań, Verdan
 Otworzyła mi kobieta w mokrym fartuchu. Powiedziałam swoje imię. Poprosiła, żebym weszła, bo przy progu zawsze ciągnie od podłogi. Dopiero potem spytała, czy jestem Elirą z Aurelu. Niva podniosła się od stołu z kubkiem. Trzymała go oburącz. Próbowałam powiedzieć im, w ilu miejscach pytałam, ale pomyliłam po kolei wszystkie nazwy. Liora odsunęła dla mnie ławę. Niva postawiła kubek i zapytała, gdzie teraz mieszkam.
 
 Wyjęłam odpisy. Przyniosłam też najdłuższą kopię mapy, bo bałam się zostawić coś ważnego w domu. Z porównania ich kartek z moimi wynikało, którędy pojechał każdy wóz. Dalej musiały mi opowiedzieć obie. Kiedy zaczęłam rysować drogę Liory od wozu prosto do Przystani, poprawiła mnie od razu. Najpierw był inny dom, wokół niego grządki i studnia. Chciała, żeby na mapie zmieściła się ta pierwsza droga, którą chodziła sama po wodę. Niva pokazała dolne wejście do swojego schronu. Ja narysowałam w Aurelu okno i przyłapałam się na tym, że próbuję zmieścić w nim całą latarnię.
+
+Przy dole mapy został brzeg papieru, który zawijał się Liorze pod palcami. Przycisnęła go łokciem i podpierała brodę lewą dłonią, tak jak robiłam to ja przez całą drogę w wozach. Pamiętałam ten ruch z czasów, gdy obie próbowałyśmy patrzeć przez szparę w płocie, a Niva stała za nami i próbowała usłyszeć, co widać. Zachciało mi się powiedzieć, że wciąż robimy to tak samo. Po chwili Liora wstała. Bez patrzenia odsunęła czajnik tak daleko, żeby żaden z naszych rękawów go nie zahaczył. Tego gestu nie znałam. Zapytałam, od kiedy gotuje dla tylu ludzi.
+
+— Dla tylu? — powtórzyła.
+
+Policzyłam odruchowo kubki na półce. Liora miała ich pięć i każdy stał w innym miejscu. Powiedziała, że dwa należą do ludzi z lecznicy, którzy po nie czasem zachodzą. Kiedy chciałam wziąć pierwszy z brzegu, wyjęła mi go z dłoni, bo ucho było pęknięte. Złapała mnie przy tym za nadgarstek. Pamiętałam, że jako dzieci zawsze ciągnęłyśmy się za rękawy. Wyciągnęłam rękę drugi raz i wzięłam kubek, który chciała mi podać.
+
+Niva przestała w tym czasie trzymać swoją miskę. Zapytała, czy pytałam przy najstarszym wykazie o nią osobno. Powiedziałam, że początkowo wysyłałam jedno pytanie o obie. Dopiero potem nauczyłam się rozdzielać koperty, bo na pierwszych odpowiedziach wracało do mnie zawsze tylko jedno imię. Liora chciała wiedzieć, które. Powiedziałam, że raz jej, raz Nivy. Zdejmowała rękaw z łokcia. Rozłożyłam krawędź mapy i tym razem przytrzymałam ją sama.
 
 Przy stole wciąż miałyśmy coś do podpisania, gdy przyniesiono chleb. Miałam w głowie kilka pytań o to, czemu przez te wszystkie lata nikt nie wrócił tą samą drogą. Zapytałam tylko, czy jutro będzie można przejść pod wałem. Liora powiedziała, że tak i że sama idzie. Niva chciała wiedzieć, czy po drodze zmieścimy się we trzy. Liora odparła, że przez pierwszą kładkę trzeba przejść osobno. Dalej możemy iść, jak chcemy.
 
