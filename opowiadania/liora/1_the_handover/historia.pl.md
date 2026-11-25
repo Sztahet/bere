@@ -46,6 +46,8 @@ Przez następne tygodnie dzieliłam dyżury z dwiema osobami, które zgłosiły 
 
 Któregoś dnia wróciłam z pola z mokrymi rękami. Pod wałem oczyściliśmy wlot do jednego rowu. Dawna granica rodzinnych zagonów była wciąż widoczna, kiedy światło padało nisko. Narysowałam ją w notesie i zaznaczyłam dwa miejsca, gdzie woda zbierała się od nowa. W Val Meris zamierzałam powiedzieć, do czego potrzebujemy drożnego kanału. Chciałam też umieć nazwać ludzi, których pola zalaliśmy podczas ratowania lecznicy.
 
+## Ostatnia zmiana
+
 Połowa maja, 12 ET · lecznica w Korzennej Przystani, Verdan
 
 Na ostatnią zmianę przyszłam w połowie maja. Na stole leżał przepisany rozkład wizyt. Zmienniczki zrobiły dla mnie drugi egzemplarz. Przy domach, do których trzeba zajrzeć na koniec tygodnia, dopisały sposób wejścia. Jedna uwaga mówiła, że próg już spiłowano.
@@ -58,6 +60,20 @@ Położyłam klucz obok kartki.
 
 Wzięłam swój egzemplarz. Wieczorem poszłam jeszcze pod wał. Przy trzech polach ktoś poprawił tyczki, które Thora pokazywała starszej przed wyjazdem. Przy środkowej płynęła woda. Usiadłam na brzegu na tyle długo, żeby zobaczyć, dokąd dotrze.
 
+## Droga
+
 Połowa maja, 12 ET · droga z Korzennej Przystani, Verdan
 
 Wyruszyłam następnego ranka. Rozkład dyżurów ułożyłam na spodzie torby. Kartkę z polami wyjęłam jeszcze raz, zanim wóz minął ostatnie domy.
+
+## Miejsce przy stole
+
+Wieczór 28 maja, 12 ET · Val Meris
+
+Niva wróciła ze składu z płaszczem na ramieniu. Chciała jeszcze przed nocą się tam zjawić. Elira przyniosła mapę, którą dostała do porównania z moją kartką spod wału. Odsunęłam mapę na bok i postawiłam przed nami trzy miski. Z rozkładu dyżurów wystawał róg kartki z uwagą o spiłowanym progu. Dawniej chciałabym wiedzieć, kto go spiłował i czy zrobił to przed ostatnią wizytą. Tego dnia przypomniałam sobie tylko, że człowiek z chorym nadgarstkiem może wreszcie przejść tamtędy z miską w wolnej ręce.
+
+Kroiłam chleb. Już miałam podać Elirze środkową kromkę, kiedy zapytałam, czy woli piętkę.
+
+— Tak — powiedziała.
+
+Niva najpierw twierdziła, że wszystko jej jedno, potem poprosiła o grubszą. Dałam jej tę z talerza przede mną. Wziąwszy drugi kawałek dla siebie, zjadłam go, zanim wróciłyśmy do rozmowy o polach. Elira chciała wpisać do mapy jeden punkt, który Niva znała z własnej drogi. Przy moich zagonach zostawiła puste miejsce. Obiecałam, że dopiszę tam imiona, kiedy dostanę odpowiedź z doliny. Niva powiesiła płaszcz przy drzwiach. Został tam do końca posiłku.

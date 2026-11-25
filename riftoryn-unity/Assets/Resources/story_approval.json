@@ -467,6 +467,42 @@
     {
       "folder": "SarnaStory3",
       "draft": false
+    },
+    {
+      "folder": "NivaDraft1",
+      "draft": true
+    },
+    {
+      "folder": "NivaDraft2",
+      "draft": true
+    },
+    {
+      "folder": "NivaDraft3",
+      "draft": true
+    },
+    {
+      "folder": "LioraDraft1",
+      "draft": true
+    },
+    {
+      "folder": "LioraDraft2",
+      "draft": true
+    },
+    {
+      "folder": "LioraDraft3",
+      "draft": true
+    },
+    {
+      "folder": "EliraDraft1",
+      "draft": true
+    },
+    {
+      "folder": "EliraDraft2",
+      "draft": true
+    },
+    {
+      "folder": "EliraDraft3",
+      "draft": true
     }
   ]
 }

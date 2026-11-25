@@ -144,7 +144,7 @@ public partial class RiftorynMenu : MonoBehaviour {
             default: return RiftorynCodexData.Text("HISTORIA  →","THEIR HISTORY  →");
         }
     }
-    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="oren"||id=="morrak"||id=="nera"||id=="veda"||id=="volt"||id=="varek"||id=="miko"||id=="azmir"||id=="vaelis"||id=="thora"||id=="ilda"||id=="lumen"||id=="tevia"||id=="orien"||id=="zet"||id=="heda"||id=="pyrra"||id=="ana"||id=="koneva";
+    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="oren"||id=="morrak"||id=="nera"||id=="veda"||id=="volt"||id=="varek"||id=="miko"||id=="azmir"||id=="vaelis"||id=="thora"||id=="ilda"||id=="lumen"||id=="tevia"||id=="orien"||id=="zet"||id=="heda"||id=="pyrra"||id=="ana"||id=="koneva"||id=="niva"||id=="liora"||id=="elira";
     bool HasExtraStories(string id)=>id=="rian"||id=="lucen"||id=="taren"||id=="ruvan"||id=="kael"||id=="iskar"||id=="sarna"||id=="morven";
     void DrawExtraStories(CodexHero hero)
     {
@@ -192,6 +192,9 @@ public partial class RiftorynMenu : MonoBehaviour {
             case "ana": prefix="Ana"; titles=new[]{"KIEDY OBESCHNIE ZIEMIA", "NIE PYTAM, KOMU", "BAMBUS NA CAŁY ROK"}; break;
             case "koneva": prefix="Koneva"; titles=new[]{"KIEDY OTWORZYSZ OKNO", "DWIE WERSJE TEJ SAMEJ NOCY", "ZANIM ODBIJEMY"}; break;
             case "oren": prefix="Oren"; titles=new[]{"PIÓRO PRZY KLAMRZE", "NIE MA DRUGIEJ TAKIEJ", "PODPIS POD ŻELAZEM"}; break;
+            case "niva": prefix="Niva"; titles=new[]{"DAJ ZNAK, ZANIM PUŚCISZ", "OSTATNIA Z DROGI", "ZACZEKAJ NA MÓJ ZNAK"}; break;
+            case "liora": prefix="Liora"; titles=new[]{"CZYJE GRZĄDKI", "ZANIM WODA ZEJDZIE", "ZANIM ZAMKNĘ LECZNICĘ"}; break;
+            case "elira": prefix="Elira"; titles=new[]{"OD KTÓREJ STRONY", "OBA BRZEGI", "KTO WIDZIAŁ MOST"}; break;
             case "ilda": prefix="Ilda"; titles=new[]{"OD STRONY SADU", "SZEROKOŚĆ BRAMY", "TĘDY MOŻNA WRÓCIĆ"}; break;
             case "nera": prefix="Nera"; titles=new[]{"WOLNE RĘCE", "PO DRUGIEJ STRONIE", "MIEJSCE NA NAUKĘ"}; break;
             case "nocten": prefix="Nocten"; titles=new[]{"DROGA, KTÓREJ NIE BYŁO", "TYM RAZEM NIE WIERZ NOCTENOWI", "PIERWSZA LEKCJA"}; break;

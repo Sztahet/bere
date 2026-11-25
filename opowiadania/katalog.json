@@ -1051,5 +1051,86 @@
         "draft": false
       }
     ]
+  },
+  {
+    "id": "niva",
+    "name": "Niva",
+    "region": "Nivoren",
+    "portrait": "niva-cold-support-v2.png",
+    "series": "Trylogia Nivy",
+    "stories": [
+      {
+        "id": "daj-znak-zanim-puscisz",
+        "folder": "opowiadania/niva/1_before_you_let_go",
+        "unity": "NivaDraft1",
+        "draft": true
+      },
+      {
+        "id": "ostatnia-z-drogi",
+        "folder": "opowiadania/niva/2_the_last_one_up",
+        "unity": "NivaDraft2",
+        "draft": true
+      },
+      {
+        "id": "zaczekaj-na-moj-znak",
+        "folder": "opowiadania/niva/3_wait_for_my_sign",
+        "unity": "NivaDraft3",
+        "draft": true
+      }
+    ]
+  },
+  {
+    "id": "liora",
+    "name": "Liora",
+    "region": "Verdan",
+    "portrait": "liora-nature-support-v2.png",
+    "series": "Trylogia Liory",
+    "stories": [
+      {
+        "id": "czyje-grzadki",
+        "folder": "opowiadania/liora/1_whose_garden",
+        "unity": "LioraDraft1",
+        "draft": true
+      },
+      {
+        "id": "zanim-woda-zejdzie",
+        "folder": "opowiadania/liora/2_the_side_channel",
+        "unity": "LioraDraft2",
+        "draft": true
+      },
+      {
+        "id": "zanim-zamkne-lecznice",
+        "folder": "opowiadania/liora/1_the_handover",
+        "unity": "LioraDraft3",
+        "draft": true
+      }
+    ]
+  },
+  {
+    "id": "elira",
+    "name": "Elira",
+    "region": "Aurel",
+    "portrait": "elira-light-support-v2.png",
+    "series": "Trylogia Eliry",
+    "stories": [
+      {
+        "id": "od-ktorej-strony",
+        "folder": "opowiadania/elira/1_from_which_side",
+        "unity": "EliraDraft1",
+        "draft": true
+      },
+      {
+        "id": "oba-brzegi",
+        "folder": "opowiadania/elira/2_both_banks",
+        "unity": "EliraDraft2",
+        "draft": true
+      },
+      {
+        "id": "kto-widzial-most",
+        "folder": "opowiadania/elira/3_when_was_it_checked",
+        "unity": "EliraDraft3",
+        "draft": true
+      }
+    ]
   }
 ]

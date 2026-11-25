@@ -1,0 +1,27 @@
+# Zanim woda zejdzie
+
+## Dwa wejścia
+
+Roztopy, 9 ET · lecznica w Korzennej Przystani, Verdan
+
+W lecznicy mieliśmy dwa wejścia. Jedno otwierało się na drogę, drugie na zagony pod wałem. Od strony grządek nosiłam latem zioła. Kiedy woda przeszła przez rów, na mokrym progu znalazłam przydeptaną łodygę z zeszłego roku. Pierwszy chory leżał tak płasko, że nawet kiedy podłożyliśmy pod niego drugą kołdrę, nie zdołaliśmy razem przesunąć posłania. Poleciłam przynieść szeroką płachtę. Nim dotarliśmy do drzwi, nauczyłam się obracać ją w wąskim przejściu. Przy drugim łóżku poprosiłam, żeby zrobiła to osoba po przeciwnej stronie. Miała w tym miejscu więcej swobody.
+
+Niva dawała znaki ze śluzy. Gdy mijałam okno, widziałam, jak jej lód wiąże krawędź belki. Przy wyjściu leżała łopata, której ktoś używał do odkopywania wlotu do bocznego odpływu. Jeśli go otworzę, woda ominie drogę i naszą izbę. Popłynie w stronę zagonów. Część należała do mnie. Za płotem ludzie też mieli już wsadzone sadzonki. Chciałam mieć czas, żeby pójść i powiedzieć im, ile mogą zabrać. Wysłałam tylko wiadomość, że trzeba się odsunąć od rowu.
+
+Pokazałam Nivie, że idę ku odpływowi. Otwór był mniejszy, niż go sobie wyobrażałam. Zasuwa stanęła na kamieniu. Wycofałam ją trochę i przesunęłam głaz łopatą. Woda wzięła najpierw szypułkę starej fasoli, potem kawałek kory. Chciałam zobaczyć, czy prąd sam znajdzie najniższe miejsce pod płotem. Gdy poruszył się pierwszy palik, ruszyłam po ostatnią osobę z izby.
+
+## Pod palikiem
+
+Po roztopach, 9 ET · zalane pola Korzennej Przystani, Verdan
+
+Niva próbowała mi powiedzieć, ile zapasów uratowano. Poprosiłam, żeby poszła ze mną pod wał. Od naszej strony brakowało dwóch słupków. Dalej zaczynało się pole sąsiadów. Przyszli z kartką, na której mieli napisane, ile sadzonek wzięli na ten rok. Stanęłam obok jednego z nich i pomogłam mu doliczyć to, co wpisał na odwrocie. Nie spytał, czy drugi raz otworzyłabym kanał. Spytał, czy da się jeszcze coś posadzić.
+
+Podniosłam wyrwaną roślinę. Liście miała zielone i przez chwilę chciałam obiecać, że wszystko ruszy. Odwróciłam bryłę. Na dole nie zostało nic, co mogłabym poprowadzić. Poprosiłam sąsiadów, żeby pokazali, dokąd ich zdaniem doszła woda. Niva przytrzymała im kartkę. Naszą tyczkę postawiłam tam, gdzie poprzedniej jesieni pokazywałam jej ostatni zagon.
+
+## Druga kreska
+
+Późna wiosna, 9 ET · dom Liory, Korzenna Przystań, Verdan
+
+Elira przyniosła mapę z dwiema kreskami przy moim domu. Jedna pokazywała, do którego miejsca doszła woda, druga dawną granicę zagonów. Po błędzie z mostem chciała mieć przy każdej linii dzień i imię osoby, która ją sprawdziła. Zaproponowałam, że przejdę z nią do płotu. Zapytała, czy mogę zejść również na pola sąsiadów. Na to już nie obiecałam, że pójdę bez pytania.
+
+Z domu, w którym dorastałam, przysłano mi woreczek nasion. Chciałam wybrać z nich to, co straciłam wiosną. Dopiero kiedy wyjęłam do tego miskę, pomyślałam o sąsiadach, którzy przyszli z policzonymi sadzonkami. Poprosiłam Elirę, żeby zaniosła woreczek na wspólny stół pod wałem. Wieczorem poszłam tam sama. Nasiona przesypano już do zapasu na pierwszą suchą ziemię. Dołączyłam kartkę z liczbą własnych zagonów. Obok zostawiłam wolne miejsce na to, co przyniosą ludzie z drugiej strony odpływu.
