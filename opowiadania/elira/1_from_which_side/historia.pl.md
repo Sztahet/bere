@@ -6,7 +6,7 @@ Jesień, 2 ET · obserwatorium w Aurelu
 
 W domu, w którym dorastałam, wiedzieli, że po ciemku nigdy nie szukam lampy na stole. Zostawiali mi ją w oknie. Mogłam zamknąć oczy i dotknąć futryny, a druga ręka od razu trafiała na uchwyt. Kiedy pierwszy raz poszłam z nimi na dyżur, próbowałam postawić latarnię pod oknem stacji, tak jak w domu. Na dole widzieli tylko dolną połowę klosza. Światło pokazywało ludziom, że ktoś jest w środku. Nikt nie umiał po nim rozpoznać właściwego wejścia.
 
-Nauczyłam się przesuwać jasny krąg po murze, podtrzymując skupioną wiązkę za szkłem. Szło mi dobrze, dopóki ktoś stał przy mnie i mówił, z którego miejsca mam zacząć. Pewnego wieczoru na schodach umówiłyśmy się, że przy każdym kolejnym sygnale mnie wskażą stopień o jeden niżej. Zeszłam po ostatnim stopniu i zobaczyłam trzy różne drzwi. Światło stało na murze tak równo, że człowiek stąd mógł uznać wszystkie trzy za równie dobre. Pobiegłam na górę. Musiałam sama pokazać, który próg jest potrzebny.
+Nauczyłam się przesuwać jasny krąg po murze, podtrzymując skupioną wiązkę za szkłem. Szło mi dobrze, dopóki ktoś stał przy mnie i mówił, z którego miejsca mam zacząć. Pewnego wieczoru na schodach umówiłyśmy się, że przy każdym kolejnym sygnale wskażą mi stopień o jeden niżej. Zeszłam po ostatnim stopniu i zobaczyłam trzy różne drzwi. Światło stało na murze tak równo, że człowiek stąd mógł uznać wszystkie trzy za równie dobre. Pobiegłam na górę. Musiałam sama pokazać, który próg jest potrzebny.
 
 ## Na dnie kufra
 

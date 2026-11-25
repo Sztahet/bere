@@ -494,15 +494,15 @@
     },
     {
       "folder": "EliraDraft1",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "EliraDraft2",
-      "draft": true
+      "draft": false
     },
     {
       "folder": "EliraDraft3",
-      "draft": true
+      "draft": false
     }
   ]
 }

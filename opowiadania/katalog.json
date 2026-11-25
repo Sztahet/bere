@@ -1117,19 +1117,19 @@
         "id": "od-ktorej-strony",
         "folder": "opowiadania/elira/1_from_which_side",
         "unity": "EliraDraft1",
-        "draft": true
+        "draft": false
       },
       {
         "id": "oba-brzegi",
         "folder": "opowiadania/elira/2_both_banks",
         "unity": "EliraDraft2",
-        "draft": true
+        "draft": false
       },
       {
         "id": "kto-widzial-most",
         "folder": "opowiadania/elira/3_when_was_it_checked",
         "unity": "EliraDraft3",
-        "draft": true
+        "draft": false
       }
     ]
   }
