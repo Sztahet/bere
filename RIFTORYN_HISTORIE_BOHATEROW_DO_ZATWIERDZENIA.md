@@ -99,6 +99,36 @@ Siostry wspólnie pomagają potrzebującym, łącząc wyuczone umiejętności, a
 
 ## Dodatkowi bohaterowie
 
+### Oren z Kharum — Wsparcie Ognia [propozycja]
+
+Oren ma 67 lat w 12 ET. W kuźni w Kharum wyrabia pancerze i sprzęt ratunkowy. Przy miechu oszczędza ręce, prowadząc żar magią. Najbardziej lubi robotę na zamówienie. Przed kuciem wypytuje ludzi, jak podnoszą skrzynię, gdzie noszą latarnię i którą ręką otwierają klamrę w rękawicy. Po sprzedaży zatrzymuje wzorniki. Każda naprawa z jego znakiem to kolejna zapłata i powód, żeby jeszcze raz ktoś zapukał do drzwi.
+
+**Zbroja Piecariusa.** Zimą 11/12 ET Oren wykuł ją na zamówienie przyjęte przez skład. Dostał miary i rysunek feniksa, według którego wykonał zdobienie napierśnika. Klient odebrał zbroję w składzie. Gdy Veda przywozi list do chaty Orena 8 kwietnia 12 ET, kowal po raz pierwszy widzi Piecariusa i rozpoznaje własną robotę. Zajmuje go list o nowo narodzonym wnuku. Piecarius wciąż może szukać źródła znaku z księgi ojca. [Wizyta oczami Piecariusa](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md#stary-kamień) · [Wizyta oczami Vedy](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md#list-dla-orena)
+
+**Co wykuwa.** Złożył napierśnik Piecariusa tak, by ten mógł unieść tarczę bez zahaczania o bark. Jego obejma ratunkowa podtrzymuje uszkodzony zawias, dopóki Oren utrzymuje w metalu żar. Ma też osłonę latarni, którą woźnica może zdjąć i wymienić w rękawicach. Oren dobierał jej mocowania osobno do każdego zamówienia. **W grze** jego kuta osłona amortyzuje część najbliższego trafienia w sojusznika, a w obronie może osłonić czynną wieżę. Oren utrzymuje jedną taką osłonę na raz. Wybór nowego celu odsłania poprzedni. To drugi wariant Wsparcia Ognia obok Solana.
+
+**Zarys trylogii**
+
+1. **Pióro przy klamrze**, 8 kwietnia, 12 ET · chata Orena, Kharum. Po wizycie Vedy Oren zabiera się do wykucia latarni na zamówienie do Val Meris. Przy pracy wraca do dnia, kiedy zarobił na zbroi Piecariusa i schował wzorniki. Chce zdążyć z latarnią przed Igrzyskami. Z zapłaty zamierza pokryć naprawę dachu siostry.
+2. **Jeszcze jedno zamówienie**, 27 maja, 12 ET · zaplecze warsztatów, Val Meris. Solan przynosi dwie latarnie z połamanymi osłonami. Każda ma inne mocowanie Orena. Obie są potrzebne na kurs następnego wieczoru. Oren zdąży zrobić parę mocowań o wspólnym rozmiarze, jeśli wykorzysta części przygotowane do własnego zamówienia. Solan proponuje, żeby warsztat na drugim końcu trasy dostał te same miary i mógł dorabiać osłony na miejscu.
+3. **Do odebrania u każdego**, 28 maja, 12 ET · zaplecze warsztatów, Val Meris. Oren oddaje zaliczkę za niedokończoną latarnię i z pomocą Solana kończy oba mocowania. Zostawia mu wzornik do kopiowania. Kiedy Piecarius zagląda po zapasowy rzemyk, Oren mówi mu, kto wykuł zbroję, i pokazuje, jak wymienić rzemyk w drodze. Przed zamknięciem Urzędu Prób zgłasza się w barwach Kharum. Chce zdobyć zamówienia na sprzęt, który da się naprawić także w warsztacie po drugiej stronie szlaku. Wieczorem pisze siostrze, że na razie stać go tylko na jedną belkę.
+
+**Otwarcie pierwszej części**
+
+#### Pióro przy klamrze
+
+8 kwietnia, 12 ET · chata Orena, Kharum
+
+Poznałem zbroję po piórze przy klamrze. Na rysunku z zamówienia ogon feniksa sięgał za zapięcie. Skróciłem ostatnie pióro, żeby nie zachodziło na klamrę. Teraz właściciel wypolerował je tak starannie, że widziałem je z progu.
+
+— Feniks — powiedziałem.
+
+Od razu spytał, czy znam ten znak. Nałożył przed drogą czegoś z cynamonem. Kiedy podniósł rękę do napierśnika, zobaczyłem, że naramiennik opadł odrobinę niżej, niż go osadziłem. Miałem w fartuchu rzemień, kupiony dla siebie. Sięgnąłem po niego, ale Veda podała mi list.
+
+Siostra pisała, że ma wnuka. Poprosiłem Vedę, żeby powtórzyła imię. Chciałem zapamiętać, jak brzmi, zanim spróbuję je znaleźć w liście. Kiedy wóz ruszał, przesunąłem palcem wzdłuż pierwszych linijek, aż dobrnąłem do tej przeklętej cebuli. O dachu zamierzałem przeczytać później. Wiedziałem z poprzedniego listu, nad którym łóżkiem cieknie.
+
+*Ciągłość. To Oren mieszkający przy trakcie w Kharum. Kierownik stacji w historii Lumen nosi to samo imię.*
+
 ### Miko — Błyskawice
 Ten improwizujący szermierz i inżynier w charakterystycznym kapeluszu woli naprawić sytuację po swojemu, nawet jeśli jego metoda jest ryzykowna. W Próbach podejmuje się sabotażu i napraw, by wspierać ekipy utrzymujące przekaźniki i chronić łączność na szlakach.
 
@@ -626,6 +656,14 @@ The flood did not create their bond; it tested a bond they were only beginning t
 The sisters now help people together, combining the skills they learned, but do not pretend they must always work as one team. Their cooperation shows how different elements and experiences can complement one another; it does not require any sister to give up her own path.
 
 ## Additional heroes
+
+### Oren of Kharum — Fire Support [proposal]
+
+Oren is sixty-seven in 12 AT. He makes armour and rescue equipment in Kharum, using Fire magic to control the heat and spare his hands at the bellows. He forges emergency braces that hold damaged hinges while he keeps the metal hot, and makes lantern guards that can be replaced with gloves on. He keeps the templates when he sells a piece, so every repair bearing his mark brings him another payment and another visitor. His proposed support ability cushions part of the next hit against an ally or a standing tower. He can maintain only one guard at a time. He is a second Fire Support alongside Solan.
+
+In the winter of 11–12 AT, Oren forged Piecarius's armour to measurements supplied through a depot. He worked the phoenix into the breastplate from a drawing sent with the order. Piecarius collected the armour at the depot. When Veda brings a letter to his cottage on 8 April, Oren meets his customer for the first time and recognises his work. Piecarius's search for the origin of the bird in his father's book can continue. [Piecarius's account](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md#stary-kamień) · [Veda's account](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md#list-dla-orena)
+
+The proposed trilogy starts in Kharum on 8 April 12 AT. Oren plans to pay for his sister's roof with a lantern commission. In Val Meris on 27 May, Solan brings him two lanterns with broken guards and incompatible fittings. Both are needed for the next evening's run. On 28 May, Oren refunds the deposit on his commission and uses the parts to finish two matching fittings. He gives Solan the template to copy and tells Piecarius who made his armour. He registers for the qualifiers before the office closes, hoping to win orders for equipment that workshops along the route can repair. That evening he writes to tell his sister that he can only afford one beam for now.
 
 ### Miko — Lightning
 This improvisational swordsman and engineer in a distinctive hat prefers to fix a situation his own way, even when the method is risky. In the Trials, he takes on sabotage and repairs to support relay crews and protect communications along the routes.
