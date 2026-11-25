@@ -8,7 +8,7 @@ Kiedy byłam mała, wpychałam do wilgotnej ziemi cały palec, żeby pokazać ko
 
 Latem zielarki z naszej rodziny trzymały przy ławie dwa kosze. Do jednego trafiały liście na kompresy. W drugim były sadzonki, które chcieliśmy utrzymać do następnych nasion. Zdrowe miałam przenieść do cienia, słabsze obejrzeć od spodu. Wzięłam kosz z najsłabszymi pod pachę. Nosiłam go od studni do okna, aż wszystkie wyglądały na trochę bardziej przytomne. Przy jednej trzymałam dłoń tak długo, że kiedy ją odjęłam, liść złożył się pod własnym ciężarem.
 
-Kobieta, która nauczyła mnie robić opatrunki, wyjęła mi sadzonkę z donicy. Korzeń urywał się przy starej bruździe.
+Sadzonkę wyjęła mi z donicy Miren. To u niej zamieszkałam po ewakuacji. Uczyła mnie robić opatrunki i od tamtej pory mogłam w jej domu ciąć płótno bez pytania. Tylko nożycami od kuchni nie wolno mi było tknąć ani nitki. Obróciła doniczkę. Korzeń urywał się przy starej bruździe.
 
 — Co jej dałaś? — spytała.
 
@@ -28,6 +28,16 @@ Dałoby się zanieść wiadro samej. Zaniosłyśmy je we dwie, dwa razy stając 
 
 Wieczorem rodzina rozłożyła przy mnie list z rodzinnej doliny. Mogłam pojechać do Korzennej Przystani i zobaczyć, czy będzie dla mnie miejsce przy lecznicy. Spytałam, co stanie się z naszymi dwoma koszami. Usłyszałam, że jeden z nich już umie przejąć ktoś młodszy. Pokazałam mu pierwszą sadzonkę. Włożył od razu cały palec pod korzeń. Wyjęłam mu z dłoni donicę tak gwałtownie, że rozsypała się ziemia. Na ławie zostało dość, żebyśmy mogli obejrzeć odrosty oboje.
 
+Do pakowania zabraliśmy się po kolacji. Miren włożyła mi do skrzyni pęk suszonej mięty owinięty w płótno. Wyjęłam go i odmierzyłam połowę.
+
+— Będziesz miała na napar, jak cię gardło weźmie.
+
+— Jak mnie gardło weźmie, będę miała na cebulę z miętą. Jeszcze nie próbowałaś, bo wyjadasz cebulę, zanim zdążę dosypać.
+
+Poszła po dwie ostatnie cebule. Jedną upiekłyśmy w popiele, drugą podsmażyłam na patelni. Do każdej roztarłam trochę mięty z solą. Miren uparła się, że będzie próbować z zamkniętymi oczami, bo zawsze kręcę nosem, kiedy wybiera inaczej ode mnie. Wybrała pieczoną. Podałam jej drugą łyżkę z tego samego talerza, żeby się jeszcze raz namyśliła. Wybrała tę samą.
+
+Zapisałam na skrawku papieru, ile soli dałam, i wsunęłam go pod wieko skrzyni. Miren kazała mi zostawić jej odpis. Myślałam, że liczy na gotowy sposób na kolację. Powiedziała, że kiedy przyjadę w odwiedziny, zamierza mi podać własną wersję i wtedy sama będę musiała zamknąć oczy.
+
 ## Obie płachty
 
 Jesień, 8 ET · górski szlak do Verdan
@@ -45,3 +55,7 @@ Przy płachcie policzyłyśmy ludzi od nowa. Dopiero wtedy podała imię.
 — Liora.
 
 Nadal trzymałam dłonią miejsce przy cudzej nodze, gdzie płachta zsuwała się na ziemię. Niva wyjęła drugą z torby i poprosiła, żebym powiedziała, komu ją podać. Powiedziałam. Później usiadłyśmy przy mokrym wozie, takim samym jak inne, które przez te lata odjeżdżały z moimi pytaniami o siostry. Podałam Nivie adres. Poprosiłam, żeby potem dała mi swój. Musiałam wiedzieć, gdzie pójdę po nią, jeśli tym razem to ja ruszę pierwsza.
+
+Wyciągnęła rękę do mojego kaptura. Odsunęłam głowę. Jeszcze przed chwilą podałabym jej rękę w ciemno nad wyrwą, a teraz zirytowało mnie, że chce mi coś poprawić przy twarzy. Spytałam, co robi. Opuściła dłoń. Gdy ustaliłyśmy, gdzie trafiła sucha płachta, podałam jej sznurek i poprosiłam o węzeł z lewej strony. Dopiero kiedy go wiązała, przypomniałam sobie, że dawniej podwijałam kaptur, bo mokre końce łaskotały mnie po nosie. Niva też musiała to pamiętać. Ja przypomniałam sobie dopiero po jej geście.
+
+Na odpisie przy moim imieniu zapisano „jeden but”. Roześmiałam się, bo człowiek, który to wpisał, policzył tylko ten na nodze. Własny zgubiłam w wodzie. Niva oddała mi oba swoje, ale drugi niosłam w ręce, bo nie zdążyłam go zawiązać. Przez lata pamiętałam, że się do mnie złościła, żebym wreszcie biegła. Dopiero przy wozie usłyszałam, że sama biegła w skarpetach. Chciałam jej powiedzieć, że następnym razem obie zatrzymamy się na węzeł. Przytrzymałam tylko sznurek, żeby skończyła wiązać.

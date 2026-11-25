@@ -14,7 +14,7 @@ Thora zapytała o trzy pola pod wałem. Dobrze znałam jedno z nich. Podczas pow
 
 — Dwie osoby już się zgłosiły. Ustal z nimi, które wizyty trzeba zrobić w domu.
 
-Przy pierwszym imieniu postawiłam kropkę. Dopiero przy drugim spytałam, czy obie osoby wiedzą, ile pracy oznacza taki dyżur. Starsza powiedziała, że przyszły z własną listą godzin. Chciałam ją od razu zobaczyć. Mogłam im wreszcie powiedzieć, czego potrzebuję, bez zgadywania, która z nich znajdzie czas po drodze.
+Przy pierwszym imieniu postawiłam kropkę. Dopiero przy drugim spytałam, czy obie osoby wiedzą, ile pracy oznacza taki dyżur. Starsza powiedziała, że same przyniosły listę godzin. Pomyślałam, że mogę pojechać choćby po to, żeby raz od rana mieć ochotę na śniadanie.
 
 Eron przytrzymał mapę na stole, a Bob wsunął Anie nos pod dłoń. Kiedy Thora podała mi ołówek, wystarczyło miejsca na podpis. Zanim przesunęłam listę do Erona, otworzyłam notes i obok pierwszej kropki dopisałam „wizyta w domu”. Po spotkaniu miałam pokazać drogę osobie, która przejmie dyżur.
 
@@ -36,15 +36,7 @@ Na drodze powiedziałam jej o ruchomym progu.
 
 — Wiem — odpowiedziała. — Sama pomogłam go wstawić po powodzi. Chciałam, żeby wyszedł wyższy. Teraz żałuję.
 
-Zaśmiałyśmy się obie. Po chwili zapytałam ją, co zrobi, jeśli któregoś dnia wypadną trzy wizyty naraz. Powiedziała, że zacznie od tej, do której ma najdalej, o ile pozostałe osoby mogą zaczekać. Spytała, do kogo udać się po pomoc, gdy żadna czekać nie może. Pokazałam jej pierwszy wiersz na kartce z dyżurami. Dotąd widniało tam wyłącznie moje imię.
-
-## Drugi egzemplarz
-
-Wiosna, 12 ET · Korzenna Przystań, Verdan
-
-Przez następne tygodnie dzieliłam dyżury z dwiema osobami, które zgłosiły się starszyźnie. Jedna pamiętała wszystkie domy. Druga wcześniej zauważała, że kończą się zapasy. Przez pewien czas pilnowałam każdego przekazania kluczy. Za trzecim razem przyłapałam się na tym, że stoję w progu i powtarzam komuś godzinę, którą przed chwilą sam mi podał.
-
-Któregoś dnia wróciłam z pola z mokrymi rękami. Pod wałem oczyściliśmy wlot do jednego rowu. Dawna granica rodzinnych zagonów była wciąż widoczna, kiedy światło padało nisko. Narysowałam ją w notesie i zaznaczyłam dwa miejsca, gdzie woda zbierała się od nowa. W Val Meris zamierzałam powiedzieć, do czego potrzebujemy drożnego kanału. Chciałam też umieć nazwać ludzi, których pola zalaliśmy podczas ratowania lecznicy.
+Zaśmiałyśmy się obie. Nazajutrz poprosiłam ją, żeby spróbowała mojej cebuli z miętą. Zjadła dwie łyżki i spytała, od kogo nauczyłam się tak solić. Powiedziałam, że od Miren nauczyłam się robić dwa garnki, żeby każdy mógł wybrzydzać przy swoim.
 
 ## Ostatnia zmiana
 
@@ -58,7 +50,7 @@ Położyłam klucz obok kartki.
 
 — Najpierw pójdziemy do kogoś, kto może przyjść tego samego dnia. Do ciebie napiszemy, jeśli potrzebna będzie twoja odpowiedź.
 
-Wzięłam swój egzemplarz. Wieczorem poszłam jeszcze pod wał. Przy trzech polach ktoś poprawił tyczki, które Thora pokazywała starszej przed wyjazdem. Przy środkowej płynęła woda. Usiadłam na brzegu na tyle długo, żeby zobaczyć, dokąd dotrze.
+Wzięłam swój egzemplarz. Wieczorem poszłam jeszcze pod wał. Przy trzech polach ktoś poprawił tyczki, które Thora pokazywała starszej przed wyjazdem. Przy środkowej znów stała woda. Zaznaczyłam to miejsce na kartce przed drogą. W Val Meris chciałam mówić o naprawie kanału z kartką, na której wciąż było miejsce na imiona ludzi mieszkających za nim.
 
 ## Droga
 
@@ -66,14 +58,54 @@ Połowa maja, 12 ET · droga z Korzennej Przystani, Verdan
 
 Wyruszyłam następnego ranka. Rozkład dyżurów ułożyłam na spodzie torby. Kartkę z polami wyjęłam jeszcze raz, zanim wóz minął ostatnie domy.
 
+## Przy kramie
+
+Druga połowa maja, 12 ET · targ w Val Meris
+
+Pierwszego dnia w mieście skręciłam za człowiekiem niosącym dwa chleby i zamiast pod bramę trafiłam na targ. Z ulicy dobiegały trzy różne okrzyki o świeżym chlebie. Przy studni stał kram z pieczoną cebulą. Sprzedawca podawał ją z czymś, czego zapach brałam z początku za ocet. Spytałam, co dolał. Uniósł jabłko, które właśnie kroił. Było kwaśne jeszcze po upieczeniu. Wzięłam drugą ćwiartkę i zjadłam bez cebuli, żeby sprawdzić, czy za pierwszym razem to jej słodycz mnie zmyliła.
+
+Kupiłam jedno jabłko dla siebie, drugie na kolację z siostrami. Na straganie obok znalazłam ocalałe po długiej drodze gałązki mięty i spytałam, skąd przyjechały. Handlarka podniosła wiadro. Gałązki stały w wodzie od rana, podczas gdy ja już wyobrażałam sobie odległą krainę, której sekretem miała być zielona mięta bez ani jednego suchego liścia.
+
+## Na czyim papierze
+
+27 maja, 12 ET · gospoda przy składach w Val Meris
+
+Kiedy przyszłam do Inry z odpisem z archiwum, kroiła czwartą kromkę chleba. Iskar przyszedł przed moim powrotem. Z Nivą czekali, aż gospodyni zrobi miejsce na rachunki. Pomogłam przesunąć deskę od pieca. Miałam jeszcze w pamięci ustawienie dwóch dat w księdze, ale Iskar zaczął od pytania o pole.
+
+— Pani już pytała — powiedziała do mnie Inra.
+
+— Teraz pyta on.
+
+Inra narysowała mu dojazd do młyna. Palcem omijała zagięcie arkusza przy strumieniu. Bez części młyn nadal nie mógł ruszyć, a za każdy dodatkowy przejazd do przemiału trzeba było płacić. Kiedy Iskar powiedział, że umyślnie przetrzymał kartę, odruchowo sięgnęłam po odpis. Chciałam mu pokazać coś, co właśnie sam powiedział. Później Inra poprosiła go, żeby zamiast rozliczać tylko ją, zapisał po kolei, kiedy dostawał potwierdzenia i kiedy je przekazywał. Cztery rachunki rozłożyliśmy tak, żeby żadnego nie przykryć rękawem.
+
+— A części? — zapytałam, kiedy skończyliśmy. — Chcę jutro dostać termin, który trafi również do ludzi przy młynie.
+
+Wiedziałam o miejscu przy burcie, które mogłaby dla mnie znaleźć Niva. Tym razem poszłyśmy oddać odpis i zapowiedziałam, że rano wrócę po zwykły termin. Gdy wychodziłyśmy, Inra złożyła własny rysunek. Zapytałam, czy mam go zanieść razem z papierami. Powiedziała, że chce mieć go przy sobie, gdy będzie rozmawiała z pozostałymi gospodarzami. Oddałam jej sznurek, do którego miałam już przywiązać wszystkie kartki.
+
+## Gdzie położyć ręce
+
+28 maja, 12 ET · plac ćwiczeń i Urząd Prób, Val Meris
+
+Na placu postawiono skrzynię z wilgotną ziemią. Z jednej strony stały nosze. Zadanie polegało na tym, żeby przenieść je przez wąskie przejście, kiedy poluzują deskę u podstawy skrzyni. Na brzegu mokrej ziemi rosła wiklina. Zaczęłam ciągnąć korzenie w dół. Prowadząca, która też ćwiczyła z Naturą, poprosiła, żebym przestała, i uchyliła deskę. Cała ziemia razem z moimi korzeniami pojechała pod nosze.
+
+— Trzymasz ziemię. A ziemię co ma trzymać?
+
+Chciałam jej odpowiedzieć, że mogła mi to powiedzieć przed próbą. Podała mi niską plecionkę i kazała samej znaleźć dla niej miejsce. Oparłam ją o dwa słupki przy skrzyni. Dopiero wtedy poprowadziłam korzenie przez prześwity. Kiedy deska znów się odchyliła, plecionka oparła się o słupki i pod nosze przesypała się tylko garść ziemi. Poprosiłam o jeszcze jedno przejście. Tym razem chciałam nieść nosze od tyłu i sprawdzić, ile z tej osłony widać komuś, kto patrzy głównie pod nogi.
+
+W Urzędzie Prób wpisałam Verdan i Naturę. Wybrałam wspólny nadzór. W jego programie zapisano uzgodnione naprawy kanałów i dowóz zapasów do mniejszych lecznic. Chciałam wiedzieć, komu wskazać trzy pola, o których Thora mówiła starszej, i kiedy ten ktoś będzie mógł obejrzeć kanał. Pisarz pokazał mi, przy którym stole można zapytać o dostawy i naprawy. Potem dał mi godzinę jutrzejszej odprawy.
+
+Pomyślałam, że pytanie o kanał mogłam dostarczyć bez własnego zgłoszenia. Na placu wciąż ćwiczyli ludzie, których nie znałam. Przez otwarte drzwi widziałam, jak odwracają nosze i zamieniają się miejscami. Chciałam jutro stanąć z nimi choćby po to, żeby ktoś pokazał mi rzecz, której sama od lat nie umiałam dobrze zrobić.
+
 ## Miejsce przy stole
 
 Wieczór 28 maja, 12 ET · Val Meris
 
-Niva wróciła ze składu z płaszczem na ramieniu. Chciała jeszcze przed nocą się tam zjawić. Elira przyniosła mapę, którą dostała do porównania z moją kartką spod wału. Odsunęłam mapę na bok i postawiłam przed nami trzy miski. Z rozkładu dyżurów wystawał róg kartki z uwagą o spiłowanym progu. Dawniej chciałabym wiedzieć, kto go spiłował i czy zrobił to przed ostatnią wizytą. Tego dnia przypomniałam sobie tylko, że człowiek z chorym nadgarstkiem może wreszcie przejść tamtędy z miską w wolnej ręce.
+Niva przyszła z płaszczem na ramieniu. Chciała jeszcze przed nocą wrócić do składu. Elira przyniosła mapę do porównania z moją kartką spod wału. Odsunęłam mapę na bok i postawiłam przed nami trzy miski. Do cebuli dałam pół kwaśnego jabłka. Kiedy poprzedniego dnia wrzuciłam całe, w misce czułam tylko jabłko. Z miętą poczekałam, aż obie spróbują. Chciałam wiedzieć, czy jej komuś zabraknie, zanim sama powiem, czego szukać.
 
 Kroiłam chleb. Już miałam podać Elirze środkową kromkę, kiedy zapytałam, czy woli piętkę.
 
 — Tak — powiedziała.
 
-Niva najpierw twierdziła, że wszystko jej jedno, potem poprosiła o grubszą. Dałam jej tę z talerza przede mną. Wziąwszy drugi kawałek dla siebie, zjadłam go, zanim wróciłyśmy do rozmowy o polach. Elira chciała wpisać do mapy jeden punkt, który Niva znała z własnej drogi. Przy moich zagonach zostawiła puste miejsce. Obiecałam, że dopiszę tam imiona, kiedy dostanę odpowiedź z doliny. Niva powiesiła płaszcz przy drzwiach. Został tam do końca posiłku.
+Niva najpierw twierdziła, że wszystko jej jedno, potem poprosiła o grubszą. Dałam jej tę z talerza przede mną. Wziąwszy drugi kawałek dla siebie, zjadłam go, zanim wróciłyśmy do rozmowy o polach. Elira chciała wpisać do mapy jeden punkt, który Niva znała z własnej drogi. Przy moich zagonach zostawiła puste miejsce. Obiecałam, że dopiszę tam imiona, kiedy dostanę odpowiedź z doliny. Niva powiesiła płaszcz przy drzwiach. Wysłuchałyśmy, jak Elira opowiadała o krzywej śrubie w Aurelu.
+
+Gdy Elira zaproponowała, żebym dopisała się do jej listu, wzięłam ołówek i spytałam, którędy go pośle. Złożyłyśmy kartkę razem. Do Miren napiszę rano osobno. Niech wie, że w Val Meris dodają jabłko do cebuli. I że do trzech misek pół jabłka wystarczy.
