@@ -9,6 +9,7 @@ Bieżący format i polecenie synchronizacji opisuje [README](README.md). Rękopi
 3. **Sprawdź, czy bohater mógł tam być.** Jeśli jest w dwóch miejscach w krótkim odstępie, sprawdź trasę, czas podróży i wcześniejsze zobowiązania. Przy wspólnej scenie uzgodnij datę, miejsce, uczestników i przebieg wydarzeń we wszystkich opowiadaniach, w których się pojawia.
 4. **Trzymaj się perspektywy bohatera.** Bohater opowiada własnymi słowami, co zobaczył, zrobił lub czego się dowiedział. Jeśli przypisuje komuś zamiar, czytelnik musi rozumieć, skąd bohater to wie albo na czym opiera przypuszczenie.
 5. **Pokaż przyczynę i skutek.** Czytelnik ma rozumieć, co bohater próbuje zrobić, co się zmieniło i dlaczego podjął kolejną decyzję. Przy magii i urządzeniach pokaż działanie na przykładzie i ujawnij ograniczenie wtedy, gdy ma skutek dla sceny. Objaśniaj realia świata w chwili, gdy są potrzebne do zrozumienia akcji.
+6. **Nazwiska są zakazane bez wyjątków.** Zasada obejmuje szkice, tłumaczenia, tytuły, narrację, dialogi i dokumenty przytaczane w opowieści. Używaj imion. Gdy potrzebujesz kogoś rozróżnić, dodaj funkcję, miejsce pochodzenia lub ustalony przydomek, np. „Ana z Korzennej Przystani”. W formularzach i spisach używaj pola „imię”.
 
 ### Przykładowe otwarcie rozdziału
 
