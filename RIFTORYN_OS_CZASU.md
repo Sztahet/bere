@@ -289,11 +289,13 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **23 maja, 12 ET · Kamienny Próg, Kharum** — **Przed drogą** — Rokan — [`źródło`](opowiadania/rokan/3_one_goes_first/historia.pl.md)
 - **24 maja, 12 ET · Kamienny Próg, Kharum** — **Od zakrętu** — Ilda, Rokan — [`źródło`](opowiadania/ilda/3_a_way_back/historia.pl.md)
 - **24 maja, 12 ET · Kamienny Próg, Kharum** — **Miejsce na wozie** — Rokan, Ilda — [`źródło`](opowiadania/rokan/3_one_goes_first/historia.pl.md)
+- **25 maja, 12 ET · Val Meris** — **Imię na formularzu** — Miko, Varek, Taren — [`źródło`](opowiadania/miko/3_one_more_bolt/historia.pl.md)
 - **27 maja, 12 ET · przed urzędem, Val Meris** — **Kto pamięta ptaka** — Piecarius — [`źródło`](opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md)
 - **27 maja, 12 ET · szlak z Kharum do Val Meris** — **Miejsce na koźle** — Veda, Lumen — [`źródło`](opowiadania/veda/3_a_place_for_the_return/historia.pl.md)
 - **27 maja, 12 ET · urząd zapisów, Val Meris** — **Nazwa** — Piecarius, Aria — [`źródło`](opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md)
 - **27 maja, 12 ET · Val Meris** — **Właściwe powitanie** — Piecarius — [`źródło`](opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md)
 - **27 maja, 12 ET · Val Meris, wieczór** — **VI. Następna strona** — Nocten — [`źródło`](opowiadania/nocten/3_the_first_lesson/historia.pl.md)
+- **27 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — **W kolejce** — Nera, Varek, Miko, Lena, Volt — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 - **28 maja, 12 ET · brama Val Meris** — **Przed zamknięciem bramy** — Taren, Lucen — [`źródło`](opowiadania/taren/3_on_the_other_side/historia.pl.md)
 - **28 maja, 12 ET · dziedziniec zapisów, Val Meris** — **Zapisy do kwalifikacji** — Taren, Lucen — [`źródło`](opowiadania/taren/3_on_the_other_side/historia.pl.md)
 - **28 maja, 12 ET · dziedziniec, Val Meris** — **Poranna odprawa** — Taren — [`źródło`](opowiadania/taren/3_on_the_other_side/historia.pl.md)
@@ -301,14 +303,12 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **28 maja, 12 ET · okolice wschodniej bramy, Val Meris** — **Druga karta** — Veda, Piecarius, Taren, Lumen — [`źródło`](opowiadania/veda/3_a_place_for_the_return/historia.pl.md)
 - **28 maja, 12 ET · plac zawodów, Val Meris** — **Nagroda** — Piecarius, Thora — [`źródło`](opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md)
 - **28 maja, 12 ET · plac zawodów, Val Meris** — **Nagroda** — Thora, Piecarius — [`źródło`](opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md)
-- **28 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — **W kolejce** — Nera, Varek, Miko, Lena, Volt — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 - **28 maja, 12 ET · skład przy wschodniej bramie, Val Meris** — **Pokwitowanie** — Piecarius, Lumen, Veda — [`źródło`](opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md)
 - **28 maja, 12 ET · skład przy wschodniej bramie, Val Meris** — **Ostatni dzień zapisów** — Veda — [`źródło`](opowiadania/veda/3_a_place_for_the_return/historia.pl.md)
 - **28 maja, 12 ET · skład przy wschodniej bramie, Val Meris** — **Bez Jorka** — Veda — [`źródło`](opowiadania/veda/3_a_place_for_the_return/historia.pl.md)
 - **28 maja, 12 ET · urząd zapisów, Val Meris** — **Zgłoszenie** — Piecarius — [`źródło`](opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md)
 - **28 maja, 12 ET · urząd zapisów, Val Meris** — **W kolejce do zapisów** — Taren — [`źródło`](opowiadania/taren/3_on_the_other_side/historia.pl.md)
 - **28 maja, 12 ET · Val Meris** — **Zapisy do kwalifikacji** — Lucen — [`źródło`](opowiadania/lucen/3_not_against_you/historia.pl.md)
-- **28 maja, 12 ET · Val Meris** — **Imię na formularzu** — Miko, Varek, Taren — [`źródło`](opowiadania/miko/3_one_more_bolt/historia.pl.md)
 - **28 maja, 12 ET · Val Meris** — **Co przywiozłem** — Rokan — [`źródło`](opowiadania/rokan/3_one_goes_first/historia.pl.md)
 - **28 maja, 12 ET · Val Meris, wieczór** — **Przysięga** — Piecarius — [`źródło`](opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md)
 - **29 maja, 12 ET · kwalifikacje w Val Meris** — **Dwa uderzenia** — Thora, Miko — [`źródło`](opowiadania/thora/3_enough/historia.pl.md)
@@ -489,7 +489,7 @@ Nie znaleziono sekcji bez daty.
 - **4 maja, 12 ET · hala ćwiczeń, Aurel** — Sygnał z drugiego końca toru — [`źródło`](opowiadania/miko/3_one_more_bolt/historia.pl.md)
 - **9 maja, 12 ET · Aurel** — Światło na zakręcie — [`źródło`](opowiadania/lena/3_i_know_someone_who_can/historia.pl.md)
 - **15 maja, 12 ET · Aurel** — Moje imię — [`źródło`](opowiadania/lena/3_i_know_someone_who_can/historia.pl.md)
-- **28 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — W kolejce — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
+- **27 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — W kolejce — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 
 ### Liora
 
@@ -584,8 +584,8 @@ Nie znaleziono sekcji bez daty.
 - **4 maja, 12 ET · hala ćwiczeń, Aurel** — Miejsce przy stole — [`źródło`](opowiadania/lena/3_i_know_someone_who_can/historia.pl.md)
 - **4 maja, 12 ET · hala ćwiczeń, Aurel** — Sygnał z drugiego końca toru — [`źródło`](opowiadania/miko/3_one_more_bolt/historia.pl.md)
 - **16 maja, 12 ET · Iglica Zerath** — Dwa pytania — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
-- **28 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — W kolejce — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
-- **28 maja, 12 ET · Val Meris** — Imię na formularzu — [`źródło`](opowiadania/miko/3_one_more_bolt/historia.pl.md)
+- **27 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — W kolejce — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
+- **25 maja, 12 ET · Val Meris** — Imię na formularzu — [`źródło`](opowiadania/miko/3_one_more_bolt/historia.pl.md)
 - **29 maja, 12 ET · kwalifikacje w Val Meris** — Dwa uderzenia — [`źródło`](opowiadania/thora/3_enough/historia.pl.md)
 
 ### Mira
@@ -641,7 +641,7 @@ Nie znaleziono sekcji bez daty.
 - **18 maja, 12 ET · stacja przekaźnikowa w Iglicy Zerath** — Czy się nadaję? — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 - **20 maja, 12 ET · Iglica Zerath** — Zanim wyjedziemy — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 - **23 maja, 12 ET · Iglica Zerath** — Jedno miejsce więcej — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
-- **28 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — W kolejce — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
+- **27 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — W kolejce — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 
 ### Nocten
 
@@ -820,7 +820,7 @@ Nie znaleziono sekcji bez daty.
 - **28 maja, 12 ET · mały dziedziniec, Val Meris** — Mały dziedziniec — [`źródło`](opowiadania/taren/3_on_the_other_side/historia.pl.md)
 - **28 maja, 12 ET · okolice wschodniej bramy, Val Meris** — Druga karta — [`źródło`](opowiadania/veda/3_a_place_for_the_return/historia.pl.md)
 - **28 maja, 12 ET · urząd zapisów, Val Meris** — W kolejce do zapisów — [`źródło`](opowiadania/taren/3_on_the_other_side/historia.pl.md)
-- **28 maja, 12 ET · Val Meris** — Imię na formularzu — [`źródło`](opowiadania/miko/3_one_more_bolt/historia.pl.md)
+- **25 maja, 12 ET · Val Meris** — Imię na formularzu — [`źródło`](opowiadania/miko/3_one_more_bolt/historia.pl.md)
 
 ### Thora
 
@@ -897,8 +897,8 @@ Nie znaleziono sekcji bez daty.
 - **16 maja, 12 ET · Iglica Zerath** — Dwa pytania — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 - **20 maja, 12 ET · Iglica Zerath** — Zanim wyjedziemy — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 - **23 maja, 12 ET · Iglica Zerath** — Jedno miejsce więcej — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
-- **28 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — W kolejce — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
-- **28 maja, 12 ET · Val Meris** — Imię na formularzu — [`źródło`](opowiadania/miko/3_one_more_bolt/historia.pl.md)
+- **27 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — W kolejce — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
+- **25 maja, 12 ET · Val Meris** — Imię na formularzu — [`źródło`](opowiadania/miko/3_one_more_bolt/historia.pl.md)
 
 ### Veda
 
@@ -951,7 +951,7 @@ Nie znaleziono sekcji bez daty.
 - **16 maja, 12 ET · Iglica Zerath** — Dwa pytania — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 - **18 maja, 12 ET · stacja przekaźnikowa w Iglicy Zerath** — Czy się nadaję? — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 - **23 maja, 12 ET · Iglica Zerath** — Jedno miejsce więcej — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
-- **28 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — W kolejce — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
+- **27 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — W kolejce — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 
 ### Zet
 

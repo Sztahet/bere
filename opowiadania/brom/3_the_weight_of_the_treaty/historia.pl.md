@@ -76,7 +76,7 @@ Asta spytała, czy da się przenieść tylko małe wozy. Powiedziałem, że wted
 
 ## Zgłoszenie
 
-28 maja, 12 ET · Urząd Prób, Val Meris
+26 maja, 12 ET · Urząd Prób, Val Meris
 
 Delegat poszedł ze mną do Urzędu Prób. Na placu obok budowniczowie odkładali równo kamienie z Kharum, szykując miejsce na arenę. Rozpoznał znak odłupany na jednej z płyt. Sam sprawdzał jej ładunek przed drogą.
 
@@ -90,7 +90,7 @@ Zatrzymał się przy wejściu, jakby tylko na tę odpowiedź czekał.
 
 Wybrałem Kharum i wspólny nadzór. W czasie wojny wiedzieliśmy, ile wozów trzeba zatrzymać, żeby sąsiadowi zabrakło narzędzi. Teraz można było zapytać przy wspólnym stole, komu ich brakuje i na jak długo, zanim ktoś postanowi zablokować drogę. Chciałem, żeby po Igrzyskach krainy wciąż wspólnie pilnowały przewozów i przydziałów. Chciałem też, żeby górnik z wykazem umiał sprawdzić podstawy decyzji i miał gdzie zgłosić zastój, zanim cała zmiana zostanie bez pracy.
 
-Urzędniczka przyjęła zgłoszenie i spytała, czy jako członek Rady znam zasady dotyczące własnych prób i odwołań. Potwierdziłem, że nie będę ich oceniał ani brał udziału w rozpatrywaniu dotyczących mnie spraw. Oddała mi odpis i przypomniała, że kwalifikacje zaczynają się następnego dnia.
+Urzędniczka przyjęła zgłoszenie i spytała, czy jako członek Rady znam zasady dotyczące własnych prób i odwołań. Potwierdziłem, że nie będę ich oceniał ani brał udziału w rozpatrywaniu dotyczących mnie spraw. Oddała mi odpis i przypomniała, że kwalifikacje zaczynają się dwudziestego dziewiątego.
 
 Przed wyjściem delegat poprawił sznurek na teczce. Wiózł do domu protokół i listę pytań od Rady. Część odpowiedzi mieli przygotować ludzie, których wcześniej prosiłem tylko o potwierdzenie liczby wozów.
 
@@ -98,4 +98,10 @@ Przed wyjściem delegat poprawił sznurek na teczce. Wiózł do domu protokół 
 
 — Wywalczę tyle, ile zdołam. Ale tym razem chcę, żebyście wiedzieli, na co się godzimy.
 
-Oparł teczkę o parapet i wyjął swój wykaz. Zanim zdążyłem schować odpis zgłoszenia, wsunął mi pod rękę pokwitowanie za trzy skrzynie. Chciał wiedzieć, czemu w spisie przewozów dalej nie było napisane, że to części do pomp. Wróciliśmy do składu w Val Meris. Heda właśnie skończyła rozładunek. Porównała oba papiery i pokazała nam, pod którym oknem przyjmują sprostowania. Stanęliśmy w kolejce za nią. Też miała coś do poprawienia w swoim kwicie.
+Oparł teczkę o parapet i wyjął swój wykaz. Zanim zdążyłem schować odpis zgłoszenia, wsunął mi pod rękę pokwitowanie za trzy skrzynie. Chciał wiedzieć, czemu w spisie przewozów dalej nie było napisane, że to części do pomp. Umówiliśmy się, że pójdziemy z tym do składu, kiedy zjedzie następny wóz z Kamiennego Progu.
+
+## Trzy skrzynie
+
+28 maja, 12 ET · Skład w Val Meris
+
+Heda właśnie skończyła rozładunek. Porównała oba papiery i pokazała nam, pod którym oknem przyjmują sprostowania. Stanęliśmy w kolejce za nią. Też miała coś do poprawienia w swoim kwicie.

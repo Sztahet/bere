@@ -337,6 +337,90 @@
       "draft": false
     },
     {
+      "folder": "AriaDraft1",
+      "draft": false
+    },
+    {
+      "folder": "AriaDraft2",
+      "draft": false
+    },
+    {
+      "folder": "AriaDraft3",
+      "draft": false
+    },
+    {
+      "folder": "NerisDraft1",
+      "draft": false
+    },
+    {
+      "folder": "NerisDraft2",
+      "draft": false
+    },
+    {
+      "folder": "NerisDraft3",
+      "draft": false
+    },
+    {
+      "folder": "TeviaDraft1",
+      "draft": false
+    },
+    {
+      "folder": "TeviaDraft2",
+      "draft": false
+    },
+    {
+      "folder": "TeviaDraft3",
+      "draft": false
+    },
+    {
+      "folder": "OrienDraft1",
+      "draft": false
+    },
+    {
+      "folder": "OrienDraft2",
+      "draft": false
+    },
+    {
+      "folder": "OrienDraft3",
+      "draft": false
+    },
+    {
+      "folder": "ZetDraft1",
+      "draft": false
+    },
+    {
+      "folder": "ZetDraft2",
+      "draft": false
+    },
+    {
+      "folder": "ZetDraft3",
+      "draft": false
+    },
+    {
+      "folder": "HedaDraft1",
+      "draft": false
+    },
+    {
+      "folder": "HedaDraft2",
+      "draft": false
+    },
+    {
+      "folder": "HedaDraft3",
+      "draft": false
+    },
+    {
+      "folder": "PyrraDraft1",
+      "draft": false
+    },
+    {
+      "folder": "PyrraDraft2",
+      "draft": false
+    },
+    {
+      "folder": "PyrraDraft3",
+      "draft": false
+    },
+    {
       "folder": "SarnaStory1",
       "draft": false
     },

@@ -1,0 +1,53 @@
+# Bohaterka szlaku
+
+## Kto za mnie poręczy
+
+Wczesna jesień, 10 ET · Portowe magazyny, Cienisty Port, Vesper
+
+Przewoźnik obejrzał mój rachunek za dwie eskorty i spytał, czy Orien może poświadczyć, że byłam na obu. Foremka na jego stole była pełna pieczęci. Znałam trzy, w tym znak człowieka, któremu sama wyciągnęłam ramię spod złamanej burty.
+
+— Był tam woźnica — odpowiedziałam. — Może pan go zapytać.
+
+— Woźnica wie, kto siedział z nim na koźle. Ojciec pani wie, co znaczy osłona na wąskiej drodze.
+
+Gdy pierwszy raz jechałam nocą z załogą z Vesper, moja osłona świeciła tak jasno, że woźnica za moimi plecami przestał widzieć drogę pod kołami. Ochroniarka, z którą wtedy jeździłam, pokazała mi, jak poprowadzić Ciemność nisko przy burcie. Zaczęłam z nią ćwiczyć po nocnych kursach. Dopiero po kilku zimach umiałam na chwilę wzmocnić Ciemnością jedną krawędź osłony, której nauczył mnie ojciec. Kiedy próbowałam objąć nią całą tarczę, nie widziałam nawet, czy ludzie wciąż stoją za mną.
+
+Złożyłam rachunek. Po wyjściu mogłam pójść po człowieka, którego wyciągnęłam spod burty. Obiecałam mu wtedy, że gdy będę pytać o robotę, polecę też jego, bo potrzebował nowego zlecenia. Poszłam do Neris.
+
+Pokazała mi kopię podobnego rachunku. Widniało na nim imię ochroniarza, wypisane grubą kreską. Człowiek od dostaw twierdził, że wozu nikt by nie przywiózł, gdyby jego osłona nie wytrzymała napaści. Neris powiedziała, że zna sprawę. Zagrożenie zorganizowała sama.
+
+Przez chwilę przyglądałam się podpisom ludzi, którzy dziękowali ochroniarzowi. Pod jednym ktoś postawił krzyżyk, a obok ktoś inny dopisał jego imię.
+
+— Czy oni wiedzą?
+
+— Gdyby wiedzieli, nie przyszliby tu podziękować.
+
+Rachunek mogłam jej oddać i pójść po woźnicę. Wiedziałam, co robię, kiedy zostałam. Chciałam dostać zlecenie, przy którym przewoźnik zapamięta, co zrobiłam, i opowie o tym bez wymieniania ojca. Powiedziałam Neris, że chcę wynagrodzenia i zgody na przerwanie, jeśli komuś naprawdę zagrozi niebezpieczeństwo. Zgodziła się bez targowania o tę ostatnią rzecz. Wtedy uznałam, że się rozumiemy.
+
+## Na oczach Jony
+
+Jesień, 10 ET · Szlak z Cienistego Portu, Vesper
+
+Jona jechała z synem, Mertem, i dwoma ludźmi od wyładunku. Od postoju pokazywała mi, która skrzynia ma wilgotny spód. Chciała, żeby u odbiorcy rozpakować ją najpierw. Przysiadłam na burcie i pomogłam jej wsunąć pod nią płótno.
+
+Kiedy napad się zaczął, wiedziałam, że to ludzie Neris. Jona usłyszała pierwszy krzyk i wypuściła płótno. Jej syn rzucił się ku wozowi, choć matka zawołała, żeby został przy niej. Deska uderzyła go w rękę. Zobaczyłam, jak kuca z nadgarstkiem przyciśniętym do brzucha.
+
+Postawiłam osłonę ze Światła, jak uczył mnie ojciec. Drgnęła przy pierwszym uderzeniu. Ciemność wprowadziłam od dołu, wzdłuż brzegu, który nie chciał trzymać. Wzmocniłam tylko tę część osłony. Kiedy spróbowałam rozciągnąć ją dalej, brzeg znów zadrżał. Cofnęłam go na tyle, by osłaniał burtę i chłopca. Przez ciemny pas nie widziałam dłoni Jony. Znalazłam jej rękaw po omacku, pociągnęłam ją do siebie i powiedziałam, gdzie leży syn. Kiedy załoga stanęła blisko burty, mogłam złożyć osłonę. Ludzie Neris już się cofali.
+
+Jona podniosła chłopca. Nie spojrzała na skrzynie, dopóki nie poruszył palcami. Sama przyniosłam wodę i pomogłam owinąć rękę. Mógł nią ruszać, ale do końca drogi nie próbował niczego podnosić.
+
+Przy bramie Jona poprosiła człowieka od odbioru, żeby przy niej zapisał moje imię. Chciała dopłacić za ochronę. Powiedziałam, że może najpierw sprawdzić, ile będzie kosztował opatrunek. Wtedy dotknęła mnie otwartą dłonią między łokciem a ramieniem.
+
+— Chciałam, żeby wiedzieli, kto nas przywiózł.
+
+## Podziękowanie
+
+Jesień, 10 ET · Portowe magazyny, Cienisty Port, Vesper
+
+Do Neris wróciłam, gdy przy portowej wadze ściągano ostatnie liny. Spytała o rękę chłopca. Powiedziałam, że Jona sama zabrała go na opatrunek.
+
+— Zapiszemy to — powiedziała.
+
+Mogłam jeszcze zapytać, jak zapisze nas. Wiedziałam, jaka będzie odpowiedź. Przyniosła mi pokwitowanie na pracę przy konwoju. Wypłata zgadzała się z umową. Już w drzwiach spytała, czy w następnym tygodniu przyjmę drugą jazdę.
+
+Wyjęłam kartkę, którą Jona dała mi przy bramie. Było na niej moje imię, numer wozu i podziękowanie. Za pierwszym razem czytałam tylko środkowy wiersz. Teraz przeczytałam wszystkie, także dopisek o synu. Gdy Neris zapytała powtórnie o następną jazdę, schowałam kartkę do kieszeni i podałam dzień, w którym mogę wyruszyć.

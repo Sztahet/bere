@@ -1,0 +1,71 @@
+# Przed drugim dzwonkiem
+
+## Dwie koperty
+
+Początek jesieni, 8 ET · Dom Zeta i Merny, Iglica Zerath
+
+Moja siostra pisała wolno. Przerywała w połowie słowa, kiedy zabrakło jej miejsca na ostatnią kreskę, i umiała patrzeć na papier tak długo, aż człowiek sam przestawał mówić. Tego ranka siedziałem już w butach. Merna miała rękawy wywinięte pod łokcie, a na spodzie jednej dłoni ślad po główce gwoździa, którym przytrzymywała kartkę.
+
+— Musi być u niego przed drugim dzwonkiem — powiedziała.
+
+— Kto otworzy?
+
+— Papiernik. Pytaj o niego, nie o człowieka od kasy.
+
+Zaprosił ją do pracy na jesień. Chciała się nauczyć robić dobry papier pod rysunki. Dotąd malowała litery na workach i umiała jednym ruchem wrócić na początek, kiedy farba spłynęła na szwie. Papiernik dawał jej do południa czas na odpowiedź. Na jej miejsce czekała jeszcze jedna osoba. Merna umówiła się już z woźnicą, że zabierze się z jego rodziną, jeśli dostanie potwierdzenie.
+
+Wyjąłem spod świecy kawałek sznurka, żeby przywiązać kopertę do torby. Merna przytrzymała ją palcem.
+
+— Do niego, Zet. Masz zobaczyć, że bierze ją do ręki.
+
+Nie lubiłem, kiedy ktoś mi mówił, żebym zrobił coś, co robiłem codziennie. Schowałem kopertę wewnątrz torby i powtórzyłem, do kogo idę. Przy wyjściu spytałem, ile jej płacą za tydzień. Za mało, odpowiedziałaby zwykle. Tym razem powiedziała, że kurs w jedną stronę już sobie policzyła.
+
+## Trzy minuty
+
+Początek jesieni, 8 ET · Stacja w Iglicy Zerath i boczna droga pod skarpą
+
+Na stacji czekał opieczętowany meldunek o odwołaniu porannej naprawy. Brygada miała odebrać go przed wyjazdem z bocznej stacji. Dyżurny powiedział, że jeśli się spóźnimy, ludzie będą do wieczora czekać na części pod zamkniętą pompownią. Mógł wysłać kogoś z następnej zmiany. Ja znałem zejście pod skarpą i obiecałem, że zdążę do brygady jeszcze przed papiernikiem.
+
+Przy tej stacji umiałem dogonić poranny wóz, choć woźnica ruszał, kiedy ja dopiero wiązałem torbę. Jeśli dobiegałem do zakrętu pierwszy, musiał się wychylić i podać mi rękawicę do przybicia. Jeśli przegrywałem, wołał na mnie „panie pospieszny”, dopóki nie zniknął mi z oczu. Na tamten dzień wypadało, żebym wygrał. Wczoraj był przede mną o długość konia.
+
+— Na tablicy jest nowa uwaga — powiedział dyżurny.
+
+Widziałem, jak przewiesił kartkę z jednego haka na drugi. Dolny róg był mokry. Od rana nie padało. Pomyślałem, że został mu w ręce stary meldunek o śliskich kamieniach. Wiedziałem, gdzie są. Przy zakładzie ślusarskim policzyłem, ile zyskam, przechodząc dołem. W najlepszym razie trzy minuty. Wystarczyłoby, żeby na miejscu zdjąć płaszcz i podać papiernikowi list bez zadyszki.
+
+Od drewnianej poręczy nie było już widać ścieżki. Skarpa zsunęła się aż do wody. Wystawały z niej rosochate korzenie, których poprzedniego dnia w ogóle nie było widać. Zszedłem dwa kroki, żeby sprawdzić, czy brzeg zaczyna się kawałek dalej. Ziemia pod stopą zjechała do strumienia. Wciągnąłem się z powrotem, trzymając poręczy. Kiedy dotarłem na górną drogę, usłyszałem pierwszy dzwonek.
+
+Przy stacji zastałem woźnicę, który miał jechać po brygadę. Ludzie wyszli pieszo, bo wóz się spóźniał. Pojechaliśmy im naprzeciw i znaleźliśmy ich już pod pompownią. Trzeba było wrócić tą samą drogą. Jeden z monterów zapytał mnie, czy przynajmniej wiadomo, kiedy przyjadą części. Nie wiedziałem, co jest na kartce, dopóki jej nie otworzyli. Nie było terminu. Przekazałem im meldunek i pobiegłem do papiernika.
+
+Przy warsztacie stał młody człowiek z mokrymi arkuszami w ramie. Poprosiłem o właściciela. Wyszedł w fartuchu, obejrzał kopertę i spytał, czy Merna dostała wiadomość o terminie.
+
+— Dostała. To ja miałem tu być przed dzwonkiem.
+
+Popatrzył na młodego człowieka. Tamten właśnie stawiał ramę na półce. Dostał miejsce chwilę po południu. Papiernik powiedział, że może jeszcze przeczytać odpowiedź, jeśli rzeczywiście chcę mu ją zostawić. Spojrzałem na imię napisane przez Mernę. Obiecałem jej, że zobaczę, jak bierze kopertę do ręki. Dopiero wtedy zdałem sobie sprawę, że teraz to do niej powinienem zanieść tę wiadomość.
+
+## Pokwitowanie
+
+Początek jesieni, 8 ET · Stacja w Iglicy Zerath
+
+Na stacji dyżurny nadal miał przed sobą kartę dla pompowni. Podałem mu pokwitowanie. Zapytał, o której wręczyłem meldunek, i wskazał pustą rubrykę odbioru. Wpisałem rzeczywistą godzinę. Wyjazd brygady zapisano osobno, dużo wcześniej. Między tymi dwoma wierszami mieściła się niemal cała droga, którą ludzie zrobili na darmo.
+
+Chciałem sprawdzić, co wisiało rano na tablicy. Dyżurny zdjął kartkę i pozwolił mi ją przeczytać. Ktoś z górnego domu dopisał, że poręcz stoi, ale ścieżka pod nią zeszła do wody. Pod ostrzeżeniem było imię dziewczyny, która przed świtem przyszła na zmianę z tamtej strony. Mógłbym ją spotkać, gdybym zatrzymał się przy drzwiach.
+
+— Wykreślisz mi dodatek? — spytałem.
+
+— Dzisiaj tak. Jutro możesz przyjść na swoją zmianę.
+
+Podpisałem się pod godziną odbioru. Na drugim brzegu kartki był pusty rząd. Dyżurny zostawił go dla drugiej wiadomości, gdyby obie miała ująć ta sama stacja. Odłożyłem pióro. Przez cały dzień bardzo chciałem donieść wszystko tak, żeby nigdzie nie było pustego rzędu.
+
+## W jedną stronę
+
+Wieczór tego samego dnia, 8 ET · Dom Zeta i Merny, Iglica Zerath
+
+Merna stała przy stole i zaszywała kieszeń płaszcza. Zobaczyła kopertę, zanim zdjąłem torbę. Powiedziałem, że przyjął kogoś innego. Spytała, czy mogła jeszcze coś zrobić. Pokręciłem głową.
+
+— Wezmę ci jutro miejsce u woźnicy — powiedziałem. — Pojedziesz tam i pogadasz z nim sama.
+
+— Po co?
+
+Miałem gotowych kilka odpowiedzi. Mógł potrzebować drugiej osoby od świąt. Mogła się pokazać u innego papiernika. Mógłbym oddać jej resztę, gdybym znowu wziął obie poranne zmiany. Merna przeciągnęła igłę przez materiał i czekała. Wtedy dopiero powiedziałem, że wziąłem meldunek dla brygady, choć obiecałem jej pojechać prosto. Zapytała, czy ktoś mnie o to poprosił. Powiedziałem, że sam się zgłosiłem.
+
+Przecięła nitkę. Poprosiła, żebym podał jej kopertę. Zamiast obiecanego potwierdzenia przywiozłem jej własne pismo zwinięte od wilgoci przy rogu. Merna rozprostowała papier pod dłonią. Chciała go użyć do drugiej odpowiedzi, jeśli znajdzie do kogo napisać. Wsunąłem rękę do kieszeni po sznurek. Powiedziała, że następną kopertę weźmie sama.

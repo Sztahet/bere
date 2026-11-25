@@ -174,9 +174,9 @@ Chciałam spróbować swoich sił. Gdybyśmy trafili do jednej drużyny, chętni
 
 ## W kolejce
 
-28 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris
+27 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris
 
-Dotarliśmy do stolicy poprzedniego dnia. Varek i Volt poszli załatwiać własne sprawy, a ja znalazłam punkt zapisów. Zgłoszenia przyjmowano jeszcze tego dnia. Nie zamierzałam czekać do ostatniej chwili, chociaż po drodze zdążyłam zajrzeć na dwa stoiska z przyrządami, których nie znałam.
+Dotarliśmy do Val Meris po południu. Varek i Volt poszli załatwiać własne sprawy, a ja znalazłam punkt zapisów. Nie zamierzałam czekać do ostatniej chwili, chociaż po drodze zdążyłam zajrzeć na dwa stoiska z przyrządami, których nie znałam.
 
 Kolejka ciągnęła się aż do schodów. Przede mną stała kobieta z notesem i niewielką skrzynką. Co pewien czas zaglądała do środka, sprawdzając, czy nic się nie przesunęło. Za trzecim razem nie wytrzymałam.
 

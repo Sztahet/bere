@@ -2,7 +2,7 @@
 
 ## Odpis dla Verdan
 
-28 maja, 12 ET · Biuro przewozów, Val Meris
+26 maja, 12 ET · Biuro przewozów, Val Meris
 
 Przywiozłam dwie karty. Jedna pokazywała, ile wozy Verdan dowiozą do wspólnego składu. Druga dotyczyła naszego młyna. Kiedy woda w rzece opadła, młynarz znalazł wolny napęd ze splotytem w sąsiednim warsztacie. Warsztat zgodził się pożyczyć urządzenie. Tę partię kryształu przydzielono warsztatowi ze wspólnej puli pod warunkiem, że wykorzysta ją do obróbki narzędzi. Żeby użyć tej partii w młynie, potrzebowaliśmy zmiany warunków przydziału.
 
@@ -20,7 +20,7 @@ Na schodach spisałam wiadomość do młynarza. Miał zatrzymać umówione wozy 
 
 ## Ile odkłada bogata osada
 
-28 maja, 12 ET · Plac przy składach, Val Meris
+26 maja, 12 ET · Plac przy składach, Val Meris
 
 Przedstawiciel przewoźników popierających Wolne Krainy czekał na mnie pod spisem kursów. Chciał podpisu pod ich propozycją dla Verdan. O użyciu miejscowego splotytu miałaby decydować kraina w granicach wcześniej zaciągniętych wspólnych zobowiązań. Podpisałabym tę część bez dalszej rozmowy. Niżej dopisał od siebie, że przy następnym przeglądzie każda osada ma dobrowolnie określać, ile żywności odłoży do wspólnego zapasu po zaspokojeniu własnych potrzeb.
 
@@ -62,7 +62,7 @@ Do końca dnia mieli dalej rozmawiać o przyszłych wkładach. Porozumienie już
 
 ## Zgłoszenie
 
-28 maja, 12 ET · Urząd Prób, Val Meris
+26 maja, 12 ET · Urząd Prób, Val Meris
 
 Starszyzna wyznaczyła do Igrzysk Thorę, Liorę, Erona i Anę. Każde z nich miało już za sobą decyzję, kto zajmie się ich pracą w domu. Przez tydzień nie przyszło mi do głowy, żebym miała do nich dołączyć. Byłam w mieście w sprawie dostaw i miałam wystarczająco dużo okazji, żeby przemawiać.
 

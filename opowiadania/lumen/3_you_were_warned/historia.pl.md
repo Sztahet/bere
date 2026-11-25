@@ -46,7 +46,7 @@ Pod koniec kwietnia matka znalazła w rachunkach babki kwit ze znakiem ptaka. Zr
 
 29 maja, 12 ET · Val Meris, okolice punktu zapisów
 
-Zgłoszenie złożyłam poprzedniego dnia, przed zamknięciem zapisów. Urzędniczka rozpoznała mnie z posiedzenia poświęconego dostępowi do dokumentów. Podziękowała za kopię wykazu, którą otrzymała jej rodzina, i zapytała, czy znam termin stawiennictwa. Zapytała też, czy przeczytałam warunki ćwiczeń. Poprosiłam o kopię. Nie miała wolnej, pozwoliła mi jednak przepisać najważniejsze punkty przy sąsiednim stole. Rano odczytałam je jeszcze raz.
+Zgłoszenie złożyłam dwudziestego siódmego maja, zaraz po przyjeździe do Val Meris. Urzędniczka rozpoznała mnie z posiedzenia poświęconego dostępowi do dokumentów. Podziękowała za kopię wykazu, którą otrzymała jej rodzina, i zapytała, czy znam termin stawiennictwa. Zapytała też, czy przeczytałam warunki ćwiczeń. Poprosiłam o kopię. Nie miała wolnej, pozwoliła mi jednak przepisać najważniejsze punkty przy sąsiednim stole. Rano odczytałam je jeszcze raz.
 
 Na sygnał prowadzącego wszyscy uczestnicy musieli natychmiast przerwać ćwiczenie. Każdy mógł też zgłosić zagrożenie dla osoby spoza grupy. Nie było zapisu, który pozwalałby zmienić zasady w połowie próby tylko dlatego, że jedna z drużyn znalazła się w trudnym położeniu. Podkreśliłam ten fragment. Nie po to, by komukolwiek przeszkodzić w zatrzymaniu niebezpiecznego ćwiczenia. Chciałam wiedzieć, kiedy wolno mi dokończyć własne działanie, a kiedy muszę czekać.
 

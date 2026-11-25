@@ -1,0 +1,59 @@
+# Miejsce na wozie
+
+## Ława między skrzyniami
+
+Późna wiosna, 10 ET · Skład przy wadze, Kamienny Próg, Kharum
+
+Miałam na wozie cztery skrzynie z zawiasami i tyle miejsca za kozłem, żeby wcisnąć worek owsa. Do odbiorcy jechałam po raz trzeci. Za pierwszym razem nie miał drobnych. Za drugim znalazł drobne dopiero wtedy, kiedy poprosiłam go, żeby zszedł z desek, bo wracam z towarem. Teraz połowę umówionej sumy przysłał jeszcze przed załadunkiem. Zamierzałam po powrocie dokupić pasy na zmianę. W zeszłej zimie jeden pękł od środka, gdzie jasne nitki było widać dopiero pod światło. Ten, którym go zastąpiłam, był moim ostatnim zapasowym.
+
+Ojciec stanął przy wozie z niską ławą pod pachą.
+
+— Tu się zmieści — powiedział.
+
+Postawił ją na deskach, a zaraz za nim przyszła Elta od koszy. Miała na głowie płócienną chustkę i trzymała wiklinowy kosz, w którym coś cicho stukało. Przywitałam się. Zapytała, czy mam dla niej jeszcze koc na drogę. Ojciec poprawił ławę pod burtą, jakby dopiero szukał miejsca pod jej nogi.
+
+Elta szła do warsztatu swojej córki. Tamta miała nazajutrz oddać pierwsze własne zamówienie i poprosiła matkę, żeby do niej przyjechała. Elta mogła dojść do warsztatu pieszo, gdy była młodsza. Od ostatniej zimy zatrzymywała się po drodze tak często, że sąsiadka kiedyś odprowadziła ją do domu po przejściu dwóch ulic. Ojciec widział ją wczoraj przy wadze. Powiedział jej, że jadę tą samą drogą.
+
+— Powiedziałeś, że jadę, czy że ją zawiozę?
+
+Podniósł na mnie wzrok. Elta przełożyła kosz do drugiej ręki. W środku stukał gliniany kubek o coś twardszego. Mogłam wyciągnąć worek i postawić go niżej, ale ława wypadała między dwiema skrzyniami, przy tej burcie, która na zakrętach dostawała cały ciężar. Znałam drogę po ostatnim deszczu. Czasem trzeba było zsiąść i iść obok konia, zanim koło wróciło z koleiny na środek.
+
+— Powiedziałem, że znajdziemy miejsce — odpowiedział ojciec.
+
+Wyjął ławę. Nie wiedział, gdzie ją postawić. Odebrałam ją i zaniosłam pod ścianę, żeby Elta mogła usiąść, póki rozmawiamy.
+
+## Przed zakrętem
+
+Późna wiosna, 10 ET · Droga przy wyrobiskach Kamiennego Progu, Kharum
+
+Przy wadze znalazłam woźnicę, który wieczorem wracał małym wozem po tę samą stronę doliny. Zgodził się zabrać Eltę, jeśli przyjedzie do składu przy zakręcie. Tam zaczynał się jego kurs. Elta nie mogła tam dojść. Ojciec zaproponował, że pójdzie z nią kawałek, a resztę drogi pokonają jakimś wozem, który uda się zatrzymać. Spojrzałam na ludzi stojących pod ścianą. Każdy miał tu kogoś, kogo mógłby poprosić o miejsce. Żaden wóz jadący w dół nie należał do ojca.
+
+Rozwiązałam dwie skrzynie. Odbiorca zamówił całość na rano, ale zgodził się kiedyś przyjąć część dostawy, jeśli towar będzie już policzony przy wadze. Drugi kurs kosztowałby mnie tyle, że nową uprząż mogłam kupić dopiero po następnym zleceniu. Przyniosłam pustą kartę i wpisałam dwie skrzynie. Ojciec przeczytał, ile zostało pod burtą.
+
+— Drugie dwie zaniosę kiedyś na zmianę z kimś — powiedział.
+
+— Na kiedyś dostałam już zaliczkę. Jeśli możesz, pomóż mi je odnieść pod dach i powiedz odbiorcy, że pojadą jutro rano.
+
+Odłożył płaszcz na ławę Elty i wziął pierwszą skrzynię od spodu. Oboje wiedzieliśmy, że potrafię ją przesunąć sama. Wzięłam drugi uchwyt. Poprosiłam, żeby poszedł z nami do składu przy zakręcie. Elta zapłaciła tylko za ten odcinek. Przed ruszeniem dopilnowałam, żeby usiadła na miejscu, które jej wskazałam, obok złożonej płachty, daleko od skrzyń.
+
+Koń przy zejściu odwrócił uszy, kiedy stara obręcz zazgrzytała o kamień. Zatrzymałam go przed koleiną. Drugie koło zaczęło podjeżdżać pod brzeg i wóz przechylił się ku drodze. Spuściłam rękę z wodzy dopiero, gdy ojciec wziął konia przy głowie. Oparłam stopę na płaskiej płycie i przycisnęłam magią ziemię tuż pod niższym kołem. Wóz przestał się zsuwać. Mogłam utrzymać tyle, żeby Elta spokojnie zeszła, a ojciec wsunął klin. Kiedy zabrałam stopę, pod kołem został głęboki ślad. Pół kroku dalej grunt był samym mokrym piaskiem. Tam nie miałabym o co się zaprzeć.
+
+Elta czekała na drugiego woźnicę przy ścianie składu. Wyjęła z kosza gliniany kubek i kawałek zawiniętego ciasta. Kubek był dla córki. Ciasta chciała nam dać połowę, bo rozsypie się, zanim dojedzie. Ojciec wyjął nóż. Kiedy zapytałam, czy ma czas wrócić jutro po drugą połowę ładunku, spojrzał najpierw na mnie. Powiedział, że do południa ma czynny obchód u siebie. Ustaliliśmy godzinę po nim.
+
+## Kto obiecał
+
+Następny dzień, późna wiosna, 10 ET · Drugi skład przy wadze, Kamienny Próg, Kharum
+
+Ojciec zdążył wrócić przed załadunkiem. Przyniósł od odbiorcy potwierdzenie, że wystarczą mu dziś pozostałe dwie skrzynie. Powiedział, że pokryje koszt dodatkowego kursu. Spytałam, ile zamierza mi dać. Wymienił zapłatę za jedno popołudnie w warsztacie. Była prawie taka sama jak kwota za drugi przejazd, dopóki ktoś sam nie musiał kupować owsa.
+
+Pokazałam mu, ile zostaje po drugim dniu pracy. Przez chwilę trzymał kartę pod słońce, jakby cyfry z drugiej strony mogły wyjść na wierzch. Nie pytał już, czy mogłam zrobić to taniej. Dodał tyle, ile wystarczyło na owies i przechowanie skrzyń. Mojej pracy za następny dzień zostawiłam połowę ceny. Za własną połowę chciałam odpowiadać sama.
+
+— Wiesz, czemu obiecałem — powiedział.
+
+W miarę dobrze wiedziałam. Gdyby Elta zapytała mnie pierwszą, też chciałabym wiedzieć, jak zawieźć ją do córki. Poprosiłam jednak, żeby następnym razem przyszedł z nią do mnie. Miałam usłyszeć to pytanie przy niej, zanim zdąży zaczekać z gotowym koszem.
+
+— A jak znów nie będzie miejsca?
+
+— To usłyszy ode mnie.
+
+Podałam mu koniec powrozu. Przytrzymał, dopóki nie schowałam zapłaty. Wieczorem w warsztacie obejrzałam uprząż jeszcze raz. Wciąż widziałam nitki pękające przy świetle. Kupiłam jeden nowy pas i poprosiłam, żeby drugi odłożono dla mnie do końca tygodnia. Nie zapisałam go sobie do odebrania, dopóki nie wiedziałam, jaki następny kurs naprawdę wezmę.

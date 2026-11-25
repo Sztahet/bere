@@ -144,7 +144,7 @@ public partial class RiftorynMenu : MonoBehaviour {
             default: return RiftorynCodexData.Text("HISTORIA  →","THEIR HISTORY  →");
         }
     }
-    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="morrak"||id=="nera"||id=="veda"||id=="volt"||id=="varek"||id=="miko"||id=="azmir"||id=="vaelis"||id=="thora"||id=="ilda"||id=="lumen";
+    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="morrak"||id=="nera"||id=="veda"||id=="volt"||id=="varek"||id=="miko"||id=="azmir"||id=="vaelis"||id=="thora"||id=="ilda"||id=="lumen"||id=="tevia"||id=="orien"||id=="zet"||id=="heda"||id=="pyrra";
     bool HasExtraStories(string id)=>id=="rian"||id=="lucen"||id=="taren"||id=="ruvan"||id=="kael"||id=="iskar"||id=="sarna"||id=="morven";
     void DrawExtraStories(CodexHero hero)
     {
@@ -178,6 +178,11 @@ public partial class RiftorynMenu : MonoBehaviour {
         {
             case "lumen": prefix="Lumen"; titles=new[]{"SIEDEM DNI", "POTWIERDZENIE ODBIORU", "ZOSTALIŚCIE UPRZEDZENI"}; break;
             case "volt": prefix="Volt"; titles=new[]{"SKRZYDŁO", "OTWARTE OKNO", "PO DRUGIEJ STRONIE SYGNAŁU"}; break;
+            case "tevia": prefix="Tevia"; titles=new[]{"KANAŁ POD PROGIEM", "GODZINA CISZY", "ILE KOSZTUJE WŁĄCZONA WIEŻA"}; break;
+            case "orien": prefix="Orien"; titles=new[]{"JESZCZE KTOŚ WOŁAŁ", "MIEJSCE PRZY STOLE", "PROSZĘ ZAPISAĆ MOJE IMIĘ"}; break;
+            case "zet": prefix="Zet"; titles=new[]{"PRZED DRUGIM DZWONKIEM", "OSTATNI ODBIORCA", "KTOŚ NA DRUGIM KOŃCU"}; break;
+            case "heda": prefix="Heda"; titles=new[]{"MIEJSCE NA WOZIE", "TRZY RZECZY POD PŁACHTĄ", "KIEDY WÓZ STAJE"}; break;
+            case "pyrra": prefix="Pyrra"; titles=new[]{"TO, CO PORWAŁ", "ZANIM ZACZNĄ KLASKAĆ", "ZOSTAWCIE FURTKĘ"}; break;
             case "varek": prefix="Varek"; titles=new[]{"DRUGI SYGNAŁ", "CZAS NA ODPOWIEDŹ", "KTO ZOSTAJE PRZY LINII"}; break;
             case "miko": prefix="Miko"; titles=new[]{"TO POWINNO ZADZIAŁAĆ", "JESZCZE JEDEN IMPULS", "JESZCZE JEDEN PIORUN"}; break;
             case "azmir": prefix="Azmir"; titles=new[]{"TO, CZEGO NIE ODNALEZIONO", "SŁOWO, KTÓREGO NIE WPISAŁEM", "WIELE PAR OCZU"}; break;

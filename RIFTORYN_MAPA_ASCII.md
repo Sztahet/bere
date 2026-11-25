@@ -95,7 +95,7 @@ Numery R01–R10 odnoszą się do korytarzy na mapie kontynentu. Kolejne numery 
 - **R04 — północno-wschodni korytarz** · Val Meris ↔ wschodnia strona jeziora ↔ Żarowisko Vareth (F01). [Ośrodki w GDD][gdd] · [Mapa świata][mapa]
 - **R05 — wschodni korytarz** · Iglica Zerath (Z01) ↔ Val Meris. Taren jedzie wozem do Val Meris w maju 12 ET. [Po drugiej stronie][taren3]
 - **R06 — południowy korytarz** · Korzenna Przystań (D01) ↔ Val Meris. Thora wyjeżdża w dniu wyboru i dociera pod koniec marca 12 ET. Eron, Liora i Ana z Bobem wyruszają w różnych terminach w maju. [Thora][thora2] · [Eron][eron] · [Liora][liora] · [Ana][ana]
-- **R07 — południowo-zachodni korytarz** · Kamienny Próg (K01) ↔ okolice Val Meris. 24 maja 12 ET Ilda rusza z Korą wozem do przewozu bydła. Zaprzęg jest zmieniany po drodze i docierają 28 maja. Wóz towarowy Hedy wyjeżdża tego samego dnia, zabiera dodatkowy ładunek po drodze i dociera 1 czerwca 12 ET. Osobno potwierdzony jest przewóz ładunku Vedy z Kharum do składu pod wschodnią bramą Val Meris. [Mapa świata][mapa] · [Księga bez autora][piecarius1] · [Przysięga z księgi ojca][piecarius3] · [Jeden przechodzi pierwszy][rokan3] · [Tędy można wrócić][ilda3]
+- **R07 — południowo-zachodni korytarz** · Kamienny Próg (K01) ↔ okolice Val Meris. 24 maja 12 ET Ilda rusza z Korą wozem do przewozu bydła. Zaprzęg jest zmieniany po drodze i docierają 28 maja. Heda wyjeżdża 24 maja odrębnym wozem towarowym z Rokanem i Krzemieniem. Po odbiorze dodatkowego ładunku docierają do Val Meris 28 maja po południu. Heda rusza w drogę powrotną 29 maja. Osobno potwierdzony jest przewóz ładunku Vedy z Kharum do składu pod wschodnią bramą Val Meris. [Mapa świata][mapa] · [Księga bez autora][piecarius1] · [Przysięga z księgi ojca][piecarius3] · [Jeden przechodzi pierwszy][rokan3] · [Tędy można wrócić][ilda3]
 - **R08 — zachodnie odgałęzienie na północ** · Aurel → północny szlak → schronienie, przy którym Piecarius spotyka Ruvana (N08) → dolna droga pod przełęczą. Piecarius wyrusza z Aurelu 23 kwietnia 12 ET. [Ślady w popiele][piecarius2]
 - **R09 — wschodnie odgałęzienie między korytarzami** · drogi na wschód od jeziora. W atlasie odcinek orientacyjny z ilustracji, bez ustalonej nazwy i etapów przejazdu między Vareth a Zerath. [Mapa świata][mapa]
 - **R10 — połączenie Kharum z Aurelem** · położenie łącznika jest orientacyjne. Wędrówka Piecariusa jest potwierdzona w opowiadaniach. Jest w Kharum 8 kwietnia i w Aurelu 22 kwietnia 12 ET. [Księga bez autora][piecarius1] · [Ślady w popiele][piecarius2] · [To, co zostaje po drodze][veda1]
@@ -159,6 +159,8 @@ o V01 CIENISTY PORT ===== [R02 -> VAL MERIS]
 ### Vareth — północny wschód
 
 - **F01 [K/G]** — Żarowisko Vareth, miasto warsztatów i pieców u skraju wulkanicznych wyżyn. **F02 [K]** — dzielnice warsztatowe, dziedzińce i bezimienne jadłodajnie dla rzemieślników i przewoźników. **F03 [K]** — wulkan i urządzenia wykorzystujące jego ciepło do ładowania splotytu. **Żelazna Brama [G]** to odbudowana strażnica i proponowany ośrodek Prób. [Vareth w historii świata][vareth] · [GDD][gdd]
+- **F02 [O]** — dziedziniec przy kuźniach, na którym Pyrra organizuje pierwszą próbę z Iskrą. [Zanim zaczną klaskać](opowiadania/pyrra/2_before_the_applause/historia.pl.md#przy-drzwiach)
+- **F03 [O]** — na drodze pod wyżynami jest płytka jaskinia, do której Pyrra biegnie za młodym popielcem. [To, co porwał](opowiadania/pyrra/1_what_he_carried_away/historia.pl.md#płomień-przy-pysku)
 
 ### Zerath — wschód
 
@@ -173,6 +175,8 @@ o V01 CIENISTY PORT ===== [R02 -> VAL MERIS]
 - **Z01 [K/G]** — Iglica Zerath, ośrodek przekaźników przy skalistym wybrzeżu. **Dziedziniec Impulsu [G]** to proponowany ośrodek Prób. [Zerath w historii świata][zerath] · [GDD][gdd]
 - **Z02 [O]** — oberża pod bramą w Zerath. Rozmówca Tarena zna jej nazwę, lecz tekst jej nie podaje. **Z03 [O]** — dom Tarena i Lucena, brama z rejestrem wozów, nabrzeże oraz stacja w Iglicy. [To, co pozostało][taren1] · [Po drugiej stronie][taren3]
 - **Z04 [O]** — główny rozdzielnik, boczne stacje z pompami, warsztat ślusarki przy najdłuższym odcinku i skład części po drugiej stronie granicy. **Z05–Z06 [O]** — stacja graniczna, na której brygada Varek podaje znaki z okien, oraz pracownia i stanowisko prób Miko. Numer i położenie poszczególnych stacji pozostają otwarte. [Cena lojalności][taren2] · [Jeszcze jeden impuls][miko2]
+- **Z04 [O]** — do bocznych stacji należy przekaźnik nad kamiennym progiem. Stary kanał przy stacji uchodzi do strumienia, w którym żyją prądopłetwy. [Kanał pod progiem](opowiadania/tevia/1_the_channel_below_the_weir/historia.pl.md#cztery-kreski)
+- **Z04 [O]** — osobna boczna stacja pod skarpą przekazuje pocztę do górnych domów. Można dojść górną drogą. Skrót przy strumieniu bywa zasypany. [Przed drugim dzwonkiem](opowiadania/zet/1_before_the_second_bell/historia.pl.md#trzy-minuty) · [Ostatni odbiorca](opowiadania/zet/2_the_last_recipient/historia.pl.md#dzwonek-bez-odpowiedzi)
 - **Z08 [O]** — dolny posterunek i zjazd z dwiema podporami; górny posterunek oraz rozwidlenie, skąd Zet sprawdza uszkodzony odcinek drogi dla konwoju. Ich dokładne położenie względem innych stacji pozostaje otwarte. [Drugi sygnał][varek1]
 - **Z09 [O]** — w szkicu: dom i schronienie opiekunki zwierząt w Iglicy Zerath; okolica wypuszczenia Groma pozostaje nieumiejscowiona. [Skrzydło][volt1]
 - **Z07 [?]** — pierwsza karczma wspomniana przy rozważaniu trasy z Zerath do Aurelu. To wzmianka o możliwym miejscu wymiany kurtki. Brak danych pozwalających umieścić ją na konkretnym odcinku R16. [To, co pozostało][taren1]
@@ -213,6 +217,7 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 ### Aurel — zachód
 
 - **A01 [K/G]** — Latarnia Aurelu, zachodni ośrodek z GDD. Rękopisy często mówią po prostu o Aurelu. Atlas przypisuje punkty z tych scen do zachodniego obszaru bez nanoszenia planu miasta. **Plac Siedmiu Świateł [G]** to proponowany ośrodek Prób. [Aurel w historii świata][aurel] · [GDD][gdd]
+- **A01 [O]** — składy i izba straży przy drodze do latarni. [Miejsce przy stole](opowiadania/orien/2_a_place_at_the_table/historia.pl.md#to-co-podpisaliśmy)
 - **A02 [O]** — uniwersytet, pracownia Adriena, stanowiska Leny i Miko, warsztaty i hala prób. **A03 [O]** — obserwatorium, dom przy schodach i latarnia Oriena. **A04 [O]** — miejsce odpisów u Lumen i piekarnia Demy. [Pierwszy impuls Miko][miko1] · [Z tego, co ocalało][lucen1] · [Ślady w popiele][piecarius2] · [Znam kogoś, kto potrafi][lena3]
 - **A08 [O]** — w szkicu: skład przyjmujący złączki przewożone przez Vedę oraz stajnia, z której korzysta podczas wizyty w Aurelu; dokładne położenie względem innych punktów pozostaje otwarte. [To, co zostaje po drodze][veda1]
 - **A09 [K/?]** — Birch, mała osada przy bocznej drodze w okolicach Aurelu; dokładne położenie i odległość od miasta pozostają do ustalenia. [Siedem dni](opowiadania/lumen/1_seven_days/historia.pl.md#siedem-domów).
@@ -233,6 +238,7 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
 ~~~
 
 - **M01 [K]** — neutralne miasto przy skrzyżowaniu szlaków i gospodarz Wielkich Igrzysk. **Serce Labiryntu [G]** to propozycja areny. [Val Meris w historii świata][val] · [GDD][gdd]
+- **M01 [O]** — podczas oblężenia przejście ewakuacyjne od strony nadrzecznych składów prowadziło do punktu opatrunkowego. W izbie straży przy składach zbierano raporty z tej części miasta. [Jeszcze ktoś wołał](opowiadania/orien/1_someone_was_still_calling/historia.pl.md#łyżka)
 - **M02–M03 [O]** — wschodnia brama i skład Vedy, urząd zapisów, tablica kandydatów oraz dziedziniec. **M04–M05 [K/O]** — Szkoła Magów z pracowniami i publiczne archiwum powojennych świadectw. [Przysięga z księgi ojca][piecarius3] · [Nauka kontroli][lucen2] · [Po drugiej stronie][taren3] · [Historia świata][val]
 - **M06 [O]** — plac miejscowych zawodów, plac przed areną, wieże ćwiczebne, stanowisko z modelem śluzy i teren właściwych Igrzysk. Zawody Piecariusa i Thory odbywają się 28 maja. Próba Miko i Thory przypada na pierwsze dni kwalifikacji rozpoczętych 29 maja 12 ET. [Dzień, który miał być spokojny][thora2] · [Wystarczy][thora3] · [Jeszcze jeden piorun][miko3] · [Kiedy obeschnie ziemia][ana]
 - **M07 [O]** — gospoda, w której Piecarius nocuje i ćwiczy powitanie przed pokrywką garnka. Nazwa i ulica pozostają otwarte. **M08 [O]** — składy, kwatera przyjezdnych, mały dziedziniec z poidłem. **M09 [K/O]** — brama sabotowana przez Rian podczas wojny. Identyfikacja jej z konkretną współczesną bramą pozostaje otwarta. [Przysięga z księgi ojca][piecarius3] · [Po drugiej stronie][taren3] · [Jedenaście minut][rian1]

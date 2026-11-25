@@ -48,6 +48,8 @@ Popielec to smukły, długonogi drapieżnik i padlinożerca popielnych obszarów
 
 Iskra połknął splotyt naładowany przez Pyrrę i pojawiła się wokół niego ognista energia. Nie ustalono, czy inne popielce także potrafią w ten sposób korzystać z ładunku. Pyrra obawia się, że gdy Iskra dorośnie, może stwarzać zagrożenie dla innych; jego przyszłe zachowanie pozostaje otwarte.
 
+Na planszy bestiariusza dorosłe samice mają 80–95 cm w kłębie, samce 90–105 cm, a wyrośnięte młode 55–70 cm. Roboczo przyjmujemy na potrzeby historii, że młode wyraźnie rosną przez pierwszą wiosnę i osiągają dorosły wzrost około końca drugiego roku. Jesienią 11 ET Iskra mieści się w małym koszu. W maju 12 ET wciąż jest młody, ale w podróż jedzie już w większym koszu. [Plansza popielca](assets/lore/bestiary/ashstride.png) · [Trylogia Pyrry](opowiadania/pyrra/1_what_he_carried_away/historia.pl.md)
+
 ## Mrocznopazur (Gloamclaw)
 
 Mrocznopazur to ostrożny, terytorialny drapieżnik lasów i skalistych pograniczy Vesper. Poluje głównie o zmierzchu i nocą. Gęsta, ciemna kryza pomaga mu ukryć sylwetkę wśród skał i roślinności. Zwykle poluje samotnie; samica może przebywać z młodymi i bronić ich przed zagrożeniem.
@@ -115,6 +117,14 @@ Bramor to masywny roślinożerca podobny do dzika, spotykany w lasach, na podgó
 ## Skalorak
 
 Skalorak to zwinny drapieżnik skalnych zboczy, urwisk i ruin, spotykany między innymi w Kharum. Jego chropowate łuski zlewają się ze skałą, a mocne pazury ułatwiają wspinanie. Najczęściej trzyma się samotnie lub w parze i gnieździ się w szczelinach. Poluje na drobne zwierzęta z zasadzki, często z półki nad ścieżką.
+
+## Prądopłetw (Currenttail)
+
+Prądopłetw to niewielki dziki ssak półwodny z kamienistych strumieni Zerath. Ma gęste, grafitowe futro, jasne włoski czuciowe przy pysku i szeroki, płaski ogon. Włoskami wyczuwa zmiany pola w wodzie. Po burzy może zgromadzić niewielki ładunek i wypuścić ogonem krótki impuls, który wypłasza drobną zdobycz spod kamieni. Potem musi odpocząć.
+
+Silne przeciążenie pobliskiego przekaźnika może zakłócić orientację prądopłetwa. Zdezorientowane zwierzę może minąć wejście do własnej nory. Guzika wyróżnia jasna, okrągła plamka nad lewym okiem.
+
+Guzik jest towarzyszem Tevii, Przywoływaczki Błyskawic z Iglicy Zerath. Tevia znalazła go w 10 ET po rozruchu przekaźnika nad kamiennym progiem. W 11 ET objęła mandat Zerath w Radzie Siedmiu Szlaków. Do Wielkich Igrzysk zgłosiła się 26 maja 12 ET po stronie wspólnego nadzoru. Domaga się uwzględnienia kosztów ochrony zwierząt i dyżurów terenowych w rozliczeniach między krainami korzystającymi z przesyłu. [Trylogia Tevii](opowiadania/tevia/3_the_cost_of_keeping_the_tower_on/historia.pl.md)
 
 ## Splotyt i zależność krain
 
@@ -403,7 +413,7 @@ Konkretne projekty obu stron dla siedmiu krain i Val Meris, wraz z ich kosztami 
 
 ### Zgłoszenia i kwalifikacje
 
-Kwalifikacje do Wielkich Igrzysk 12 ET rozpoczynają się **29 maja 12 ET**. Właściwą serię rozgrywek zaplanowano od lipca na kilka miesięcy; dokładny termin zakończenia zależy od harmonogramu i ewentualnych dodatkowych meczów. Daty nie przesądzają, kto wystartuje ani jaki będzie wynik.
+Urząd Prób przyjmuje zgłoszenia w Val Meris **od 25 do 28 maja 12 ET**. Kwalifikacje do Wielkich Igrzysk rozpoczynają się **29 maja 12 ET**. Właściwą serię rozgrywek zaplanowano od lipca na kilka miesięcy; dokładny termin zakończenia zależy od harmonogramu i ewentualnych dodatkowych meczów. Daty nie przesądzają, kto wystartuje ani jaki będzie wynik.
 
 Chętni championi zgłaszają się do Wielkich Igrzysk po stronie jednego z dwóch wariantów zarządzania i deklarują krainę, którą chcą reprezentować. Pochodzenie nie ogranicza tego wyboru. Wpis „Lucen, Aurel” wskazuje deklarowaną reprezentację Lucena, który pochodzi z Zerath, a od lat mieszka w Aurelu. Przed naborem Urząd Prób ogłasza zasady kwalifikacji. Kandydaci przechodzą serię testów sprawdzających znajomość taktyki, wykonanie zadań i współpracę w drużynie. Kwalifikacje rozstrzygają, kto wystąpi w składach; sposób zapewnienia głosu wszystkim krainom pozostaje do ustalenia. Właściwą klasyfikację Igrzysk rozlicza się od początku serii finałowej.
 

@@ -1,0 +1,35 @@
+# Wiarygodny świadek
+
+## Na czyje słowo
+
+Wczesna jesień, 10 ET · Portowe magazyny, Cienisty Port, Vesper
+
+Aria przyniosła mi złożony rachunek. Na odwrocie ktoś dopisał imię Oriena. Wypytałam o obie eskorty. Przy drugiej opisała, jak człowiek pod burtą patrzył jej na ręce, bo czekał, aż osłona puści. Znałam tego człowieka. Mówił o tym samym, tylko zapamiętał, że po wszystkim musiał pożyczyć jej rękawicę.
+
+Chciałam zobaczyć, jak daleko mogę z nią rozmawiać. Położyłam na stole rozliczenie człowieka od wcześniejszej eskorty i powiedziałam, jaki miałam udział w jego sukcesie. Aria przeczytała kartkę od nagłówka do podpisów. Zatrzymała się przy ostatnim.
+
+— Czy oni wiedzą?
+
+— Gdyby wiedzieli, nie przyszliby tu podziękować.
+
+Chciała zarobić i mieć prawo przerwać rzecz w razie prawdziwego zagrożenia. Zgodziłam się. Zależało mi na kimś, komu uwierzy zarówno człowiek przy wozie, jak i ten, kto później obejrzy jego rachunek. Druga rzecz była warta więcej, niż wtedy policzyła. Sam podpis pod moim ostrzeżeniem miał w mieście wagę. Za portem jeszcze nikt go nie znał.
+
+Przed wyjściem zauważyła kruka. Stał za oknem po zewnętrznej stronie i dziobał krawędź miski. Zapytała, czy długo był ze mną. Powiedziałam, że przychodzi, odkąd ma po co. Zabrała rękawicę ze stołu, ale rachunek zostawiła. Kiedy dogoniłam ją przy drzwiach, powiedziała, że mogę go zatrzymać. Przyszła mi go pokazać, żebym wiedziała, co potrafi.
+
+## Ręka chłopca
+
+Jesień, 10 ET · Portowe magazyny, Cienisty Port, Vesper
+
+Jona przyprowadziła do portu swojego syna, Merta, z ręką owiniętą w płótno. Wiedziałam, kto miał tam być i kto zatrzyma się po wypłatę. Nie widziałam samej napaści. Chłopiec powiedział mi, że od deski najbardziej bolało go dopiero po przekroczeniu bramy. Sam pokazał, na której burcie siedział. Jona kazała mu przestać odpowiadać, kiedy zobaczyła, jak blady zrobił się przy drugim pytaniu.
+
+Poprosiłam magazyniera, by znalazł im miejsce do siedzenia. Wzięłam zeznanie Jony przy stole. Mówiła o Świetle i Ciemności na brzegu osłony, ale kiedy spytałam, z której strony przyszli napastnicy, przyznała, że patrzyła na dziecko. Niczego jej nie podpowiadałam. Dobrze pamiętała Arię i to miała później powtarzać.
+
+Mogłam zapłacić za opatrunek z pieniędzy złożonych na eskortę. Zrobiłam to ze swojej kieszeni. Kiedy Jona spytała, komu oddać resztę, powiedziałam, że za następną jazdę można się u mnie zapisać. Podpisała kartę zgłoszenia, zanim chłopiec zdążył zjeść kawałek chleba przyniesiony z magazynu.
+
+Po zmroku przyszła Aria. Spytałam o rękę. Powiedziała, że Jona sama zabrała syna na opatrunek.
+
+— Zapiszemy to — odpowiedziałam.
+
+Pokazałam jej rozliczenie. Obejrzała pieniądze, potem wyjęła własną kartkę, której mi nie dała. W świetle przeczytałam tylko pierwsze słowo i imię Jony. Spytałam Arię o następną jazdę. Nie odpowiedziała od razu. Przeczytała do końca, złożyła papier i podała dzień.
+
+Otworzyłam dla Jony osobną teczkę. Włożyłam do niej oba zeznania i rachunek za opatrunek. Na wierzch położyłam zgłoszenie na następną jazdę. Gdyby ktoś rano pytał, co po sobie zostawił tamten napad, mogłam mu pokazać podpis kobiety, która znowu nam zaufała.

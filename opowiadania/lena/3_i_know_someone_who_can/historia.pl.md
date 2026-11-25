@@ -196,9 +196,9 @@ To również zapisałam.
 
 Kiedy wychodziłam, sięgnął do kieszeni po mały notes. Dawniej zapytałabym, co pisze. Przez lata zauważyłam, że wyciąga go wtedy, kiedy coś naprawdę zwróci jego uwagę: wynik próby, czyjaś uwaga albo błąd, do którego chce wrócić. Nie wiem, co napisał tym razem. Wystarczyło mi, że sięgnął po notes, patrząc na mój projekt. Zamknęłam za sobą drzwi.
 
-28 maja, 12 ET · tymczasowa pracownia Adriena, Val Meris
+27 maja, 12 ET · tymczasowa pracownia Adriena, Val Meris
 
-Dzisiaj kończyły się zgłoszenia. Od tygodnia patrzyłam na kartkę z terminem, ale wciąż nie zdecydowałam, czy chcę wziąć udział w Igrzyskach.
+Jutro kończyły się zgłoszenia. Od tygodnia patrzyłam na kartkę z terminem, ale wciąż nie zdecydowałam, czy chcę wziąć udział w Igrzyskach.
 
 Adrien stał przy stole i objaśniał mi kolejną zmianę w swoim urządzeniu. Zadałam dwa pytania o mocowanie i jedno o to, czy naprawdę chce sprawdzić nowy układ tuż przed kwalifikacjami.
 

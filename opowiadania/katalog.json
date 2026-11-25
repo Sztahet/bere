@@ -756,6 +756,195 @@
     ]
   },
   {
+    "id": "aria",
+    "name": "Aria",
+    "region": "Vesper",
+    "portrait": "aria-darkness-support.png",
+    "series": "Trylogia Arii",
+    "stories": [
+      {
+        "id": "drugie-miejsce",
+        "folder": "opowiadania/aria/1_second_place",
+        "unity": "AriaDraft1",
+        "draft": false
+      },
+      {
+        "id": "bohaterka-szlaku",
+        "folder": "opowiadania/aria/2_the_road_hero",
+        "unity": "AriaDraft2",
+        "draft": false
+      },
+      {
+        "id": "cena-ocalenia",
+        "folder": "opowiadania/aria/3_the_price_of_rescue",
+        "unity": "AriaDraft3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "neris",
+    "name": "Neris",
+    "region": "Vesper",
+    "portrait": "neris-darkness-summoner.png",
+    "series": "Trylogia Neris",
+    "stories": [
+      {
+        "id": "puste-miejsce-w-raporcie",
+        "folder": "opowiadania/neris/1_the_empty_line",
+        "unity": "NerisDraft1",
+        "draft": false
+      },
+      {
+        "id": "wiarygodny-swiadek",
+        "folder": "opowiadania/neris/2_a_reliable_witness",
+        "unity": "NerisDraft2",
+        "draft": false
+      },
+      {
+        "id": "kto-placi-za-ostrzezenia",
+        "folder": "opowiadania/neris/3_who_pays_for_warnings",
+        "unity": "NerisDraft3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "tevia",
+    "name": "Tevia",
+    "region": "Zerath",
+    "portrait": "tevia-lightning-summoner.png",
+    "series": "Trylogia Tevii",
+    "stories": [
+      {
+        "id": "kanal-pod-progiem",
+        "folder": "opowiadania/tevia/1_the_channel_below_the_weir",
+        "unity": "TeviaDraft1",
+        "draft": false
+      },
+      {
+        "id": "godzina-ciszy",
+        "folder": "opowiadania/tevia/2_an_hour_of_quiet",
+        "unity": "TeviaDraft2",
+        "draft": false
+      },
+      {
+        "id": "ile-kosztuje-wlaczona-wieza",
+        "folder": "opowiadania/tevia/3_the_cost_of_keeping_the_tower_on",
+        "unity": "TeviaDraft3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "orien",
+    "name": "Orien",
+    "region": "Aurel",
+    "portrait": "orien-light-tank-v2.png",
+    "series": "Trylogia Oriena",
+    "stories": [
+      {
+        "id": "jeszcze-ktos-wolal",
+        "folder": "opowiadania/orien/1_someone_was_still_calling",
+        "unity": "OrienDraft1",
+        "draft": false
+      },
+      {
+        "id": "miejsce-przy-stole",
+        "folder": "opowiadania/orien/2_a_place_at_the_table",
+        "unity": "OrienDraft2",
+        "draft": false
+      },
+      {
+        "id": "prosze-zapisac-moje-imie",
+        "folder": "opowiadania/orien/3_please_write_down_my_name",
+        "unity": "OrienDraft3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "zet",
+    "name": "Zet",
+    "region": "Zerath",
+    "portrait": "zet-lightning-specialist.png",
+    "series": "Trylogia Zeta",
+    "stories": [
+      {
+        "id": "przed-drugim-dzwonkiem",
+        "folder": "opowiadania/zet/1_before_the_second_bell",
+        "unity": "ZetDraft1",
+        "draft": false
+      },
+      {
+        "id": "ostatni-odbiorca",
+        "folder": "opowiadania/zet/2_the_last_recipient",
+        "unity": "ZetDraft2",
+        "draft": false
+      },
+      {
+        "id": "ktos-na-drugim-koncu",
+        "folder": "opowiadania/zet/3_someone_at_the_other_end",
+        "unity": "ZetDraft3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "heda",
+    "name": "Heda",
+    "region": "Kharum",
+    "portrait": "heda-earth-tank.png",
+    "series": "Trylogia Hedy",
+    "stories": [
+      {
+        "id": "miejsce-na-wozie",
+        "folder": "opowiadania/heda/1_room_on_the_wagon",
+        "unity": "HedaDraft1",
+        "draft": false
+      },
+      {
+        "id": "trzy-rzeczy-pod-plachta",
+        "folder": "opowiadania/heda/2_three_things_under_the_canvas",
+        "unity": "HedaDraft2",
+        "draft": false
+      },
+      {
+        "id": "kiedy-woz-staje",
+        "folder": "opowiadania/heda/3_when_the_wagon_stops",
+        "unity": "HedaDraft3",
+        "draft": false
+      }
+    ]
+  },
+  {
+    "id": "pyrra",
+    "name": "Pyrra",
+    "region": "Vareth",
+    "portrait": "pyrra-fire-summoner.png",
+    "series": "Trylogia Pyrry",
+    "stories": [
+      {
+        "id": "to-co-porwal",
+        "folder": "opowiadania/pyrra/1_what_he_carried_away",
+        "unity": "PyrraDraft1",
+        "draft": false
+      },
+      {
+        "id": "zanim-zaczna-klaskac",
+        "folder": "opowiadania/pyrra/2_before_the_applause",
+        "unity": "PyrraDraft2",
+        "draft": false
+      },
+      {
+        "id": "zostawcie-furtke",
+        "folder": "opowiadania/pyrra/3_leave_the_gate_open",
+        "unity": "PyrraDraft3",
+        "draft": false
+      }
+    ]
+  },
+  {
     "id": "sarna",
     "name": "Sarna",
     "region": "Verdan",

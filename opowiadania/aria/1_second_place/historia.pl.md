@@ -1,0 +1,37 @@
+# Drugie miejsce
+
+## Kto zapala lampę
+
+Pierwsza zima Lucena w Aurelu, 4–3 PT · Dom przy obserwatorium, Aurel
+
+Ojciec uczył mnie stawiać osłonę ze Światła przy kuchennym stole. Kiedy zaczynaliśmy, potrzebowałam stołka, żeby zobaczyć knot świecy. Później wsuwał w osłonę dwa palce i kazał mi patrzeć, gdzie drży brzeg. Osłaniałam najpierw świecę, później jego dłoń. Kiedy robiłam to dobrze, zabierał rękę i prosił, żebym przesunęła się o krok dalej od stołu.
+
+Pewnego dnia Lucen zajrzał do kuchni podczas ćwiczenia. Zatrzymał się w drzwiach i patrzył, aż świeca zgasła. Zaproponowałam, żeby spróbował zapalić knot z powrotem. Rozdmuchał resztę żaru tak gwałtownie, że oboje parsknęliśmy śmiechem. Ojciec przyszedł z korytarza zaciekawiony hałasem. Kiedy zobaczył, co robimy, pokazał Lucenowi, jak skierować światło na knot. Mnie poprosił, żebym zasłoniła płomień od przeciągu.
+
+Po ćwiczeniu Lucen sprzątnął wosk. Był u nas od niedawna i wciąż pytał, czy może wziąć rzeczy, które zostawiałam specjalnie dla niego. Tego wieczoru ukroiłam trzeci kawałek chleba, bo liczył kromki tak, jakby chciał dowiedzieć się, ile nam podbiera. Powiedziałam mu, że u nas każdy, kto sprząta wosk, dostaje po drugiej kromce z grubej strony.
+
+Ojciec miał nazajutrz pomóc mi przy obchodzie pod obserwatorium. Kiedy wyszedł za Lucenem z lampą, zostawił na stole kartkę. Przepisał na nią przebieg całego obchodu. Znałam go na pamięć. Brakowało tylko godziny, na którą się umawialiśmy.
+
+## Trzeci list
+
+Pierwsza zima Lucena w Aurelu, 4–3 PT · Dom przy obserwatorium, Aurel
+
+Sama zawiadomiłam Tarena, że jego syn jest z nami i nic mu nie grozi. Podałam też adres, choć Lucen dowiedział się o tym ode mnie dopiero później. Dwa listy z Zerath wróciły do woźnicy z całymi pieczęciami. Trzeci przyniósł, kiedy ojciec siedział za ścianą z Lucenem. Po głosie słyszałam, że doszli do wyniku, którego obaj szukali od kilku wieczorów.
+
+Woźnica spytał, czy tym razem poczekać. Powiedziałam, że już wystarczy, jeśli zostawi kopertę. Zamknęłam drzwi i podeszłam do kuchni. Widziałam jeszcze obie głowy pochylone nad stołem. Ojciec dostrzegł mnie w szybie. Uniósł palec, prosząc o chwilę.
+
+Przyniosłam list do swojego pokoju. Położyłam go na półce, potem przeniosłam do szuflady, gdzie trzymałam zapasowe nici. Gdybym zostawiła go na widoku, przy obiedzie mogłabym jeszcze powiedzieć, że go znalazłam w drzwiach. Zamknęłam szufladę.
+
+W nocy Lucen przyszedł spytać, czy na obchodzie wiało tak mocno, jak widać z okna. Opowiedziałam mu o bramce, której zamknięcie zajęło mi dwa podejścia. Spytał, po której stronie łatwiej przytrzymać ją ramieniem. Pokazałam. Wysłuchał mnie do końca. Poczekałam, aż odejdzie, i przesunęłam pudełko z nićmi na kopertę.
+
+## Rzeczy na zimę
+
+Jesień, 2 ET · Dom przy obserwatorium, Aurel
+
+Lucen mieszkał już w Val Meris. Posłał wiadomość, że na poddaszu jest zimno, ale część zimowych rzeczy ma jeszcze w Aurelu. Wyjęłam z szafy jego płaszcz. W wewnętrznej kieszeni został okruch kredy. Wytarłam podszewkę i poszłam po papier.
+
+Miałam opłacone miejsce na wozie do Vesper. Ojciec wiedział od tygodnia. W dniu wyjazdu próbował jeszcze ustalić, do którego składu dostanę pierwszą zapłatę, żebym zawsze miała gdzie wysłać wiadomość. Pozwoliłam mu wypisać adres. Schowałam go do kieszeni tuż obok koperty Tarena.
+
+Otworzyłam paczkę dla Lucena, zanim przybito na niej kwit. Do listu dołożyłam kartkę. Napisałam: „Przyszedł jeszcze pierwszej zimy. Chowałam go w szufladzie. Powinnam była dać ci go od razu”. Napisałam też o dwóch zwróconych listach i o tym, jak raz chciałam, żeby Lucen poczekał. Kartkę zwinęłam ciasno, bo nie chciałam, żeby przy pakowaniu została na stole.
+
+Ojciec pomógł mi wnieść torbę na wóz. Zanim ruszyliśmy, zapytał, czy pamiętam, co robić, gdy osłona zacznie drżeć. Pamiętałam i powiedziałam mu to bez złości. On pamiętał adres składu bez patrzenia na kartkę. Stał pod domem, dopóki nie skręciliśmy za mur. Z paczką Lucena pojechał inny wóz.

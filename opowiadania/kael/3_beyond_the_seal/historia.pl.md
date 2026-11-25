@@ -78,7 +78,7 @@ Odłożyłam własną obwolutę na siedzenie wozu. Przy następnym postoju otwor
 
 27 maja, 12 ET · sala przyjęć Rady Siedmiu Szlaków, Val Meris
 
-Przedstawiciel Zerath przyniósł mi do podpisania rozliczenie drugiego przejazdu po zapinki. Na ostatniej stronie wreszcie mieliśmy wpisane trzy urządzenia z Nivoren, w których je wymieniono. Nie wyjmował płaszcza spod zapięcia. Czekała na niego przewodniczka z górskiej osady i mieli pojechać obejrzeć miejsce, gdzie kończy się opłacona droga dla wozów. Powiedział, że przed wyjazdem zdąży mi pokazać jeszcze jedno pismo.
+Delegat Zerath do spraw rozliczeń przyniósł mi do podpisania wykaz kosztów drugiego przejazdu po zapinki. Na ostatniej stronie wreszcie mieliśmy wpisane trzy urządzenia z Nivoren, w których je wymieniono. Nie wyjmował płaszcza spod zapięcia. Czekała na niego przewodniczka z górskiej osady i mieli pojechać obejrzeć miejsce, gdzie kończy się opłacona droga dla wozów. Powiedział, że przed wyjazdem zdąży mi pokazać jeszcze jedno pismo.
 
 Był to odpis zaproszenia do ludzi, którzy mieli przed Igrzyskami wyjaśnić, jak działają dotychczasowe przydziały. Zwykle siadaliśmy tam razem. On wyliczał wpłaty, ja opowiadałam o rzeczach, które jeździły w obie strony. Naprzeciw ludzi z Vareth zamierzali postawić również Senę. Moje imię skreślił z tej rozmowy ołówkiem, tak żebym mogła jeszcze podnieść kwestię przed wysyłką.
 

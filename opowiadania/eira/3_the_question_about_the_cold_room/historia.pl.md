@@ -18,7 +18,7 @@ Przed drogą obszyłem torbę w miejscu, gdzie pękł szew od pokrywy przyrządu
 
 ## Czy masz z kim zostać
 
-28 maja, 12 ET · Urząd Prób, Val Meris
+25 maja, 12 ET · Urząd Prób, Val Meris
 
 Urzędniczka zapytała, czy ryś reaguje na znaki. Powiedziałem, że na niektóre. Spytała, kto może nim się zająć, jeśli podczas zadania trzeba go będzie odprowadzić. Pokazałem jej nazwisko opiekuna, z którym rozmawiałem w zagrodach. Obiecałem przyjść do niego ze Szronem jeszcze raz, żeby ryś poznał wejście od spokojniejszej strony.
 
@@ -26,13 +26,13 @@ Wybrałem Nivoren i wspólny nadzór. Mogłem oddać poprawkę do mapy, znaleź�
 
 Zapytałem, gdzie zostawić poprawkę do mapy. Urzędniczka skierowała mnie do innego budynku. Dopiero gdy wyszedłem, zauważyłem, że złożyłem odpis zgłoszenia tak, jak dotąd składałem karty odbioru na północnym szlaku. W miejscu, w którym zwykle wpisywałem właściciela wozu, stało moje imię.
 
-Przy schodach zobaczyłem Ruvana. Mówił do kogoś, stojąc bokiem do wejścia. Od razu poznałem, jak trzyma prawy bark w płaszczu. Pod magazyn wkładał go tak samo, kiedy myślał, że nikt go nie widzi. Przez chwilę chciałem podejść i zapytać, kiedy ostatnio zszedł do schodów. Szron stanął przede mną. Czekał, aż wskażę mu stronę, po której mamy minąć ludzi.
-
-Poszliśmy do budynku z mapami. Zostawiłem tam odpis, poprosiłem o potwierdzenie i zapytałem, gdzie mogę się umówić na oględziny przyrządu. Skierowali mnie do stołu napraw przy zagrodach. Obok przyjmowano uwagi do rozkładu dostaw. Na desce leżały dwie mapy z Nivoren. Jedna pokazywała moją górną trasę bez ani jednej kreski na zakręcie.
+Poszliśmy do budynku z mapami. Zostawiłem tam odpis, poprosiłem o potwierdzenie i zapytałem, gdzie mogę się umówić na oględziny przyrządu. Skierowali mnie do stołu napraw przy zagrodach. Umówiłem się tam na dwudziestego ósmego, kiedy mieli też przyjmować uwagi do rozkładu dostaw.
 
 ## Na dwóch obwodach
 
-28 maja, 12 ET · Plac przy zagrodach Urzędu Prób, Val Meris
+28 maja, 12 ET · Urząd Prób i plac przy zagrodach, Val Meris
+
+W drodze do zagród zobaczyłem przy schodach Ruvana. Mówił do kogoś, stojąc bokiem do wejścia. Od razu poznałem, jak trzyma prawy bark w płaszczu. Pod magazyn wkładał go tak samo, kiedy myślał, że nikt go nie widzi. Przez chwilę chciałem podejść i zapytać, kiedy ostatnio zszedł do schodów. Szron stanął przede mną. Wskazałem mu stronę, po której mieliśmy minąć ludzi. Przy zagrodach na desce leżały dwie mapy z Nivoren. Jedna pokazywała moją górną trasę bez ani jednej kreski na zakręcie.
 
 Sailę poznałem po tym, jak odsunęła lampę, żeby móc przeczytać mapę bez cienia od własnej ręki. Ktoś wyżej wpisał przy schronisku czas przejazdu przy otwartej dolnej drodze. Saila wskazała kreskę idącą przez zakręt.
 

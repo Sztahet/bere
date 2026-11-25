@@ -97,6 +97,7 @@
       "descEn": "A carrier from Stone Threshold. She knows heavy teams and when to bring a haul to a halt.",
       "conceptOnly": true,
       "bio": {
+        "approvedForPoc": true,
         "city": "Kamienny Próg",
         "cityEn": "Stone Threshold",
         "specialty": "Ciężki przewóz i asekuracja",
@@ -423,8 +424,8 @@
       "name": "Aria",
       "role": "Tank",
       "element": "Ciemność",
-      "desc": "Córka Oriena z Aurelu, która w Vesper chroni konwoje, łącząc Światło i Ciemność w potężnych osłonach.",
-      "descEn": "Orien's daughter from Aurel protects convoys in Vesper, combining Light and Darkness in powerful shields.",
+      "desc": "Córka Oriena z Aurelu i obrończyni konwojów w Vesper. Światłem nadaje kształt osłonie, a Ciemnością na krótko wzmacnia jej wybrany brzeg. Ciemny pas ogranicza także jej widoczność.",
+      "descEn": "Orien's daughter from Aurel protects convoys in Vesper. She shapes a shield with Light and briefly reinforces one edge with Darkness. The dark strip also obscures her own view.",
       "comingSoon": true
     },
     {
@@ -471,6 +472,7 @@
       "defName": "Obrona · Impuls zwiadu",
       "def": "Na krótko wykrywa Runnerów i moby w wybranym obszarze.",
       "bio": {
+        "approvedForPoc": true,
         "name": "Zet",
         "city": "Iglica Zerath",
         "cityEn": "Zerath Spire",
@@ -589,9 +591,11 @@
       "element": "Światło",
       "img": "orien-light-tank-v2.png",
       "id": "orien",
-      "desc": "Postać w przygotowaniu.",
+      "desc": "Obrońca Światła z Aurelu. Osłaniał ludzi na szlakach i szkoli załogi ratownicze.",
+      "descEn": "A Light Defender from Aurel who has protected travelers and trains rescue crews.",
       "conceptOnly": true,
       "bio": {
+        "approvedForPoc": true,
         "name": "Orien",
         "city": "Latarnia Aurelu",
         "cityEn": "Aurelian Lighthouse",
@@ -791,13 +795,14 @@
       "desc": "Popielec przechwytuje pocisk i tworzy strefę żaru; w obronie wspiera presję obszarową wieży.",
       "conceptOnly": true,
       "bio": {
+        "approvedForPoc": true,
         "city": "Żarowisko Vareth",
         "cityEn": "Vareth Emberforge",
         "specialty": "Przywoływaczka Ognia; towarzyszy jej młody popielec Iskra",
-        "story": "Wiek w 12 ET: 28 lat.\n\nPyrra dorastała wśród kuźni Vareth, gdzie nauczyła się cierpliwości i uważnej pracy z ogniem. Marzy o warsztacie, w którym młodzi rzemieślnicy mogliby bezpiecznie poznawać moc żaru.\n\nPodczas wyprawy poza miasto szła przez deszcz i ćwiczyła ładowanie małego kryształu splotytu, ogrzewając dłonie ogniem. Zaciekawiony bardzo młody popielec podszedł do niej, porwał kryształ i uciekł. Pyrra pobiegła za nim do jaskini, lecz zanim go dogoniła, połknął splotyt.\n\nWokół zwierzęcia pojawiły się ogniste smugi i iskry. Pyrra i mały popielec szybko znaleźli wspólny język, bawiąc się płomieniem. Nazwała go Iskrą; po angielsku jego imię brzmi Spark.\n\nIskra jest jeszcze mały, lecz Pyrra wie, jak duże i silne potrafią być dorosłe popielce. Zastanawia się, czy gdy podrośnie, nie będzie stwarzał zagrożenia dla innych. Chce go dobrze poznać i uczyć bezpiecznego zachowania, choć nie wie jeszcze, jaki będzie jako dorosły.\n\nDo Prób wyruszają razem. Pyrra chce pokazać wartość precyzji i zdobyć środki na warsztat dla młodych rzemieślników.",
+        "story": "Wiek w 12 ET: 28 lat.\n\nPyrra dorastała wśród kuźni Vareth, gdzie nauczyła się cierpliwości i uważnej pracy z ogniem. Marzy o warsztacie, w którym młodzi rzemieślnicy mogliby bezpiecznie poznawać moc żaru.\n\nPodczas wyprawy poza miasto szła przez deszcz i ćwiczyła ładowanie małego kryształu splotytu, ogrzewając dłonie ogniem. Zaciekawiony bardzo młody popielec podszedł do niej, porwał kryształ i uciekł. Pyrra pobiegła za nim do jaskini, lecz zanim go dogoniła, połknął splotyt.\n\nWokół zwierzęcia pojawiły się ogniste smugi i iskry. Pyrra i mały popielec szybko znaleźli wspólny język, bawiąc się płomieniem. Nazwała go Iskrą; po angielsku jego imię brzmi Spark. Pyrra uwielbia podrzucać znajomym żartobliwe rysunki. Nauczyła Iskrę podpisywać je małym śladem ognia. Popielec czasem przypala także cudzą kartkę i parska tak, jakby się śmiał.\n\nIskra jest jeszcze mały, lecz Pyrra wie, jak duże i silne potrafią być dorosłe popielce. Zastanawia się, czy gdy podrośnie, nie będzie stwarzał zagrożenia dla innych. Chce go dobrze poznać i uczyć bezpiecznego zachowania, choć nie wie jeszcze, jaki będzie jako dorosły.\n\nDo Prób wyruszają razem. Pyrra chce pokazać wartość precyzji i zdobyć środki na warsztat dla młodych rzemieślników.",
         "reason": "Chce zdobyć środki na bezpieczny warsztat dla młodych rzemieślników i pokazać wartość precyzji.",
         "family": "Szczegóły rodziny Pyrry pozostają do ustalenia; Iskra jest jej bliskim towarzyszem.",
-        "storyEn": "Age in 12 AT: 28.\n\nPyrra grew up among the forges of Vareth, where she learned patience and careful work with fire. She dreams of a workshop where young craftspeople can safely learn to work with its heat.\n\nOn a journey beyond the city, she walked through the rain, practicing charging a small splotite crystal and warming her hands with fire. A curious, very young ashstride approached, snatched the crystal and fled. Pyrra chased him into a cave, but before she caught him, he swallowed the splotite.\n\nFiery trails and sparks appeared around him. Pyrra and the young ashstride quickly found common ground, playing with the flames together. She named him Spark.\n\nSpark is still small, but Pyrra knows how large and strong adult ashstrides can grow. She wonders whether he might become a danger to others as he grows. She wants to understand him and teach him to behave safely, though she does not yet know what he will be like as an adult.\n\nThey set out for the Trials together. Pyrra hopes to demonstrate the value of precision and earn funds for a workshop for young craftspeople."
+        "storyEn": "Age in 12 AT: 28.\n\nPyrra grew up among the forges of Vareth, where she learned patience and careful work with fire. She dreams of a workshop where young craftspeople can safely learn to work with its heat.\n\nOn a journey beyond the city, she walked through the rain, practicing charging a small splotite crystal and warming her hands with fire. A curious, very young ashstride approached, snatched the crystal and fled. Pyrra chased him into a cave, but before she caught him, he swallowed the splotite.\n\nFiery trails and sparks appeared around him. Pyrra and the young ashstride quickly found common ground, playing with the flames together. She named him Spark. Pyrra loves leaving joke sketches for her friends. She taught Spark to sign them with a tiny scorch mark. Sometimes he singes someone else's paper and snorts as if he were laughing.\n\nSpark is still small, but Pyrra knows how large and strong adult ashstrides can grow. She wonders whether he might become a danger to others as he grows. She wants to understand him and teach him to behave safely, though she does not yet know what he will be like as an adult.\n\nThey set out for the Trials together. Pyrra hopes to demonstrate the value of precision and earn funds for a workshop for young craftspeople."
       },
       "passName": "Żar pod kontrolą",
       "pass": "Po otrzymaniu obrażeń od Ognia Pyrra zyskuje na krótko odporność na podpalenie.",
@@ -852,6 +857,26 @@
       "pass": "Po użyciu Q Volt porusza się o 10% szybciej przez 2 sekundy.",
       "passNameEn": "Relay Rhythm",
       "passEn": "After using Q, Volt moves 10% faster for 2 seconds."
+    },
+    {
+      "name": "Tevia",
+      "img": "tevia-lightning-summoner.png",
+      "element": "Błyskawice",
+      "pet": "prądopłetw Guzik",
+      "role": "Przywoływacz",
+      "id": "tevia",
+      "desc": "Przywoływaczka Błyskawic i przedstawicielka Zerath w Radzie Siedmiu Szlaków. Towarzyszy jej dziki prądopłetw Guzik.",
+      "descEn": "Lightning Summoner and Zerath's representative on the Council of Seven Routes. Her companion is Guzik, a wild currenttail.",
+      "conceptOnly": true,
+      "comingSoon": true,
+      "bio": {
+        "approvedForPoc": true,
+        "city": "Iglica Zerath",
+        "cityEn": "Zerath Spire",
+        "specialty": "Przywoływaczka Błyskawic i dawna inspektorka przekaźników",
+        "story": "Wiek w 12 ET: 44 lata.\n\nTevia zatwierdziła rozruch przekaźnika, choć odłożyła oględziny kanału zasiedlonego przez prądopłetwy. Po przeciążeniu ślady części zwierząt zniknęły. Poniżej stacji znalazła Guzika, który stracił orientację i minął własną norę. Z czasem zaczął odpowiadać na jej sygnał. Sam decyduje, kiedy do niej podpłynąć.\n\nGuzik potrafi dopłynąć wąską szczeliną do miejsca, którego Tevia nie dosięgnie iskrą od brzegu. Jeśli zgromadził ładunek i sam go uwolni, Tevia może skierować krótki impuls na pobliski cel. Po wyładowaniu Guzik musi odpocząć.\n\nW 11 ET Tevia objęła mandat w Radzie Siedmiu Szlaków. Zgłasza się do Igrzysk po stronie wspólnego nadzoru, żeby w rozliczeniach przesyłu uwzględnić ochronę zwierząt przy przekaźnikach i zapłatę za dodatkowe dyżury.",
+        "storyEn": "Age in 12 AT: 44.\n\nTevia approved a relay restart after postponing the inspection of a channel inhabited by currenttails. Some of the animals vanished after the overload. Downstream she found Guzik, disoriented and swimming past his own burrow. He eventually learned to respond to her signal. He decides for himself when to swim over.\n\nGuzik can swim through a narrow gap to places Tevia cannot reach with a spark from the bank. If he has built up a charge and releases it on his own, Tevia can guide the brief pulse to a nearby target. Guzik needs to rest after the discharge.\n\nTevia took her seat on the Council of Seven Routes in 11 AT. She enters the Games in support of joint oversight, seeking to include wildlife protection and extra watch shifts in the cost of running the shared network."
+      }
     },
     {
       "name": "Ana",
@@ -954,10 +979,10 @@
       "img": "neris-darkness-summoner.png",
       "element": "Ciemność",
       "pet": "kruk Cień",
-      "concept": "Kruk przyjmuje część obrażeń dzięki więzi; w obronie utrudnia orientację.",
+      "concept": "Neris tworzy więź Ciemności z dzikim krukiem Cieniem. Więź może przenieść na niego część uderzenia skierowanego w Neris; w obronie Cień utrudnia orientację.",
       "role": "Przywoływacz",
       "id": "neris",
-      "desc": "Kruk przyjmuje część obrażeń dzięki więzi; w obronie utrudnia orientację.",
+      "desc": "Neris tworzy więź Ciemności z dzikim krukiem Cieniem. Więź może przenieść na niego część uderzenia skierowanego w Neris; w obronie Cień utrudnia orientację.",
       "conceptOnly": true,
       "bio": {
         "city": "Cienisty Port",

@@ -1,0 +1,51 @@
+# Zanim zaczną klaskać
+
+## W godzinach pracy
+
+9 maja, 12 ET · Dzielnica warsztatowa Żarowiska Vareth
+
+Na trzeci stołek usiadła Reska, która od zimy chodziła do warsztatów z ostrzonymi częściami. W jednym miejscu pozwalano jej czasem trzymać szczypce. W drugim obiecano uczyć ją przy piecu, pod warunkiem że w każdym tygodniu skończy wyznaczoną partię pracy. Kiedy zapytałam ją, ile z tego czasu naprawdę spędza przy ogniu, potrafiła powiedzieć mi tylko, ile sztuk nosi na górę.
+
+Obejrzałyśmy razem budynek z wyjściem na dziedziniec. Drzwi dało się otworzyć szeroko i żadne krzesło nie stawało im na drodze. Mogłam wynająć całe miejsce, jeśli przyjmę zaliczkę od kupca z ulicy. Chciał, żeby ludzie zobaczyli pokaz Iskry, a potem posyłali do mnie swoich uczniów i zamawiali u nas pracę. Miał prawo oczekiwać, że zobaczy, za co zapłacił. Ja chciałam przed nim pokazać jedno proste ćwiczenie. Reska miała stopniowo zmieniać siłę ognia, ja prowadzić Iskrę po dziedzińcu, a kiedy zawołam, miał wyjść za kamienną linię. Robiliśmy to od zimy. Najdłużej chodziło o nauczenie go dwóch stron: że ciepło można znaleźć dalej, a po drugiej stronie wolno mu zejść z pola i iść w cień.
+
+Przed próbą zapytałam Reskę, czy woli wspólnie ułożyć sprzęt, czy od razu spróbować. Powiedziała, że woli najpierw zobaczyć, jak Iskra zwykle staje przed linią. Poprowadziłam go raz. Przeciągnął się na słońcu, potem obszedł kamień i zajrzał pod ławę w cieniu. Reska przyglądała mu się dłużej niż ja. Zauważyła, że od kilku tygodni podnosi łeb wyżej, niż wynosi dłoń wyciągnięta z siedzenia. Powiedziałam, że przyniesiemy niższą płytę. Wtedy znów będę widziała jego uszy, kiedy podejdzie przy stole.
+
+Reska spróbowała utrzymać równy ogień, przesuwając przy tym szczypce po raz pierwszy bez mojego prowadzenia. Kiedy skończyła, obejrzałam obie strony blaszki. Nie było ani jednej ciemniejszej plamy. Klasnęłam tak głośno, że Iskra wyskoczył spod ławy. Chciałam jej od razu pokazać następne ćwiczenie i zaczęłam szukać drugiej blaszki.
+
+— Pyrra, najpierw pozwól mi obejrzeć tę — powiedziała Reska.
+
+Położyłam blaszkę przed nią. Na skrawku papieru napisałam, że za wynik odpowiada Reska, a za hałas ja. Był to ten rodzaj kartek, które Iskra od tygodni odnajdywał szybciej niż ludzie, którym chciałam je podrzucić. Podpisałam się i dałam mu miejsce na jego znak. Smagnął róg płomieniem, odskoczył i wydał z siebie trzy chrapliwe „he, he, he”. Reska roześmiała się. Chwilę później Iskra przypalił też róg jej rozpiski z godzinami. Znów parsknął i popatrzył najpierw na mnie, potem na nią. Reska przyjrzała się nadpalonemu wierszowi i podała mi ołówek. Przepisałam jej godziny na czystą kartkę. Iskra podszedł obejrzeć nową rozpiskę, ale tym razem ją schowałam.
+
+Kupiec zajrzał do nas po południu. Spytał, czy jego ludzie mają przyjść wcześniej, żeby niczego nie przegapić. Powiedziałam, że wystarczy, kiedy dotrą na godzinę pokazu. Nie chciałam pokazywać im, jak długo urządzamy miejsce, zanim zostanie samo to, co mogą zobaczyć z ulicy.
+
+## Przy drzwiach
+
+12 maja, 12 ET · Dziedziniec przy kuźniach, Żarowisko Vareth
+
+Na ławie zabrakło miejsca przed pierwszym znakiem. Dwóch ludzi zostało przy drzwiach. Widzieli lepiej niż ci, którzy siedzieli dalej, więc kupiec pozwolił im tam zostać. Reska rozejrzała się za niską płytą. Wzięłam ją rano pod ścianę, żeby nie zawadzała, czasem bowiem klient przechodził tamtędy po odbiór zamówienia. Wyniosłam ją na dziedziniec już po tym, jak część widzów zdążyła usiąść.
+
+Na początku Iskra szedł jak przy pustym placu. Przy następnym zwrocie ktoś podniósł stopę i przesunął żelazne wiadro. Iskra zamarł i podniósł łeb nad brzegiem płyty. Reska zapytała cicho, czy może oddać mi szczypce. Ja miałam wrażenie, że jeśli zrobi jeszcze jeden odczyt, Iskra przejdzie obok wiadra i wszystko wróci do początku pokazowej trasy.
+
+— Zostań, jeszcze chwilę — powiedziałam.
+
+Iskra ruszył w przeciwną stronę. Reska cofnęła szczypce. Ciepło z jego grzbietu dosięgło dolnego końca zawieszonego płótna. Na skraju został ciemny prążek. Ludzie przy drzwiach pchnęli się odruchowo do środka, zamiast zrobić miejsce. Tarsa odsunęła ławę i zażądała przejścia do furtki. Zgasiłam swój ogień. Dopiero kiedy odwróciłam płytę i ukazał się kawałek znanej mu ściany, Iskra przeszedł wzdłuż niej do cienia. Tarsa trzymała ludzi z dala od niego, dopóki sam nie usiadł.
+
+Kupiec chciał wiedzieć, czy możemy pokazać ostatnią część, żeby ludzie z jej braku nie pomyśleli, że cała nauka tak właśnie wygląda. Spojrzałam na Reskę. Trzymała szczypce na końcu uchwytu. Zabrałam je od niej. Powiedziałam na dziedzińcu, że ćwiczenie przerywamy i że poproszono mnie o przerwę wcześniej. Kilka osób już odchodziło. Nie wiem, ilu mnie usłyszało.
+
+Po zamknięciu drzwi Reska podniosła z podłogi przyrząd do odczytów. Pomyślałam, że chce posprzątać. Zamiast tego położyła go na stole i spytała, co by się stało, gdyby wyszła pierwsza, zanim kazałam jej zostać. Powiedziałam, że miałaby do tego prawo.
+
+— Miałam też wtedy? — zapytała.
+
+Otwarłam usta, żeby powiedzieć, że tak. Przypomniałam sobie, jak się do niej odezwałam, kiedy w drzwiach wciąż stali ludzie. Powiedziałam, że wtedy odezwałam się tak, jakbym tego prawa jej nie dała. Wzięła płaszcz ze stołka. Niczego więcej nie dało się z nią ustalić tego wieczoru. Przed wyjściem poprosiła, żebym schowała za nią szczypce. Przeciągnęłyśmy razem ławę pod ścianę, a potem zamknęłam drzwi.
+
+## Od drogi
+
+14 maja, 12 ET · Warsztat z dziedzińcem, Żarowisko Vareth
+
+Kupiec wrócił z rachunkiem. Zaliczka mogła jeszcze pójść na czynsz, jeśli zgodzę się dać mu dwa wieczory w tygodniu na pracę z zamówieniami, a pokazy nauki zrobię wtedy, gdy zostanie dostępna sala. Powiedziałam, że Reska znów musiałaby nosić sztuki na górę i czekać, aż ktoś zwolni jej jeden stołek. Spytał, czy jestem gotowa opłacić większy budynek, jeśli chcę używać go po swojemu. Powiedziałam, że na razie nie. Za część zaliczki kupiliśmy płótno i zapłaciliśmy ludziom od ławy. Tę kwotę zamierzałam oddać po kolejnych zleceniach, a resztę oddałam od razu.
+
+Po jego wyjściu Tarsa pokazała mi ogrodzony plac od drogi, gdzie w dzień odkładali duże miechy. Wieczorem mógł zostać pusty. Było widać obu ludzi po drugiej stronie stołu. Z boku stała długa niska ściana, którą Iskra mógł obejść bez przeciskania się między nogami. Przeniosłam tam najpierw jeden stołek. Reska znalazła mnie przy płycie. Zapytała, czy tym razem przytrzymam jej drugi koniec, kiedy będzie ustawiała swój.
+
+Ustaliłyśmy, że przy ćwiczeniu każda z nas może powiedzieć „dość” i odłożyć szczypce. Reska zapytała, co zrobimy, gdy ktoś będzie czekał na swoją część zlecenia. Odparłam, że na tym placu nie będziemy przyjmowały zleceń na czas nauki. Czy będzie nas w najbliższy wtorek stać na jeden wieczór, mogłam sprawdzić w kieszeni. Czy za rok będziemy miały trzy stanowiska, tego wolałam jej jeszcze nie obiecywać.
+
+Kiedy skończyłyśmy, Iskra obszedł ścianę od strony drogi. Zatrzymał się przy otwartej furtce. Na chwilę podniósł obie przednie łapy, jakby zamierzał ją przeskoczyć, a przecież nie stało przed nim nic. Zawołałam go. Obejrzał się, potem poszedł jeszcze parę kroków w stronę kamieni. Reska spytała, czy go łapiemy. Poczekałam, aż znów mnie zobaczy. Kiedy wrócił, puściłam swój ogień dopiero przy wewnętrznym brzegu ściany. Iskra położył się w cieniu i przez resztę wieczoru nikt od niego niczego nie chciał.

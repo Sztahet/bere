@@ -28,9 +28,9 @@ Wieczorem wysłałem Varek wyniki porównania regulatorów. Dołożyłem rysunek
 
 ## Imię na formularzu
 
-28 maja, 12 ET · Val Meris
+25 maja, 12 ET · Val Meris
 
-Przed poranną odprawą poszedłem do składu zapytać, jakie dokumenty dają przy częściach wysyłanych do Zerath. Przy wejściu spotkałem Tarena. Szukał części do dwóch pomp i miał już na kartce ich wymiary. Opowiedziałem mu, jak pękło nam mocowanie kryształu i jak po nowe sięgnęliśmy do zapasów z Aurelu. Pokazałem mu kwit. Wpisali, że część jest dopuszczona do użytku. Nie podali, jakie obciążenie wytrzymała.
+Rano poszedłem do składu zapytać, jakie dokumenty dają przy częściach wysyłanych do Zerath. Przy wejściu spotkałem Tarena. Szukał części do dwóch pomp i miał już na kartce ich wymiary. Opowiedziałem mu, jak pękło nam mocowanie kryształu i jak po nowe sięgnęliśmy do zapasów z Aurelu. Pokazałem mu kwit. Wpisali, że część jest dopuszczona do użytku. Nie podali, jakie obciążenie wytrzymała.
 
 — Ile czekaliście? — zapytał.
 
