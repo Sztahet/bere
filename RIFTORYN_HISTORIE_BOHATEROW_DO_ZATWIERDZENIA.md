@@ -101,17 +101,17 @@ Siostry wspólnie pomagają potrzebującym, łącząc wyuczone umiejętności, a
 
 ### Oren z Kharum — Wsparcie Ognia [propozycja]
 
-Oren ma 67 lat w 12 ET. W kuźni przy trakcie w Kharum robi pancerze i sprzęt ratunkowy, a zdobienia najchętniej dodaje z własnej ochoty. Potrafi wykuć na spodzie zwykłej klamry jaskółkę, którą właściciel zobaczy dopiero przy zdejmowaniu pasa. Cieszy się, gdy rozpozna swoją robotę z drugiego końca ulicy. Jeśli zobaczy na niej obcy nit, podejdzie tak blisko, jak na to pozwoli cierpliwość właściciela. Niektóre rysunki trzyma od czterdziestu lat. Zdarza mu się przepracować całe popołudnie nad drobiazgiem, którego klient w ogóle nie zamawiał. Przy miechu oszczędza bolące dłonie, prowadząc żar magią.
+Oren ma 67 lat w 12 ET. Jest magiem Ognia w roli Wsparcia i zgłasza się do kwalifikacji w barwach Kharum. W kuźni przy trakcie robi pancerze i sprzęt ratunkowy, a zdobienia najchętniej dodaje z własnej ochoty. Potrafi wykuć na spodzie zwykłej klamry jaskółkę, którą właściciel zobaczy dopiero przy zdejmowaniu pasa. Cieszy się, gdy rozpozna swoją robotę z drugiego końca ulicy. Jeśli zobaczy na niej obcy nit, podejdzie tak blisko, jak na to pozwoli cierpliwość właściciela. Niektóre rysunki trzyma od czterdziestu lat. Zdarza mu się przepracować całe popołudnie nad drobiazgiem, którego klient w ogóle nie zamawiał. Przy miechu oszczędza bolące dłonie, prowadząc żar magią. [Zasady reprezentacji](world_history.md#zgłoszenia-i-kwalifikacje)
 
-**Zbroja Piecariusa.** Zimą 11/12 ET Oren wykuł ją na zamówienie przyjęte przez skład. Z nadesłanego rysunku wykonał zapinaną na napierśniku broszę z feniksem. Skrócił ostatnie pióro, żeby ogon nie zachodził na klamrę. Piecarius odebrał zbroję w składzie. Gdy Veda przywozi list od siostry Orena 8 kwietnia 12 ET, kowal po raz pierwszy widzi swojego klienta i zaraz rozpoznaje własną robotę. O pochodzeniu wzoru wie tyle, ile było w zamówieniu. [Wizyta oczami Piecariusa](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md#stary-kamień) · [Wizyta oczami Vedy](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md#list-dla-orena)
+**Zbroja Piecariusa.** Wiosną 6 ET młody Piecarius przyszedł do dawnej kuźni Orena w Kamiennym Progu z księgą po ojcu. Zamówił cały pancerz z ilustracji. Chciał purpurowych płyt ze złotymi krawędziami, wysokiego kołnierza i feniksa rozpostartego na piersi. Oren zażądał 50 selenów, w tym 20 zaliczki. Piecarius zapłacił resztę przy odbiorze po kilku przymiarkach. Gdy Veda przywozi list 8 kwietnia 12 ET, Oren rozpoznaje skrócone pióro feniksa przy klamrze, a dopiero potem dawnego klienta. [Wizyta oczami Piecariusa](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md#stary-kamień) · [Wizyta oczami Vedy](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md#list-dla-orena)
 
 **Co wykuwa.** Złożył napierśnik Piecariusa tak, by ten mógł unieść tarczę bez zahaczania o bark. Jego obejma ratunkowa podtrzymuje uszkodzony zawias, dopóki Oren utrzymuje w metalu żar. Ma też osłonę latarni, którą woźnica może zdjąć i wymienić w rękawicach. Oren dobierał jej mocowania osobno do każdego zamówienia. **W grze** jego kuta osłona amortyzuje część najbliższego trafienia w sojusznika, a w obronie może osłonić czynną wieżę. Oren utrzymuje jedną taką osłonę na raz. Wybór nowego celu odsłania poprzedni. To drugi wariant Wsparcia Ognia obok Solana.
 
 **Zarys trylogii**
 
-1. **Pióro przy klamrze**, 8 kwietnia, 12 ET · chata i kuźnia Orena, Kharum. Veda przynosi list od siostry, a Piecarius pyta o znak na kamieniu. Po ich odjeździe Oren wraca do latarni zamówionej w Val Meris. Miał już wyznaczone miejsce na uchwyt, ale zmienia rysunek, bo w jego linii dostrzega kark konia. Zapłata za latarnię ma pokryć naprawę dachu siostry. Oren dodatkowo zaczyna kuć małego konika dla jej wnuka. Z kieszeni wyjmuje list, żeby w przerwie znowu spróbować odnaleźć imię dziecka.
+1. **Pióro przy klamrze**, 8 kwietnia, 12 ET · chata i kuźnia Orena, Kharum. Veda przynosi list od siostry, a Piecarius pyta o znak na kamieniu. Oren rozpoznaje zbroję i przypomina sobie młodego klienta, który przyniósł do kuźni księgę i uparł się przy całym pancerzu z ilustracji. Po ich odjeździe kowal wraca do latarni zamówionej w Val Meris. Miał już wyznaczone miejsce na uchwyt, ale zmienia rysunek, bo w jego linii dostrzega kark konia. Zapłata za latarnię ma pokryć naprawę dachu siostry. Oren dodatkowo zaczyna kuć małego konika dla jej wnuka. Z kieszeni wyjmuje list, żeby w przerwie znowu spróbować odnaleźć imię dziecka.
 2. **Nie ma drugiej takiej**, 27 maja, 12 ET · zaplecze warsztatów, Val Meris. Solan przynosi dwie latarnie Orena z uszkodzonymi osłonami. Oren żartuje z krzywego nitu. Solan mówi, że dzięki doraźnej naprawie zdołał poprowadzić wóz po zmroku. Oren z dumą rozkłada obie latarnie i pokazuje, że każdą zbudował trochę inaczej. Solan prosi, żeby przymierzył do nich zapasową osłonę. Nie pasuje do żadnej. Obie latarnie będą potrzebne następnego wieczoru. Oren ma gotowe części do własnego zamówienia i dość czasu, żeby uratować latarnie Solana, jeśli zwróci zaliczkę za swoją.
-3. **Podpis pod żelazem**, 28 maja, 12 ET · warsztaty i plac ćwiczeń, Val Meris. Oren oddaje zaliczkę. Robi dwa wymienne mocowania, a na uchwytach wykańcza dwa różne zdobienia, które Solan rozpozna także pod palcami. Solan namawia go do udziału w otwartym ćwiczeniu razem z Piecariusem. Oren musi zawczasu przenieść osłonę z Solana na Piecariusa. Po ćwiczeniu wypatruje na zbroi obcy nit, a Piecarius pokazuje mu, jak dobrze trzyma się nowy pasek. Oren przyznaje, że wykuł zbroję. Przed zamknięciem Urzędu Prób zgłasza się w barwach Kharum. Całe życie słuchał, dokąd dotarli ludzie w jego zbrojach. Teraz sam chce się przekonać, co potrafi w drużynie. Wieczorem pisze siostrze, że może jej na razie przesłać pieniądze na jedną belkę. Konika pakuje osobno, żeby nóżki nie przebiły listu.
+3. **Podpis pod żelazem**, 28 maja, 12 ET · warsztaty i plac ćwiczeń, Val Meris. Oren oddaje zaliczkę. Robi dwa wymienne mocowania, a na uchwytach wykańcza dwa różne zdobienia, które Solan rozpozna także pod palcami. Solan namawia go do udziału w otwartym ćwiczeniu razem z Piecariusem. Oren musi zawczasu przenieść osłonę z Solana na Piecariusa. Po ćwiczeniu wypatruje na zbroi obcy nit. Kiedy Piecarius pokazuje mu, jak dobrze trzyma się nowy pasek, Oren przypomina mu przymiarki w Kamiennym Progu. Przed zamknięciem Urzędu Prób zgłasza się w barwach Kharum. Całe życie słuchał, dokąd dotarli ludzie w jego zbrojach. Teraz sam chce się przekonać, co potrafi w drużynie. Wieczorem pisze siostrze, że może jej na razie przesłać pieniądze na jedną belkę. Konika pakuje osobno, żeby nóżki nie przebiły listu.
 
 **Fragmenty trylogii**
 
@@ -119,7 +119,7 @@ Oren ma 67 lat w 12 ET. W kuźni przy trakcie w Kharum robi pancerze i sprzęt r
 
 8 kwietnia, 12 ET · chata i kuźnia Orena, Kharum
 
-Poznałem zbroję po piórze przy klamrze. Na rysunku z zamówienia ogon feniksa sięgał za zapięcie. Skróciłem ostatnie pióro, żeby nie zachodziło na klamrę. Właściciel wypolerował broszę tak starannie, że z progu wypatrzyłem nawet to krótkie pióro. Kiedy wysyłałem zbroję do składu, zastanawiałem się, czy będzie je widać, gdy ktoś będzie miał ją na sobie. Podszedłem o krok.
+Poznałem zbroję po piórze przy klamrze. Właściciel wypolerował broszę tak starannie, że wypatrzyłem je z progu. Podał mi imię i poprawił księgę pod pachą. Sześć lat wcześniej stał tak samo w drzwiach mojej kuźni. Miał wtedy mniej do noszenia. Podszedłem o krok.
 
 — Feniks — powiedziałem.
 
@@ -130,6 +130,26 @@ Siostra pisała, że ma wnuka. Poprosiłem Vedę, żeby powtórzyła imię, a po
 W kuźni oparłem list o rząd starych wzorników. Żeby wydobyć zamówienie na latarnię, przełożyłem niedokończony kurek do beczki i rysunek zamka, którego już nikt ode mnie nie odbierze. Na najniższej półce trzymałem sprzączkę z jaskółką. Ktoś przed laty oferował za nią dwa razy tyle, ile bym wziął za zwykłą. Zaprosiłem go, żeby przyszedł ją sobie jeszcze raz obejrzeć.
 
 Przymierzyłem uchwyt do latarni. W rękawicy mieściły mi się pod nim cztery palce i tyle przewidywało zamówienie. Odwróciłem uchwyt i wypatrzyłem w jego wygięciu kark konia. Dorysowałem grzywę, krótką, przystrzyżoną jak u siwka, na którym siostra kiedyś przeskakiwała rów za domem. Siwek nad rowem zawsze wyrzucał przednie nogi do przodu. Narysowałem go jeszcze raz, na skrawku papieru przy liście. Potem zdjąłem z półki kawałek miękkiego żelaza. Jeśli dam mu szersze kopyta, mały będzie mógł postawić go na stole.
+
+#### Zbroja z ryciny
+
+Wiosna, 6 ET · kuźnia Orena w Kamiennym Progu, Kharum
+
+Przyszedł do mnie kiedyś jakiś dzieciak z księgą pod pachą. Otworzył ją na ławie i przytrzymał obie strony, bo oprawa ściągała je do środka. Pomyślałem, że przyniósł rysunek z bajki. Rycerz miał na sobie purpurowe płyty ze złotymi brzegami. Kołnierz sięgał mu po uszy. W takim nie zdołałbym się obejrzeć przez ramię. Na napierśniku feniks rozpościerał ogniste skrzydła od barku do barku.
+
+— Chcę taką zbroję — powiedział.
+
+— Mogę ci zrobić podobną.
+
+Przycisnął kciuk do dolnego rogu, żebym widział też zdobienie na rękawicy.
+
+— Taką. Całą.
+
+Zażądałem pięćdziesięciu selenów. Dwadzieścia chciałem dostać z góry. Policzyłem kilka tygodni roboty, tyle przymiarek, ile trzeba, i blachę, którą pewnie wyrzucę, nim dojdę z nim do ładu. Byłem ciekaw, na którym zdobieniu zechce oszczędzić. Wyjął z torby dwa płócienne woreczki i zaczął liczyć zaliczkę. Dopiero przy ostatniej monecie zapytał, kiedy ma wrócić.
+
+Prawy naramiennik robiłem trzy razy. Za pierwszym mógł unieść rękę albo obrócić głowę. Za drugim mógł jedno i drugie, dopóki nie wziął tarczy. Przy trzecim przesunąłem górną płytę pod sąsiednią i kazałem mu sięgnąć po tarczę z ławy. Podniósł ją aż do brody. Wtedy dopiero wróciłem do feniksa. Skróciłem ostatnie pióro ogona o szerokość paznokcia, żeby rękawica miała dostęp do klamry.
+
+Przy odbiorze położył resztę pieniędzy na ławie, tam gdzie pierwszy raz rozłożył księgę. Włożył rękawice i podszedł do wypolerowanej blachy, w której sprawdzałem, czy pancerz równo leży. Obrócił się bokiem, wyprostował i przez chwilę stał tak jak ten człowiek z ryciny. Przesunąłem lampę, żeby zobaczył także złote brzegi na barku.
 
 #### Nie ma drugiej takiej
 
@@ -159,23 +179,21 @@ Osłoniłem Solana za wcześnie. Uchylił się pod pierwszym workiem i zeskoczy�
 
 Przy ławie Piecarius podniósł rękę, żeby zdjąć tarczę. Wtedy zobaczyłem obcy nit przy naramienniku. Podszedłem bliżej. Nowy pasek przy podniesionej ręce układał się lepiej od tego, który założyłem w kuźni. Poprosiłem, żeby uniósł rękę jeszcze raz.
 
-— Pan zna tę zbroję? — spytał.
+— W Kamiennym Progu ledwie mogłeś podnieść tarczę w pierwszym naramienniku — powiedziałem.
 
-— Wykułem ją. Nawet ten feniks jest mój. Przy klamrze poznasz.
+Przyjrzał mi się, jakbym dopiero teraz wyszedł na światło.
 
-Pochylił głowę. Przesunął palcem po skróconym piórze.
+— To panu przyniosłem księgę.
 
-— Wie pan, skąd się wziął?
+— A ja ci ukradłem kawałek ogona.
 
-— Ten konkretny? Z mojej kuźni.
+Przesunął palcem po krótkim piórze. Zapytał, czy pamiętam coś jeszcze z rysunku. Widziałem już, że chodzi mu o ptaka, tak jak przy kamieniu w Kharum.
 
-Podniósł na mnie wzrok. Miałem jeszcze na końcu języka uwagę o krzywym nicie.
-
-— W składzie dali mi rysunek. Jeśli mi pokażesz, skąd go przerysowałeś, powiem ci, co po drodze zmieniłem.
+— Pamiętam, ile miał piór. Liczyłem, bo chciałeś wszystkie. Jeśli masz księgę przy sobie, możemy obejrzeć, jak je narysowali.
 
 Przesunął tarczę pod ławę i zrobił mi miejsce. Wtedy Solan zapytał, czy wchodzę jeszcze raz. Ręka wciąż mi drżała, kiedy wyciągnąłem ją po tarczę Piecariusa. Poprosiłem, żeby mi ją pożyczył. Teraz chciałem sam wejść na deskę.
 
-*Ciągłość. Przy pierwszej wzmiance o bohaterze używamy „Oren z Kharum” albo „kowal Oren”. W historii Lumen imię Oren nosi kierownik stacji latarni w Aurelu. Rozmowa o wykonaniu zbroi przypada na drugie spotkanie z Piecariusem. W kwietniowej scenie Veda nazywa feniksa broszą, a Piecarius spogląda na napierśnik, do którego brosza jest przypięta. Majowe ćwiczenie Orena odbywa się osobno od miejscowych zawodów Piecariusa z Thorą. Finał przypada na 28 maja 12 ET, w przeddzień kwalifikacji.* [Kierownik stacji w Aurelu](opowiadania/lumen/2_acknowledgement_of_receipt/historia.pl.md#odpis)
+*Ciągłość. Przy pierwszej wzmiance o bohaterze używamy „Oren z Kharum” albo „kowal Oren”. W historii Lumen imię Oren nosi kierownik stacji latarni w Aurelu. Zamówienie w kuźni jest z 6 ET. W kwietniu 12 ET Oren rozpoznaje swoją robotę i dawnego klienta. Dopiero w Val Meris Piecarius kojarzy Orena z kuźnią w Kamiennym Progu, gdy ten wspomina przymiarkę. W kwietniowej scenie Veda nazywa feniksa broszą, a Piecarius spogląda na napierśnik, do którego brosza jest przypięta. Majowe ćwiczenie Orena odbywa się osobno od miejscowych zawodów Piecariusa z Thorą. Finał przypada na 28 maja 12 ET, w przeddzień kwalifikacji.* [Kierownik stacji w Aurelu](opowiadania/lumen/2_acknowledgement_of_receipt/historia.pl.md#odpis)
 
 ### Miko — Błyskawice
 Ten improwizujący szermierz i inżynier w charakterystycznym kapeluszu woli naprawić sytuację po swojemu, nawet jeśli jego metoda jest ryzykowna. W Próbach podejmuje się sabotażu i napraw, by wspierać ekipy utrzymujące przekaźniki i chronić łączność na szlakach.
@@ -707,13 +725,13 @@ The sisters now help people together, combining the skills they learned, but do 
 
 ### Oren of Kharum — Fire Support [proposal]
 
-Oren is sixty-seven in 12 AT. He makes armour and rescue equipment in Kharum, using Fire magic to control the heat and spare his hands at the bellows. He might forge a small swallow on the underside of a buckle where only its wearer will see it. He takes boyish pleasure in recognising his work across the street and gets close enough to inspect a rivet whenever he spots a repair. Some drawings have been with him for forty years. He also makes emergency braces that hold damaged hinges while he keeps the metal hot, and lantern guards that can be replaced with gloves on. His proposed support ability cushions part of the next hit against an ally or a standing tower. He can maintain only one guard at a time. He is a second Fire Support alongside Solan.
+Oren is sixty-seven in 12 AT. He practises Fire magic as a Support and registers for the qualifiers to represent Kharum. He makes armour and rescue equipment, using magic to control the heat and spare his hands at the bellows. He might forge a small swallow on the underside of a buckle where only its wearer will see it. He takes boyish pleasure in recognising his work across the street and gets close enough to inspect a rivet whenever he spots a repair. Some drawings have been with him for forty years. He also makes emergency braces that hold damaged hinges while he keeps the metal hot, and lantern guards that can be replaced with gloves on. His proposed support ability cushions part of the next hit against an ally or a standing tower. He can maintain only one guard at a time. He is a second Fire Support alongside Solan.
 
-In the winter of 11–12 AT, Oren forged Piecarius's armour to measurements supplied through a depot. He made the phoenix brooch fastened to the breastplate from a drawing sent with the order. Piecarius collected the armour at the depot. When Veda brings a letter from Oren's sister to his cottage on 8 April 12 AT, he meets his customer for the first time and recognises his work. The order is all he knows about the source of the drawing. [Piecarius's account](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md#stary-kamień) · [Veda's account](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md#list-dla-orena)
+In the spring of 6 AT, a young Piecarius brought his father's book to Oren's old forge in Stone Threshold. He insisted on the whole suit from the illustration, with purple plates edged in gold, a high collar, and a phoenix across the breastplate. The work took several fittings and cost fifty selens, twenty paid up front and thirty on collection. When Veda brings a letter from Oren's sister on 8 April 12 AT, he recognises the shortened feather by the buckle before he recognises his customer. In Val Meris, a remark about a fitting reminds Piecarius where they met. [Piecarius's account](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md#stary-kamień) · [Veda's account](opowiadania/veda/2_a_cart_and_three_people/historia.pl.md#list-dla-orena)
 
 1. **The Feather by the Buckle**, 8 April, 12 AT · Oren's cottage and forge, Kharum. A lantern commission will pay for repairs to his sister's roof. After Veda reads him the letter about his sister's new grandson, Oren begins forging a small horse for the child.
 2. **Nothing Else Like It**, 27 May, 12 AT · workshops, Val Meris. Solan brings two damaged lanterns. Oren jokes about a crooked rivet until he learns the repair let Solan guide his wagon after dark. The spare guard fits neither of Oren's lanterns. Solan needs both lanterns for the following evening's run.
-3. **A Signature in Iron**, 28 May, 12 AT · workshops and practice yard, Val Meris. Oren refunds the deposit on his commission and uses its parts to make interchangeable fittings. He gives each lantern its own decoration. At an open practice he shifts his protection from Solan to Piecarius in time to soften a hit. Afterwards he tells Piecarius who made his armour. He registers for the qualifiers for Kharum before the office closes. After years of hearing where his customers went in his armour, he wants to find out what he can do on a team. That evening he writes to his sister about paying for one beam and wraps the horse separately.
+3. **A Signature in Iron**, 28 May, 12 AT · workshops and practice yard, Val Meris. Oren refunds the deposit on his commission and uses its parts to make interchangeable fittings. He gives each lantern its own decoration. At an open practice he shifts his protection from Solan to Piecarius in time to soften a hit. Afterwards he reminds Piecarius of the fittings at the forge. Before the office closes, he registers to represent Kharum in the qualifiers. After years of hearing where his customers went in his armour, he wants to find out what he can do on a team. That evening he writes to his sister about paying for one beam and wraps the horse separately.
 
 The blacksmith lives in Kharum. Lumen knows a station manager also named Oren in Aurel. The proposed trilogy ends on 28 May, 12 AT, the day before the qualifiers. [The station manager](opowiadania/lumen/2_acknowledgement_of_receipt/historia.pl.md#odpis)
 
