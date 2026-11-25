@@ -420,6 +420,16 @@
       "comingSoon": true
     },
     {
+      "id": "oren",
+      "name": "Oren",
+      "role": "Wsparcie",
+      "element": "Ogień",
+      "desc": "Kowal wychowany w Kharum, od lat tworzy magiczne zbroje i broń w Vareth. Wykuł zbroję Piecariusa.",
+      "descEn": "A smith raised in Kharum who now makes magical armour and weapons in Vareth. He forged Piecarius's armour.",
+      "conceptOnly": true,
+      "comingSoon": true
+    },
+    {
       "id": "aria",
       "name": "Aria",
       "role": "Tank",

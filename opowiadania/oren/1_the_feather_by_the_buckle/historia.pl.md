@@ -1,0 +1,117 @@
+# Pióro przy klamrze
+
+## List od siostry
+
+8 kwietnia, 12 ET · rodzinna chata Orena, Kharum
+
+Do Kharum przyjechałem otworzyć dom po zimie. Znalazłem pod stołem cztery nadgryzione orzechy i kawałek sznurka, który myszy wyciągnęły mi z zamkniętej szuflady. Zostawiłem im orzechy. Sznurek zabrałem, bo do wiosennej drogi wziąłem za mało. Właśnie wynosiłem z sieni płachtę, kiedy Veda zatrzymała wóz pod lasem. Pamiętała, żeby zostawić przejazd do drewutni. Mężczyzna, który podszedł za nią, przydepnął mi brzeg płachty, zanim zdążył się przedstawić.
+
+Poznałem zbroję po piórze przy klamrze. Wypolerował broszę tak starannie, że wypatrzyłem je z progu. Przedstawił się i poprawił księgę pod pachą. Sześć lat wcześniej stał tak samo w drzwiach mojej kuźni w Żarowisku. Miał wtedy mniej do noszenia.
+
+— Feniks — powiedziałem.
+
+— Rozpoznaje pan znak?
+
+— Skrzydła ma całe w ogniu. A jaki inny ptak by się na to zgodził?
+
+Skinął głową z powagą. Pozwoliłem sobie jeszcze raz obejrzeć zdobienie. Jedno pióro, to najbliżej klamry, z czasem wypolerował jaśniej od pozostałych. Naramiennik siedział mu niżej niż przy przymiarce. Chciałem podsunąć palec pod rzemyk, ale w tym momencie Veda podała mi list od siostry.
+
+Siostra zaklejała listy skrawkami papieru. Ten był szary w drobne niebieskie paski. Zacząłem odklejać rogi, żeby zachować całe. Jeden odszedł bez oporu, pod drugim rozdarłem list przy zgięciu. Veda czekała obok. Poprosiłem ją, żeby przeczytała go na głos.
+
+Siostra doczekała się wnuka. Dach znów przeciekał. Cebula tej wiosny do niczego. Wypisała to wszystko blisko siebie, żebym pewnie mógł się martwić o trzy rzeczy naraz. Poprosiłem Vedę, żeby powtórzyła imię dziecka, a potem przeczytała list od początku. Za drugim razem próbowałem ustalić, w którym miejscu padło imię. Poruszałem ustami za Vedą i spóźniłem się tak, że przy cebuli wciąż byłem przy dachu.
+
+Pod lasem Jorek wskazał chmury nad zakrętem drogi. Mieli do górnej osady jeszcze przeprawę. Veda doczytała do końca. Piecarius tymczasem odgarnął mech ze słupa przy drodze i chciał wiedzieć, czy zawsze tam stał. Opowiedziałem mu o osunięciu i o tym, że kiedyś zbieraliśmy się przy tym kamieniu po pracy. Ktoś mówił na wyryty znak „płonąca kura”.
+
+— Pamięta pan, kto?
+
+— Pamiętam, że ukradł mi rękawice. Imię mi wyleciało.
+
+On popatrzył na własną pierś. Ja na kartkę, na której chciałem wreszcie sam odnaleźć jedno słowo. Kiedy podniosłem wzrok, odrysowywał nacięcia w kamieniu. Najpierw dociągnął kreskę poza rysę, potem starł koniec i poprawił. Miałem ochotę podtrzymać mu papier, bo w dolnym rogu podwijał się od wiatru. Zanim zdążyłem, przycisnął go kciukiem, tak jak tamtą stronę w kuźni.
+
+— Kogo pan szuka? — zapytałem.
+
+— Chciałbym wiedzieć, skąd mój ojciec miał tę księgę.
+
+Popatrzyłem jeszcze raz na feniksa. W Żarowisku przez kilka tygodni czekałem, aż sam mi powie, do czego potrzebuje tej zbroi. Opowiadał o rękawicach, brzegu kołnierza, pochyleniu piór. O ojcu wiedziałem tylko tyle, że księga jest po nim. Miałem w domu rysunki, które zdejmowałem z gwoździa rzadziej niż własny płaszcz, choć przy każdej przeprowadzce właśnie od nich zaczynałem pakowanie.
+
+Poprosiłem Vedę, żeby zabrała odpowiedź, kiedy będzie mogła. Pokazała mi, gdzie zostawić list, gdyby nie szła w tę stronę. Kiedy ruszyli, wyjąłem kartkę z kieszeni i prowadziłem palec pod literami. Najprędzej znalazłem tę przeklętą cebulę.
+
+## Zbroja z ryciny
+
+Wiosna, 6 ET · kuźnia Orena w Żarowisku Vareth
+
+Przyszedł do mnie kiedyś jakiś dzieciak z księgą pod pachą. Otworzył ją na ławie i przytrzymał obie strony, bo oprawa ściągała je do środka. Pomyślałem, że przyniósł rysunek z bajki. Rycerz miał na sobie purpurowe płyty ze złotymi brzegami. Kołnierz sięgał mu po uszy. W takim nie zdołałbym się obejrzeć przez ramię. Na napierśniku feniks rozpościerał ogniste skrzydła od barku do barku.
+
+W Kamiennym Progu, gdzie przez lata uczyłem się kuć, na takiej ławie leżałyby kliny i kilofy na poranną zmianę. Górnicy potrafili rozróżnić moje roboty po ciężarze, zanim wyjęli je z worka. Po pracy rysowałem pancerze i próbowałem wyprowadzać żar wąską kreską po metalu. Kiedy proponowałem, że zrobię coś na próbę, na ogół pytano mnie, ile ostrzy zdążę przygotować przez ten czas. Dalszej nauki szukałem w Vareth. Tam ludzie przychodzili do kuźni z własnym Ogniem i pytali, gdzie go skierować, żeby bezpiecznie wrócić z roboty. Zanim otworzyłem własny warsztat, długo uczyłem się słuchać, jak opisują to, co czują pod stalą.
+
+— Chcę taką zbroję — powiedział chłopak.
+
+— Mogę ci zrobić podobną.
+
+Przycisnął kciuk do dolnego rogu, żebym widział zdobienie na rękawicy.
+
+— Taką. Całą.
+
+Podałem mu kredę. Poprosiłem, żeby na desce zaznaczył, dokąd jego zdaniem sięga kołnierz. Potem przyłożyłem deskę do jego ramienia, a on spróbował popatrzeć za siebie. Księga została otwarta na ławie. Raz po raz rzucał okiem na rycerza, jakby ten miał mu zaraz pokazać, którędy obrócić głowę.
+
+— Z tyłu mogę ją wyciąć niżej — powiedziałem. — W odbiciu z przodu zobaczysz to, co na stronie. Za plecami zobaczysz człowieka, jeśli za tobą stanie.
+
+— A tego ptaka skróci pan od razu?
+
+— Ptak może na razie zostać. Pokaż, skąd chcesz wypuścić Ogień.
+
+Rozłożył dłonie na wysokości klatki piersiowej. Umiał przeprowadzić między nimi dwa cienkie języki, ale gdy spróbował złożyć je na środku, jeden uciekł w bok. Przykrył go dłonią, zanim sięgnął książki. Potem przytrzymał okładkę, chociaż już dawno sam go nie zasłaniałem. Zdecydowaliśmy, że poprowadzę zdobienie od środka napierśnika w stronę barków. Mógł zacząć od jednego skrzydła, aż nauczy się utrzymywać oba.
+
+Zażądałem pięćdziesięciu selenów. Dwadzieścia chciałem dostać z góry. Policzyłem kilka tygodni pracy, przymiarki i blachę, którą pewnie wyrzucę, nim się z tym uporam. Byłem ciekaw, na którym zdobieniu zechce oszczędzić. Wyjął z torby dwa płócienne woreczki i zaczął liczyć zaliczkę. Drobne układał osobno, żebyśmy obaj widzieli, ile jeszcze brakuje. Przy ostatniej monecie zapytał, kiedy ma wrócić.
+
+Przychodził wcześniej, niż się umawialiśmy. Przy pierwszej przymiarce czekał przed drzwiami tak długo, że kiedy zdjął okrycie, żeby włożyć napierśnik, cała plecionka pod spodem była zimna. Zagrzałem mu ją, nim zaczęliśmy. Prawy naramiennik robiłem trzy razy. Za pierwszym unosił rękę albo obracał głowę. Za drugim mógł jedno i drugie, dopóki nie wziął tarczy. Przy trzecim zmieniłem ułożenie górnej płyty i kazałem mu sięgnąć po tarczę z ławy. Podniósł ją aż do brody. Wtedy dopiero wróciłem do feniksa. Skróciłem ostatnie pióro ogona o szerokość paznokcia, żeby rękawica miała dostęp do klamry. Obejrzał pióro z obu stron i poprosił, żebym je wygładził także od spodu. Najpierw chciałem mu pokazać, jak mało ludzi zobaczy to miejsce. Wygładziłem je, zanim przyszedł po zbroję.
+
+Przy odbiorze położył resztę pieniędzy na ławie, tam gdzie pierwszy raz rozłożył księgę. Włożył rękawice i podszedł do wypolerowanej blachy, w której sprawdzałem, czy pancerz równo leży. Poprosił, żebym przygasił lampę. Za pierwszym razem żar doszedł tylko do połowy jednego skrzydła. Spróbował jeszcze raz. Kiedy w odbiciu zobaczył całego ptaka, wyprostował się tak jak człowiek z ryciny. Potem opuścił ręce i pióra powoli pociemniały.
+
+Został jeszcze chwilę przed blachą. Wziąłem młotek i zacząłem wybijać wgłębienia w cudzej klamrze. Mógł postać, ile chciał.
+
+## Koń na czterech nogach
+
+Wieczór 8 kwietnia, 12 ET · rodzinna chata Orena, Kharum
+
+Przy palenisku oparłem list o rząd starych wzorników. Żeby wydobyć zamówienie na latarnię, przełożyłem kurek do beczki i rysunek zamka, którego już nikt ode mnie nie odbierze. Na najniższej półce leżała sprzączka z jaskółką. Ktoś przed laty oferował za nią dwa razy tyle, ile bym wziął za zwykłą. Zaprosiłem go, żeby przyszedł ją sobie jeszcze raz obejrzeć. Od tamtej pory sprzączka leżała w tym samym miejscu. Czasem, kiedy tu wracałem, zapinałem ją na jeden dzień i wspinałem się po drewno tak ostrożnie, że wracałem z połową tego, co mogłem zabrać.
+
+Zamówienie z Val Meris mieściło się na jednej kartce. Podano wysokość, szerokość, termin i to, jak daleko dłoń w rękawicy ma wchodzić pod uchwyt. Za resztę odpowiadałem ja. Umówiłem się na zapłatę, która wystarczyłaby na cieślę i drewno dla siostry. Z zaliczki część poszła już na metal. Założyłem rękawicę, chwyciłem przyniesiony z Żarowiska uchwyt i zobaczyłem, że na rysunku ułożyłem go o jedną kreskę za blisko brzegu. Wymazałem kreskę. W wygięciu nieruchomego uchwytu wypatrzyłem kark konia.
+
+Siostra miała kiedyś siwka, na którym przeskakiwała rów za domem. Po każdej udanej próbie prowadziła go na początek, aż koń nauczył się sam skręcać w stronę rowu. W środku skoku wyrzucał przednie nogi do przodu. Naszkicowałem go obok wzoru. Jeśli zrobię go w tej pozie, trzeba będzie przytwierdzić go do podstawki. Dziecko wolałoby pewnie móc postawić go tam, gdzie akurat wymyśli drogę. Przez chwilę obracałem papier, jakby można było z niego strząsnąć podstawkę. Na odwrocie narysowałem konia stojącego na czterech nogach i dorysowałem grzywę siwka, przystrzyżoną krótko przy uszach.
+
+W palenisku zostało tyle żaru, że udało mi się zagrzać kawałek żelaza przed wieczerzą. Zdążyłem zaznaczyć zad i szyję. Potem oparłem go o próg, żeby obejrzeć pod lampą. Chciałem zacząć jeszcze raz, bo przy własnym koniu siostra od razu poznałaby nieproporcjonalny kark. Odłożyłem młotek. Za drugim razem, kiedy sięgnąłem po list, imię znalazłem nad słowem, które wziąłem wcześniej za dach. Zaznaczyłem to miejsce paznokciem. Kiedy papier wrócił do kieszeni, na kartce leżącej pod nim zostało wgłębienie.
+
+## Czwarty wariant uchwytu
+
+20 maja, 12 ET · kuźnia Orena w Żarowisku Vareth
+
+Solan miał przyjść po uchwyt do swojej latarni. Przyniósł chleb z cebulą i powiedział, że to na znak, iż sobie razem usiądziemy. Wiedział, że gdyby powiedział „przerwa”, zacząłbym mu tłumaczyć, ile mi jeszcze zostało.
+
+Na ławie leżała prawie gotowa latarnia dla Val Meris. Wyciąłem na jednej stronie dwa konie, każdy trochę inaczej postawiony na nogach. Drugą stronę zostawiłem gładką do tego ranka. Piątego maja pomyślałem, że warto wyciąć na niej rów i drugi brzeg. Po tygodniu usunąłem rów z rysunku, żeby nikt nie wziął poziomej linii za rysę. Teraz miałem trzy zwoje papieru i wciąż tę samą gładką blachę.
+
+— Mogę podnieść? — spytał Solan.
+
+Założył rękawicę i ujął latarnię. Obrócił nią tak, jak się odwraca światło przy zaprzęgu. Pokazał mi, gdzie przy tym kciuk zahacza o łeb jednego konia.
+
+— To jest po stronie, po której się trzyma przy wkładaniu na kołek — powiedział.
+
+— Możesz przełożyć rękę.
+
+— Mogę. A ty możesz tam zdjąć tyle, ile ma mój paznokieć.
+
+Wyciągnąłem do niego dłoń. Oddał rękawicę. Włożyłem ją i spróbowałem takiego obrotu, jaki mi pokazał. Miał szerszy kciuk ode mnie, ale uderzyłem w to samo miejsce.
+
+Zdjąłem latarnię z ławy, żeby przypadkiem nie zacząć jej poprawiać w trakcie jedzenia. Dopiero wtedy zobaczyłem, że Solan nawet nie dotknął chleba. Z miejsca, które zajmował, wcale nie patrzył na konie. Patrzył na konika z Kharum. Postawiłem go przy lampie, kiedy wróciłem do kuźni. Zdążyłem obrobić mu głowę, dociąć uszy i zagiąć ogon tak, żeby nie drapał dziecięcej dłoni.
+
+— Tego mogę podnieść? — zapytał.
+
+Przesunąłem mu konika, obróconego lewym bokiem. Solan dmuchnął mu na grzbiet. Koń nawet się nie zachwiał.
+
+— Utrzyma się na płaskim — powiedziałem. — Gorzej, jak mu zrobią pierwszą górę z obrusa.
+
+— Wtedy ktoś go postawi jeszcze raz.
+
+Zjedliśmy po kromce i podpiłowałem brzeg uchwytu o tyle, ile pokazał. Solan zabrał swój gotowy uchwyt z drugiego końca ławy. Spytał, kiedy wyruszam do Val Meris. Chciałem zdążyć przed końcem zapisów, bo wtedy odbiorca latarni miał się jeszcze kręcić przy warsztatach. Solan wybierał się tam z wozem. Powiedział, że przy placu można wystąpić na otwartym ćwiczeniu, nawet jeśli przyjechało się tylko po zapłatę za towar. Zapytałem, po co mu kowal na desce. Odparł, że po to samo, po co wcześniej przyszedł do mnie w rękawicy. Chciałby zobaczyć, co zrobię, gdy sam będę musiał złapać równowagę.
+
+Uciąłem dla niego kawałek chleba na drogę. Kiedy wyszedł, przyłożyłem do latarni czwarty rysunek uchwytu. Gładką stronę zostawiłem na razie gładką. Chciałem jeszcze znaleźć dla niej zdobienie, które da się poznać z zawiązanymi oczami.

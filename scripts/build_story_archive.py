@@ -77,14 +77,14 @@ def load_translations(entry):
 def render_data():
     archive = []
     for slug, name, region, portrait, series, entries in CATALOG:
-        image = PORTRAITS / portrait
-        if not (ROOT / image).is_file():
+        image = PORTRAITS / portrait if portrait is not None else None
+        if image is not None and not (ROOT / image).is_file():
             raise FileNotFoundError(image)
         archive.append({
             "id": slug,
             "name": name,
             "region": region,
-            "portrait": image.as_posix(),
+            "portrait": image.as_posix() if image is not None else None,
             "series": series,
             "stories": [load_translations(entry) for entry in entries],
         })

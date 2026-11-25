@@ -101,6 +101,8 @@ Siostry wspólnie pomagają potrzebującym, łącząc wyuczone umiejętności, a
 
 ### Oren — Wsparcie Ognia, Vareth [propozycja]
 
+**Pełne rękopisy do zatwierdzenia.** [Pióro przy klamrze](opowiadania/oren/1_the_feather_by_the_buckle/historia.pl.md) · [Nie ma drugiej takiej](opowiadania/oren/2_nothing_else_like_it/historia.pl.md) · [Podpis pod żelazem](opowiadania/oren/3_a_signature_in_iron/historia.pl.md)
+
 Oren ma 67 lat w 12 ET. Za młodu przez lata uczył się kowalstwa w Kamiennym Progu w Kharum. Większość zamówień warsztatu, w którym terminował, pochodziła z kopalń. Ostrzył kilofy, wyrabiał kliny i naprawiał okucia wózków. Chciał połączyć to, czego nauczył się przy kowadle, z własną magią Ognia. Przeniósł się do Żarowiska Vareth, gdzie znalazł kuźnie pracujące z magami Ognia i klientów gotowych zamawiać magiczne zbroje i broń. Tam urządził własny warsztat. W grze pełni rolę Wsparcia Ognia, a do kwalifikacji zgłasza się w barwach Vareth. [Tradycje Vareth](world_history.md#vareth--tradycje-ognia) · [Zasady reprezentacji](world_history.md#zgłoszenia-i-kwalifikacje)
 
 Oren najchętniej dodaje zdobienia z własnej ochoty. Potrafi wykuć na spodzie zwykłej klamry jaskółkę, którą właściciel zobaczy dopiero przy zdejmowaniu pasa. Cieszy się, gdy rozpozna swoją robotę z drugiego końca ulicy. Jeśli zobaczy na niej obcy nit, podejdzie tak blisko, jak na to pozwoli cierpliwość właściciela. Niektóre rysunki trzyma od czterdziestu lat. Zdarza mu się przepracować całe popołudnie nad drobiazgiem, którego klient w ogóle nie zamawiał. Przy miechu oszczędza bolące dłonie, prowadząc żar magią.

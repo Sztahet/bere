@@ -1,0 +1,67 @@
+# Podpis pod żelazem
+
+## Zwrot
+
+28 maja, 12 ET · skład i zaplecze warsztatów, Val Meris
+
+W składzie zaczynano od liczenia skrzyń, które miały pojechać jeszcze tego dnia. Przy ladzie stał koszyk z wiadomościami dla ludzi zajętych rozładunkiem. Mojej nie dało się wsunąć do koszyka, bo do kartki miałem przywiązany worek z zaliczką. Odczekałem, aż ktoś ze składu będzie mógł policzyć zawartość. Kiedy poproszono mnie, żebym potwierdził kwotę, policzyłem razem z nim. Na końcu pokwitowania napisałem imię i przystawiłem znak z kuźni. Zwykle wybijam go pod spodem, żeby człowiek mógł się cieszyć przedmiotem, a potem mnie znaleźć, gdy coś się obluzuje. Na kartce był większy, niż chciałem. Wciąż go było widać, kiedy złożyłem pokwitowanie na pół.
+
+Wracając, zaszedłem po węgiel. Nie spieszyłem się, dopóki nie zobaczyłem z końca przejścia, że Solan już grzeje ręce nad moim paleniskiem. Przytrzymał mi drzwi. W środku miał rozłożone obie latarnie i kawałek chleba. Chleb odsunął od ryb, bo bał się, że sięgnę po niego, zanim wypoleruję uchwyt.
+
+— Oddałeś? — zapytał.
+
+Pokazałem mu pokwitowanie. Przeczytał kwotę, złożył kartkę po tej samej linii i podał mi ją bez pytania, ile jeszcze potrzebuję na dach. Chciałem zacząć od dolnej krawędzi, bo tam najłatwiej było sprawdzić głębokość osłony. Kiedy dotknąłem jeszcze chłodnej blachy, Solan podsunął mi zapasową część. Dzisiaj trzymał ją za oba końce. Wczoraj wciąż próbował utrzymać jedną latarnię przy każdej dłoni.
+
+Pracowaliśmy do południa. Na pierwszej latarni przeniosłem mocowanie o tyle, o ile wczoraj cofnąłem linię dla rękawicy. Drugą przyłożyliśmy do tej samej zapasowej osłony. Za pierwszym razem weszła i siedziała tak sztywno, że Solan musiałby stanąć przy wozie z obydwiema rękami, żeby ją ruszyć. Zostawiłem odrobinę luzu tam, gdzie opierał palec. Sprawdziłem jeszcze raz w grubych rękawicach. Tym razem mogłem wyjąć osłonę, trzymając latarnię przy biodrze.
+
+Na rybach został krzywy ślad po naprawie. Wciąż miałem ochotę wyrównać całe miejsce, ale musiałbym zebrać metal aż do ogona. Wygładziłem tylko ostrą krawędź. Przy drugiej latarni pogłębiłem cztery nacięcia, które Solan wczoraj poznał od razu. Na samym końcu poprosiłem, żeby obrócił się plecami do stołu. Podałem mu po kolei oba uchwyty. Rozpoznał ryby kciukiem, a na drugiej przesunął palce po nacięciach. Potem przełożył osłony z jednej latarni na drugą. Za trzecim razem rozmawiał przy tym ze mną o koniach na ostatnim wozie.
+
+— Ile ci jestem winien? — zapytał.
+
+Podałem stawkę za naprawę i koszt mocowań. Solan ponownie przeliczył monety i zwrócił mi uwagę, że nie wpisałem wczorajszego paleniska. Wpisałem pół dnia. Drugie pół zająłem swoim koniem na nowej latarni, odmierzałem mu nogi, zanim Solan przyniósł ryby. W trakcie liczenia przesunął mi chleb pod lewą rękę. Zjadłem, kiedy jeszcze zbierał drobne z blatu.
+
+Na spodzie nowego mocowania wybiłem znak. Na rybach znalazłem ślad po starym znaku i zacząłem szukać dla drugiego miejsca obok. Solan poczekał, aż obrócę latarnię. Wziął obie na wyciągniętych rękach i zapytał, czy mam jeszcze ochotę popatrzeć na deski przy placu. Chcieli ponownie otworzyć tor po południu. Zgasiłem żar i dałem mu nieść lżejszą latarnię. Po dwóch krokach zauważyłem, że sam wziąłem ryby.
+
+## Worek wraca
+
+28 maja, 12 ET · plac ćwiczeń przy warsztatach, Val Meris
+
+Na plac przyszedłem prosto z warsztatu. Miałem na sobie fartuch, dopóki nie zobaczyłem, że dół może mi się wplątać pod stopę. Związałem go i zostawiłem w koszyku pod ławą. Solan pokazał mi deskę nad ubitym piaskiem. Ci, którzy mieli przez nią przejść, czekali, aż huśtające się worki zrobią im miejsce. Niektórym wystarczał jeden przebieg, żeby zapamiętać odstępy. Inni chodzili wzdłuż deski po ziemi i sprawdzali, kiedy cień worka wraca na środek.
+
+Z drugiej strony doszedł do nas Piecarius. Tarczę niósł pod ramieniem. Solan zapytał, czy spróbuje przejść za nim, jeśli ja będę pilnował osłony. Piecarius od razu zapytał, którędy wtedy wracamy. Pokazaliśmy mu stronę piasku, z której nie trzeba wchodzić pod worki. Powiedział, że raz już dziś na torze zabrał się za cudzą robotę, zanim spytał, czego tamtemu potrzeba. Stałem na ziemi i chciałem mu odpowiedzieć, że gdybym wiedział z góry, czego komu potrzeba, mniej płaciłbym za złom. Ugryzłem się w język. Pokazałem mu, do którego miejsca jestem w stanie sięgnąć osłoną. Gdyby poszedł dalej, będzie musiał zaufać własnej tarczy.
+
+Na znak Solana poprowadziłem Ogień tak, jak prowadzę żar wzdłuż okucia, od brzegu ku środkowi. W powietrzu musiałem utrzymać go w ruchu za człowiekiem. Osłoniłem Solana za wcześnie. Uchylił się pod pierwszym workiem i zeskoczył z deski. Jeszcze pilnowałem żaru przy jego barku, kiedy drugi worek zakołysał się w stronę Piecariusa. Stał do niego bokiem i patrzył pod nogi. Zdjąłem osłonę z Solana i przeniosłem ją na Piecariusa. Żar zgasł w chwili uderzenia. Piecarius zachwiał się, ale utrzymał równowagę i przeszedł do końca deski. Solan, który był już na piasku, odprowadził worek na bok, żeby ten nie wrócił po nim.
+
+Przy ławie Piecarius podniósł rękę, żeby zdjąć tarczę. Wtedy zobaczyłem obcy nit przy naramienniku. Podszedłem bliżej. Nowy pasek układał się lepiej od mojego, kiedy trzymał rękę nad głową. Poprosiłem, żeby uniósł ją jeszcze raz.
+
+— W Żarowisku ledwie mogłeś podnieść tarczę w pierwszym naramienniku — powiedziałem.
+
+Przyjrzał mi się, jakbym dopiero teraz wyszedł na światło.
+
+— To panu przyniosłem księgę.
+
+— A ja ci ukradłem kawałek ogona.
+
+Przesunął palcem po krótkim piórze. Przy nowym pasku miałem do obejrzenia jeszcze jedną rzecz. Kowal zaczepił go dalej od krawędzi, niż życzyłbym sobie przy nowym pancerzu. Dzięki temu szedł po płaskim i nigdzie się po drodze nie łamał.
+
+— Wtedy nie chciałem, żeby mi pan cokolwiek skracał — powiedział Piecarius. — Dzisiaj przy każdym zapinaniu jestem panu za to wdzięczny. Pamięta pan coś jeszcze z rysunku?
+
+— Pamiętam, ile miał piór. Liczyłem, bo chciałeś wszystkie. Jeśli masz księgę przy sobie, możemy obejrzeć, jak je narysowali.
+
+Księga była pod płótnem. Piecarius przesunął tarczę i zrobił mi miejsce obok siebie, żebym mógł położyć ją na kolanach. Wtedy Solan zawołał, czy wchodzę jeszcze raz. Zobaczyłem, że stoi przy desce bosy i wytrząsa piach z buta. Trzymałem już brzeg płótna i mógłbym odwinąć go od razu. Puściłem.
+
+— Mogę pożyczyć tarczę? — zapytałem Piecariusa.
+
+Wyciągnął ją spod ławy i podał mi uchwytem do góry. Była cięższa, niż pamiętałem z przymiarek. Wziąłem ją zgiętą ręką, tak jak on. Tym razem chciałem przejść przez deskę sam.
+
+## Oren, Vareth
+
+28 maja, 12 ET · Urząd Prób i kwatera przy warsztatach, Val Meris
+
+Zdążyłem do urzędu przed zamknięciem. Ręka po torze wciąż trochę mi drżała. Podsunąłem sobie kałamarz bliżej, żeby nie przenosić pióra przez całą szerokość kartki. Przy imieniu odruchowo szukałem miejsca na znak z kuźni. Obok przewidziano miejsce na krainę. Podałem Vareth. Ukończyłem zgłoszenie i dostałem kartkę z poranną godziną stawiennictwa. Złożyłem ją na pół, potem wyprostowałem, bo pod zgięciem zniknęła ostatnia cyfra.
+
+Wychodząc, przypomniałem sobie ludzi, którzy odbierali ode mnie pancerze przed pierwszą drogą. Zwykle pytałem ich przy powrocie, gdzie otarło się prawe ramię i czy po całym dniu kołnierz dalej przepuszcza powietrze. Czasem siadali przy wejściu i opowiadali jeszcze długo po tym, jak obejrzałem pancerz. W kuźni znałem ich głównie po tym, jak stali podczas przymiarki. Piecarius dziś spojrzał pod nogi, choć widział wszystkie worki, zanim wszedł. Chciałem jutro zapamiętać, kto obok mnie robi coś podobnego. Na swojej desce patrzyłem tak uważnie przed siebie, że przy ostatnim worku to Solan przypomniał mi o człowieku, który czekał na moje zejście.
+
+Wieczorem pierwsza latarnia minęła warsztaty już na wozie. Ryby pojechały na końcu. Poznałem je przy samym zakręcie, kiedy kierowca obrócił uchwyt ku drodze. Nie widziałem stamtąd nitu. Światło przesunęło się do przodu i zniknęło dopiero pod murem. Oparłem dłonie o parapet, aż w uliczce ucichły koła.
+
+Do siostry napisałem, że na razie mogę przesłać pieniądze na jedną belkę. Przepisałem z jej listu imię dziecka. Obie kartki przytrzymałem obok siebie, dopóki nie upewniłem się, że ostatnia litera ma kreskę z tej samej strony. Konika owinąłem płótnem osobno, żeby nogami nie przedziurawił papieru. Postawiłem zawiniątko przy drzwiach dla przewoźników. Kartkę z godziną wsunąłem za mankiet, bo rano najpierw będę szukał rękawic.

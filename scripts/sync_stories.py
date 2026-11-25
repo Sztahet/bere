@@ -32,7 +32,7 @@ def sync():
             for meta, directory in ((folder.with_name(folder.name + ".meta"), True), (folder / "story.json.meta", False)):
                 if not meta.exists():
                     importer = "DefaultImporter" if directory else "TextScriptImporter"
-                    meta.write_text("fileFormatVersion: 2\nguid: " + uuid.uuid4().hex + "\n" + ("folderAsset: yes\n" if directory else "") + importer + ":\n  externalObjects: {}\n  userData: \n  assetBundleName: \n  assetBundleVariant: \n", encoding="utf-8")
+                    meta.write_text("fileFormatVersion: 2\nguid: " + uuid.uuid4().hex + "\n" + ("folderAsset: yes\n" if directory else "") + importer + ":\n  externalObjects: {}\n  userData:\n  assetBundleName:\n  assetBundleVariant:\n", encoding="utf-8")
     for _, _, _, _, _, entries in CATALOG:
         for entry in entries:
             english = ROOT / entry[2] / "historia.en.md"
@@ -47,7 +47,7 @@ def sync():
             out.write_text(json.dumps({"title": story["title"], "chapters": story["chapters"]}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
             meta = out.with_name(out.name + ".meta")
             if not meta.exists():
-                meta.write_text("fileFormatVersion: 2\nguid: " + uuid.uuid4().hex + "\nTextScriptImporter:\n  externalObjects: {}\n  userData: \n  assetBundleName: \n  assetBundleVariant: \n", encoding="utf-8")
+                meta.write_text("fileFormatVersion: 2\nguid: " + uuid.uuid4().hex + "\nTextScriptImporter:\n  externalObjects: {}\n  userData:\n  assetBundleName:\n  assetBundleVariant:\n", encoding="utf-8")
     status_path = ROOT / RESOURCES / "story_approval.json"
     statuses = [{"folder": info["unity"], "draft": bool(info["draft"])} for info in _INDEX.values()]
     status_path.write_text(json.dumps({"stories": statuses}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
