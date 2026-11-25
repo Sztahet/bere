@@ -837,6 +837,33 @@
     ]
   },
   {
+    "id": "koneva",
+    "name": "Koneva i Pati",
+    "region": "Vesper",
+    "portrait": "konewka-darkness-summoner.png",
+    "series": "Trylogia Konevy i Pati",
+    "stories": [
+      {
+        "id": "kiedy-otworzysz-okno",
+        "folder": "opowiadania/koneva/1_when_you_open_the_window",
+        "unity": "KonevaDraft1",
+        "draft": true
+      },
+      {
+        "id": "dwie-wersje-tej-samej-nocy",
+        "folder": "opowiadania/koneva/2_two_versions_of_the_night",
+        "unity": "KonevaDraft2",
+        "draft": true
+      },
+      {
+        "id": "zanim-rusza-wozy",
+        "folder": "opowiadania/koneva/3_before_the_wagons_leave",
+        "unity": "KonevaDraft3",
+        "draft": true
+      }
+    ]
+  },
+  {
     "id": "tevia",
     "name": "Tevia",
     "region": "Zerath",

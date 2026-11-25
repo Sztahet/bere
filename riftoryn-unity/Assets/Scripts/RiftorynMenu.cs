@@ -144,7 +144,7 @@ public partial class RiftorynMenu : MonoBehaviour {
             default: return RiftorynCodexData.Text("HISTORIA  →","THEIR HISTORY  →");
         }
     }
-    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="morrak"||id=="nera"||id=="veda"||id=="volt"||id=="varek"||id=="miko"||id=="azmir"||id=="vaelis"||id=="thora"||id=="ilda"||id=="lumen"||id=="tevia"||id=="orien"||id=="zet"||id=="heda"||id=="pyrra"||id=="ana";
+    bool HasDraftStories(string id)=>id=="nocten"||id=="piecarius"||id=="morrak"||id=="nera"||id=="veda"||id=="volt"||id=="varek"||id=="miko"||id=="azmir"||id=="vaelis"||id=="thora"||id=="ilda"||id=="lumen"||id=="tevia"||id=="orien"||id=="zet"||id=="heda"||id=="pyrra"||id=="ana"||id=="koneva";
     bool HasExtraStories(string id)=>id=="rian"||id=="lucen"||id=="taren"||id=="ruvan"||id=="kael"||id=="iskar"||id=="sarna"||id=="morven";
     void DrawExtraStories(CodexHero hero)
     {
@@ -190,6 +190,7 @@ public partial class RiftorynMenu : MonoBehaviour {
             case "thora": prefix="Thora"; titles=new[]{"OSTATNI KORZEŃ", "DZIEŃ, KTÓRY MIAŁ BYĆ SPOKOJNY", "WYSTARCZY"}; break;
             case "veda": prefix="Veda"; titles=new[]{"TO, CO ZOSTAJE PO DRODZE", "WÓZ I TROJE LUDZI", "DROGA POWROTNA"}; break;
             case "ana": prefix="Ana"; titles=new[]{"KIEDY OBESCHNIE ZIEMIA", "NIE PYTAM, KOMU", "BAMBUS NA CAŁY ROK"}; break;
+            case "koneva": prefix="Koneva"; titles=new[]{"KIEDY OTWORZYSZ OKNO", "DWIE WERSJE TEJ SAMEJ NOCY", "ZANIM RUSZĄ WOZY"}; break;
             case "ilda": prefix="Ilda"; titles=new[]{"OD STRONY SADU", "SZEROKOŚĆ BRAMY", "TĘDY MOŻNA WRÓCIĆ"}; break;
             case "nera": prefix="Nera"; titles=new[]{"WOLNE RĘCE", "PO DRUGIEJ STRONIE", "MIEJSCE NA NAUKĘ"}; break;
             case "nocten": prefix="Nocten"; titles=new[]{"DROGA, KTÓREJ NIE BYŁO", "TYM RAZEM NIE WIERZ NOCTENOWI", "PIERWSZA LEKCJA"}; break;

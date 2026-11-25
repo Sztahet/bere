@@ -90,7 +90,7 @@ Mapa robocza kontynentu dla opowieści, stan odniesienia 12 ET. Północ jest u 
 Numery R01–R10 odnoszą się do korytarzy na mapie kontynentu. Kolejne numery wskazują trasy, które da się odtworzyć z tekstów jako relacje między miejscami. Strzałki w szkicach lokalnych pokazują kolejność punktów lub odgałęzienie. Czasy przejazdów dotyczą konkretnej podróży bohatera.
 
 - **R01 — zachodni korytarz** · Latarnia Aurelu (A01) ↔ okolice Val Meris (M01). Odcinek na ilustracji. [Mapa świata][mapa]
-- **R02 — północno-zachodni korytarz** · Cienisty Port (V01) ↔ zachodnia strona jeziora ↔ Val Meris. Przejazd Azmira do punktu zapisów jest opisany. [Mapa świata][mapa] · [Imię na liście][morrak3]
+- **R02 — północno-zachodni korytarz** · Cienisty Port (V01) ↔ zachodnia strona jeziora ↔ Val Meris. Przejazd Azmira do punktu zapisów jest opisany. Koneva wyrusza 20 maja 12 ET. Trzy dni później jej przewóz omija uszkodzony dolny przepust wyższą przeprawą przy zachodnim brzegu. [Mapa świata][mapa] · [Imię na liście][morrak3] · [Przejście od wody](opowiadania/koneva/3_before_the_wagons_leave/historia.pl.md#przejście-od-wody)
 - **R03 — północny korytarz** · Val Meris ↔ zachodnia strona jeziora ↔ okolice Białego Przesmyku (N01). Połączenie pokazuje przerys. Odcinki górskie mają własny szkic poniżej. [Mapa świata][mapa] · [Biały Przesmyk][przesmyk]
 - **R04 — północno-wschodni korytarz** · Val Meris ↔ wschodnia strona jeziora ↔ Żarowisko Vareth (F01). [Ośrodki w GDD][gdd] · [Mapa świata][mapa]
 - **R05 — wschodni korytarz** · Iglica Zerath (Z01) ↔ Val Meris. Taren jedzie wozem do Val Meris w maju 12 ET. [Po drugiej stronie][taren3]
@@ -124,7 +124,7 @@ o V01 CIENISTY PORT ===== [R02 -> VAL MERIS]
 
 - **V01–V02 [K/O]** — Cienisty Port i jego archiwum, miejsce pracy Azmira i Vaelis. **Brama Zmierzchu [G]** to miejscowy ośrodek Prób. [Vesper w historii świata][vesper] · [Pierwsze odpisy i akta][vaelis1] · [GDD][gdd]
 - **V03 [O/?]** — dom Meret nad warsztatem. Opowieść wiąże wizytę z kwerendą Azmira. Dokładna ulica i położenie względem portu pozostają otwarte. [Imię, którego nie wypowiedział][morrak1]
-- **V04 [K]** — portowe magazyny, gospody i schronienia dla załóg. Nazwy poszczególnych lokali są otwarte. **V05 [O]** — kopalnia i miejsca przesłuchań po zawaleniu. [Vesper w historii świata][vesper] · [Świadkowie milczenia][morrak2]
+- **V04 [K/O]** — portowe magazyny, gospody i schronienia dla załóg. Na dolnym nabrzeżu drewniany podest prowadzi do składu, a podejście górą pozwala obejść mokry odcinek pieszo. Domy Konevy i Tili wychodzą na wspólne podwórze w pobliżu. **V05 [O]** — kopalnia i miejsca przesłuchań po zawaleniu. [Vesper w historii świata][vesper] · [Górny podest](opowiadania/koneva/1_when_you_open_the_window/historia.pl.md#górny-podest) · [Świadkowie milczenia][morrak2]
 
 ### Nivoren — północ
 

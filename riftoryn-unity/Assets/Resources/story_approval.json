@@ -373,6 +373,18 @@
       "draft": false
     },
     {
+      "folder": "KonevaDraft1",
+      "draft": true
+    },
+    {
+      "folder": "KonevaDraft2",
+      "draft": true
+    },
+    {
+      "folder": "KonevaDraft3",
+      "draft": true
+    },
+    {
       "folder": "TeviaDraft1",
       "draft": false
     },

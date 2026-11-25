@@ -177,6 +177,13 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **Jesień, 11 ET · szlak pod Aurelem** — **Znaki na szlaku** — Lucen — [`źródło`](opowiadania/lucen/3_not_against_you/historia.pl.md)
 - **Październik, 11 ET · plac warsztatowy w Kamiennym Progu, Kharum** — **Puste pole** — Rokan — [`źródło`](opowiadania/rokan/1_where_the_stone_was/historia.pl.md)
 - **Październik, 11 ET · warsztat Rokana, Kamienny Próg, Kharum** — **Żwir pod progiem** — Rokan, Ilda — [`źródło`](opowiadania/rokan/1_where_the_stone_was/historia.pl.md)
+- **2 października, 11 ET · mieszkanie Konevy w Cienistym Porcie, Vesper** — **Parapet** — Koneva, Pati, Tila, Kminek — [`źródło`](opowiadania/koneva/1_when_you_open_the_window/historia.pl.md)
+- **4 października, 11 ET · dolne nabrzeże Cienistego Portu, Vesper** — **Górny podest** — Koneva, Pati, Tila, Kminek, Den — [`źródło`](opowiadania/koneva/1_when_you_open_the_window/historia.pl.md)
+- **6 października, 11 ET · stajnia przy składzie, Cienisty Port, Vesper** — **Mokry płaszcz** — Koneva, Sarna, Iren, Morven — [`źródło`](opowiadania/koneva/1_when_you_open_the_window/historia.pl.md)
+- **Wieczór 6 października, 11 ET · dom Konevy w Cienistym Porcie, Vesper** — **Po drugiej stronie** — Koneva, Pati, Tila, Kminek, Den — [`źródło`](opowiadania/koneva/1_when_you_open_the_window/historia.pl.md)
+- **7 października, 11 ET · izba przydziałów, Cienisty Port, Vesper** — **Dwie kieszenie** — Koneva, Dala, Sarna — [`źródło`](opowiadania/koneva/2_two_versions_of_the_night/historia.pl.md)
+- **9 października, 11 ET · mieszkanie Tili w Cienistym Porcie, Vesper** — **Miseczka** — Koneva, Tila, Kminek, Den — [`źródło`](opowiadania/koneva/2_two_versions_of_the_night/historia.pl.md)
+- **16 października, 11 ET · mieszkanie Konevy w Cienistym Porcie, Vesper** — **Ołówkiem** — Koneva, Pati, Tila — [`źródło`](opowiadania/koneva/2_two_versions_of_the_night/historia.pl.md)
 - **Późna jesień, 11 ET · chłodnia w osadzie pod Białym Przesmykiem, Nivoren** — **Ile mieści się w dłoniach** — Saila, Ruvan — [`źródło`](opowiadania/saila/1_the_burden_of_the_crystal/historia.pl.md)
 - **Późna jesień, 11 ET · chłodnia w osadzie pod Białym Przesmykiem, Nivoren** — **Jeszcze jeden kryształ** — Saila — [`źródło`](opowiadania/saila/1_the_burden_of_the_crystal/historia.pl.md)
 - **Późna jesień, 11 ET · górne schronisko, Nivoren** — **Schronisko przy zakręcie** — Saila — [`źródło`](opowiadania/saila/1_the_burden_of_the_crystal/historia.pl.md)
@@ -189,6 +196,7 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **Grudzień, 11 ET · boczne stacje Zerath, rano** — **Po całonocnym obchodzie** — Taren, Varek — [`źródło`](opowiadania/taren/2_the_cost_of_loyalty/historia.pl.md)
 ### 12 ET
 
+- **11 marca, 12 ET · mieszkanie Konevy i górny podest Cienistego Portu, Vesper** — **Światło przy ścianie** — Koneva, Pati, Tila — [`źródło`](opowiadania/koneva/2_two_versions_of_the_night/historia.pl.md)
 - **19 marca, 12 ET · ogród Any, Korzenna Przystań, Verdan** — **Najdroższy domownik** — Ana, Bob, Sewin, Dagna — [`źródło`](opowiadania/ana/1_when_the_ground_dries/historia.pl.md)
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — **Pod ławą** — Ana, Bob, Liora, Thora, Eron — [`źródło`](opowiadania/ana/1_when_the_ground_dries/historia.pl.md)
 - **22 marca, 12 ET · Korzenna Przystań, Verdan** — **Mapa na stole** — Eron, Liora, Thora, Ana — [`źródło`](opowiadania/eron/1_through_someones_field/historia.pl.md)
@@ -293,9 +301,11 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **19 maja, 12 ET · osada Noctena** — **V. Przed wyjazdem** — Nocten — [`źródło`](opowiadania/nocten/3_the_first_lesson/historia.pl.md)
 - **20 maja, 12 ET · Iglica Zerath** — **Zanim wyjedziemy** — Nera, Varek, Zet — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 - **20 maja, 12 ET · ogród i dom Any, Korzenna Przystań, Verdan** — **Całe imię** — Ana, Bob, Milka, Fabia — [`źródło`](opowiadania/ana/2_i_dont_ask_who/historia.pl.md)
+- **20 maja, 12 ET · skład przewoźników w Cienistym Porcie, Vesper** — **Puste siodło** — Koneva, Pati, Dala, Den, Tila — [`źródło`](opowiadania/koneva/3_before_the_wagons_leave/historia.pl.md)
 - **21 maja, 12 ET · rynek w Korzennej Przystani, Verdan** — **Miejsce przy burcie** — Ana, Bob, Iwa, Milka — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
 - **23 maja, 12 ET · Iglica Zerath** — **Jedno miejsce więcej** — Nera, Varek, Volt, Zet — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 - **23 maja, 12 ET · Kamienny Próg, Kharum** — **Przed drogą** — Rokan — [`źródło`](opowiadania/rokan/3_one_goes_first/historia.pl.md)
+- **23 maja, 12 ET · szlak przy zachodnim brzegu jeziora, droga do Val Meris** — **Przejście od wody** — Koneva, Pati — [`źródło`](opowiadania/koneva/3_before_the_wagons_leave/historia.pl.md)
 - **24 maja, 12 ET · Kamienny Próg, Kharum** — **Od zakrętu** — Ilda, Rokan — [`źródło`](opowiadania/ilda/3_a_way_back/historia.pl.md)
 - **24 maja, 12 ET · Kamienny Próg, Kharum** — **Miejsce na wozie** — Rokan, Ilda — [`źródło`](opowiadania/rokan/3_one_goes_first/historia.pl.md)
 - **25 maja, 12 ET · Val Meris** — **Imię na formularzu** — Miko, Varek, Taren — [`źródło`](opowiadania/miko/3_one_more_bolt/historia.pl.md)
@@ -307,6 +317,7 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **27 maja, 12 ET · Val Meris, wieczór** — **VI. Następna strona** — Nocten — [`źródło`](opowiadania/nocten/3_the_first_lesson/historia.pl.md)
 - **27 maja, 12 ET · punkt zapisów do kwalifikacji w Val Meris** — **W kolejce** — Nera, Varek, Miko, Lena, Volt — [`źródło`](opowiadania/nera/3_room_to_learn/historia.pl.md)
 - **27 maja, 12 ET · Urząd Prób i plac przed areną, Val Meris** — **Dwa imiona** — Ana, Bob, Ressa — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
+- **27 maja, 12 ET · biuro przewozów przy składach, Val Meris** — **Kto potwierdza koniec** — Koneva, Pati — [`źródło`](opowiadania/koneva/3_before_the_wagons_leave/historia.pl.md)
 - **28 maja, 12 ET · plac ćwiczebny, Val Meris** — **Środkowa deska** — Ana, Bob, Al, Senera — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
 - **28 maja, 12 ET · brama Val Meris** — **Przed zamknięciem bramy** — Taren, Lucen — [`źródło`](opowiadania/taren/3_on_the_other_side/historia.pl.md)
 - **28 maja, 12 ET · dziedziniec zapisów, Val Meris** — **Zapisy do kwalifikacji** — Taren, Lucen — [`źródło`](opowiadania/taren/3_on_the_other_side/historia.pl.md)
@@ -325,6 +336,7 @@ lub nazwanych w sekcji; wydarzenia historyczne nie przypisują postaci bez źró
 - **28 maja, 12 ET · Val Meris, wieczór** — **Przysięga** — Piecarius — [`źródło`](opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md)
 - **28 maja, 12 ET · okolice składu przy wschodniej bramie, Val Meris** — **Przy wschodniej bramie** — Ana, Bob, Veda, Ressa — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
 - **Wieczór 28 maja, 12 ET · wschodnia brama i kwatera Any, Val Meris** — **Następna wiosna** — Ana, Bob, Veda — [`źródło`](opowiadania/ana/3_bamboo_for_the_year/historia.pl.md)
+- **Wieczór 28 maja, 12 ET · Urząd Prób i kwatera przy składach, Val Meris** — **Imię na odwrocie** — Koneva, Pati — [`źródło`](opowiadania/koneva/3_before_the_wagons_leave/historia.pl.md)
 - **29 maja, 12 ET · kwalifikacje w Val Meris** — **Dwa uderzenia** — Thora, Miko — [`źródło`](opowiadania/thora/3_enough/historia.pl.md)
 - **29 maja, 12 ET · Val Meris** — **Świadkowie na dziedzińcu** — Azmir, Morrak, Vaelis — [`źródło`](opowiadania/azmir/3_many_pairs_of_eyes/historia.pl.md)
 - **29 maja, 12 ET · Val Meris** — **Karta kwalifikacji** — Vaelis, Morrak, Azmir — [`źródło`](opowiadania/vaelis/3_the_public_record/historia.pl.md)
@@ -488,6 +500,21 @@ Nie znaleziono sekcji bez daty.
 - **15 maja, 12 ET · Aurel** — Moje imię — [`źródło`](opowiadania/lena/3_i_know_someone_who_can/historia.pl.md)
 - **30 maja, 12 ET · dziedziniec ćwiczebny w Val Meris** — Zanim gwizdnę — [`źródło`](opowiadania/rokan/3_one_goes_first/historia.pl.md)
 - **31 maja, 12 ET · dziedziniec ćwiczebny w Val Meris** — Kiedy belka siada — [`źródło`](opowiadania/rokan/3_one_goes_first/historia.pl.md)
+
+### Koneva
+
+- **2 października, 11 ET · mieszkanie Konevy w Cienistym Porcie, Vesper** — Parapet — [`źródło`](opowiadania/koneva/1_when_you_open_the_window/historia.pl.md)
+- **4 października, 11 ET · dolne nabrzeże Cienistego Portu, Vesper** — Górny podest — [`źródło`](opowiadania/koneva/1_when_you_open_the_window/historia.pl.md)
+- **6 października, 11 ET · stajnia przy składzie, Cienisty Port, Vesper** — Mokry płaszcz — [`źródło`](opowiadania/koneva/1_when_you_open_the_window/historia.pl.md)
+- **Wieczór 6 października, 11 ET · dom Konevy w Cienistym Porcie, Vesper** — Po drugiej stronie — [`źródło`](opowiadania/koneva/1_when_you_open_the_window/historia.pl.md)
+- **7 października, 11 ET · izba przydziałów, Cienisty Port, Vesper** — Dwie kieszenie — [`źródło`](opowiadania/koneva/2_two_versions_of_the_night/historia.pl.md)
+- **9 października, 11 ET · mieszkanie Tili w Cienistym Porcie, Vesper** — Miseczka — [`źródło`](opowiadania/koneva/2_two_versions_of_the_night/historia.pl.md)
+- **16 października, 11 ET · mieszkanie Konevy w Cienistym Porcie, Vesper** — Ołówkiem — [`źródło`](opowiadania/koneva/2_two_versions_of_the_night/historia.pl.md)
+- **11 marca, 12 ET · mieszkanie Konevy i górny podest Cienistego Portu, Vesper** — Światło przy ścianie — [`źródło`](opowiadania/koneva/2_two_versions_of_the_night/historia.pl.md)
+- **20 maja, 12 ET · skład przewoźników w Cienistym Porcie, Vesper** — Puste siodło — [`źródło`](opowiadania/koneva/3_before_the_wagons_leave/historia.pl.md)
+- **23 maja, 12 ET · szlak przy zachodnim brzegu jeziora, droga do Val Meris** — Przejście od wody — [`źródło`](opowiadania/koneva/3_before_the_wagons_leave/historia.pl.md)
+- **27 maja, 12 ET · biuro przewozów przy składach, Val Meris** — Kto potwierdza koniec — [`źródło`](opowiadania/koneva/3_before_the_wagons_leave/historia.pl.md)
+- **Wieczór 28 maja, 12 ET · Urząd Prób i kwatera przy składach, Val Meris** — Imię na odwrocie — [`źródło`](opowiadania/koneva/3_before_the_wagons_leave/historia.pl.md)
 
 ### Lena
 

@@ -1,0 +1,125 @@
+# Zanim ruszą wozy
+
+## Puste siodło
+
+20 maja, 12 ET · skład przewoźników w Cienistym Porcie, Vesper
+
+Na tablicy przy wadze przez dwa dni wisiała kartka, że jadę do Val Meris z wozami. Trzeciego ranka ktoś dopisał pod nią, że można się do mnie zgłosić po eskortę. Pięć osób przyszło szukać mnie przed śniadaniem. Jedna przyprowadziła konia. Poszłam z nim do studni, bo wśród nas tylko on wiedział naprzód, co tu dostanie.
+
+Po powrocie powiedziałam Dali, że proszę o odcinek pustej tablicy. Chciałam na niej wywiesić miejsca, gdzie trzeba wybierać inne przejście, i daty ostatnich sprawdzeń. Ludzie, którzy je widzieli, mieli prawo powiedzieć, co mogę przepisać dalej. Przy zleceniu pod strażą nazwę przewoźnika znali już przyjmujący ładunek, ale człowiek, który zobaczył zarwany stopień po drodze do matki, mógł po prostu powiedzieć o stopniu.
+
+— Co zrobisz, kiedy jeden powie ci, że stopień leży, a drugi, że stoi? — spytała Dala.
+
+— Najpierw spytałabym, czy mówią o tym samym domu. W porcie wystarczy zmienić stronę ulicy, żeby i zagrożenie miało inny adres.
+
+Dala odwróciła mój rachunek. Dla porannego dyżuru w trzeciej kolumnie obliczyłam wynagrodzenie z uwzględnieniem konia. Nawet pusty kurs, żeby sprawdzić odcinek na drugim brzegu, miał kosztować tyle, ile wcześniej wydawałam na dwie wiadomości z towarem pod ręką.
+
+— Konia już masz? — zapytała.
+
+— Przed chwilą miałam pięciu klientów. Koń był najlepiej przygotowany.
+
+Przesunęła się, żeby zrobić miejsce Denowi. Przyniósł deskę, na której mogliśmy przypiąć pierwsze ostrzeżenia. Na starej tablicy przy wschodnim wejściu wciąż wisiały kartki ze stycznia. Den wiedział już, kto ma klucz, żeby je zdjąć. Na wiosnę pokazałam mu przejścia po kolei. Tydzień później sprawdził je sam. Teraz każde z nas podawało inną godzinę otwarcia najniższej bramy, bo szliśmy tam innego dnia.
+
+Poprosiłam Dena, żeby pod moją nieobecność prowadził tablicę z Dalą. Propozycję zawiozę do przewoźników po drugiej stronie jeziora. Chciałam iść do kwalifikacji, żeby mieć głos w sprawie wspólnych ostrzeżeń i tego, kto za nie zapłaci. W Val Meris miałam znaleźć ludzi gotowych zacząć od jednego szlaku. Jeśli wrócę z pustymi rękami, dalej zostanie nam podest w porcie i kilka wspólnych ostrzeżeń.
+
+Den zapytał, czy przez ten czas może brać własne kursy. Powinien. Przez pierwsze trzy dni spodziewałam się jednej dużej zmiany, kiedy obniżą pomost do barek. Potem deski miały leżeć spokojnie. Den wziął ołówek i zaznaczył mi popołudnia, w których prowadziłby tablicę, zamiast uważać, że zrobi to ktoś, kto znajdzie się pod ręką.
+
+— Piszesz przy niej swoje imię — powiedziałam.
+
+— Jak ktoś wniesie skargę, przeczytasz?
+
+— Przeczytam. Pierwszą odpowiedź napisz sam. Moja pewnie poszłaby w złości do niewłaściwego człowieka.
+
+Dopisał sobie jeszcze jeden poranek. Dala wskazała miejsce po drugiej stronie wagi, gdzie można zaczepić deskę. Kiedy ją przymocowaliśmy, młoda woźniczka przyniosła kwit za pożyczoną uprząż. Na odwrocie zanotowała datę ostatniego otwarcia niskiej bramy. Den spytał, czy sama tam była, i dopiero po odpowiedzi wpisał datę. Pod spodem zapisał swoje imię. Wzięłam torbę, zanim zacznie myśleć, że stoję mu za plecami i sprawdzam, ile zajmie mu następny wiersz.
+
+Przed wyjazdem zajrzałam do Tili. Przyszyła wewnątrz torby pasek, żebym mogła w niej nieść księgę na płasko. Tym razem brałam tylko własny zeszyt. Tila zobaczyła różnicę. Odwinęła pasek i zrobiła z niego dodatkową kieszeń na listy. Przez chwilę nic nie mówiła. Kiedy wyszłam z podwórza, usłyszałam, jak odprowadzając mnie, woła, żebym z drogi wzięła dla niej burze w butelce.
+
+— Z dwóch zostały mi korki — odkrzyknęłam. — Możesz je sobie nalać w domu.
+
+Pati schowała się między moją torbą a płaszczem, kiedy na podwórzu zagwizdał pierwszy woźnica. Zeszła ze mnie dopiero przy wozie. Sama wsunęła się pod płótno i zostawiła mi do wyboru całą drugą połowę ławy.
+
+## Przejście od wody
+
+23 maja, 12 ET · szlak przy zachodnim brzegu jeziora, droga do Val Meris
+
+Przed południem zobaczyłam człowieka z przemoczoną połową nogawki i sznurem zwiniętym na łokciu. Wypatrywał kogoś przy rozwidleniu. Pati szła za mną po podmurówce, bo z góry sznurek wyglądał na coś, co można złapać. Wspólnie rozejrzeliśmy się przy świetle. Dwie drogi wyglądały na otwarte. Niższa, po której zazwyczaj przepuszczano pojedyncze wozy, schodziła od razu znad skarpy ku drewnianemu przepustowi. Wyższa prowadziła do drugiej przeprawy. Trzeba było nadłożyć parę godzin i zapłacić na miejscu za przejazd, bo pogłębiano tam kamienny brzeg.
+
+— Na dole przejedziemy? — zapytałam.
+
+— Wóz z workami radziłbym zawrócić.
+
+Powiedział, że z podpory przy wodzie wysunął się klin. Zobaczył go, gdy schodził po swój sznur, który spadł pod pomost. Załatał tam ubytek poprzedniego dnia. Pracę kazał mu wykonać kierownik, ale podpory od czasu naprawy nikt nie obejrzał. Jeżeli powie, kto puścił wozy na górze, jego samego mogą już nie przyjąć do pracy przy drugim przejściu. Chciał wiedzieć, ile z tego przekażę.
+
+Spojrzałam w dół. Z tego miejsca miałam przed sobą równy rząd desek i połowę rynny odpływowej. Do zapłaconego przejazdu czekał już za naszym wozem człowiek od worków. Dokąd miałam go odesłać, gdybym wolała nie wydawać ostrzeżenia w cudzym imieniu? Pati obeszła murek z drugiej strony i wychyliła się nad kamienie. Poruszyła jednym uchem. Za chwilę widziałam, jak spadł spod desek mały strumień, osobno od wody, która dochodziła spod skarpy.
+
+Zapytałam mężczyznę, czy mogę powiedzieć woźnicom, że mamy wiadomość o uszkodzeniu podpory, bez podawania jego imienia. Skinął głową. Chciał zostać przy rozwidleniu, dopóki nie zejdą jego ludzie. Nikt mu dotąd nie powiedział, czy ostrzegli drugą zmianę.
+
+Poprosiłam naszego woźnicę, żeby stanął i przekazał następnym, że schodzę obejrzeć podporę. Chciał ode mnie kartkę dla odbiorcy. Zażądał, żebym się pod nią podpisała, skoro możemy stracić kilka godzin.
+
+— Podpiszę. Sam wczoraj mówiłeś, że nie śpieszy ci się do kąpieli.
+
+— Do kąpieli dalej mi się nie śpieszy. Do Val Meris owszem.
+
+Na burcie napisałam, że zatrzymałam wóz po ostrzeżeniu o uszkodzeniu podpory. Woźnica wziął kartkę dla odbiorcy. Na drugim skrawku narysował mi, którędy zejść pod pomost od strony brzegu. Okazało się, że sam kiedyś tędy chodził po sznury.
+
+Pod przepust schodziło się za występem skały między kamieniami. Światło odbite od wody wpadało mi prosto w oczy. Przycisnęłam torbę do ściany i poprowadziłam cień od szczeliny w kamieniu, żeby odgrodzić się od odblasku. Zasłoniłam też belkę, którą chciałam zobaczyć. Puściłam cień i spróbowałam z brzegiem własnego płaszcza. Podtrzymałam go, aż wąski pas cienia odciął odblask i zostawił mi w świetle styk drewna z podporą. Przy każdym uderzeniu wody klin odrobinę się ruszał. Pod belką było go już mniej niż na zewnątrz.
+
+Wróciłam górą. Po drodze minęłam Pati, która już się zorientowała, skąd wyjdę. Siedziała na płaskim kamieniu i czesała sierść łapą tak starannie, że zaczęłam się nad nią nachylać. W drugiej chwili rozłożyła skrzydło i strząsnęła wodę prosto na mój rękaw. Zdjęłam ją z kamienia pod pachę. Mój rękaw miał wyschnąć najwolniej ze wszystkiego na tej drodze. Na górze woźnica luzował popręg, żeby konie odpoczęły przed objazdem.
+
+Powiedziałam, że belkę widziałam i dopiszę godzinę oględzin. Mężczyzny ze sznurem nie było już przy rozwidleniu. Poszedł ze zmianą do górnego pomostu. Nasz woźnica zdążył mu powiedzieć, że na kartce jest moje imię. Z zaliczki na kurs wyłożyłam opłatę za górną przeprawę. Przy odbiorze mogłam wystąpić o zwrot, jeśli ktoś potwierdzi, że skrót faktycznie zamknięto. Złożyłam podpis i dałam odpis człowiekowi, który miał zostać przy drodze do przyjścia kierownika.
+
+## Kto potwierdza koniec
+
+27 maja, 12 ET · biuro przewozów przy składach, Val Meris
+
+Do Val Meris wjechaliśmy wczoraj po południu. Tego ranka przed biurem powiesiłam płaszcz stroną z podartym mankietem do ściany. Tila zaszyła mi łokieć, więc do tej pory zawsze znajdowałam go po równym szwie. Teraz łatwiej było rozpoznać świeżą dziurę. Szarpiąc na górnym przejeździe zapięcie przy burcie, zostawiłam strzęp rękawa na żelaznej klamrze. Wiedziałam, ile mi o tym Tila powie, kiedy wrócę.
+
+Kobieta od rozliczeń rozłożyła przed sobą oba odpisy. Miała też kartę zamknięcia przejazdu, nadesłaną rano z górnej przeprawy. Na niej była tylko godzina, o której zaciągnięto sznur w poprzek drogi. Pytała, kto pierwszy zauważył usterkę. Pokazałam drugi podpis, własny, z godziną sprawdzenia. Powiedziała, że trzeba jeszcze ustalić, przez ile godzin uszkodzony przepust przepuszczał ludzi. Jeśli znam pracownika, który zobaczył, jak wypada klin, może łatwiej odtworzyć kolejność.
+
+— Mogę spytać, czy z tobą o tym porozmawia — powiedziałam.
+
+— A jeśli odmówi?
+
+— Wtedy masz moje oczy i ten rachunek. Oba za późno na pierwszą zmianę.
+
+Wróciła do dokumentów. Obok rachunku zanotowała kwotę zwrotu za nasz kurs i termin, do którego zarządca przepustu miał przesłać oględziny. Powiedziała, żebym rano zabrała potwierdzenie do okna wypłat lub poprosiła kogoś o odebranie pieniędzy dla siebie. Chciała zobaczyć jeszcze mapę, na której zaznaczam drogę powrotną. Miałam już trzy różne odpisy. Na tym przeznaczonym dla wracających nie było ceny za opiekę ostatniej załogi, tylko liczba godzin do górnej przeprawy. Podałam go jej, żeby mogła powiesić obok wejścia.
+
+Przy wyjściu kobieta próbowała odczytać mapę do góry nogami. Pytała znajomego, skąd może wiedzieć, czy do następnego popołudnia ostrzeżenie nadal jest prawdziwe. Powiedziałam, kiedy sprawdzałam dolne przejście i że czytałam kartę zamknięcia dostarczoną tego ranka. Zapytałam, czy sama jedzie w tamtą stronę. Jej brat miał tam wieźć koła do młyna. Ona załatwiała odpis na wypadek, gdyby przyszło mu dojechać po czasie.
+
+— Górą może przejechać — powiedziałam. — Jeśli ktoś spróbuje go puścić dołem, niech najpierw pokaże kwit z naprawy.
+
+Kobieta odwróciła mapę. Zaczekałam, aż odrysuje kreskę znaczącą obejście. Potem poprosiła, żebym powtórzyła, przy którym rozwidleniu można zawrócić z całym wozem. Zapisała to dużymi literami. Pod tablicą czekało jeszcze dwoje ludzi, a jedno z nich też trzymało kartkę. Wróciłam na chwilę do biura i podałam osobie od rozliczeń dwie szpilki. Poprosiłam, żeby obok naszego ostrzeżenia dała kartę zamknięcia, a na niej napis, gdzie będzie można sprawdzić termin naprawy.
+
+Wieczorem napisałam Denowi, ile kosztował jeden objazd i do której godziny miały się zacząć oględziny. Pati przespała w torbie część rozliczeń, a potem długo nie chciała wrócić do kwatery. Usłyszałam, że jest na parapecie komórki, dopiero jak przyszli ludzie po miotłę. Rozłożyła skrzydła i przyleciała ze ścierką w pysku. Odniosłam ją do komórki. Miotlarz spojrzał na Pati, na mnie i znowu na ścierkę.
+
+— Mam ci zapłacić za dostawę?
+
+— Z nią porozmawiaj. U mnie od miesiąca nawet dywanu nie rusza.
+
+Miotlarz położył ścierkę na swoim ramieniu. Pati próbowała ją tam wziąć po raz drugi. Schował ją do kieszeni, a ja poczekałam, aż Pati znajdzie sobie w mroku miejsce, z którego będzie mogła tej kieszeni pilnować.
+
+## Imię na odwrocie
+
+Wieczór 28 maja, 12 ET · Urząd Prób i kwatera przy składach, Val Meris
+
+Do urzędu poszłam przed zamknięciem. Podałam Vesper. Urzędniczce powiedziałam, że przyszłam zgłosić się z Pati i zostawić odpis pomysłu na stałe ostrzeżenia. Pokazała mi osobny stół, przy którym przyjmowano propozycje dotyczące pracy na szlakach. Drugą rubrykę wypełniłam dopiero po rozmowie z człowiekiem, który przy tych propozycjach prowadził rejestr współpracy między krainami. Spytałam go, czy wolno zapisać cel, dla którego chcę wystąpić, nawet jeśli ludzie, na których liczę, jeszcze niczego nie podpisali. Odpowiedział, że mam tylko jasno określić, kto już zgodził się działać.
+
+Wróciłam pod drzwi. Wpisałam wspólny nadzór. Zależało mi na tym, żeby podobne wiadomości przyjmowano wzdłuż całego szlaku, także wtedy, gdy przewoźnik złoży je już w sąsiedniej krainie. Chciałam zostawić ludziom prawo do decydowania, komu pokażą swoje prywatne dokumenty. Jeden człowiek w składzie nie mógł przyjmować wszystkich ostrzeżeń, jeśli równocześnie zarabiał na drodze, którą trzeba zamknąć. Miałam nadzieję, że da się uzgodnić wspólne sprawdzanie takich wpisów. Chciałam mieć swój głos przy próbie uzgodnienia.
+
+Urzędniczka spytała, czy Pati lata wysoko. Siedziała na oparciu ławy przy wejściu. Zawołałam ją i zeszła na sam skraj siedziska. Trzy razy machnęła ogonem. Potem skoczyła z ławy, rozłożyła skrzydła i wylądowała na stole obok formularza.
+
+— Tak — powiedziałam. — Gdy sama wybierze wysokość.
+
+Urzędniczka wyciągnęła rękę i poczekała. Pati obwąchała końce jej palców. Kiedy wróciła do mnie, mogłam przesunąć formularz z powrotem pod dłoń urzędniczki. Spytałam o godzinę na rano. Zapisała ją obok terminu i podała mi odpis. Schowałam go do kieszeni i wzięłam Pati pod płaszcz.
+
+Na schodach zastał mnie miotlarz ze składu. Ktoś mu powiedział, że w Vesper uczymy koty latać. Zapytał, czy to prawda. Pomyślałam o tym, ile razy jeszcze będę mogła obrócić takie pytanie w żart. Powiedziałam mu, że odprawiłam rytuał, kiedy Pati była chora, i że choć sama trzymałam ją na rękach, nadal nie wiem, co sprawiło, że wyrosły jej skrzydła. Spytał, czy może gdzieś przeczytać to, co mu dziś powiedziałam.
+
+— Tylko jeśli sobie zapiszesz. Ja za ciebie niczego pod tym nie podpiszę.
+
+Uniósł miotłę, jakby trzymał pióro, i zapytał, czy pożyczę mu atramentu. Zeszliśmy razem. Pati wysunęła się spod płaszcza na mur i poszła skrajem za nami. Kiedy mur się skończył, sama wróciła mi na ramię. Wolną ręką podtrzymałam ją dopiero w chwili, w której wsunęła mi łapę pod dłoń.
+
+Wieczorem w kwaterze czekał list od Dena. Przywiózł go kurier, który opuścił port trzy dni po nas. Rano po naszym wyjeździe Den wywiesił ostrzeżenie o zamkniętej bramie. Miał to od człowieka, który zastał ją zamkniętą przed świtem. Nazajutrz poszedł spytać składowego o godzinę otwarcia. Okazało się, że przez boczną bramę można przejść jeszcze wcześniej. Den dopisał godziny w trzecim wierszu i podpisał się pod dopiskiem. Na dole listu dodał, że pierwszy człowiek, który z tego skorzystał, zdążył zanieść trzy paczki na wczesny wóz. Prosił, żeby na następną noc zostawić ostrzeżenia w tym samym miejscu.
+
+Odłożyłam przygotowane wcześniej poprawki. Wzięłam kartę na jutrzejszy poranek i wsunęłam pod notes. Potem napisałam do Tili krótką odpowiedź. Pati mało jadła w pierwszych dniach podróży. Dzisiaj biegała po kamiennych progach i musiałam pożyczyć od właścicielki kwatery miskę, żeby nie piła razem z końmi. Napisałam też, że na tamtym targu wciąż sprzedają wino z cierpkim osadem. Kupiłam jedno z tych tańszych, żeby mogła mi wytknąć wybór, kiedy wrócę.
+
+Pati zeszła z parapetu na stół i wsunęła nos pod mój brudnopis. Złapałam jej łapę, zanim wsadziła ją do kałamarza. Po chwili przestała się opierać i usiadła na liście Dena. Odsunęłam świecę, położyłam obok potwierdzenie na jutrzejsze kwalifikacje i poszłam uchylić okno. Gdy wróciłam po list, Pati podniosła tylko jedną łapę. Odpis dla przewoźników przepisałam tak, jak go dostałam, z imieniem Dena pod dopiskiem przy trzecim wierszu.

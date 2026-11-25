@@ -1,0 +1,147 @@
+# Dwie wersje tej samej nocy
+
+## Dwie kieszenie
+
+7 października, 11 ET · izba przydziałów, Cienisty Port, Vesper
+
+Pisarz zapytał, czy może zapisać, że przewoźniczka z trzeciego wniosku sama zrezygnowała. Stałam przy stole, bo zabrakło krzeseł, i miałam widok na wierzch jej dłoni. W rowkach przy paznokciach wciąż trzymał się czarny wosk od wiązania ładunku. Wychodząc z domu, musiała jeszcze sprawdzić sznur.
+
+— Oddała dostawę drugiej załodze za pół stawki — powiedziałam. — To możesz zapisać. Resztę jej jeszcze pokaż.
+
+Pisarz zawahał się przy słowie „oddała”, ale spojrzał na przewoźniczkę i przepisał zdanie. Podsunęłam jej krzesło. Miała już dość czekania, żeby wreszcie chcieć usiąść. Zapytałam półgłosem, czy chce powiedzieć ludziom przy stole, dlaczego zabrakło jej pieniędzy. Spojrzała w stronę okna. Nie umiałam zgadnąć, czy chciałaby, żeby ktoś przy niej został. Przesunęłam krzesło bliżej ściany. Usiadła. Po chwili przywołała pisarza i wzięła od niego kartę.
+
+W lewej kieszeni miałam pismo do protokołu. W prawej jego drugą część, zatwierdzoną do okazania Dali. Uparła się, żeby pisarz nie zostawiał jej na stole nawet na czas stawiania podpisu. Kiedy przyniosłam jej drugi odpis, odwróciła się do okna, zasłaniając kartkę przed ludźmi, którzy stali za mną.
+
+— Teraz jak mnie o coś zapytają, będę wiedziała, jak mało mogę odpowiedzieć — powiedziała.
+
+— W porcie akurat z tym mamy duże doświadczenie.
+
+Podniosła wzrok znad papieru. Pod jej ręką leżał formularz, który poprzedniego dnia musiała oddać Sarnie. Sama wiedziała, jaką instrukcję podpisał Morven. Dzisiaj czytała wszystko jeszcze raz, nawet to, co już ktoś odczytał przy niej. Otrzymała wreszcie dwie rzeczy naraz, dowód ładunku i człowieka, który potrafił powiedzieć, co się stanie po jego opóźnieniu. Przez większą część rozmowy papier Sarny był najmniej ruchliwym przedmiotem w izbie. Ludzie wokół niego siadali, wstawali, przychodzili po wieści i przenosili krzesła do innych stołów.
+
+Kiedy ogłoszono przydział Sarny, dałam Dali wszystko, co mogła wywiesić. Wyszłyśmy razem sprawdzić, jak to wygląda od strony wozów. Część o kosztach czytało się łatwiej, odkąd podeszłam z jej kartką do miejsca przy dobrej lampie. Powód, dla którego Sarna miała dostać eskortę przed Radlem, dało się przeczytać. Godzinę wyjazdu znała Iren. Włożyłam rękę do prawej kieszeni. Tym razem była już pusta.
+
+— Chciałbym jedną tablicę, na której bez załatwiania konia przeczytam jutro, czy przy pomoście jeszcze mokro — powiedział człowiek za moim ramieniem.
+
+— Ja też — odpowiedziałam.
+
+Zapytałam go, czy sam wraca rano spod pomostu. Załatwiał tylko odbiór paczek i nie wiedział, kto po zmroku zamyka obejście. Zamierzał zejść z przyjacielem, kiedy skończą ważyć. Dałam mu skrawek papieru z miejscem, gdzie nie trzeba wchodzić pod uznaniową bramę składu. Powiedziałam, że jeśli znajdzie mokrą deskę, niech do rana da mi znać. Zanim zdążył spojrzeć, na którą stronę trzyma kartkę, przewróciłam ją w jego palcach.
+
+— Z tej strony masz drogę. Z drugiej mój własny rachunek za deskę.
+
+— To skąd mam wiedzieć, gdzie jest koniec?
+
+— Gdzie kończy się nabrzeże. Na rachunku też tuż przed sumą.
+
+Położył kartkę na dłoni i odczytał jeszcze raz. Zapytał, gdzie mnie szukać. Pokazałam mu nasze podwórze. Z górnej drogi widać było jasną deskę pod moim oknem. Pomyślałam, że jeszcze niedawno, żeby się ze mną zgadać, człowiek musiał wiedzieć, kiedy wracam z kursu, albo mieć do mnie sprawę, którą ktoś zgodził się przyjąć u wagi.
+
+## Miseczka
+
+9 października, 11 ET · mieszkanie Tili w Cienistym Porcie, Vesper
+
+Kiedy wróciłam, moja wstążka wisiała na szybie Tili. Zawinęła ją na gwoździu tak, żeby kolor widać było od strony podwórza. Umawiałyśmy się, że w ten sposób da mi znać, gdy jej starsza siostra przywiezie wino z południa. Zgarnęłam z góry dwa kubki. W sieni zobaczyłam, że drzwi na podwórze są zamknięte od wewnątrz. Tila zdążyła jedną ręką zastawić skobel koszem. Otworzyła mi, zanim mogłam zapukać.
+
+— Nie mam wina — powiedziała. — Wstążkę miałam pod ręką.
+
+Wzięłam od niej ciężki kosz. Stała w nim miska z czystym płótnem, kawałek chleba i łyżka. Kminek leżał w domu przy piecu, w miejscu, gdzie nigdy nie kładł się dobrowolnie. Obok leżała wyciągnięta z popielnika ciepła cegła, owinięta szmatką. Gdy usiadłam na ziemi, podniósł powieki. Nie odwrócił łba, kiedy powiedziałam jego imię.
+
+Zielarka przychodziła dwa dni z rzędu. Tila nie potrafiła mi powtórzyć wszystkiego, co od niej usłyszała. Wiedziała, że Kminek ma pod bokiem zapas ciepła i że dziś trudno mu stanąć. Zapytała, czy słyszałam o kimś, kto mógłby pójść po zielarkę znowu, bo przy górnych domach czekają na nią z chorym dzieckiem.
+
+— Den powinien być u wagi — powiedziałam. — Napiszę mu, gdzie ją znajdzie.
+
+Wyjęłam kartkę i podałam Tili. Trzymała ją tak, jak trzyma się miskę, kiedy wciąż trzeba komuś nalać. Dłonie miała zupełnie wolne, ale żadnej nie podniosła. W końcu odłożyła kartkę na kolano.
+
+— A księgę masz dalej?
+
+Między trzonkiem jej łyżki a podłogą rozdźwięczało się na chwilę drewno. Tila zgarnęła łyżkę z krawędzi kosza. Spojrzała na mnie tak, jakby przeczytała już coś w moim ciele, bo zaczęłam układać palce w pięść, zanim zdążyłam odpowiedzieć.
+
+— Mam.
+
+— Przy Pati właśnie szłaś po księgę, kiedy przyniosłam ci miskę.
+
+— Pamiętam miskę.
+
+— Jaką?
+
+Rozstawiłam dłonie, żeby pokazać, jak była duża. Szara, pęknięta pod spodem. Tila położyła rękę na boku Kminka. Przy każdym oddechu pod palcami przesuwała jej się sierść.
+
+— Czy mogłabyś zrobić, co zrobiłaś dla niej?
+
+Przypomniałam sobie, że przy pierwszym znaku wiedziałam tylko, gdzie stoją świece. Moc przeciągnęłam o jedno miejsce dalej, niż chciałam. Kiedy Pati potem odetchnęła, potrafiłam od razu odsunąć od niej płomień, ale nie potrafiłam powiedzieć, jak go z powrotem zapalić w ten sam sposób. Przez dwa dni próbowałam poprowadzić Ciemność nad pustym kręgiem. Raz poczułam zimno aż na końcu kciuka. Za drugim razem świeca się przewróciła. Żaden z tych wieczorów nie dał mi odpowiedzi na pytanie Tili.
+
+— Przy Pati sama wybierałam, czy zaryzykować. Przez chwilę byłam pewna, że pogarszam to, co się z nią dzieje.
+
+— Teraz ja wybieram — powiedziała Tila.
+
+Mogłam pójść po księgę. Tila wiedziała o tyle, ile jej powiedziałam. Gdybym wróciła i zaczęła przesuwać meble pod krąg, pewnie odsunęłaby ławę, żeby mi pomóc. Ja zaś nawet przy pustym kręgu potrafiłam sprowadzić Ciemność tylko mniej więcej tam, gdzie chciałam. Kminek leżał półtora kroku od moich butów. Przez całe lata pozwalał mi się dotknąć za uchem, jeśli najpierw zobaczył moją rękę. Przesunęłam się, żeby miał mnie na wprost.
+
+— Nie zrobię rytuału przy Kminku — powiedziałam.
+
+Tila przytrzymała kartkę dla Dena palcem, choć drugą ręką mogła ją sobie podsunąć. Miejsce pod paznokciem zrobiło się zupełnie białe.
+
+— Możesz mi ją przynieść? Chcę przeczytać sama.
+
+Podeszłam do drzwi i zawołałam na podwórze, czy ktoś widział Dena. Zobaczyłam jego czapkę na wyższym podeście nad wozami. Krzyknęłam drugi raz. Podszedł do furtki. Podałam mu przez szczelinę kartkę. Poprosiłam, żeby przyprowadził zielarkę, kiedy skończy u dziecka.
+
+Wróciłam pod piec. Tila patrzyła na drzwi. Zdziwiła się, że wyjęłam z przejścia tylko kosz i znowu usiadłam.
+
+— Gdybym ci teraz dała stronę z księgi, mogłabyś pomyśleć, że wystarczy zrobić wszystko, co tam napisano. Ja przy Pati pomyliłam się w połowie i nawet nie umiem ci powiedzieć gdzie.
+
+Przez dłuższą chwilę Tila siedziała bez ruchu. Gdy osunęła się niżej pod piec, podałam jej szmatkę z kosza. Zwinęła ją i ułożyła Kminkowi pod łeb. Zdawało mi się, że chce go podnieść, ale pokazała tylko dłonią na własnym przedramieniu, jak mieścił się jej kiedyś, gdy wzięła go z ulicy. Pamiętałam go wyłącznie jako dorosłego. Wtedy już potrafił zająć całe krzesło i wysunąć łapę na sąsiednie.
+
+Zielarka przyszła pod wieczór. Na pytanie Tili odpowiedziała, że może tylko ulżyć Kminkowi. Poprosiła, żeby Tila przy nim została. Wzięłam pusty kosz i wyszłam po wodę.
+
+Kiedy wróciłam, Kminek już nie oddychał. Tila zasłoniła mu łapy płótnem. Usiadłam obok na podłodze. Otworzyła usta, jakby zbierała się do pytania, ale przez chwilę patrzyła tylko w stronę okna. Poprosiła mnie, żebym poszła sprawdzić, czy Pati ma co jeść.
+
+## Ołówkiem
+
+16 października, 11 ET · mieszkanie Konevy w Cienistym Porcie, Vesper
+
+Na naszym podwórzu zwykle pukało się dwa razy. Chłopak z drugiego składu zapukał siedem. Za szóstym obudziła się Pati. Za siódmym siedziała na oparciu mojego krzesła i patrzyła na drzwi.
+
+Miałam dwa zlecenia do oddania i trzy listy, które chciałam odłożyć na wieczór. Chłopakowi brakowało w domu kota. Nie był chory. Uciekł po zmianie mieszkań i zapierał się pod deskami na górnym podwórzu. Chłopak słyszał w składzie, że umiem skłonić kota, żeby wrócił do człowieka. Przyszedł, zanim ktoś powiedział mu, żebym jedynie skoczyła po drabinę albo wyciągnęła go do jedzenia. Wolałam tę prośbę od tego, o co mnie poprzedniego dnia zapytano między dwoma wozami. Przy tamtej nawet się nie odwróciłam.
+
+Za deskę, na której leżał kot, mogłam zajrzeć od dołu. Poprosiłam chłopaka, żeby stanął dwa kroki dalej i opowiedział coś swoim zwykłym głosem. Zaczął od spotkania przy studni, potem odezwał się ciszej i opowiadał o wozie tak długo, że po chwili sama wiedziałam, gdzie stał, kiedy kot wyszedł. Kot obwąchał mu but. Po pięciu oddechach miałam nadzieję, że da się go podnieść. Po szóstym pobiegł piętro wyżej chłopakowi prosto w ramiona. Zanim wróciłam do domu, upewniłam się, że zasunął klapę na poddaszu.
+
+Tila czekała na mnie na podeście. Chciała odebrać kosz, który został u mnie, kiedy wyszłam po wodę. Pokazałam, że jest w sieni. Kiedy niosłam go pierwszy raz, w wiklinie zobaczyłam siwy włos Kminka. Od tamtej pory, ilekroć podnosiłam kosz, patrzyłam w tamto miejsce.
+
+— Chcesz przeczytać, co zrobiłam tamtej nocy? — spytałam.
+
+Tila odstawiła kosz na stopień. Zamiast czekać przy nim, weszła ze mną na górę. Pokazałam jej zeszyt. Na lewej stronie zapisywałam to, czego byłam pewna. Na prawej rzeczy, które pamiętałam dopiero wtedy, gdy zamknęłam oczy, i których następnego dnia mogłam już nie pamiętać tak samo. Przy opisie pierwszej próby na pustym kręgu narysowałam trójkąt, bo zdałam sobie sprawę, że w drugiej ręce trzymałam świecę zupełnie inaczej. Widząc to w zeszycie, rozumiałam przynajmniej, skąd wiem, że robiłam coś za każdym razem trochę inaczej.
+
+— Jeszcze nie wiem, co z tego wynika — powiedziałam. — Mogę ci pokazać wszystko, czego jestem pewna.
+
+— Chcę wiedzieć, czy więcej czasu spędziłaś przy księdze czy przy Pati.
+
+Usiadłam i zrobiłam jej miejsce na ławie. Wciąż nie miałam tej jednej liczby. Opowiedziałam jej o szukaniu pod światłem co drugiego słowa, bo papier był zbyt ciemny. Opowiedziałam, że przerywałam za każdym razem, kiedy w myślach liczyłam, ile oddechów ma Pati w następnej chwili. Mój opis nocy kończył się w miejscu, gdzie przysunęłam płaszcz, żeby usiąść na nim bliżej łóżka.
+
+— To akurat pamiętam — powiedziała Tila. — Płaszcz potem miałam dłubać z podłogi, tak przymókł.
+
+— Wiem. Miałam nadzieję, że odczekasz tyle, żeby już nie wiedzieć, czyj jest.
+
+— Znałam go po dziurze w łokciu. Na to trzeba więcej niż tydzień.
+
+Przeczytała lewą stronę jeszcze raz. Wzięła z poręczy mój płaszcz i wróciła na ławę. Gdy dobierała nić do koloru rękawa, powiedziałam, że sama to zaszyję. Bez słowa podsunęła mi świecę. Znalazłam igłę i przez chwilę żadna z nas nie mogła zrobić kolejnego ruchu, bo obie chciałyśmy nawlec ją tej drugiej.
+
+## Światło przy ścianie
+
+11 marca, 12 ET · mieszkanie Konevy i górny podest Cienistego Portu, Vesper
+
+Zimą na deskach zgromadził się tłusty lód. Pati nauczyła się hamować skrzydłami tak, że mogła dotknąć tylko jednej łapy, gdy podest był mokry. Czasem robiła to bez potrzeby. Zostawiała na szronie jeden ślad, po czym wracała na stół i suszyła go pod własnym brzuchem. Któregoś dnia zaczęła lądować przy oknie Tili. Siedziała naprzeciw drzwi do kuchni. Odchodziła, jeśli Tila mówiła za głośno, ale zwykle dawała się przywołać z powrotem.
+
+Po odwilży przy jednym z wejść zmienił się właściciel składu. Zamknął drogę, którą wcześniej prowadziłam Dena, bo za drzwiami trzymał nocą mąkę, a ludzie wchodzili i wychodzili bez pytania. Spytałam go, którędy teraz chodzi po zakupy. Wskazał drugie drzwi. Do nich szło się od górnej ławy, przez miejsce, gdzie Tila suszyła płótno do naprawy. Poszłam spytać, czy zgodzi się, żeby raz dziennie przechodził tamtędy kurier.
+
+— Jeden — powiedziała. — Jak się pokażą wozy, wyjdę do nich ze sznurkiem. Sama zobaczysz, jaki się szybko okaże za krótki.
+
+Na tablicy przy wadze zostawiłam kartkę z wiadomością o zamkniętych drzwiach. Osobno wdrapałam się po schodach do chłopaka, który chodził po paczki na dolne nabrzeże. Zeszłego roku chciał tablicy z wiadomością o pomoście. Teraz dowiedział się ode mnie, gdzie zamknięto przejście i kiedy może do mnie przyjść, żeby sprawdzić obejście z pustą torbą. Nie zapisałam adresu Tili na tablicy. Wieczorem chłopak i tak chciał wiedzieć, komu za to dziękować. Poszliśmy z nim razem na górę i spytałam Tilę, czy chce go spotkać.
+
+W kwietniu do Val Meris mieli zacząć jeździć ludzie od Prób. W urzędzie wieszano nowe zapowiedzi i prośby o zgłaszanie ludzi, którzy umieją przyprowadzić posiłki znad jeziora. Chciałam mieć środek na opłacenie kuriera, kiedy nie może roznieść swoich paczek, bo sprawdza cudze ostrzeżenia. Zanim dowiedziałam się, czy da się o to zabiegać w Val Meris, przeliczyłam sobie, ile właściwie potrzeba na początek. Na jednej stacji mogliśmy dzielić dyżury. Na dwóch potrzebny był ktoś, kto będzie gonił dowód, kiedy kurier nie wróci na czas. Na trzeciej mogłam już potrzebować człowieka przy wynagrodzeniach, a to nigdy nie była moja ulubiona część pracy.
+
+Wzięłam swój rachunek na wieczór do Tili. Dwie wersje robocze wsunęłam pod miskę, a trzecią podałam jej do ręki. Przyniosła dwa kubki i wino, które tym razem smakowało tak dobrze, jak twierdził sprzedawca. Musiała przesunąć mój kubek, żeby doczytać drobny dopisek przy wynagrodzeniach.
+
+— Ile sobie wpisałaś? — spytała.
+
+Powiedziałam, że za pierwszy tydzień zamierzałam wziąć tyle, ile Den. Potem będę więcej jeździć sprawdzać, a on będzie dłużej przy tablicy. Tila przycisnęła paznokciem w wyliczeniach jedną linijkę. Musiałam przestać żuć chleb, żeby przeczytać ją na głos.
+
+— Zapomniałaś wpisać siebie — powiedziała.
+
+Rzeczywiście zostawiłam wolną rubrykę od pierwszego dyżuru po poniedziałku. Uzupełniłam ją przy Tili. Gdy zamknęłam rachunek, Pati wyjrzała z parapetu i zobaczyła, że wciągam krzesło do stołu. Zeskoczyła tuż obok mnie. Tila przykryła otwartą dłonią ołówek, zanim Pati zdążyła się nim zainteresować. Pod futerałem na ołówek wciąż miała tę starą wstążkę. Odwróciła ją na drugą stronę, żeby Pati mogła ją złapać za czysty koniec.
