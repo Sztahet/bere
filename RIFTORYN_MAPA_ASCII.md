@@ -193,7 +193,7 @@ o D01 KORZENNA PRZYSTAN ===== [R06 -> VAL MERIS]
       +-- [R18] objazd dla wozow ---> D06 dalsze osady i gospodarstwa
 ~~~
 
-- **D01 [K/G]** — Korzenna Przystań, osada w dolinie rzeki. **Krąg Korzeni [G]** to arena w pobliżu szlaku do centrum. [Verdan w historii świata][verdan] · [GDD][gdd]
+- **D01 [K/G]** — Korzenna Przystań, osada w dolinie rzeki. Dom Mary znajduje się w osadzie; jego dokładne położenie pozostaje otwarte. **Krąg Korzeni [G]** to arena w pobliżu szlaku do centrum. [Verdan w historii świata][verdan] · [GDD][gdd] · [Trzy ruchy](opowiadania/eron/1_through_someones_field/historia.pl.md#trzy-ruchy)
 - **D02 [K/O]** — rynek i wspólne stoły przy ogrodach, studnia, warsztat mijany przez Anę i Boba oraz miejsce wyboru czworga kandydatów. W Korzennej Przystani Ana prowadzi własny ogród przy domu, a Sewin przywozi bambus z okolicznego lasu. [Verdan w historii świata][verdan] · [Kiedy obeschnie ziemia][ana] · [Droga Boba](opowiadania/ana/2_i_dont_ask_who/historia.pl.md#droga-boba) · [Dzień, który miał być spokojny][thora2]
 - **D03 [O]** — lecznica, domy odwiedzane przez Liorę, trzy pola pod wałem i wloty rowów. **D04 [O]** — most przy górnym wale, sad i miejsce zasadzenia drzewka. [Zanim zamknę lecznicę][liora] · [Ostatni korzeń][thora1]
 - **D05–D06 [O]** — przepust z dwoma wylotami, gospodarstwo na krótszej drodze, ścieżka za płotem, ogród przy objazdowej drodze, w którym pracują Ana, Dagna i Milka, oraz trzy bezimienne osady czekające na deski. Przy podmokłych grządkach stoi kładka na wiklinowych pasach. Osad tych nie da się jeszcze przypisać do konkretnych punktów na mapie. [Przez cudze pole][eron] · [Kiedy obeschnie ziemia][ana] · [Pasy pod kładkę](opowiadania/ana/2_i_dont_ask_who/historia.pl.md#pasy-pod-kładkę)

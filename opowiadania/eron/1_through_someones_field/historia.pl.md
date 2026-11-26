@@ -20,6 +20,8 @@ Starsza pochyliła się nad mapą. Chwilę patrzyła na długi objazd, który na
 
 Uniósłszy wzrok, zobaczyłem, że Thora patrzy w to samo miejsce. Znała gospodarzy. Na razie oboje wiedzieliśmy tyle, że trzeba ich zapytać. Zostawiłem sobie objazd na papierze. Ciekawiło mnie, czy po suchym tygodniu da się wrócić do dawnego traktu bez rozbierania przepustu od góry.
 
+Pod stołem zacisnąłem palce na ołówku. Chciałem zobaczyć ich tory i sprawdzić, czy znajdę przejście szybciej od innych. W domu od lat ścigałem się z Marą przy każdej układance z patyków; na placu w Val Meris przeszkody miały być większe, a przeciwników nie znałem.
+
 Ana powiedziała, żeby dopisać Boba. Starsza zrobiła to między liniami, żeby jego imię zmieściło się przy imieniu Any. Thora podpisała się pierwsza, Liora druga. Podpisałem się i podałem listę Anie. Po drodze do domu mogłem jeszcze dojść do przepustu przed zmrokiem. Na tamtym brzegu łatwiej było zobaczyć, co woda zostawiła pod drogą.
 
 ## Po stronie wylotu
@@ -46,7 +48,7 @@ Schowałem mapę. Dopiero wieczorem dorysowałem górne przejście. Przy nazwie 
 
 Koniec marca, 12 ET · przepust pod Korzenną Przystanią, Verdan
 
-Kiedy wróciłem z pola, pod przepustem czekała na mnie Mara. Kierowała drugą częścią ekipy, tą od nawierzchni. Niosła na ramieniu łatę do mierzenia i mój kubek. Zostawiłem go rano na wozie, a ona zdążyła już umyć go w strumieniu.
+Kilka dni po wizycie u gospodarzy, kiedy wróciłem obejrzeć pole, pod przepustem czekała na mnie Mara. Kierowała drugą częścią ekipy, tą od nawierzchni. Niosła na ramieniu łatę do mierzenia i mój kubek. Zostawiłem go rano na wozie, a ona zdążyła już umyć go w strumieniu.
 
 — Woźnica pytał o deski — powiedziała. — Ma je zabrać do trzech osad, nie do jednej. Jeśli pojedzie objazdem, nie zdąży wrócić po drugą partię przed deszczem.
 
@@ -82,13 +84,13 @@ Otworzyłem usta, żeby powiedzieć, że nie mamy na to pieniędzy w rozliczeniu
 
 Kwiecień, 12 ET · przepust pod Korzenną Przystanią, Verdan
 
-Przy drugim kursie jedna z desek zaczepiła o drzewo. Niosący ją chłopak cofnął się, nie oglądając za siebie, i nadepnął na płot. Szczebel wysunął się ze słupka. Położyliśmy deskę i pomogliśmy mu stanąć; nic sobie nie zrobił. Dopiero wtedy gospodyni pokazała nam złamany kołek.
+Przy drugim kursie z pierwszą partią jedna z desek zaczepiła o drzewo. Niosący ją chłopak cofnął się, nie oglądając za siebie, i nadepnął na płot. Szczebel wysunął się ze słupka. Położyliśmy deskę i pomogliśmy mu stanąć; nic sobie nie zrobił. Dopiero wtedy gospodyni pokazała nam złamany kołek.
 
 — Naprawimy — powiedziałem.
 
 — Dzisiaj?
 
-Chciałem odpowiedzieć, że jutro rano, bo ludzie czekali na drugą partię. Mara zdjęła jednak z wozu skrzynkę z narzędziami. Zostałem z nią przy płocie. Pozostała dwójka poniosła następną deskę krótszymi odcinkami, odkładając ją na ziemię przy zakręcie. Kiedy skończyliśmy, gospodyni sama sprawdziła szczebel. Nacisnęła go dłonią w miejscu, którego nie przybiłem dość mocno. Musiałem poprawić gwóźdź.
+Chciałem odpowiedzieć, że jutro rano, bo ludzie czekali na resztę pierwszej partii. Mara zdjęła jednak z wozu skrzynkę z narzędziami. Zostałem z nią przy płocie. Pozostała dwójka poniosła następną deskę krótszymi odcinkami, odkładając ją na ziemię przy zakręcie. Kiedy skończyliśmy, gospodyni sama sprawdziła szczebel. Nacisnęła go dłonią w miejscu, którego nie przybiłem dość mocno. Musiałem poprawić gwóźdź.
 
 Przy przepuście mieliśmy inny kłopot. Z brzegu wciąż osypywała się ziemia. Chciałem położyć deskę dla pieszych i oprzeć poręcz o słupki, lecz jeden słupek po poruszeniu wychodził z gruntu razem z błotem. Wyciągnąłem go. Pod spodem zobaczyłem korzenie rosnącego przy brzegu krzewu, zdrowe i mocno wczepione w wyższą ziemię.
 
@@ -106,7 +108,7 @@ Wieczorem sprawdziłem krzew. Kilka liści zwiędło na pędzie, który skręci�
 
 Koniec kwietnia, 12 ET · Korzenna Przystań, Verdan
 
-Thora ruszyła tego samego dnia, w którym zebraliśmy się przy stole. Zanim zdążyłem zmierzyć przepust z drugiej strony, była już na trakcie do Val Meris. Ja wiedziałem, którędy tam dojść, a wciąż nie wiedziałem, którędy za tydzień dowieziemy do trzech osad deski potrzebne po ulewach.
+Thora ruszyła tego samego dnia, w którym zebraliśmy się przy stole. Zanim zdążyłem zmierzyć przepust z drugiej strony, była już na trakcie do Val Meris. Wtedy wiedziałem, którędy dojść do miasta, a nie wiedziałem jeszcze, którędy dowieziemy do trzech osad pierwszą partię desek.
 
 Wróciłem z ekipą. Ruch pieszy skierowaliśmy na górną ścieżkę za zgodą gospodarzy. W przepuście zostały popękane kamienie, dwa wyloty i za mało ludzi, żeby od razu przebudować całość. Korzenie trzymały kawałek wyższego brzegu. Sprawdzaliśmy poręcz przy każdym kursie. Wóz dalej musiał jechać objazdem.
 
@@ -121,6 +123,48 @@ Na początku maja przyjechał woźnica, który miał odebrać drewno zza przepus
 — Gdybyś w połowie drogi potrzebował ściągnąć kogoś do pomocy.
 
 Złożył kartkę tak, że krótsza kreska została na wierzchu. Poprosiłem go, żeby w drodze powrotnej zaznaczył, gdzie musiał zawracać.
+
+## Trzy ruchy
+
+Początek maja, 12 ET · dom Mary, Korzenna Przystań, Verdan
+
+Mara zaprosiła mnie na kolację przed wyjazdem. Przyniosłem chleb, jeszcze ciepły w środku. Pokroiła go nierówno i dała mi większą piętkę, bo wiedziała, że ją lubię. Powiedziałem jej o tym wiele lat temu, podczas pierwszej wspólnej pracy. Zapamiętała, choć wtedy nie zapamiętałem nawet, jak ma na imię.
+
+Po jedzeniu odsunęła miski i ułożyła na stole cztery kamyki. Pomiędzy nimi położyła sznurek w kształcie zakrętu.
+
+— Masz przeprowadzić ten guzik od okna do drzwi. Nie dotykaj kamyków, nie przechodź przez sznurek. Trzy ruchy.
+
+— A co jest ruchem?
+
+— Przesunięcie guzika. Możesz go podnieść, ale nie wolno ci przenieść go nad przeszkodą.
+
+Pochyliłem się nad stołem. Spróbowałem przy brzegu, potem między dwoma kamykami. Za każdym razem potrzebowałem czterech ruchów. Mara siedziała z rękami na kolanach, a ja jeszcze raz liczyłem zakręty.
+
+— Nie patrz tak na ten guzik — powiedziała. — On ci nic nie zrobił.
+
+— Dałaś mu więcej miejsca przy oknie.
+
+— Dałam tyle samo. Sprawdź.
+
+Przyłożyłem palec. Miała rację. W końcu popchnąłem guzik zbyt mocno i wpadł pod miskę. Mara uniosła ją i pokazała mi drogę, której nie zauważyłem: skraj stołu za moim łokciem. Wystarczyło raz obrócić guzik na rogu i prowadzić dalej przy krawędzi. Trzy ruchy.
+
+— Chcę jeszcze raz — powiedziałem.
+
+— Już widziałeś rozwiązanie.
+
+— Więc teraz ja ułożę.
+
+Zamieniliśmy się miejscami. Zablokowałem róg, zostawiając wąskie przejście między kamykami. Mara obejrzała stół z obu stron i rozwiązała zadanie w dwóch ruchach. Tak ustawiłem sznurek, że jego końce nie stykały się ze sobą. Wystarczyło przez nie przejść.
+
+Roześmiałem się dopiero wtedy, gdy pokazała mi to palcem. Poczułem też ukłucie złości: chciałem, żeby nad moją zagadką posiedziała równie długo jak ja nad jej. Przesunąłem sznurek, żeby zamknąć szczelinę, ale Mara przykryła go dłonią.
+
+— Teraz już za późno poprawiać.
+
+— W Val Meris nie będę miał ciebie, żebyś mi znalazła brakujący zakręt.
+
+— Za to będziesz miał innych ludzi. I nie musisz zawsze czekać, aż cię ograją, żeby ich posłuchać.
+
+Przyjąłem zakład, że po powrocie dam jej zadanie, którego nie rozwiąże przed końcem kolacji. Stawką była moja ulubiona piętka. Kiedy wyszedłem, Mara zapukała w szybę i pokazała mi guzik. Zostawiłem go na stole. Schowała go do kieszeni; miał czekać na rewanż.
 
 ## Bez własnej mapy
 

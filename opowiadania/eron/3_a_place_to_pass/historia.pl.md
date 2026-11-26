@@ -18,7 +18,7 @@ Kiran podeszła bliżej, a ja za nią. Spod muru widzieliśmy, że można przej�
 
 — Tędy chyba wolno nam wrócić, ale zapytajmy przed próbą.
 
-Ćwiczenie polegało na przeniesieniu dwóch pojemników z zagłębienia wyżej, do oznaczonego miejsca. Na krótszej drodze miały spadać miękkie kule. Jeśli zostawiłyby ślad na oznaczeniu ładunku, trzeba było wrócić z nim na początek. W dłuższym przejściu ustawiono drewniane poprzeczki. Mogliśmy zmieniać trasę i raz odstawić ładunek na oznaczonym stanowisku.
+Dzisiejsze ćwiczenie przygotowywało do ocenianego zadania następnego dnia. Polegało na przeniesieniu dwóch pojemników z zagłębienia wyżej, do oznaczonego miejsca. Na krótszej drodze miały spadać miękkie kule. Jeśli zostawiłyby ślad na oznaczeniu ładunku, trzeba było wrócić z nim na początek. W dłuższym przejściu ustawiono drewniane poprzeczki. Mogliśmy zmieniać trasę i raz odstawić ładunek na oznaczonym stanowisku.
 
 Rokan przyprowadził kamieniozęba. Nazwał go Krzemień. Zwierzę miało pancerz, pod którym mogło się schować, a na placu spadały miękkie kule. Pomyślałem, że jeśli przejdę blisko ściany i opuszczę pojemnik nisko, Krzemień osłoni go z drugiej strony. Rokan zapytał, czy mogę iść przy zadzie zwierzęcia. Chciał widzieć, ile miejsca zostaje między moją stopą a jego łapą. Zgodziłem się. Podczas robót nikt nie powinien musieć zgadywać, czy depczę tuż za nim.
 
@@ -54,7 +54,7 @@ W drodze do kwatery spotkałem pisarza ze stołu przyjmującego uwagi. Niósł d
 
 31 maja, 12 ET · dziedziniec ćwiczebny w Val Meris
 
-Rano jeden ze stojaków stał o przęsło bliżej początku. Kiran poznała go po białej kresce. Obejrzeliśmy obie drogi od startu, a potem zapytałem Rokana, czy po pierwszym dzwonku zaczynamy krótszą. Skinął głową. Ustaliliśmy, że wezmę pierwszy pojemnik, Rokan przeprowadzi Krzemienia do środkowej zatoki, a Kiran sprawdzi dłuższą drogę.
+Tego dnia sędzia miał ocenić nasze zadanie. Rano jeden ze stojaków stał o przęsło bliżej początku. Kiran poznała go po białej kresce. Obejrzeliśmy obie drogi od startu, a potem zapytałem Rokana, czy po pierwszym dzwonku zaczynamy krótszą. Skinął głową. Ustaliliśmy, że wezmę pierwszy pojemnik, Rokan przeprowadzi Krzemienia do środkowej zatoki, a Kiran sprawdzi dłuższą drogę.
 
 Po dzwonku Krzemień przeszedł z nami pierwszy zakręt. Przy drugim zatrzymał się przy małym drewnianym kółku. Podniosłem pojemnik nad stopniem. Usłyszałem stuk z góry i przycisnąłem ładunek do ściany. Dwie kule minęły mój but. Trzecia odbiła się i trafiła w bok Krzemienia. Skulił się przy kółku.
 
@@ -82,7 +82,7 @@ Spojrzałem na otwór. Wystarczyłoby się schylić, ale nie wiedzielibyśmy, cz
 
 Sędzia zagrodził odcinek przy stojaku i obejrzał z nami linię na podłodze. Murek biegł w granicach trasy, z dala od uszkodzonej podpory. Kiran przeszła pod daszkiem i zawołała. Przesunąłem pojemnik po kamieniu, aż dalej nie mogłem sięgnąć. Rokan oparł przedramię o kant i dosunął ładunek drugą ręką. Puścił dopiero, kiedy Kiran go trzymała.
 
-Zadzwoniło. Kiran zrobiła jeszcze trzy kroki, zanim zatrzymaliśmy ją głosem. Do oznaczonego pola zabrakło jej kilku kroków. Pomogłem Rokanowi odejść od krawędzi, trzymając go za łokieć. Potem poszedłem do Kiran. Na znak sędziego odstawiliśmy pojemnik. Rokan usiadł na ławie. Sędzia coś zapisał, lecz nie widziałem co.
+Zadzwoniło. Kiran zrobiła jeszcze trzy kroki, zanim zatrzymaliśmy ją głosem. Do oznaczonego pola zabrakło jej kilku kroków. Pomogłem Rokanowi odejść od krawędzi, trzymając go za łokieć. Potem poszedłem do Kiran. Na znak sędziego odstawiliśmy pojemnik. Patrzyłem na kilka kroków, których zabrakło Kiran. Chciałem ukończyć tę próbę w czasie; jeszcze wczoraj wyobrażałem sobie, jak po dzwonku odstawiamy oba ładunki. Teraz miałem ochotę wrócić do początku i przejść wszystko raz jeszcze, szybciej. Rokan usiadł na ławie. Sędzia coś zapisał, lecz nie widziałem co.
 
 ## Woda i kartka
 
@@ -96,7 +96,7 @@ Przyniosłem Rokanowi kubek wody. Kiedy po niego sięgnął, przez chwilę trzym
 
 — Myślałem, że szukasz miejsca na belkę. Mogłem wysłać Kiran pod daszek, kiedy jeszcze tam klęczałeś.
 
-Podniosłem kubek do ust. Woda była ciepła. Chciałem mu powiedzieć, że przez czekanie zabrakło nam czasu. Sam też przecież mogłem zapytać, co znalazł pod ręką. Zamiast tego oddałem kubek na ławę.
+Rokan napił się i oddał mi kubek. Podniosłem ten sam kubek do ust. Woda była ciepła. Chciałem mu powiedzieć, że przez czekanie zabrakło nam czasu. Sam też przecież mogłem zapytać, co znalazł pod ręką. Zamiast tego oddałem kubek na ławę.
 
 Rokan poprosił, żebym przeszedł z nim pod daszkiem. Kiran już tam czekała. Pokazała, gdzie położyła ręce, zanim Rokan dosunął ładunek. Sięgała dalej, niż sądził. Wyjąłem wczorajszy szkic i dorysowałem, którędy podaliśmy pojemnik. Przejście pod daszkiem miałem już na papierze.
 
@@ -107,6 +107,38 @@ Rokan poprosił, żebym przeszedł z nim pod daszkiem. Kiran już tam czekała. 
 Zgodziłem się. Kiran wzięła ode mnie ołówek i dopisała przy stojaku, że przednie oparcie trzeba obejrzeć także od strony kamienia. Nie próbowała odtworzyć wyniku zadania ani dopisać nam brakujących kroków. Złożyłem szkic i schowałem go do kieszeni.
 
 Przed kolejnym zadaniem nie znałem wyniku ani tego, kto przejdzie kwalifikacje. Wiedziałem, że mamy jeszcze pracować razem przez część dnia. Poszedłem z nimi zobaczyć następny plac. Po drodze Kiran przypomniała mi, żebym zabrał ołówek, który zostawiłem przy stojaku.
+
+## Żywy zaczep
+
+31 maja, 12 ET · plac kwalifikacyjny w Val Meris
+
+Na następnym placu sędzia wyjaśniła zasady osobnego, ocenianego zadania. Trzeba było przenieść płytką skrzynię przez przejście osłonięte ruchomą płachtą. Za płachtą stała donica z wierzbą, której długie, żywe pędy przewleczono przez kratkę. Mogliśmy korzystać z rośliny, ale nie wolno było jej wyrywać ani ciąć. Płachtę należało po przejściu opuścić.
+
+Prowadząca dała nam chwilę na obejrzenie miejsca. U góry płachta była zaczepiona na poprzeczce, a jej dolny brzeg obciążono listwą. Jedna osoba mogła go unieść, ale wtedy zostawałyby dwie do niesienia skrzyni. Kiran spróbowała przytrzymać listwę na barku. Dała radę, lecz przy skręcie musiała wyjść spod osłony, żeby nie zaczepić o framugę. Potrzebowaliśmy trzeciej osoby po tamtej stronie.
+
+Zobaczyłem pędy za kratką. Jeden dorósł do drewnianego ucha przy framudze, drugi był za krótki. Palcami odsunąłem liście i sprawdziłem, czy dłuższy jest cały. Zaproponowałem, że poprowadzę go przez ucho i wokół końca listwy, żeby przytrzymał płachtę, kiedy wszyscy przejdziemy.
+
+— A potem? — zapytał Rokan.
+
+— Z drugiej strony odwinę pęd i opuścimy ją rękami.
+
+Kiran spojrzała na roślinę, a potem na listwę.
+
+— Najpierw sprawdźmy bez skrzyni. Jeśli się zsunie, chcę mieć wolne ręce.
+
+Rokan uniósł listwę. Położyłem dłonie przy kratce i skupiłem się na dłuższym pędzie. Powoli skierowałem jego końcówkę przez ucho w drewnie. Pęd owinął się wokół listwy, ale kiedy Rokan ostrożnie ją puścił, zsunął się przy pierwszym szarpnięciu płachty. Rokan zdążył złapać opadający koniec. Pęd nie sięgał dalej, a cienka końcówka zaczęła się zaginać.
+
+— Mógłbyś go mocniej zacisnąć? — zapytała Kiran.
+
+Pomyślałem o zwiędłych liściach przy przepuście. Przytrzymałem pęd dłonią. Za pierwszym razem owinąłem go tylko wokół gładkiego drewna. Na końcu listwy był kołek, który blokował obciążenie przed zsunięciem. Poprosiłem Rokana, żeby jeszcze raz podniósł płachtę, a Kiran wskazała mi, z której strony dosięgnie do kołka po przejściu. Skierowałem pęd pod kołek i dopiero stamtąd wokół listwy. Tym razem wystarczyło mu długości bez mocnego skręcania.
+
+Rokan puszczał listwę powoli. Płachta drgnęła i zawisła nad przejściem. Kiran spróbowała pociągnąć ją za brzeg. Pęd utrzymał drewno, lecz kratka poruszyła się w donicy.
+
+— To nie jest do trzymania człowieka — powiedziałem. — Nie opierajmy się o nią i nie zahaczajmy skrzynią.
+
+Po sygnale Kiran szła pierwsza, Rokan niósł skrzynię z drugiej strony, a ja asekurowałem jej koniec przy framudze. Gdybym miał przez cały czas trzymać płachtę ręką, nie przeszedłbym jednocześnie z nimi. Tak zdołaliśmy wejść we trójkę; przy skręcie przejąłem ciężar od Kiran i zrobiłem jej miejsce. Nie dotknęliśmy listwy.
+
+Po drugiej stronie sięgnąłem do kołka. Rozluźniłem pęd magią, a Kiran z Rokanem opuścili płachtę. Na jednym liściu zostało zagięcie. Pokazałem je sędzi. Dotknęła łodygi i zapisała coś na swojej karcie. Nie powiedziała, ile punktów dostaniemy. Byłem zadowolony, że zdążyliśmy przed sygnałem, choć pamiętałem pierwszy, nieudany zaczep. Kiran zauważyła kołek, bo spytała o zdjęcie płachty, a Rokan powstrzymał listwę przed upadkiem. Kiedy chciałem im powiedzieć, że następnym razem spróbuję jeszcze szybciej, najpierw zapytałem, co oni zmieniliby w przejściu.
 
 ## Wiadomość do doliny
 
