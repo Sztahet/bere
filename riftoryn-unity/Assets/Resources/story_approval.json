@@ -507,6 +507,14 @@
     {
       "folder": "EronDraft1",
       "draft": true
+    },
+    {
+      "folder": "EronDraft2",
+      "draft": true
+    },
+    {
+      "folder": "EronDraft3",
+      "draft": true
     }
   ]
 }

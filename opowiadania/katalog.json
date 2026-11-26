@@ -1138,12 +1138,24 @@
     "name": "Eron",
     "region": "Verdan",
     "portrait": "eron-nature-specialist-v2.png",
-    "series": null,
+    "series": "Drogi, którymi wracamy",
     "stories": [
       {
         "id": "przez-cudze-pole",
         "folder": "opowiadania/eron/1_through_someones_field",
         "unity": "EronDraft1",
+        "draft": true
+      },
+      {
+        "id": "droga-po-drugiej-stronie",
+        "folder": "opowiadania/eron/2_the_road_on_the_other_side",
+        "unity": "EronDraft2",
+        "draft": true
+      },
+      {
+        "id": "miejsce-na-przejscie",
+        "folder": "opowiadania/eron/3_a_place_to_pass",
+        "unity": "EronDraft3",
         "draft": true
       }
     ]

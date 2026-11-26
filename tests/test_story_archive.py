@@ -12,8 +12,7 @@ class StoryArchiveTests(unittest.TestCase):
     def test_catalogued_stories_are_readable(self):
         for hero_id, _, _, _, _, entries in CATALOG:
             with self.subTest(hero=hero_id):
-                # Eron currently has one draft, not a finished trilogy.
-                self.assertEqual(len(entries), 1 if hero_id == "eron" else 3)
+                self.assertEqual(len(entries), 3)
                 self.assertEqual(len({entry[0] for entry in entries}), len(entries))
                 for entry in entries:
                     story = load_story(*entry)
