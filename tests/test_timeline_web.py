@@ -3,10 +3,31 @@ import re
 import unittest
 from pathlib import Path
 
-from scripts.build_timeline_web import WEB_DATA, parse_world_history, render
+from scripts.build_timeline_web import WEB_DATA, era_sort, parse_world_history, render
 
 
 class TimelineWebTests(unittest.TestCase):
+    def test_calendar_dates_sort_in_chronological_order(self):
+        self.assertLess(era_sort("Wrzesień, 11 ET"), era_sort("Październik, 11 ET"))
+        self.assertLess(era_sort("Październik, 11 ET"), era_sort("Grudzień, 11 ET"))
+        self.assertLess(era_sort("Grudzień, 11 ET"), era_sort("Koniec zimy, 11/12 ET"))
+        self.assertLess(era_sort("Schyłek zimy, 11/12 ET"), era_sort("Pierwsza odwilż, 12 ET"))
+        self.assertLess(era_sort("15–23 maja, 12 ET"), era_sort("20 maja, 12 ET"))
+        self.assertLess(era_sort("4 PT"), era_sort("3 PT"))
+
+    def test_catalogued_chapters_appear_on_timeline(self):
+        root = Path(__file__).resolve().parents[1]
+        manifest = json.loads((root / "opowiadania/katalog.json").read_text(encoding="utf-8"))
+        data = WEB_DATA.read_text(encoding="utf-8")
+        prefix = "const riftorynTimeline = "
+        events = json.loads(next(line[len(prefix):].rstrip(";") for line in data.splitlines() if line.startswith(prefix)))
+        for hero in manifest:
+            for story in hero["stories"]:
+                path = root / story["folder"] / "historia.pl.md"
+                chapters = re.findall(r"(?m)^## (.+)$", path.read_text(encoding="utf-8"))
+                actual = [e["title"] for e in events if e.get("source") == path.relative_to(root).as_posix()]
+                self.assertCountEqual(chapters, actual, story["folder"])
+
     def test_timeline_data_regenerates_without_changes(self):
         before = WEB_DATA.read_text(encoding="utf-8")
         count = render()

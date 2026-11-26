@@ -18,23 +18,30 @@ story_by_folder = {
 
 
 def era_sort(date_text):
-    era_match = re.search(r"(PT|ET)", date_text)
-    era = era_match.group(1) if era_match else "ET"
-    range_match = re.search(r"(\d+)\s*[–-]\s*(\d+)\s+(PT|ET)", date_text)
-    year_match = re.search(r"(\d+)\s+(PT|ET)\b", date_text)
-    if range_match:
+    date_text = date_text.lower()
+    cross_year = re.search(r"(\d+)\s*/\s*(\d+)\s+(pt|et)\b", date_text)
+    era_match = re.search(r"(pt|et)", date_text)
+    era = era_match.group(1).upper() if era_match else "ET"
+    range_match = re.search(r"(\d+)\s*[–-]\s*(\d+)\s+(pt|et)", date_text)
+    year_match = re.search(r"(\d+)\s+(pt|et)\b", date_text)
+    if cross_year:
+        year = int(cross_year.group(1))
+        if any(label in date_text for label in ("koniec zimy", "schyłek zimy")):
+            year = int(cross_year.group(2))
+        era = cross_year.group(3).upper()
+    elif range_match:
         year = int(range_match.group(1))
-        era = range_match.group(3)
+        era = range_match.group(3).upper()
     elif year_match:
         year = int(year_match.group(1))
-        era = year_match.group(2)
+        era = year_match.group(2).upper()
     else:
         year = 0
 
     month = 1
     day = 1
     month_match = re.search(
-        r"(\d+)\s+(stycznia|lutego|marca|kwietnia|maja|czerwca|lipca|sierpnia|"
+        r"(\d+)(?:\s*[–-]\s*\d+)?\s+(stycznia|lutego|marca|kwietnia|maja|czerwca|lipca|sierpnia|"
         r"września|października|listopada|grudnia)",
         date_text,
     )
@@ -51,17 +58,21 @@ def era_sort(date_text):
             ("koniec grudnia", 12), ("koniec listopada", 11), ("koniec października", 10),
             ("koniec września", 9), ("koniec sierpnia", 8), ("koniec lipca", 7),
             ("koniec czerwca", 6), ("koniec maja", 5), ("koniec kwietnia", 4),
-            ("koniec marca", 3), ("koniec zimy", 12), ("pierwsza odwilż", 3),
+            ("koniec marca", 3), ("koniec zimy", 2 if cross_year else 12),
+            ("schyłek zimy", 2 if cross_year else 12), ("pierwsza odwilż", 3),
             ("środek zimy", 12), ("późna jesień", 11), ("wiosna", 4),
             ("lato", 7), ("jesień", 10), ("zima", 12), ("marzec", 3),
             ("kwiecień", 4), ("maj", 5), ("czerwiec", 6),
+            ("styczeń", 1), ("luty", 2), ("lipiec", 7), ("sierpień", 8),
+            ("wrzesień", 9), ("październik", 10), ("listopad", 11), ("grudzień", 12),
+            ("maja", 5), ("lipca", 7),
         ]
         for label, season_month in season_months:
             if label in date_text.lower():
                 month = season_month
                 # Winter belongs to the year before the first thaw. Sort broad
                 # winter labels after scenes explicitly set in midwinter.
-                day = {"środek zimy": 15, "zima": 30, "koniec zimy": 31}.get(label, 1)
+                day = {"środek zimy": 15, "zima": 30, "koniec zimy": 28 if cross_year else 31, "schyłek zimy": 28 if cross_year else 31}.get(label, 1)
                 break
 
     if era == "PT":
@@ -183,8 +194,9 @@ def render():
 
             era_match = re.search(r"(PT|ET)", date_text)
             era = era_match.group(1) if era_match else "ET"
+            cross_year = re.search(r"\d+\s*/\s*\d+\s+(?:PT|ET)\b", date_text)
             year_match = re.search(r"(\d+)\s+(PT|ET)\b", date_text)
-            year = year_match.group(1) + " " + year_match.group(2) if year_match else era
+            year = cross_year.group(0) if cross_year else (year_match.group(1) + " " + year_match.group(2) if year_match else era)
             events.append({
                 "kind": "story",
                 "date": date_text,

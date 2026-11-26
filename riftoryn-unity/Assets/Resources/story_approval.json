@@ -503,6 +503,10 @@
     {
       "folder": "EliraDraft3",
       "draft": false
+    },
+    {
+      "folder": "EronDraft1",
+      "draft": true
     }
   ]
 }

@@ -1132,5 +1132,20 @@
         "draft": false
       }
     ]
+  },
+  {
+    "id": "eron",
+    "name": "Eron",
+    "region": "Verdan",
+    "portrait": "eron-nature-specialist-v2.png",
+    "series": null,
+    "stories": [
+      {
+        "id": "przez-cudze-pole",
+        "folder": "opowiadania/eron/1_through_someones_field",
+        "unity": "EronDraft1",
+        "draft": true
+      }
+    ]
   }
 ]
