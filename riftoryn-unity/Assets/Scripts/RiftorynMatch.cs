@@ -244,7 +244,7 @@ public partial class RiftorynTrial
         if(matchPreview>=0&&MatchAvailable(matchPreview))
         {
             var data=MatchHero(matchPreview);
-            GUI.Label(new Rect(300,645,1000,34),"Wybór: "+HeroNames[matchPreview]+(data==null?"":" · "+data.role+" · "+data.element)+$" · HP {MaxHp[matchPreview]} · {Speed[matchPreview]:F1} m/s",heading);
+            GUI.Label(new Rect(300,645,1000,34),"Wybór: "+HeroNames[matchPreview]+(data==null?"":" · "+data.role+" · "+data.element)+$" · HP {MaxHp[matchPreview]} · {Speed[matchPreview]:F1} m/s"+(IsSharedHero(matchPreview)?" · Q / E / R":" · tylko Q (E / R w przygotowaniu)"),heading);
         }
         else if(!string.IsNullOrEmpty(matchAiExplanation))
             GUI.Label(new Rect(300,645,1000,34),"Ostatni wybór AI: "+matchAiExplanation,heading);

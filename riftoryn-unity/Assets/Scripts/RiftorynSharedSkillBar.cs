@@ -11,7 +11,7 @@ public partial class RiftorynTrial
     bool loadedSkillIcons;
 
     float SharedSkillTileSize()=>
-        UsesUnifiedRules&&phase==Phase.Playing&&IsRunning(player)&&IsSharedHero(player.hero)
+        UsesUnifiedRules&&phase==Phase.Playing&&IsRunning(player)
             ?Mathf.Clamp(Mathf.Round(Mathf.Min(Screen.width,Screen.height)*.09f),36f,64f)
             :0f;
 
@@ -23,6 +23,19 @@ public partial class RiftorynTrial
         KonevaHero=>3,
         _=>0
     };
+
+    // The original atlas has four complete kits. Reuse its existing symbols for
+    // the two newer kits and for the older, Q-only prototypes until they have art.
+    static (int row,int column) SkillIcon(int hero,int slot)
+    {
+        if(hero==MikoHero) return slot switch { 0=>(2,1), 1=>(0,1), _=>(2,0) };
+        if(hero==SarnaHero) return slot switch { 0=>(2,2), 1=>(1,2), _=>(1,0) };
+        if(!IsSharedHero(hero)) return hero switch
+        {
+            1=>(0,1), 4=>(1,0), 5=>(1,2), 9=>(1,0), 10=>(1,1), _=>(0,0)
+        };
+        return (SharedSkillIconRow(hero),slot);
+    }
 
     static Color SharedSkillAccent(int hero)=>hero switch
     {
@@ -61,29 +74,36 @@ public partial class RiftorynTrial
         for(int slot=0;slot<SharedActiveSkillCount;slot++)
         {
             Rect bounds=new(left+slot*(tile+SkillTileGap),top,tile,tile);
-            float remaining=slot==0?player.cooldown:SharedCooldownLeft(player,slot==2);
+            bool available=slot==0||IsSharedHero(player.hero);
+            float remaining=slot==0?player.cooldown:available?SharedCooldownLeft(player,slot==2):0f;
             float duration=slot==0?Cooldowns[player.hero]:slot==1?cooldowns.secondary:cooldowns.ultimate;
-            DrawSharedSkillTile(bounds,accent,slot,remaining,duration);
+            DrawSharedSkillTile(bounds,accent,slot,remaining,duration,available);
             if(!mouseCaptured&&bounds.Contains(Event.current.mousePosition)) hovered=slot;
         }
         if(hovered>=0) DrawSharedSkillTooltip(hovered,top);
     }
 
-    void DrawSharedSkillTile(Rect bounds,Color accent,int slot,float remaining,float duration)
+    void DrawSharedSkillTile(Rect bounds,Color accent,int slot,float remaining,float duration,bool available)
     {
-        bool ready=remaining<=0;
+        bool ready=available&&remaining<=0;
         HudFill(bounds,ready?Color.Lerp(SkillTrayColor,accent,.73f):new Color(.24f,.21f,.30f));
         Rect inset=new(bounds.x+2,bounds.y+2,bounds.width-4,bounds.height-4);
         HudFill(inset,Color.Lerp(new Color(.075f,.062f,.105f),accent,.14f));
-        if(sharedSkillIcons&&player.hero!=MikoHero&&player.hero!=SarnaHero)
+        if(sharedSkillIcons&&available)
         {
             float columnWidth=1f/SharedActiveSkillCount, rowHeight=1f/SharedSkillIconRows;
-            int row=SharedSkillIconRow(player.hero);
+            var icon=SkillIcon(player.hero,slot);
             GUI.DrawTextureWithTexCoords(inset,sharedSkillIcons,
-                new Rect(slot*columnWidth,1f-(row+1)*rowHeight,columnWidth,rowHeight),true);
+                new Rect(icon.column*columnWidth,1f-(icon.row+1)*rowHeight,columnWidth,rowHeight),true);
         }
 
-        if(!ready)
+        if(!available)
+        {
+            HudFill(inset,new Color(.035f,.026f,.052f,.8f));
+            GUI.Label(inset,"—",skillTimerStyle);
+        }
+
+        if(available&&!ready)
         {
             float fraction=Mathf.Clamp01(remaining/duration);
             HudFill(inset,new Color(.035f,.026f,.052f,.20f));
@@ -99,12 +119,14 @@ public partial class RiftorynTrial
         Rect key=new(bounds.xMax-keyWidth-3,bounds.yMax-17,keyWidth,15);
         HudFill(key,SkillTrayColor);
         GUI.Label(key,SharedSkillKeys[slot],skillKeyStyle);
-        if(ready) HudFill(new Rect(inset.x,inset.y,inset.width,2),accent);
+        if(ready&&available) HudFill(new Rect(inset.x,inset.y,inset.width,2),accent);
     }
 
     void DrawSharedSkillTooltip(int slot,float top)
     {
-        var info=SharedSkillInfo(player.hero,slot);
+        (string name,string description) info=IsSharedHero(player.hero)?SharedSkillInfo(player.hero,slot):slot==0
+            ?(RiftorynCodexData.Text("Zdolność testowa","Prototype ability"),RiftorynCodexData.Text("Dotychczasowa zdolność tej postaci.","This hero's existing prototype ability."))
+            :(RiftorynCodexData.Text("W przygotowaniu","In development"),RiftorynCodexData.Text("Ta umiejętność nie jest jeszcze dostępna w Unity.","This ability is not available in Unity yet."));
         float width=Mathf.Min(316f,Screen.width-24f);
         float textHeight=Mathf.Max(28f,small.CalcHeight(new GUIContent(info.description),width-24f));
         float height=textHeight+42f;
