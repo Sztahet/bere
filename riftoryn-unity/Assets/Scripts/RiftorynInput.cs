@@ -11,6 +11,9 @@ static class RiftorynInput
     static Mouse Pointer => Mouse.current;
     public static bool PointerPressed => Pointer != null && Pointer.leftButton.wasPressedThisFrame;
     public static Vector2 PointerPosition => Pointer != null ? Pointer.position.ReadValue() : Vector2.zero;
+    public static Vector2 PointerDelta => Pointer != null ? Pointer.delta.ReadValue() : Vector2.zero;
+    public static bool PointerPan => Pointer != null && Pointer.rightButton.isPressed;
+    public static float PointerScroll => Pointer != null ? Pointer.scroll.ReadValue().y / 120f : 0f;
     // The legacy Mouse X/Y axes used sensitivity 0.1.
     public static Vector2 Look => Pointer != null ? Pointer.delta.ReadValue() * .1f : Vector2.zero;
     public static bool Escape => Keys != null && Keys.escapeKey.wasPressedThisFrame;
@@ -39,6 +42,9 @@ static class RiftorynInput
 #else
     public static bool PointerPressed => Input.GetMouseButtonDown(0);
     public static Vector2 PointerPosition => Input.mousePosition;
+    public static Vector2 PointerDelta => new Vector2(Input.GetAxis("Mouse X"),Input.GetAxis("Mouse Y"));
+    public static bool PointerPan => Input.GetMouseButton(1);
+    public static float PointerScroll => Input.mouseScrollDelta.y;
     public static Vector2 Look => new Vector2(Input.GetAxis("Mouse X"),Input.GetAxis("Mouse Y"));
     public static bool Escape => Input.GetKeyDown(KeyCode.Escape);
     public static bool Ability => Input.GetKeyDown(KeyCode.Q);

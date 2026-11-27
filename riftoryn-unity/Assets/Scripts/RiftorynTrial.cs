@@ -162,7 +162,7 @@ public partial class RiftorynTrial : MonoBehaviour
         Quad(new Vector3(0,.10f,-r),new Vector3(0,.10f,r),new Vector3(0,2.65f,r),new Vector3(0,2.65f,-r));
         var mesh=new Mesh{name="Warstwy mgły"};mesh.SetVertices(vertices);mesh.SetUVs(0,uv);mesh.SetTriangles(triangles,0);mesh.RecalculateBounds();return mesh;
     }
-    void OnDestroy(){ClearHeatBarrier();if(lan)lan.Stop();DisposeShotVisuals();if(healingRing&&healingRing.material)Destroy(healingRing.material);if(fogMesh)Destroy(fogMesh);if(fogMaterial)Destroy(fogMaterial);foreach(var material in worldMaterials.Values)if(material)Destroy(material);worldMaterials.Clear();foreach(var material in towerMaterials.Values)if(material)Destroy(material);towerMaterials.Clear();if(wallTexture)Destroy(wallTexture);if(floorTexture)Destroy(floorTexture);if(floorMaterial)Destroy(floorMaterial);}
+    void OnDestroy(){DisposeDefenseEditor();ClearHeatBarrier();if(lan)lan.Stop();DisposeShotVisuals();if(healingRing&&healingRing.material)Destroy(healingRing.material);if(fogMesh)Destroy(fogMesh);if(fogMaterial)Destroy(fogMaterial);foreach(var material in worldMaterials.Values)if(material)Destroy(material);worldMaterials.Clear();foreach(var material in towerMaterials.Values)if(material)Destroy(material);towerMaterials.Clear();if(wallTexture)Destroy(wallTexture);if(floorTexture)Destroy(floorTexture);if(floorMaterial)Destroy(floorMaterial);}
     Runner MakeRunner(int h,bool bot){var go=new GameObject(bot?"Sojusznik AI":"Gracz");go.transform.SetParent(runnerRoot.transform);go.transform.position=At(0)+(bot?Vector3.right*.8f:Vector3.zero);var body=GameObject.CreatePrimitive(PrimitiveType.Capsule);body.name="Bohater";body.transform.SetParent(go.transform,false);body.transform.localPosition=Vector3.up;body.transform.localScale=new Vector3(.85f,1,.85f);body.GetComponent<Renderer>().sharedMaterial=Mat(bot?new Color(.16f,.75f,.85f):new Color(.88f,.71f,.36f));body.GetComponent<Collider>().isTrigger=true;if(h==3)AttachCharacterModel(go,body,"Characters/koneva-poc",true);else if(h==SailaHero)AttachCharacterModel(go,body,"Characters/saila-poc",true);else if(h==PyrraHero){AttachCharacterModel(go,body,"Characters/pyrra-poc",true);var follower=go.AddComponent<RiftorynSparkFollower>();follower.Initialize(go.transform);}else if(!bot&&mode==TrialMode.Training&&genericModelPreview)AttachCharacterModel(go,body,"Characters/generic-prototype",false);if(h==3){body.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.22f,.12f,.28f));var prefab=Resources.Load<GameObject>("Pets/patka");if(prefab){var pet=Instantiate(prefab,go.transform);pet.name="Patka";pet.transform.localPosition=new Vector3(0,.05f,2f);pet.transform.localRotation=Quaternion.Euler(0,180,0);pet.transform.localScale=Vector3.one*.42f;var ph=pet.AddComponent<RiftorynPetHealth>();ph.petName="Patka";ph.maxHp=ph.currentHp=50;pet.AddComponent<RiftorynPatkaPreview>();}}var r=new Runner{hero=h,obj=go,hp=MaxHp[h]};return r;}
     void AttachCharacterModel(GameObject runner,GameObject capsule,string resource,bool saila)
     {
@@ -207,7 +207,8 @@ public partial class RiftorynTrial : MonoBehaviour
         ReplaceRunners();
         for(int i=0;i<visibleFogTiles;i++) fogTiles[i].SetActive(false);
         visibleFogTiles=0;
-        foreach(var slot in slots) slot.SetActive(CustomTrainingDefense);
+        ResetDefenseEditor();
+        foreach(var slot in slots) slot.SetActive(CustomTrainingDefense&&!DefenseMode);
         if(sharedEscape) BuildSharedDefense();
         else if(!CustomTrainingDefense&&!MatchMode)
         {
@@ -270,6 +271,7 @@ public partial class RiftorynTrial : MonoBehaviour
     void Begin()
     {
         phase=Phase.Playing;
+        HideDefenseEditorPreview();
         foreach(var slot in slots) slot.SetActive(false);
         foreach(var tower in towers) tower.range.enabled=false;
         cameraRunner=player;
@@ -341,7 +343,8 @@ public partial class RiftorynTrial : MonoBehaviour
         if(phase==Phase.Setup)
         {
             if(MatchMode&&matchDraft) UpdateMatchDraft();
-            if(CustomTrainingDefense&&!briefing&&selectingHero<0&&RiftorynInput.PointerPressed&&RiftorynInput.PointerPosition.y<Screen.height-155)
+            if(DefenseMode&&!briefing&&selectingHero<0) UpdateDefenseEditor();
+            else if(CustomTrainingDefense&&!briefing&&selectingHero<0&&RiftorynInput.PointerPressed&&RiftorynInput.PointerPosition.y<Screen.height-155)
                 EditTowerAtPointer();
             return;
         }
@@ -1143,6 +1146,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(lanPanel){DrawLanPanel();return;}
         if(phase==Phase.Setup&&selectingHero>=0){DrawDraft();return;}
         if(phase==Phase.Setup&&briefing){DrawBriefing();return;}
+        if(phase==Phase.Setup&&DefenseMode){DrawDefenseEditor();return;}
         GUI.Box(new Rect(0,0,w,phase==Phase.Setup?155:sharedEscape?94:110),"");
         if(GUI.Button(new Rect(w-90,6,75,28),RiftorynL10n.CurrentCode+" ⇄")) RiftorynL10n.Toggle();
         string modeTitle=mode switch
