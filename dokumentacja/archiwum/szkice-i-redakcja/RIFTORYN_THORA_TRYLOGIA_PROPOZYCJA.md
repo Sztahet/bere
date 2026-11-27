@@ -2,7 +2,7 @@
 
 *Szkic trylogii z odsyłaczem do wspólnej sceny wyboru*
 
-Robocze opowiadania można przeczytać w kolejności [„Ostatni korzeń”](opowiadania/thora/1_the_last_root/historia.pl.md), [„Dzień, który miał być spokojny”](opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md), [„Wystarczy”](opowiadania/thora/3_enough/historia.pl.md). Wersja „Ostatniego korzenia” powstała na podstawie komiksu i biografii.
+Robocze opowiadania można przeczytać w kolejności [„Ostatni korzeń”](../../../opowiadania/thora/1_the_last_root/historia.pl.md), [„Dzień, który miał być spokojny”](../../../opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md), [„Wystarczy”](../../../opowiadania/thora/3_enough/historia.pl.md). Wersja „Ostatniego korzenia” powstała na podstawie komiksu i biografii.
 
 ## Thora i Verdan
 
@@ -12,7 +12,7 @@ W Verdan szanuje się rytm upraw i niewielkie potrzeby mieszkańców. Dni spokoj
 
 Proponowany obszar rozwoju Thory to zaufanie do tego, jak inni wykonają wspólną pracę. Dobrze uczy się na powtórzeniach. Podczas ćwiczeń może przyjąć, że obcy zawodnik będzie tak samo rozumiał polecenie jak ludzie, z którymi przez lata naprawiała przeprawy. Kiedy się pomyli, ma powód do złości i czas, żeby zmienić metodę. Jej szybka reakcja w zagrożeniu wynika wprost z historii powodzi.
 
-Proponowana specjalizacja magii to umacnianie istniejącej roślinności. Thora wyczuwa, które korzenie jeszcze trzymają się brzegu, i może je przez chwilę wzmocnić. Przygotowane gałęzie i korzenie mogą wesprzeć jej osłonę. Na moście daje to czas ostatnim osobom, które wciąż idą na drugi brzeg. Wyszarpane z ziemi korzenie nie utrzymają kamieni samą siłą jej woli. Szczegółowe zasady mocy wymagają decyzji autora. [Kanon Verdan](world_history.md#verdan--tradycje-natury) · [Biografia Thory](riftoryn-unity/Assets/Resources/codex.json)
+Proponowana specjalizacja magii to umacnianie istniejącej roślinności. Thora wyczuwa, które korzenie jeszcze trzymają się brzegu, i może je przez chwilę wzmocnić. Przygotowane gałęzie i korzenie mogą wesprzeć jej osłonę. Na moście daje to czas ostatnim osobom, które wciąż idą na drugi brzeg. Wyszarpane z ziemi korzenie nie utrzymają kamieni samą siłą jej woli. Szczegółowe zasady mocy wymagają decyzji autora. [Kanon Verdan](../../../world_history.md#verdan--tradycje-natury) · [Biografia Thory](../../../riftoryn-unity/Assets/Resources/codex.json)
 
 ## I. Ostatni korzeń
 
@@ -22,15 +22,15 @@ Repozytorium zawiera komiks „Korzenie ostoi” i biografię. Pełnego rękopis
 2. Woda przerywa wał. Thora kieruje mieszkańców na most i zostaje po stronie nurtu. Pilnuje przede wszystkim tych, którzy idą najwolniej. Kamienie pod naporem zaczynają się ruszać, a korzenie wzmacniają jej osłonę na tyle długo, by ostatnia osoba przeszła.
 3. Brom pomaga zabezpieczyć podmyte przejście. Przy odbudowie widać udział innych ludzi, od opatrunków po drewno i rowy. Thora sadzi z dzieckiem pierwsze drzewko na odzyskanej ziemi. Ostatni obraz jest mały i konkretny. Po opadnięciu wody trzeba sprawdzać, czy świeżo posadzona roślina ma się czego trzymać.
 
-Do sprawdzenia z pełnym rękopisem należy także związek tej powodzi z wydarzeniami Liory, Eliry i Nivy datowanymi w kanonie na 9 ET. [Komiks Thory](riftoryn-unity/Assets/Resources/comic_stories.json) · [Chronologia bohaterów](world_history.md#bohaterowie-na-drodze-do-igrzysk)
+Do sprawdzenia z pełnym rękopisem należy także związek tej powodzi z wydarzeniami Liory, Eliry i Nivy datowanymi w kanonie na 9 ET. [Komiks Thory](../../../riftoryn-unity/Assets/Resources/comic_stories.json) · [Chronologia bohaterów](../../../world_history.md#bohaterowie-na-drodze-do-igrzysk)
 
 ## II. Dzień, który miał być spokojny
 
-1. Starszyzna wyznacza Thorę, Liorę, Erona i Anę na jednym posiedzeniu w Korzennej Przystani. Thora przychodzi z pracy przy podmytym rowie. Po spotkaniu pokazuje starszej trzy pola pod wałem i jeszcze tego dnia rusza w drogę. Pozostali przekazują obowiązki we własnym tempie. [Wspólna scena z perspektywy Thory](RIFTORYN_VERDAN_WYBOR_KANDYDATOW_PROPOZYCJA.md#thora).
+1. Starszyzna wyznacza Thorę, Liorę, Erona i Anę na jednym posiedzeniu w Korzennej Przystani. Thora przychodzi z pracy przy podmytym rowie. Po spotkaniu pokazuje starszej trzy pola pod wałem i jeszcze tego dnia rusza w drogę. Pozostali przekazują obowiązki we własnym tempie. [Wspólna scena z perspektywy Thory](../../../RIFTORYN_VERDAN_WYBOR_KANDYDATOW_PROPOZYCJA.md#thora).
 2. Po wyborze wyjeżdża do Val Meris. Roboczo można przyjąć przyjazd pod koniec marca 12 ET, około dwóch miesięcy przed zawodami z Piecariusem. Wyznaczenie przez starszyznę otwiera przygotowania. Formalne kwalifikacje zaczynają się 29 maja. W tych dwóch miesiącach wystarczą dwie lub trzy sceny pracy, w których Thora rzeczywiście coś zmienia w treningu. Za pierwszym razem patrzy na to, jak wieża trafia w ładunek. Później próbuje osłaniać dwie osoby, które poruszają się w innym tempie. Zaczyna używać krótkich poleceń, zdolnych przebić się przez hałas.
 3. **28 maja, miejscowe zawody.** Aktualny tekst Piecariusa nazywa rozdział „Nagroda”. Losuje się trzyosobowe składy. Thora kładzie nacisk na kierunek ruchu i sprawdza pętlę przy skrzyni. Uzgodnienie brzmi „Jak powiem «w lewo», idziesz w lewo. Umiemy tak?”. Piecarius odpowiada o cnocie cierpliwego słuchania, a Thora mówi „Zobaczymy po zakręcie”. Pod ostrzałem Piecarius obniża ogień, Thora zasłania lukę tarczą i kieruje go w lewo. Trzeci zawodnik wpada nogą w pas. Szarpnięcie Piecariusa zaciska pętlę. Thora przecina pas, Piecarius osłania oboje i pomaga zawodnikowi iść, a Thora ciągnie skrzynię. Kończą w nagradzanym miejscu. Piecarius kupuje płótno na opatrunek. Thora mówi o wodzie dla trzech pól i zadaje mu pytanie „Czy ktoś cię wysłał?”.
 
-W scenie z toru Thora może obserwować, jak samodzielna obrona Piecariusa stopniowo staje się współpracą. Z jej strony dobrym miejscem na napięcie jest moment, w którym sięga po nóż i na czas przecięcia pasa powierza mu osłonę całej trójki. Gest Thory przy mecie, kiedy dotyka jego ramienia, może wybrzmieć mocniej z jej perspektywy. Tekst Piecariusa nie podaje, na co Thora przeznacza swoją nagrodę ani jak ostatecznie wybiera wariant Porozumienia. [„Nagroda”](opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md#nagroda) · [Kalendarz kwalifikacji](world_history.md#zgłoszenia-i-kwalifikacje)
+W scenie z toru Thora może obserwować, jak samodzielna obrona Piecariusa stopniowo staje się współpracą. Z jej strony dobrym miejscem na napięcie jest moment, w którym sięga po nóż i na czas przecięcia pasa powierza mu osłonę całej trójki. Gest Thory przy mecie, kiedy dotyka jego ramienia, może wybrzmieć mocniej z jej perspektywy. Tekst Piecariusa nie podaje, na co Thora przeznacza swoją nagrodę ani jak ostatecznie wybiera wariant Porozumienia. [„Nagroda”](../../../opowiadania/piecarius/3_a_vow_from_my_fathers_book/historia.pl.md#nagroda) · [Kalendarz kwalifikacji](../../../world_history.md#zgłoszenia-i-kwalifikacje)
 
 ## III. Wystarczy
 
@@ -38,4 +38,4 @@ Akcja właściwych Igrzysk zaczyna się od lipca. Pomysł na kluczową scenę to
 
 Po zawodach pytanie o dalsze plany może ściągnąć rozmowę z powrotem do doliny. Kwitnienie grusz wymagałoby uzasadnienia w porze właściwych Igrzysk. Motyw sadzonki daje odpowiedź pasującą również później w roku. Propozycja brzmi „Wrócić do domu. Podobno grusza się przyjęła”. Gatunek istniejącej sadzonki warto sprawdzić z rękopisem.
 
-Roboczy tytuł „To, co pozostaje” różni się o jedno słowo od tytułu pierwszego opowiadania Tarena „To, co pozostało”. Alternatywa „Jeszcze chwilę” łączy czas kupiony na moście, cierpliwość przygotowań i zadanie na arenie. [Pierwsza część Tarena](opowiadania/taren/1_what_remained/historia.pl.md)
+Roboczy tytuł „To, co pozostaje” różni się o jedno słowo od tytułu pierwszego opowiadania Tarena „To, co pozostało”. Alternatywa „Jeszcze chwilę” łączy czas kupiony na moście, cierpliwość przygotowań i zadanie na arenie. [Pierwsza część Tarena](../../../opowiadania/taren/1_what_remained/historia.pl.md)

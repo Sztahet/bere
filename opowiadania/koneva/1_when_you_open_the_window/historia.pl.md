@@ -4,15 +4,17 @@
 
 2 października, 11 ET · dom Konevy w Cienistym Porcie, Vesper
 
-Dwie noce temu Pati obudziła się ze skrzydłami. Dzisiaj zrzuciła z parapetu trzy kałamarze. Kiedy usiadłam na łóżku, patrzyła na mnie z miną, z jaką zwykle czekała, aż skończę się wygłupiać.
+Dwie noce temu Pati obudziła się ze skrzydłami. Dzisiaj strąciła z parapetu trzy kałamarze. Poderwałam się z łóżka, a ona patrzyła na mnie, jakbym to ja narobiła hałasu.
 
 Niebieski kałamarz rozbił się o podłogę. Pati przysiadła na parapecie, gotowa zeskoczyć obok szkła. Zdążyłam podejść i owinąć ją koszulą. Rozłożyła skrzydło pod materiałem i uderzyła mnie w podbródek. Zamarłyśmy obie.
 
-— Wszystko tu ma ostre krawędzie — powiedziałam. — Ja też, jak będziesz próbowała jeszcze raz.
+<!-- ilustracja: 01 -->
+
+— Spokojnie. Skaleczysz się.
 
 Poluźniłam koszulę. Wysunęła głowę i wbiła mi pazury w rękaw. Przytrzymałam ją pod brzuchem i czułam, jak szybko oddycha. Po chwili puściła mnie sama.
 
-Sarna pukała akurat, kiedy zbierałam odłamki. Chciała oddać kubek z poprzedniego kursu. Wpuściłam ją, a ona postawiła go obok umywalki i odruchowo schyliła się po ostatni kawałek szkła. Dopiero kiedy się wyprostowała, Pati wychyliła się zza świecznika. Przy zakręcie musiała odsunąć go łapą. Przeszła obok drugiego, najeżona tak, jakby skrzydła były winą całego sprzętu na stole.
+Sarna zapukała, kiedy zbierałam odłamki. Przyniosła kubek z poprzedniego kursu. Wpuściłam ją, a ona odstawiła naczynie i schyliła się po kawałek szkła. Pati wychyliła się zza świecznika. Przecisnęła się obok niego bokiem, uważając na nowe skrzydła.
 
 Sarna spojrzała na mnie, potem na Pati.
 
@@ -26,25 +28,29 @@ Pati znała moją łódź. Na równej wodzie spała pod ławą. Gdy zbliżałyś
 
 Tamtego wieczoru nie wyszła spod ławy. Sarna przytrzymała łódź, żebym mogła zajrzeć głębiej. Pati podnosiła łeb, ale przednie łapy rozjeżdżały jej się po deskach. Wzięłam ją pod płaszcz. W domu położyłam na suchej koszuli i podsunęłam miskę. Dotknęła językiem wody raz, potem przestała reagować na mój głos.
 
-Sarna przyniosła drugą miskę i obiecała zawołać pomoc. Do jej wyjścia bałam się jeszcze, że Pati się ze mnie wyrywa. Kiedy drzwi się zamknęły, chciałam, żeby choć raz spróbowała.
+Sarna przyniosła drugą miskę i poszła po pomoc. Kiedy zostałam sama, Pati wciąż leżała nieruchomo. Wzięłam ją na ręce i zawołałam po imieniu, ale nie otworzyła oczu.
 
 Miałam na półce starą księgę, kupioną kiedyś w porcie razem z mapami. Szukałam w niej wtedy sposobu na utrzymanie osłony przy odsłoniętych pomostach. Między rozdziałami był opis rytuału Ciemności stosowanego przy kimś, kto przestał reagować. Czytałam go wcześniej z ciekawości. Tego wieczoru dopiero zauważyłam, jak mało miejsca zajmowało w nim zdanie o tym, kiedy przerwać.
 
-Chciałam, żeby Pati jeszcze raz otworzyła oczy. Przeniosłam świece z parapetu na podłogę. Zwykle zapalałam jedną, bo przy większej liczbie Pati próbowała sprawdzić zapach wosku z każdej strony. Położyłam ją na koszuli wewnątrz kręgu. Przez chwilę przytrzymałam brzeg materiału, jakbym mogła po jego drganiu poznać, co się z nią dzieje.
+Chciałam, żeby Pati jeszcze raz otworzyła oczy. Przeniosłam świece z parapetu na podłogę. Zwykle zapalałam jedną, bo Pati lubiła podchodzić zbyt blisko płomienia. Położyłam ją na koszuli wewnątrz kręgu. Patrzyłam, czy porusza się jej bok, lecz w drżącym świetle świec nie potrafiłam tego dostrzec.
 
 — Zostań ze mną, Pati.
 
-Smuga Ciemności przesunęła się przez płomień. Widziałam, jak z jednej strony światło zgasło, a po drugiej wosk wciąż na coś kapał. Zmieniłam ułożenie dłoni. Ciemność sięgnęła dalej, niż chciałam. Pati drgnęła i zaraz znów leżała bez ruchu. Już sięgałam po świecę, żeby ją odsunąć i przy tym nie dotknąć kota, kiedy poruszyła się po raz drugi. Spod jej boku wysunęło się coś cienkiego i czarnego. Mogłabym przysiąc, że to zagięty brzeg koszuli, gdyby nie to, że za chwilę rozłożyło się nad płomieniem.
+<!-- ilustracja: 02 -->
+
+Poprowadziłam Ciemność nad płomieniem. Świeca na chwilę zniknęła w mroku. Zmieniłam ułożenie dłoni, lecz cień sięgnął dalej, niż chciałam. Pati drgnęła i znów znieruchomiała. Sięgnęłam po świecę, żeby odsunąć ją od kotki, kiedy Pati poruszyła się po raz drugi. Spod jej boku wysunęło się coś cienkiego i czarnego. Wzięłam to za brzeg koszuli, dopóki nie rozłożyło się nad płomieniem.
 
 Zgasiłam najbliższą świecę rękawem. Pati rozejrzała się, podniosła głowę i zamiauczała na mnie, jakby próbowała ustalić, czemu klęczę tak blisko jej twarzy. Podniosłam ją. Przez pół nocy leżała mi na piersi z łapą zaczepioną o kołnierz. Przy każdym ruchu pilnowałam, żeby nie przygnieść tego, co wyrosło jej na grzbiecie.
 
-Sarna wróciła, kiedy świece były już zgaszone. Znalazła zielarkę, która mogła przyjść najwcześniej o świcie. Dopiero rano odważyłam się powiedzieć Sarnie, że Pati oddycha i pije. Teraz siedziała przede mną i widziała, ile z tamtej wiadomości pominęłam.
+<!-- ilustracja: 03 -->
+
+Sarna wróciła, kiedy świece były już zgaszone. Znalazła zielarkę, która mogła przyjść najwcześniej o świcie. Powiedziałam Sarnie, że Pati oddycha; rano mogłam dodać, że pije. O skrzydłach nie wspomniałam. Teraz stała przede mną i patrzyła na nie z niedowierzaniem.
 
 — Wiesz, co wtedy zrobiłaś? — zapytała.
 
-— Wiem, co pamiętam. Najlepiej pamiętam, jak zbierałam świece.
+— Próbowałam jej pomóc. Nie wiem, dlaczego wyrosły jej skrzydła.
 
-Nie pytała drugi raz. Usiadła przy stole i podsunęła ocalały kałamarz daleko od parapetu. Pati poszła za jej ręką, aż mogła obwąchać oba palce, którymi przytrzymywała szkło. Na wierzchu dłoni Sarna miała ślad po starym otarciu od wodzy.
+Sarna usiadła przy stole i odsunęła ocalały kałamarz od parapetu. Pati podeszła za jej ręką i obwąchała jej palce. Sarna pogłaskała ją ostrożnie po łbie, omijając skrzydła.
 
 ## Górny podest
 
@@ -58,19 +64,25 @@ Pati zabrałam ze sobą, bo kiedy pakowałam torbę, zajęła w niej miejsce dla
 
 — Na wodzie. Na brzegu już jesteśmy za trzecim.
 
-Odbiłam bez szarpania. Wiatr był słaby, ale nierówny. Pod wysoką ścianą składu łódź przez chwilę niemal stała. Od strony otwartej zatoki od razu brała żagiel. Lubiłam patrzeć na ten sam kolor wody przy burcie i tuż obok, gdzie wiatr przeciągał przez nią wąskie prążki. Kiedy udało mi się wejść między nie w odpowiednim miejscu, mogłam minąć pomost i jeszcze przed następnym wrócić pod ścianę.
+Odbiłam bez szarpania. Wiatr był słaby, ale nierówny. Pod wysoką ścianą składu łódź przez chwilę niemal stała. Bliżej otwartej zatoki wiatr znów wypełnił żagiel. Na wodzie pojawiły się ciemniejsze prążki; lubiłam znajdować je wzrokiem i prowadzić łódź tam, gdzie mogła złapać podmuch.
 
 Pati uniosła łeb przy pierwszym przechyle. Sarna przytrzymała ją tylko na tyle, żeby nie ześlizgnęła się z ławy. Potem Pati przeszła bliżej środka. Tu, po zawietrznej, odważyła się wysunąć skrzydło. Przy pierwszym podmuchu zwinęła je, zanim ja zdążyłam poluzować szot.
 
-— Dobrze, że ktoś tu umie się zbierać przed zmianą wiatru — powiedziała Sarna.
+<!-- ilustracja: 04 -->
 
-Chciałam odpowiedzieć, ale zobaczyłam od spodu drewniany podest. Jedna z podpór stała krzywo. Pod dłuższą deską woda zbierała się tam, gdzie po następnym przejściu koła mogła przemieścić klin. Sarna też go dostrzegła. Zapytała, czy da się odbić od strony górnej ławy, gdzie pod ścianą pozostawało mniej miejsca przy odpływie.
+— Szybko się uczy — powiedziała Sarna.
+
+Chciałam odpowiedzieć, ale zobaczyłam pod drewnianym podestem krzywą podporę. Klin pod deską wyglądał na obluzowany; gdyby przejechał po niej wóz, mógłby wypaść. Sarna też to zauważyła. Zapytała, czy da się przybić przy górnej ławie, gdzie pod ścianą pozostawało mniej miejsca przy odpływie.
 
 Dało się. Dopiero kiedy tam dotarłyśmy, zobaczyłam, że po lewej było wygodne miejsce na odkładanie przesyłek, a po prawej krótki przejazd dla ludzi ze składu. Sarna zeszła po stopniach i przeszła trasę od początku do końca. Przed ostatnim zakrętem zawróciła. Powiedziała, że po rozstawieniu worków w poprzek placu jej pełny wóz już się tam nie obróci. Ja z torbą mogłam tędy przejść bez kłopotu.
 
-Na nabrzeżu ostrzegłyśmy ludzi przed podestem. Zabrałam przesyłki, które można było zanieść górą. Sarna zarzuciła sobie dwie na lewe przedramię. Wspomniała, że od noszenia czasem ciągnie ją od kciuka aż pod rękaw. Kiedy zaproponowałam, że je wezmę, spytała tylko, czy mam w torbie miejsce na trzecią. Po drodze oddałam jej lżejszą paczkę, żeby mogła sama zanieść ją do składu. Obiecała pokazać od wejścia, którędy przeszłyśmy.
+Na nabrzeżu ostrzegłyśmy ludzi przed podestem. Zabrałam przesyłki, które można było zanieść górą. Sarna wzięła dwie, choć przyznała, że od dźwigania boli ją ręka. Zaproponowałam, że je poniosę, ale spytała tylko, czy mam w torbie miejsce na trzecią. Po drodze zamieniłyśmy się paczkami, żeby dostała lżejszą.
 
-Po zmroku postawiłyśmy na parapecie po kubku wina. Okazało się kwaśniejsze, niż pamiętałam z zeszłego tygodnia. Pati wsunęła nos między ucha obu kubków. Odsunęłam je, a ona zajęła wolne miejsce i po raz pierwszy tego dnia zasnęła z obydwoma skrzydłami schowanymi pod sobą.
+<!-- ilustracja: 05 -->
+
+Po zmroku postawiłyśmy na parapecie po kubku wina. Było kwaśniejsze, niż pamiętałam z zeszłego tygodnia. Pati wsunęła nos między kubki. Odsunęłam je, a ona zajęła wolne miejsce i po raz pierwszy tego dnia zasnęła z obydwoma skrzydłami złożonymi przy bokach.
+
+<!-- ilustracja: 06 -->
 
 Sarna opowiadała mi, dokąd ma jechać ze skrzynią dla pompy. Ja przez chwilę jeszcze myślałam o zatoce. Nazajutrz przy tym samym wietrze chciałam spróbować minąć górną ławę bez dodatkowego zwrotu. Przy winie, z daleka od steru, umiałam to prawie za każdym razem.
 
@@ -78,7 +90,7 @@ Sarna opowiadała mi, dokąd ma jechać ze skrzynią dla pompy. Ja przez chwilę
 
 6 października, 11 ET · stajnia przy składzie, Cienisty Port, Vesper
 
-Zastałam Sarnę przed stajnią. Jedną z odmów już mi dała. Dałam jej potrzymać płaszcz i przeszłam przez deskę dowiedzieć się, kto otwiera rano stajnię. Kiedy wróciłam, na mokrym płótnie miała przyciśnięte dwie kartki.
+Zastałam Sarnę przed stajnią. Miała już za sobą odmowę przydziału, a ja niosłam jej pismo razem z odpowiedziami innych przewoźników. Dałam jej potrzymać płaszcz i przeszłam po desce między ludźmi a końmi, żeby dowiedzieć się, kto rano otwiera stajnię. Kiedy wróciłam, przytrzymywała na płaszczu dwie kartki.
 
 — Nie wydawaj za mnie pieniędzy — powiedziała.
 
@@ -92,9 +104,11 @@ Morven poprosił, żebym powiedziała, komu niosłam odpisy. Odpowiedziałam, ż
 
 Rozłożyłam jedno zamówienie. Spod wierzchu wystawała kartka, na której był kierunek wyjazdu. Iren spytała, czy pokazać to wszystkim. Nakryłam kartkę płaszczem.
 
+<!-- ilustracja: 07 -->
+
 — Temu, kto potrafi zmienić przydział, pokażę oba. Reszta niech zobaczy, ile było wniosków i czego zabrakło. Jak wywiesisz te dwa razem, ludzie będą wiedzieli, kto staje tu z pustym wozem w czwartki.
 
-W dzień, w którym ktoś jedzie bez drugiego człowieka, może woleć wejście blisko lampy. Jeżeli na tablicy wszyscy odczytają, o której będzie sam z ładunkiem, lampa niewiele mu pomoże. Na papierze miałam zupełnie zwyczajne słowo „czwartek”. Trzymałam na nim dłoń, póki Morven nie odszedł od stołu.
+Ktoś, kto jedzie sam, może wybrać dobrze oświetlone miejsce załadunku. Niewiele mu to jednak pomoże, jeśli każdy z tablicy dowie się, kiedy wyrusza i co wiezie. Trzymałam dłoń na godzinie wyjazdu, póki Morven nie odszedł od stołu.
 
 Na zewnątrz zmieniali konie przy pierwszym przydziale. Do wieczora wciąż nie wiedzieliśmy, czy Sarna wyjedzie ze skrzynią. Wiedziałam już, że sama nie wezmę jutrzejszego kursu. Zbyt dużo osób prosiłam, żeby jeszcze raz przyszły zajrzeć w te papiery.
 
@@ -110,10 +124,16 @@ Odruchowo odgrodziłam ją łokciem. Pati rozłożyła skrzydło i odstąpiła o
 
 Z parapetu do wyższej ławy na podwórzu prowadziły dwa dobre skoki. Przestawiłam stojącą tam donicę bliżej ściany i cofnęłam się, kiedy Pati wyszła przednimi łapami. Rozłożyła skrzydła do połowy. Pierwszy raz zwinęła je jeszcze na parapecie. Za drugim przesunęła się w bok, żeby rama zostawiła jej miejsce. Poleciała krótko i nisko. Skrzydło otarło się o brzeg ławy, ale Pati wylądowała przy donicy, jakby od dawna robiła to codziennie.
 
-Sarna odłożyła pas na stół. Chciała sprawdzić, czy Pati będzie umiała wrócić tą samą drogą. Podałam jej kubek. Przy przekładaniu go do drugiej dłoni przycisnęła kciuk do boku. Zapytałam, czy dobrze się czuje. Powiedziała, że gdy przestanie dźwigać, najlepiej nie zadawać jej tego pytania, póki sama nie odpowie, że może znowu dźwigać.
+<!-- ilustracja: 08 -->
 
-— Czyli kiedy?
+Sarna odłożyła pas na stół. Chciała sprawdzić, czy Pati będzie umiała wrócić tą samą drogą. Podałam jej kubek. Kiedy przekładała go do drugiej dłoni, skrzywiła się i przycisnęła kciuk do boku.
 
-Spojrzała na mnie i się roześmiała. Potem odstawiła kubek tak cicho, że dopiero po chwili zauważyłam, że stoi już na stole. Na odchodnym poprosiła, żebym pokazała jej kiedyś tę księgę, o której mówiłam.
+— Boli cię ręka?
 
-Pati obeszła donicę. Wróciła prosto na deskę i przy wnęce spojrzała mi w twarz. Cofnęłam się o krok, żeby mogła złożyć skrzydło. Przez całą noc okno było uchylone na tyle, ile potrzebowała, żeby wrócić.
+— Przejdzie, jak trochę odpocznę.
+
+— Dasz jej odpocząć?
+
+Spojrzała na mnie i się roześmiała. Odstawiła kubek. Na odchodnym poprosiła, żebym pokazała jej kiedyś tę księgę, o której mówiłam.
+
+Pati obeszła donicę, a potem wróciła na parapet. Cofnęłam się, żeby miała miejsce na złożenie skrzydeł. Tej nocy zostawiłam okno uchylone, na wypadek gdyby chciała znów wyjść.

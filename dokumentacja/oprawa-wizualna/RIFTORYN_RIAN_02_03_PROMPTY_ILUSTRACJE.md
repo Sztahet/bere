@@ -1,6 +1,6 @@
 # Rian — prompty ilustracji do drugiej i trzeciej historii
 
-Prompty są propozycją ilustracji, nie zmieniają treści opowiadań. Generuj każdy obraz osobno, poziomo **3:2, najlepiej 1536 × 1024 px**, bez napisów, podpisów i znaków wodnych. Zachowaj styl zaakceptowanych ilustracji z „Jedenastu minut”: [okładka](assets/heroes/stories/illustrations/rian/1_eleven_minutes/03.jpg), [oględziny](assets/heroes/stories/illustrations/rian/1_eleven_minutes/04.jpg), [mechanizm](assets/heroes/stories/illustrations/rian/1_eleven_minutes/01.jpg). Za wzór wyglądu dorosłej Rian można dołączyć również [portret](assets/heroes/portraits/rian-fire-specialist.png).
+Prompty są propozycją ilustracji, nie zmieniają treści opowiadań. Generuj każdy obraz osobno, poziomo **3:2, najlepiej 1536 × 1024 px**, bez napisów, podpisów i znaków wodnych. Zachowaj styl zaakceptowanych ilustracji z „Jedenastu minut”: [okładka](../../assets/heroes/stories/illustrations/rian/1_eleven_minutes/03.jpg), [oględziny](../../assets/heroes/stories/illustrations/rian/1_eleven_minutes/04.jpg), [mechanizm](../../assets/heroes/stories/illustrations/rian/1_eleven_minutes/01.jpg). Za wzór wyglądu dorosłej Rian można dołączyć również [portret](../../assets/heroes/portraits/rian-fire-specialist.png).
 
 ## Wiek Rian
 
@@ -28,13 +28,13 @@ Rian ma **39 lat w 12 ET**. Podczas sabotażu przy bramie w 3 PT miała około 2
 
 ### 3. Człowiek z rysunkiem
 
-**10 października, 1 ET · około 28 lat.** Pierwsza rozmowa Rian i Adriena odbywa się w przerwie przesłuchania, w obecności osoby prowadzącej. Dołącz [portret Adriena](assets/heroes/portraits/adrien-light-specialist-v4.png) jako dodatkową referencję wyglądu.
+**10 października, 1 ET · około 28 lat.** Pierwsza rozmowa Rian i Adriena odbywa się w przerwie przesłuchania, w obecności osoby prowadzącej. Dołącz [portret Adriena](../../assets/heroes/portraits/adrien-light-specialist-v4.png) jako dodatkową referencję wyglądu.
 
 > Landscape 3:2, polished stylized fantasy game illustration. In a commission room during a hearing break, Rian, adult woman aged 28 with short red undercut, freckles and practical clothes, leans over a technical drawing on a table with Adrien, an adult male inventor matching the attached Adrien reference. She uses a borrowed pencil to indicate a shared mounting on the diagram; Adrien studies the point closely. A commission official is present beside the documents. Show a thoughtful professional disagreement, not a romantic or triumphant moment. Papers have no legible writing. Grounded room, warm subdued light, no magical effects, text or watermark.
 
 ### 4. Próba pod nadzorem
 
-**14 stycznia, 2 ET · około 29 lat.** Na stole jest odłączony model, obecne są Rian, Lena, Adrien i osoba nadzorująca. Dołącz [portret Leny](assets/heroes/portraits/lena-light-support.png) i [portret Adriena](assets/heroes/portraits/adrien-light-specialist-v4.png).
+**14 stycznia, 2 ET · około 29 lat.** Na stole jest odłączony model, obecne są Rian, Lena, Adrien i osoba nadzorująca. Dołącz [portret Leny](../../assets/heroes/portraits/lena-light-support.png) i [portret Adriena](../../assets/heroes/portraits/adrien-light-specialist-v4.png).
 
 > Landscape 3:2, cinematic stylized fantasy workshop. Rian, adult woman aged 29 with short red undercut, freckles and work clothes, examines a small disconnected prototype mounting on a worktable at the University of Aurel. Lena watches attentively, Adrien studies the mechanism, and a separate supervisor counts tools and components before or after the test. Use the supplied character references for their faces and clothing. The device is visibly disconnected from power, with loose unconnected leads; the scene is about supervised analysis and earned caution. No glowing active tower, imprisonment imagery, magic from Rian's hands, text or watermark.
 

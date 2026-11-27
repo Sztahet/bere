@@ -112,7 +112,7 @@ Przez następne dwie godziny usiłowałem wykazać, że wynik Miko jest przypadk
 
 Nie wystarczyło odłączyć urządzenia i uruchomić go ponownie. Miko zgodził się na powtórzenia, ale nalegał, żebyśmy za każdym razem sprawdzali również temperaturę obudowy i stan mocowania. Twierdził, że podczas jednej z poprzednich prób część poluzowała się dopiero po dłuższej pracy.
 
-Przy piątym uruchomieniu wynik wciąż był lepszy od mojego. Przy szóstym różnica się zmniejszyła. Przy siódmym jego regulator zaczął wydawać dźwięk, którego nie powinien wydawać żaden przyrząd.
+Przy piątym uruchomieniu wynik wciąż był lepszy od mojego. Przy szóstym różnica się zmniejszyła. Przy siódmym coś zaczęło drżeć wewnątrz regulatora Miko.
 
 <!-- ilustracja: 03 -->
 

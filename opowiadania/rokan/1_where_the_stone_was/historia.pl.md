@@ -68,11 +68,9 @@ Na górze owinąłem tuszkę w płótno i zaniosłem pod mur domu Ildy. Znałem 
 
 — Widziałeś go, zanim ruszyłeś kamień?
 
-— Widziałem go, tylko że był kamieniem.
+— Nie. Kela pokazała mi wcześniej ślady, ale myślałem tylko o tym, jak przesunąć kamień.
 
 Ilda przyjrzała mi się znad stołu.
-
-— Tak ci wyglądał — powiedziała.
 
 Chciałem odwiązać płótno na dobre. Węzeł tak się zacisnął, że nie mogłem go rozluźnić, choć sam go robiłem nie dalej niż godzinę wcześniej. Ilda odsunęła moje palce. Miała krótkie paznokcie i potrafiła podważyć supeł krawędzią jednego z nich. Zapytała, czy na dnie wyrobiska widziałem odchody albo źdźbła zebrane w jednym miejscu. Przypomniałem sobie korzonek, który widzieliśmy z Kelą. Miał białe włókna i był podeschnięty, chociaż wokół ziemia nasiąkła wodą.
 

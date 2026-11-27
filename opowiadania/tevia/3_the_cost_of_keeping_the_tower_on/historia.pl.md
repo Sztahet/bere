@@ -4,7 +4,7 @@
 
 19 maja, 12 ET · Przekaźnik nad kamiennym progiem, Zerath
 
-Pani z warsztatów przywiozła drewnianą skrzynię i zsunęła ją z wozu z pomocą Unny. Miała podnoszone wieko i dwie przegrody. W jednej dało się postawić miskę, w drugiej osłonić legowisko od deszczu. Na wieku ktoś narysował zwierzę z białą kropką nad okiem.
+Pani z warsztatów przywiozła drewnianą skrzynię i zsunęła ją z wozu z pomocą Unny. Skrzynia miała podnoszone wieko i dwie przegrody. W jednej dało się postawić miskę, w drugiej osłonić legowisko od deszczu. Na wieku ktoś narysował zwierzę z białą kropką nad okiem.
 
 — Tu jest tylko model — powiedziała. — Zagrodę zrobimy nad potokiem przy warsztatach. Woda płytka i spokojna, dzieci będą mogły patrzeć z pomostu. Mamy nawet opiekuna, któremu możemy zapłacić od czerwca.
 

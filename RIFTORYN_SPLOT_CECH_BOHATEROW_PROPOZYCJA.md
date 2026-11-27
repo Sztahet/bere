@@ -1,5 +1,7 @@
 # Riftoryn — Splot cech bohaterów w 12 ET
 
+> **Starsza propozycja:** profile i ich uzasadnienia wymagają ponownego sprawdzenia na podstawie [opowiadań](opowiadania/README.md); nie stanowią samodzielnego źródła biografii ani pełnego składu postaci.
+
 Robocze profile 36 postaci z kodeksu, dla których mamy biografię, opowiadanie lub opisaną koncepcję. Każdy profil ma siedem ocen od 1 do 5 i budżet 21 punktów. Ten sam budżet zastosowano do planowanych bohaterów z materiałem fabularnym, w tym do Ruvana. Piecarius ma zapowiedzianą rolę i żywioł, a jego historia jest w przygotowaniu. [Kodeks gry](riftoryn-unity/Assets/Resources/codex.json).
 
 **Kolejność ocen** — Siła · Zręczność · Wytrzymałość · Rozeznanie · Wpływ · Magia osobista · Technologia.

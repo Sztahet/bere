@@ -188,10 +188,10 @@ Następnego dnia wróciłam do nauczania. Jedna z uczennic zapytała, dlaczego p
 
 <!-- ilustracja: 05 -->
 
-— Nie przestałam — powiedziałam.
+— Przestałam przyjmować takie zlecenia — powiedziałam.
 
 Podałam jej narzędzia.
 
-— Nadal rozumiem, jak to zrobić. Teraz sprawdzimy, jak temu zapobiec.
+— Ale nadal wiem, jak unieruchomić mechanizm. Teraz sprawdzimy, jak temu zapobiec.
 
 Usiadła przy stole. Nie pytała mnie, czy mężczyzna z wczoraj zmieni zdanie. Nie miałam wpływu na jego odpowiedź. Mogłam za to poczekać, aż skończy pierwszą próbę, i nie odbierać jej śrubokręta tylko dlatego, że ja znalazłabym wadę szybciej.

@@ -4,7 +4,7 @@
 
 Wczesna jesień, 10 ET · Portowe magazyny, Cienisty Port, Vesper
 
-Przewoźnik obejrzał mój rachunek za dwie eskorty i spytał, czy Orien może poświadczyć, że byłam na obu. Foremka na jego stole była pełna pieczęci. Znałam trzy, w tym znak człowieka, któremu sama wyciągnęłam ramię spod złamanej burty.
+Przewoźnik obejrzał mój rachunek za dwie eskorty i spytał, czy Orien może poświadczyć, że byłam na obu. Na jego stole leżały pieczęcie. Znałam trzy znaki, w tym znak człowieka, któremu wyciągnęłam ramię spod złamanej burty.
 
 — Był tam woźnica — odpowiedziałam. — Może pan go zapytać.
 

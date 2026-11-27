@@ -4,7 +4,7 @@
 
 16 maja, 12 ET · Iglica Zerath
 
-Córka Varek zapytała o kuchnię, zanim jej matka zdążyła powiedzieć po co przyszły.
+Córka Varek zapytała o kuchnię, zanim jej matka zdążyła powiedzieć, po co przyszły.
 
 — Mogę pomagać?
 
@@ -144,7 +144,7 @@ Zet skinął głową. Postałam jeszcze chwilę przy drzwiach, bo chciałam zoba
 
 Kiedy wróciłam po zeszyt wieczorem, lampy nie było w szafce. W rejestrze znalazłam potwierdzenie odbioru. Ktoś dopisał również godzinę dostarczenia jej na miejsce.
 
-Ucieszyłam się, że zdążyli. Jeszcze bardziej ucieszyłam się z tego, że nie musiałam przy tym stać przez całe popołudniu.
+Ucieszyłam się, że zdążyli. Jeszcze bardziej ucieszyłam się z tego, że nie musiałam przy tym stać przez całe popołudnie.
 
 ## Jedno miejsce więcej
 

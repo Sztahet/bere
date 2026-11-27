@@ -50,7 +50,7 @@ Pierwsza odwilż, 12 ET · magazyn w osadzie pod Białym Przesmykiem, Nivoren
 
 Nazajutrz przy schodach do magazynu ktoś trzy razy stuknął laską w próg.
 
-Ruvan zawsze otrzepywał tak śnieg z butów. Kiedy byłam mała, po tych trzech stuknięciach miałam akurat tyle czasu, żeby zdjąć garnek z pieca, jeśli obiad już kipiał.
+Ruvan zawsze stukał tak laską, zanim wszedł do domu. Kiedy byłam mała, po tych trzech stuknięciach miałam akurat tyle czasu, żeby zdjąć garnek z pieca, jeśli obiad już kipiał.
 
 Wyszedł z cienia w tym samym płaszczu, który pamiętałam z ostatniej wizyty. Doszyto mu nową klamrę. Rozpoznałam ją, bo samą klamrę pamiętałam z pasa, który nosił jeszcze wtedy, kiedy sięgałam mu do łokcia.
 

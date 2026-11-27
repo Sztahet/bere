@@ -42,7 +42,7 @@ Urzędniczka nazywała się Talma. Miała przed sobą księgę, pojemnik z piask
 
 — Nie przyszedłem go unieważniać.
 
-— Każdy, kto tu przychodzi, zaczyna od tego zdania.
+— Już kilku ludzi chciało wiedzieć, dlaczego go wpisałam.
 
 Pokazałem jej upoważnienie do sprawdzenia dokumentacji. Przesunęła filiżankę i otworzyła księgę na właściwej stronie.
 
@@ -76,7 +76,7 @@ Przyjrzała mi się uważnie.
 
 Nie byłem, choć jej odpowiedź pomogła. Vela zapamiętała natomiast, że człowiek w płaszczu podniósł czyjąś upuszczoną laskę i oparł ją o ławę. Talma nie widziała tego ze swojego miejsca za stołem. Strażniczka przy drzwiach twierdziła, że laskę podniosła właścicielka.
 
-Zapytałem, czy laski nie mogła najpierw podnieść jedna osoba, a później druga. Obie rozmówczynie uznały, że tak. Ani jedna nie chciała jednak zmienić swojej odpowiedzi.
+Nie potrafiłem ustalić, która z nich miała rację. Zapisałem obie odpowiedzi.
 
 ## III. Rubryka
 
@@ -210,7 +210,7 @@ Wsunąłem notatki do teczki. Vaelis nie odeszła.
 
 — Właśnie. Pamiętasz ją.
 
-Pamiętałem. Jej matkę też. A także córkę nadzorcy, która mówiła do mnie przez drzwi, jakby za jej plecami stał ktoś gotów odebrać jej ostatnie słowo o ojcu. Na liście kandydatów nie było dla żadnej z nich miejsca. Ich świadectwa nadal były częścią tej historii.
+Pamiętałem dziewczynkę i jej matkę. Pamiętałem też córkę nadzorcy, która próbowała bronić ojca, choć nie widziała całego zajścia. Żadna z nich nie mogła powiedzieć, czy kandydat był człowiekiem z jej opowieści.
 
 ## V. Pusta rubryka
 

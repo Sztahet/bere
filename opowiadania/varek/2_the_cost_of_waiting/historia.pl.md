@@ -74,7 +74,7 @@ Na karcie zostawiłam miejsce na godzinę następnej wiadomości. Volt zapropono
 
 — A ty masz nam powiedzieć, kiedy wiadomość przyjdzie. Nie dopiero, kiedy będziesz pewna wszystkiego.
 
-Wpisałam tę godzinę pod jego imieniem. Ruszył pieszo. Grom poderwał się z belki i przeleciał nad bramą, ale wkrótce usiadł na dachu składu. Volt obejrzał się tylko raz i poszedł dalej.
+Zapisałam, dokąd poszedł, żebym mogła przekazać mu odpowiedź. Ruszył pieszo. Grom poderwał się z belki i przeleciał nad bramą, ale wkrótce usiadł na dachu składu. Volt obejrzał się tylko raz i poszedł dalej.
 
 ## Dym za zakrętem
 

@@ -66,7 +66,7 @@ Poprosiłem, żeby pokazał mi miejsce, gdzie złożono pokwitowania za uchwyty.
 
 — Możesz zabrać kopię — powiedział majster. — Tylko wpisz, że ją wziąłeś.
 
-Przepisałem godziny i znak z pokwitowania. Kazano mi dopisać powód. Przez chwilę chciałem podać nazwę kontroli, do której nikt mnie nie powołał. Napisałem, że do własnych zapisków. Majster dał mi świecę, żebym widział drogę. Przy furtce osłoniłem ją dłonią i zobaczyłem, że odcisk po uchwycie wiadra wciąż mam na skórze. Przesunąłem go kciukiem aż do bramy.
+Przepisałem godziny i znak z pokwitowania. Kazano mi dopisać powód. Przez chwilę chciałem podać nazwę kontroli, do której nikt mnie nie powołał. Napisałem, że do własnych zapisków. Majster dał mi świecę, żebym widział drogę. Przy furtce osłoniłem ją dłonią i zobaczyłem, że odcisk po uchwycie wiadra wciąż mam na skórze. Przesuwałem po nim kciukiem, dopóki nie dotarłem do bramy.
 
 Z tego odcinka widać schody, na których rozstałem się z Mirą. Chciała zatrzymać pracę części stacji. Powiedziałem, że trzeba najpierw zabezpieczyć zasilanie osad. Poszedłem po brygadę i zapasowe części. Uparłem się, żeby zabrać też drugą skrzynię, bo w pierwszej były mocowania do starszego modelu. Wracając, zobaczyłem przy bramie człowieka, który gnał pod górę bez czapki. Zostawiłem obie skrzynie na wozie.
 

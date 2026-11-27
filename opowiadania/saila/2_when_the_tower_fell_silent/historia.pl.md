@@ -486,7 +486,7 @@ Nie rozumiałam dlaczego, ale im bliżej podchodziłam, tym wyraźniejsze się s
 
 Żółta smuga przesunęła się po śniegu.
 
-Zatrzymała na moment przy moich stopach.
+Zatrzymała się na moment przy moich stopach.
 
 Serce podeszło mi do gardła.
 
@@ -544,7 +544,7 @@ Wysoko nade mną kryształ zadrżał.
 
 Żółte światło znów skierowało się ku Szronogrzbiecie.
 
-Usłyszałam jej niski, gardłowy krzyk.
+Usłyszałam jej niski, gardłowy warkot.
 
 I wtedy przestałam próbować.
 

@@ -10,7 +10,7 @@ Kobieta w mokrym płaszczu czekała przy drzwiach, aż policzę kartki. Kiedy do
 
 Spytałam, kiedy widziała go ostatni raz i czy miał drugi płaszcz. Odpowiedziała bez wahania. Wiedziała nawet, co zjadł rano. Woźnica pamiętał mniej, ale oboje zapamiętali ten sam kolor kurtki. Zostawiłam przy jego oświadczeniu miejsce na odpowiedź samego chłopaka.
 
-Do wieczora dowiedziałam się, że dotarł do warsztatu po przeciwnej stronie portu. Miał rozcięte czoło. Został tam na noc, bo człowiek przy piecu zapłacił mu za rozładunek, a on bał się wrócić bez pieniędzy do matki. Posłałam po kobietę. Podeszła pod zamkniętą bramę, choć mogłam jej powiedzieć, że sama już sprawdziłam.
+Trzeciego dnia dowiedziałam się, że dotarł do warsztatu po przeciwnej stronie portu. Miał rozcięte czoło. Został tam na noc, bo człowiek przy piecu zapłacił mu za rozładunek, a on bał się wrócić bez pieniędzy do matki. Posłałam po kobietę. Podeszła pod zamkniętą bramę, choć mogłam jej powiedzieć, że sama już sprawdziłam.
 
 Nazajutrz zarządca składu odłożył wykaz ze stratą wozu na półkę. Przez trzy dni sprawdzania nikt mi nie zapłacił. Matka przyniosła bochenek. Zarządca zażądał, żebym wpisała go do wykazu podarunków. Spytałam, czy na tym samym papierze mogę wpisać swoją pracę. Powiedział, że nikt mi jej nie zlecał.
 

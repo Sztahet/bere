@@ -14,9 +14,9 @@ Adrien wszedł do pracowni z kartą pomiarową. Zauważył skrzynkę i zapytał,
 
 Adrien stanął na drugim końcu stołu. Odstawiłem szpadę pod ścianę i włączyłem lampkę. Ledwo się zajarzyła. Przed żarzącym się kryształem była okrągła blaszka, która zasłaniała część światła. Chciałem ją przesunąć, żeby następny błysk był lepiej widoczny.
 
-Gdy Adrien zapisywał wynik pierwszej próby, prawą ręką przytrzymałem obudowę, a lewą pchnąłem blaszkę w bok. Zacisk puścił i blaszka zaczęła spadać. W tej samej chwili iskra z obudowy przeskoczyła mi na prawą dłoń. Puściłem lampkę i odruchowo chwyciłem blaszkę, nim dotknęła stołu. Poczułem szarpnięcie w ramieniu. Ostra krawędź rozcięła mi palec.
+Gdy Adrien zapisywał wynik, przytrzymałem prawą ręką obudowę i przesunąłem blaszkę. Zacisk puścił. Z obudowy przeskoczyła iskra i ukłuła mnie w dłoń. Puściłem lampkę i chwyciłem spadającą blaszkę, zanim dotknęła stołu. Szarpnęło mnie w ramieniu; ostra krawędź rozcięła mi palec.
 
-Adrien wyłączył lampkę. Położyłem blaszkę na stole. Spojrzałem na rozcięty palec, a potem na blaszkę. Zdążyłem.
+Adrien wyłączył lampkę. Przez chwilę patrzyłem na blaszkę w dłoni, potem na rozcięty palec. Jakim cudem zdążyłem ją złapać?
 
 — Widziałeś, jak szybko ją złapałem?
 
@@ -50,7 +50,7 @@ Ledwie włączyliśmy lampkę, mocowanie zaczęło drżeć. Adrien wyłączył j
 
 5 PT · uniwersytet w Aurelu
 
-Opiekun pracowni obejrzał obudowę, obejrzał moją dłoń i zamknął stanowisko. Spytałem, czy możemy dokończyć próbę na dziedzińcu.
+Opiekun pracowni obejrzał obudowę i moją dłoń, po czym zamknął stanowisko. Spytałem, czy możemy dokończyć próbę na dziedzińcu.
 
 — Najpierw pokaż mi plan. Do tego czasu nigdzie go nie włączasz.
 
@@ -88,6 +88,12 @@ Uzgodniliśmy, że gdy skinę głową, Adrien pociągnie za nitkę, a ja nacisn�
 
 — Widziałem. Zrobimy jeszcze po jednej?
 
-Sprawdziliśmy opaskę i powtórzyliśmy obie próby na ten sam znak. Bez impulsu blaszka stuknęła o stół. Po impulsie została mi w dłoni. Kiedy Adrien sięgnął po kartę, żeby zapisać wynik, odłożyłem blaszkę. Chciałem już sprawdzić to po raz trzeci.
+Sprawdziliśmy opaskę i powtórzyliśmy obie próby na ten sam znak. Bez impulsu blaszka stuknęła o stół. Po impulsie znów została mi w dłoni.
 
-— Jutro od tego zaczniemy — powiedziałem. — Chcę zmierzyć, o ile szybciej wykonuję ten sam ruch po impulsie.
+Obróciłem ją między palcami. Jeszcze kilka dni temu zdążyłem ją złapać tylko raz i nie wiedziałem, co właściwie się stało. Teraz też nie wiedziałem wszystkiego, ale chciałem spróbować od nowa, z inną wysokością, innym przedmiotem. Zastanawiałem się, jak zmierzyć sam ruch.
+
+Adrien sięgnął po kartę wyników. Już chciałem prosić, żeby jeszcze raz pociągnął nitkę, ale wskazał zapiski.
+
+— Najpierw to skończmy.
+
+Odłożyłem blaszkę i poczekałem, aż zapisze wyniki. Potem pokazałem mu na kartce miejsce, w którym jutro moglibyśmy wpisać czas reakcji.

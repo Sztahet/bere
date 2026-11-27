@@ -58,7 +58,7 @@ Do własnej propozycji dołączyłam odpis starego wykazu. Pod podpisem sprzed t
 
 Przytrzymałam luźny róg kartki, żeby chłopak mógł wbić ostatni ćwiek. Przewoźnik schował do teczki listę gospodarzy, którą miał do niej dołączyć. Na tablicy zostało po niej wolne miejsce.
 
-Do końca dnia mieli dalej rozmawiać o przyszłych wkładach. Porozumienie już chroniło podstawowe dostawy niezależnie od wyniku. To, czy decyzja o splotycie dla naszego młyna będzie należeć do krainy, zależało od tego, który wariant zwycięży w całej serii. Nazajutrz dopiero zaczynały się kwalifikacje.
+Do końca dnia mieli dalej rozmawiać o przyszłych wkładach. Porozumienie już chroniło podstawowe dostawy niezależnie od wyniku. To, czy decyzja o splotycie dla naszego młyna będzie należeć do krainy, zależało od tego, który wariant zwycięży w całej serii. Kwalifikacje miały się zacząć za trzy dni.
 
 ## Zgłoszenie
 

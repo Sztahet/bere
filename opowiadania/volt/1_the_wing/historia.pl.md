@@ -36,7 +36,7 @@ Pobiegłem do składu. Pierwsza skrzynka była za mała, druga miała szorstki g
 
 Do jej domu szliśmy wolniej, niż bym chciał. Niosłem skrzynkę obiema rękami. Za każdym razem, gdy ptak poruszył się w środku, próbowałem wyrównać krok. Opiekunka raz poprawiła płótno; ja nawet nie zaglądałem.
 
-Na miejscu obejrzała skrzydło. Poprosiła mnie o wodę i czystą tkaninę. Przyniosłem jedno i drugie. Kiedy skończyła pierwsze opatrywanie, wyniosłem zakrwawioną tkaninę za drzwi. Trzymałem ją tak daleko od siebie, jakbym mógł w ten sposób sprawić, że będzie lżejsza.
+Na miejscu obejrzała skrzydło. Poprosiła mnie o wodę i czystą tkaninę. Przyniosłem jedno i drugie. Kiedy skończyła opatrywać ptaka, wyniosłem zakrwawioną tkaninę za drzwi. Dopiero tam zobaczyłem, że drżą mi ręce.
 
 — Będzie latał? — zapytałem.
 

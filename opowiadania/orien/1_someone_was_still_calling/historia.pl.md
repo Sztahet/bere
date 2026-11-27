@@ -70,7 +70,7 @@ Poprosiłem, żeby przeczytał je jeszcze raz.
 
 — Pan tam był — powiedział. — Jak coś źle wpisali, mam wolny brzeg.
 
-Na brzegu zmieściłbym rękę na poręczy i głos. Nie umiałbym opisać twarzy człowieka ani powiedzieć, co mu się stało. Wystarczyłoby jednak tyle, żeby straż zaczęła pytać, dlaczego kazałem zamknąć.
+Na marginesie zmieściłoby się, że widziałem dłoń na poręczy i słyszałem wołanie. Nie umiałbym opisać twarzy człowieka ani powiedzieć, co mu się stało. Wystarczyłoby jednak tyle, żeby straż zaczęła pytać, dlaczego kazałem zamknąć.
 
 Za drzwiami ktoś wołał po drugiej kartce. Pisarz oparł pióro o kałamarz i przytrzymał palcem róg papieru. Zapytałem, czy podano im spis ludzi z opatrunków. Pokazał załącznik. Znaleźliśmy nazwę ulicy i trzy osoby o znanych imionach. Na końcu była uwaga, że poszukiwania trwają. Nie umiałem wskazać w tym spisie brata Vilii.
 

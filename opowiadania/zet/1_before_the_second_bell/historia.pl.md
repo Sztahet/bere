@@ -4,7 +4,7 @@
 
 Początek jesieni, 8 ET · Dom Zeta i Merny, Iglica Zerath
 
-Moja siostra pisała wolno. Przerywała w połowie słowa, kiedy zabrakło jej miejsca na ostatnią kreskę, i umiała patrzeć na papier tak długo, aż człowiek sam przestawał mówić. Tego ranka siedziałem już w butach. Merna miała rękawy wywinięte pod łokcie, a na spodzie jednej dłoni ślad po główce gwoździa, którym przytrzymywała kartkę.
+Moja siostra pisała wolno. Zatrzymywała się nad każdym słowem, a kiedy się nad czymś zastanawiała, nie lubiła, żeby jej przerywać. Tego ranka siedziałem już w butach i czekałem, aż skończy list. Merna miała rękawy wywinięte pod łokcie, a na dłoni ślad po główce gwoździa, którym przytrzymywała kartkę.
 
 — Musi być u niego przed drugim dzwonkiem — powiedziała.
 
@@ -54,7 +54,7 @@ Chciałem sprawdzić, co wisiało rano na tablicy. Dyżurny zdjął kartkę i po
 
 — Dzisiaj tak. Jutro możesz przyjść na swoją zmianę.
 
-Podpisałem się pod godziną odbioru. Na drugim brzegu kartki był pusty rząd. Dyżurny zostawił go dla drugiej wiadomości, gdyby obie miała ująć ta sama stacja. Odłożyłem pióro. Przez cały dzień bardzo chciałem donieść wszystko tak, żeby nigdzie nie było pustego rzędu.
+Podpisałem się pod godziną odbioru. Na tej samej karcie zostawiono miejsce na drugą wiadomość, gdyby przechodziła przez stację. Tamtego dnia nie dostarczyłem jej papiernikowi. Oddałem dyżurnemu pióro i wróciłem do domu.
 
 ## W jedną stronę
 

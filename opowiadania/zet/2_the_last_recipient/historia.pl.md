@@ -12,7 +12,7 @@ Z odległości paru kroków puściłem krótki impuls pod obudowę. Błysk znad 
 
 — Wyłącz — powiedziałem dyżurnej.
 
-Zrobiła to. Człowiek od listów znakomicie umiał chodzić po drodze. Zdążył złapać woźnicę, zanim tamten zszedł z kozła. Pozostałem przy słupku, dopóki nie zgasła ostatnia kontrolka. Kiedy wróciłem do stacji, dyżurna przystawiła stołek do pulpitu. Zapytała, czy nie pomogę jej sprawdzić odbiornika, skoro i tak mam czekać na potwierdzenie z górnych domów.
+Zrobiła to. Człowiek z listami przeszedł przez furtkę i zdążył do wozu, zanim woźnica zszedł z kozła. Zostałem przy słupku, dopóki nie zgasła ostatnia kontrolka. Kiedy wróciłem do stacji, dyżurna przystawiła stołek do pulpitu. Zapytała, czy pomogę jej sprawdzić odbiornik, skoro i tak mam czekać na potwierdzenie z górnych domów.
 
 ## Gdzie kończy się kurs
 
@@ -38,7 +38,7 @@ W stacji zbierano wykazy ruchu przy mniejszych stanowiskach. Od nich zależało,
 
 — Jak wpisujesz je razem, czytam razem — powiedział.
 
-Pokazałem mu kwit kobiety od dłut i ten sam wiersz przed poprawką. Gdy zasugerowałem wystawianie drugiego pokwitowania na końcu trasy, od razu spytał, ile kosztuje chodzenie pod każdy dom. Nie umiałem tego od ręki wyliczyć. Potrafiłem podać czas między miejskimi stacjami i powiedzieć, gdzie zwykle czeka gotowy wóz. Dalszą drogę często robili ludzie, którzy nie mieli i tak dokąd odłożyć własnych zakupów. Część wracała dwa razy. Nikt im za to nie płacił.
+Pokazałem mu kwit kobiety od dłut i wcześniejszy wpis. Gdy zasugerowałem wystawianie drugiego pokwitowania na końcu trasy, od razu spytał, ile kosztuje chodzenie pod każdy dom. Nie umiałem tego od ręki wyliczyć. Potrafiłem podać czas między stacjami i powiedzieć, gdzie zwykle czeka wóz. Listy do dalszych domów roznosili często ludzie, którzy przy okazji nieśli własne zakupy. Część wracała dwa razy. Nikt im za to nie płacił.
 
 Powiedziałem, żeby na próbę zapisał tylko imię osoby, która wzięła kopertę na dalszą drogę. Po dostarczeniu zaznaczymy rzeczywistą godzinę i sprawdzimy, ile wozów oraz zmian będzie potrzebnych. Spytał, kto zrobi ostatni odcinek na mojej najdłuższej trasie. Wiedziałem, o którą chodzi: przy dużej wodzie kończyła się po złej stronie strumienia. Powiedziałem, że tam nie mam nikogo. Poprosił, żebym tak właśnie wpisał.
 

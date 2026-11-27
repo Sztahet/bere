@@ -8,7 +8,7 @@
 
 ### 1. Lucen — strona sporu a reprezentowana kraina
 
-**Waga: ważna; część III, „Zapisy do kwalifikacji”.** [Źródło](opowiadania/lucen/3_not_against_you/historia.pl.md)
+**Waga: ważna; część III, „Zapisy do kwalifikacji”.** [Źródło](../../../opowiadania/lucen/3_not_against_you/historia.pl.md)
 
 **Przed:**
 
@@ -18,11 +18,11 @@
 
 > O sprawie Zerath rozmawiałem w kolejce z człowiekiem, który przyjechał szukać części do stacji. Wymienił dwie osady czekające na naprawę i spytał, ile to ma jeszcze potrwać. Nie miałem dla niego daty. Zapisałem nazwy obu miejsc na odwrocie pokwitowania. W rubryce wyboru strony wpisałem wspólny nadzór.
 
-**Dlaczego:** „wspólny nadzór” jest wariantem politycznym, nie reprezentowaną krainą. [Kanon](world_history.md) rozróżnia oba pola, a Taren widzi później wpis „Lucen, Aurel”. Poprawka nie zmienia jego wyboru ani reprezentacji.
+**Dlaczego:** „wspólny nadzór” jest wariantem politycznym, nie reprezentowaną krainą. [Kanon](../../../world_history.md) rozróżnia oba pola, a Taren widzi później wpis „Lucen, Aurel”. Poprawka nie zmienia jego wyboru ani reprezentacji.
 
 ### 2. Adrien — ślad na wymienionym mocowaniu
 
-**Waga: ważna; część I, „Droga zamknięta”.** [Źródło](opowiadania/adrien/1_the_light_that_showed_the_way/historia.pl.md)
+**Waga: ważna; część I, „Droga zamknięta”.** [Źródło](../../../opowiadania/adrien/1_the_light_that_showed_the_way/historia.pl.md)
 
 **Przed:**
 
@@ -36,7 +36,7 @@
 
 ### 3. Azmir, Vaelis i Morrak — kto pierwszy zauważył „widział”
 
-**Waga: do decyzji o wspólnej scenie; opowieści Azmira II, Vaelis I i Morraka II.** [Azmir](opowiadania/azmir/2_the_word_i_left_out/historia.pl.md), [Vaelis](opowiadania/vaelis/1_the_sealed_copy/historia.pl.md), [Morrak](opowiadania/morrak/2_witnesses_to_silence/historia.pl.md)
+**Waga: do decyzji o wspólnej scenie; opowieści Azmira II, Vaelis I i Morraka II.** [Azmir](../../../opowiadania/azmir/2_the_word_i_left_out/historia.pl.md), [Vaelis](../../../opowiadania/vaelis/1_the_sealed_copy/historia.pl.md), [Morrak](../../../opowiadania/morrak/2_witnesses_to_silence/historia.pl.md)
 
 W aktach Morraka Azmir pierwszy mówi Vaelis, że pracownik **słyszał** rozkaz, a dopiero potem ona wskazuje, że błąd pochodził z jego własnego podsumowania. W historii Azmira to Vaelis zwraca mu od razu uwagę, że napisał „widział rozkaz”. W historii Vaelis czytamy, że to ona znała pierwszą notatkę i mówi mu: „Zmieniłeś źródło”. Rozmowa ma różny układ działań, a nie tylko inne zapamiętane sformułowanie.
 
@@ -74,7 +74,7 @@ Dalsza część akapitu Vaelis o oddzieleniu oryginału i kopii pozostaje na mie
 
 ### 4. Azmir — czy świadek na pewno widział użycie żetonu?
 
-**Waga: ważna; część II, ta sama scena.** [Źródło](opowiadania/azmir/2_the_word_i_left_out/historia.pl.md)
+**Waga: ważna; część II, ta sama scena.** [Źródło](../../../opowiadania/azmir/2_the_word_i_left_out/historia.pl.md)
 
 **Przed:**
 
@@ -90,7 +90,7 @@ Dalsza część akapitu Vaelis o oddzieleniu oryginału i kopii pozostaje na mie
 
 ### 5. Taren — nie da się odsunąć ołówkiem zapisanej nazwy
 
-**Waga: ważna dla sensu; część II, „Warunki Porozumienia”.** [Źródło](opowiadania/taren/2_the_cost_of_loyalty/historia.pl.md)
+**Waga: ważna dla sensu; część II, „Warunki Porozumienia”.** [Źródło](../../../opowiadania/taren/2_the_cost_of_loyalty/historia.pl.md)
 
 **Przed:**
 
@@ -104,7 +104,7 @@ Dalsza część akapitu Vaelis o oddzieleniu oryginału i kopii pozostaje na mie
 
 ### 6. Lena — literówka
 
-**Waga: drobna; część I, „Dwie linie”.** [Źródło](opowiadania/lena/1_people_are_more_interesting_than_crystals/historia.pl.md)
+**Waga: drobna; część I, „Dwie linie”.** [Źródło](../../../opowiadania/lena/1_people_are_more_interesting_than_crystals/historia.pl.md)
 
 **Przed:**
 
@@ -116,7 +116,7 @@ Dalsza część akapitu Vaelis o oddzieleniu oryginału i kopii pozostaje na mie
 
 ### 7. Thora — kto ma dwa liście?
 
-**Waga: drobna; część I, „Rowek pod kamieniem”.** [Źródło](opowiadania/thora/1_the_last_root/historia.pl.md)
+**Waga: drobna; część I, „Rowek pod kamieniem”.** [Źródło](../../../opowiadania/thora/1_the_last_root/historia.pl.md)
 
 **Przed:**
 
@@ -130,7 +130,7 @@ Dalsza część akapitu Vaelis o oddzieleniu oryginału i kopii pozostaje na mie
 
 ### 8. Vaelis — wosk nie przykrywa treści raportu
 
-**Waga: drobna; część I, „Pierwsze odpisy”.** [Źródło](opowiadania/vaelis/1_the_sealed_copy/historia.pl.md)
+**Waga: drobna; część I, „Pierwsze odpisy”.** [Źródło](../../../opowiadania/vaelis/1_the_sealed_copy/historia.pl.md)
 
 **Przed:**
 
@@ -144,7 +144,7 @@ Dalsza część akapitu Vaelis o oddzieleniu oryginału i kopii pozostaje na mie
 
 ### 9. Morrak — dziecko pod plandeką
 
-**Waga: do sprawdzenia; część I, relacja Sorena i Meret.** [Źródło](opowiadania/morrak/1_the_name_he_didnt_speak/historia.pl.md)
+**Waga: do sprawdzenia; część I, relacja Sorena i Meret.** [Źródło](../../../opowiadania/morrak/1_the_name_he_didnt_speak/historia.pl.md)
 
 **Przed — Soren:**
 
@@ -162,7 +162,7 @@ Dalsza część akapitu Vaelis o oddzieleniu oryginału i kopii pozostaje na mie
 
 ### 10. Morrak — osłanianie mokrej karty
 
-**Waga: do sprawdzenia; część I, „Osłona”.** [Źródło](opowiadania/morrak/1_the_name_he_didnt_speak/historia.pl.md)
+**Waga: do sprawdzenia; część I, „Osłona”.** [Źródło](../../../opowiadania/morrak/1_the_name_he_didnt_speak/historia.pl.md)
 
 **Przed:**
 
@@ -176,7 +176,7 @@ Dalsza część akapitu Vaelis o oddzieleniu oryginału i kopii pozostaje na mie
 
 ### 11. Miko — „trzy błyski na powrót”
 
-**Waga: drobna; część III, „Sygnał z drugiego końca toru”.** [Źródło](opowiadania/miko/3_one_more_bolt/historia.pl.md)
+**Waga: drobna; część III, „Sygnał z drugiego końca toru”.** [Źródło](../../../opowiadania/miko/3_one_more_bolt/historia.pl.md)
 
 **Przed:**
 
@@ -190,7 +190,7 @@ Dalsza część akapitu Vaelis o oddzieleniu oryginału i kopii pozostaje na mie
 
 ### 12. Piecarius — kto zabrał księgę?
 
-**Waga: drobna; część I, „Gruszka dla damy”.** [Źródło](opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)
+**Waga: drobna; część I, „Gruszka dla damy”.** [Źródło](../../../opowiadania/piecarius/1_the_book_without_an_author/historia.pl.md)
 
 **Przed:**
 
@@ -206,7 +206,7 @@ Dalsza część akapitu Vaelis o oddzieleniu oryginału i kopii pozostaje na mie
 
 ### 13. Thora — odstępy między pociskami mierzone krokami
 
-**Waga: do weryfikacji; część II.** [Źródło](opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md)
+**Waga: do weryfikacji; część II.** [Źródło](../../../opowiadania/thora/2_the_day_that_should_have_been_quiet/historia.pl.md)
 
 > Przez pierwszy tydzień przy wieży liczyłam odstępy między pociskami. Z miejsca przy ścianie zdawało mi się, że są równe. Przy następnym przebiegu zaprosiłam do pomiaru kobietę, która zbierała pociski. Powiedziała, żebym policzyła osobno te, które lecą za pierwszym razem, i te po przełożeniu dźwigni. Znalazłyśmy różnicę o całe dwa kroki.
 
@@ -214,7 +214,7 @@ Nie wiem, czy chodzi o odległość między miejscami trafienia, czy o czas pomi
 
 ### 14. Miejsca wydarzeń, których nie da się ustalić z samego tekstu
 
-Część rozdziałów ma daty i określenia typu „miejsce zajęć rzemieślników”, „sala komisji” albo „dom Meret”. Nie zawsze podano miasto lub krainę. Przykłady to [wspólne zajęcia Rian i Adriena](opowiadania/rian/2_the_second_pencil/historia.pl.md), [przesłuchanie w opowieści Adriena](opowiadania/adrien/2_the_woman_who_knew/historia.pl.md) oraz [dom Meret u Morraka](opowiadania/morrak/1_the_name_he_didnt_speak/historia.pl.md).
+Część rozdziałów ma daty i określenia typu „miejsce zajęć rzemieślników”, „sala komisji” albo „dom Meret”. Nie zawsze podano miasto lub krainę. Przykłady to [wspólne zajęcia Rian i Adriena](../../../opowiadania/rian/2_the_second_pencil/historia.pl.md), [przesłuchanie w opowieści Adriena](../../../opowiadania/adrien/2_the_woman_who_knew/historia.pl.md) oraz [dom Meret u Morraka](../../../opowiadania/morrak/1_the_name_he_didnt_speak/historia.pl.md).
 
 Nie proponuję wymyślać brakujących lokalizacji. Tam, gdzie miejsce wynika jednoznacznie z innej wersji tej samej sceny, można je później dopisać. Tam, gdzie nie wynika, potrzebna jest decyzja autora. Czytelnego „nazajutrz” nie traktuję jako powodu do dokładania kolejnej daty.
 

@@ -6,7 +6,7 @@
 
 ## 0. Jak korzystać z dokumentu
 
-Ten plik jest jedynym aktualnym GDD i źródłem decyzji dotyczących projektu gry. Jedynym źródłem kanonu historii świata jest [world_history.md](./world_history.md); w kwestiach fabularnych ma pierwszeństwo przed GDD i innymi materiałami. Materiały w `archive/` są historią projektu. Interaktywne menu `riftoryn-menu.html` jest prototypem do oglądania.
+Ten plik opisuje projekt gry i decyzje dotyczące mechanik. Źródłem postaci i wydarzeń pokazanych w historiach są [aktualne opowiadania](./opowiadania/README.md), a zasad i chronologii świata — [world_history.md](./world_history.md). Status poszczególnych części określa [katalog](./opowiadania/katalog.json); szkice mogą się zmienić. Dawne biografie w GDD i kodeksie mogą być nieaktualne i nie zastępują lektury opowiadań. Materiały w `archive/` są historią projektu. Interaktywne menu `riftoryn-menu.html` jest prototypem do oglądania.
 
 **[USTALONE]** — decyzja użytkownika. **[PROPOZYCJA]** — hipoteza do zatwierdzenia i testów. **[OTWARTE]** — kwestia bez ostatecznej decyzji. Wartości mechanik i indywidualne koncepcje bohaterów pozostają propozycjami, chyba że ustalono inaczej; kanon historii określa `world_history.md`. Szczegóły mapy i portrety pozostają do akceptacji.
 
@@ -127,11 +127,11 @@ Podczas przebywania w mgle Runner jest spowolniony o **10%** i co sekundę otrzy
 
 ## 6. Bohaterowie i zawartość
 
-[USTALONE] Siatka 4 ról × 7 żywiołów: Tank, Wsparcie, Specjalista i Przywoływacz (Summoner); 28 kombinacji. W kodeksie jest 30 postaci głównej puli oraz Lucen jako dodatkowa alternatywa dla kombinacji Specjalista / Światło. Brakujące portrety, statystyki i umiejętności nadal wymagają opracowania. Do PoC zostanie wybranych kilka postaci. MVP obejmie 12 grywalnych bohaterów, po trzech z każdej z czterech ról; konkretna lista pozostaje do ustalenia. Docelowo dwa warianty na kombinację dają 56 postaci; nie ustalono, czy mają odmienne umiejętności.
+[USTALONE] Siatka 4 ról × 7 żywiołów: Tank, Wsparcie, Specjalista i Przywoływacz (Summoner); 28 kombinacji. Bieżący skład postaci znajduje się w [kodeksie Unity](./riftoryn-unity/Assets/Resources/codex.json), a ich historie w [katalogu opowiadań](./opowiadania/katalog.json). Brakujące portrety, statystyki i umiejętności nadal wymagają opracowania. Do PoC zostanie wybranych kilka postaci. MVP obejmie 12 grywalnych bohaterów, po trzech z każdej z czterech ról; konkretna lista pozostaje do ustalenia. Docelowo dwa warianty na kombinację dają 56 postaci; nie ustalono, czy mają odmienne umiejętności.
 
 [PROPOZYCJA DO TESTÓW — BONUSY KLASOWE] Bonus klasy jest oddzielny od unikalnej pasywki bohatera i w kodeksie ma ikonę swojej roli. Tank otrzymuje dodatkowe +5% odporności na każdy żywioł; Wsparcie wzmacnia leczenie i naprawy o 10%; Specjalista zwiększa o 25% szybkość ataku wieży, którą ręcznie pilotuje w obronie; Przywoływacz ma Peta-towarzysza z własnym HP, który automatycznie za nim podąża. Wartości i szczegóły wymagają testów.
 
-[USTALONE] Rola nadaje zadanie, żywioł różnicuje sposób gry. Tank jest raczej wolny i wytrzymały. Niva, Elira i Liora są proponowanymi siostrami; Thora jest młodą dorosłą strażniczką, ma odrębny wygląd i nie ma ustalonego pokrewieństwa z nimi. [PROPOZYCJA] Koncepcje umiejętności, statystyki, pochodzenie i historie bohaterów znajdują się w kompletnych rozdziałach poniżej; dla pozostałych dziewięciu specjalizacje są ogólnym kierunkiem, nie zatwierdzonym zestawem umiejętności.
+[USTALONE] Rola nadaje zadanie, żywioł różnicuje sposób gry. Tank jest raczej wolny i wytrzymały. [PROPOZYCJA] Poniższe koncepcje umiejętności i statystyki wymagają sprawdzenia. Pochodzenie i historie postaci sprawdzaj w [opowiadaniach](./opowiadania/README.md), nie w dawnych szkicach tego dokumentu.
 
 [USTALONE — PoC] Pierwszy PoC celuje w 2v2. Główna pula obejmuje sześciu bohaterów: Brom i Thora (Tank), Liora i Varek (Wsparcie), Saila i Zet (Specjalista). Dodatkową, siódmą postacią testową jest jeden Przywoływacz z petem, aby sprawdzić tę mechanikę. Wszystkie siedem postaci należy do tej samej puli draftu i nie można wybrać bohatera ponownie przez żadną drużynę. Przywoływacz jest wyjątkiem testowym i nie przesądza, czy pozostanie pełnoprawną rolą w docelowej puli.
 
@@ -722,19 +722,9 @@ Każda drużyna przygotowuje własną obronę na identycznym układzie labiryntu
 
 ### Bohaterowie i osobiste historie
 
-Historie Dary, Noctena, Rian oraz Nivy, Liory i Eliry zostały zatwierdzone na potrzeby PoC; pozostałe poniższe powiązania są propozycjami, nie zatwierdzonymi biografiami. Konkretne zdolności pozostają w dokumencie bohaterów. Strony objęte daną Próbą wyznaczają reprezentantów; ich osobiste motywacje nie zmieniają formalnej krainy reprezentowanej w tej sprawie. Mieszane drużyny mogą dzielić punkty zgodnie z umową zarejestrowaną przed Próbą.
+Aktualne historie postaci znajdują się w [opowiadaniach](./opowiadania/README.md). [Katalog](./opowiadania/katalog.json) wskazuje części i status każdej z nich. Postacie występują również w historiach innych bohaterów; brak własnej serii nie oznacza braku scen. Zasady świata i chronologię opisuje [historia świata](./world_history.md). Starsze biografie i listy wieku w GDD nie są źródłem informacji o bohaterach.
 
-Wiek podajemy dla początku gry w 12 ET. Poza wcześniejszymi ustaleniami dotyczącymi Saily, Dary, Noctena i sióstr wartości są propozycjami, z wyjątkiem przyjętych 52 lat Tarena i 29 lat Lucena: Kael 46, Iskar 43, Taren 52, Thora 42, Brom 51, Orien 62, Morrak — nieznany, Solan 34, Niva 25, Varek 33, Liora 24, Dara 37, Elira 24, Nocten 68, Rian 32, Saila około 23, Zet 27, Eron 35, Kiran 36, Adrien 37, Morven 39, Miko 42, Pyrra 28, Eira 56, Volt 26, Ana 27, Rokan 65, Lumen 34, Koneva 31, Neris 48 i Lucen 29 lat. Szczegóły oraz rozwinięte historie w obu wersjach językowych znajdują się w [historiach bohaterów](./RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md).
-
-Bohaterowie mają własne cele i mogą przyjmować różne stanowiska lub zmieniać zdanie. Saila chce zbadać zapisy z Białego Przesmyku i zabezpieczyć dostawy dla przełęczy. Widzi, że większa swoboda używania kryształów pozwoliłaby jej pomóc Nivoren, ale obawia się skutków zniesienia wspólnych ograniczeń; nie wybrała jeszcze strony. Przynależność do drużyny nie przesądza poglądów uczestnika.
-
-- **Brom:** doświadczony Tank Ziemi, który uczy nowych Runnerów, jak chronić drużynę podczas przejścia. Mógł pracować przy zabezpieczaniu tuneli, zanim dołączył do Prób.
-- **Thora:** Tank Natury i opiekunka, która traktuje wytrzymałość jako sposób zapewnienia innym czasu na działanie. Jej ewentualne pokrewieństwo z siostrami pozostaje otwarte.
-- **Niva, Elira i Liora:** trzy siostry urodzone w Korzennej Przystani, osierocone w końcowej fazie wojny i wychowane przez rodziny z różnych krain. W 12 ET Niva ma 25 lat, a młodsze od niej o rok bliźniaczki Liora i Elira mają po 24 lata. Bliźniaczki szczególnie mocno przeżyły rozłąkę, choć każda odnalazła też bliskość w nowej rodzinie. Odmienne żywioły wynikają z ich późniejszej nauki i praktyki, nie z dziedziczonego przeznaczenia. Jako dorosłe Niva i Liora spotkały się pierwsze na górskim szlaku. Elira szukała obu sióstr w rejestrach ewakuacyjnych. Odszukała Liorę w jej domu w Verdan, gdzie była już Niva. Od tego spotkania wspólnie pomagają potrzebującym. Historia powodzi w 9 ET pokazuje, jak ich różne umiejętności się uzupełniają, ale nie zawsze prowadzą do zgodnych decyzji. Mogą grać razem lub po przeciwnych stronach; pokrewieństwo nie daje premii mechanicznych.
-- **Dara:** rzemieślniczka z Kamiennego Progu zabiega o bezpieczeństwo ekip i liczy, że na Igrzyskach odnajdzie dawnych towarzyszy, by zapytać o wydarzenia sprzed Nocy. Jej podejrzenie związku z katastrofą nie jest dowodem jej przyczyny.
-- **Morrak:** Tank Ciemności, który unika ludzi, ale chroni niewinnych. Uratowani nazywają go Morrakiem („Obrońcą”), a świadkowie jego wyroków — Veshem („Mścicielem”); są to przydomki nadane przez ludzi, nie potwierdzone prawdziwe imię. Tropi i zabija wyłącznie osoby, których świadome krzywdzenie innych zostało potwierdzone; nie działa na podstawie plotek ani samego związku z wydarzeniami sprzed piętnastu lat. Pierwsze znane zapisy o nim pochodzą z okresu po Nocy Zgasłych Wież, co nie wyjaśnia jego przeszłości.
-- **Kael:** Tank Ognia, której znajomość kuźni i ochronnych pancerzy może wiązać ją z dawną infrastrukturą Vareth.
-- Pozostali bohaterowie otrzymają osobne historie po uzgodnieniu ich pochodzenia, charakterów i wzajemnych relacji.
+Strony objęte Próbą wyznaczają reprezentantów; osobista motywacja nie zmienia formalnej krainy reprezentowanej w danej sprawie. Mieszane drużyny mogą dzielić punkty zgodnie z umową zarejestrowaną przed Próbą.
 
 ### Konflikty na przyszłość
 
@@ -754,7 +744,7 @@ Bohaterowie mają własne cele i mogą przyjmować różne stanowiska lub zmieni
 - Czy i jakie limity najmu zawodników wprowadzić; bogatsze krainy często korzystają z najemników, a ich kontrakty trzeba rejestrować przed daną Próbą lub cyklem Prób.
 - Charakter splotytu i pochodzenie konstruktów; czy wszystkie moby są konstrukcjami, czy część jest przywoływanymi istotami.
 - Ewentualna relacja Thory do rodziny sióstr.
-- Pozostałe pełne biografie, antagonistyczne postacie, przyczyna katastrofy i rozwój wątku rejestrów.
+- Przyczyna katastrofy i rozwój wątku rejestrów; szczegóły biografii sprawdzaj w aktualnych opowiadaniach.
 - Jak lore pojawia się w grze: krótkie wpisy kodeksu, komentarze bohaterów, opisy map lub inne formy.
 
 ---
@@ -785,9 +775,11 @@ Bohaterowie mają własne cele i mogą przyjmować różne stanowiska lub zmieni
 
 ---
 
-## Riftoryn — historie i pochodzenie 21 pierwotnie zaplanowanych bohaterów
+## Dawne szkice bohaterów i propozycje umiejętności
 
-**Status:** biografie Dary, Noctena, Nivy, Liory i Eliry zatwierdzono na potrzeby PoC; pozostałe indywidualne biografie i specjalizacje są propozycjami, z wyjątkiem faktów zapisanych w [historii świata](./world_history.md), która jest źródłem kanonu. Zatwierdzenie historii nie zatwierdza mechanik ani specjalizacji postaci. Dziewięciu planowanych bohaterów pozostaje niedostępnych w drafcie. Drużyny mogą być mieszane; opisane motywacje dotyczą postaci, a nie formalnych zasad reprezentacji.
+> Historyczny materiał projektowy, zachowany także ze względu na propozycje mechanik. Biografie, wiek i status historii poniżej są nieaktualne; sprawdzaj [opowiadania](./opowiadania/README.md) i [katalog](./opowiadania/katalog.json). Umiejętności pozostają propozycjami do osobnej weryfikacji.
+
+**Dawny status:** biografie Dary, Noctena, Nivy, Liory i Eliry zatwierdzono na potrzeby PoC; pozostałe indywidualne biografie i specjalizacje są propozycjami, z wyjątkiem faktów zapisanych w [historii świata](./world_history.md), która jest źródłem kanonu. Zatwierdzenie historii nie zatwierdza mechanik ani specjalizacji postaci. Dziewięciu planowanych bohaterów pozostaje niedostępnych w drafcie. Drużyny mogą być mieszane; opisane motywacje dotyczą postaci, a nie formalnych zasad reprezentacji.
 
 ### Kael
 **Pochodzenie:** Żarowisko Vareth  

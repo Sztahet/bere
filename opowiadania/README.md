@@ -1,5 +1,7 @@
 # Opowiadania Riftoryn
 
+To główne źródło informacji o postaciach i wydarzeniach pokazanych w ich historiach. Czytaj wszystkie części wskazane w `katalog.json` oraz istotne sceny w opowiadaniach innych bohaterów. Rozróżniaj ukończone części od oznaczonych `draft: true`: szkice mogą się zmienić. Zasady świata i chronologię opisuje [historia świata](../world_history.md); rozbieżności między aktualnymi tekstami wymagają sprawdzenia, a nie automatycznego nadpisania jednej wersji. GDD opisuje projekt gry, nie zastępuje opowiadań ani nie jest podstawą oceny postaci.
+
 Każdy bohater ma swój katalog, a każda część osobny podkatalog nazwany w formacie `<numer>_<english_title>`: numer części (`1_`, `2_`, `3_` itd.), a po nim angielski tytuł zapisany małymi literami i z podkreśleniami. W nim edytuj `historia.pl.md`. Pierwszy nagłówek `#` to tytuł, a `##` rozpoczyna rozdział. Zachowuj puste linie między akapitami.
 
 Pod nagłówkiem każdego rozdziału podaj datę z rokiem i erą oraz miejsce akcji. Przed pisaniem lub redakcją przeczytaj [złote zasady pisania opowieści](DOCELOWY_FORMAT.md#złote-zasady-pisania-opowieści).

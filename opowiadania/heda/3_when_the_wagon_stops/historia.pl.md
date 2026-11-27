@@ -28,7 +28,7 @@ Urzędniczka spojrzała na moją kartę z godzinami i uprzedziła, że kolejna p
 
 29 maja, 12 ET · Skład i plac kwalifikacji, Val Meris
 
-Przed ludźmi ze składu przyszedł ojciec. Jedliśmy na koźle z opuszczonymi nogami. Krzemień chodził pod dyszlem, aż usłyszał, że ma swobodnie przejść na żwir. Ojciec porównał mój rachunek z kwitem na bele. Zatrzymał palec przy dopisanej cenie. Spytał, czy taką właśnie chciałam dostać.
+Przed ludźmi ze składu przyszedł ojciec. Jedliśmy na koźle z opuszczonymi nogami. Krzemień chodził pod dyszlem, a ojciec pilnował, żeby miał swobodne przejście na żwir. Potem porównał mój rachunek z kwitem na bele. Zatrzymał palec przy dopisanej cenie. Spytał, czy taką właśnie chciałam dostać.
 
 — Tę chciałam móc przeczytać po załadowaniu — odpowiedziałam.
 

@@ -10,6 +10,8 @@
 
 ## Proza Riftoryn
 
+- Przy ocenie i opisywaniu bohaterów najpierw czytaj aktualne opowiadania wskazane w [katalogu](opowiadania/katalog.json), także odpowiednie sceny w historiach innych postaci. Sprawdzaj status `draft` każdej części i nie przedstawiaj szkicu jako zatwierdzonej historii. Brak osobnej trylogii nie oznacza braku scen z bohaterem.
+- GDD opisuje projekt gry i nie jest źródłem biografii ani oceny postaci. Starsze biografie, szkice i kodeks gry mogą być nieaktualne; porównuj je z opowiadaniami i [historią świata](world_history.md). Nie dopisuj brakujących faktów, a rzeczywistych sprzeczności między aktualnymi źródłami nie rozstrzygaj bez podstaw.
 - Przy pisaniu, redakcji i ocenie opowiadań Riftoryn stosuj [złote zasady pisania opowieści](opowiadania/DOCELOWY_FORMAT.md#złote-zasady-pisania-opowieści). Każdy rozdział wymaga daty z rokiem i erą oraz miejsca akcji.
 - W opowiadaniach Riftoryn obowiązuje całkowity zakaz używania i wymyślania nazwisk. Stosuj go również w szkicach i tłumaczeniach.
 - Przy pisaniu, redakcji i ocenie opowiadań Riftoryn przeczytaj i zastosuj [riftoryn-prose-logic-audit](.cursor/skills/riftoryn-prose-logic-audit/SKILL.md).

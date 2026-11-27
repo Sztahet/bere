@@ -10,7 +10,13 @@ Varek, która prowadziła brygadę przekaźników, postawiła przede mną lampę
 
 Varek chciała, żeby lampa działała na tym, co zostawało w krysztale pod koniec zmiany. Poprosiła mnie też o obudowę, którą da się otworzyć w rękawicach. Według mojego pierwszego rysunku przy odkręcaniu pokrywy trzeba by przytrzymać nakrętkę od spodu. Varek położyła rękawice na stole. Założyłem je i spróbowałem podnieść taką nakrętkę. Wypadła mi z palców. Skreśliłem mocowanie.
 
-Przy pierwszych trzech ustawieniach regulatora lampa zużywała większość zapasu na pierwszy błysk. Przesunąłem cewkę. Pierwszy błysk stał się krótszy, a z końca przejścia dało się policzyć wszystkie trzy. Wysłałem Adrienowi tabelę. Odpisał, żebym zaznaczył, ile energii miał kryształ przed każdą próbą. Musiałem zajrzeć do dwóch innych kartek, żeby mu odpowiedzieć. Od następnej próby zapisywałem to w tej samej tabeli.
+Przy pierwszych trzech ustawieniach regulatora lampa zużywała większość zapasu na pierwszy błysk. Przesunąłem cewkę i zawołałem Varek. Tym razem z końca przejścia naliczyłem trzy błyski.
+
+— Widziałem wszystkie — powiedziałem, wracając do stołu.
+
+— A z większej odległości też byś je zobaczył?
+
+Tego nie sprawdziliśmy. Ustawiłem lampę do następnej próby i zapisałem wyniki dla Adriena. Kiedy odpisał z pytaniem, ile energii zostało w krysztale przed każdym pomiarem, musiałem szukać odpowiedzi na dwóch innych kartkach. Od następnej próby wpisywałem ją od razu do tabeli.
 
 ## Pieczęć na kwicie
 
@@ -22,7 +28,7 @@ Na stacji przy granicy pękło mocowanie kryształu. W zapasie znaleźliśmy cz�
 
 — Do śrub. Przy jakim obciążeniu to sprawdzili?
 
-Odwróciłem kwit. Na odwrocie była cena i imię człowieka, który odebrał skrzynię. Przy pieczęci napisano tylko, że część dopuszczono do użytku w Aurelu. Nasz dyżurny potrzebował wyniku próby, zanim pozwoli nam uruchomić przekaźnik. Z warsztatu mogli przysłać go dopiero nazajutrz.
+Odwróciłem kwit. Na odwrocie była cena i imię człowieka, który odebrał skrzynię. Przy pieczęci napisano tylko, że część dopuszczono do użytku w Aurelu. Nasz dyżurny potrzebował wyniku próby, zanim pozwoli nam uruchomić przekaźnik. Wynik z warsztatu miał dotrzeć dopiero nazajutrz.
 
 Varek wyznaczyła dwa okna, z których można było przekazywać sygnał ekipie ręcznie, i spytała, kto zostanie na dodatkową zmianę. Zgłosiłem się do ostatniego okna. Miałem powtarzać znak człowieka stojącego bliżej dyżurnego. Z mojego miejsca widziałem jego rękę dopiero wtedy, gdy wychylił ją w światło lampy. Tego wieczoru planowałem jeszcze wrócić do własnych prób. Do pracowni wróciłem dopiero następnego rana.
 
@@ -42,15 +48,13 @@ Na stole leżały dwa przewody. Miałem wpiąć ten z białą opaską, zanim wsk
 
 Uzgodniliśmy, że wtedy odetnie zasilanie. Uruchomiłem cewkę, ruszyłem i w dwóch krokach znalazłem się przy stole. Chwyciłem bliższy przewód i wetknąłem wtyk do gniazda. Lampka zgasła. Wskazówka opadła do końca. Varek odcięła zasilanie.
 
-Czekaliśmy, aż obudowa ostygnie.
-
 — Zdążyłem — powiedziałem.
 
 — Do złego przewodu.
 
-Varek wskazała białą opaskę na przewodzie, który wciąż leżał na stole. Widziałem go także ze swojego miejsca. Po prostu sięgnąłem po pierwszy, jaki miałem pod ręką. Przez chwilę patrzyłem na białą opaskę przewodu, którego nie wybrałem. Potem sięgnąłem po kartę wyników.
+Varek wskazała przewód z białą opaską. Leżał na widoku; chwyciłem drugi, bo był bliżej.
 
-Zapisałem, że dotarłem do stołu na czas i podłączyłem zły przewód. Przy następnej próbie miałem najpierw poszukać białej opaski, a dopiero wtedy sięgnąć po przewód.
+Chciałem od razu powtórzyć próbę, ale musieliśmy poczekać, aż obudowa ostygnie. Sięgnąłem po kartę wyników i zapisałem, że dotarłem do stołu na czas, lecz podłączyłem niewłaściwy przewód. Przy następnej próbie miałem najpierw znaleźć białą opaskę.
 
 ## Wynik dla cudzych rąk
 
@@ -60,9 +64,7 @@ Przed pokazem regulatora Varek poprosiła, żebyśmy uruchomili lampę kilka raz
 
 Przez następne dni poprawiałem mocowanie. Za pierwszym razem uchwyt wystawał na tyle daleko, że kryształ nie dochodził do styku. Spiłowałem wystający brzeg i spróbowałem ponownie. Kryształ wszedł na miejsce. Kilka razy włączyliśmy lampę, zanim Varek wyznaczyła nową porę pokazu.
 
-Kilka dni później, schyłek zimy 11/12 ET · stacja przekaźnikowa w Zerath
-
-Przed pokazem Varek chciała przeprowadzić próbę sama. Otworzyła pokrywę w rękawicach, włożyła kryształ i zamknęła obudowę. Już szedłem jej pokazać, gdzie ustawić regulator, kiedy zobaczyłem, że czyta oznaczenia na obudowie. Cofnąłem się na koniec przejścia. Policzyłem trzy błyski. Przy powtórzeniu też zobaczyłem trzy.
+Kilka dni później Varek chciała przed pokazem przeprowadzić próbę sama. Otworzyła pokrywę w rękawicach, włożyła kryształ i zamknęła obudowę. Już szedłem jej pokazać, gdzie ustawić regulator, kiedy zobaczyłem, że czyta oznaczenia na obudowie. Cofnąłem się na koniec przejścia. Policzyłem trzy błyski. Przy powtórzeniu też zobaczyłem trzy.
 
 Po pokazie zostawiliśmy ekipie wyniki i spis usterek, które wciąż wychodziły w próbach. Regulator zabrałem do dalszej pracy. Varek oddała mi pierwszy szkic, ten z przekreśloną śrubą. Pod rysunkiem dopisała, że przy kolejnej obudowie warto przytwierdzić nakrętkę od środka, tak żeby dało się odkręcić pokrywę jedną ręką.
 

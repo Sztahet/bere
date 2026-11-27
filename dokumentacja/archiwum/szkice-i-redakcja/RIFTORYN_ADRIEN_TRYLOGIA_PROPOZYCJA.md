@@ -1,6 +1,6 @@
 # Adrien — propozycja trylogii
 
-Wspólne zasady perspektywy oraz zależności między bohaterami zapisano w [notatkach o relacjach](RIFTORYN_RELACJE_I_PERSPEKTYWY.md).
+Wspólne zasady perspektywy oraz zależności między bohaterami zapisano w [notatkach o relacjach](../../../RIFTORYN_RELACJE_I_PERSPEKTYWY.md).
 
 **Status:** rozwinięcie do wspólnego dopracowania. Ustalono, że Adrien jest konstruktorem, ma 37 lat w 12 ET, zna Miko oraz wystąpił o złagodzenie wyroku Rian z myślą o własnej pracy. Kolejność szczegółowych scen i instytucjonalne rozwiązania poniżej są propozycją.
 

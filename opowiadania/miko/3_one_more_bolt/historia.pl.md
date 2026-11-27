@@ -60,9 +60,9 @@ Wpisałem Zerath i wspólny nadzór Rady. Urzędnik zapytał, czy przyniosę na 
 
 ## Dwa uderzenia
 
-Pierwsze dni kwalifikacji, 12 ET · Val Meris
+29 maja, 12 ET · kwalifikacje w Val Meris
 
-Sędzia sprawdził mocowanie cewki i dopuścił ją do próby. Przy modelu śluzy mnie przypadło przełożyć przewód za przegrodą. Thora miała trzymać dźwignię w połowie drogi. Dopiero po włożeniu wtyku do gniazda Thora mogła pociągnąć dźwignię do końca i wysłać sygnał na drugą stronę. Mieliśmy jedną szansę w każdym podejściu. Jeśli pociągnie przy odłączonym przewodzie, sygnał przepadnie. Trzecia osoba pilnowała czasu: miała zawołać przy kresce na wskaźniku, a Thora — natychmiast puścić dźwignię.
+Sędzia sprawdził mocowanie cewki i dopuścił ją do próby. Miałem przełożyć przewód za przegrodą, a Thora w tym czasie trzymać dźwignię modelu śluzy w połowie drogi. Gdy włożę wtyk do gniazda, będzie mogła pociągnąć ją do końca i wysłać sygnał. Jeśli zrobi to za wcześnie, sygnał przepadnie. Trzecia osoba pilnowała czasu: miała zawołać, gdy wskazówka dojdzie do kreski. Wtedy Thora musiała puścić dźwignię.
 
 Powiedziałem „zaraz wracam”, wyzwoliłem impuls i obiegłem przegrodę. Znalazłem właściwy przewód. Próbowałem wsunąć wtyk zbyt szybko. Ześlizgnął się po krawędzi gniazda. Usłyszałem wołanie ze stanowiska obok, a potem stuk puszczonej dźwigni. Wycofałem rękę i wróciłem do Thory.
 

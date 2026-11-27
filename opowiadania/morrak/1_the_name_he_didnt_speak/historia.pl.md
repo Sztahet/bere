@@ -6,27 +6,23 @@ Rok 7 ET · archiwum Cienistego Portu, Vesper
 
 Zapis Azmira: relacje o napadzie na transport, zebrane w kolejnych dniach po zdarzeniu.
 
-Najpierw przyniesiono mi mokry papier. Człowiek, który go niósł, trzymał zwitek pod płaszczem, lecz przemókł razem z płaszczem i połową ulicy. Rozwinąłem kartki na stole, przycisnąłem rogi kamieniami i kazałem posłańcowi usiąść z dala od pieca.
+Soren przyniósł do archiwum zwitek przemoczonych kartek. Podróżował wozem napadniętym na drodze do Cienistego Portu. Właściciel wozu domagał się teraz potwierdzenia strat.
 
-— Ja też mógłbym wyschnąć — zauważył.
-
-— Pan może wyżąć rękaw. Tego atramentu już nie zbierzemy.
-
-Miał na imię Soren. Przyjechał z wozem, którego właściciel domagał się potwierdzenia strat. Na drodze do Cienistego Portu zatrzymali ich uzbrojeni ludzie. Zginął koń, zniknęły skrzynie, a podróżni dotarli do miasta pieszo. Tyle dało się odczytać z pierwszej karty. Reszta była plamą.
+Rozłożyłem kartki na stole i przycisnąłem ich rogi kamieniami. Z pierwszej mogłem jeszcze odczytać, że zginął koń, zniknęły skrzynie, a podróżni dotarli do miasta pieszo. Reszta atramentu rozmazała się w ciemne plamy.
 
 — Właściciel wozu żyje? — spytałem.
 
 — Żyje. Twierdzi, że zginęły trzy skrzynie.
 
-— A pan?
+— Pan też tyle widział?
 
 — Pamiętam dwie. Trzecią mogli zabrać wcześniej, kiedy szukałem konia.
 
-Zapisałem obie odpowiedzi. Soren obserwował pióro, jakby liczył kreski.
+Zapisałem obie odpowiedzi. Soren pochylił się nad stołem, żeby zobaczyć, co piszę.
 
-— Ważne, żeby było o trzeciej? — zapytał.
+— Wpisze pan tę trzecią? Właściciel na to liczy.
 
-— Ważne, żeby było wiadomo, kto ją widział.
+— Wpiszę, że właściciel zgłosił trzy, a pan pamięta dwie.
 
 Dopiero wtedy opowiedział o człowieku na drodze.
 
@@ -34,23 +30,23 @@ Dopiero wtedy opowiedział o człowieku na drodze.
 
 — Dlaczego?
 
-— Gdybym wiedział, nie wróciłbym pieszo.
+— Nie wiem. Widziałem tylko, że się cofają.
 
-Kiedy przycisnąłem go pytaniami, przypomniał sobie fioletowe światło przy ręce nieznajomego. Albo przy broni. Tego już nie był pewien. Zapytałem, czy widział, by kogokolwiek zranił. Pokręcił głową. Widział za to, że kobieta z wozu, w którym pękła oś, wyciąga dziecko spod plandeki, a nieznajomy stoi między nią i napastnikami.
+Zapytałem, co jeszcze zapamiętał. Mówił o fioletowym świetle przy ręce nieznajomego, choć nie był pewien, czy nie widział go przy broni. Nie zauważył, żeby mężczyzna kogoś zranił. Widział za to kobietę wyciągającą dziecko spod plandeki wozu ze złamaną osią. Nieznajomy stał między nią a napastnikami.
 
 — On coś powiedział?
 
-— Nie słyszałem. Koń krzyczał.
+— Nie słyszałem. Koń głośno rżał.
 
-W rubryce „uczestnicy” zostawiłem miejsce. Ludzi łatwo wpisać w rubrykę. Znacznie trudniej później przekonać kogoś, że wpisano ich tam omyłkowo.
+Zostawiłem miejsce na imię nieznajomego. Nie chciałem wpisywać go obok napastników tylko dlatego, że Soren widział ich na tej samej drodze.
 
 ## II. Droga w deszczu
 
 Rok 7 ET · dom Meret, Cienisty Port, Vesper
 
-Kobieta nazywała się Meret. Mieszkała nad warsztatem szewca i początkowo nie chciała mnie wpuścić. Powiedziała, że swoje opowiedziała już straży i nikomu nie odda dziecka tylko dlatego, że ktoś chce policzyć podróżnych.
+Kobieta nazywała się Meret. Mieszkała nad warsztatem szewca i początkowo nie chciała mnie wpuścić. Powiedziała, że opowiedziała już wszystko straży i nie chce więcej wracać do napadu przy córce.
 
-Pokazałem jej kartę Sorena. Zatrzymała wzrok na pustym miejscu.
+Wyjaśniłem, że spisuję również relacje o napadzie. Pokazałem jej kartę Sorena. Zatrzymała wzrok na pustym miejscu.
 
 — Tego nie musiał pan zostawiać pustego. To był Morrak.
 
@@ -62,9 +58,9 @@ Pokazałem jej kartę Sorena. Zatrzymała wzrok na pustym miejscu.
 
 — Chłopak. Nie wiem, czyj. Miał rozcięte czoło, pamiętam, bo córka chciała mu oddać swoją chustę.
 
-Wpuściła mnie w końcu i przyniosła kubek naparu, którego nie zdążyłem wypić. Jej córka siedziała na podłodze, przyszywając guzik do rękawa. Meret mówiła, a dziewczynka co pewien czas podnosiła głowę, lecz nie poprawiała matki.
+Wpuściła mnie w końcu. Jej córka siedziała na podłodze i przyszywała guzik do rękawa. Kiedy Meret opowiadała o napadzie, dziewczynka co pewien czas podnosiła głowę.
 
-Droga była wąska i śliska. Pierwszy wóz stanął, bo ktoś przeciągnął przez nią linę. Potem wyszli ludzie z bronią. Meret schowała córkę pod plandeką, a gdy oś pękła, nie mogła jej stamtąd wyciągnąć. Nieznajomy podniósł połamany drąg i przytrzymał go, aż obie wyszły na drogę.
+Droga była wąska i śliska. Pierwszy wóz stanął, bo ktoś przeciągnął przez nią linę. Potem wyszli ludzie z bronią. Meret schowała córkę pod plandeką. Gdy oś wozu pękła, połamany drąg przygniótł materiał i dziewczynka nie mogła wyjść. Nieznajomy uniósł drąg i trzymał go, aż obie znalazły się na drodze.
 
 — Pomógł też innym? — zapytałem.
 
@@ -86,7 +82,7 @@ Meret powiedziała, że ich nie zauważyła. Córka twierdziła, że widziała j
 
 — Prawy czy lewy? — spytałem.
 
-Przez chwilę przymierzała ręce do wspomnienia. Potem wzruszyła ramionami.
+Spojrzała na swoje ręce, ale po chwili wzruszyła ramionami.
 
 Zapisałem: „rozdarty rękaw, dwa jasne, krzywe ściegi przy nadgarstku, strona nieustalona”. Dziewczynka chciała zobaczyć, czy rzeczywiście tak napisałem. Przesunąłem do niej kartę. Uśmiechnęła się dopiero, gdy znalazła własne słowa.
 
@@ -102,7 +98,7 @@ Meret odprowadziła mnie do drzwi.
 
 Rok 7 ET · Cienisty Port, Vesper
 
-Strażnik Daren przyszedł dwa dni później, kiedy suszyłem ostatnią z kart Sorena. Nie brał udziału w obronie wozów. Dotarł na miejsce wieczorem, z innymi ludźmi ze straży, i znalazł trzech rozbrojonych napastników oraz ślady prowadzące ku starej drodze.
+Strażnik Daren przyszedł dwa dni później. Nie brał udziału w obronie wozów. Dotarł na miejsce wieczorem, z innymi ludźmi ze straży, i znalazł trzech rozbrojonych napastników oraz ślady prowadzące ku starej drodze.
 
 — Dwóch mówiło o Veshu — oznajmił. — Trzeci nie chciał mówić wcale.
 
@@ -110,7 +106,7 @@ Podałem mu krzesło. Usiadł tak, żeby widzieć drzwi.
 
 — Co im zrobił?
 
-— Powiedzieli, że pozwolił im odejść. Jeden twierdził, że przyłączył się do napastników dobrowolnie i pomagał zatrzymywać wozy. Nie twierdził, że zmuszono go do udziału. Kiedy go znaleźliśmy, był rozbrojony, ale żywy. Potem znalazłem ich dowódcę.
+— Mówili, że pozwolił im odejść. Jeden powiedział mi później, że dobrowolnie przyłączył się do napastników i pomagał zatrzymywać wozy. Kiedy go znaleźliśmy, był rozbrojony, ale żywy. Potem znalazłem ich dowódcę.
 
 — Wie pan, czy człowiek w płaszczu słyszał to samo?
 
@@ -158,9 +154,7 @@ Następnego dnia Meret zjawiła się bez zapowiedzi. Usłyszała od sąsiadki, �
 
 — Wiem, że ktoś pani pomógł. Próbuję ustalić resztę.
 
-Chciała zobaczyć zapis. Kiedy go czytała, do pokoju wpadł promień słońca i zatrzymał się na wilgotnym jeszcze brzegu karty. Przysunąłem dłoń nad papier, zbierając cień z framugi. Osłoniłem nim wilgotny papier przed bezpośrednim światłem słonecznym. Utrzymanie niewielkiej zasłony przychodziło mi łatwo, lecz gdy sięgnąłem po inną kartę, krawędź cienia zadrżała i cofnęła się na moje palce.
-
-Meret czytała wolno. Przy słowach Darena zacisnęła usta.
+Chciała zobaczyć zapis. Podałem jej kartę. Czytała wolno, a przy słowach Darena zacisnęła usta.
 
 — Może się pomylił.
 
@@ -190,7 +184,7 @@ Rok 7 ET · archiwum Cienistego Portu, Vesper
 
 Wieczorem przepisałem dokument jeszcze raz. Przy imieniu Morrak zaznaczyłem, że pochodzi od chłopca, którego nie odnaleziono. Przy imieniu Vesh — że przekazał je Daren, powołując się na napastników. Śmierć dowódcy opisałem osobno od ocalenia podróżnych, lecz połączyłem karty numerem sprawy.
 
-Wcześniej skłonny byłem rozdzielić je między dwie szuflady. W jednej leżały wypadki na szlakach, w drugiej sprawy straży. Dwie szuflady stworzyłyby porządek. Nie miałem pewności, czy stworzyłyby prawdziwy obraz zdarzenia.
+Początkowo zamierzałem włożyć jedną kartę do szuflady ze sprawami dotyczącymi szlaków, a drugą do akt straży. Zostawiłem je razem, żeby ktoś czytający o ocaleniu podróżnych mógł znaleźć także relację o śmierci dowódcy.
 
 Na końcu dopisałem:
 
@@ -204,8 +198,6 @@ Nazajutrz Soren odebrał odpis dotyczący strat. Trzecią skrzynię wpisałem ja
 
 — A pan?
 
-Spojrzałem na ślad po kubku, który zostawił podczas pierwszej wizyty. Wciąż nie udało mi się usunąć go ze stołu.
-
-— Ja też — powiedziałem.
+— Chciałbym móc napisać, co się stało z każdą skrzynią. Ale nie wiem tego.
 
 Zabrał dokument i wyszedł. Kartki o nieznajomym zostały u mnie.

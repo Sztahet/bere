@@ -20,7 +20,7 @@ Nie spojrzałem na plan. Od tych wyjazdów mieliśmy pisarkę, Dalę, na dolnym 
 
 — Dowiozę im skrzynię na zmianę dla urządzenia przy suszarni — powiedział, kiedy przesunąłem miskę na skraj stołu. — Zdążyli odłożyć na nią przez lato. Jak wrócę, zabiorę dwa wozy drewna. Opłaca się nawet po dopłacie do eskorty, jeśli dzielimy drogę.
 
-— Długo już stoi?
+— Jak długo jeszcze wytrzyma?
 
 — Jeszcze działa. Tyle że muszą wyłączać po południu, żeby uruchomić je rano. Zbierze się więcej desek niż zwykle, ale przez dwa dni dadzą sobie radę.
 
@@ -60,7 +60,7 @@ Popatrzyła na mnie, jakbym odwołał wyjazd od ręki.
 
 — Kobiety, które wyniosły już rzeczy na górę. Albo ten, kto mi podpisał zamówienie. Ma własne piwnice niżej od ulicy. Masz do kogo jechać.
 
-Iren zamknęła księgę dyżurów, żeby pióro nie obcierało mokrych słów. Zaproponowałem, że zapłacę za konia i potwierdzimy godzinę. Dopiero wtedy, kiedy Sarna skinęła głową, zrozumiałem, komu zawdzięczałaby wyjazd, gdyby sprawa potoczyła się w ten sposób. Za szósty dzień października miałem pieniądze. Za kolejnego wnioskodawcę, którego nikt nie wprowadzi na górę, może też bym miał. O takich wnioskach dowiedziałbym się tylko wtedy, gdy pojawią się przed moimi drzwiami.
+Iren odsunęła pióro i zamknęła księgę dyżurów. Zaproponowałem, że zapłacę za konia i potwierdzimy godzinę. Dopiero kiedy Sarna skinęła głową, zrozumiałem, że zawdzięczałaby wyjazd moim pieniądzom. Może byłoby mnie stać na pomoc kolejnej osobie. Ale co z tymi, którzy nigdy nie trafiliby pod moje drzwi?
 
 Ktoś zagwizdał z zewnątrz i Iren odsunęła zasuwę. Wprowadziła Konevę, która schodziła z drogi z mokrym płaszczem spakowanym pod ramieniem. Przyniosła odpisy zamówień. Poznałem ją przed laty, kiedy w porcie zabrakło kuriera gotowego wyjść z ostrzeżeniem o zarwanym pomoście. Przystanęła wtedy, żeby pożyczyć gwoździe, a zanim skończyła pytanie, okazało się, że była już po drugiej stronie.
 
@@ -82,7 +82,7 @@ Koneva wyjęła z wierzchu jeden dokument. Widać było zamówienie, a pod nim w
 
 Zapamiętałem to „kto”. Sam wolałem mówić „który wóz”, gdy chodziło o trasę. Koneva znała ludzi, którzy jechali sami. Ktoś mógł się dowiedzieć, że przez pół nocy ich nie będzie ani w domu, ani w porcie.
 
-Na zewnątrz pojechał wóz. Odgłos kół był cięższy, niż zapowiadała godzina. Doszliśmy do drzwi razem z Sarną. Zmieniano konie do pierwszego przydziału. Usłyszeliśmy, jak człowiek przy desce woła o drugą skrzynię. Nie wiedział o naszych papierach ani o tym, że po jego wyjeździe zostanie tylko jedna eskorta. Kiedy ruszył, zapytałem Dali, do której możemy ją zatrzymać dla przejazdu, zanim załoga pójdzie szukać innego zlecenia.
+Na zewnątrz przetoczył się wóz. Podszedłem z Sarną do drzwi. Zmieniano konie przed pierwszym wyjazdem; człowiek przy załadunku wołał o drugą skrzynię. Nie wiedział o naszych papierach ani o tym, że po jego wyjeździe zostanie tylko jedna eskorta. Kiedy ruszył, zapytałem Dali, jak długo możemy zatrzymać drugą załogę, zanim pójdzie szukać innego zlecenia.
 
 ## Otwarte drzwi
 

@@ -16,7 +16,7 @@ Zapis Azmira: relacje dotyczące zawalenia w kopalni i późniejszej śmierci na
 
 Nazywała się Mirela. Jej brat pracował w kopalni na północ od portu. Po zawaleniu wyniesiono go na noszach; do domu wrócił bez przytomności i przez dwa dni nie rozpoznał własnej siostry. Lekarka powiedziała, że przeżyje. Nie wiedziała, czy wróci pod ziemię.
 
-Mirela chciała, bym dołączył żeton do akt wypadku. Nie chciała natomiast, by ktokolwiek w kopalni się dowiedział, skąd pochodzi.
+Mirela chciała, bym odnotował żeton w aktach wypadku, ale nie zamierzała go zostawiać. Bała się też, że w kopalni dowiedzą się, kto go znalazł.
 
 — Mówi pani, że znalazła go pani przy bramie. Zapiszę, kto go znalazł, i poproszę drugą osobę o potwierdzenie.
 
@@ -36,11 +36,7 @@ Zapisałem to i oddałem jej przedmiot.
 
 — To wszystko? — spytała.
 
-— Na razie. Nie mogę stwierdzić, że ten żeton wydał rozkaz.
-
-— On nie wydał. Człowiek wydał.
-
-Miała rację. Mimo to nie potrafiłem z samego przedmiotu wskazać człowieka.
+— Na razie. Sam żeton nie powie nam, kto wydał rozkaz. Spróbuję znaleźć ludzi, którzy byli przy bramie.
 
 ## II. Pod ziemią
 
@@ -68,7 +64,7 @@ Nie podniósł na mnie wzroku. Sprawdził, czy belka trzyma, dopiero potem mówi
 
 — Wszyscy tak mówili.
 
-Z doświadczenia wiedziałem, jak szybko jedno słowo potrafi przejść od ust do ust. Zapytałem każdego z pracujących osobno. Jeden słyszał imię od kobiety z noszami, drugi od górnika, który nie widział ratowania. Kobieta powiedziała, że rozpoznała płaszcz z czyjejś dawnej opowieści. Żadne z nich nie wiedziało, czy sam nieznajomy używa tego imienia.
+Zapytałem każdego z pracujących osobno. Jeden słyszał imię od kobiety z noszami, drugi od górnika, który nie widział ratowania. Kobieta powiedziała, że rozpoznała płaszcz z czyjejś dawnej opowieści. Żadne z nich nie wiedziało, czy sam nieznajomy używa tego imienia.
 
 Pod wieczór odnalazłem jeszcze człowieka, który przed zawaleniem pracował przy bramie. Znał znak na żetonie.
 
@@ -140,7 +136,7 @@ Nie powiedziałem jej, że jeszcze nie wiem, co myśleć. Obawiam się, że zabr
 
 Rok 10 ET · archiwum Cienistego Portu, Vesper
 
-Po powrocie do portu rozłożyłem relacje na dwóch stołach. Pierwszego dnia wydawało mi się, że mam ich za mało. Drugiego — że mam ich aż nadto, by przypadkiem wybrać tylko te, które pasują do mojego wyobrażenia.
+Po powrocie do portu rozłożyłem relacje na dwóch stołach. Niektórzy świadkowie widzieli ratunek, inni dopiero to, co wydarzyło się przy bramie. Musiałem uważać, żeby nie połączyć ich opowieści w jedną pewną wersję.
 
 Młoda kopistka Vaelis przyniosła mi odpis przygotowany dla zarządcy. Od niedawna uczyła się u mnie pracy archiwisty i magii Ciemności; chciałem z czasem przekazać jej moje obowiązki, choć ona sama jeszcze się na to nie zdecydowała. Przeczytałem zdanie: „Świadek twierdzi, że widział rozkaz wydany osobiście przez nadzorcę”.
 
@@ -190,9 +186,7 @@ Vaelis wróciła po podpis na odpisach. Zapytała, czy ten z drogi i ten z kopal
 
 — To jeszcze nie odpowiedź.
 
-— Dlatego cię zatrudniam.
-
-Nie ja ją zatrudniłem; pracowała tutaj, zanim powierzono mi nadzór nad kopiami. Przypomniała mi o tym z zadowoleniem.
+— Wiem. Dlatego nie wpiszę tego do podsumowania.
 
 Na karcie czterdziestej drugiej zapisałem, kto widział ratunek, kto widział śmierć nadzorcy, a kto powtarzał cudze słowa. Zostawiłem przy imionach odsyłacze do dawnych akt i dopisek o rozdartej tkaninie.
 

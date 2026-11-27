@@ -1,5 +1,7 @@
 # Riftoryn — relacje i perspektywy bohaterów
 
+> **Starsze opracowanie:** relacje i ich rozwój sprawdzaj w [aktualnych opowiadaniach](opowiadania/README.md), również w historiach obu stron relacji. Ten dokument może nie uwzględniać późniejszych scen.
+
 **Cel:** notatka do tworzenia i sprawdzania przyszłych opowieści. Punktem wyjścia są kanon w `world_history.md`, opublikowane historie i bieżące decyzje autora. Szkice Adriena oraz pomysły na przyszłe sceny mają status propozycji; ta notatka nie zatwierdza ich automatycznie jako fabuły gry.
 
 ## Jak łączyć historie
@@ -46,4 +48,4 @@ W chronologii opowiadania [„Nauka kontroli”](opowiadania/lucen/2_learning_co
 
 **Łuk Adriena.** W pierwszej części dopuszcza nie dość sprawdzony sygnalizator; ostrzeżenie Leny zostało zlekceważone, a w wyniku awarii ginie przewodnik. W finale sam domaga się prób bezpieczeństwa kolejnego urządzenia. To zmiana w jego postępowaniu, która nie usuwa skutków wcześniejszej decyzji ani jego dumy, ekscentryczności i poczucia wyższości.
 
-Źródła: [kierunek trylogii Adriena](RIFTORYN_ADRIEN_TRYLOGIA_PROPOZYCJA.md), [część I](opowiadania/adrien/1_the_light_that_showed_the_way/historia.pl.md), [część II](opowiadania/adrien/2_the_woman_who_knew/historia.pl.md), [część III](opowiadania/adrien/3_the_invention_i_didnt_foresee/historia.pl.md), [historie bohaterów](RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md).
+Źródła: [kierunek trylogii Adriena](dokumentacja/archiwum/szkice-i-redakcja/RIFTORYN_ADRIEN_TRYLOGIA_PROPOZYCJA.md), [część I](opowiadania/adrien/1_the_light_that_showed_the_way/historia.pl.md), [część II](opowiadania/adrien/2_the_woman_who_knew/historia.pl.md), [część III](opowiadania/adrien/3_the_invention_i_didnt_foresee/historia.pl.md), [historie bohaterów](RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md).

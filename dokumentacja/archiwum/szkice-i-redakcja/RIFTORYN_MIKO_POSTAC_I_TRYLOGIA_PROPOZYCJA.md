@@ -1,6 +1,6 @@
 # Miko — karta postaci i szkic trylogii „Szybciej niż rozsądek”
 
-**Status roboczy.** Szkic rozwinięto w trzy opowiadania. [„To powinno zadziałać”](opowiadania/miko/1_that_should_work/historia.pl.md), [„Jeszcze jeden impuls”](opowiadania/miko/2_one_more_pulse/historia.pl.md) i [„Jeszcze jeden piorun”](opowiadania/miko/3_one_more_bolt/historia.pl.md) zachowują istniejące sceny Miko z Adrienem i Leną. W trzeciej części partnerką Miko w próbie jest Thora, a Miko na potrzeby tej wersji opowiada się po stronie wspólnego nadzoru i reprezentuje Zerath. Rozwiązania techniczne i wybór strony są roboczymi decyzjami fabularnymi. Wynik kwalifikacji pozostaje otwarty.
+**Status roboczy.** Szkic rozwinięto w trzy opowiadania. [„To powinno zadziałać”](../../../opowiadania/miko/1_that_should_work/historia.pl.md), [„Jeszcze jeden impuls”](../../../opowiadania/miko/2_one_more_pulse/historia.pl.md) i [„Jeszcze jeden piorun”](../../../opowiadania/miko/3_one_more_bolt/historia.pl.md) zachowują istniejące sceny Miko z Adrienem i Leną. W trzeciej części partnerką Miko w próbie jest Thora, a Miko na potrzeby tej wersji opowiada się po stronie wspólnego nadzoru i reprezentuje Zerath. Rozwiązania techniczne i wybór strony są roboczymi decyzjami fabularnymi. Wynik kwalifikacji pozostaje otwarty.
 
 ## Miko
 

@@ -4,13 +4,15 @@
 
 Rok 10 ET · archiwum Cienistego Portu, Vesper
 
-Vaelis przyniosła mi odpis zeznania z kopalni. Zanim zdążyłem podpisać odpis, zatrzymała pióro nad jednym zdaniem.
+Vaelis przyniosła mi odpis zeznania z kopalni. Zatrzymałem pióro nad jednym zdaniem.
 
-Vaelis wskazała słowo „widział”, a potem przesunęła w moją stronę moje wcześniejsze podsumowanie.
+— Dlaczego napisałaś, że świadek widział rozkaz? W pierwszej notatce było, że go słyszał.
+
+Vaelis przesunęła w moją stronę moje wcześniejsze podsumowanie.
 
 — Pan też napisał „widział” w podsumowaniu — powiedziała.
 
-Przeczytałem oba zapisy. Różnica mieściła się w jednym słowie. W aktach zmieniała niemal wszystko.
+Porównałem oba zapisy z pierwszą notatką. Różnica mieściła się w jednym słowie. W aktach zmieniała niemal wszystko.
 
 Sprawa dotyczyła zawalenia w kopalni i człowieka, który pojawił się przy bramie. Mirela przyniosła żeton znaleziony po wypadku; nie chciała, by w kopii dla zarządcy znalazło się jej imię. Pracownik bramy słyszał rozkaz nadzorcy i opisał, co stało się z żetonem. W moim podsumowaniu połączyłem obie rzeczy tak, jakby jeden świadek widział całą sekwencję.
 

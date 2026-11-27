@@ -6,7 +6,7 @@ Lato, 7 ET · gospodarstwo rodziny zastępczej Liory, Verdan
 
 Kiedy byłam mała, wpychałam do wilgotnej ziemi cały palec, żeby pokazać korzeniowi drogę. Dzieci przy naszym stole robiły tak samo, dopóki ktoś nie kazał im spróbować na odwrót. Najpierw trzeba było sprawdzić, dokąd sadzonka już idzie. Potem dotykało się ziemi tam, gdzie dalej mogła znaleźć wodę. Tyle umiał każdy, kto przeżył u nas kilka lat z własną donicą pod oknem. Wciąż trzeba było pamiętać o podlewaniu.
 
-Latem zielarki z naszej rodziny trzymały przy ławie dwa kosze. Do jednego trafiały liście na kompresy. W drugim były sadzonki, które chcieliśmy utrzymać do następnych nasion. Zdrowe miałam przenieść do cienia, słabsze obejrzeć od spodu. Wzięłam kosz z najsłabszymi pod pachę. Nosiłam go od studni do okna, aż wszystkie wyglądały na trochę bardziej przytomne. Przy jednej trzymałam dłoń tak długo, że kiedy ją odjęłam, liść złożył się pod własnym ciężarem.
+Latem zielarki z naszej rodziny trzymały przy ławie dwa kosze. Do jednego trafiały liście na kompresy. W drugim były sadzonki, które chcieliśmy utrzymać do następnych nasion. Zdrowe miałam przenieść do cienia, słabsze obejrzeć od spodu. Wzięłam kosz z najsłabszymi pod pachę. Nosiłam go od studni do okna, aż część liści nieco się uniosła. Przy jednej sadzonce trzymałam dłoń tak długo, że kiedy ją odjęłam, liść złożył się pod własnym ciężarem.
 
 Sadzonkę wyjęła mi z donicy Miren. To u niej zamieszkałam po ewakuacji. Uczyła mnie robić opatrunki i od tamtej pory mogłam w jej domu ciąć płótno bez pytania. Tylko nożycami od kuchni nie wolno mi było tknąć ani nitki. Obróciła sadzonkę, żebym zobaczyła urwany korzeń.
 

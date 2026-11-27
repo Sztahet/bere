@@ -32,7 +32,7 @@ Odsunąłem korpus z końmi i położyłem obie latarnie obok siebie. Pokazałem
 
 — Dobrze, że pamiętasz — odezwał się. — Przy wozie miałem ryby, tę zapasową osłonę i ciemno. Spróbuj teraz. Masz światło.
 
-Podał mi część, którą wyjął ze składowej skrzyni z zapasami. Kształt miała taki jak moje. Przymierzyłem ją do jednej latarni, potem do drugiej. W pierwszej oparła się o występ i nie chciała wejść głębiej. W drugiej po jednej stronie został luz na cały palec. Obróciłem ją raz jeszcze, chociaż widziałem już, na czym stanie. Solan trzymał obie latarnie, cierpliwie jak młody człowiek na przymiarce. Na stole wisiało nad nimi dobre światło. Poprosiłem go, żeby przybliżył lampę.
+Podał mi część, którą wyjął ze skrzyni z zapasami. Kształt miała podobny do moich. Przymierzyłem ją do jednej latarni, potem do drugiej. W pierwszej oparła się o występ i nie chciała wejść głębiej. W drugiej po jednej stronie został luz na cały palec. Obróciłem ją raz jeszcze, chociaż widziałem już, że nie pasuje. Solan trzymał obie latarnie cierpliwie jak młody człowiek na przymiarce. Poprosiłem go, żeby przybliżył lampę, i raz jeszcze obejrzałem mocowania w jej świetle.
 
 ## Jedna zapasowa
 

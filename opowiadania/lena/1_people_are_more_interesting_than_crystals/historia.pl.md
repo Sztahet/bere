@@ -10,7 +10,7 @@ Przyniosę. Kiedyś.
 
 W warsztacie Adrien pokazał oficerowi sygnalizator. Dwie cienkie linie światła przecinały kurz nad placem. Uczeń na drugim końcu placu machał obiema rękami. Jedna linia miała oznaczać przejazd, dwie — zatrzymanie. W dymie na górskiej drodze człowiek mógłby je zobaczyć tam, gdzie zwykła latarnia znika.
 
-To piękny przyrząd. Wiem, że nie powinnam tak mówić o skrzyni z przesłonami i kryształem, ale piękny. Adrien potrafi zaprojektować jedną część, która spełnia dwie funkcje. Ktoś inny potrzebowałby do tego trzech. W piecu zmienił dozowanie tak, że jeden kryształ wystarcza na wiele tygodni. Mara mówi, że odkąd taki piec stoi u jej matki, nie musi co parę dni wymieniać w nim kryształu.
+Podobał mi się ten przyrząd: skrzynia z kryształem i przesłonami, która mogła pokazać drogę ludziom daleko na zboczu. Adrien potrafił zaprojektować jedną część tak, by spełniała dwie funkcje. Ktoś inny potrzebowałby do tego trzech. W piecu zmienił dozowanie tak, że jeden kryształ wystarczał na wiele tygodni. Mara mówiła, że odkąd taki piec stoi u jej matki, nie musi co parę dni wymieniać w nim kryształu.
 
 Widziałam jednak kreskę przy krawędzi mocowania sygnalizatora. Nie spodobało mi się, jak napinał się uchwyt, kiedy przechylałam skrzynię.
 
@@ -26,7 +26,7 @@ Miałam na końcu języka, że droga nie poczeka na próbę. Nie powiedziałam t
 
 Adrien podpisał techniczną zgodę na użycie prototypu. Dowódca zdecydował, że konwój wyruszy bez próby terenowej. Nie było protokołu z tej próby, więc nie miałam czego podpisać.
 
-Wieczorem spróbowałam odtworzyć naprężenie na zapasowym uchwycie. Nie pękł. Gdyby pękł, mogłabym zanieść go rano jako dowód. Zostawiłam go na stole, choć sama nie wiedziałam, komu chciałam go pokazać.
+Wieczorem spróbowałam odtworzyć naprężenie na zapasowym uchwycie. Nie pękł. Gdyby się to udało, mogłabym rano pokazać uszkodzenie oficerowi. Odłożyłam uchwyt na stół. Następnego dnia konwój miał już wyruszyć.
 
 6 października, 4 PT · Aurel
 

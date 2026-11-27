@@ -2,13 +2,13 @@
 
 Sześć propozycji wizualnych do przyszłego modelowania, a nie zatwierdzone modele 3D ani nowe zasady świata. Każdy prompt generuj osobno. Wóz Vedy opiera się na opowiadaniach: konie, skrzynie, burty, pasy mocujące i łatana plandeka są w nich obecne. Pozostałe szczegóły konstrukcyjne wszystkich wozów to propozycje.
 
-Dostarczone plansze: [Veda](assets/lore/wagons/veda.png), [Verdan](assets/lore/wagons/verdan.png), [Kharum](assets/lore/wagons/kharum.png), [Vareth](assets/lore/wagons/vareth.png), [Nivoren](assets/lore/wagons/nivoren.png) i [Vesper](assets/lore/wagons/vesper.png). Ich opisy i powiększane ilustracje znajdują się w kodeksie Unity: **Życie świata → Wozy**.
+Dostarczone plansze: [Veda](../../assets/lore/wagons/veda.png), [Verdan](../../assets/lore/wagons/verdan.png), [Kharum](../../assets/lore/wagons/kharum.png), [Vareth](../../assets/lore/wagons/vareth.png), [Nivoren](../../assets/lore/wagons/nivoren.png) i [Vesper](../../assets/lore/wagons/vesper.png). Ich opisy i powiększane ilustracje znajdują się w kodeksie Unity: **Życie świata → Wozy**.
 
-Dodatkowe warianty: [kryty wóz przewoźnika](assets/lore/wagons/kryty-przewoznika.png) jako referencja dla wozu Vedy i podobnych przewozów oraz [rozkładany warsztat](assets/lore/wagons/warsztat-rozkladany.png). W kodeksie są dostępne jako drugi wariant odpowiednio przy Vedzie i Vareth. To ilustracyjne referencje, nie gotowe modele 3D.
+Dodatkowe warianty: [kryty wóz przewoźnika](../../assets/lore/wagons/kryty-przewoznika.png) jako referencja dla wozu Vedy i podobnych przewozów oraz [rozkładany warsztat](../../assets/lore/wagons/warsztat-rozkladany.png). W kodeksie są dostępne jako drugi wariant odpowiednio przy Vedzie i Vareth. To ilustracyjne referencje, nie gotowe modele 3D.
 
 ## Wspólne ustawienia
 
-Do każdego promptu dołącz poniższy fragment. Jeśli generator umożliwia użycie referencji, można dodać [mapy Riftorynu](assets/lore/cartography/) jako wskazówkę nastroju i położenia krain. Konie, jeżeli są pokazane, mają być osobno od widoków samego wozu, aby nie zasłaniać konstrukcji.
+Do każdego promptu dołącz poniższy fragment. Jeśli generator umożliwia użycie referencji, można dodać [mapy Riftorynu](../../assets/lore/cartography) jako wskazówkę nastroju i położenia krain. Konie, jeżeli są pokazane, mają być osobno od widoków samego wozu, aby nie zasłaniać konstrukcji.
 
 > Stylized high-end fantasy game vehicle production sheet for Riftoryn, landscape 3:2. One coherent, practical horse-drawn wagon design, unhitched and unloaded in the main turnaround. Clear separate front, side, rear and 3/4 views of the same wagon with consistent wheel count, dimensions, axle placement, body, hitch and construction. Large readable detail views of wheels, axle, hitch, cargo ties and characteristic equipment; separate small loaded view showing intended use. Show realistic structural support, clearance and attachment points suitable as an artist's reference for a future stylized 3D model. Handcrafted wood, iron and textiles with believable wear; readable silhouette, warm painterly materials, restrained geometric shapes. Neutral simple background, even studio lighting. No text, labels, numbers, logos, watermark, modern tires, engine, exhaust, floating parts or impossible wheel geometry. Do not treat visual details as established lore or finalized engineering.
 

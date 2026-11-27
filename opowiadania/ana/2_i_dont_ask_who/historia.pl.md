@@ -4,25 +4,27 @@
 
 4 maja, 12 ET · Korzenna Przystań, Verdan
 
-Milka przyniosła mi pierwszą fasolę, która wyszła przy objazdowej drodze. Domyśliłam się, że coś niesie, bo furtkę otworzyła kolanem. Miała w obu dłoniach mokrą grudkę ziemi, a z niej wystawał zgięty pęd. Przyniosła go kawał drogi. Na jego końcu wisiał jeszcze płatek łupiny.
+Milka otworzyła furtkę kolanem. W dłoniach niosła grudkę mokrej ziemi, z której wystawał blady, zgięty pęd. Na jego końcu trzymała się jeszcze łupina ziarna. Dziewczynka przeszła z nim całą drogę od swojego ogrodu, ostrożnie, żeby nie rozsypać ziemi.
 
 — Wszystkie wzejdą tak późno? — zapytała.
 
-Wzięłam od niej grudkę, zanim zdążyła się rozpaść.
+Wzięłam fasolę, zanim ziemia rozsypała się jej między palcami.
 
-— Wszystkie wzejdą, jeśli przestaniesz je wykopywać.
+— Nie wiem. Dajmy im jeszcze kilka dni. Tylko więcej nie wykopuj.
 
-Zrobiłam w pudełku po sadzonkach zagłębienie i oddałam jej fasolę. Pudełko mogła postawić pod domem i sprawdzić po trzech dniach, czy fasola wyprostuje się po przenosinach. Chciała zobaczyć korzeń. Włożyłam do pustej donicy odłamek szyby i wsypałam ziemię, a ona zasadziła przy szybie nowe ziarno. Jeśli ustawi donicę tyłem do okna i wyjmie ją z worka tylko do oglądania, będzie mogła zobaczyć, gdzie idzie korzeń.
+Posadziłyśmy pęd w pudełku. Milka miała je zabrać i sprawdzić po trzech dniach, czy roślina się podniosła. Wtedy przyznała, że wcale nie chodziło jej o pęd. Chciała zobaczyć, jak wygląda korzeń.
+
+Znalazłam odłamek szyby i wsunęłam go przy ściance pustej donicy. Dosypałyśmy ziemi, a Milka zasadziła nowe ziarno tuż przy szkle. Donicę trzeba było osłonić workiem, żeby korzeń mógł rosnąć w ciemności. Do oglądania wystarczyło go na chwilę zdjąć.
 
 — Ty tak robiłaś?
 
-— Wykopałam sześć. Siódmą zobaczyła Daga.
+— Wykopałam sześć. Przy siódmej zobaczyła mnie Daga.
 
-Pod płotem Bob jadł gałąź bambusa. Milka zaczęła chodzić między nim a furtką, aż podniósł łeb. Poprosiłam, żeby złapała końcówkę sznura i napięła go na wysokości jego ucha. Na tym odcinku między grządkami Bob miał przejście do sadu. Przy grządce z nową fasolą poszerzyłam je o pół szpadla. Zawsze szedł najkrótszą drogą tam, gdzie już pachniało liśćmi. Kamienie, które rozłożyła Milka, okazały się dobre na brzeg ścieżki.
+Pod płotem Bob obgryzał bambus. Dopiero kiedy Milka kilka razy przeszła między nim a furtką, uniósł łeb. Poprosiłam ją, żeby naciągnęła sznur na wysokości jego ucha. Wymierzałyśmy przejście do sadu; przy grządce z fasolą poszerzyłam je o pół szpadla. Bob wybierał najkrótszą drogę do liści, więc wolałam zostawić mu dość miejsca. Milka ułożyła kamienie wzdłuż ścieżki.
 
-Sznur wisiał jeszcze dwie godziny później. Milka pognała po babkę, która prosiła ją wcześniej, żeby wymierzyła przejście. Daga przyszła z koszem. Na dnie miała pusty słoik. Poświęciła chwilę na oglądanie fasoli, potem przysiadła obok mnie na kamieniu i odwiązała but. Na pięcie zrobiło jej się otarcie. Rano chciała pójść z Milką na podmokłe grządki, bo sąsiedzi dostali deski na kładkę i zostało do zrobienia wiklinowe podłoże.
+Po dwóch godzinach Milka pobiegła po babkę. Daga przyniosła w koszu pusty słoik po maści. Obejrzała fasolę, usiadła obok mnie na kamieniu i odwiązała but. Na pięcie miała otarcie, a rano zamierzała iść z Milką na podmokłe grządki. Sąsiedzi zdobyli deski na kładkę; brakowało jeszcze wiklinowego podłoża.
 
-— Nie zszyjesz w tych butach — powiedziałam.
+— Z takim otarciem nie dojdziesz na grządki — powiedziałam.
 
 — W tych butach mogę przynajmniej zejść po schodach bez trzymania się ściany.
 
@@ -32,41 +34,47 @@ Obiecałam przynieść jej na wieczór płótno i zwykłą maść. Uparła się,
 
 Poprosiłam, żeby jutro usiadła bliżej domu i zszywała pasy wikliny po kawałku. Na grządki mogliby je odnieść sąsiedzi. Obiecała spytać, czy znajdą czas. Kiedy otworzyła furtkę, Bob nie przesunął się ani o cal. Przestąpiła nad jego łapą tak, jakby przechodziła przez próg.
 
-Wieczorem przyniosłam Dagnie pełny słoik. Żeby go dla niej zrobić, poprosiłam płacącą klientkę, która przyszła po maść, żeby odebrała swoją porcję na targu. Miałam surowiec na oba, tylko czasu brakowało. Veda zdążyła zamówić drugą niewielką dostawę kropli. Torba na nie zajmowała pod stołem mniej miejsca niż pusty kosz Dagi. Gdy zarzucałam ją na ramię, ledwie czułam ciężar, dopóki nie brzęknęło szkło.
+Wieczorem zaniosłam Dagnie maść. Dla drugiej klientki też wystarczyłoby składników, ale nie czasu. Poprosiłam ją, żeby odebrała swój słoik na targu. Musiałam jeszcze przygotować kolejne krople dla Vedy. Gdy wychodziłam z torbą na ramieniu, szkło cicho o siebie brzęknęło.
 
 ## Droga Boba
 
 9 maja, 12 ET · rynek w Korzennej Przystani, Verdan
 
-Do dalszej podróży zaczęliśmy się przyzwyczajać wcześniej, na rynku w Korzennej Przystani. Przed pierwszym wyjściem ułożyłam sobie trasę. Chciałam przejść między wozami, minąć warsztat i wrócić tą samą drogą. Zatrzymaliśmy się po drugiej stronie pierwszego wozu. Z warsztatu dobiegł huk młota. Bob schował się za moją nogą. Widziałam za sobą tylko czubki uszu, a przede mną sprzedawcę cebuli, który patrzył w dół na cztery łapy wystające po obu stronach moich butów.
+Zanim przyszło nam ruszyć w drogę, zabierałam Boba na rynek. Chciałam, żeby przywykł do wozów, głosów i stukania, którego w Val Meris miało być jeszcze więcej. Za pierwszym razem zamierzałam przejść z nim obok warsztatu i wrócić tą samą drogą. Nie zdążyliśmy minąć pierwszego wozu. Gdy uderzył młot, Bob schował się za moją nogą.
 
-Przeczekaliśmy chwilę. Drugi raz podszedł bliżej sam. Trzeci raz warsztat był zamknięty i pomyślałam, że obchód się zmarnował. Potem zobaczyłam, że Bob przy studni odpoczywa w samym środku targu. Ludzie przechodzili po obu stronach, a on patrzył, co wyjmują z koszy.
+Sprzedawca cebuli uśmiechnął się na widok łap wystających po obu stronach moich butów. Odczekaliśmy, aż w warsztacie ucichnie stukanie, a potem wróciliśmy do domu.
 
-Thora była już od dłuższego czasu w Val Meris. Posłaniec powiedział, że ćwiczy przy wieżach. Spytałam, jak wyglądają. Opowiedział mi o cegle i o łoskocie mechanizmu. Na kolejnym targu zabrałam kawałek bambusa pod warsztat. Zostałam pod ścianą, aż Bob przyszedł po niego sam. Z bliska, gdy młot opadał, czułam uderzenia w palcach opartych na murze. Po trzecim Bob położył się przy mnie. Jadł, patrząc, jak po drugiej stronie rynku ktoś zamiata schody.
+Przy następnej wizycie Bob sam podszedł bliżej. Za trzecim razem warsztat był zamknięty i pomyślałam, że ominęła nas okazja do ćwiczeń. Niedługo potem znalazłam go przy studni. Leżał w samym środku targu i obserwował ludzi, którzy przechodzili obok z koszami. Żaden pośpiech nie skłonił go do wstania.
 
-Tego dnia spotkałam przewoźniczkę, z którą mieliśmy jechać. Miała na imię Iwa i od dwóch targów próbowała zmierzyć Boba, kiedy stoi. Miał go zabrać ostatni wóz, przerobiony po dawnych kursach z cielętami. Tyle że Bob, gdy tylko Iwa rozciągała miarę między dłońmi, siadał i czekał, aż mu ją odda. Przyniosłam bambus do przymiarki. Bob wszedł po pochylni tak łatwo, że Iwa nie zdążyła przytrzymać burty. Potem się obrócił i podparł tyłem o przegrodę na bagaże.
+Thora od dawna była już w Val Meris. Posłaniec opowiadał, że ćwiczy przy wieżach; gdy zapytałam, jak tam jest, wspomniał o ceglanych murach i łoskocie mechanizmu. Podczas następnego targu zabrałam więc bambus pod warsztat. Zostałam przy ścianie i czekałam, aż Bob sam do mnie podejdzie. Czułam w palcach każde uderzenie młota. Po trzecim Bob położył się obok i zaczął jeść, zerkając na kogoś, kto po drugiej stronie rynku zamiatał schody.
+
+Tego dnia znów spotkałam Iwę, przewoźniczkę, z którą mieliśmy jechać. Chciała zmierzyć Boba, żeby upewnić się, że zmieści się na wozie. Znał już jej miarę: ilekroć ją wyjmowała, siadał i czekał, aż mu ją pokaże.
+
+Tym razem przyniosłam bambus. Weszłam po pochylni, a on podreptał za mną. Wóz był przerobiony po dawnych kursach z cielętami; Bob bez trudu dotarł do burty, obrócił się i oparł o przegrodę na bagaże.
 
 — Teraz! — zawołała.
 
-Byłyśmy gotowe. Bob przechylił się na bok, żeby mieć obie przednie łapy wolne do jedzenia. Deska, o którą się opierał, zatrzeszczała. Iwa złożyła miarę.
+Iwa rozciągnęła miarę, ale w tej samej chwili Bob przechylił się, żeby chwycić łodygę obiema łapami. Deska za jego plecami zatrzeszczała.
 
-— Przyprowadzisz go przed wyjazdem, wymienię przegrodę na grubszą.
+— Przyprowadź go przed wyjazdem. Wymienię przegrodę na grubszą.
 
-Narysowała kredą kreskę na podłodze wozu, po której miała iść ta nowa. Po mojej stronie mieściła się jedna torba. Po stronie Boba zostało miejsce na Boba albo na wiązki bambusa. Musiałam wziąć dodatkowy kawałek podłogi na następnym wozie, żeby bambus jechał osobno. Iwa powiedziała, ile to kosztuje, i zaczekała. Za drogę Boba liczyła niemal trzy razy tyle, co za moją. Nawet po doliczeniu mojej pryczy w Val Meris więcej płaciłam za przewóz Boba niż za cały własny pobyt.
+Zaznaczyła kredą na podłodze, gdzie postawi grubszą deskę. Zostałoby za nią dość miejsca dla Boba, lecz bambus musiałby jechać osobno. Kiedy podała mi cenę za przewóz, przeliczyłam wszystko w myślach. Za jego podróż miałam zapłacić niemal trzy razy tyle, co za własną. Nawet z pryczą w Val Meris kosztowałabym mniej.
 
-— Może iść piechotą — powiedziała. — Gdzie będziemy mieli szeroko, żaden koń się go nie przestraszy. Tylko w razie błota albo na zatłoczonym odcinku muszę mieć go gdzie wstawić.
+— Może iść piechotą — powiedziała. — Na szerokiej drodze konie będą miały dość miejsca, żeby go ominąć. Ale w błocie albo na zatłoczonym odcinku muszę mieć go gdzie wstawić.
 
-Zapytałam, czy da się obniżyć cenę za miejsce na bambus, jeśli pomogę przy karmieniu koni. Pokazała mi obręcz z drewna. Woziła ją do Val Meris, żeby zielarze mogli na targu stawiać w niej donice. Gdyby znaleźli u mnie kilka sadzonek, które chcieliby wymienić albo kupić, mogła odstąpić mi kawałek podłogi taniej. Chciała, żebym poszła z nią na targ i wytłumaczyła, do czego służą moje sadzonki. Zanotowała nową cenę, a ja wpłaciłam zaliczkę. Bob patrzył, jak liczymy monety na brzegu burty. Nie zobaczył, żeby ktokolwiek dostał w zamian bambus, więc stracił zainteresowanie.
+Zapytałam, czy za miejsce na bambus zapłaciłabym mniej, gdybym pomogła przy koniach. Iwa miała inny pomysł. Woziła do Val Meris drewnianą obręcz, w której zielarze ustawiali donice na targu. Gdybym przywiozła sadzonki i pomogła opowiedzieć o nich kupującym, odstąpiłaby mi miejsce taniej.
+
+Zgodziłam się. Wpłaciłam zaliczkę, a ona zapisała resztę należności. Bob przez chwilę przyglądał się naszym dłoniom, potem znów zajął się liśćmi.
 
 ## Wolna ława
 
 14 maja, 12 ET · rynek w Korzennej Przystani, Verdan
 
-Veda zastała mnie przy studni. Miałam wracać z targu prosto do Dagi. Zrobiła mi w chacie miejsce na grządki w skrzynkach, żebym mogła w ostatnim tygodniu przed wyjazdem pokazać Milce, jak rozpoznaje się za dużo wody. Veda zapytała, czy zdążę usiąść przy wolnej ławie, zanim wyruszy dalej. Bob już pod nią leżał.
+Veda znalazła mnie przy studni. Po zakupach miałam iść prosto do Dagi, która zrobiła w chacie miejsce na skrzynki z ziemią. W ostatnim tygodniu przed wyjazdem chciałam pokazać Milce, jak rozpoznać, że rośliny dostały za dużo wody. Veda zapytała, czy zdążę z nią chwilę porozmawiać. Przy wolnej ławie był cień, a Bob już pod nią leżał.
 
 — Chciałabym dwadzieścia cztery — powiedziała, kiedy usiadłam.
 
-Były cztery osoby bliżej nas niż studnia, ale przy targowych nawoływaniach i wybijaniu wody słyszałam głównie wiadro. Pomyślałam, że właśnie dlatego zaproponowała mi to miejsce.
+Przy studni nawoływania sprzedawców mieszały się z pluskiem wody i stukaniem wiader. W tym gwarze mogłyśmy rozmawiać, nie zwracając na siebie uwagi.
 
 — Sześć poszło. Sześć następnych też. Teraz wszystko, co mam, chciałabyś na raz.
 
@@ -76,11 +84,11 @@ Były cztery osoby bliżej nas niż studnia, ale przy targowych nawoływaniach i
 
 — Chcesz wiedzieć?
 
-Veda poruszyła łokciem, jakby chciała wyjąć coś z torby. Za nią szedł człowiek z łoziną na kosze. W połowie rynku uniósł pęk nad głowę, żeby przepuścić dziecko. Patrzyłam, aż skręcił przy warsztacie. Wiedziałam, że jeśli teraz powiem „tak”, dostanę może jedno imię, zawód albo cały rząd ludzi, którzy zarabiają dopiero wtedy, kiedy mogą rano wstać i wrócić do pracy. Każdego mogłabym potem spotkać na ulicy.
+Veda sięgnęła do torby. Pomyślałam, że zaraz poda mi czyjeś imię, może nawet adres. A potem mogę spotkać tego człowieka na targu i zapytać, czy krople pomogły. Tylko co zrobię, jeśli usłyszę, że po nich nie mógł wstać do pracy?
 
 — Nie — powiedziałam.
 
-Veda poprawiła płaszcz. Jej ręka była już na torbie. Cofnęła ją i zapytała, ile mogę przywieźć do Val Meris na koniec maja.
+Veda cofnęła rękę i poprawiła płaszcz. Zapytała, ile mogę przywieźć do Val Meris na koniec maja.
 
 — Jeżeli badali je w lecznicy, chcę zobaczyć, co zapisali — powiedziałam.
 
@@ -90,7 +98,7 @@ Veda poprawiła płaszcz. Jej ręka była już na torbie. Cofnęła ją i zapyta
 
 — Że chcą jeszcze.
 
-Można było od tego zdania zacząć rozmowę albo na nim skończyć. Zobaczyłam, że Bob wylizuje nos z odrobiny błota. Wyciągnęłam rękę poza ławę i wytarłam go skrawkiem fartucha. Rozchylił pysk, jakby chciał spróbować materiału. Przytrzymałam brzeg tak długo, aż sam się znudził.
+Nie tego chciałam się dowiedzieć. Bob wyjrzał spod ławy z nosem ubrudzonym błotem, więc wytarłam go skrawkiem fartucha. Próbował chwycić materiał zębami; przytrzymałam go, dopóki nie zrezygnował.
 
 — Na arenie będą o to pytać — powiedziałam. — I o to, czy można po nich walczyć dłużej.
 
@@ -102,13 +110,13 @@ Można było od tego zdania zacząć rozmowę albo na nim skończyć. Zobaczyła
 
 — Wolę na kartce.
 
-Veda powiedziała, że luźne kartki rzadko docierają do tych samych ludzi co butelki. Poprosiłam, żeby pokazała mi jedną z poprzednich. Miała pod ręką złożony prywatny rachunek, kliny do skrzyń i próbkę płótna, którym ktoś w Kharum chciał jej połatać wóz. Kartki nie miała.
+Veda powiedziała, że luźne kartki łatwo się gubią. Poprosiłam, żeby pokazała mi jedną z tych, które dołączyłam do poprzedniej dostawy. Przejrzała torbę. Znalazła rachunek, kliny do skrzyń i próbkę płótna, ale nie moje ostrzeżenie.
 
 — Przywiozę osiem. Przy szkle będzie moje ostrzeżenie.
 
 — Za osiem zapłacę tyle samo, co poprzednio. Dwadzieścia cztery mogłabym zamówić z wyprzedzeniem na kolejne miesiące. Zapłacę część z góry, jeśli dogadamy się w Val Meris.
 
-Podała mi kwotę. Zobaczyłam przed sobą tamten drugi rachunek Sewina. Przy tej zaliczce mogłabym zarezerwować dostawy niemal do następnej wiosny. Na jesień zamówiłby wóz z dalekich kęp, tam gdzie od rzeki dłużej trzyma się ciepło. Mogłabym też przez rok przyjmować zlecenia od ludzi, którzy chcą ode mnie dwa słoiki w miesiącu i potrzebują czasu, żeby zapłacić za jeden.
+Kiedy usłyszałam kwotę, przypomniałam sobie rachunek Sewina. Mogłabym zapłacić za dostawy aż do następnej wiosny. Nie musiałabym co tydzień zastanawiać się, czy wystarczy mi na bambus, ani odmawiać maści ludziom, którzy potrzebują czasu na zapłatę. Przez chwilę miałam ochotę przyjąć zamówienie od razu.
 
 — Osiem do Val Meris — powtórzyłam. — O reszcie na miejscu.
 
@@ -116,35 +124,35 @@ Veda znalazła skrawek papieru. Zostawiła adres składu przy wschodniej bramie.
 
 — Jak zechcesz wrócić do pierwszego pytania, zadaj mi je w Val Meris — powiedziała.
 
-Odprowadziłam ją wzrokiem aż za studnię. Bob wyszedł spod ławy. Wykorzystałam wolne miejsce, żeby podnieść worek na kolana. Chleb dla Dagi zrobił się ciepły od słońca. Kiedy przycisnęłam worek, zapachniało świeżą skórką, więc wróciłam pod kram i kupiłam drugi.
+Kiedy Veda odeszła, Bob wysunął się spod ławy. Wzięłam worek z zakupami na kolana. Chleb dla Dagi ogrzał się na słońcu i pachniał tak kusząco, że wróciłam do kramu po drugi bochenek.
 
 ## Pasy pod kładkę
 
 17 maja, 12 ET · ogród przy objazdowej drodze, Korzenna Przystań, Verdan
 
-Przy dolnych grządkach zostały trzy pasy wikliny. Zrobiła je Daga. Rozłożyła je tak, żeby ludzie mogli jeszcze przejść suchą stroną, o ile mieli się czego przytrzymać. Oparłam ramię o słupek od płotu. Pomogło do połowy, potem miałam cały but w wodzie. Bob obszedł koniec kładki i wszedł środkiem rowu. Zanim go dogoniłam, zebrał na grzbiecie kilka żółtych płatków i tyle rzęsy, że prawie nie było widać czarnego pasa na barkach. Daga patrzyła, jak próbuję zdjąć z niego rzęsę, a on ociera się kolejno o dwa słupki, pień gruszy i moją spódnicę.
+Przy dolnych grządkach Daga rozłożyła trzy pasy wikliny. Można było po nich przejść suchą nogą, pod warunkiem że człowiek miał się czego przytrzymać. Oparłam się o słupek płotu, ale w połowie drogi i tak wpadłam butem do wody. Bob tymczasem obszedł koniec kładki i wszedł prosto do rowu. Zanim go dogoniłam, na grzbiecie miał żółte płatki i tyle rzęsy, że niemal zniknął pod nią czarny pas na barkach. Daga patrzyła, jak próbuję go oczyścić, podczas gdy on ociera się o słupki, pień gruszy i moją spódnicę.
 
 — Trzeba mu jeszcze umyć za uchem — powiedziała. — Jak był mały, tam właśnie wszystko chował.
 
-Nabrałam wody w ręce i sprawdziłam za uchem. Znalazłam kawałek liścia. Bob odwrócił łeb, oparł dolną szczękę o moje nadgarstki i został tak dłużej niż wtedy, kiedy go coś swędziało. Pracowałam małym palcem, dopóki mogłam go w ogóle poruszać.
+Nabrałam wody w dłonie i zajrzałam za ucho. Rzeczywiście tkwił tam kawałek liścia. Bob oparł pysk o moje nadgarstki i nie zamierzał się ruszyć, więc wydobyłam zdobycz małym palcem.
 
-Daga przyszła po swoją łopatkę i poprosiła mnie o pomoc przy końcu kładki. Sama już zdjęła deskę, żeby podebrać spod niej błoto. Posadziłam ją na ławie i zabrałam się do naprawy. Chciałam szybko umocować kładkę i wrócić po wodę dla roślin, które przed wyjazdem miałam jeszcze przesadzić. Zapytałam tylko, którą stroną układać wiklinę. Daga pokazała końcówki, które wiązała, tak by dało się ją podnieść po kolejnej ulewie. Przełożyłam przez nie pędy z krzewu rosnącego przy końcu kładki. Z moją pomocą mogły sięgnąć od żerdzi do żerdzi. Pod naciskiem deski naciągnęły się i przytrzymały pas.
+Daga poprosiła, żebym pomogła jej przy kładce. Zdjęła już deskę i wygarnęła spod niej trochę błota. Kazałam jej usiąść, a sama zabrałam się do roboty. Spieszyłam się: przed wyjazdem czekały mnie jeszcze sadzonki. Daga pokazała mi, jak związała wiklinę, żeby można ją było podnieść po ulewie. Poprowadziłam przez wiązania pędy rosnącego obok krzewu i przyłożyłam deskę.
 
 — Teraz to będzie na dobre — powiedziałam.
 
 — A jak przyjdę podnieść, żeby wygarnąć błoto?
 
-Miałam jej pokazać, że może puścić pęd, jeśli odchyli go dwa razy przy samym końcu. Zeszłam na dół, żeby zrobić to przy niej. Nawet moimi palcami trudno było sięgnąć pod deskę. Znałam ręce Dagi. Łyżkę trzymała rano inaczej niż wieczorem, a po dzień rozpracowywała sęki przy wiadrach do wody. Sznur przy bucie odpinała w cieple.
+Przykucnęłam, żeby jej pokazać. Dopiero wtedy przekonałam się, jak trudno wsunąć palce pod deskę. Pomyślałam o tym, ile czasu Daga spędza przy piecu, zanim zdoła odwiązać sznurek u buta. A ja właśnie zostawiłam jej w ogrodzie coś, czego sama nie umiałam łatwo rozebrać.
 
 — Mogę wsadzić pod to dłuższą gałąź. Będzie trzeba ciągnąć wyżej.
 
 — Chodź jeszcze kawałek — powiedziała.
 
-Podniosła się i położyła na desce samą piętę. Przypomniała mi, że gdy przychodzi tu rano sama, czasem potrzebuje oprzeć ciężar o blat po lewej, a jeśli belka wystaje, o belkę po prawej. Ta kładka była jej potrzebna także w błocie, kiedy za mną nie było kogo zawołać. Podała mi końce wikliny z drugiej strony i zapytała, czy dam radę podnieść deskę, którą właśnie umocowałam.
+Wstała i ostrożnie oparła piętę na desce. Przypomniała mi, że kiedy przychodzi tu sama, czasem musi się podeprzeć. Kładka miała jej służyć także po deszczu, gdy nie będzie mnie w pobliżu. Podała mi końce wikliny i poprosiła, żebym spróbowała podnieść deskę, którą właśnie umocowałam.
 
 Przy podnoszeniu dwa wiązania się zerwały. Ułożyłyśmy oba pasy jak na początku. Tym razem wsunęłam pod każdy grubszy drążek, który można podważyć z brzegu. Daga spróbowała go wysunąć i z powrotem ułożyć, podpierając się o słupek. Kiedy jej się udało, we dwie założyłyśmy deskę. Przy donicach miałam zacząć po południu. Wychodziło na to, że wezmę się za nie o zmierzchu.
 
-Wróciłyśmy po łopatkę. Na stole przy bramie leżała zawinięta w papier moneta. Daga kazała mi ją wziąć za maść. Przypomniałam jej, ile cebul włożyła do mojego garnka. Rozwinęła papier. Na odwrocie napisała swoje imię i datę.
+Wróciłyśmy po łopatkę. Na stole przy bramie leżała moneta zawinięta w papier. Daga powiedziała, że to za maść. Przypomniałam jej o cebulach, które wcześniej włożyła mi do garnka. Wtedy rozwinęła papier i pokazała imię oraz datę zapisane na odwrocie.
 
 — Sąsiadka chciała taką samą — powiedziała. — Pytała mnie, ile bierzesz. Nie umiałam jej powiedzieć.
 
@@ -166,15 +174,17 @@ Fabia czekała w furtce i usłyszała. Opowiedziała, że pamięta sadzonki Dagi
 
 — Mogę jej pokazać jutro — powiedziała.
 
-To dla niej odłożyłam nasiona z jasnymi prążkami, które w zeszłym roku wyszły mi z krzyżówki. Miała dojść sama, które warto zostawić w następnym roku. Umówiłyśmy się, że opisze każdą donicę, zanim nasypie do niej ziemi. Wyrysowałam na patykach miejsca, gdzie wcześniej oznaczałam ich stronę od słońca. Przy donicach z bambusem pozostało ich już tylko tyle, żeby zobaczyć, która puści korzenie pod murem, a która przy rowie. Żadna nie miała liści dla Boba. Ten pod murem miał pęd do połowy mojego palca. Przy rowie wzeszły dwa. Mogłam pojechać i zdać się na Milkę. Wiedziałam, że dotrzyma umowy, jeżeli zdołam nie przypominać jej co dzień, że mamy umowę.
+Dla Milki odłożyłam prążkowane nasiona z zeszłorocznej krzyżówki. Chciałam, żeby sama przekonała się, które rośliny warto zachować na następny rok. Umówiłyśmy się, że opisze donice, zanim nasypie do nich ziemi.
 
-Kiedy Fabia oddała mi kwit, powiedziała, że od czerwca może mi wydzielić osobną część ogrodu przy młynie. Dostałabym ziemię pod własne sadzonki, jeśli część sprzedałabym przez nich. Woda byłaby blisko. Mogłabym zabrać Boba, kiedy wszyscy przywykną. Zaczęła mi to opowiadać od razu od strony, z której wchodziłoby się do grządek. Chciała wiedzieć, czy dostrzegam coś złego w podziale pracy. Zapytałam ją, ile musiałabym tam być na miejscu. Od czerwca po cztery poranki w tygodniu. Gdyby dało się urządzić zastępstwo, mogłabym jechać na dalsze próby.
+Zajrzałyśmy też do bambusa. Pod murem wyrósł jeden krótki pęd, przy rowie dwa. Żaden nie miał jeszcze liści dla Boba. Milka obiecała zaglądać do donic podczas mojej nieobecności, a ja obiecałam sobie, że nie będę jej co dzień przypominać.
+
+Fabia oddała mi kwit, a potem zaproponowała osobny kawałek ogrodu przy młynie. Mogłabym uprawiać tam własne sadzonki, część sprzedając przez młyn. Woda była blisko, a kiedy ludzie przywykliby do Boba, mógłby chodzić tam ze mną. Słuchałam z zaciekawieniem, dopóki nie zapytałam, ile czasu musiałabym tam spędzać: cztery poranki w tygodniu, począwszy od czerwca. Na dalsze próby mogłabym jechać, gdyby znalazło się zastępstwo.
 
 — Do końca maja mogę zaczekać — powiedziała. — Potem potrzebuję wpisać kogoś, kto przyjdzie.
 
-Spytałam o podział nasion. Samo myślenie o ich przewożeniu i sianiu w innym gruncie sprawiło, że poszłam z nią do furtki i wypytywałam jeszcze chwilę o wodę. Gdy wyszła, zapisałam sobie, o co spytać następnym razem. Było to porządne zajęcie. Przy grubszym rachunku Sewina nagle wydało mi się długie.
+Wypytywałam ją jeszcze o nasiona i wodę, aż doszłyśmy do furtki. Kiedy odeszła, zapisałam pytania, które przyszły mi do głowy za późno. Praca przy młynie kusiła mnie, ale zanim ogród przyniósłby dochód, musiałam jakoś zapłacić Sewinowi za bambus.
 
-W domu napełniłam osiem butelek dla Vedy. Jeszcze raz przeczytałam ustalenia. Kiedy zaczynałam pisać kartki, chciałam wstawić tylko „działa rozmaicie”, żeby zmieścić wszystko w jednej linijce. Spróbowałam sobie wyobrazić, że dostaję takie ostrzeżenie od obcego człowieka dla Dagi. Napisałam wyraźnie, że nie wiadomo, jak kupujący będzie się czuł następnego dnia. Dopisałam imię i Korzenną Przystań. Na końcu kartki zostawało tyle wolnego miejsca, że dobrze było widać, iż nie daję żadnej obietnicy.
+W domu napełniłam osiem butelek dla Vedy i raz jeszcze przeczytałam nasze ustalenia. Na początku chciałam napisać tylko „działa rozmaicie”, żeby ostrzeżenie zmieściło się w jednej linijce. Potem wyobraziłam sobie, że ktoś daje mi taką kartkę razem z lekarstwem dla Dagi. Napisałam więc wyraźnie, że nie wiadomo, jak człowiek będzie się czuł następnego dnia. Pod spodem dodałam swoje imię i Korzenną Przystań.
 
 Zapakowałam torbę. Włożyłam do niej pustą kopertę na rachunek, który miała mi dać Veda, i kwit od Fabii. Kiedy podnosiłam ją ze stołu, Bob pojawił się w drzwiach z łodygą w poprzek pyska. Uderzyła o jeden bok futryny, potem o drugi. Stałam przy stole, czekając, aż puści. Chwilę próbował, wreszcie usiadł. Zaczął od obgryzania końca, który wystawał dalej.
 

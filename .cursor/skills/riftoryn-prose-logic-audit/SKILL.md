@@ -60,6 +60,9 @@ Dla każdego podejrzanego zdania zadaj test: **„Co dokładnie mam sobie wyobra
 
 Sprawdź:
 
+- **Przebieg rozmowy i sytuację:** co każda osoba wie, czego chce i dlaczego wykonuje dany gest. Czy odpowiedź wynika z pytania, a zaskakujące lub nieżyczliwe zachowanie ma zrozumiałą przyczynę? Usuń dowcip lub ripostę, jeśli wymaga od bohatera nieuzasadnionego zachowania albo przesłania stawkę sceny.
+- **Pierwszy kontakt z tekstem:** bez korzystania z tytułu, streszczenia i intencji autora odtwórz, kto przyszedł, co się dzieje i co jest potrzebne do zrozumienia następnej kwestii. Gdy trzeba zgadywać podstawowy układ sceny, popraw narrację; nie zastępuj brakującej informacji zagadkową puentą.
+
 - Chronologia, czas podróży, zmiany miejsca, kto jest obecny, kto ma informacje. Nie wymagaj osobnej daty przy każdym przejściu czasu: jeśli następstwo jest jasne z narracji, np. „rano” po scenie wieczornej, a miejsce się nie zmienia, nie proponuj dodatkowego nagłówka. Datuj i lokalizuj rozdziały; doprecyzuj przejście w ich obrębie, gdy jest niejasne lub dokładny czas ma znaczenie dla ciągłości.
 - Przyczyna → działanie → konsekwencja; czy wynik sceny wynika z wcześniejszych faktów.
 - Wiedza postaci w danym momencie vs wiedza narratora/czytelnika; unikanie czytania w myślach przez narratora pierwszoosobowego.
@@ -68,15 +71,16 @@ Sprawdź:
 - Czy poświęcenie, kłopot lub motywacja zostały pokazane, a nie ogłoszone arbitralnie.
 - Jeśli są inne pliki z serii, sprawdź konsekwencję imion, miejsc, dat, nazw urządzeń, sposobu działania magii i przyczyn wydarzeń.
 
-### Przebieg C — język naturalny zamiast „literackości na siłę”
+### Przebieg C — redakcja literacka całego tekstu
 
-Zaznacz:
+Po sprawdzeniu sensu i ciągłości przeczytaj tekst ponownie w kolejności lektury, zdanie po zdaniu i akapit po akapicie. Nie ograniczaj się do wyszukiwania słów ani miejsc zmienionych w poprzedniej korekcie. Zdanie może być logiczne, a mimo to brzmieć dziecinnie, groteskowo, sztucznie lub po prostu nudno.
 
-- Frazy, których nikt nie powiedziałby ani nie pomyślał w tej sytuacji, o ile nie mają uzasadnionego stylu postaci.
-- Ozdobniki zmieniające podstawowe znaczenie zdania.
-- Przesadne „zgrabne puenty” każdego akapitu, wydumane paradoksy, przypadkowe metafory techniczne.
-- Powtarzanie motywów, które nie niosą nowej treści.
-- Nadmierną niejasność zastępującą rzeczywistą głębię.
+- **Dobór słów:** sprawdź, co wybrane słowo naprawdę przywołuje i czy jego rejestr oraz siła pasują do sytuacji i głosu mówiącego. Wybieraj trafne, naturalne określenie zamiast słowa użytego dla dramatyzmu. W zwykłej relacji świadka „koń krzyczał” może zabrzmieć groteskowo; „koń głośno rżał” jest czytelniejszym wyborem, jeśli właśnie ten dźwięk świadek ma na myśli. Nie jest to zakaz słowa „krzyczał”: niezwykłe określenie może być uzasadnione konkretnym kontekstem i świadomym efektem.
+- **Głos i ton:** sprawdź, czy narrator lub rozmówca rzeczywiście użyłby tych słów w danej chwili. Zwróć uwagę na niezamierzoną komiczność, infantylność, patos i dowcipy, które rozbijają napięcie. Oceniaj wypowiedź w całej wymianie, nie w izolacji.
+- **Rytm i żywość:** przeczytaj akapity i dialogi na głos lub tak, jak brzmiałyby w mowie. Popraw powtórzenia, sztywne konstrukcje, nadmiar drobnych gestów i sztuczne puenty. Różnicuj rytm tam, gdzie służy scenie; zostaw konkrety, emocje i indywidualny głos. Sama zwięzłość nie jest celem, a logiczne streszczenie nie zastępuje sceny.
+- **Obraz i emocja:** usuń ozdobnik, jeśli zaciemnia obraz, zmienia znaczenie albo służy wyłącznie efektownej frazie. Zachowaj metaforę, humor i niejednoznaczność, gdy pasują do postaci, są czytelne i mają funkcję w scenie. Nie dopisuj faktów tylko po to, by zdanie było ładniejsze.
+
+Przy wątpliwym fragmencie porównaj co najmniej w myślach naturalne warianty w kontekście sąsiednich zdań. Wybierz ten, który zachowuje fakt, zamierzony ton i charakter postaci, a nie tylko ten, który ma najmniej słów. Przy ocenie nazwij różnicę między błędem sensu, niezręcznością językową i subiektywną preferencją.
 
 **Nie walcz z każdą metaforą.** Uznaj obraz za poprawny, jeśli ma czytelny mechanizm znaczeniowy, funkcję w scenie i nie zmusza do wymyślania brakujących faktów. Np. „Pytanie nie dawało mi spokoju” to zwykły idiom, a nie fizyczna pomyłka. Nie flaguj automatycznie humoru, hiperboli, mowy potocznej ani celowej niewiedzy narratora.
 
@@ -104,7 +108,7 @@ Jeśli **brak** problemów danej kategorii, powiedz to, ale nie obiecuj, że tek
 ## Tryb poprawiania
 
 - Nie przepisuj całego opowiadania, jeśli użytkownik prosi o wykrycie usterek.
-- Podawaj **minimalną** poprawkę zachowującą zamierzony fakt i głos narratora; krótsze i prostsze zdanie jest lepsze od nowej metafory.
+- Dobieraj zakres poprawki do problemu: zmień słowo, przepisz wymianę zdań lub przebuduj akapit, jeśli tego wymaga zrozumiałość i jakość sceny. Zachowaj zamierzone fakty, emocje i głos narratora; nie spłaszczaj prozy do suchego streszczenia. Przy prośbie wyłącznie o wykrycie usterek nie przepisuj całej historii.
 - Nie dokładaj postaci, przedmiotów, przyczyn, świata czy reguł magii, których nie ma w źródle. Jeśli poprawka wymaga nowego faktu, zaznacz to i zapytaj o akceptację albo podaj opcję bez nowego faktu.
 - Po każdej zaproponowanej zmianie jeszcze raz przeprowadź test dosłownego sensu. Poprawka nie może generować kolejnego nonsensu.
 - W recenzji kolejnej wersji **zestawiaj faktyczne różnice** ze starszą, jeśli starsza jest dostępna; nie powtarzaj nieaktualnych zarzutów.
@@ -112,4 +116,4 @@ Jeśli **brak** problemów danej kategorii, powiedz to, ale nie obiecuj, że tek
 
 ## Próg jakości przed końcowym werdyktem
 
-**Nie mów „gotowe”, „fabularnie bez zarzutu” ani „9+/10”, dopóki nie wykonasz przebiegów A–C.** W szczególności ponownie przeczytaj otwierający i zamykający akapit każdej części: tam najczęściej pojawiają się wymyślone na siłę aforyzmy. Skontroluj też każdą „ładną puentę” przez pytanie „co to konkretnie znaczy?”.
+Po poprawkach przeczytaj ponownie całe objęte zleceniem sceny w ich otoczeniu, w tym otwarcia i zakończenia każdej części. Sprawdź, czy nowe zdania brzmią naturalnie i czy naprawa nie zmieniła faktów, tonu ani relacji między postaciami. Jeśli nie wykonano pełnej lektury, jasno określ faktyczny zakres pracy. Nie obiecuj bezbłędności ani nie traktuj przejścia testów technicznych jako dowodu jakości literackiej. Ocena stylu pozostaje oceną, którą może zweryfikować czytelnik.

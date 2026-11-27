@@ -4,7 +4,7 @@
 
 Późna jesień, 7 ET · dzielnica warsztatowa Żarowiska Vareth
 
-Za miskę z uchwytem dałam Iście dwa haki i godzinę przy dźwiganiu. Haków potrzebowała jeszcze przed południem. Dźwiganie zostawiła mi na wieczór, kiedy skończy słabnąć żar i da się wyjąć z pieca płyty. Przez środek jednej szła kreska, którą syn Isty przeciągnął palcem po wilgotnej glinie. Chciał wiedzieć, czy po wypaleniu skurczy się bardziej niż jego dłoń.
+Za miskę z uchwytem dałam Iście dwa haki i godzinę przy dźwiganiu. Haków potrzebowała jeszcze przed południem. Z dźwiganiem miałyśmy poczekać do wieczora, aż żar w piecu osłabnie i da się wyjąć płyty. Przez środek jednej szła kreska, którą syn Isty przeciągnął palcem po wilgotnej glinie. Chciał wiedzieć, czy po wypaleniu skurczy się bardziej niż jego dłoń.
 
 — Jutro przyjdę zmierzyć — powiedziałam mu.
 
@@ -86,7 +86,7 @@ Gdy przeszli, puściłam osłonę od góry. Cały ciężar gorąca poszedł w ty
 
 Chciałam spytać, czy w korytarzu, gdzie zamierzała stanąć, ocalał choć jeden stopień. Zamiast tego pozwoliłam jej polać też rękaw. Kazała przytrzymać łokieć nad wiadrem, bo woda z rękawa kapała mi do buta. Ista liczyła ludzi po imieniu. Kiedy doszła do syna, odpowiedział z wnętrza wozu i ruszył ku niej, ciągnąc za stopą kawałek płótna.
 
-Duży piec wystygł za szybko. Tuż po pęknięciu obudowy wygasł żar w komorze, bo część gorącego wnętrza otworzyła się na plac. Popękały nawet płyty odsunięte od bezpośredniego podmuchu. Małe piece zostały całe. Odcięliśmy je przed końcem zamówień, a następnego dnia wspólny rozdzielacz przeznaczono do rozebrania. Przez kilka następnych tygodni ich właściciele mogli suszyć wytwory w domu albo opłacić cudze palenisko po drugiej stronie dzielnicy. Stojąc przy wiadrze, wiedziałam tylko o krótszym dźwiganiu niż planowałam. Nie było już czego wyjmować dużą płytą.
+Duży piec wystygł za szybko. Tuż po pęknięciu obudowy wygasł żar w komorze, bo część gorącego wnętrza otworzyła się na plac. Popękały nawet płyty odsunięte od bezpośredniego podmuchu. Małe piece zostały całe. Odcięliśmy je przed końcem zamówień, a następnego dnia wspólny rozdzielacz przeznaczono do rozebrania. Przez kilka następnych tygodni ich właściciele mogli suszyć wytwory w domu albo opłacić cudze palenisko po drugiej stronie dzielnicy. Stojąc przy wiadrze, wiedziałam już, że nie będzie całych płyt do wyjęcia z dużego pieca.
 
 ## Pierwszy rachunek
 
@@ -146,4 +146,4 @@ Mogłam dopisać do jej podpisu powód, dla którego chciała, żebym pojechała
 
 — Jak pojedziesz, posłuchaj też ludzi, którzy cię będą prosić o rzeczy, na które nie masz rubryki — powiedziała.
 
-Wypełniłam datę. Kiedy atrament wysechł, złożyłam go i oddałam chłopcu. To on miał zanieść wykaz do ludzi, którzy zbierali zgłoszenia. Wziął go w rękę razem z kołami, pilnując, żeby ich nie pogiąć. Przy drzwiach zapytał matkę, czy na wieczór wróci do stołu z gliną. Miała jeszcze dokończyć pracę przy mosiężnych okuciach. Obiecała, że rano spróbuje z nim zrobić jedno koło.
+Wypełniłam datę. Kiedy atrament wysechł, złożyłam kartę i oddałam chłopcu. To on miał zanieść wykaz do ludzi, którzy zbierali zgłoszenia. Wziął go w rękę razem z kołami, pilnując, żeby ich nie pogiąć. Przy drzwiach zapytał matkę, czy na wieczór wróci do stołu z gliną. Miała jeszcze dokończyć pracę przy mosiężnych okuciach. Obiecała, że rano spróbuje z nim zrobić jedno koło.

@@ -42,7 +42,7 @@ Od dawna krępowało mnie, że gdy człowiek przykucnie, ludzie chcą go natychm
 
 Następnego ranka czekała już przy przepuście. Poznałam ją po ukruszonym kle. Stanęła tak, że z jednej strony miała wodę, z drugiej niski mur. Dwa młode przeszły jej pod pyskiem. Jedno przystanęło nad korzeniem, którego chyba nie umiało przegryźć. Samica trąciła je w zad i oba zniknęły w pokrzywach. Potem spojrzała w moją stronę.
 
-Dzielił nas mur i szerokość drogi. Zwykle widzi się człowieka nad głową zwierzęcia. Ja wtedy miałam przed oczyma tylko jej ucho, kawałek szczeciny i żółte oko, które na chwilę znieruchomiało. Podeszłam pod mur za późno, żeby móc się wycofać bez szurania. Stałam więc tam, gdzie byłam. Czułam zapach własnego płaszcza i cebuli, którą rano kroiłam do chleba. Nie poruszyłam się, kiedy samica ponownie wciągnęła powietrze.
+Dzielił nas mur i szerokość drogi. Z miejsca, w którym stałam, widziałam jej ucho, kawałek szczeciny i żółte oko zwrócone w moją stronę. Podeszłam pod mur za późno, żeby móc się wycofać bez szurania. Stałam więc tam, gdzie byłam. Czułam zapach własnego płaszcza i cebuli, którą rano kroiłam do chleba. Nie poruszyłam się, kiedy samica ponownie wciągnęła powietrze.
 
 Samica podeszła dwa kroki bliżej. Czarną ziemię miała wysoko na ryju. Wciągnęła powietrze, odwróciła się i poszła za młodymi. Zaczekałam, aż z pokrzyw przestanie iść dźwięk. Dopiero wtedy ruszyłam zobaczyć, którędy da się przejść bez wychodzenia na środek drogi.
 

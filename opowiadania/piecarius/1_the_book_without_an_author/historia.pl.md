@@ -30,9 +30,9 @@ Usłyszałem za sobą krótkie „tak”. Sądziłem, że mógł powiedzieć o m
 
 Kobieta odłożyła nóż.
 
-— Veda. Wiozę części do pompy w górnej osadzie. Jeśli będziemy stawać na każdą pańską przemowę, ludzie tam jeszcze jutro będą nosić wodę pod górę.
+— Veda. Wiozę części do pompy w górnej osadzie. Jeśli napadną nas bandyci, ma pan bronić wozu, nie wygłaszać im przemowy.
 
-— Droga damo, potrafię mówić w marszu.
+— Potrafię mówić w marszu.
 
 — To resztę opowie mi pan po drodze.
 
@@ -134,7 +134,7 @@ Jorek siedział na koźle, sztywno wyprostowany, z lejcami w obu dłoniach. Sły
 
 Za zakrętem zadudniły koła. Ktoś zawołał, żebyśmy zrobili przejazd. Z lasu odpowiedział gwizd. Człowiek z siekierą spojrzał na tego z nożem, po czym ruszył pod drzewa. Drugi pobiegł za nim. Przez chwilę jeszcze słyszałem ich kroki. Miecz schowałem dopiero wtedy, gdy ucichły.
 
-Woźnica z drugiego wozu czekał na zakręcie. Wdrapałem się na platformę i złapałem za uchwyt skrzyni. Veda pchnęła ją od strony rowu. Kiedy przesunęliśmy ją na środek i założyliśmy zapasowy pas, podsunęła płaski kamień przed koło. Jorek poprowadził po nim konie, powoli, żeby obręcz nie ześlizgnęła się z krawędzi. Nigdy jeszcze tak uważnie nie przyglądałem się jednemu obrotowi koła.
+Woźnica z drugiego wozu czekał na zakręcie. Wdrapałem się na platformę i przytrzymałem skrzynię, a Veda podsunęła płaski kamień pod koło. Jorek powoli poprowadził konie, żeby obręcz nie ześlizgnęła się z krawędzi. Nigdy jeszcze tak uważnie nie przyglądałem się jednemu obrotowi koła. Kiedy wóz wrócił na drogę, założyliśmy zapasowy pas.
 
 Podniosłem naramiennik z koleiny. Dało się go jeszcze wyczyścić. Przywiązałem go do burty, gdzie przynajmniej nie musiał udawać, że się trzyma.
 
@@ -144,9 +144,9 @@ Pokręcił głową. Nadal trzymał lejce tak mocno, że zbielały mu knykcie. Ve
 
 Właśnie układałem zdanie o tym, że przy ratowaniu damy trudno zwracać uwagę na płótno. Przypomniałem sobie, jak konie szarpnęły wóz w stronę rowu.
 
-— To od mojego ognia — powiedziałem.
+— Płótno przypaliłem ja — powiedziałem.
 
-— Widziałam. Jak zacznie padać, przykryjemy skrzynię płaszczem. Niech pan sprawdzi, czy pas trzyma.
+— Widziałam. Przy następnym deszczu będziemy potrzebowali łaty. Proszę sprawdzić tę sprzączkę.
 
 Pociągnąłem za pas. Veda zrobiła to samo, a potem wyjęła z koszyka dwie gruszki. Przyjąłem je z ukłonem i od razu poczułem łokieć obity o burtę. Zjadłem po drodze tę obitą. Drugą schowałem na wieczór.
 

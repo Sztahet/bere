@@ -6,7 +6,7 @@ Przed wyborem kandydatów w marcu, 12 ET · Korzenna Przystań, Verdan
 
 Przy trzecim kamieniu od mostu woda przestała płynąć rowem. Wsadziłam pod kamień dwa palce. Od spodu czułam korzeń grubszy od nadgarstka. Trzymał brzeg, kiedy podmyło kamienie ustawione przez ludzi. Rozgarnęłam muł dookoła niego i odczekałam, aż drobne liście przestaną się zbierać w miejscu.
 
-Dziewczynka zza sadu przyniosła mi sadzonkę w mokrej szmacie. Miała dwa liście. Trzeci wisiał na łodydze odwrócony spodem do światła.
+Dziewczynka zza sadu przyniosła mi sadzonkę w mokrej szmacie. Roślina miała dwa liście, a trzeci wisiał na łodydze odwrócony spodem do światła.
 
 — Tu ją mogę posadzić?
 

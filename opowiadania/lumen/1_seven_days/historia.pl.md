@@ -4,7 +4,7 @@
 
 3 września, 11 ET · Aurel, archiwum przy obserwatorium
 
-Na umowie brakowało jednej strony. Zauważyłam to, bo ktoś ponumerował kartki dwa razy: najpierw atramentem, potem ołówkiem. Ołówkiem doliczył się sześciu. Atrament kończył się na piątce, lecz zapis na niej urywał się w połowie zdania.
+W egzemplarzu umowy brakowało jednej strony. Na teczce ktoś zapisał ołówkiem, że powinno ich być sześć. W środku znalazłam pięć, ponumerowanych atramentem, a tekst na ostatniej urywał się w połowie zdania.
 
 — Szósta została u dostawcy — powiedział kierownik stacji, pan Oren. — Podpisano po jednym egzemplarzu.
 
@@ -54,7 +54,7 @@ Wyszłam z nim na schody. Na dole dziewczynka próbowała odwiązać sznurek z r
 
 — Była. Mogę ci dać nowszy odpis.
 
-Odprowadziłam ją do archiwum. Oren poczekał przy drzwiach, żeby nie zabrała mu kubka. Kiedy wróciłam z mapą, miał już płaszcz zapięty pod szyję.
+Odprowadziłam ją do archiwum. Oren został na schodach z kubkiem w dłoni. Kiedy wróciłam z mapą, miał już płaszcz zapięty pod szyję.
 
 Wieczorem Oren przyniósł egzemplarz dostawcy. Miał wszystkie sześć stron i podpisy obu stron pod ostatnią. Porównałam go z naszymi pięcioma kartami. Na szóstej znalazłam dokończenie urwanego zdania, warunek doręczenia i podpisy; nic nie zmieniało siedmiodniowego terminu. Dopiero wtedy przepisałam zawiadomienia. Oren zobowiązał się odwieźć kompletny egzemplarz dostawcy następnego dnia.
 

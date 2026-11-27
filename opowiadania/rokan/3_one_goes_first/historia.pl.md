@@ -12,7 +12,7 @@ Podeszliśmy razem pod ścianę. Uklęknąłem, żeby pokazać jej jaśniejszą 
 
 — Częściej niż na pranie.
 
-Zaśmiała się i podała mi rękę, kiedy wstawałem. Przy domu położyła skórzany pokrowiec na ławce, którą zrobiliśmy jesienią. Chciałem od razu obejrzeć deski. Przed wyjazdem należało jeszcze osłonić drewno przed deszczem.
+Zaśmiała się i podała mi rękę, kiedy wstawałem. Przy domu położyła skórzany pokrowiec na ławce, którą jesienią zrobiła z sąsiadem. Chciałem od razu obejrzeć deski. Przed wyjazdem należało jeszcze osłonić drewno przed deszczem.
 
 — To może poczekać — powiedziała. — Usiądź na chwilę.
 

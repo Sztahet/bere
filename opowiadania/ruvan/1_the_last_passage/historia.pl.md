@@ -166,13 +166,13 @@ Iver był kiedyś najlepszy w swojej grupie w osłanianiu dwójki ludzi naraz. C
 
 Wycofał się z Tessą. Za sobą znów miałem schody i z góry znów ktoś mnie wołał. Nie potrafiłem już zatrzymać samego przepływu. Mogłem tylko zatrzymać czas w miejscu, przez które płynął — w całej komorze, razem z tymi, którzy zdążyli się w niej schronić.
 
-Nie wiedziałem, czy źródło utrzyma zaklęcie. Wiedziałem, że jeśli spróbuję wyprowadzić ich teraz, nie zdążę przed następnym uderzeniem. Przyłożyłem obie dłonie do kamienia i poprowadziłem Lód przez kanał, aż objął komorę. Zatrzymałem czas w całym pomieszczeniu. Sam pozostałem poza działaniem czaru. Został skrawek światła przy moim kolanie. Potem zgasł.
+Nie wiedziałem, czy źródło utrzyma zaklęcie. Wiedziałem, że jeśli spróbuję wyprowadzić ich teraz, nie zdążę przed następnym uderzeniem. Przyłożyłem obie dłonie do kamienia i zacząłem prowadzić Lód przez kanał ku komorze. Skrawek światła przy moim kolanie zadrżał, a potem zgasł.
 
 ## Cztery wnęki
 
 Noc Zgasłych Wież, 3 PT · podziemia magazynu w Białym Przesmyku, Nivoren
 
-Na górze wrzeszczeli ludzie. Z dołu dochodził pojedynczy trzask za każdym razem, gdy rozdzielacz próbował wypchnąć moc przez zablokowany kanał. Liczyłem uderzenia źródła. Po trzecim usłyszałem Dalena, który wołał, że za zakrętem chodnika jest gruz. Przy czwartym poprowadziłem zaklęcie dalej. Dźwięk urwał się w połowie. Ustał ruch powietrza, pyłu i lodu. Komora zamarła razem z czworgiem ludzi.
+Na górze wrzeszczeli ludzie. Z dołu dochodził pojedynczy trzask za każdym razem, gdy rozdzielacz próbował wypchnąć moc przez zablokowany kanał. Liczyłem uderzenia źródła. Po trzecim usłyszałem Dalena, który wołał, że za zakrętem chodnika jest gruz. Przy czwartym poprowadziłem zaklęcie dalej. Dźwięk urwał się w połowie. Ustał ruch powietrza, pyłu i lodu. Czas w komorze zatrzymał się wraz z czworgiem ludzi. Sam pozostałem poza działaniem czaru.
 
 Przez lodowy próg zostawiłem cienkie połączenie z dawną komorą. Przechodziło przez kamienne żebro, którym kiedyś sama Tessa sprawdzała, gdzie odpływa chłód z osadzonych tam półek. Czas w środku nie płynął, ale zaklęcie wymagało podtrzymania. Przez połączenie wyczuwałem źródło oraz cztery osobne miejsca, które objąłem zatrzymaniem. Nie mogłem sprawdzić ich pulsu. Nie wiedziałem, czy kiedykolwiek zdołam ich obudzić.
 

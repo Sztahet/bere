@@ -10,7 +10,7 @@ Grom przeleciał z jednej żerdzi na drugą, zanim zdążyłem policzyć kroki m
 
 — I co zrobił potem?
 
-— Poprawił uchwyt. Spojrzał na nas.
+— Mocniej chwycił żerdź. Spojrzał na nas.
 
 — A skrzydło?
 

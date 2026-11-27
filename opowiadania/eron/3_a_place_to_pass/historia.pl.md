@@ -138,7 +138,7 @@ Rokan puszczał listwę powoli. Płachta drgnęła i zawisła nad przejściem. K
 
 Po sygnale Kiran szła pierwsza, Rokan niósł skrzynię z drugiej strony, a ja asekurowałem jej koniec przy framudze. Gdybym miał przez cały czas trzymać płachtę ręką, nie przeszedłbym jednocześnie z nimi. Tak zdołaliśmy wejść we trójkę; przy skręcie przejąłem ciężar od Kiran i zrobiłem jej miejsce. Nie dotknęliśmy listwy.
 
-Po drugiej stronie sięgnąłem do kołka. Rozluźniłem pęd magią, a Kiran z Rokanem opuścili płachtę. Na jednym liściu zostało zagięcie. Pokazałem je sędzi. Dotknęła łodygi i zapisała coś na swojej karcie. Nie powiedziała, ile punktów dostaniemy. Byłem zadowolony, że zdążyliśmy przed sygnałem, choć pamiętałem pierwszy, nieudany zaczep. Kiran zauważyła kołek, bo spytała o zdjęcie płachty, a Rokan powstrzymał listwę przed upadkiem. Kiedy chciałem im powiedzieć, że następnym razem spróbuję jeszcze szybciej, najpierw zapytałem, co oni zmieniliby w przejściu.
+Po drugiej stronie sięgnąłem do kołka. Rozluźniłem pęd magią, a Kiran z Rokanem opuścili płachtę. Na jednym liściu zostało zagięcie. Pokazałem je sędzi. Dotknęła łodygi i zapisała coś na swojej karcie. Nie powiedziała, ile punktów dostaniemy. Byłem zadowolony, że zdążyliśmy przed sygnałem, choć pamiętałem pierwszy, nieudany zaczep. Rokan zapytał, jak później opuścimy płachtę, i powstrzymał listwę przed upadkiem. Kiran dopilnowała, żebyśmy najpierw wypróbowali zaczep bez skrzyni. Kiedy chciałem im powiedzieć, że następnym razem spróbuję jeszcze szybciej, najpierw zapytałem, co oni zmieniliby w przejściu.
 
 ## Wiadomość do doliny
 

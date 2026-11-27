@@ -28,7 +28,7 @@ Przy lampie w obserwatorium krzywa śruba przeszkadzała mi docisnąć zacisk do
 
 Potem Orien przesunął mi stolik pod łokieć, a sam wrócił do księgi. Gdy uniosłam osłonę pod światło, zobaczyłam szczerbę. Wcześniej z mojego stanowiska zasłaniał ją zacisk. Pokazałam ją Orienowi i przyłożyłam obręcz. Sięgała dalej niż uszkodzenie.
 
-Po odejściu Piecariusa sprawdziłam, czy w notatce mamy, kto widział znak przy samym kamieniu. Mieliśmy jego imię i odrys. Gdybym kiedyś poszła tamtędy, chciałabym wiedzieć też, z którego miejsca klęknął. Wpisałam pytanie na kartkę w drodze do domu. Nad nim leżał dawny most z doliny, narysowany raz grubą kreską, raz przerywaną. Od kilku lat umiałam przepisać obie wersje bez odrywania wzroku od papieru. Wciąż czasem musiałam wstać, żeby pójść zobaczyć, którą właśnie powinnam dać człowiekowi.
+Po odejściu Piecariusa sprawdziłam, czy w notatce mamy, kto widział znak przy samym kamieniu. Mieliśmy jego imię i odrys. Gdybym kiedyś poszła tamtędy, chciałabym wiedzieć też, z którego miejsca klęknął. Wpisałam pytanie na kartkę w drodze do domu. Nad nim miałam rysunek dawnego mostu z doliny, raz grubą kreską, raz przerywaną. Od kilku lat umiałam przepisać obie wersje bez odrywania wzroku od papieru. Wciąż czasem musiałam wstać, żeby pójść zobaczyć, którą właśnie powinnam dać człowiekowi.
 
 ## Po zniknięciu światła
 
@@ -40,7 +40,7 @@ Przez dziedziniec do skrzyni miały dojść dwie osoby. Przy pierwszym zakręcie
 
 Po ćwiczeniu spytała, jak zapamiętałam, gdzie stoi studnia. Powiedziałam jej o niebie w szparze pod pomostem i o tym, że oglądałam je z obu stron. Spojrzała w górę i powiedziała, że chętnie obejrzałaby szparę, jeśli znów nam pozwolą wejść. Na torze mogłam się przydać z tą krótką chwilą światła, a ktoś obok mógł mi wskazać rzeczy, których jeszcze nie zobaczyłam. Od miesięcy oglądałam w obserwatorium mapy cudzych dróg. Chciałam zobaczyć, jak to jest samemu wejść na tor, którego nikt wcześniej nie pokazał mi na papierze. Uśmiechnęłam się tak wyraźnie, że druga osoba spytała, czy chcę już wracać na plac.
 
-Poszłam do Urzędu Prób. Podałam Aurel i wybrałam wspólny nadzór. Chciałam, żeby małe osady mogły dostać aktualne mapy z takim samym wypiskiem o miejscu i dniu sprawdzenia, jaki tu dostawali ludzie stojący przy lepszych oknach. Kartkę z godziną stawiennictwa włożyłam do rulonu obok trawy pod pomostem. Nivie i Liorze mogłam opowiedzieć wieczorem, gdzie jestem zapisana. O ich własnej drodze chciałam usłyszeć od nich.
+Poszłam do Urzędu Prób. Podałam Aurel i wybrałam wspólny nadzór. Chciałam, żeby małe osady mogły dostać aktualne mapy z takim samym wypiskiem o miejscu i dniu sprawdzenia, jaki dostawali ludzie w mieście. Kartkę z godziną stawiennictwa włożyłam do rulonu obok rysunku trawy pod pomostem. Nivie i Liorze mogłam opowiedzieć wieczorem, gdzie jestem zapisana. O ich własnej drodze chciałam usłyszeć od nich.
 
 ## Piętka
 

@@ -110,7 +110,7 @@ Zet wrócił z błotem na nogawkach. Beczka leżała poniżej rozwidlenia. Ktoś
 
 — Nogą nie zamierzałem.
 
-Na skrawku papieru narysował miejsce, w którym grunt się kończył. Postawił przy nim godzinę i oddał mi ołówek. Biały materiał, którym obwiązał tyczkę, został pod paznokciami.
+Na skrawku papieru narysował miejsce, w którym grunt się kończył. Dopisał godzinę i oddał mi ołówek. Przy paznokciach miał błoto.
 
 Woźnica nachylił się nad rysunkiem.
 

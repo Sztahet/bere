@@ -154,7 +154,7 @@ Po zmianie Volt oddał mi lampę do ponownego sprawdzenia. Odłączył ją od za
 
 — Której?
 
-— Tego, czy po odłączeniu trzeba sprawdzać. A potem przypomniałam sobie, że właśnie po to sprawdzamy.
+— Czy po wyłączeniu mogę już otworzyć lampę. Potem przypomniałam sobie, że najpierw trzeba sprawdzić, czy nie został ładunek.
 
 Volt nie zaśmiał się tym razem. Kazał mi zapisać datę przy wyniku i wyjaśnił, dlaczego samo wyłączenie nie zawsze wystarcza, żeby uznać przewód za bezpieczny.
 

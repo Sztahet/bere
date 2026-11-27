@@ -14,13 +14,13 @@ Przy wieżach płacono lepiej. Najpierw za naprawę, później za znalezienie s�
 
 Potem poprosił mnie, żebym sama otworzyła obudowę.
 
-Nie zgodziłam się od razu. Powiedziałam, że ryzyko jest większe i potrzebuję wyższej zapłaty. Pośrednik przyjął cenę bez targowania. Przez chwilę zastanawiałam się, ile pieniędzy zostawiłam na stole, prosząc o zbyt mało.
+Powiedziałam, że ryzyko jest większe i potrzebuję wyższej zapłaty. Pośrednik przyjął cenę bez targowania. Przez chwilę zastanawiałam się, czy nie zażądałam zbyt mało.
 
 Przy pierwszym takim zleceniu czekałam, aż ostatni pracownik zamknie warsztat. Przez szparę w drzwiach widziałam jego ręce, kiedy sprawdzał zamek. Wrócił po coś, co zostawił na półce, i musiałam odsunąć się od wejścia. Dopiero potem weszłam do środka. Rano urządzenie nie ruszyło, a ja dostałam umówioną kwotę.
 
 Przez dwa dni spodziewałam się, że ktoś przyjdzie z pytaniami. Nikt nie przyszedł. Pośrednik zaproponował następne zadanie, a ja znów podniosłam cenę.
 
-Pamiętam to zlecenie, bo wróciłam tam później jako osoba wezwana do naprawy. Nadzorca opowiadał, jak nieoczekiwanie zawiódł mechanizm. Słuchałam go, odkręcając własną pracę. Nie znalazł we mnie nic podejrzanego. Zapłacił za uruchomienie urządzenia, pośrednik za jego wyłączenie.
+Pamiętam to zlecenie, bo wróciłam tam później jako osoba wezwana do naprawy. Nadzorca opowiadał, jak nieoczekiwanie zawiódł mechanizm. Słuchałam go, usuwając usterkę, którą sama spowodowałam. Niczego nie podejrzewał. Pośrednik zapłacił mi za wyłączenie urządzenia, a nadzorca za jego uruchomienie.
 
 Byłam zadowolona z obu wypłat. Z tego, że nikt mnie nie złapał, jeszcze bardziej.
 

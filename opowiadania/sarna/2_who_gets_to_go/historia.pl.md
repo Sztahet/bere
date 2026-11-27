@@ -10,7 +10,7 @@ W piwnicy, do której zabrał mnie gospodarz, na dolnym stopniu leżały trzy kl
 
 Miał już świeży odcisk od wiadra na nasadzie palców. Zapytałam, kto mógłby mu po południu pomóc. Wskazał górne okno nad ulicą. Dwie kobiety z drugiego domu przeniosły pościel i zapasy na strych. Miały zajmować się teraz dzieckiem, a on obiecał zdjąć z nich przynajmniej opróżnianie tej piwnicy. Dawniej woda schodziła sama wąskim kanałem. Jesienią część kanału niedaleko brzegu zaczęła się zapychać i wynieśli stąd już dwa wózki szlamu. Pompa dawała im czas na czyszczenie. Teraz pracowała na zapasie, który Bert zgarnął z trzech domów.
 
-Kiedy położyłam na murku umowę, zmrużył oczy. Przy świetle na górze przeczytał, że dopłacą pełną stawkę, jeśli dowiozę do ósmego. Później połowę. Chciał mi wyjaśnić, dlaczego. Po ósmej chętni do pracy w kanale musieliby zawrócić do piwnic i ratować rzeczy. Zapłacą im z tych samych pieniędzy. Sam miał być jednym z ludzi, którzy stoją wieczorem po kolana w wodzie. Spojrzałam na jego zimowe buty wystawione do wyschnięcia.
+Kiedy położyłam na murku umowę, zmrużył oczy. Przy świetle na górze przeczytał, że zapłacą mi pełną stawkę, jeśli dowiozę ładunek do ósmego października. Później dostanę połowę. Wyjaśnił, że po tym terminie ludzie pracujący przy kanale będą musieli wrócić do opróżniania piwnic. Zapłacą im z tych samych pieniędzy. Sam miał być jednym z tych, którzy wieczorami stoją po kolana w wodzie. Spojrzałam na jego zimowe buty wystawione do wyschnięcia.
 
 — Wóz ładuję w porcie, a ładunek trzeba osłonić aż tutaj — powiedziałam. — Osiem godzin przed wyjazdem powinnam już wiedzieć, czy mam z kim ruszyć.
 
@@ -26,7 +26,7 @@ Podniosłam przy wozie klapę od pudełka na drobiazgi i rozwinęłam chustki. W
 
 6 października, 11 ET · skład przewoźników w Cienistym Porcie, Vesper
 
-Iren zgodziła się przyjąć trasę, kiedy przyjmą mnie do wyjazdu. Przyrzekła, że jeżeli utrzyma termin, spokojnie potwierdzi gotowość z zapasem na rozwidlenie. Razem przeszłyśmy od stajni do wagi. Na zawieszonym obok wykazie była jedna zajęta osłona, drugą przyznano warunkowo Radlowi. Mnie przy wniosku brakowało jeszcze potwierdzenia godziny dyżuru, której z samą Iren nie mogłyśmy potwierdzić, dopóki nie wiedziałyśmy, czy i kiedy założy osłonę załoga ze składu.
+Iren zgodziła się przyjąć moją trasę, jeśli dostanę eskortę. Razem przeszłyśmy od stajni do wagi. Na wykazie przydzielono już jedną osłonę; drugą obiecano warunkowo Radlowi. Przy moim wniosku brakowało potwierdzenia godziny dyżuru Iren. Nie mogłyśmy go złożyć, dopóki nie wiedziałam, czy i kiedy przydzielą mi eskortę.
 
 Próbowałam to wyjaśnić Dali. Przytrzymała przy mnie arkusz miesiąca, żebym przeczytała to samo co ona. Gdy zawiało przez okno, papier podsunął się aż pod szpilkę. Przeniosłam go blisko ściany. Reguła była krótka. Same pytania o to, czy nasza umowa z Iren będzie obowiązywać, miały już za sobą pół dnia chodzenia.
 

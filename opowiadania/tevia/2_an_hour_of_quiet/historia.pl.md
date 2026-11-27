@@ -4,7 +4,7 @@
 
 7 kwietnia, 11 ET · Przekaźnik nad kamiennym progiem, Zerath
 
-Ilen odpiął klucz od pulpitu i podał mi go na dłoni. Miał zagięty ząb. Nowy od dawna leżał na stole, ale w zimnie zacinał się w zamku, więc stary ciągle przechodził ze zmiany na zmianę.
+Ilen odpiął klucz od pulpitu i podał mi go na dłoni. Klucz miał zagięty ząb. Nowy od dawna leżał na stole, ale w zimnie zacinał się w zamku, więc stary ciągle przechodził ze zmiany na zmianę.
 
 — O zmierzchu dajesz mi znak — powiedział. — Na godzinę przepuszczamy pilne wiadomości górą. Wysłałem chłopaka na rozstaj, wie, gdzie odebrać torbę.
 

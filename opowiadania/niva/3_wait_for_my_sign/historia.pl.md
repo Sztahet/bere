@@ -6,7 +6,7 @@
 
 Podeszłam do Iskara dopiero po końcu ćwiczenia. Gdybym wcześniej weszła między ludzi, zobaczyłby mnie tuż za słupkiem i zaczął planować od nowa. Chciałam obejrzeć, jak sam wypuści osłonę. Gdy przy ostatnim ruchu cofnął dłoń, chłopak przy skrzyni pochylił się razem z nią. Drugi nadal trzymał swój koniec. Żaden nie wiedział, ile oddechów wcześniej powinni byli odłożyć ciężar na deski.
 
-Zapytałam Iskara, jak długo wytrzyma, jeśli utrzyma tylko odcinek przy słupku. Wziął kilka oddechów, nim pokazał mi miejsce na następne przejście. Podniosłam krążek z końca placu. Gdy poprzedni upadł za skrzynią, usłyszałam go z brzegu, a stojący przy ciężarze niczego ponad skrzypieniem drewna. Wzięliśmy dwóch ludzi nad wiadro. Jeden bał się, że jeśli pierwszy puści, drugiemu ręka zostanie pod skrzynią. Ustaliliśmy dwa krótkie znaki. Przy drugim odłożyli razem, zanim ktokolwiek musiał prosić o pomoc przez zaciśnięte zęby.
+Zapytałam Iskara, jak długo wytrzyma, jeśli utrzyma tylko odcinek przy słupku. Wziął kilka oddechów, nim pokazał mi miejsce na następne przejście. Podniosłam krążek z końca placu. Gdy poprzedni upadł za skrzynią, usłyszałam go z brzegu, a stojący przy ciężarze niczego ponad skrzypieniem drewna. Poprosiliśmy dwóch ludzi, żeby przećwiczyli z nami odkładanie ciężaru. Jeden bał się, że jeśli pierwszy puści, drugiemu ręka zostanie pod skrzynią. Ustaliliśmy dwa krótkie znaki. Przy drugim odłożyli skrzynię razem, zanim ktokolwiek musiał prosić o pomoc przez zaciśnięte zęby.
 
 Potem oddałam prowadzącej osobie linkę. Iskar chyba chciał mi coś powiedzieć, ale zapytał tylko, kiedy może zacząć pukać. Podałam mu miejsce pod bramą. Wieczorem wyjęłam z torby kartę z miejscem w konwoju. Wykreśliłam trzy rzeczy, które obiecałam zawieźć, zanim wiedziałam, ile mamy miejsca. Dwa wiersze przepisałam na czystą kartkę przed spotkaniem. Przy trzecim chciałam sama zapytać ludzi z magazynu, czy chcą go przesunąć.
 
@@ -14,11 +14,11 @@ Potem oddałam prowadzącej osobie linkę. Iskar chyba chciał mi coś powiedzie
 
 27 maja, 12 ET · gospoda przy składach w Val Meris
 
-Iskar przyszedł przed Liorą. Zanim zaczęliśmy rozmowę, spod bramy ruszył wóz i musieliśmy przesunąć ławę. Spojrzałam na wolny odcinek pod burtą. Mogłabym tam wsunąć części do młyna, gdyby woźnica zgodził się na dodatkowy postój przy naszej drodze. Wcześniej liczyłam go w myślach tak, jak liczę sam okrągły ciężar. Części ważyły tyle, ile na kwicie. Postój ważył tyle, ile człowiek miał potem do odrobienia przy swoim wozie.
+Iskar przyszedł przed Liorą. Zanim zaczęliśmy rozmowę, spod bramy ruszył wóz i musieliśmy przesunąć ławę. Spojrzałam na wolny odcinek pod burtą. Mogłabym tam wsunąć części do młyna, gdyby woźnica zgodził się na dodatkowy postój przy naszej drodze. Wcześniej sprawdzałam tylko ciężar części na kwicie. Teraz pomyślałam o postoju i czasie, który woźnica musiałby potem odrobić.
 
 Kiedy przyszła Liora, podała mi odpis, ale zostawiła pytanie Iskarowi. Wolałam za nią nie odpowiadać. Sama miałam jeszcze ochotę dopisać jej części obok jednego z worków. Ułożyłam na ławie wolną dłoń i zaczekałam, aż Iskar skończy mówić. Po rozmowie nie prosiłam o dodatkową kartę ani o zwolnienie miejsca. Poszłam z Liorą oddać odpis i zapowiedziałam, że rano wrócę zapytać o zwykły termin.
 
-Na północnym placu dałam Iskarowi płócienny worek. Poprosiłam, żeby zdjął z woźnicy najcięższe naczynie z posiłkiem. Od odprawy patrzyłam, jak obchodzi z nim wóz, za każdym razem w przekonaniu, że zaraz usiądzie. Liora przytrzymała kartkę, kiedy wiatr podszedł pod dolny brzeg. Przez chwilę nie trzymałam niczego. Mogłam wreszcie zobaczyć, że oboje dobrze sobie z tym radzą.
+Na północnym placu dałam Iskarowi płócienny worek. Poprosiłam, żeby odebrał od woźnicy najcięższe naczynie z posiłkiem. Od odprawy patrzyłam, jak woźnica obchodzi z nim wóz, za każdym razem w przekonaniu, że zaraz usiądzie. Liora przytrzymała kartkę, kiedy wiatr podniósł jej dolny brzeg. Przez chwilę nie trzymałam niczego. Mogłam wreszcie zobaczyć, że oboje dobrze sobie z tym radzą.
 
 ## Jeszcze czuję rękę
 

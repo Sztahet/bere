@@ -6,7 +6,7 @@
 
 W piekarni nie dało się otworzyć drzwi. Zawias opadł tak nisko, że dolna krawędź szorowała po progu, a właścicielka od świtu wypuszczała klientów tylnym wyjściem. Kiedy przyszedłem po chleb, poprosiła mnie, żebym potrzymał skrzydło, póki jej syn nie przyniesie narzędzi.
 
-Zrobiłem to. Następnie pomogłem mu wyjąć sworzeń. Kiedy upuścił go za beczkę, pomogłem mu go stamtąd wydobyć — obaj uznaliśmy, że łatwiej będzie poruszyć beczkę niż podłogę.
+Zrobiłem to. Następnie pomogłem mu wyjąć sworzeń. Kiedy upuścił go za beczkę, odsunęliśmy ją razem i wydobyliśmy zgubę.
 
 — Myślałam, że mag poradzi sobie szybciej — powiedziała właścicielka.
 

@@ -180,7 +180,7 @@ Erna przyniosła na poranną zmianę warunki obu stron Igrzysk. Podłożyła je 
 
 — I kto by poprawił wpis, gdyby ten z urzędu zrobił go źle?
 
-Odszukałem punkt o odwołaniach. Erna przeczytała go sama. Chciała wiedzieć, kto na miejscu będzie mógł zamknąć przejście, kiedy ma przed sobą złą drogę i ruszający wóz. Odpowiedziałem, że rozumiem wspólną zasadę jako zobowiązanie, by obie strony odnotowały zamknięcie. Chciała sprawdzić, czy umiałbym tak samo szybko przyznać rację człowiekowi z małego posterunku, gdy podważy mój wpis. Położyłem na stole kopię z przeprawy. Pod numerem starego znaku widniało moje imię. Przez chwilę studiowaliśmy dwie daty, z zeszłego roku i z tego, jakby miały się w końcu złożyć w jeden pomiar.
+Odszukałem punkt o odwołaniach. Erna przeczytała go sama. Chciała wiedzieć, kto na miejscu będzie mógł zamknąć przejście, kiedy ma przed sobą złą drogę i ruszający wóz. Odpowiedziałem, że rozumiem wspólną zasadę jako zobowiązanie, by obie strony odnotowały zamknięcie. Chciała sprawdzić, czy umiałbym tak samo szybko przyznać rację człowiekowi z małego posterunku, gdy podważy mój wpis. Położyłem na stole kopię z przeprawy. Pod numerem starego znaku widniało moje imię. Przez chwilę przyglądaliśmy się obu datom: zeszłorocznej i tegorocznej.
 
 — Wiesz już, czemu tamten znak zostawili? — spytała.
 

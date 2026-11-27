@@ -102,7 +102,7 @@ Mężczyzna podniósł wzrok.
 
 W notatniku miałem już trzy pomiary i rysunek mocowania. Pod nimi napisałem: Przewodnik zginął. Nie znałem jego imienia. Zostawiłem w notatniku miejsce, żeby je dopisać.
 
-Resztę dnia spędziłem nad przyrządem. Nie mogłem go uruchomić bez wymiany części. Wóz na dole nie nadawał się do naprawy.
+Resztę dnia spędziłem nad przyrządem. Co chwilę wracałem do rysunku pękniętego uchwytu. Lena wskazała mi to miejsce przed wysłaniem urządzenia, a ja uznałem, że wystarczy wymienić część.
 
 ## Raport
 
@@ -176,6 +176,6 @@ Wpisałem imię przewodnika z raportu.
 
 <!-- ilustracja: 08 -->
 
-Przyglądałem mu się przez chwilę. Nie wiedziałem, co robił przed wojną ani kto czekał, aż wróci. Nie wiedziałem nawet, czy umiał naprawić koło własnego wozu. Miałem jego imię, kilka pomiarów i urządzenie, którego nie powinienem był dopuścić bez kolejnej próby.
+Przyglądałem mu się przez chwilę. Nie wiedziałem, co robił przed wojną ani kto czekał, aż wróci. Miałem jego imię, kilka pomiarów i urządzenie, którego nie powinienem był dopuścić bez kolejnej próby.
 
 Jutro kolejny test na drodze.

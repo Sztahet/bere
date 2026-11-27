@@ -1,5 +1,7 @@
 # Zgodność obietnic Igrzysk z motywacjami bohaterów
 
+> **Starszy przegląd:** obejmuje wcześniejszy skład i wcześniejsze biografie. Motywacje należy weryfikować w [opowiadaniach](opowiadania/README.md), z uwzględnieniem statusu poszczególnych części.
+
 **Status: przegląd roboczy, nie zmiana biografii ani przydziału do stron.** Porównano 31 bohaterów z polskimi biografiami w `RIFTORYN_HISTORIE_BOHATEROW_DO_ZATWIERDZENIA.md`, motywacjami w GDD i polskimi historiami w `riftoryn-unity/Assets/Resources/codex.json` oraz z [propozycją programów](./RIFTORYN_PROGRAMY_STRON_IGRZYSK_PROPOZYCJA.md). Dane w grze pozostają źródłem aktualnych treści gry; status zatwierdzenia poszczególnych historii pozostaje bez zmian. Zwykłe Próby i wyjątkowe Wielkie Igrzyska mają różną stawkę — motywacji do jednych nie traktujemy automatycznie jako zgłoszenia do drugich.
 
 ## Werdykt

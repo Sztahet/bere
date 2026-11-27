@@ -92,7 +92,7 @@ Elmar spojrzał w stronę Bery. Wciąż trzymała rękę na klamce. Zapytał, cz
 
 Poprosiłem przewodnika, żeby sprowadził go do schronu. Wypchałem kieszenie jego płaszcza herbatą, chlebem i tym, co zostało mi ze stawki za przejazd. Wtedy zobaczyłem, że splamiona rękawica znów ześlizguje mu się z dłoni. Przyłożyłem ją do przedramienia i zawiązałem mankiet. Na progu obrócił rękę, żeby sprawdzić, czy będzie mógł puścić linkę. Podziękował za płótno i powiedział, że spróbuje je wyprać. Była to najlepiej zachowana rzecz w mojej torbie.
 
-W kuchni gospodarz postawił przede mną miskę, ale usiadłem przy workach, żeby starzec miał gdzie wyprostować nogę. Tami przyniosła z pieca chleb i dała mi największy kawałek. Chciałem go podzielić. Nie trzymałem dobrze noża dwoma palcami, które zdrętwiały pod ścianą. Niva wzięła go ode mnie i pokroiła tak, żeby każdy przy jej stole dostał po trochu. Dopiero kiedy go przełknąłem, zauważyłem, że od chwili zejścia z półki nie wypuściłem z ręki śniegu, który zbierał mi się w rękawie. Rozwiązałem mankiet i pozwoliłem wodzie ściec na podłogę.
+W kuchni gospodarz postawił przede mną miskę, ale usiadłem przy workach, żeby starzec miał gdzie wyprostować nogę. Tami przyniosła z pieca chleb i dała mi największy kawałek. Chciałem go podzielić. Nie trzymałem dobrze noża dwoma palcami, które zdrętwiały pod ścianą. Niva wzięła go ode mnie i pokroiła tak, żeby każdy przy jej stole dostał po trochu. Dopiero kiedy przełknąłem chleb, poczułem, że śnieg w rękawie topnieje i moczy mi dłoń. Rozwiązałem mankiet i pozwoliłem wodzie ściec na podłogę.
 
 ## Odbiór
 

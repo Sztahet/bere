@@ -42,7 +42,7 @@ Zaproponowałem, że pójdę do posterunku krótszą ścieżką dla pieszych. Wo
 
 — Masz się nie spieszyć kosztem drogi — powiedziała Varek.
 
-Przypomniałem jej, żeby przekazała wiadomość, kiedy przyjdzie, a nie dopiero po ustaleniu wszystkiego. Wpisała godzinę pod moim imieniem.
+Przypomniałem jej, żeby przekazała wiadomość, kiedy przyjdzie, a nie dopiero po ustaleniu wszystkiego. Zapisała, dokąd idę.
 
 Kiedy ruszałem, Grom poderwał się z belki. Przeleciał nad bramą i usiadł na dachu składu. Obejrzałem się raz. Potem poszedłem dalej. Nie miał powodu lecieć za mną i nie chciałem poświęcić czasu na czekanie, aż wybierze miejsce.
 
@@ -86,7 +86,7 @@ Spytała mnie, które godziny mogę wziąć, gdy jej nie będzie. Powiedziałem,
 
 — Możemy oboje pojechać — powiedziałem. — Ale nie, jeśli całą robotę zostawimy jednej osobie.
 
-Nera przejrzała z nami grafik. Miała zostać z córką Varek, ale odmówiła nocnej zmiany przed wyjazdem, bo nie chciała obiecać jednocześnie opieki rano. Zet wybrał godziny, w których mógł przenosić pilne wiadomości. Dyżurnemu z bocznej stacji pokazałem przegląd odbiornika. Resztę zmian obsadzaliśmy po kolei; dwa miejsca nadal były puste, kiedy wydawało nam się, że skończyliśmy. Nera położyła na nich palec. Varek znalazła człowieka na pierwszą zmianę, Nera na drugą.
+Nera przejrzała z nami grafik. Początkowo miała zaopiekować się córką Varek i nie chciała łączyć nocnej zmiany z odprowadzaniem dziecka rano. Później postanowiła sama spróbować sił w kwalifikacjach, a Varek znalazła opiekę u sąsiadki. Zet wybrał godziny, w których mógł przenosić pilne wiadomości. Dyżurnemu z bocznej stacji pokazałem przegląd odbiornika. Resztę zmian obsadzaliśmy po kolei; dwa miejsca nadal były puste, kiedy wydawało nam się, że skończyliśmy. Nera położyła na nich palec. Varek znalazła człowieka na pierwszą zmianę, Nera na drugą.
 
 Przed wyjazdem poprosiłem Nerę o pomoc przy lampie dla małej stacji. Potrzebowaliśmy doładować kryształ na krótką próbę; do pełnego zasilania miała później przyjść bardziej doświadczona osoba. Nera ćwiczyła już przekazywanie energii pod nadzorem. Zapytałem ją o kolejność sprawdzenia obudowy. Przy drugim punkcie zawahała się, bo robiliśmy go poprzedniego dnia. Sprawdziliśmy ponownie.
 

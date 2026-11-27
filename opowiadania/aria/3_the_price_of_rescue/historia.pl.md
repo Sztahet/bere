@@ -4,11 +4,11 @@
 
 17 maja, 12 ET · Szlak z Cienistego Portu, Vesper
 
-Jona poprosiła mnie o jazdę pod koniec tygodnia. Mert, jej syn, pracował już z własną załogą. Nadal znałam miejsce na jego nadgarstku, przy którym płótno zahaczyło wtedy o guzik. Zgodziłam się bez pytania o sąsiedni wóz. Neris miała dowiedzieć się o zleceniu dopiero przy rozliczeniu. Chciałam przywieźć Jonę do portu i dostać od niej pieniądze za zwykły przejazd.
+Jona poprosiła mnie o jazdę pod koniec tygodnia. Mert, jej syn, pracował już z własną załogą. Pamiętałam, jak opatrywałyśmy mu nadgarstek po tamtym napadzie. Zgodziłam się bez pytania o sąsiedni wóz. Neris miała dowiedzieć się o zleceniu dopiero przy rozliczeniu. Chciałam przywieźć Jonę do portu i dostać od niej pieniądze za zwykły przejazd.
 
 Przed ostatnim postojem usłyszałam, jak Mert upuszcza worek, a potem jak spod wozu woła o pomoc. Zobaczyłam człowieka idącego w stronę Jony. Znałam go z izby Neris. Był jednym z tych, którym płaciła wtedy, kiedy zaczynałyśmy jeździć razem. Tym razem nie czekał, aż stanę na drodze.
 
-Zostałam przy wozie, choć Jona krzyczała za mną z drugiej strony. Wcisnęłam krawędź osłony między Merta i przechyloną burtę. Światło zaczęło słabnąć. Podparłam je Ciemnością tylko przy burcie. Krawędź ściemniała i straciłam z oczu jego dłoń. Kazałam mu przesunąć się o tyle, o ile może. Powiedział, że nie czuje dłoni. Wsunęłam się po niego sama. Kiedy wyciągnęłam go na drogę, napastnika już nie było. Jona czekała za kołem i pomogła mi podnieść Merta. Podczas jazdy do samej bramy podtrzymywałam mu obolałe ramię.
+Zostałam przy wozie, choć Jona wołała mnie z drugiej strony. Wcisnęłam krawędź osłony między Merta i przechyloną burtę. Światło zaczęło słabnąć. Podparłam je Ciemnością tylko przy burcie. Krawędź ściemniała i straciłam z oczu jego dłoń. Kazałam mu przesunąć się o tyle, o ile może. Powiedział, że nie czuje dłoni. Wsunęłam się pod burtę i wyciągnęłam go na drogę. Napastnika już nie było. Jona czekała za kołem i pomogła mi podnieść Merta. Podczas jazdy do samej bramy podtrzymywałam mu obolałe ramię.
 
 Mert przeżył. W porcie człowiek od opatrunków powiedział, że potrzebuje kilku tygodni, zanim spróbuje dźwignąć worek. Jona zapytała, kto za nie zapłaci. Chciałam dać jej swoje wynagrodzenie. Odpowiedziała, że wolałaby wiedzieć, kim był człowiek z drogi. Mert widział go również i mógł wskazać twarz.
 

@@ -6,9 +6,9 @@ Jesień, 11 ET · Aurel
 
 Jorek podał mi koniec pasa, który wciąż był przywiązany do burty.
 
-— Nie uciekaj — powiedziałam.
+— Poczekaj. Najpierw odwiąż go od burty.
 
-Spojrzał na węzeł, rozwiązał go i podał pas jeszcze raz. Tym razem przyjęłam go bez uwag. Od rana brakowało nam jednej skrzyni, a człowiek ze składu twierdził, że nigdy jej nie dostał.
+Spojrzał na węzeł, rozwiązał go i podał mi pas. Od rana brakowało nam jednej skrzyni, a człowiek ze składu twierdził, że nigdy jej nie dostał.
 
 — Według rejestru przyjęliśmy o jedną mniej — powiedział, obracając księgę w moją stronę.
 

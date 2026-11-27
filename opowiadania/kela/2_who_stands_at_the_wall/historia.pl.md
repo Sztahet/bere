@@ -38,7 +38,7 @@ Zostałam w kamieniołomie, bo stamtąd umiałam przynieść do domu coś, co je
 
 Wolne Krainy mówiły o tym, że miejscowi szybciej oglądają drogę i wiedzą, kogo zapytać. Wspólny nadzór dawał mi inną możliwość. Jeżeli kierownik odrzuci zapis załogi, ludzie mogą zwrócić się do kogoś spoza własnego zakładu. Na spotkaniu nikt nie umiał mi powiedzieć, kto od nas będzie brał udział w takich oględzinach i jak pokryją wypłatę. Właśnie w tej sprawie Rokan wiózł mój list.
 
-Znalazłam ogłoszenie przy wadze. Zgłoszenia w Val Meris przyjmowano do dwudziestego ósmego. U przewoźników pod bramą dowiedziałam się, że wieczorem rusza mały wóz z opłaconą zmianą koni. Zostało jedno miejsce. Po drodze miał postoje krótsze niż zwykłe wozy z kamieniem. Jeśli na drodze nic ich nie zatrzyma, dotrą ostatniego dnia zapisów.
+Znalazłam ogłoszenie przy wadze. Zgłoszenia w Val Meris przyjmowano do dwudziestego ósmego. U przewoźników pod bramą dowiedziałam się, że wieczorem rusza mały wóz z opłaconą zmianą koni. Zostało jedno miejsce. Postoje miały być krótsze niż przy przewozie kamienia. Jeśli nic nas nie zatrzyma, dotrzemy ostatniego dnia zapisów.
 
 Nie kupiłam miejsca od razu. Wróciłam do Bareta i Edy. Powiedziałam im, że chcę jechać na kwalifikacje, a dokumenty na jutro są gotowe. Baret miał poprowadzić zmianę. Edę spytałam, z kim chce zejść do rampy, jeśli do rana podejdzie więcej wody. Wskazała człowieka od kanału i dopisała na swoim odpisie, gdzie będą mogli podejść od suchej strony. Dopiero wtedy poszłam do woźnicy.
 

@@ -6,7 +6,7 @@
 
 Wozy ze wschodniego zbocza rozpoznawałem po kołach. Obręcze robiło się tam z dwóch kawałków żelaza i na kamiennej drodze każdy wóz stukał dwa razy na obrót. Ostatni tego dnia nadjechał tak szybko, że nie dało się policzyć uderzeń.
 
-Zatrzymał się przed liną, którą rozpięliśmy w poprzek drogi. Na koźle siedziała Rena, a obok niej leżały trzy bochenki przykryte fartuchem. W skrzyni, między pustymi workami po mące, ktoś trzymał zakrwawioną nogę.
+Zatrzymał się przed liną, którą rozpięliśmy w poprzek drogi. Na koźle siedziała Rena, a obok niej leżały trzy bochenki przykryte fartuchem. W skrzyni, między pustymi workami po mące, leżał ranny. Trzymał się za zakrwawioną nogę.
 
 — Z naprawy drogi? — spytałem.
 
@@ -104,7 +104,7 @@ Przepisałem imiona. Żeby zmieścić ostatnie dwa, musiałem odwrócić kartkę
 
 Rada istniała od roku, gdy Kharum powierzyło mi mandat. Do tego czasu zdążyliśmy otworzyć obie drogi do młynów i wznowić przewozy południem. Dla ludzi ze wschodniego zbocza znalazło się mniej pracy, niż sobie obiecałem nad księgą Reny. Jej syn wyjechał. W liście z nowego miejsca pytał matkę, czy udało jej się sprzedać drugi wóz.
 
-Na jednym z pierwszych posiedzeń przedłożyłem plan naprawy drogi do wspólnego składu. Krótszy przejazd pozwoliłby Kharum odbudować część dostaw, a sąsiadom ograniczyć liczbę wozów potrzebnych do ich odbioru. Miałem obliczenia dla każdego odcinka. Przedstawiciel Verdan poprosił o głos zanim skończyłem.
+Na jednym z pierwszych posiedzeń przedłożyłem plan naprawy drogi do wspólnego składu. Krótszy przejazd pozwoliłby Kharum odbudować część dostaw, a sąsiadom ograniczyć liczbę wozów potrzebnych do ich odbioru. Miałem obliczenia dla każdego odcinka. Przedstawiciel Verdan poprosił o głos, zanim skończyłem.
 
 — Kto utrzyma przewozy do czasu otwarcia?
 

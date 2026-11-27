@@ -84,7 +84,7 @@ Otrzymałem odpowiedź z archiwum. Pracownica nie znalazła drugiej kopii mojego
 
 Dołączyła również odpis z księgi odwiedzin innego archiwum, tego, w którym szukałem mapy. Napisała, że poprosiła o sprawdzenie dawnych wpisów przy okazji mojego pytania o drogę. Pod datą sprzed kilku lat widnieje tam prośba o tę samą mapę i imię zaczynające się od „Noct”. Dalsze litery przecina ślad po zagięciu strony. Nie ma adresu ani podpisu.
 
-Pojechałem tam w 10 ET; wpis jest wcześniejszy. Przesunąłem palcem po odpisie, jakbym mógł rozprostować zagięcie na kartce, której nigdy nie dotknąłem. Poprosiłem w odpowiedzi o możliwość obejrzenia księgi, kiedy wrócę. Chciałbym wiedzieć, kto jeszcze szukał tej mapy.
+Pojechałem tam w 10 ET; wpis jest wcześniejszy. Przesunąłem palcem po odpisie, jakbym mógł w ten sposób rozprostować zagięcie na stronie księgi. Poprosiłem w odpowiedzi o możliwość obejrzenia oryginału, kiedy wrócę. Chciałbym wiedzieć, kto jeszcze szukał tej mapy.
 
 Schowałem list razem z wykazem. Nie chcę, żeby imię na zamazanym marginesie zniknęło tylko dlatego, że się go boję. Nie chcę też dopisywać mu znaczenia, którego jeszcze nie znam.
 

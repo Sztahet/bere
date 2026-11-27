@@ -4,15 +4,15 @@
 
 27 maja, 12 ET · Val Meris
 
-Najlepsze lustro w gospodzie było pokrywką garnka. Wypolerowałem ją rękawem i przećwiczyłem przed nią trzy powitania. W pierwszym za długo trzymałem rękę uniesioną do ukłonu. Oparzenie odezwało się pod rękawem i wyszło na to, że rycerz Bractwa Feniksa krzywi się na własne imię. W drugim dwa razy użyłem słowa „zaszczyt”. Trzecie byłoby zupełnie udane, gdybym w połowie nie dostrzegł gruszki, która tkwiła mi w brodzie od śniadania.
+Najlepsze lustro w gospodzie było pokrywką garnka. Wypolerowałem ją rękawem i przećwiczyłem przed nią trzy powitania. W pierwszym za długo trzymałem rękę uniesioną do ukłonu. Oparzenie odezwało się pod rękawem i wyszło na to, że rycerz Bractwa Feniksa krzywi się na własne imię. W drugim dwa razy użyłem słowa „zaszczyt”. Trzecie byłoby zupełnie udane, gdybym w połowie nie dostrzegł kawałka gruszki, który utknął mi w brodzie podczas śniadania.
 
-Usunąłem ją i zacząłem od nowa.
+Usunąłem go i zacząłem od nowa.
 
 — Piecarius. Rycerz Bractwa Feniksa. Przybywam, by…
 
 — Jeszcze raz odezwie się pan do garnka i policzę za dwóch gości — powiedziała gospodyni zza drzwi.
 
-Otworzyłem. Miała w koszu moją koszulę, a w kieszeni fartucha dwie monety, które z niej wyjęła przed praniem. Jedna była miejscowa. Za drugą mogłem opłacić miejsce przy wozie choćby na część drogi powrotnej. Podziękowałem jej tak, jakbym otrzymał pieniądze, których wcześniej nie było. Została mi jeszcze jedna gruszka. Dałem jej ją, póki nie przypomniała sobie o drugim gościu.
+Otworzyłem. Miała w koszu moją koszulę, a w kieszeni fartucha dwie monety, które z niej wyjęła przed praniem. Jedna była miejscowa. Za drugą mogłem opłacić miejsce przy wozie choćby na część drogi powrotnej. Podziękowałem jej tak, jakbym otrzymał pieniądze, których wcześniej nie było. Została mi jeszcze jedna gruszka. Podarowałem ją gospodyni, póki nie przypomniała sobie o drugim gościu.
 
 Do Val Meris przyjechałem poprzedniego wieczoru z transportem części na areny. Do kwalifikacji zostały dwa dni, do samych Igrzysk jeszcze parę tygodni, a w gospodach już dostawiano ławy. Po porannym rozładunku zaszedłem pod wschodnią bramę. Znalazłem miejsce Vedy po napisie na belce składu. Pisarz powiedział, że jej wóz jest jeszcze w drodze. Kazał mi zajrzeć jutro po południu, kiedy skończy rozładunek. Przez chwilę miałem ochotę zostawić wizytę zapowiedzianą na piśmie. Zostawiłem tylko swoje imię.
 
