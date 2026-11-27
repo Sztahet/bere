@@ -1091,8 +1091,9 @@ public partial class RiftorynTrial : MonoBehaviour
                 HudFill(new Rect(marker.x-2,marker.y-2,4,4),tower.hp>0?TowerColors[tower.type]:Color.gray);
             }
         MinimapMarker(map,player,new Color(1f,.75f,.25f),DefenseMode?"AI":"TY");
-        MinimapMarker(map,ally,new Color(.2f,.85f,.95f),"AI");
-        if(ally!=null)
+        if(MatchMode) DrawMatchTeamHud(map);
+        else MinimapMarker(map,ally,new Color(.2f,.85f,.95f),"AI");
+        if(!MatchMode&&ally!=null)
         {
             float hudWidth=Mathf.Min(210f,size+8f);
             int petCount=ally.obj.GetComponentInChildren<RiftorynPetHealth>(true)!=null?1:0;

@@ -193,6 +193,54 @@ public partial class RiftorynTrial
         GUI.matrix=old;
     }
 
+    static readonly Color[] MatchAllyColors={new(.25f,.85f,.95f),new(.55f,.88f,.35f),new(.83f,.57f,1f),new(1f,.62f,.35f)};
+    GUIStyle matchMarkerStyle,matchTeamStyle;
+
+    void DrawMatchTeamHud(Rect map)
+    {
+        var teammates=new List<Runner>(4);
+        if(ally!=null&&ally.obj) teammates.Add(ally);
+        foreach(var runner in matchExtras) if(runner!=null&&runner.obj) teammates.Add(runner);
+        if(teammates.Count==0) return;
+        if(matchMarkerStyle==null) matchMarkerStyle=new GUIStyle(small){fontSize=10,fontStyle=FontStyle.Bold,alignment=TextAnchor.MiddleCenter,wordWrap=false};
+        if(matchTeamStyle==null) matchTeamStyle=new GUIStyle(small){fontSize=12,fontStyle=FontStyle.Bold,wordWrap=false};
+        var markerPositions=new List<Vector2>();
+        if(player!=null&&player.obj) markerPositions.Add(MinimapPoint(player.obj.transform.position,map));
+        float rowHeight=Mathf.Clamp((Screen.height-150f)/teammates.Count,34f,48f);
+        float width=Mathf.Min(235f,Screen.width*.27f), height=28f+rowHeight*teammates.Count;
+        Rect panel=new(16,Screen.height-height-16,width,height);
+        GUI.Box(panel,"");
+        GUI.Label(new Rect(panel.x+10,panel.y+5,width-20,20),"SOJUSZNICY",matchTeamStyle);
+        for(int i=0;i<teammates.Count;i++)
+        {
+            Runner runner=teammates[i];Color color=MatchAllyColors[i%MatchAllyColors.Length];
+            Vector2 position=MinimapPoint(runner.obj.transform.position,map);
+            Vector2 displayed=position;
+            // Keep clustered markers readable while leaving them near their actual position.
+            for(int attempt=0;attempt<12;attempt++)
+            {
+                bool overlaps=false;
+                foreach(var occupied in markerPositions) if((displayed-occupied).sqrMagnitude<196f){overlaps=true;break;}
+                if(!overlaps) break;
+                float angle=attempt*Mathf.PI*.5f;
+                displayed=position+new Vector2(Mathf.Cos(angle),Mathf.Sin(angle))*(14f+(attempt/4)*11f);
+                displayed.x=Mathf.Clamp(displayed.x,map.x+7,map.xMax-7);
+                displayed.y=Mathf.Clamp(displayed.y,map.y+7,map.yMax-7);
+            }
+            markerPositions.Add(displayed);
+            Rect marker=new(displayed.x-7,displayed.y-7,14,14);
+            HudFill(marker,new Color(.03f,.025f,.04f,.96f));
+            Color old=GUI.color;GUI.color=runner.done||runner.hp<=0?Color.gray:color;
+            GUI.Label(marker,(i+1).ToString(),matchMarkerStyle);GUI.color=old;
+            float y=panel.y+27+i*rowHeight;
+            string state=runner.done?"META":runner.hp<=0?"POKONANY":$"{Mathf.CeilToInt(runner.hp)} / {Mathf.CeilToInt(MaxHp[runner.hero])} HP";
+            HudFill(new Rect(panel.x+10,y+2,13,13),color);
+            GUI.Label(new Rect(panel.x+14,y+1,13,15),(i+1).ToString(),matchMarkerStyle);
+            GUI.Label(new Rect(panel.x+28,y-1,width-35,19),HeroNames[runner.hero]+" · "+state,matchTeamStyle);
+            HealthBar(new Rect(panel.x+28,y+19,width-40,8),runner.hp,MaxHp[runner.hero],color);
+        }
+    }
+
     void DrawMatch()
     {
         float w=Screen.width, h=Screen.height;
