@@ -64,7 +64,7 @@ public partial class RiftorynTrial
 
     void UpdateVineOccupants()
     {
-        foreach(var runner in new[]{player,ally})
+        foreach(var runner in AllRunners())
         {
             if(runner==null) continue;
             bool slowed=false;
@@ -148,7 +148,7 @@ public partial class RiftorynTrial
             strike.ring.startWidth=strike.ring.endWidth=.09f+.06f*(1f-Mathf.Clamp01(strike.remaining/EarthDelay));
             if(strike.remaining>0) continue;
             Vector3 impact=strike.position+Vector3.up;
-            foreach(var runner in new[]{player,ally})
+            foreach(var runner in AllRunners())
             {
                 if(!IsRunning(runner)) continue;
                 Vector3 center=runner.obj.transform.position+Vector3.up;

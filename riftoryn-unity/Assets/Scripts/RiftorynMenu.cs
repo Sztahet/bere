@@ -92,6 +92,7 @@ public partial class RiftorynMenu : MonoBehaviour {
             trial.OpenSharedScores();
             GUIUtility.ExitGUI();
         }
+        if(Click(new Rect(560,339,280,48),RiftorynCodexData.Text("MECZ 5 NA 5 · TEST","5 VS 5 MATCH · TEST"))) trial.OpenMatch();
         Text(new Rect(48,464,1300,44),RiftorynCodexData.Text("TRYBY TESTOWE","TEST MODES"),section);
         TestModeCard(new Rect(50,523,480,222),RiftorynCodexData.Text("TRENING","TRAINING"),
             RiftorynCodexData.Text("Sprawdź bohatera i wypróbuj standardowy albo własny układ wież. Zagraj samodzielnie lub z AI.",

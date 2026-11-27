@@ -37,10 +37,11 @@ public partial class RiftorynTrial : MonoBehaviour
     class VinePatch { public int id; public Vector3 position; public float remaining; public GameObject visual; public readonly HashSet<Runner> occupants=new(); }
     readonly List<VinePatch> vinePatches=new(), lanVinePatches=new();
     enum Phase { Setup, Playing, Finished }
-    enum TrialMode { Training, SharedEscape, LanTest, Defense }
+    enum TrialMode { Training, SharedEscape, LanTest, Defense, Match }
     TrialMode mode;
     bool sharedEscape=>mode==TrialMode.SharedEscape;
     bool DefenseMode=>mode==TrialMode.Defense;
+    bool MatchMode=>mode==TrialMode.Match;
     bool CustomTrainingDefense=>DefenseMode||mode==TrialMode.Training&&custom;
     public bool menuOpen = true;
     Phase phase; int selectedHero=0, allyChoice=0, selectedType=0, selectingHero=-1, draftPreview=-1; bool initialDraft, briefing; CodexHero[] roster=Array.Empty<CodexHero>(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); RiftorynHeroStats[] heroStats=Array.Empty<RiftorynHeroStats>(); Vector2 abilityTooltipScroll; string lastAbilityTooltip=""; float abilityTooltipUntil; readonly Dictionary<string,Texture2D> draftPortraits=new(); bool custom, genericModelPreview; float elapsed,total, cameraYaw, pitch=18f, messageTimer, fogArrivalTime; string message="", result=""; int floatingSequence; readonly List<FloatingCombatText> combatTexts=new(); Runner player,ally; Camera cam; GameObject world,runnerRoot,slotRoot,fogRoot; GameObject[] slots; readonly List<Tower> towers=new(); readonly List<Shot> shots=new(); readonly List<GameObject> fogTiles=new(); readonly List<float> fogDistances=new(); float[] lengths; Mesh fogMesh; Material fogMaterial; GUIStyle title, small, heading, floatingStyle, hudCenterStyle, hudStatusStyle, draftHeroTitle, draftRoleStyle, draftCompactNameStyle,draftResistanceNameStyle,draftResistanceValueStyle,draftResistanceNoteStyle; readonly Dictionary<string,Texture2D> statIcons=new(), statusIcons=new(); bool mouseCaptured;
@@ -205,12 +206,14 @@ public partial class RiftorynTrial : MonoBehaviour
             Destroy(tower.obj);
         }
         towers.Clear();
+        foreach(var extra in matchExtras) if(extra.obj) Destroy(extra.obj);
+        matchExtras.Clear();
         ReplaceRunners();
         for(int i=0;i<visibleFogTiles;i++) fogTiles[i].SetActive(false);
         visibleFogTiles=0;
         foreach(var slot in slots) slot.SetActive(CustomTrainingDefense);
         if(sharedEscape) BuildSharedDefense();
-        else if(!CustomTrainingDefense)
+        else if(!CustomTrainingDefense&&!MatchMode)
         {
             int[] standardSlots={2,5,9,12,15,19,23};
             for(int i=0;i<standardSlots.Length;i++) AddTower(standardSlots[i],i);
@@ -347,7 +350,7 @@ public partial class RiftorynTrial : MonoBehaviour
 
         float dt=Mathf.Min(Time.deltaTime,.05f);
         if(dt<=0) return;
-        if(DefenseMode)
+        if(DefenseMode || MatchMode&&matchRound==2)
         {
             StepTrial(dt,Vector3.zero,false,false,false,false);
             return;
@@ -369,7 +372,7 @@ public partial class RiftorynTrial : MonoBehaviour
         elapsed+=dt;
         if(IsRunning(player))
         {
-            if(DefenseMode)
+            if(DefenseMode || MatchMode&&matchRound==2)
             {
                 Vector3 before=player.obj.transform.position;
                 StepBot(player,dt);
@@ -399,6 +402,16 @@ public partial class RiftorynTrial : MonoBehaviour
             ally.velocity=(ally.obj.transform.position-before)/dt;
             StepRunner(ally,dt);
         }
+        if(MatchMode) foreach(var runner in matchExtras)
+        {
+            if(IsRunning(runner))
+            {
+                Vector3 before=runner.obj.transform.position;
+                StepBot(runner,dt);
+                runner.velocity=(runner.obj.transform.position-before)/dt;
+                StepRunner(runner,dt);
+            }
+        }
         if(sharedEscape)
         {
             DiscoverSharedTowers();
@@ -412,8 +425,11 @@ public partial class RiftorynTrial : MonoBehaviour
         StepShots(dt);
         EndRunnerFrame(player,dt);
         if(ally!=null) EndRunnerFrame(ally,dt);
+        if(MatchMode) foreach(var runner in matchExtras) EndRunnerFrame(runner,dt);
         if(!DefenseMode) UpdateFogVisuals();
-        if(!IsRunning(player)&&!IsRunning(ally)) End();
+        bool anyoneRunning=false;
+        foreach(var runner in AllRunners()) if(IsRunning(runner)){anyoneRunning=true;break;}
+        if(!anyoneRunning) End();
     }
 
     void EditTowerAtPointer()
@@ -641,7 +657,7 @@ public partial class RiftorynTrial : MonoBehaviour
     void StepHealing(float dt)
     {
         if(healingTime<=0)return;float step=Mathf.Min(dt,healingTime);healingTime-=step;healingTick-=step;
-        while(healingTick<=.0001f){foreach(var r in new[]{player,ally})if(r!=null&&r.hp>0&&!r.done&&Vector3.Distance(r.obj.transform.position,healingPosition)<=4)r.hp=Mathf.Min(MaxHp[r.hero],r.hp+11);healingTick+=1;}UpdateHealingRing();
+        while(healingTick<=.0001f){foreach(var r in AllRunners())if(r!=null&&r.hp>0&&!r.done&&Vector3.Distance(r.obj.transform.position,healingPosition)<=4)r.hp=Mathf.Min(MaxHp[r.hero],r.hp+11);healingTick+=1;}UpdateHealingRing();
     }
     void UpdateHealingRing()
     {
@@ -721,11 +737,11 @@ public partial class RiftorynTrial : MonoBehaviour
             t.warning.enabled=false;t.wait-=dt*(t.overload>0?1.5f:1f);if(t.wait>0)continue;
             // During the maneuver the nearest flying Patka takes priority over runners.
             RiftorynPatkaPreview lure=null;float lureDistance=TowerRange[t.type];
-            foreach(var r in new[]{player,ally}){if(r==null||!r.obj||r.hp<=0||r.done)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsFlying)continue;float distance=Vector3.Distance(pet.AimPosition,Slot(t.slot));if(distance<lureDistance&&TowerHasClearShot(t,pet.AimPosition)){lure=pet;lureDistance=distance;}}
+            foreach(var r in AllRunners()){if(r==null||!r.obj||r.hp<=0||r.done)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsFlying)continue;float distance=Vector3.Distance(pet.AimPosition,Slot(t.slot));if(distance<lureDistance&&TowerHasClearShot(t,pet.AimPosition)){lure=pet;lureDistance=distance;}}
             if(lure){t.petTarget=lure;t.windup=TowerWindup;continue;}
             Runner target=null;RiftorynPatkaPreview nearestPet=null;float d=TowerRange[t.type];
-            foreach(var r in new[]{player,ally}){if(r==null||r.hp<=0||r.done)continue;float n=Vector3.Distance(r.obj.transform.position,Slot(t.slot));if(n<d&&TowerHasClearShot(t,r.obj.transform.position+Vector3.up)){d=n;target=r;}}
-            foreach(var r in new[]{player,ally}){if(r==null||!r.obj||r.hp<=0||r.done)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsAlive)continue;float n=Vector3.Distance(pet.AimPosition,Slot(t.slot));if(n<d&&TowerHasClearShot(t,pet.AimPosition)){d=n;nearestPet=pet;}}
+            foreach(var r in AllRunners()){if(r==null||r.hp<=0||r.done)continue;float n=Vector3.Distance(r.obj.transform.position,Slot(t.slot));if(n<d&&TowerHasClearShot(t,r.obj.transform.position+Vector3.up)){d=n;target=r;}}
+            foreach(var r in AllRunners()){if(r==null||!r.obj||r.hp<=0||r.done)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsAlive)continue;float n=Vector3.Distance(pet.AimPosition,Slot(t.slot));if(n<d&&TowerHasClearShot(t,pet.AimPosition)){d=n;nearestPet=pet;}}
             if(nearestPet!=null){t.petTarget=nearestPet;t.windup=TowerWindup;}
             else if(target!=null){t.target=target;t.windup=TowerWindup;}
         }
@@ -784,7 +800,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(sharedEscape&&PatkaGuardsShot(victim,shot)) return;
         if(shot.type==0)
         {
-            foreach(var r in new[]{player,ally})
+            foreach(var r in AllRunners())
             {
                 if(r==null||r.hp<=0||r.done)continue;
                 Vector3 center=r.obj.transform.position+Vector3.up;
@@ -799,7 +815,7 @@ public partial class RiftorynTrial : MonoBehaviour
             ApplyTowerHit(victim,shot.type,shot.damage,impact);
             if(shot.type!=2)return;
             Runner next=null;float best=4f;
-            foreach(var r in new[]{player,ally})
+            foreach(var r in AllRunners())
             {
                 if(r==null||r==victim||r.hp<=0||r.done)continue;
                 Vector3 center=r.obj.transform.position+Vector3.up;float distance=Vector3.Distance(first,center);
@@ -816,7 +832,7 @@ public partial class RiftorynTrial : MonoBehaviour
             bool hitWall=Physics.Raycast(start,s.direction,out RaycastHit hit,step,~0,QueryTriggerInteraction.Ignore);
             Vector3 end=hitWall?hit.point:start+s.direction*step, segment=end-start;
             Runner victim=null;float first=float.PositiveInfinity;
-            foreach(var r in new[]{player,ally})
+            foreach(var r in AllRunners())
             {
                 if(r==null||r.hp<=0||r.done)continue;
                 Vector3 center=r.obj.transform.position+Vector3.up;
@@ -824,7 +840,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 if(Vector3.Distance(center,start+q*segment)<.8f&&q<first){first=q;victim=r;}
             }
             RiftorynPatkaPreview petVictim=null;
-            foreach(var r in new[]{player,ally}){if(r==null||!r.obj)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsAlive)continue;Vector3 center=pet.AimPosition;float q=segment.sqrMagnitude>0?Mathf.Clamp01(Vector3.Dot(center-start,segment)/segment.sqrMagnitude):0;if(Vector3.Distance(center,start+q*segment)<.65f&&q<first){first=q;petVictim=pet;victim=null;}}
+            foreach(var r in AllRunners()){if(r==null||!r.obj)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsAlive)continue;Vector3 center=pet.AimPosition;float q=segment.sqrMagnitude>0?Mathf.Clamp01(Vector3.Dot(center-start,segment)/segment.sqrMagnitude):0;if(Vector3.Distance(center,start+q*segment)<.65f&&q<first){first=q;petVictim=pet;victim=null;}}
             if(sharedEscape&&HeatBarrierBlocks(start,segment,first,out Vector3 barrierImpact))
             {
                 MoveShotVisual(s.visual,barrierImpact,s.direction,Vector3.Distance(s.origin,barrierImpact));
@@ -929,7 +945,8 @@ public partial class RiftorynTrial : MonoBehaviour
         foreach(var shot in shots) FadeShotVisual(shot.visual);
         shots.Clear();
         Capture(false);
-        if(sharedEscape) RecordSharedScore();
+        if(MatchMode) FinishMatchRound();
+        else if(sharedEscape) RecordSharedScore();
         else UpdateResult();
     }
     void UpdateResult(){int arrived=(player.done?1:0)+(ally!=null&&ally.done?1:0),count=ally==null?1:2;if(DefenseMode){result=RiftorynCodexData.Text(arrived==0?"OBRONA WYGRANA":"BOHATEROWIE PRZEDARLI SIĘ",arrived==0?"DEFENSE WON":"HEROES BROKE THROUGH")+"\n"+string.Format(RiftorynCodexData.Text("Bohaterowie na mecie: {0}/{1}","Heroes at the finish: {0}/{1}"),arrived,count);return;}result=RiftorynL10n.Format("META {0}/{1}  •  {2}: {3}",arrived,count,HeroNames[player.hero],RiftorynL10n.Translate(player.done?"meta":"pokonany"))+(ally!=null?RiftorynL10n.Format(lanPlaying?"  •  {0}: {1}":"  •  {0} AI: {1}",HeroNames[ally.hero],RiftorynL10n.Translate(ally.done?"meta":"pokonany")):"")+RiftorynL10n.Format("\nCzas {0:F1} s  •  obrażenia {1:F0}  •  zdolności {2}",elapsed,player.damage,player.uses);}
@@ -1108,6 +1125,7 @@ public partial class RiftorynTrial : MonoBehaviour
             small=new GUIStyle(GUI.skin.label){fontSize=13,wordWrap=true,normal={textColor=Color.white}};
         }
         if(SharedScoresOpen){DrawSharedScores();return;}
+        if(MatchMode){DrawMatch();return;}
         float w=Screen.width;
         if(lanPanel){DrawLanPanel();return;}
         if(phase==Phase.Setup&&selectingHero>=0){DrawDraft();return;}
