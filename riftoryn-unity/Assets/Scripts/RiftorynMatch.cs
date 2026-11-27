@@ -6,12 +6,15 @@ public partial class RiftorynTrial
     // The prototype uses the heroes whose basic trial skills already exist.
     static readonly int[] MatchRoster={0,1,2,3,4,5,9,10,PyrraHero,12,13,SarnaHero};
     readonly List<int> matchTeam=new(), matchOpponents=new();
-    readonly List<Runner> matchExtras=new();
+    readonly List<Runner> runners=new();
     int matchRound, matchOurArrivals, matchTheirArrivals, matchOurSeed, matchTheirSeed;
     float matchOurTime, matchTheirTime;
-    bool matchDraft, matchArenaSelection;
+    readonly RiftorynGameSettings matchSettings=new();
+    bool matchDraft, matchArenaSelection, matchConfiguring, matchDefenseSetup;
+    readonly List<(int slot,int type)> matchOurDefense=new();
     int matchArenaChoice;
-    static readonly bool[] MatchPickOrder={true,false,false,true,true,false,false,true,true,false};
+    int MatchPickCount=>matchSettings.PickCount;
+    bool MatchTeamTurn(int index)=>matchSettings.IsTeamTurn(index);
     int matchPickIndex, matchPreview=-1;
     float matchAiPickAt;
     string matchAiExplanation="";
@@ -59,8 +62,8 @@ public partial class RiftorynTrial
 
     void MatchConfirmPick(int hero)
     {
-        if(!matchDraft||matchPickIndex>=MatchPickOrder.Length||!MatchAvailable(hero)) return;
-        bool human=MatchPickOrder[matchPickIndex];
+        if(!matchDraft||matchPickIndex>=MatchPickCount||!MatchAvailable(hero)) return;
+        bool human=MatchTeamTurn(matchPickIndex);
         if(human) matchTeam.Add(hero); else matchOpponents.Add(hero);
         matchPickIndex++;
         matchPreview=-1;
@@ -69,13 +72,13 @@ public partial class RiftorynTrial
             var data=MatchHero(hero);
             matchAiExplanation=data==null?HeroNames[hero]:HeroNames[hero]+" · "+data.role+" · "+data.element;
         }
-        if(matchPickIndex<MatchPickOrder.Length&&!MatchPickOrder[matchPickIndex])
+        if(matchPickIndex<MatchPickCount&&!MatchTeamTurn(matchPickIndex))
             matchAiPickAt=Time.unscaledTime+.7f;
     }
 
     void UpdateMatchDraft()
     {
-        if(!matchDraft||matchPickIndex>=MatchPickOrder.Length||MatchPickOrder[matchPickIndex]||Time.unscaledTime<matchAiPickAt) return;
+        if(!matchDraft||matchPickIndex>=MatchPickCount||MatchTeamTurn(matchPickIndex)||Time.unscaledTime<matchAiPickAt) return;
         int best=-1;float bestScore=float.NegativeInfinity;
         foreach(int hero in MatchRoster)
         {
@@ -86,19 +89,15 @@ public partial class RiftorynTrial
         if(best>=0) MatchConfirmPick(best);
     }
 
-    IEnumerable<Runner> AllRunners()
-    {
-        yield return player;
-        yield return ally;
-        if(MatchMode) foreach(var runner in matchExtras) yield return runner;
-    }
+    IEnumerable<Runner> AllRunners()=>runners;
 
     public void OpenMatch()
     {
         mode=TrialMode.Match;
         menuOpen=false;
         matchRound=0;
-        matchDraft=true; matchArenaSelection=false; matchArenaChoice=0;
+        matchDraft=false; matchArenaSelection=false; matchConfiguring=true; matchDefenseSetup=false; matchArenaChoice=0;
+        matchOurDefense.Clear();
         matchPickIndex=0; matchPreview=-1; matchAiPickAt=0; matchAiExplanation="";
         matchTeam.Clear();
         matchOpponents.Clear();
@@ -107,23 +106,92 @@ public partial class RiftorynTrial
         Setup();
     }
 
+    void DrawMatchSettings()
+    {
+        Matrix4x4 old=GUI.matrix;
+        float scale=Mathf.Min(Screen.width/1600f,Screen.height/900f);
+        if(scale<=0)return;
+        GUI.matrix=Matrix4x4.TRS(new Vector3((Screen.width-1600*scale)/2,(Screen.height-900*scale)/2,0),Quaternion.identity,Vector3.one*scale);
+        GUI.Box(new Rect(45,35,1510,825),"");
+        GUI.Label(new Rect(80,65,1000,40),"RIFTORYN · USTAWIENIA GRY",title);
+        GUI.Label(new Rect(80,115,1300,35),"Jedna gra: wybierz skład, przeciwnika i sposób przygotowania obrony.",heading);
+        GUI.Label(new Rect(95,180,650,30),"LICZBA BOHATERÓW W DRUŻYNIE",heading);
+        for(int i=1;i<=5;i++)
+        {
+            int count=i;Color previous=GUI.backgroundColor;
+            GUI.backgroundColor=matchSettings.TeamSize==i?new Color(.75f,.62f,.40f):Color.white;
+            if(GUI.Button(new Rect(95+(i-1)*115,220,100,48),count.ToString())) matchSettings.TeamSize=count;
+            GUI.backgroundColor=previous;
+        }
+        GUI.Label(new Rect(95,310,650,30),"DRUGA DRUŻYNA",heading);
+        if(GUI.Button(new Rect(95,350,245,48),matchSettings.Opponent?"✓ DRUŻYNA AI":"DRUŻYNA AI")) matchSettings.Opponent=true;
+        if(GUI.Button(new Rect(350,350,245,48),!matchSettings.Opponent?"✓ BEZ PRZECIWNIKA":"BEZ PRZECIWNIKA")) matchSettings.Opponent=false;
+        GUI.Label(new Rect(95,445,650,30),"ROZMIESZCZENIE WIEŻ",heading);
+        if(GUI.Button(new Rect(95,485,245,48),!matchSettings.ManualDefense?"✓ AUTOMATYCZNIE":"AUTOMATYCZNIE")) matchSettings.ManualDefense=false;
+        if(GUI.Button(new Rect(350,485,245,48),matchSettings.ManualDefense?"✓ USTAW SAMODZIELNIE":"USTAW SAMODZIELNIE")) matchSettings.ManualDefense=true;
+        GUI.Label(new Rect(95,545,1200,60),matchSettings.Opponent
+            ?"Automatycznie: obie obrony ustawia AI. Ręcznie: ustawiasz swoją obronę, a AI przygotowuje przeciwną."
+            :"Automatycznie: AI przygotuje obronę. Ręcznie: sam przygotujesz układ do swojej próby.",small);
+        GUI.Label(new Rect(840,180,600,30),"POŁĄCZENIE",heading);
+        if(GUI.Button(new Rect(840,220,245,48),!matchSettings.LegacyLan?"✓ LOKALNIE":"LOKALNIE"))matchSettings.LegacyLan=false;
+        if(GUI.Button(new Rect(1095,220,245,48),matchSettings.LegacyLan?"✓ LAN · TEST":"LAN · TEST"))matchSettings.LegacyLan=true;
+        GUI.Label(new Rect(840,282,550,100),matchSettings.LegacyLan
+            ?"LAN korzysta na razie ze starszego testu dwóch osób. Wspólny mecz sieciowy i jego ustawienia nie są jeszcze połączone."
+            :"Lokalnie sterujesz jednym bohaterem; pozostałymi kieruje AI.",small);
+        GUI.Label(new Rect(840,400,600,30),"LICZBA WIEŻ NA DRUŻYNĘ",heading);
+        for(int i=1;i<=7;i++)
+        {
+            Color previous=GUI.backgroundColor;
+            GUI.backgroundColor=matchSettings.TowerLimit==i?new Color(.75f,.62f,.40f):Color.white;
+            if(GUI.Button(new Rect(840+(i-1)*70,440,62,44),i.ToString()))matchSettings.TowerLimit=i;
+            GUI.backgroundColor=previous;
+        }
+        GUI.Label(new Rect(840,495,540,45),"W trybie ręcznym możesz postawić mniej wież niż wybrany limit.",small);
+        if(GUI.Button(new Rect(95,745,250,52),"← MENU")){ReturnToMenu();GUI.matrix=old;GUIUtility.ExitGUI();}
+        if(GUI.Button(new Rect(360,745,330,52),matchSettings.LegacyLan?"OTWÓRZ TEST LAN →":"PRZEJDŹ DO DRAFTU →"))
+        {
+            if(matchSettings.LegacyLan){OpenLanTest();GUI.matrix=old;GUIUtility.ExitGUI();}
+            matchConfiguring=false;matchDraft=true;
+        }
+        GUI.matrix=old;
+    }
+
+    void StartMatchDefenseSetup()
+    {
+        matchDraft=false;matchArenaSelection=false;matchDefenseSetup=true;
+        selectedHero=matchTeam[0];allyChoice=matchTeam.Count>1?matchTeam[1]+2:1;
+        Setup();
+    }
+
+    void FinishMatchDefenseSetup()
+    {
+        matchOurDefense.Clear();
+        foreach(var tower in towers)matchOurDefense.Add((tower.slot,tower.type));
+        matchDefenseSetup=false;
+        StartMatchRound(1);
+    }
+
     void StartMatchRound(int round)
     {
         matchRound=round;
         matchDraft=false;
         var team=round==1?matchTeam:matchOpponents;
         selectedHero=team[0];
-        allyChoice=team[1]+2;
+        allyChoice=team.Count>1?team[1]+2:1;
         Setup();
-        for(int i=2;i<5;i++)
+        for(int i=2;i<team.Count;i++)
         {
             var runner=MakeRunner(team[i],true);
             runner.obj.transform.position=At(0)+Vector3.right*((i-2)*.55f-.55f);
-            matchExtras.Add(runner);
+            runners.Add(runner);
         }
-        // Both sides receive a separately generated basic defense.
-        foreach(var placement in SharedDefense(round==1?matchTheirSeed:matchOurSeed))
-            AddTower(placement.slot,placement.type);
+        // One layout per side, reused unchanged when the opposing team runs.
+        if(matchSettings.ManualDefense&&(round==2||!matchSettings.Opponent))
+            foreach(var placement in matchOurDefense) AddTower(placement.slot,placement.type);
+        else
+            foreach(var placement in SharedDefense(round==1?matchTheirSeed:matchOurSeed,matchSettings.TowerLimit))
+                AddTower(placement.slot,placement.type);
+        foreach(var tower in towers) tower.obj.SetActive(false);
         Begin();
         if(round==2){Capture(false);SetOverhead();}
     }
@@ -144,17 +212,17 @@ public partial class RiftorynTrial
         GUI.matrix=Matrix4x4.TRS(new Vector3((Screen.width-1600*scale)/2,(Screen.height-900*scale)/2,0),Quaternion.identity,Vector3.one*scale);
         GUI.Box(new Rect(15,15,1570,870),"");
         GUI.Label(new Rect(40,30,1000,35),"MECZ 5 NA 5 · DRAFT",title);
-        bool done=matchPickIndex>=MatchPickOrder.Length;
-        bool playerTurn=!done&&MatchPickOrder[matchPickIndex];
+        bool done=matchPickIndex>=MatchPickCount;
+        bool playerTurn=!done&&MatchTeamTurn(matchPickIndex);
         string turn=done?"DRAFT ZAKOŃCZONY":playerTurn?"TERAZ WYBIERASZ TY":"TERAZ WYBIERA AI";
-        GUI.Label(new Rect(40,70,1100,30),$"{turn}  ·  wybór {Mathf.Min(matchPickIndex+1,10)} / 10",heading);
-        GUI.Label(new Rect(40,105,1500,25),"Kolejność: A – B – B – A – A – B – B – A – A – B  ·  A: Twoja drużyna  ·  B: AI",small);
-        GUI.Box(new Rect(40,150,220,460),"TWOJA DRUŻYNA  "+matchTeam.Count+" / 5");
-        GUI.Box(new Rect(1340,150,220,460),"DRUŻYNA AI  "+matchOpponents.Count+" / 5");
-        for(int i=0;i<5;i++)
+        GUI.Label(new Rect(40,70,1100,30),$"{turn}  ·  wybór {Mathf.Min(matchPickIndex+1,MatchPickCount)} / {MatchPickCount}",heading);
+        GUI.Label(new Rect(40,105,1500,25),matchSettings.Opponent?"Naprzemienny wybór ze wspólnej puli · A: Twoja drużyna · B: AI":"Wybierz bohaterów swojej drużyny ze wspólnej puli",small);
+        GUI.Box(new Rect(40,150,220,460),"TWOJA DRUŻYNA  "+matchTeam.Count+" / "+matchSettings.TeamSize);
+        GUI.Box(new Rect(1340,150,220,460),matchSettings.Opponent?"DRUŻYNA AI  "+matchOpponents.Count+" / "+matchSettings.TeamSize:"BEZ DRUŻYNY AI");
+        for(int i=0;i<matchSettings.TeamSize;i++)
         {
             GUI.Label(new Rect(55,190+i*70,190,50),i<matchTeam.Count?(i==0?"TY · ":"AI · ")+HeroNames[matchTeam[i]]:"— wolne miejsce —",heading);
-            GUI.Label(new Rect(1355,190+i*70,190,50),i<matchOpponents.Count?HeroNames[matchOpponents[i]]:"— wolne miejsce —",heading);
+            if(matchSettings.Opponent) GUI.Label(new Rect(1355,190+i*70,190,50),i<matchOpponents.Count?HeroNames[matchOpponents[i]]:"— wolne miejsce —",heading);
         }
         GUI.Box(new Rect(280,150,1040,460),"");
         for(int i=0;i<MatchRoster.Length;i++)
@@ -199,8 +267,8 @@ public partial class RiftorynTrial
     void DrawMatchTeamHud(Rect map)
     {
         var teammates=new List<Runner>(4);
-        if(ally!=null&&ally.obj) teammates.Add(ally);
-        foreach(var runner in matchExtras) if(runner!=null&&runner.obj) teammates.Add(runner);
+        foreach(var runner in runners)
+            if(runner!=player&&runner!=null&&runner.obj) teammates.Add(runner);
         if(teammates.Count==0) return;
         if(matchMarkerStyle==null) matchMarkerStyle=new GUIStyle(small){fontSize=10,fontStyle=FontStyle.Bold,alignment=TextAnchor.MiddleCenter,wordWrap=false};
         if(matchTeamStyle==null) matchTeamStyle=new GUIStyle(small){fontSize=12,fontStyle=FontStyle.Bold,wordWrap=false};
@@ -244,6 +312,16 @@ public partial class RiftorynTrial
     void DrawMatch()
     {
         float w=Screen.width, h=Screen.height;
+        if(matchConfiguring)
+        {
+            DrawMatchSettings();
+            return;
+        }
+        if(matchDefenseSetup)
+        {
+            DrawDefenseEditor();
+            return;
+        }
         if(matchArenaSelection)
         {
             DrawArenaSelection();
@@ -256,12 +334,13 @@ public partial class RiftorynTrial
         }
         if(phase==Phase.Playing)
         {
+            if(matchRound==2){DrawDefenseBattle();return;}
             GUI.Box(new Rect(0,0,w,100),"");
             GUI.Label(new Rect(18,8,w-36,30),(matchRound==1?"UCIECZKA TWOJEJ DRUŻYNY · ":"UCIECZKA DRUŻYNY AI · ")+ArenaNames[matchArenaChoice],title);
             int alive=0, arrived=0;
             foreach(var runner in AllRunners()){if(IsRunning(runner))alive++;if(runner!=null&&runner.done)arrived++;}
-            GUI.Label(new Rect(18,42,w-36,24),$"Czas {elapsed:F1} s  ·  Biegnie {alive}  ·  Meta {arrived}/5",heading);
-            GUI.Label(new Rect(18,70,w-36,24),matchRound==1?"WASD: ruch · Mysz: kamera · Q: zdolność · Spacja: unik · Esc: kursor":"Obrona automatyczna · obserwujesz drużynę przeciwnika",small);
+            GUI.Label(new Rect(18,42,w-36,24),$"Czas {elapsed:F1} s  ·  Biegnie {alive}  ·  Meta {arrived}/{matchSettings.TeamSize}",heading);
+            GUI.Label(new Rect(18,70,w-36,24),matchRound==1?IsSharedHero(player.hero)?"WASD: ruch · Mysz: kamera · Q / E / R: zdolności · Spacja: unik · Esc: kursor":"WASD: ruch · Mysz: kamera · Q: zdolność · Spacja: unik · Esc: kursor":"Obrona automatyczna · obserwujesz drużynę przeciwnika",small);
             DrawCombatTexts();
             if(matchRound==1){DrawFogExposure();DrawHud();}
             if(GUI.Button(new Rect(w-150,10,130,28),"MENU")) ReturnToMenu();
@@ -269,13 +348,13 @@ public partial class RiftorynTrial
         }
         if(phase!=Phase.Finished) return;
         GUI.Box(new Rect(w/2-300,h/2-130,600,260),"");
-        string outcome=matchRound==1?"KONIEC WASZEJ UCIECZKI":matchOurArrivals>matchTheirArrivals?"WYGRYWASZ":matchOurArrivals<matchTheirArrivals?"WYGRYWA AI":"REMIS";
+        string outcome=!matchSettings.Opponent?"KONIEC PRÓBY":matchRound==1?"KONIEC WASZEJ UCIECZKI":matchOurArrivals>matchTheirArrivals?"WYGRYWASZ":matchOurArrivals<matchTheirArrivals?"WYGRYWA AI":"REMIS";
         GUI.Label(new Rect(w/2-270,h/2-110,540,40),outcome,title);
-        GUI.Label(new Rect(w/2-270,h/2-55,540,40),$"Twoja drużyna: {matchOurArrivals}/5 · {matchOurTime:F1} s",heading);
-        if(matchRound==2) GUI.Label(new Rect(w/2-270,h/2-20,540,40),$"Drużyna AI: {matchTheirArrivals}/5 · {matchTheirTime:F1} s",heading);
-        if(GUI.Button(new Rect(w/2-260,h/2+55,250,45),matchRound==1?"UCIECZKA AI →":"NOWY MECZ"))
+        GUI.Label(new Rect(w/2-270,h/2-55,540,40),$"Twoja drużyna: {matchOurArrivals}/{matchSettings.TeamSize} · {matchOurTime:F1} s",heading);
+        if(matchRound==2) GUI.Label(new Rect(w/2-270,h/2-20,540,40),$"Drużyna AI: {matchTheirArrivals}/{matchSettings.TeamSize} · {matchTheirTime:F1} s",heading);
+        if(GUI.Button(new Rect(w/2-260,h/2+55,250,45),matchRound==1&&matchSettings.Opponent?"UCIECZKA AI →":"NOWA GRA"))
         {
-            if(matchRound==1) StartMatchRound(2); else OpenMatch();
+            if(matchRound==1&&matchSettings.Opponent) StartMatchRound(2); else OpenMatch();
         }
         if(GUI.Button(new Rect(w/2+10,h/2+55,250,45),"MENU GŁÓWNE")) ReturnToMenu();
     }

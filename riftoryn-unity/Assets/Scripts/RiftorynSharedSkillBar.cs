@@ -11,7 +11,7 @@ public partial class RiftorynTrial
     bool loadedSkillIcons;
 
     float SharedSkillTileSize()=>
-        sharedEscape&&phase==Phase.Playing&&IsRunning(player)
+        UsesUnifiedRules&&phase==Phase.Playing&&IsRunning(player)&&IsSharedHero(player.hero)
             ?Mathf.Clamp(Mathf.Round(Mathf.Min(Screen.width,Screen.height)*.09f),36f,64f)
             :0f;
 

@@ -6,12 +6,11 @@ using UnityEngine;
 
 public partial class RiftorynTrial
 {
-    const int SharedTowerCount=5, SharedDefenseVersion=1;
+    const int SharedDefenseVersion=1;
     const float SharedDiscoveryRange=20f, TowerSkillRange=17.4f;
     const float StartSafeDistance=10f, BotLeadDistance=5f, BotWaitLimit=2.5f;
     const float BotFogBuffer=12f, BotLookAhead=2.2f, DodgeReactionTime=.28f;
     int defenseSeed, trainingHero, trainingAlly;
-    float botWaitTime;
     Runner cameraRunner;
     RiftorynSharedScores sharedScores;
     IReadOnlyList<RiftorynSharedScores.Score> visibleScores;
@@ -49,7 +48,7 @@ public partial class RiftorynTrial
         Begin();
     }
 
-    List<(int slot,int type)> SharedDefense(int seed)
+    List<(int slot,int type)> SharedDefense(int seed,int towerCount=RiftorynGameSettings.DefaultTowerLimit)
     {
         var available=new List<int>();
         float safeLength=Mathf.Min(StartSafeDistance,lengths[0]);
@@ -63,8 +62,8 @@ public partial class RiftorynTrial
         }
 
         var random=new System.Random(seed);
-        var placements=new List<(int slot,int type)>(SharedTowerCount);
-        for(int i=0;i<SharedTowerCount;i++)
+        var placements=new List<(int slot,int type)>(towerCount);
+        for(int i=0;i<towerCount;i++)
         {
             int pick=random.Next(available.Count);
             placements.Add((available[pick],random.Next(3)));
@@ -88,7 +87,9 @@ public partial class RiftorynTrial
         {
             if(tower.discovered) continue;
             Vector3 position=Slot(tower.slot);
-            if(!WithinSharedDiscovery(player,position)&&!WithinSharedDiscovery(ally,position)) continue;
+            bool found=false;
+            foreach(var runner in AllRunners()) if(WithinSharedDiscovery(runner,position)){found=true;break;}
+            if(!found) continue;
             tower.discovered=true;
             tower.obj.SetActive(true);
         }
@@ -102,60 +103,61 @@ public partial class RiftorynTrial
         &&(runner.obj.transform.position-Slot(tower.slot)).sqrMagnitude<TowerSkillRange*TowerSkillRange
         &&TowerHasClearShot(tower,runner.obj.transform.position+Vector3.up);
 
-    void StepSharedBot(float dt)
+    void StepSharedBot(Runner runner,float dt)
     {
-        ally.rollCooldown=Mathf.Max(0,ally.rollCooldown-dt);
-        Vector3 position=ally.obj.transform.position;
-        Vector3 center=At(ally.along);
-        Vector3 ahead=At(Mathf.Min(total,ally.along+BotLookAhead));
+        Runner partner=PartnerOf(runner);
+        runner.rollCooldown=Mathf.Max(0,runner.rollCooldown-dt);
+        Vector3 position=runner.obj.transform.position;
+        Vector3 center=At(runner.along);
+        Vector3 ahead=At(Mathf.Min(total,runner.along+BotLookAhead));
         Vector3 direction=(ahead-position).normalized;
-        bool partnerRunning=IsRunning(player);
-        bool partnerNear=partnerRunning&&(player.obj.transform.position-position).sqrMagnitude<8f*8f;
-        bool shotIncoming=IncomingSharedShot(ally);
+        bool partnerRunning=IsRunning(partner);
+        bool partnerNear=partnerRunning&&(partner.obj.transform.position-position).sqrMagnitude<8f*8f;
+        bool shotIncoming=IncomingSharedShot(runner);
 
-        Tower underFire=SharedTowerAimingAt(ally);
-        Tower partnerUnderFire=partnerNear?SharedTowerAimingAt(player):null;
-        bool partnerIncoming=partnerNear&&IncomingSharedShot(player);
-        bool fogClose=elapsed>=FogStartTime&&ally.along-FogFront()<BotFogBuffer;
-        bool usedExtra=TrySharedBotExtra(underFire,partnerUnderFire,shotIncoming,partnerIncoming,fogClose);
-        if(!usedExtra&&ally.cooldown<=0)
+        Tower underFire=SharedTowerAimingAt(runner);
+        Tower partnerUnderFire=partnerNear?SharedTowerAimingAt(partner):null;
+        bool partnerIncoming=partnerNear&&IncomingSharedShot(partner);
+        bool fogClose=elapsed>=FogStartTime&&runner.along-FogFront()<BotFogBuffer;
+        bool usedExtra=TrySharedBotExtra(runner,partner,underFire,partnerUnderFire,shotIncoming,partnerIncoming,fogClose);
+        if(!usedExtra&&runner.cooldown<=0)
         {
-            if(ally.hero==ZetHero)
+            if(runner.hero==ZetHero)
             {
                 Tower threat=underFire;
-                if(threat==null||!CanDisableSharedTower(ally,threat)) threat=partnerUnderFire;
-                if(threat!=null&&CanDisableSharedTower(ally,threat)) UseSkill(ally,threat);
+                if(threat==null||!CanDisableSharedTower(runner,threat)) threat=partnerUnderFire;
+                if(threat!=null&&CanDisableSharedTower(runner,threat)) UseSkill(runner,threat);
             }
-            else if(underFire!=null||partnerUnderFire!=null||shotIncoming||partnerIncoming||ally.hero==SarnaHero&&fogClose)
+            else if(underFire!=null||partnerUnderFire!=null||shotIncoming||partnerIncoming||runner.hero==SarnaHero&&fogClose)
             {
-                if(ally.hero!=KonevaHero||ally.kit.guardUntil<=elapsed&&(underFire!=null||partnerUnderFire!=null)) Skill(ally);
+                if(runner.hero!=KonevaHero||runner.kit.guardUntil<=elapsed&&(underFire!=null||partnerUnderFire!=null)) Skill(runner);
             }
         }
 
-        if(shotIncoming&&!IsDodging(ally))
+        if(shotIncoming&&!IsDodging(runner))
         {
             Vector3 side=Vector3.Cross(Vector3.up,(ahead-center).normalized);
             if(Vector3.Dot(position-center,side)>0) side=-side;
             direction=(direction+.8f*side).normalized;
-            if(ally.rollCooldown<=0) StartRoll(ally,direction);
+            if(runner.rollCooldown<=0) StartRoll(runner,direction);
         }
 
-        float lead=partnerRunning?ally.along-player.along:0f;
-        if(lead<=BotLeadDistance-2f) botWaitTime=0;
-        if(lead>BotLeadDistance&&!fogClose&&underFire==null&&!shotIncoming&&!IsDodging(ally)&&ally.kit.surgeUntil<=elapsed)
+        float lead=partnerRunning?runner.along-partner.along:0f;
+        if(lead<=BotLeadDistance-2f) runner.botWaitTime=0;
+        if(lead>BotLeadDistance&&!fogClose&&underFire==null&&!shotIncoming&&!IsDodging(runner)&&runner.kit.surgeUntil<=elapsed)
         {
-            if(player.progressSpeed>.5f)
+            if(partner.progressSpeed>.5f)
             {
-                float pace=player.progressSpeed-(lead-BotLeadDistance)*.7f;
-                direction*=Mathf.Clamp01(pace/RunnerSpeed(ally));
+                float pace=partner.progressSpeed-(lead-BotLeadDistance)*.7f;
+                direction*=Mathf.Clamp01(pace/RunnerSpeed(runner));
             }
-            else if(botWaitTime<BotWaitLimit)
+            else if(runner.botWaitTime<BotWaitLimit)
             {
-                botWaitTime+=dt;
+                runner.botWaitTime+=dt;
                 direction=Vector3.zero;
             }
         }
-        MoveRunner(ally,direction,dt);
+        MoveRunner(runner,direction,dt);
     }
 
     Tower SharedTowerAimingAt(Runner runner)
@@ -226,14 +228,14 @@ public partial class RiftorynTrial
         float scale=Mathf.Min(Screen.width/width,Screen.height/height);
         GUI.matrix=Matrix4x4.TRS(new Vector3((Screen.width-width*scale)*.5f,(Screen.height-height*scale)*.5f),
             Quaternion.identity,new Vector3(scale,scale,1f));
-        GUI.Label(new Rect(30,22,720,35),RiftorynCodexData.Text("WSPÓLNA UCIECZKA · RANKING LOKALNY","SHARED ESCAPE · LOCAL LEADERBOARD"),title);
+        GUI.Label(new Rect(30,22,720,35),RiftorynCodexData.Text("POPRZEDNIE WYNIKI · WSPÓLNA UCIECZKA","PREVIOUS RESULTS · SHARED ESCAPE"),title);
         GUI.Label(new Rect(32,65,716,42),
             RiftorynCodexData.Text("Najpierw liczba osób na mecie. Przy remisie liczy się czas ostatniej osoby na mecie lub najdalszy postęp, gdy nikt nie dotarł.",
                 "Runners at the finish come first. Ties use the last finisher’s time, or the farthest progress if nobody finished."),small);
         if(!sharedScoresReadable||visibleScores.Count==0)
         {
             string status=sharedScoresReadable
-                ?RiftorynCodexData.Text("Rozegraj pierwszą próbę, żeby zapisać wynik.","Play your first run to record a score.")
+                ?RiftorynCodexData.Text("Brak zapisanych wyników wcześniejszych prób.","There are no saved results from previous trials.")
                 :RiftorynCodexData.Text("Nie udało się odczytać rankingu.","Could not read the leaderboard.");
             GUI.Label(new Rect(32,126,716,40),status,heading);
         }

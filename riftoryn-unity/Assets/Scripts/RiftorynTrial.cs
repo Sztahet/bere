@@ -26,7 +26,7 @@ public partial class RiftorynTrial : MonoBehaviour
         public GameObject obj;
         public Vector3 velocity, rollDirection;
         public float hp, shield, shieldMax, shieldTick, cooldown, attackCooldown, boost, exposure, fogTick, along, damage;
-        public float chillTime, rootTime, shadowTime, hitFlash, slowImmunity, rollTime, rollCooldown, progressSpeed, bestProgress, finishTime, pyrraGuardUntil;
+        public float chillTime, rootTime, shadowTime, hitFlash, slowImmunity, rollTime, rollCooldown, progressSpeed, bestProgress, finishTime, pyrraGuardUntil, botWaitTime;
         public bool done;
         public readonly SharedAbilityState kit=new();
         public readonly RiftorynPeriodicEffect burn=new(), poison=new();
@@ -42,9 +42,11 @@ public partial class RiftorynTrial : MonoBehaviour
     enum TrialMode { Training, SharedEscape, LanTest, Defense, Match }
     TrialMode mode;
     bool sharedEscape=>mode==TrialMode.SharedEscape;
+    bool UsesUnifiedRules=>sharedEscape||MatchMode;
     bool DefenseMode=>mode==TrialMode.Defense;
     bool MatchMode=>mode==TrialMode.Match;
-    bool CustomTrainingDefense=>DefenseMode||mode==TrialMode.Training&&custom;
+    bool DefenseEditing=>DefenseMode||MatchMode&&matchDefenseSetup;
+    bool CustomTrainingDefense=>DefenseEditing||mode==TrialMode.Training&&custom;
     public bool menuOpen = true;
     Phase phase; int selectedHero=0, allyChoice=0, selectedType=0, selectingHero=-1, draftPreview=-1; bool initialDraft, briefing; CodexHero[] roster=Array.Empty<CodexHero>(); CodexRoleBonus[] roleBonuses=Array.Empty<CodexRoleBonus>(); RiftorynHeroStats[] heroStats=Array.Empty<RiftorynHeroStats>(); Vector2 abilityTooltipScroll; string lastAbilityTooltip=""; float abilityTooltipUntil; readonly Dictionary<string,Texture2D> draftPortraits=new(); bool custom, genericModelPreview; float elapsed,total, cameraYaw, pitch=18f, messageTimer, fogArrivalTime; string message="", result=""; int floatingSequence; readonly List<FloatingCombatText> combatTexts=new(); Runner player,ally; Camera cam; GameObject world,runnerRoot,slotRoot,fogRoot; GameObject[] slots; readonly List<Tower> towers=new(); readonly List<Shot> shots=new(); readonly List<GameObject> fogTiles=new(); readonly List<float> fogDistances=new(); float[] lengths; Mesh fogMesh; Material fogMaterial; GUIStyle title, small, heading, floatingStyle, hudCenterStyle, hudStatusStyle, draftHeroTitle, draftRoleStyle, draftCompactNameStyle,draftResistanceNameStyle,draftResistanceValueStyle,draftResistanceNoteStyle; readonly Dictionary<string,Texture2D> statIcons=new(), statusIcons=new(); bool mouseCaptured;
     [Serializable] class LanInput { public float x,z; public bool ability,attack; }
@@ -188,7 +190,7 @@ public partial class RiftorynTrial : MonoBehaviour
         briefing=false; selectingHero=-1; phase=Phase.Setup;
         elapsed=0; result=""; message=""; messageTimer=0;
         combatTexts.Clear(); floatingSequence=0;
-        botWaitTime=0; cameraRunner=null;
+        cameraRunner=null;
         Capture(false);
         ClearShotVisuals();
         ClearEarthStrikes();
@@ -202,13 +204,11 @@ public partial class RiftorynTrial : MonoBehaviour
             Destroy(tower.obj);
         }
         towers.Clear();
-        foreach(var extra in matchExtras) if(extra.obj) Destroy(extra.obj);
-        matchExtras.Clear();
         ReplaceRunners();
         for(int i=0;i<visibleFogTiles;i++) fogTiles[i].SetActive(false);
         visibleFogTiles=0;
         ResetDefenseEditor();
-        foreach(var slot in slots) slot.SetActive(CustomTrainingDefense&&!DefenseMode);
+        foreach(var slot in slots) slot.SetActive(CustomTrainingDefense&&!DefenseEditing);
         if(sharedEscape) BuildSharedDefense();
         else if(!CustomTrainingDefense&&!MatchMode)
         {
@@ -220,11 +220,14 @@ public partial class RiftorynTrial : MonoBehaviour
     int AllyHero()=>allyChoice==0||sharedEscape&&allyChoice==1?(selectedHero==2?0:2):allyChoice==1?-1:allyChoice-2;
     void ReplaceRunners()
     {
-        // Destroy only the currently referenced runners: Destroy is deferred until end of frame.
-        if(player!=null&&player.obj)Destroy(player.obj);
-        if(ally!=null&&ally.obj)Destroy(ally.obj);
+        foreach(var runner in runners)
+            if(runner!=null&&runner.obj)Destroy(runner.obj);
+        runners.Clear();
         player=MakeRunner(selectedHero,false);
-        int hero=AllyHero();ally=hero>=0?MakeRunner(hero,true):null;
+        runners.Add(player);
+        int hero=AllyHero();
+        ally=hero>=0?MakeRunner(hero,true):null;
+        if(ally!=null)runners.Add(ally);
     }
     void SetOverhead(){cam.orthographic=true;cam.orthographicSize=58;cam.transform.position=new Vector3(3,100,-2);cam.transform.rotation=Quaternion.Euler(90,0,0);}
 
@@ -302,6 +305,7 @@ public partial class RiftorynTrial : MonoBehaviour
 
     public void OpenLanTest()
     {
+        if(activeArena>=0) RebuildArena(-1);
         mode=TrialMode.LanTest;
         menuOpen=false;
         Setup();
@@ -343,7 +347,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(phase==Phase.Setup)
         {
             if(MatchMode&&matchDraft) UpdateMatchDraft();
-            if(DefenseMode&&!briefing&&selectingHero<0) UpdateDefenseEditor();
+            if(DefenseEditing&&!briefing&&selectingHero<0) UpdateDefenseEditor();
             else if(CustomTrainingDefense&&!briefing&&selectingHero<0&&RiftorynInput.PointerPressed&&RiftorynInput.PointerPosition.y<Screen.height-155)
                 EditTowerAtPointer();
             return;
@@ -372,49 +376,35 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         UpdateVineOccupants();
         elapsed+=dt;
-        if(IsRunning(player))
-        {
-            if(DefenseMode || MatchMode&&matchRound==2)
-            {
-                Vector3 before=player.obj.transform.position;
-                StepBot(player,dt);
-                player.velocity=(player.obj.transform.position-before)/dt;
-            }
-            else
-            {
-            player.rollCooldown=Mathf.Max(0,player.rollCooldown-dt);
-            if(ability) Skill(player);
-            if(roll) StartRoll(player,direction);
-            if(sharedEscape)
-            {
-                if(attack) UseSharedPlayerAbility(false);
-                if(ultimate) UseSharedPlayerAbility(true);
-            }
-            else if(attack&&player.hero==0) Attack(player);
-            MoveRunner(player,direction,dt);
-            }
-        }
-        StepRunner(player,dt);
-        if(IsRunning(ally))
-        {
-            Vector3 before=ally.obj.transform.position;
-            if(lanPlaying) StepLanAlly(dt);
-            else if(sharedEscape) StepSharedBot(dt);
-            else StepBot(ally,dt);
-            ally.velocity=(ally.obj.transform.position-before)/dt;
-            StepRunner(ally,dt);
-        }
-        if(MatchMode) foreach(var runner in matchExtras)
+        foreach(var runner in runners)
         {
             if(IsRunning(runner))
             {
                 Vector3 before=runner.obj.transform.position;
-                StepBot(runner,dt);
-                runner.velocity=(runner.obj.transform.position-before)/dt;
-                StepRunner(runner,dt);
+                if(runner==player&&!(DefenseMode||MatchMode&&matchRound==2))
+                {
+                    runner.rollCooldown=Mathf.Max(0,runner.rollCooldown-dt);
+                    if(ability) Skill(runner);
+                    if(roll) StartRoll(runner,direction);
+                    if(UsesUnifiedRules&&IsSharedHero(runner.hero))
+                    {
+                        if(attack) UseSharedPlayerAbility(false);
+                        if(ultimate) UseSharedPlayerAbility(true);
+                    }
+                    else if(attack&&runner.hero==0) Attack(runner);
+                    MoveRunner(runner,direction,dt);
+                }
+                else
+                {
+                    if(runner==ally&&lanPlaying) StepLanAlly(dt);
+                    else if(UsesUnifiedRules) StepSharedBot(runner,dt);
+                    else StepBot(runner,dt);
+                    runner.velocity=(runner.obj.transform.position-before)/dt;
+                }
             }
+            StepRunner(runner,dt);
         }
-        if(sharedEscape)
+        if(UsesUnifiedRules)
         {
             DiscoverSharedTowers();
             StepSharedAbilityEffects(dt);
@@ -425,9 +415,7 @@ public partial class RiftorynTrial : MonoBehaviour
         StepVinePatches(dt);
         UpdateVineOccupants();
         StepShots(dt);
-        EndRunnerFrame(player,dt);
-        if(ally!=null) EndRunnerFrame(ally,dt);
-        if(MatchMode) foreach(var runner in matchExtras) EndRunnerFrame(runner,dt);
+        foreach(var runner in runners) EndRunnerFrame(runner,dt);
         if(!DefenseMode) UpdateFogVisuals();
         bool anyoneRunning=false;
         foreach(var runner in AllRunners()) if(IsRunning(runner)){anyoneRunning=true;break;}
@@ -502,7 +490,7 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         float speed=Speed[runner.hero];
         if(runner.exposure>0) speed*=runner.hero==SailaHero?.915f:.9f;
-        if(runner.boost>0) speed*=sharedEscape&&runner.hero==ZetHero?1.15f:1.2f;
+        if(runner.boost>0) speed*=UsesUnifiedRules&&runner.hero==ZetHero?1.15f:1.2f;
         if(runner.chillTime>0) speed*=runner.hero==4?.88f:runner.hero==SailaHero?.8725f:.85f;
         if(runner.rootTime>0) speed*=.8f;
         if(runner.kit.surgeUntil>elapsed) speed*=1.8f;
@@ -523,7 +511,7 @@ public partial class RiftorynTrial : MonoBehaviour
         runner.velocity=(body.position-before)/dt;
         if(direction.sqrMagnitude>.01f) body.rotation=Quaternion.LookRotation(direction);
         if(dodging) body.GetChild(0).localRotation=Quaternion.Euler(360f*(1f-runner.rollTime/RollDuration),0,0);
-        if(sharedEscape)
+        if(UsesUnifiedRules)
         {
             float progress=Project(body.position,out _);
             runner.progressSpeed=(progress-runner.along)/dt;
@@ -533,7 +521,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(Vector3.Distance(body.position,At(total))>=1.5f) return;
         runner.done=true;
         runner.finishTime=elapsed;
-        if(sharedEscape) runner.obj.SetActive(false);
+        if(UsesUnifiedRules) runner.obj.SetActive(false);
     }
     Vector3 MoveAgainstWalls(Vector3 position,Vector3 remaining)
     {
@@ -551,7 +539,7 @@ public partial class RiftorynTrial : MonoBehaviour
     void StepRunner(Runner r,float dt)
     {
         if(!IsRunning(r)) return;
-        float periodicDamage=sharedEscape&&r.hero==KaelHero?.8f:1f;
+        float periodicDamage=UsesUnifiedRules&&r.hero==KaelHero?.8f:1f;
         r.burn.Advance(dt,amount=>{if(r.hp>0) Damage(r,amount*periodicDamage,true,false,"PODPALENIE");});
         r.poison.Advance(dt,amount=>{if(r.hp>0) Damage(r,amount*periodicDamage,true,false,"TRUCIZNA");});
         r.chillTime=Mathf.Max(0,r.chillTime-dt);
@@ -595,7 +583,7 @@ public partial class RiftorynTrial : MonoBehaviour
         {
             if(tower.hp<=0) continue;
             float distance=Vector3.Distance(runner.obj.transform.position,Slot(tower.slot));
-            if(distance>=range||sharedEscape&&!CanDisableSharedTower(runner,tower)) continue;
+            if(distance>=range||UsesUnifiedRules&&!CanDisableSharedTower(runner,tower)) continue;
             best=tower;
             range=distance;
         }
@@ -618,7 +606,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(r.hero==NeraHero)
         {
             AddShield(r,35);
-            Runner other=r==player?ally:player;
+            Runner other=PartnerOf(r);
             if(other!=null&&other.hp>0&&!other.done&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<=8f)
             {
                 AddShield(other,65);
@@ -628,7 +616,7 @@ public partial class RiftorynTrial : MonoBehaviour
             if(r==player)Notify(RiftorynCodexData.Text("Iskra wsparcia · osłona","Helping Spark · shield"));
             return;
         }
-        if(r.hero==4){Runner other=r==player?ally:player;Runner target=other!=null&&other.hp>0&&!other.done&&other.chillTime>0&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<=8?other:r;target.chillTime=0;target.slowImmunity=2;r.cooldown=18;r.uses++;return;}
+        if(r.hero==4){Runner other=PartnerOf(r);Runner target=other!=null&&other.hp>0&&!other.done&&other.chillTime>0&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<=8?other:r;target.chillTime=0;target.slowImmunity=2;r.cooldown=18;r.uses++;return;}
         if(r.hero==5){healingPosition=r.obj.transform.position;healingTime=5;healingTick=1;UpdateHealingRing();r.cooldown=20;r.uses++;return;}
         if(r.hero!=0&&r.hero!=3&&t==null){if(r==player)Notify("Podejdź bliżej wieży, aby użyć umiejętności.");return;}
         if(r.hero==KonevaHero)
@@ -640,6 +628,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 return;
             }
             r.kit.guardUntil=0;
+            r.kit.guardedPartner=null;
             r.kit.recallUntil=0;
         }
         if(r.hero==SailaHero)
@@ -655,7 +644,7 @@ public partial class RiftorynTrial : MonoBehaviour
             r.uses++;
             return;
         }
-        r.cooldown=Cooldowns[r.hero];r.uses++;if(r.hero==3){}else if(r.hero==0){AddShield(r,100);Runner other=r==player?ally:player;if(other!=null&&other.hp>0&&!other.done&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<9)AddShield(other,50);}else if(r.hero==1)HitTower(t,100);else{t.disabled=2;r.boost=2;}
+        r.cooldown=Cooldowns[r.hero];r.uses++;if(r.hero==3){}else if(r.hero==0){AddShield(r,100);Runner other=PartnerOf(r);if(other!=null&&other.hp>0&&!other.done&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<9)AddShield(other,50);}else if(r.hero==1)HitTower(t,100);else{t.disabled=2;r.boost=2;}
     }
     void ShowSailaFreeze(Tower tower)
     {
@@ -704,7 +693,7 @@ public partial class RiftorynTrial : MonoBehaviour
         {
             if(t.type==1) SetIceStream(t,false,Vector3.zero);
             if(t.target==null&&t.petTarget==null) t.iceActive=false;
-            if(sharedEscape)
+            if(UsesUnifiedRules)
             {
                 if(!t.discovered) continue;
                 t.range.enabled=t.hp>0&&t.rangeVisibleUntil>elapsed;
@@ -713,7 +702,7 @@ public partial class RiftorynTrial : MonoBehaviour
             t.disabled=Mathf.Max(0,t.disabled-dt);
             t.overload=Mathf.Max(0,t.overload-dt);
             if(t.disabled>0){t.iceActive=false;t.warning.enabled=false;t.target=null;t.petTarget=null;t.windup=0;continue;}
-            if(sharedEscape) RetargetSharedTower(t);
+            if(UsesUnifiedRules) RetargetSharedTower(t);
             if(t.petTarget!=null)
             {
                 var pet=t.petTarget;
@@ -769,7 +758,7 @@ public partial class RiftorynTrial : MonoBehaviour
         renderer.sharedMaterial.color=color;
     }
     bool IsDodging(Runner r)=>r.rollTime>0;
-    bool TowerHasClearShot(Tower tower,Vector3 target)=>!sharedEscape||HasLineOfSight(tower.obj.transform.position+Vector3.up*3f,target);
+    bool TowerHasClearShot(Tower tower,Vector3 target)=>!UsesUnifiedRules||HasLineOfSight(tower.obj.transform.position+Vector3.up*3f,target);
     bool HasLineOfSight(Vector3 from,Vector3 to)
     {
         Vector3 delta=to-from;float distance=delta.magnitude;
@@ -812,7 +801,7 @@ public partial class RiftorynTrial : MonoBehaviour
     void ResolveShot(Shot shot,Runner victim,Vector3 impact)
     {
         if(IsDodging(victim)){MarkSharedDodge(victim);return;}
-        if(sharedEscape&&PatkaGuardsShot(victim,shot)) return;
+        if(UsesUnifiedRules&&PatkaGuardsShot(victim,shot)) return;
         if(shot.type==0)
         {
             foreach(var r in AllRunners())
@@ -856,7 +845,7 @@ public partial class RiftorynTrial : MonoBehaviour
             }
             RiftorynPatkaPreview petVictim=null;
             foreach(var r in AllRunners()){if(r==null||!r.obj)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsAlive)continue;Vector3 center=pet.AimPosition;float q=segment.sqrMagnitude>0?Mathf.Clamp01(Vector3.Dot(center-start,segment)/segment.sqrMagnitude):0;if(Vector3.Distance(center,start+q*segment)<.65f&&q<first){first=q;petVictim=pet;victim=null;}}
-            if(sharedEscape&&HeatBarrierBlocks(start,segment,first,out Vector3 barrierImpact))
+            if(UsesUnifiedRules&&HeatBarrierBlocks(start,segment,first,out Vector3 barrierImpact))
             {
                 MoveShotVisual(s.visual,barrierImpact,s.direction,Vector3.Distance(s.origin,barrierImpact));
                 FadeShotVisual(s.visual);
@@ -867,9 +856,9 @@ public partial class RiftorynTrial : MonoBehaviour
             {
                 end=start+first*segment;
                 petVictim.ReceiveHit(s.damage);
-                if(sharedEscape&&s.target!=null)
+                if(UsesUnifiedRules&&s.target!=null)
                 {
-                    Runner guard=PartnerOf(s.target);
+                    Runner guard=PatkaGuardOf(s.target);
                     if(IsRunning(guard)&&guard.hero==KonevaHero&&guard.kit.guardUntil>elapsed&&petVictim.transform.IsChildOf(guard.obj.transform))
                         FinishPatkaGuard(guard,petVictim);
                 }
@@ -883,7 +872,7 @@ public partial class RiftorynTrial : MonoBehaviour
     void Damage(Runner r,float amount,bool shielded,bool avoidable=true,string source="OBRAŻENIA")
     {
         if(avoidable&&shielded&&IsDodging(r)){MarkSharedDodge(r);return;}
-        if(sharedEscape&&shielded) TryTriggerSharedReserve(r,amount);
+        if(UsesUnifiedRules&&shielded) TryTriggerSharedReserve(r,amount);
         float absorbed=shielded?Mathf.Min(r.shield,amount):0, lost=amount-absorbed;
         r.shield-=absorbed;if(r.shield<=0){r.shield=0;r.shieldMax=0;r.shieldTick=0;}r.hp-=lost;r.damage+=lost;
         if(lost>0||absorbed>0)r.hitFlash=.18f;
@@ -936,9 +925,11 @@ public partial class RiftorynTrial : MonoBehaviour
     void UpdateCamera()
     {
         if(player==null) return;
-        Runner follow=sharedEscape&&!IsRunning(player)&&IsRunning(ally)?ally:player;
+        Runner follow=player;
+        if(UsesUnifiedRules&&!IsRunning(player))
+            foreach(var runner in runners)if(IsRunning(runner)){follow=runner;break;}
         if(phase==Phase.Finished&&cameraRunner!=null) follow=cameraRunner;
-        if(sharedEscape&&follow!=cameraRunner) cameraYaw=follow.obj.transform.eulerAngles.y;
+        if(UsesUnifiedRules&&follow!=cameraRunner) cameraYaw=follow.obj.transform.eulerAngles.y;
         cameraRunner=follow;
         Vector3 focus=follow.obj.transform.position+Vector3.up*1.5f;
         Quaternion rotation=Quaternion.Euler(pitch,cameraYaw,0);
@@ -1086,7 +1077,7 @@ public partial class RiftorynTrial : MonoBehaviour
         for(int i=0;i<Map.Length-1;i++)MinimapLine(MinimapPoint(P(Map[i]),map),MinimapPoint(P(Map[i+1]),map),Mathf.Max(2f,size*.023f),new Color(.43f,.40f,.39f));
         Vector2 goal=MinimapPoint(At(total),map);
         HudFill(new Rect(goal.x-3,goal.y-3,6,6),new Color(1f,.74f,.2f));
-        if(sharedEscape)
+        if(UsesUnifiedRules)
             foreach(var tower in towers)
             {
                 if(!tower.discovered) continue;
@@ -1337,11 +1328,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(ally.hp<=0||ally.done)return;
         if(lanRemoteAbility){Skill(ally);lanRemoteAbility=false;}if(lanRemoteAttack){if(ally.hero==0)Attack(ally);lanRemoteAttack=false;}
         Vector3 dir=Time.unscaledTime-lanInputAt<.5f?lanRemoteInput:Vector3.zero;
-        float mult=ally.exposure>0?(ally.hero==SailaHero?.915f:.9f):1f;if(ally.boost>0)mult*=1.2f;if(ally.chillTime>0)mult*=ally.hero==4?.88f:ally.hero==SailaHero?.8725f:.85f;
-        if(ally.rootTime>0)mult*=.8f;
-        ally.obj.transform.position=MoveAgainstWalls(ally.obj.transform.position,dir*Speed[ally.hero]*mult*dt);
-        if(dir.sqrMagnitude>.01f)ally.obj.transform.rotation=Quaternion.LookRotation(dir);
-        if(Vector3.Distance(ally.obj.transform.position,At(total))<1.5f)ally.done=true;
+        MoveRunner(ally,dir,dt);
     }
     LanRunner CaptureLanRunner(Runner r)=>new LanRunner{x=r.obj.transform.position.x,z=r.obj.transform.position.z,yaw=r.obj.transform.eulerAngles.y,hp=r.hp,shield=r.shield,shieldMax=r.shieldMax,cooldown=r.cooldown,exposure=r.exposure,damage=r.damage,chillTime=r.chillTime,rootTime=r.rootTime,shadowTime=r.shadowTime,poisonTime=r.poison.Remaining,done=r.done,uses=r.uses};
     void ApplyLanRunner(Runner r,LanRunner s){r.obj.transform.position=new Vector3(s.x,0,s.z);r.obj.transform.rotation=Quaternion.Euler(0,s.yaw,0);r.hp=s.hp;r.shield=s.shield;r.shieldMax=s.shieldMax;r.cooldown=s.cooldown;r.exposure=s.exposure;r.damage=s.damage;r.chillTime=s.chillTime;r.rootTime=s.rootTime;r.shadowTime=s.shadowTime;r.poison.SyncRemaining(s.poisonTime);r.done=s.done;r.uses=s.uses;r.obj.SetActive(s.hp>0&&!s.done);}

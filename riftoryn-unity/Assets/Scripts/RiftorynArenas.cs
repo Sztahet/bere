@@ -89,7 +89,7 @@ public partial class RiftorynTrial
         if(floorTexture) Destroy(floorTexture);
         if(floorMaterial) Destroy(floorMaterial);
         world=null;runnerRoot=null;slotRoot=null;fogRoot=null;cam=null;player=null;ally=null;healingRing=null;
-        matchExtras.Clear();fogTiles.Clear();fogDistances.Clear();visibleFogTiles=0;
+        runners.Clear();fogTiles.Clear();fogDistances.Clear();visibleFogTiles=0;
         ConfigureArena(index);
         BuildWorld();
     }
@@ -132,12 +132,13 @@ public partial class RiftorynTrial
             DrawArenaThumbnail(i,new Rect(x+230,y+20,95,90));
             if(GUI.Button(new Rect(x+35,y+120,280,38),matchArenaChoice==i?"WYBRANA":"WYBIERZ")) matchArenaChoice=i;
         }
-        GUI.Label(new Rect(45,620,1400,35),"Jedna droga · około 473 m · automatyczne wieże · bez ulepszeń",heading);
+        GUI.Label(new Rect(45,620,1400,35),$"Jedna droga · około 473 m · limit {matchSettings.TowerLimit} wież · bez ulepszeń",heading);
         if(GUI.Button(new Rect(45,720,260,55),"← WRÓĆ DO DRAFTU")) matchArenaSelection=false;
         if(GUI.Button(new Rect(325,720,360,55),"ROZSTAW WIEŻE I ZACZNIJ →"))
         {
             matchOurSeed=Random.Range(1,int.MaxValue);matchTheirSeed=Random.Range(1,int.MaxValue);
-            matchArenaSelection=false;RebuildArena(matchArenaChoice);StartMatchRound(1);
+            matchArenaSelection=false;RebuildArena(matchArenaChoice);
+            if(matchSettings.ManualDefense) StartMatchDefenseSetup(); else StartMatchRound(1);
         }
         GUI.matrix=old;
     }

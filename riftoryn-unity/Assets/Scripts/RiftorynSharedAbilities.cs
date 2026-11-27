@@ -12,6 +12,7 @@ public partial class RiftorynTrial
         public float secondaryReadyAt, ultimateReadyAt, wardUntil, reserveUntil, surgeUntil, dodgeBoostUntil;
         public float recallUntil, guardUntil, mikoBoostUntil, mikoSpeedBonus;
         public bool rewardedRoll;
+        public Runner guardedPartner;
     }
 
     sealed class HeatBarrier
@@ -25,7 +26,19 @@ public partial class RiftorynTrial
 
     HeatBarrier heatBarrier;
 
-    Runner PartnerOf(Runner runner)=>runner==player?ally:player;
+    Runner PartnerOf(Runner runner)
+    {
+        if(!MatchMode)return runner==player?ally:player;
+        if(!IsRunning(runner))return null;
+        Runner nearest=null;float best=float.PositiveInfinity;
+        foreach(var candidate in runners)
+        {
+            if(candidate==runner||!IsRunning(candidate))continue;
+            float distance=(candidate.obj.transform.position-runner.obj.transform.position).sqrMagnitude;
+            if(distance<best){best=distance;nearest=candidate;}
+        }
+        return nearest;
+    }
 
     bool RunnersNear(Runner first,Runner second,float range)=>
         IsRunning(first)&&IsRunning(second)
@@ -47,7 +60,7 @@ public partial class RiftorynTrial
 
     bool TryUseSharedAbility(Runner runner,bool ultimate,Tower tower=null)
     {
-        if(!sharedEscape||!IsRunning(runner)||SharedCooldownLeft(runner,ultimate)>0) return false;
+        if(!UsesUnifiedRules||!IsSharedHero(runner.hero)||!IsRunning(runner)||SharedCooldownLeft(runner,ultimate)>0) return false;
         Runner partner=PartnerOf(runner);
         bool cast=runner.hero switch
         {
@@ -75,17 +88,6 @@ public partial class RiftorynTrial
         if(!IsRunning(runner)) return;
         runner.boost=Mathf.Max(runner.boost,3f);
         Runner partner=PartnerOf(runner);
-        if(MatchMode)
-        {
-            partner=null;
-            float best=SupportRange*SupportRange;
-            foreach(var candidate in AllRunners())
-            {
-                if(candidate==runner||!IsRunning(candidate)) continue;
-                float distance=(candidate.obj.transform.position-runner.obj.transform.position).sqrMagnitude;
-                if(distance<best){best=distance;partner=candidate;}
-            }
-        }
         if(RunnersNear(runner,partner,SupportRange)) partner.boost=Mathf.Max(partner.boost,3f);
         runner.cooldown=Cooldowns[SarnaHero];
         runner.uses++;
@@ -136,7 +138,7 @@ public partial class RiftorynTrial
             bool hit=false;
             foreach(var candidate in towers)
             {
-                if(candidate.hp<=0||sharedEscape&&!candidate.discovered) continue;
+                if(candidate.hp<=0||UsesUnifiedRules&&!candidate.discovered) continue;
                 if(Vector3.Distance(runner.obj.transform.position,Slot(candidate.slot))>9f||!TowerHasClearShot(candidate,runner.obj.transform.position+Vector3.up)) continue;
                 candidate.disabled=Mathf.Max(candidate.disabled,2.5f);hit=true;
                 LightningArc(runner.obj.transform.position+Vector3.up,candidate.obj.transform.position+Vector3.up*2f);
@@ -278,12 +280,12 @@ public partial class RiftorynTrial
     float ShieldDecay(Runner runner)
     {
         Runner partner=PartnerOf(runner);
-        return sharedEscape&&partner?.hero==NeraHero&&RunnersNear(runner,partner,SupportRange) ? .94f : .90f;
+        return UsesUnifiedRules&&partner?.hero==NeraHero&&RunnersNear(runner,partner,SupportRange) ? .94f : .90f;
     }
 
     bool ConsumeSharedWard(Runner runner,int type)
     {
-        if(!sharedEscape||runner.kit.wardUntil<=elapsed||type!=0&&type!=1&&type!=3) return false;
+        if(!UsesUnifiedRules||runner.kit.wardUntil<=elapsed||type!=0&&type!=1&&type!=3) return false;
         runner.kit.wardUntil=0;
         ShowCombatText(runner,RiftorynCodexData.Text("UZIEMIENIE","GROUNDED"),new Color(.48f,.82f,1f));
         return true;
@@ -319,7 +321,7 @@ public partial class RiftorynTrial
 
     void MarkSharedDodge(Runner runner)
     {
-        if(sharedEscape&&runner.hero==KonevaHero&&!runner.kit.rewardedRoll)
+        if(UsesUnifiedRules&&runner.hero==KonevaHero&&!runner.kit.rewardedRoll)
         {
             runner.kit.rewardedRoll=true;
             runner.kit.dodgeBoostUntil=elapsed+2f;
@@ -336,12 +338,14 @@ public partial class RiftorynTrial
             if(!RunnersNear(runner,partner,PatkaGuardRange)) return false;
             runner.kit.recallUntil=0;
             runner.kit.guardUntil=elapsed+5f;
+            runner.kit.guardedPartner=partner;
             pet.Guard(partner.obj.transform);
         }
         else
         {
             if(!pet.IsHurt&&!pet.IsFlying&&runner.kit.guardUntil<=elapsed) return false;
             runner.kit.guardUntil=0;
+            runner.kit.guardedPartner=null;
             runner.kit.recallUntil=elapsed+5f;
             pet.ReturnToOwner();
         }
@@ -351,18 +355,21 @@ public partial class RiftorynTrial
     void StepSharedAbilityEffects(float dt)
     {
         if(heatBarrier!=null&&heatBarrier.endsAt<=elapsed) ClearHeatBarrier();
-        Runner owner=player.hero==KonevaHero?player:ally?.hero==KonevaHero?ally:null;
+        Runner owner=null;
+        foreach(var runner in runners)if(runner!=null&&runner.hero==KonevaHero){owner=runner;break;}
         if(!IsRunning(owner)||owner.kit.guardUntil<=0&&owner.kit.recallUntil<=elapsed) return;
         var pet=owner.obj.GetComponentInChildren<RiftorynPatkaPreview>();
         if(!pet||!pet.IsAlive)
         {
             owner.kit.guardUntil=0;
+            owner.kit.guardedPartner=null;
             owner.kit.recallUntil=0;
             return;
         }
-        if(owner.kit.guardUntil>0&&(owner.kit.guardUntil<=elapsed||!IsRunning(PartnerOf(owner))))
+        if(owner.kit.guardUntil>0&&(owner.kit.guardUntil<=elapsed||!IsRunning(owner.kit.guardedPartner)))
         {
             owner.kit.guardUntil=0;
+            owner.kit.guardedPartner=null;
             pet.ReturnToOwner();
         }
         if(owner.kit.recallUntil>elapsed&&SharedTowerAimingAt(owner)==null&&!IncomingSharedShot(owner)&&!RunnerInFog(owner)
@@ -370,10 +377,18 @@ public partial class RiftorynTrial
             pet.Heal(6f*dt);
     }
 
+    Runner PatkaGuardOf(Runner victim)
+    {
+        foreach(var runner in runners)
+            if(IsRunning(runner)&&runner.hero==KonevaHero&&runner.kit.guardedPartner==victim&&runner.kit.guardUntil>elapsed)
+                return runner;
+        return null;
+    }
+
     bool PatkaGuardsShot(Runner victim,Shot shot)
     {
         if(IsDodging(victim)) return false;
-        Runner owner=PartnerOf(victim);
+        Runner owner=PatkaGuardOf(victim);
         if(!IsRunning(owner)||owner.hero!=KonevaHero||owner.kit.guardUntil<=elapsed) return false;
         var pet=owner.obj.GetComponentInChildren<RiftorynPatkaPreview>();
         Vector3 target=victim.obj.transform.position+Vector3.up;
@@ -386,40 +401,41 @@ public partial class RiftorynTrial
     void FinishPatkaGuard(Runner owner,RiftorynPatkaPreview pet)
     {
         owner.kit.guardUntil=0;
+        owner.kit.guardedPartner=null;
         pet.ReturnToOwner();
     }
 
-    bool TrySharedBotExtra(Tower threat,Tower partnerThreat,bool shotIncoming,bool partnerIncoming,bool fogClose)
+    bool TrySharedBotExtra(Runner runner,Runner partner,Tower threat,Tower partnerThreat,bool shotIncoming,bool partnerIncoming,bool fogClose)
     {
-        switch(ally.hero)
+        switch(runner.hero)
         {
             case KaelHero:
-                if(partnerThreat!=null&&ally.shield>20f&&TryUseSharedAbility(ally,false,partnerThreat)) return true;
+                if(partnerThreat!=null&&runner.shield>20f&&TryUseSharedAbility(runner,false,partnerThreat)) return true;
                 Tower imminent=threat??partnerThreat;
                 return (shotIncoming||partnerIncoming||imminent!=null&&imminent.windup<=.18f)
-                    &&TryUseSharedAbility(ally,true,imminent);
+                    &&TryUseSharedAbility(runner,true,imminent);
             case NeraHero:
-                if((partnerThreat!=null||partnerIncoming)&&player.hp<MaxHp[player.hero]*.48f&&TryUseSharedAbility(ally,true)) return true;
-                return partnerThreat!=null&&(partnerThreat.type==0||partnerThreat.type==1)&&TryUseSharedAbility(ally,false);
+                if((partnerThreat!=null||partnerIncoming)&&partner.hp<MaxHp[partner.hero]*.48f&&TryUseSharedAbility(runner,true)) return true;
+                return partnerThreat!=null&&(partnerThreat.type==0||partnerThreat.type==1)&&TryUseSharedAbility(runner,false);
             case ZetHero:
-                if((threat!=null||fogClose)&&!shotIncoming&&(!IsRunning(player)||ally.along<=player.along+2f)
-                    &&(threat==null||ally.cooldown>0)&&TryUseSharedAbility(ally,true)) return true;
-                return threat==null&&partnerThreat==null&&!shotIncoming&&TryUseSharedAbility(ally,false);
+                if((threat!=null||fogClose)&&!shotIncoming&&(!IsRunning(partner)||runner.along<=partner.along+2f)
+                    &&(threat==null||runner.cooldown>0)&&TryUseSharedAbility(runner,true)) return true;
+                return threat==null&&partnerThreat==null&&!shotIncoming&&TryUseSharedAbility(runner,false);
             case KonevaHero:
-                var pet=ally.obj.GetComponentInChildren<RiftorynPatkaPreview>();
+                var pet=runner.obj.GetComponentInChildren<RiftorynPatkaPreview>();
                 if(!pet||!pet.IsAlive) return false;
-                if(partnerThreat!=null&&!pet.IsFlying&&(ally.cooldown>0||player.hp<MaxHp[player.hero]*.45f)
-                    &&TryUseSharedAbility(ally,true)) return true;
-                return threat==null&&partnerThreat==null&&!shotIncoming&&pet.IsHurt&&!pet.IsFlying&&ally.kit.guardUntil<=elapsed
-                    &&TryUseSharedAbility(ally,false);
+                if(partnerThreat!=null&&!pet.IsFlying&&(runner.cooldown>0||partner.hp<MaxHp[partner.hero]*.45f)
+                    &&TryUseSharedAbility(runner,true)) return true;
+                return threat==null&&partnerThreat==null&&!shotIncoming&&pet.IsHurt&&!pet.IsFlying&&runner.kit.guardUntil<=elapsed
+                    &&TryUseSharedAbility(runner,false);
             case MikoHero:
-                if((threat!=null||partnerThreat!=null)&&TryUseSharedAbility(ally,true)) return true;
-                return threat!=null&&TryUseSharedAbility(ally,false,threat);
+                if((threat!=null||partnerThreat!=null)&&TryUseSharedAbility(runner,true)) return true;
+                return threat!=null&&TryUseSharedAbility(runner,false,threat);
             case SarnaHero:
-                if((ally.chillTime>0||ally.rootTime>0
-                    ||RunnersNear(ally,player,SupportRange)&&(player.chillTime>0||player.rootTime>0))
-                    &&TryUseSharedAbility(ally,true)) return true;
-                return IsRunning(player)&&player.hp<=MaxHp[player.hero]-20f&&TryUseSharedAbility(ally,false);
+                if((runner.chillTime>0||runner.rootTime>0
+                    ||RunnersNear(runner,partner,SupportRange)&&(partner.chillTime>0||partner.rootTime>0))
+                    &&TryUseSharedAbility(runner,true)) return true;
+                return IsRunning(partner)&&partner.hp<=MaxHp[partner.hero]-20f&&TryUseSharedAbility(runner,false);
             default:return false;
         }
     }

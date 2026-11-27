@@ -7,7 +7,7 @@ public partial class RiftorynTrial
     readonly Dictionary<int,Texture2D> defenseElementIcons=new();
     static readonly Color DefenseGold=new(.88f,.72f,.43f), DefensePaper=new(.94f,.90f,.83f), DefenseMuted=new(.65f,.63f,.69f);
     static readonly Color DefenseBack=new(.055f,.045f,.08f,.97f), DefenseBorder=new(.30f,.25f,.32f,.95f);
-    static readonly Color[] DefenseAttackerColors={new(.98f,.72f,.32f),new(.38f,.79f,.93f)};
+    static readonly Color[] DefenseAttackerColors={new(.98f,.72f,.32f),new(.38f,.79f,.93f),new(.58f,.86f,.40f),new(.82f,.60f,.95f),new(.95f,.50f,.42f)};
 
     void InitDefenseBattleStyles()
     {
@@ -100,19 +100,41 @@ public partial class RiftorynTrial
         if(screen.z<=0)return;
         Vector2 p=new((screen.x-offset.x)/scale,(Screen.height-screen.y-offset.y)/scale);
         if(p.x<0||p.x>1600||p.y<0||p.y>900)return;
-        Runner other=number==1?ally:player;
-        if(IsRunning(other)&&other.obj)
+        bool crowded=false;
+        foreach(var other in runners)
         {
+            if(other==runner||!IsRunning(other)||!other.obj)continue;
             Vector3 otherScreen=cam.WorldToScreenPoint(other.obj.transform.position+Vector3.up*2f);
-            if(otherScreen.z>0&&Vector2.Distance(new Vector2(screen.x,screen.y),new Vector2(otherScreen.x,otherScreen.y))<30f*scale)
-                p.x+=number==1?-15f:15f;
+            if(otherScreen.z>0&&Vector2.Distance(new Vector2(screen.x,screen.y),new Vector2(otherScreen.x,otherScreen.y))<30f*scale){crowded=true;break;}
         }
+        if(crowded)p.x+=(number-(runners.Count+1)*.5f)*28f;
         Color color=DefenseAttackerColors[number-1];
         HudFill(new Rect(p.x-12,p.y-32,24,24),new Color(.035f,.03f,.05f,.94f));
         HudFill(new Rect(p.x-12,p.y-32,3,24),color);
         GUI.Label(new Rect(p.x-9,p.y-32,21,24),number.ToString(),defenseBattleNumber);
         DefenseBattleBar(new Rect(p.x-15,p.y-5,30,4),runner.hp,MaxHp[runner.hero],color);
     }
+    void DrawDefenseRunnerCardCompact(Runner runner,int number,Rect rect,bool en)
+    {
+        DefenseBattlePanel(rect);
+        if(runner==null||!runner.obj)return;
+        Color color=DefenseAttackerColors[(number-1)%DefenseAttackerColors.Length];
+        HudFill(new Rect(rect.x,rect.y,3,rect.height),color);
+        var hero=MatchHero(runner.hero);var portrait=hero!=null?DraftPortrait(hero.id):null;
+        Rect image=new(rect.x+9,rect.y+8,43,49);
+        HudFill(image,new Color(.11f,.09f,.14f));
+        if(portrait)GUI.DrawTexture(image,portrait,ScaleMode.ScaleAndCrop,true);
+        HudFill(new Rect(image.x,image.y,16,16),color);
+        GUI.Label(new Rect(image.x,image.y,16,16),number.ToString(),defenseBattleNumber);
+        float x=rect.x+60,width=rect.width-70;
+        GUI.Label(new Rect(x,rect.y+5,width,20),HeroNames[runner.hero].ToUpperInvariant(),defenseBattleHeading);
+        string state=runner.done?(en?"REACHED EXIT":"NA MECIE"):runner.hp<=0?(en?"DEFEATED":"POKONANY"):$"{Mathf.CeilToInt(runner.hp)} / {Mathf.CeilToInt(MaxHp[runner.hero])} HP";
+        GUI.Label(new Rect(x,rect.y+26,width,18),state,defenseBattleText);
+        DefenseBattleBar(new Rect(x,rect.y+49,width,6),runner.hp,MaxHp[runner.hero],color);
+        float progress=runner.done?1f:Mathf.Clamp01(Project(runner.obj.transform.position,out _)/total);
+        DefenseBattleBar(new Rect(rect.x+9,rect.y+rect.height-7,rect.width-18,3),progress,1,color);
+    }
+
     void DrawDefenseBattle()
     {
         if(player==null||!player.obj)return;
@@ -125,13 +147,17 @@ public partial class RiftorynTrial
         GUI.matrix=Matrix4x4.TRS(new Vector3(offset.x,offset.y,0),Quaternion.identity,Vector3.one*scale);
         bool en=RiftorynL10n.CurrentCode=="EN";
         DrawDefenseTowerMarkers(scale,offset);
-        DrawDefenseRunnerMarker(player,1,scale,offset);
-        DrawDefenseRunnerMarker(ally,2,scale,offset);
-        int attackers=ally!=null?2:1,arrived=(player.done?1:0)+(ally!=null&&ally.done?1:0),activeTowers=0;
+        int attackers=0,arrived=0,activeTowers=0;
+        foreach(var runner in runners)
+        {
+            if(runner==null)continue;
+            attackers++;if(runner.done)arrived++;
+            DrawDefenseRunnerMarker(runner,attackers,scale,offset);
+        }
         foreach(var tower in towers)if(tower.hp>0)activeTowers++;
         Rect header=new(24,20,440,88);DefenseBattlePanel(header);
         HudFill(new Rect(header.x,header.y,4,header.height),DefenseGold);
-        GUI.Label(new Rect(header.x+18,header.y+9,380,18),en?"RIFTORYN  /  DEFENSE TRIAL":"RIFTORYN  /  PRÓBA OBRONY",defenseBattleMuted);
+        GUI.Label(new Rect(header.x+18,header.y+9,380,18),MatchMode?(en?"RIFTORYN  /  AI RUN":"RIFTORYN  /  UCIECZKA AI"):en?"RIFTORYN  /  DEFENSE TRIAL":"RIFTORYN  /  PRÓBA OBRONY",defenseBattleMuted);
         GUI.Label(new Rect(header.x+18,header.y+29,400,32),en?"HOLD THE LINE":"ZATRZYMAJ ATAKUJĄCYCH",defenseBattleTitle);
         GUI.Label(new Rect(header.x+18,header.y+62,400,18),en?"The towers fire automatically":"Wieże prowadzą automatyczny ostrzał",defenseBattleMuted);
         Rect summary=new(1180,20,396,88);DefenseBattlePanel(summary);
@@ -142,9 +168,15 @@ public partial class RiftorynTrial
         GUI.Label(new Rect(summary.x+155,summary.y+11,225,18),en?"REACHED EXIT":"NA MECIE",defenseBattleMuted);
         GUI.Label(new Rect(summary.x+155,summary.y+32,225,32),$"{arrived} / {attackers}",defenseBattleTitle);
         GUI.Label(new Rect(24,128,280,24),en?"ATTACKERS":"ATAKUJĄCY",defenseBattleHeading);
-        DrawDefenseRunnerCard(player,1,new Rect(24,158,280,142),en);
-        if(ally!=null)DrawDefenseRunnerCard(ally,2,new Rect(24,310,280,142),en);
-        Rect fort=new(24,ally!=null?468:316,280,85);DefenseBattlePanel(fort);
+        if(attackers<=2)
+        {
+            DrawDefenseRunnerCard(player,1,new Rect(24,158,280,142),en);
+            if(ally!=null)DrawDefenseRunnerCard(ally,2,new Rect(24,310,280,142),en);
+        }
+        else
+            for(int i=0;i<runners.Count;i++)DrawDefenseRunnerCardCompact(runners[i],i+1,new Rect(24,158+i*77,280,69),en);
+        float fortY=attackers<=2?(ally!=null?468:316):158+attackers*77+8;
+        Rect fort=new(24,fortY,280,85);DefenseBattlePanel(fort);
         GUI.Label(new Rect(fort.x+14,fort.y+10,245,19),en?"DEFENSE":"TWOJA OBRONA",defenseBattleMuted);
         GUI.Label(new Rect(fort.x+14,fort.y+33,245,25),$"{activeTowers} / {towers.Count}  "+(en?"TOWERS ACTIVE":"WIEŻ AKTYWNYCH"),defenseBattleHeading);
         Rect legend=new(1305,128,271,Mathf.Min(370,60+towers.Count*38));DefenseBattlePanel(legend);
@@ -161,6 +193,8 @@ public partial class RiftorynTrial
             DefenseBattleBar(new Rect(legend.x+44,y+22,legend.width-60,4),tower.hp,100,color);
             y+=38;
         }
+        if(MatchMode&&phase==Phase.Playing&&DefenseBattleButton(new Rect(1305,legend.yMax+12,271,40),en?"MAIN MENU":"MENU GŁÓWNE",false))
+        {ReturnToMenu();GUI.matrix=previous;GUIUtility.ExitGUI();}
         if(phase==Phase.Finished)
         {
             bool win=arrived==0;

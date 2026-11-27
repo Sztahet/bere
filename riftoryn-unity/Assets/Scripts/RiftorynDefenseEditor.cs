@@ -91,9 +91,11 @@ public partial class RiftorynTrial
             defenseSelectedSlot=slot;
             return;
         }
-        int existing=towers.FindIndex(t=>t.type==selectedType);
+        int existing=matchDefenseSetup
+            ?towers.FindIndex(t=>t.slot==defenseSelectedSlot&&t.type==selectedType)
+            :towers.FindIndex(t=>t.type==selectedType);
         if(existing>=0)RemoveDefenseTower(existing);
-        else if(towers.Count>=TowerNames.Length)return;
+        else if(towers.Count>=(matchDefenseSetup?matchSettings.TowerLimit:TowerNames.Length))return;
         AddTower(slot,selectedType);
         defenseSelectedSlot=slot;
     }
@@ -165,13 +167,17 @@ public partial class RiftorynTrial
         HudFill(new Rect(0,0,Screen.width,DefenseHeaderHeight),new Color(.045f,.035f,.07f,.98f));
         GUI.Label(new Rect(18,8,Mathf.Max(250,Screen.width-550),30),en?"BUILD DEFENSE":"BUDOWA OBRONY",title);
         string hero1=HeroNames[selectedHero], hero2=allyChoice==1?(en?"NONE":"BRAK"):HeroNames[AllyHero()];
-        if(GUI.Button(new Rect(18,48,180,30),(en?"AI 1 · ":"AI 1 · ")+hero1)){StartDraft(0,false);GUIUtility.ExitGUI();}
-        if(GUI.Button(new Rect(205,48,180,30),"AI 2 · "+hero2)){StartDraft(1,false);GUIUtility.ExitGUI();}
+        if(!matchDefenseSetup)
+        {
+            if(GUI.Button(new Rect(18,48,180,30),"AI 1 · "+hero1)){StartDraft(0,false);GUIUtility.ExitGUI();}
+            if(GUI.Button(new Rect(205,48,180,30),"AI 2 · "+hero2)){StartDraft(1,false);GUIUtility.ExitGUI();}
+        }
+        else GUI.Label(new Rect(18,48,580,30),matchSettings.Opponent?"Ustaw obronę przeciw drużynie AI":"Ustaw wieże do własnej próby",defenseLabel);
         if(GUI.Button(new Rect(Screen.width-DefensePanelWidth-145,48,125,30),RiftorynL10n.CurrentCode+" ⇄"))RiftorynL10n.Toggle();
         Rect panel=DefensePanel;HudFill(panel,new Color(.055f,.045f,.075f,.98f));
         float px=panel.x+15,pw=panel.width-30;
         GUI.Label(new Rect(px,panel.y+12,pw,25),en?"CHOOSE A TOWER":"WYBIERZ WIEŻĘ",defenseLabel);
-        GUI.Label(new Rect(px,panel.y+36,pw,24),$"{towers.Count} / {TowerNames.Length}  ·  "+(en?"one per element":"po jednej z żywiołu"),defenseTiny);
+        GUI.Label(new Rect(px,panel.y+36,pw,24),$"{towers.Count} / {(matchDefenseSetup?matchSettings.TowerLimit:TowerNames.Length)}  ·  "+(matchDefenseSetup?(en?"repeats allowed":"można powtarzać"):(en?"one per element":"po jednej z żywiołu")),defenseTiny);
         float rowY=panel.y+65,rowHeight=Mathf.Clamp((Screen.height-370f)/7f,25f,44f);
         for(int i=0;i<TowerNames.Length;i++)
         {
@@ -182,7 +188,7 @@ public partial class RiftorynTrial
             {
                 selectedType=i;
                 var tower=towers.Find(t=>t.type==type);
-                defenseSelectedSlot=tower!=null?tower.slot:-1;
+                defenseSelectedSlot=matchDefenseSetup?-1:tower!=null?tower.slot:-1;
             }
             GUI.backgroundColor=old;
             HudFill(new Rect(row.x+9,row.y+7,16,Mathf.Max(12,row.height-14)),TowerColors[i]);
@@ -199,7 +205,11 @@ public partial class RiftorynTrial
         GUI.enabled=true;
         float buttonY=Screen.height-100;
         GUI.enabled=towers.Count>0;
-        if(GUI.Button(new Rect(px,buttonY,pw,40),en?"START TRIAL →":"ROZPOCZNIJ PRÓBĘ →")){Begin();GUIUtility.ExitGUI();}
+        if(GUI.Button(new Rect(px,buttonY,pw,40),matchDefenseSetup?"ZATWIERDŹ OBRONĘ →":en?"START TRIAL →":"ROZPOCZNIJ PRÓBĘ →") )
+        {
+            if(matchDefenseSetup)FinishMatchDefenseSetup();else Begin();
+            GUIUtility.ExitGUI();
+        }
         GUI.enabled=true;
         if(GUI.Button(new Rect(px,buttonY+45,pw,32),en?"← MAIN MENU":"← MENU GŁÓWNE")){ReturnToMenu();GUIUtility.ExitGUI();}
         HudFill(new Rect(0,Screen.height-46,Screen.width-DefensePanelWidth,46),new Color(.045f,.035f,.07f,.96f));
@@ -208,6 +218,8 @@ public partial class RiftorynTrial
             :towers.Exists(t=>t.slot==defenseHoveredSlot)
                 ?(en?"Click to select this tower. Its range is highlighted.":"Kliknij wieżę, aby ją wybrać. Jej zasięg jest podświetlony.")
                 :(en?"Click to place or move the selected tower. The circle previews its range.":"Kliknij, aby postawić lub przenieść wybraną wieżę. Okrąg pokazuje zasięg.");
+        if(matchDefenseSetup&&defenseHoveredSlot<0)
+            hint=en?"Choose a type again to add a duplicate. Click a tower, then + to move it.":"Wybierz typ ponownie, aby go powtórzyć. Kliknij wieżę, potem +, aby ją przenieść.";
         GUI.Label(new Rect(18,Screen.height-39,Mathf.Max(100,Screen.width-DefensePanelWidth-30),32),hint,defenseTiny);
     }
 }
