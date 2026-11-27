@@ -1147,6 +1147,7 @@ public partial class RiftorynTrial : MonoBehaviour
         if(phase==Phase.Setup&&selectingHero>=0){DrawDraft();return;}
         if(phase==Phase.Setup&&briefing){DrawBriefing();return;}
         if(phase==Phase.Setup&&DefenseMode){DrawDefenseEditor();return;}
+        if(DefenseMode){DrawDefenseBattle();return;}
         GUI.Box(new Rect(0,0,w,phase==Phase.Setup?155:sharedEscape?94:110),"");
         if(GUI.Button(new Rect(w-90,6,75,28),RiftorynL10n.CurrentCode+" ⇄")) RiftorynL10n.Toggle();
         string modeTitle=mode switch
