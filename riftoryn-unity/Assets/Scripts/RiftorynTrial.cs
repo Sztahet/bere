@@ -342,6 +342,7 @@ public partial class RiftorynTrial : MonoBehaviour
         }
         if(phase==Phase.Setup)
         {
+            if(MatchMode&&matchDraft) UpdateMatchDraft();
             if(CustomTrainingDefense&&!briefing&&selectingHero<0&&RiftorynInput.PointerPressed&&RiftorynInput.PointerPosition.y<Screen.height-155)
                 EditTowerAtPointer();
             return;
