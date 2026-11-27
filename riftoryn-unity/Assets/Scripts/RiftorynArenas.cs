@@ -5,15 +5,15 @@ public partial class RiftorynTrial
 {
     static readonly string[] ArenaNames={"Vareth · Ogień","Nivoren · Lód","Zerath · Błyskawice","Verdan · Natura","Kharum · Ziemia","Aurel · Światło","Vesper · Ciemność"};
     static readonly string[] ArenaDescriptions={"Dziedziniec kuźni i rozżarzony kamień","Chłodny szlak przełęczy i lodowe kryształy","Kamienne przekaźniki i złote przewodniki","Zielone ogrody i kamienie szlaku","Kamieniarski labirynt i miedziane znaki","Jasne mury i znaki obserwatorów","Ciemny kamień i fioletowe kryształy"};
-    // Each pair is a grid point. All seven paths have 32 segments, 360 m total.
+    // Each pair is a grid point. All seven paths have 42 segments, 472.5 m total.
     static readonly string[] ArenaPaths={
-        "334353524232313040415161626364656656464535362616060504142423131202",
-        "333435454656666555546463626151413121111222232425151606050414130302",
-        "333424141505040313232232424353544445555666656463625251616050403020",
-        "333424141312222131414252626151504030201000010203040515162625353646",
-        "334344545352515040302010000111213141423222121323241404051525353626",
-        "332313121121223231302010000102030414242535344443536364656656463626",
-        "333231414030202111100001020304051514243444546465555646363525261606"
+        "33435352423231304041516162636465665646453536261606050414152524232221111213030201001020",
+        "33343545465666655554646362615141313222232414152526160605040313120201001011212030405060",
+        "33342414150504031323223242435354444535364656556564636261514131211112020100102030405060",
+        "33342414131222213141425262615150403020100001020304051516262535364645555444435363646566",
+        "33434454535251504030201000011121314142322212132324140405152535364645555666656463626160",
+        "33231312112122323130201000010203041424253534444353524241405051616263646555564636261606",
+        "33323141403020211110000102030405151424344454554535252636465666656463534342526261515060"
     };
     static readonly Color[] ArenaWalls={new(.30f,.16f,.14f),new(.22f,.30f,.37f),new(.24f,.25f,.35f),new(.20f,.30f,.22f),new(.32f,.26f,.20f),new(.36f,.34f,.30f),new(.20f,.17f,.29f)};
     static readonly Color[] ArenaFloors={new(.30f,.20f,.18f),new(.24f,.31f,.36f),new(.24f,.25f,.31f),new(.24f,.30f,.23f),new(.31f,.27f,.23f),new(.38f,.36f,.31f),new(.22f,.20f,.29f)};
@@ -132,7 +132,7 @@ public partial class RiftorynTrial
             DrawArenaThumbnail(i,new Rect(x+230,y+20,95,90));
             if(GUI.Button(new Rect(x+35,y+120,280,38),matchArenaChoice==i?"WYBRANA":"WYBIERZ")) matchArenaChoice=i;
         }
-        GUI.Label(new Rect(45,620,1400,35),"Jedna droga · około 360 m · automatyczne wieże · bez ulepszeń",heading);
+        GUI.Label(new Rect(45,620,1400,35),"Jedna droga · około 473 m · automatyczne wieże · bez ulepszeń",heading);
         if(GUI.Button(new Rect(45,720,260,55),"← WRÓĆ DO DRAFTU")) matchArenaSelection=false;
         if(GUI.Button(new Rect(325,720,360,55),"ROZSTAW WIEŻE I ZACZNIJ →"))
         {

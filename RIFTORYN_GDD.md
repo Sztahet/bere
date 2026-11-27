@@ -77,6 +77,8 @@ Punkty za pary ataków rozstrzygają pojedynczy mecz; punkty klasyfikacji Igrzys
 
 [USTALONE — wartość startowa] Mgła dociera do końca trasy po **120 s**; atak może trwać dłużej, aż wszyscy Runnerzy dotrą do mety lub zostaną wyeliminowani. Punktem wyjścia do projektu pierwszej trasy jest **około 360 m rzeczywistej długości drogi po zakrętach**, nie odległość w linii prostej. Przy najwolniejszej prędkości referencyjnej 4 m/s niezakłócony bieg trwa 90 s, czyli 75% czasu dojścia mgły do końca; zostaje 30 s marginesu na uniki, zatrzymania i inne zdarzenia.
 
+[TEST — MECZ 5v5 W UNITY] Siedem aren meczu ma po 472,5 m trasy. Przy bazowej prędkości 5,2 m/s swobodny bieg trwa około 91 s. W obecnym prototypie czoło mgły dociera do mety po około 137 s; długość, presję czasu i balans wież należy sprawdzić w rozgrywce. To ustawienie testowe nie zmienia jeszcze założeń poniższego PoC 2v2.
+
 [PROPOZYCJA DO TESTÓW] Dla zgodności z nową prędkością referencyjną przyjmujemy dla Broma 4,0 m/s zamiast wcześniejszych 4,2 m/s. To nie przesądza o finalnym balansie postaci. Długość trasy jest założeniem do weryfikacji w silniku: przyspieszenie, zakręty, szerokość, kolizje i rzeczywista droga zmieniają czas przejścia. Zapas 30 s przed dotarciem mgły do końca nie gwarantuje przejścia pod ostrzałem lub silną kontrolą; gwarancję należy odnieść do zdefiniowanych warunków, a trasę zmierzyć testem bez przeszkód i w walce.
 
 ### Mgła ścigająca Runnerów
