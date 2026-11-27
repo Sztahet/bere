@@ -55,6 +55,44 @@ class SimulationTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             sim.simulate([self.roster['kael'], self.roster['kael']])
 
+    def test_layouts_count_reproducibility_and_variation(self):
+        for layout in ('rowny', 'losowy', 'skupiska'):
+            towers = sim.make_towers(7, 12, layout)
+            self.assertEqual(len(towers), 12)
+            self.assertEqual(towers, sim.make_towers(7, 12, layout))
+            self.assertTrue(all(0 < t.x < sim.DISTANCE for t in towers))
+        self.assertNotEqual([t.x for t in sim.make_towers(7, 12, 'losowy')],
+                            [t.x for t in sim.make_towers(8, 12, 'losowy')])
+        self.assertEqual([t.x for t in sim.make_towers(7, 12, 'rowny')],
+                         [t.x for t in sim.make_towers(8, 12, 'rowny')])
+
+    def test_miko_sabotage_outcomes_and_cooldown(self):
+        class FixedRandom:
+            def __init__(self, value): self.value = value
+            def randrange(self, count): return self.value
+        for outcome in range(4):
+            actor = sim.Runner(self.roster['miko'])
+            tower = sim.Tower(10, 0)
+            self.assertTrue(sim.cast(actor, [actor], [tower], 'Q', 0, FixedRandom(outcome)))
+            self.assertEqual(actor.cooldown['Q'], 20)
+            if outcome == 0: self.assertEqual(tower.disabled_until, 5)
+            if outcome == 1: self.assertEqual(tower.hp, 0)
+            if outcome == 2: self.assertTrue(tower.misfires)
+            if outcome == 3: self.assertEqual(tower.overload_until, 5)
+
+    def test_automatic_basic_attack_is_optional(self):
+        hero = copy.deepcopy(self.roster['lumen'])
+        hero['statystyki']['atak_podstawowy'] = 100
+        without = sim.simulate([hero], 0, towers_count=1, distance=100, timeout=40, basic_attack=False)
+        with_attack = sim.simulate([hero], 0, towers_count=1, distance=100, timeout=40, basic_attack=True)
+        self.assertGreater(with_attack['members']['lumen']['hp'], without['members']['lumen']['hp'])
+
+    def test_parameter_validation(self):
+        with self.assertRaises(ValueError):
+            sim.simulate([self.roster['kael']], towers_count=-1)
+        with self.assertRaises(ValueError):
+            sim.simulate([self.roster['kael']], step=.3)
+
 
 if __name__ == '__main__':
     unittest.main()
