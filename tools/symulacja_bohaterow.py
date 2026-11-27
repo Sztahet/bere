@@ -12,7 +12,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA = ROOT / 'dokumentacja' / 'bohaterowie-16'
+DATA = ROOT / 'riftoryn-unity' / 'Assets' / 'Resources' / 'HeroDesign'
 DISTANCE = 472.5
 TIMEOUT = 137
 # Zestawienie jawne: pozostałe zdolności nie są oceniane przez model.

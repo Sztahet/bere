@@ -4,7 +4,7 @@ from collections import Counter
 from pathlib import Path
 
 
-DATA = Path(__file__).resolve().parents[1] / 'dokumentacja' / 'bohaterowie-16'
+DATA = Path(__file__).resolve().parents[1] / 'riftoryn-unity' / 'Assets' / 'Resources' / 'HeroDesign'
 EXPECTED = {
     'kael', 'thora', 'brom', 'morrak', 'nera', 'niva', 'liora', 'sarna',
     'rian', 'saila', 'zet', 'miko', 'koneva', 'pyrra', 'ana', 'lumen',

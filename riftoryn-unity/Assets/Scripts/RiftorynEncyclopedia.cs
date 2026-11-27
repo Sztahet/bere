@@ -265,6 +265,7 @@ public partial class RiftorynMenu
     }
     void OnDestroy()
     {
+        simCancellation?.Cancel();
         if(mandalaDisc)Destroy(mandalaDisc);
         if(mandalaRing)Destroy(mandalaRing);
     }

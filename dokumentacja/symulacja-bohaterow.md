@@ -1,6 +1,12 @@
 # Symulacja bohaterów: model 1D v2
 
-To narzędzie **orientacyjne**, niezależne od Unity, napisane w Pythonie bez dodatkowych bibliotek. Wczytuje pliki z `dokumentacja/bohaterowie-16/` i symuluje przebieg ucieczki. Pozwala szybko wychwycić wpływ zmian danych i odtwarzać te same warunki. **Nie jest symulacją całych meczów 5 na 5, siedmiu map ani walidacją balansu gry.**
+To narzędzie **orientacyjne**, napisane w Pythonie bez dodatkowych bibliotek. Wczytuje pliki z `riftoryn-unity/Assets/Resources/HeroDesign/` i symuluje przebieg ucieczki. Pozwala szybko wychwycić wpływ zmian danych i odtwarzać te same warunki. **Nie jest symulacją całych meczów 5 na 5, siedmiu map ani walidacją balansu gry.**
+
+## Narzędzie w aplikacji Unity
+
+W menu wybierz **TESTY**. Ustaw liczbę wież, prób na skład, rozmieszczenie i opcjonalny atak, a następnie uruchom analizę. Obliczenia wykonywane są w tle, można je przerwać. Po zakończeniu tabela przedstawia wpływ na sojuszników, ich szansę dotarcia do mety i własną szansę dotarcia dla każdego z 16 bohaterów. Wyświetlony wpływ ma znaczenie opisane w sekcji „Kto jest pomocnym członkiem drużyny”.
+
+Aplikacja korzysta z tych samych plików danych i analogicznego modelu, lecz ma osobną implementację w C# i inny generator liczb losowych niż Python. Wartości dla tych samych numerów seedów **nie muszą być identyczne**. W Unity ustawiono seed początkowy 100 i krok 0,5 s. Analiza w aplikacji nie zapisuje obecnie raportu do pliku; Python nadal pozwala generować CSV. Żadna z wersji nie uruchamia prawdziwej rozgrywki w Unity.
 
 ## Uruchamianie
 

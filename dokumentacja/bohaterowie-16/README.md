@@ -1,6 +1,6 @@
 # Bohaterowie — dane projektowe wersja 1
 
-Ten katalog zawiera osobny plik JSON dla każdego z 16 wybranych bohaterów. To **specyfikacja do implementacji i testów balansu**, nie konfiguracja działającej gry: Unity obecnie nie wczytuje tych plików. W szczególności dopisanie tu zdolności nie sprawia, że jest grywalna. Nie nadpisujemy istniejącego `riftoryn-unity/Assets/Resources/hero_stats.json` ani kodu prototypu.
+Pliki JSON 16 wybranych bohaterów znajdują się w `riftoryn-unity/Assets/Resources/HeroDesign/`. To **specyfikacja do implementacji i testów balansu**. Czyta je symulator Python i narzędzie analizy w Unity, ale nie sterują one jeszcze rozgrywką: dopisanie zdolności nie sprawia, że jest grywalna. Nie nadpisujemy `riftoryn-unity/Assets/Resources/hero_stats.json` ani kodu prototypu.
 
 Każdy plik zawiera identyfikator, rolę, żywioł, HP, prędkość, proponowany atak podstawowy, pasywkę, Q/E/R, czasy odnowienia i liczbowe parametry efektów. Przywoływacze mają również dane towarzysza. `status_unity` opisuje jedynie zakres istniejącego prototypu; nie obiecuje, że każda wartość w tym pliku jest już stosowana. Teksty są po polsku; identyfikatory są stabilnymi kluczami bez polskich znaków.
 
