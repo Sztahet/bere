@@ -75,6 +75,17 @@ public partial class RiftorynTrial
         if(!IsRunning(runner)) return;
         runner.boost=Mathf.Max(runner.boost,3f);
         Runner partner=PartnerOf(runner);
+        if(MatchMode)
+        {
+            partner=null;
+            float best=SupportRange*SupportRange;
+            foreach(var candidate in AllRunners())
+            {
+                if(candidate==runner||!IsRunning(candidate)) continue;
+                float distance=(candidate.obj.transform.position-runner.obj.transform.position).sqrMagnitude;
+                if(distance<best){best=distance;partner=candidate;}
+            }
+        }
         if(RunnersNear(runner,partner,SupportRange)) partner.boost=Mathf.Max(partner.boost,3f);
         runner.cooldown=Cooldowns[SarnaHero];
         runner.uses++;

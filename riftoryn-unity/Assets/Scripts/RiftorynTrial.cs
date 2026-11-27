@@ -24,7 +24,7 @@ public partial class RiftorynTrial : MonoBehaviour
         public GameObject obj;
         public Vector3 velocity, rollDirection;
         public float hp, shield, shieldMax, shieldTick, cooldown, attackCooldown, boost, exposure, fogTick, along, damage;
-        public float chillTime, rootTime, shadowTime, hitFlash, slowImmunity, rollTime, rollCooldown, progressSpeed, bestProgress, finishTime;
+        public float chillTime, rootTime, shadowTime, hitFlash, slowImmunity, rollTime, rollCooldown, progressSpeed, bestProgress, finishTime, pyrraGuardUntil;
         public bool done;
         public readonly SharedAbilityState kit=new();
         public readonly RiftorynPeriodicEffect burn=new(), poison=new();
@@ -605,6 +605,13 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         if(r.cooldown>0)return;
         if(r.hero==SarnaHero){BoostSarnaTeam(r);return;}
+        if(MatchMode&&r.hero==PyrraHero)
+        {
+            r.pyrraGuardUntil=elapsed+5f;
+            r.cooldown=Cooldowns[PyrraHero];r.uses++;
+            if(r==player) Notify("Iskra · ochrona przed jednym trafieniem przez 5 s");
+            return;
+        }
         if(r.hero>=6&&r.hero!=LucenHero&&r.hero!=SailaHero&&r.hero!=NeraHero&&r.hero!=MikoHero){if(r==player)Notify("Zdolność tej postaci nie jest jeszcze dostępna w próbie.");return;}
         if(r.hero==MikoHero){if(t==null){if(r==player)Notify(RiftorynCodexData.Text("Brak wieży w zasięgu.","No tower in range."));return;} SabotageMiko(r,t);return;}
         if(r.hero==NeraHero)
@@ -779,6 +786,12 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         if(victim.hp<=0||victim.done)return;
         if(IsDodging(victim)){MarkSharedDodge(victim);return;}
+        if(MatchMode&&victim.hero==PyrraHero&&victim.pyrraGuardUntil>elapsed)
+        {
+            victim.pyrraGuardUntil=0;
+            ShowCombatText(victim,"ISKRA · OCHRONA",new Color(1f,.65f,.2f));
+            return;
+        }
         float direct = baseDamage*(victim.shadowTime>0?1.15f:1f);
         if (victim.hero == 1 && type == 0) direct *= .85f;
         if (victim.hero == LucenHero && type == 2) direct *= .75f;

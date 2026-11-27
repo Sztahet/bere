@@ -4,7 +4,7 @@ using UnityEngine;
 public partial class RiftorynTrial
 {
     // The prototype uses the heroes whose basic trial skills already exist.
-    static readonly int[] MatchRoster={0,1,2,3,4,5,9,10,12,13};
+    static readonly int[] MatchRoster={0,1,2,3,4,5,9,10,PyrraHero,12,13,SarnaHero};
     readonly List<int> matchTeam=new(), matchOpponents=new();
     readonly List<Runner> matchExtras=new();
     int matchRound, matchOurArrivals, matchTheirArrivals, matchOurSeed, matchTheirSeed;
@@ -160,16 +160,16 @@ public partial class RiftorynTrial
         {
             int hero=MatchRoster[i];
             var data=MatchHero(hero);
-            float x=300+(i%5)*200,y=175+(i/5)*185;
+            float x=300+(i%6)*168,y=175+(i/6)*185;
             bool available=MatchAvailable(hero);
-            GUI.Box(new Rect(x,y,180,165),"");
+            GUI.Box(new Rect(x,y,158,165),"");
             var portrait=data!=null?DraftPortrait(data.id):null;
-            if(portrait) GUI.DrawTexture(new Rect(x+8,y+5,80,100),portrait,ScaleMode.ScaleAndCrop);
-            GUI.Label(new Rect(x+92,y+10,85,45),HeroNames[hero],small);
-            if(data!=null) GUI.Label(new Rect(x+92,y+54,85,65),data.role+"\n"+data.element,small);
+            if(portrait) GUI.DrawTexture(new Rect(x+8,y+5,65,100),portrait,ScaleMode.ScaleAndCrop);
+            GUI.Label(new Rect(x+78,y+10,76,45),HeroNames[hero],small);
+            if(data!=null) GUI.Label(new Rect(x+78,y+54,76,65),data.role+"\n"+data.element,small);
             string button=matchTeam.Contains(hero)?"DRUŻYNA A":matchOpponents.Contains(hero)?"DRUŻYNA B":matchPreview==hero?"WYBRANY":"WYBIERZ";
             GUI.enabled=playerTurn&&available;
-            if(GUI.Button(new Rect(x+8,y+120,164,35),button)) matchPreview=hero;
+            if(GUI.Button(new Rect(x+8,y+120,142,35),button)) matchPreview=hero;
             GUI.enabled=true;
         }
         if(matchPreview>=0&&MatchAvailable(matchPreview))
@@ -179,7 +179,7 @@ public partial class RiftorynTrial
         }
         else if(!string.IsNullOrEmpty(matchAiExplanation))
             GUI.Label(new Rect(300,645,1000,34),"Ostatni wybór AI: "+matchAiExplanation,heading);
-        GUI.Label(new Rect(300,690,1020,42),"AI dobiera brakujące role, różne żywioły oraz wytrzymałość i szybkość. Pierwszym wybranym bohaterem sterujesz Ty.",small);
+        GUI.Label(new Rect(300,690,1020,42),matchPreview==PyrraHero?"Pyrra · Q: Iskra chroni przed jednym trafieniem wieży przez 5 s. Umiejętność testowa.":matchPreview==SarnaHero?"Sarna · Q: przyspiesza Sarnę i pobliskiego sojusznika na 3 s.":"AI dobiera brakujące role, różne żywioły oraz wytrzymałość i szybkość. Pierwszym wybranym bohaterem sterujesz Ty.",small);
         GUI.enabled=playerTurn&&matchPreview>=0&&MatchAvailable(matchPreview);
         if(GUI.Button(new Rect(300,750,300,50),"ZATWIERDŹ BOHATERA")) MatchConfirmPick(matchPreview);
         GUI.enabled=done;
