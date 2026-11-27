@@ -9,7 +9,8 @@ public partial class RiftorynTrial
     readonly List<Runner> matchExtras=new();
     int matchRound, matchOurArrivals, matchTheirArrivals, matchOurSeed, matchTheirSeed;
     float matchOurTime, matchTheirTime;
-    bool matchDraft;
+    bool matchDraft, matchArenaSelection;
+    int matchArenaChoice;
     static readonly bool[] MatchPickOrder={true,false,false,true,true,false,false,true,true,false};
     int matchPickIndex, matchPreview=-1;
     float matchAiPickAt;
@@ -97,7 +98,7 @@ public partial class RiftorynTrial
         mode=TrialMode.Match;
         menuOpen=false;
         matchRound=0;
-        matchDraft=true;
+        matchDraft=true; matchArenaSelection=false; matchArenaChoice=0;
         matchPickIndex=0; matchPreview=-1; matchAiPickAt=0; matchAiExplanation="";
         matchTeam.Clear();
         matchOpponents.Clear();
@@ -183,11 +184,9 @@ public partial class RiftorynTrial
         GUI.enabled=playerTurn&&matchPreview>=0&&MatchAvailable(matchPreview);
         if(GUI.Button(new Rect(300,750,300,50),"ZATWIERDŹ BOHATERA")) MatchConfirmPick(matchPreview);
         GUI.enabled=done;
-        if(GUI.Button(new Rect(620,750,300,50),"ROZSTAW WIEŻE I ZACZNIJ"))
+        if(GUI.Button(new Rect(620,750,300,50),"WYBIERZ MAPĘ →"))
         {
-            matchOurSeed=Random.Range(1,int.MaxValue);
-            matchTheirSeed=Random.Range(1,int.MaxValue);
-            StartMatchRound(1);
+            matchArenaSelection=true;
         }
         GUI.enabled=true;
         if(GUI.Button(new Rect(40,815,200,40),"← MENU")) ReturnToMenu();
@@ -197,6 +196,11 @@ public partial class RiftorynTrial
     void DrawMatch()
     {
         float w=Screen.width, h=Screen.height;
+        if(matchArenaSelection)
+        {
+            DrawArenaSelection();
+            return;
+        }
         if(matchDraft)
         {
             DrawMatchDraft();
@@ -205,7 +209,7 @@ public partial class RiftorynTrial
         if(phase==Phase.Playing)
         {
             GUI.Box(new Rect(0,0,w,100),"");
-            GUI.Label(new Rect(18,8,w-36,30),matchRound==1?"MECZ 5 NA 5 · UCIECZKA TWOJEJ DRUŻYNY":"MECZ 5 NA 5 · UCIECZKA DRUŻYNY AI",title);
+            GUI.Label(new Rect(18,8,w-36,30),(matchRound==1?"UCIECZKA TWOJEJ DRUŻYNY · ":"UCIECZKA DRUŻYNY AI · ")+ArenaNames[matchArenaChoice],title);
             int alive=0, arrived=0;
             foreach(var runner in AllRunners()){if(IsRunning(runner))alive++;if(runner!=null&&runner.done)arrived++;}
             GUI.Label(new Rect(18,42,w-36,24),$"Czas {elapsed:F1} s  ·  Biegnie {alive}  ·  Meta {arrived}/5",heading);

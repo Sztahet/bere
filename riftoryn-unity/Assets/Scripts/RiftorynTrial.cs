@@ -12,8 +12,10 @@ public partial class RiftorynTrial : MonoBehaviour
     const float Scale = .15f, RoadHalf = 2.65f, ProjectileSpeed = 22f;
     const float RollDuration=.35f, RollSpeed=12f, RollCooldown=10f, TowerWindup=.45f;
     const float FogStartTime=5f, MinFogArrivalTime=120f, CleanRunMargin=30f;
-    static readonly Vector2[] Map = { new(400,330),new(475,330),new(475,245),new(315,245),new(315,410),new(550,410),new(550,170),new(240,170),new(240,485),new(625,485),new(625,95),new(165,95),new(165,560),new(700,560),new(700,35) };
-    static readonly Vector2[] SlotMap = {new(445,205),new(405,205),new(365,205),new(275,290),new(275,350),new(355,450),new(415,450),new(475,450),new(590,360),new(590,290),new(590,220),new(510,130),new(450,130),new(390,130),new(330,130),new(200,235),new(200,320),new(200,400),new(305,525),new(385,525),new(465,525),new(545,525),new(665,450),new(665,370),new(665,290),new(665,210)};
+    static readonly Vector2[] DefaultMap = { new(400,330),new(475,330),new(475,245),new(315,245),new(315,410),new(550,410),new(550,170),new(240,170),new(240,485),new(625,485),new(625,95),new(165,95),new(165,560),new(700,560),new(700,35) };
+    static readonly Vector2[] DefaultSlotMap = {new(445,205),new(405,205),new(365,205),new(275,290),new(275,350),new(355,450),new(415,450),new(475,450),new(590,360),new(590,290),new(590,220),new(510,130),new(450,130),new(390,130),new(330,130),new(200,235),new(200,320),new(200,400),new(305,525),new(385,525),new(465,525),new(545,525),new(665,450),new(665,370),new(665,290),new(665,210)};
+    Vector2[] Map=DefaultMap, SlotMap=DefaultSlotMap;
+    int activeArena=-1;
     const int LucenHero = 9, SailaHero = 10, PyrraHero = 11, NeraHero = 12, MikoHero = 13, SarnaHero = 14;
     static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten","Lucen","Saila","Pyrra","Nera","Miko","Sarna"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
     static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115,105,105,60,110,105,115}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f,5.6f,5.2f,5.2f,5.0f,5.8f,4.9f}, Cooldowns={22,16,18,20,18,20,20,20,20,20,24,20,20,20,18}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
@@ -59,13 +61,7 @@ public partial class RiftorynTrial : MonoBehaviour
     void Start()
     {
         Application.targetFrameRate=60;
-        lengths=new float[Map.Length-1];
-        for(int i=0;i<lengths.Length;i++)
-        {
-            lengths[i]=Vector2.Distance(Map[i],Map[i+1])*Scale;
-            total+=lengths[i];
-        }
-        fogArrivalTime=Mathf.Max(MinFogArrivalTime,total/Mathf.Min(Speed)+CleanRunMargin);
+        MeasureArena();
         var data=Resources.Load<TextAsset>("codex");
         if(data)
         {
@@ -111,17 +107,17 @@ public partial class RiftorynTrial : MonoBehaviour
     void BuildWorld(){world=new GameObject("Riftoryn | Labirynt");runnerRoot=new GameObject("Runnerzy");slotRoot=new GameObject("Pola budowy");fogRoot=new GameObject("Mgła");
       Cube("Fundament",new Vector3(3,-.35f,0),new Vector3(130,.5f,130),new Color(.065f,.055f,.10f),world.transform);
       // One world-aligned surface avoids overlapping coplanar road pieces at turns.
-      floorTexture=MakeFloorTexture();floorMaterial=Mat(new Color(.26f,.24f,.30f));floorMaterial.mainTexture=floorTexture;floorMaterial.mainTextureScale=new Vector2(25,25);if(floorMaterial.HasProperty("_Glossiness"))floorMaterial.SetFloat("_Glossiness",0f);
+      floorTexture=MakeFloorTexture();floorMaterial=Mat(ArenaFloorColor());floorMaterial.mainTexture=floorTexture;floorMaterial.mainTextureScale=new Vector2(25,25);if(floorMaterial.HasProperty("_Glossiness"))floorMaterial.SetFloat("_Glossiness",0f);
       var floor=GameObject.CreatePrimitive(PrimitiveType.Cube);floor.name="Kamienna posadzka";floor.transform.SetParent(world.transform);floor.transform.position=new Vector3(3,.02f,0);floor.transform.localScale=new Vector3(130,.15f,130);floor.GetComponent<Renderer>().sharedMaterial=floorMaterial;Destroy(floor.GetComponent<Collider>());
       // Wider wall tops provide room around towers while the road clearance stays unchanged.
-      wallTexture=MakeWallTexture();const float grid=1.5f;for(float x=-49.5f;x<=55.5f;x+=grid)for(float z=-49.5f;z<=55.5f;z+=grid){Vector3 pos=new(x,0,z);Project(pos,out float d);if(d>RoadHalf+1.1f&&d<RoadHalf+5f){int variant=Mathf.Abs(Mathf.RoundToInt(x/grid)*13+Mathf.RoundToInt(z/grid)*7)%3;Color stone=variant==0?new Color(.25f,.23f,.30f):variant==1?new Color(.29f,.27f,.34f):new Color(.32f,.29f,.36f);var wall=Cube("Mur",pos+Vector3.up*1.4f,new Vector3(grid,2.8f,grid),stone,world.transform);var wallMaterial=wall.GetComponent<Renderer>().sharedMaterial;wallMaterial.mainTexture=wallTexture;if(wallMaterial.HasProperty("_Glossiness"))wallMaterial.SetFloat("_Glossiness",0f);Cube("Korona muru",pos+Vector3.up*2.77f,new Vector3(grid-.04f,.10f,grid-.04f),new Color(.37f,.33f,.41f),world.transform,false);}}
+      wallTexture=MakeWallTexture();const float grid=1.5f;for(float x=-49.5f;x<=55.5f;x+=grid)for(float z=-49.5f;z<=55.5f;z+=grid){Vector3 pos=new(x,0,z);Project(pos,out float d);if(d>RoadHalf+1.1f&&d<RoadHalf+5f){int variant=Mathf.Abs(Mathf.RoundToInt(x/grid)*13+Mathf.RoundToInt(z/grid)*7)%3;Color stone=ArenaWallColor(variant);var wall=Cube("Mur",pos+Vector3.up*1.4f,new Vector3(grid,2.8f,grid),stone,world.transform);var wallMaterial=wall.GetComponent<Renderer>().sharedMaterial;wallMaterial.mainTexture=wallTexture;if(wallMaterial.HasProperty("_Glossiness"))wallMaterial.SetFloat("_Glossiness",0f);Cube("Korona muru",pos+Vector3.up*2.77f,new Vector3(grid-.04f,.10f,grid-.04f),ArenaTrimColor(),world.transform,false);if(activeArena>=0&&variant==0&&Mathf.Abs(Mathf.RoundToInt(x/grid)*17+Mathf.RoundToInt(z/grid)*23)%13==0)ArenaDecoration(pos);}}
       BuildFinishGate();foreach(int segment in new[]{2,6,10})BuildLandmark(segment);BuildDirectionMarks();
       fogMesh=CreateFogMesh();
       fogMaterial=new Material(Resources.Load<Shader>("RiftorynFog"));
       for(float a=0;a<=total;a+=2f){var tile=new GameObject("Mgła");tile.transform.SetParent(fogRoot.transform);tile.transform.position=At(a);tile.AddComponent<MeshFilter>().sharedMesh=fogMesh;var renderer=tile.AddComponent<MeshRenderer>();renderer.sharedMaterial=fogMaterial;renderer.shadowCastingMode=UnityEngine.Rendering.ShadowCastingMode.Off;renderer.receiveShadows=false;tile.SetActive(false);fogTiles.Add(tile);fogDistances.Add(a);}
       slots=new GameObject[SlotMap.Length];for(int i=0;i<slots.Length;i++){var o=GameObject.CreatePrimitive(PrimitiveType.Cylinder);o.name="Pole "+(i+1);o.transform.SetParent(slotRoot.transform);o.transform.position=Slot(i)+Vector3.up*2.9f;o.transform.localScale=new Vector3(1.5f,.05f,1.5f);o.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.67f,.49f,.22f));o.GetComponent<Collider>().isTrigger=true;slots[i]=o;}
-      var portal=GameObject.CreatePrimitive(PrimitiveType.Cylinder);portal.name="META";portal.transform.position=At(total)+Vector3.up*.15f;portal.transform.localScale=new Vector3(3,.12f,3);portal.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.95f,.7f,.23f));Destroy(portal.GetComponent<Collider>());
-      var lightObj=new GameObject("Światło");var light=lightObj.AddComponent<Light>();light.type=LightType.Directional;light.color=new Color(1f,.95f,.88f);light.intensity=1.2f;light.shadows=LightShadows.Soft;light.shadowStrength=.65f;lightObj.transform.rotation=Quaternion.Euler(48,-35,0);RenderSettings.ambientMode=UnityEngine.Rendering.AmbientMode.Trilight;RenderSettings.ambientSkyColor=new Color(.55f,.58f,.68f);RenderSettings.ambientEquatorColor=new Color(.32f,.30f,.38f);RenderSettings.ambientGroundColor=new Color(.14f,.13f,.19f);cam=new GameObject("Kamera").AddComponent<Camera>();cam.tag="MainCamera";cam.clearFlags=CameraClearFlags.SolidColor;cam.backgroundColor=new Color(.085f,.065f,.15f);cam.gameObject.AddComponent<AudioListener>();}
+      var portal=GameObject.CreatePrimitive(PrimitiveType.Cylinder);portal.name="META";portal.transform.SetParent(world.transform);portal.transform.position=At(total)+Vector3.up*.15f;portal.transform.localScale=new Vector3(3,.12f,3);portal.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.95f,.7f,.23f));Destroy(portal.GetComponent<Collider>());
+      var lightObj=new GameObject("Światło");lightObj.transform.SetParent(world.transform);var light=lightObj.AddComponent<Light>();light.type=LightType.Directional;light.color=new Color(1f,.95f,.88f);light.intensity=1.2f;light.shadows=LightShadows.Soft;light.shadowStrength=.65f;lightObj.transform.rotation=Quaternion.Euler(48,-35,0);RenderSettings.ambientMode=UnityEngine.Rendering.AmbientMode.Trilight;RenderSettings.ambientSkyColor=new Color(.55f,.58f,.68f);RenderSettings.ambientEquatorColor=new Color(.32f,.30f,.38f);RenderSettings.ambientGroundColor=new Color(.14f,.13f,.19f);cam=new GameObject("Kamera").AddComponent<Camera>();cam.transform.SetParent(world.transform);cam.tag="MainCamera";cam.clearFlags=CameraClearFlags.SolidColor;cam.backgroundColor=new Color(.085f,.065f,.15f);cam.gameObject.AddComponent<AudioListener>();}
     void BuildFinishGate(){
       Vector3 end=At(total), forward=(P(Map[Map.Length-1])-P(Map[Map.Length-2])).normalized, side=new Vector3(-forward.z,0,forward.x);
       Color stone=new(.29f,.25f,.35f), gold=new(.68f,.49f,.22f), violet=new(.48f,.24f,.72f);
@@ -277,7 +273,8 @@ public partial class RiftorynTrial : MonoBehaviour
         foreach(var slot in slots) slot.SetActive(false);
         foreach(var tower in towers) tower.range.enabled=false;
         cameraRunner=player;
-        cameraYaw=90;
+        Vector3 startDirection=At(Mathf.Min(2f,total))-At(0);
+        cameraYaw=startDirection.sqrMagnitude>.001f?Quaternion.LookRotation(startDirection).eulerAngles.y:90f;
         if(sharedEscape) pitch=18f;
         Capture(!DefenseMode);
     }
@@ -317,6 +314,7 @@ public partial class RiftorynTrial : MonoBehaviour
             trainingAlly=allyChoice;
         }
         StopLan();
+        if(MatchMode&&activeArena>=0) RebuildArena(-1);
         menuOpen=true;
         mode=TrialMode.Training;
         selectedHero=trainingHero;
