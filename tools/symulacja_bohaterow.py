@@ -220,6 +220,56 @@ def evaluate(team, seeds, *, towers_count=10, step=.5, layout='losowy', basic_at
             'mean_time_s': sum(r['time_s'] for r in results)/len(results)}
 
 
+def compare_teamwork(records):
+    """Porównanie zmian piątego bohatera przy tej samej czwórce sojuszników.
+
+    Każdy rekord mapuje identyfikator na średnią szansę dotarcia do mety.
+    Wkład mierzy różnicę przeżywalności *pozostałych*, nie badanego bohatera.
+    """
+    groups = {}
+    for record in records:
+        for candidate in record:
+            base = tuple(sorted(key for key in record if key != candidate))
+            if len(base) != 4:
+                raise ValueError('Analiza wymaga składów pięcioosobowych.')
+            companion_rate = sum(record[key] for key in base)/4
+            groups.setdefault(base, []).append((candidate, companion_rate, record[candidate]))
+    total = {}
+    for variants in groups.values():
+        if len(variants) < 2:
+            continue
+        pooled = sum(item[1] for item in variants)
+        for hero, rate, own_rate in variants:
+            stats = total.setdefault(hero, {'id': hero, 'contexts': 0, 'delta_sum': 0,
+                                            'companions_sum': 0, 'self_sum': 0})
+            stats['contexts'] += 1
+            stats['delta_sum'] += rate-(pooled-rate)/(len(variants)-1)
+            stats['companions_sum'] += rate
+            stats['self_sum'] += own_rate
+    result = []
+    for stats in total.values():
+        count = stats['contexts']
+        result.append({'id': stats['id'], 'contexts': count,
+                       'delta_pp': 100*stats['delta_sum']/count,
+                       'companions_arrived_pct': 100*stats['companions_sum']/count,
+                       'self_arrived_pct': 100*stats['self_sum']/count})
+    return sorted(result, key=lambda row: (row['delta_pp'], row['id']))
+
+
+def evaluate_teamwork(roster, seeds, **options):
+    if len(roster) < 6 or not seeds:
+        raise ValueError('Potrzeba co najmniej sześciu bohaterów i jednego seeda.')
+    records = []
+    for team in itertools.combinations(roster.values(), 5):
+        counts = {hero['id']: 0 for hero in team}
+        for seed in seeds:
+            result = simulate(team, seed, **options)
+            for hero, member in result['members'].items():
+                counts[hero] += int(member['arrived'])
+        records.append({hero: count/len(seeds) for hero, count in counts.items()})
+    return compare_teamwork(records)
+
+
 def positive_int(value):
     result = int(value)
     if result <= 0:
@@ -230,7 +280,7 @@ def positive_int(value):
 def main(argv=None):
     parser = argparse.ArgumentParser(description='Uproszczona symulacja 1D, nie test Unity.')
     sub = parser.add_subparsers(dest='command', required=True)
-    for name in ('wszystkie', 'bohater', 'druzyna'):
+    for name in ('wszystkie', 'bohater', 'druzyna', 'teamwork'):
         command = sub.add_parser(name)
         command.add_argument('--proby', type=positive_int, default=3, help='Liczba identycznych seedów map dla każdego składu (domyślnie 3)')
         command.add_argument('--seed', type=int, default=0)
@@ -259,35 +309,50 @@ def main(argv=None):
         if unknown or len(ids) != len(set(ids)) or len(ids) > 5:
             parser.error(f'Nieprawidłowy skład: nieznane={unknown}, bez duplikatów, 1–5 osób.')
         teams = [[roster[i] for i in ids]]
-    else:
+    elif args.command != 'teamwork':
         teams = itertools.combinations(roster.values(), 5)
     seeds = list(range(args.seed, args.seed+args.proby))
-    results = [evaluate(team, seeds, towers_count=args.wieze, step=args.krok,
-                        layout=args.uklad, basic_attack=args.atak) for team in teams]
-    # Czas szybszej porażki nie może poprawiać pozycji w rankingu.
-    results.sort(key=lambda x: (-x['mean_arrived'], -x['all_arrived_pct'],
-                                x['mean_time_s'] if x['all_arrived_pct'] == 100 else 0,
-                                x['members']))
+    options = dict(towers_count=args.wieze, step=args.krok, layout=args.uklad, basic_attack=args.atak)
+    if args.command == 'teamwork':
+        results = evaluate_teamwork(roster, seeds, **options)
+    else:
+        results = [evaluate(team, seeds, **options) for team in teams]
+        # Czas szybszej porażki nie może poprawiać pozycji w rankingu.
+        results.sort(key=lambda x: (-x['mean_arrived'], -x['all_arrived_pct'],
+                                    x['mean_time_s'] if x['all_arrived_pct'] == 100 else 0,
+                                    x['members']))
     digest = hashlib.sha256()
     for path in sorted(DATA.glob('*.json')):
         digest.update(path.name.encode())
         digest.update(path.read_bytes())
     print('MODEL 1D — NIE wynik Unity ani ocena pełnych zestawów Q/E/R')
     print(f'Wieże: {args.wieze}; układ: {args.uklad}; krok: {args.krok} s; atak podstawowy: {"tak" if args.atak else "nie"}')
-    print(f"Składów: {len(results)}; prób na skład: {len(seeds)}; seedy: {seeds}; SHA256 danych: {digest.hexdigest()}")
-    for i, result in enumerate(results[:10], 1):
-        print(f"{i:2}. {result['members']}: średnio {result['mean_arrived']:.2f} na mecie, "
-              f"wszyscy {result['all_arrived_pct']:.1f}%, czas {result['mean_time_s']:.1f} s")
+    print(f"Wierszy: {len(results)}; prób na skład: {len(seeds)}; seedy: {seeds}; SHA256 danych: {digest.hexdigest()}")
+    if args.command == 'teamwork':
+        print('Od najniższego wpływu na przeżywalność pozostałych czterech:')
+        for i, result in enumerate(results, 1):
+            print(f"{i:2}. {result['id']}: wpływ {result['delta_pp']:+.2f} pp, "
+                  f"sojusznicy {result['companions_arrived_pct']:.1f}%, "
+                  f"sam bohater {result['self_arrived_pct']:.1f}%, czwórek {result['contexts']}")
+    else:
+        for i, result in enumerate(results[:10], 1):
+            print(f"{i:2}. {result['members']}: średnio {result['mean_arrived']:.2f} na mecie, "
+                  f"wszyscy {result['all_arrived_pct']:.1f}%, czas {result['mean_time_s']:.1f} s")
     if args.csv:
         args.csv.parent.mkdir(parents=True, exist_ok=True)
         with args.csv.open('w', newline='', encoding='utf-8-sig') as f:
-            writer = csv.DictWriter(f, fieldnames=['members', 'runs', 'mean_arrived', 'all_arrived_pct', 'mean_time_s'])
+            fields = (['id', 'contexts', 'delta_pp', 'companions_arrived_pct', 'self_arrived_pct']
+                      if args.command == 'teamwork' else
+                      ['members', 'runs', 'mean_arrived', 'all_arrived_pct', 'mean_time_s'])
+            writer = csv.DictWriter(f, fieldnames=fields)
             writer.writeheader()
             writer.writerows(results)
-        metadata = {'model': '1d-v2', 'data_sha256': digest.hexdigest(),
+        metadata = {'model': '1d-v2', 'analysis': args.command, 'data_sha256': digest.hexdigest(),
                     'towers_count': args.wieze, 'layout': args.uklad, 'step_s': args.krok,
                     'basic_attack': args.atak,
-                    'seeds': seeds, 'team_count': len(results), 'coverage':
+                    'seeds': seeds, 'output_rows': len(results),
+                    'evaluated_teams': (len(roster)*(len(roster)-1)*(len(roster)-2)*(len(roster)-3)*(len(roster)-4)//120
+                                        if args.command == 'teamwork' else len(results)), 'coverage':
                     {hero: sorted(IMPLEMENTED.get(hero, ())) for hero in roster}}
         metadata_path = Path(str(args.csv)+'.meta.json')
         metadata_path.write_text(json.dumps(metadata, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')

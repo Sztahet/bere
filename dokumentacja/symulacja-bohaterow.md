@@ -14,6 +14,9 @@ python tools/symulacja_bohaterow.py wszystkie --proby 3 --seed 0 --wieze 10 --cs
 python tools/symulacja_bohaterow.py druzyna kael nera zet koneva sarna --proby 20 --seed 100
 python tools/symulacja_bohaterow.py bohater miko --proby 20 --seed 100
 
+# Kto pomaga pozostałym: porównanie każdej postaci z innymi przy tej samej czwórce
+python tools/symulacja_bohaterow.py teamwork --proby 10 --wieze 10 --seed 100 --csv riftoryn-unity/Temp/analiza-teamwork.csv
+
 # Trudniejsze skupiska wież i eksperymentalny atak podstawowy
 python tools/symulacja_bohaterow.py druzyna kael nera zet koneva sarna --wieze 12 --uklad skupiska --atak --krok 0.25 --proby 10
 
@@ -42,3 +45,13 @@ python -m unittest tests/test_symulacja_bohaterow.py tests/test_hero_design_data
 `mean_arrived` to średnia liczba osób na mecie; `all_arrived_pct` to odsetek prób z całą drużyną na mecie. `mean_time_s` to średni czas **do zakończenia symulacji**, także w przypadku śmierci lub limitu, a nie średni czas zwycięstw. Sortowanie uwzględnia czas tylko przy 100% pełnych sukcesów. Trzy seedy nie dają wiarygodnych wniosków statystycznych. Małe różnice rankingu i przewaga szybkości mogą wynikać z założeń modelu.
 
 Przy porównywaniu zmian używaj tych samych seedów i sprawdzaj hash danych, a następnie powtórz badanie na większym zestawie seedów. Żeby ocenić rzeczywisty balans, potrzebna jest implementacja brakujących umiejętności i towarzyszy w Unity oraz testy z realnymi mapami, kolizją, AI i graczami.
+
+## Kto jest pomocnym członkiem drużyny
+
+Polecenie `teamwork` analizuje całą pulę składów pięcioosobowych. Dla każdej czwórki porównuje wynik tych samych czterech osób po dodaniu kolejno każdej możliwej piątej postaci; wszyscy otrzymują ten sam zestaw seedów. Przy 16 bohaterach powstaje 4368 składów i 1365 porównywanych czwórek na postać. Każdy wynik uwzględnia wskazaną liczbę prób na skład.
+
+- `companions_arrived_pct`: jak często czterech **pozostałych** bohaterów dociera do mety w obecności danej postaci, uśrednione po czwórkach i seedach.
+- `delta_pp`: różnica w punktach procentowych między tym wynikiem a średnią wyników tej samej czwórki z każdym innym dozwolonym piątym bohaterem, następnie uśredniona po czwórkach. Liczba ujemna oznacza mniej ocalałych sojuszników niż średnia zastępstw w tym modelu; dodatnia — więcej. Własne przeżycie badanej postaci nie jest wliczane do tej miary.
+- `self_arrived_pct`: osobno szansa samej badanej postaci na dotarcie do mety. `contexts` to liczba czwórek, nie liczba niezależnych prób.
+
+Ten pomiar wyłapuje również odciąganie ostrzału i niszczenie wież, nie tylko bezpośrednie leczenie. Nie jest jednak pełnym wkładem w zwycięstwo: pomija m.in. czas, własne dotarcie postaci w głównym wskaźniku i wszystkie zachowania poza modelem. Zmiana składu może też zmienić kolejność losowań celów lub sabotażu mimo tego samego seeda. Wyniki z kilkunastu seedów są wstępnym sygnałem, nie miarą istotności statystycznej. Przywoływaczy i inne postacie bez modelowanych zdolności nie wolno na ich podstawie uznawać za słabych w grze.

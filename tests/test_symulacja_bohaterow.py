@@ -93,6 +93,24 @@ class SimulationTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             sim.simulate([self.roster['kael']], step=.3)
 
+    def test_teamwork_compares_same_four_without_counting_focal_hero(self):
+        records = [
+            {'a': 1, 'b': 1, 'c': 1, 'd': 1, 'e': 0},
+            {'a': 0, 'b': 0, 'c': 0, 'd': 0, 'f': 1},
+        ]
+        result = {row['id']: row for row in sim.compare_teamwork(records)}
+        self.assertEqual(result['e']['delta_pp'], 100)
+        self.assertEqual(result['f']['delta_pp'], -100)
+        self.assertEqual(result['e']['self_arrived_pct'], 0)
+        self.assertEqual(result['f']['self_arrived_pct'], 100)
+        self.assertEqual(result['e']['contexts'], 1)
+
+    def test_teamwork_requires_replacements(self):
+        with self.assertRaises(ValueError):
+            sim.evaluate_teamwork(dict(list(self.roster.items())[:5]), [0])
+        with self.assertRaises(ValueError):
+            sim.evaluate_teamwork(self.roster, [])
+
 
 if __name__ == '__main__':
     unittest.main()
