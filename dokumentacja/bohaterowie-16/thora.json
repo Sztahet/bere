@@ -1,0 +1,61 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "thora",
+  "nazwa": "Thora",
+  "rola": "tank",
+  "zywiol": "natura",
+  "statystyki": {
+    "hp": 165,
+    "predkosc_m_s": 4.1,
+    "atak_podstawowy": 14,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Żywotne korzenie",
+    "odnowienie_s": 0,
+    "cel": "wlasny",
+    "opis": "Otrzymuje o 15% silniejsze leczenie.",
+    "parametry": {
+      "premia_leczenia_procent": 15
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Żywa ostoja",
+      "odnowienie_s": 22,
+      "cel": "obszar_wokol_siebie",
+      "opis": "Przez 5 s leczy żywych sojuszników w promieniu 4 m po 7 HP co sekundę.",
+      "parametry": {
+        "promien_m": 4,
+        "czas_s": 5,
+        "leczenie_na_sekunde": 7
+      }
+    },
+    "E": {
+      "nazwa": "Korzenna osłona",
+      "odnowienie_s": 18,
+      "cel": "wlasny",
+      "opis": "Daje 60 osłony sobie; przez 4 s spowolnienia są o połowę słabsze.",
+      "parametry": {
+        "oslona": 60,
+        "czas_s": 4,
+        "redukcja_spowolnienia_procent": 50
+      }
+    },
+    "R": {
+      "nazwa": "Ostoja doliny",
+      "odnowienie_s": 38,
+      "cel": "obszar_wokol_siebie",
+      "opis": "Tworzy nieruchomą strefę o promieniu 5 m na 5 s; sojusznicy otrzymują w niej o 25% mniej obrażeń od pocisków.",
+      "parametry": {
+        "promien_m": 5,
+        "czas_s": 5,
+        "redukcja_procent": 25
+      }
+    }
+  },
+  "towarzysz": null,
+  "status_unity": "projekt"
+}

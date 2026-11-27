@@ -1,0 +1,65 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "lumen",
+  "nazwa": "Lumen",
+  "rola": "przywolywacz",
+  "zywiol": "swiatlo",
+  "statystyki": {
+    "hp": 60,
+    "predkosc_m_s": 5.3,
+    "atak_podstawowy": 8,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Uważna obserwatorka",
+    "odnowienie_s": 0,
+    "cel": "druzyna",
+    "opis": "Cele wykryte przez Lumen pozostają widoczne 1 s dłużej; pasywka sama nie odkrywa wież.",
+    "parametry": {
+      "dodatkowy_czas_s": 1
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Bariera Blasku",
+      "odnowienie_s": 20,
+      "cel": "najblizszy_sojusznik",
+      "opis": "Blask daje 50 osłony najbliższemu sojusznikowi w 8 m.",
+      "parametry": {
+        "zasieg_m": 8,
+        "oslona": 50
+      }
+    },
+    "E": {
+      "nazwa": "Świetlny zwiad",
+      "odnowienie_s": 18,
+      "cel": "przed_soba",
+      "opis": "Blask odkrywa najbliższą ukrytą wieżę do 50 m przed Lumen; jej zasięg jest widoczny 5 s.",
+      "parametry": {
+        "zasieg_trasy_m": 50,
+        "czas_podgladu_s": 5
+      }
+    },
+    "R": {
+      "nazwa": "Droga światła",
+      "odnowienie_s": 36,
+      "cel": "towarzysz_i_sojusznicy",
+      "opis": "Przez 5 s sojusznicy w promieniu 5 m od Blasku otrzymują 15% premii prędkości i 15% mniej obrażeń od pocisków.",
+      "parametry": {
+        "promien_m": 5,
+        "czas_s": 5,
+        "premia_predkosci_procent": 15,
+        "redukcja_obrazen_procent": 15
+      }
+    }
+  },
+  "towarzysz": {
+    "nazwa": "Blask",
+    "hp": 95,
+    "predkosc_m_s": 5.0,
+    "atak_podstawowy": 8
+  },
+  "status_unity": "projekt"
+}

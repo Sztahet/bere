@@ -1,0 +1,59 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "sarna",
+  "nazwa": "Sarna",
+  "rola": "wsparcie",
+  "zywiol": "natura",
+  "statystyki": {
+    "hp": 115,
+    "predkosc_m_s": 4.9,
+    "atak_podstawowy": 10,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Pewny krok",
+    "odnowienie_s": 0,
+    "cel": "wlasny",
+    "opis": "Spowolnienie lodu trwa 1,5 s zamiast 2 s.",
+    "parametry": {
+      "czas_lodu_s": 1.5
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Korzenie szlaku",
+      "odnowienie_s": 18,
+      "cel": "wlasny_i_najblizszy_sojusznik",
+      "opis": "Daje sobie i najbliższemu sojusznikowi w 8 m 20% prędkości przez 3 s.",
+      "parametry": {
+        "zasieg_m": 8,
+        "premia_predkosci_procent": 20,
+        "czas_s": 3
+      }
+    },
+    "E": {
+      "nazwa": "Żywe wiązanie",
+      "odnowienie_s": 16,
+      "cel": "najblizszy_sojusznik",
+      "opis": "Przywraca 25 HP rannemu sojusznikowi w 8 m.",
+      "parametry": {
+        "zasieg_m": 8,
+        "leczenie": 25
+      }
+    },
+    "R": {
+      "nazwa": "Oddech wytchnienia",
+      "odnowienie_s": 32,
+      "cel": "wlasny_i_najblizszy_sojusznik",
+      "opis": "Usuwa spowolnienie lodu i korzenie u siebie i najbliższego sojusznika w 8 m; daje odporność na lód przez 3 s.",
+      "parametry": {
+        "zasieg_m": 8,
+        "czas_s": 3
+      }
+    }
+  },
+  "towarzysz": null,
+  "status_unity": "QER_w_prototypie"
+}

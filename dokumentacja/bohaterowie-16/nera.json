@@ -1,0 +1,63 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "nera",
+  "nazwa": "Nera",
+  "rola": "wsparcie",
+  "zywiol": "blyskawice",
+  "statystyki": {
+    "hp": 110,
+    "predkosc_m_s": 5.0,
+    "atak_podstawowy": 10,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Podtrzymanie",
+    "odnowienie_s": 0,
+    "cel": "najblizszy_sojusznik",
+    "opis": "Osłona najbliższego sojusznika w 8 m zanika 6% zamiast 10% aktualnej wartości na sekundę.",
+    "parametry": {
+      "zasieg_m": 8,
+      "zanik_procent_na_sekunde": 6
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Iskra wsparcia",
+      "odnowienie_s": 20,
+      "cel": "wlasny_i_najblizszy_sojusznik",
+      "opis": "Daje sobie 35 osłony i najbliższemu sojusznikowi w 8 m 65 osłony.",
+      "parametry": {
+        "oslona_wlasna": 35,
+        "oslona_sojusznika": 65,
+        "zasieg_m": 8
+      }
+    },
+    "E": {
+      "nazwa": "Uziemienie",
+      "odnowienie_s": 14,
+      "cel": "najblizszy_sojusznik",
+      "opis": "Przez 5 s blokuje pierwszy status ognia, lodu lub natury od pocisku u najbliższego sojusznika w 8 m.",
+      "parametry": {
+        "czas_s": 5,
+        "zasieg_m": 8,
+        "liczba_statusow": 1
+      }
+    },
+    "R": {
+      "nazwa": "Awaryjna rezerwa",
+      "odnowienie_s": 32,
+      "cel": "najblizszy_sojusznik",
+      "opis": "Przez 6 s daje 60 osłony, gdy trafienie sprowadzi HP sojusznika do 30% lub mniej; jeśli już jest poniżej progu, osłona działa natychmiast.",
+      "parametry": {
+        "czas_s": 6,
+        "prog_hp_procent": 30,
+        "oslona": 60,
+        "zasieg_m": 8
+      }
+    }
+  },
+  "towarzysz": null,
+  "status_unity": "QER_w_prototypie"
+}

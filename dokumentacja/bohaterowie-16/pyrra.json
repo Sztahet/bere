@@ -1,0 +1,66 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "pyrra",
+  "nazwa": "Pyrra",
+  "rola": "przywolywacz",
+  "zywiol": "ogien",
+  "statystyki": {
+    "hp": 60,
+    "predkosc_m_s": 5.2,
+    "atak_podstawowy": 8,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Żar pod kontrolą",
+    "odnowienie_s": 0,
+    "cel": "wlasny",
+    "opis": "Po otrzymaniu obrażeń Ognia chroni przed nowym podpaleniem przez 3 s; odnowienie 10 s.",
+    "parametry": {
+      "czas_s": 3,
+      "odnowienie_wewnetrzne_s": 10
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Iskra na pomoc",
+      "odnowienie_s": 20,
+      "cel": "towarzysz",
+      "opis": "Iskra przez 4 s podąża blisko Pyrry i przejmuje pierwszy pocisk wymierzony w nią.",
+      "parametry": {
+        "czas_s": 4,
+        "maks_pociskow": 1
+      }
+    },
+    "E": {
+      "nazwa": "Żarowy trop",
+      "odnowienie_s": 18,
+      "cel": "towarzysz",
+      "opis": "Iskra tworzy strefę o promieniu 3 m na 4 s; odkryte wieże w niej strzelają o 25% wolniej.",
+      "parametry": {
+        "promien_m": 3,
+        "czas_s": 4,
+        "spowolnienie_ataku_procent": 25
+      }
+    },
+    "R": {
+      "nazwa": "Płomienna osłona",
+      "odnowienie_s": 34,
+      "cel": "towarzysz_i_sojusznicy",
+      "opis": "Iskra przez 5 s osłania najbliższego sojusznika w 8 m i przejmuje do 2 pocisków.",
+      "parametry": {
+        "zasieg_m": 8,
+        "czas_s": 5,
+        "maks_pociskow": 2
+      }
+    }
+  },
+  "towarzysz": {
+    "nazwa": "Iskra",
+    "hp": 65,
+    "predkosc_m_s": 6.0,
+    "atak_podstawowy": 12
+  },
+  "status_unity": "Q_tymczasowe"
+}

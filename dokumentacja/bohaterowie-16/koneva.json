@@ -1,0 +1,66 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "koneva",
+  "nazwa": "Koneva",
+  "rola": "przywolywacz",
+  "zywiol": "ciemnosc",
+  "statystyki": {
+    "hp": 60,
+    "predkosc_m_s": 5.3,
+    "atak_podstawowy": 8,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Zwinny unik",
+    "odnowienie_s": 0,
+    "cel": "wlasny",
+    "opis": "Po uniknięciu trafienia zyskuje 20% prędkości przez 2 s.",
+    "parametry": {
+      "premia_predkosci_procent": 20,
+      "czas_s": 2
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Manewr Patki",
+      "odnowienie_s": 20,
+      "cel": "towarzysz",
+      "opis": "Patka przez 4 s odciąga ostrzał; w locie ma 75% szansy uniknąć trafienia.",
+      "parametry": {
+        "czas_s": 4,
+        "szansa_uniku_procent": 75
+      }
+    },
+    "E": {
+      "nazwa": "Powrót Patki",
+      "odnowienie_s": 18,
+      "cel": "towarzysz",
+      "opis": "Odwołuje Patkę; w pobliżu, poza ostrzałem i mgłą, leczy ją o 6 HP/s przez maksymalnie 5 s.",
+      "parametry": {
+        "czas_s": 5,
+        "leczenie_na_sekunde": 6,
+        "zasieg_m": 3.5
+      }
+    },
+    "R": {
+      "nazwa": "Osłona z powietrza",
+      "odnowienie_s": 30,
+      "cel": "najblizszy_sojusznik",
+      "opis": "Patka leci do najbliższego sojusznika w 10 m i przez 5 s może przejąć jeden jego pocisk.",
+      "parametry": {
+        "zasieg_m": 10,
+        "czas_s": 5,
+        "maks_pociskow": 1
+      }
+    }
+  },
+  "towarzysz": {
+    "nazwa": "Patka",
+    "hp": 50,
+    "predkosc_m_s": 6.5,
+    "atak_podstawowy": 10
+  },
+  "status_unity": "QER_w_prototypie"
+}

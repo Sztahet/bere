@@ -1,0 +1,61 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "kael",
+  "nazwa": "Kael",
+  "rola": "tank",
+  "zywiol": "ogien",
+  "statystyki": {
+    "hp": 170,
+    "predkosc_m_s": 4.4,
+    "atak_podstawowy": 14,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Hartowanie",
+    "odnowienie_s": 0,
+    "cel": "wlasny",
+    "opis": "Obrażenia okresowe są mniejsze o 20%.",
+    "parametry": {
+      "redukcja_procent": 20
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Żarowa bariera",
+      "odnowienie_s": 22,
+      "cel": "wlasny_i_najblizszy_sojusznik",
+      "opis": "Daje 100 osłony sobie i 50 najbliższemu sojusznikowi w 9 m.",
+      "parametry": {
+        "zasieg_m": 9,
+        "oslona_wlasna": 100,
+        "oslona_sojusznika": 50
+      }
+    },
+    "E": {
+      "nazwa": "Przejęcie ostrzału",
+      "odnowienie_s": 16,
+      "cel": "widoczna_wieza",
+      "opis": "Przekierowuje najbliższy strzał wybranej wieży na Kael; próba wygasa po 4 s.",
+      "parametry": {
+        "czas_s": 4,
+        "zasieg": "zasieg_wiezy"
+      }
+    },
+    "R": {
+      "nazwa": "Kurtyna żaru",
+      "odnowienie_s": 36,
+      "cel": "przed_soba",
+      "opis": "Tworzy nieruchomą kurtynę 4 × 3 m przez 4 s; zatrzymuje maksymalnie 3 pociski.",
+      "parametry": {
+        "szerokosc_m": 4,
+        "wysokosc_m": 3,
+        "czas_s": 4,
+        "maks_pociskow": 3
+      }
+    }
+  },
+  "towarzysz": null,
+  "status_unity": "QER_w_prototypie"
+}

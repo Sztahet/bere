@@ -1,0 +1,59 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "zet",
+  "nazwa": "Zet",
+  "rola": "specjalista",
+  "zywiol": "blyskawice",
+  "statystyki": {
+    "hp": 100,
+    "predkosc_m_s": 5.6,
+    "atak_podstawowy": 20,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Iskra manewru",
+    "odnowienie_s": 0,
+    "cel": "wlasny",
+    "opis": "Po użyciu Q daje 15% prędkości przez 2 s.",
+    "parametry": {
+      "premia_predkosci_procent": 15,
+      "czas_s": 2
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Elektroimpuls",
+      "odnowienie_s": 18,
+      "cel": "widoczna_wieza",
+      "opis": "Wyłącza odkrytą wieżę w 17,4 m na 2 s.",
+      "parametry": {
+        "zasieg_m": 17.4,
+        "wylaczenie_s": 2
+      }
+    },
+    "E": {
+      "nazwa": "Odczyt obwodu",
+      "odnowienie_s": 16,
+      "cel": "wieza_przed_druzyna",
+      "opis": "Odkrywa najbliższą ukrytą wieżę do 85 m przed prowadzącym bohaterem; pokazuje zasięg na 6 s.",
+      "parametry": {
+        "zasieg_trasy_m": 85,
+        "czas_podgladu_s": 6
+      }
+    },
+    "R": {
+      "nazwa": "Przeskok",
+      "odnowienie_s": 26,
+      "cel": "kierunek_ruchu",
+      "opis": "Zwiększa prędkość do 180% przez 1,2 s; zderzenia i obrażenia pozostają aktywne.",
+      "parametry": {
+        "predkosc_procent": 180,
+        "czas_s": 1.2
+      }
+    }
+  },
+  "towarzysz": null,
+  "status_unity": "QER_w_prototypie"
+}

@@ -1,0 +1,61 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "brom",
+  "nazwa": "Brom",
+  "rola": "tank",
+  "zywiol": "ziemia",
+  "statystyki": {
+    "hp": 180,
+    "predkosc_m_s": 4.0,
+    "atak_podstawowy": 14,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Kamienny pancerz",
+    "odnowienie_s": 0,
+    "cel": "wlasny",
+    "opis": "Otrzymuje o 10% mniej obrażeń od bezpośrednich trafień.",
+    "parametry": {
+      "redukcja_procent": 10
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Mur tarcz",
+      "odnowienie_s": 20,
+      "cel": "przed_soba",
+      "opis": "Wystawia nieruchomą tarczę 3 × 2,5 m na 4 s; zatrzymuje do 3 pocisków.",
+      "parametry": {
+        "szerokosc_m": 3,
+        "wysokosc_m": 2.5,
+        "czas_s": 4,
+        "maks_pociskow": 3
+      }
+    },
+    "E": {
+      "nazwa": "Mocny krok",
+      "odnowienie_s": 18,
+      "cel": "wlasny",
+      "opis": "Przez 4 s redukuje otrzymywane obrażenia o 25% i spowolnienia o 50%.",
+      "parametry": {
+        "czas_s": 4,
+        "redukcja_obrazen_procent": 25,
+        "redukcja_spowolnienia_procent": 50
+      }
+    },
+    "R": {
+      "nazwa": "Kamienny bastion",
+      "odnowienie_s": 38,
+      "cel": "obszar_wokol_siebie",
+      "opis": "Daje 50 osłony sobie i każdemu żywemu sojusznikowi w 5 m.",
+      "parametry": {
+        "promien_m": 5,
+        "oslona": 50
+      }
+    }
+  },
+  "towarzysz": null,
+  "status_unity": "projekt"
+}

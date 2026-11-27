@@ -1,0 +1,64 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "ana",
+  "nazwa": "Ana",
+  "rola": "przywolywacz",
+  "zywiol": "natura",
+  "statystyki": {
+    "hp": 60,
+    "predkosc_m_s": 5.1,
+    "atak_podstawowy": 8,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Opiekuńczy dotyk",
+    "odnowienie_s": 0,
+    "cel": "najbardziej_ranny_sojusznik",
+    "opis": "Leczenie Any jest o 15% silniejsze dla sojusznika o najniższym procentowym HP w zasięgu.",
+    "parametry": {
+      "premia_leczenia_procent": 15
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Bambus dla Boba",
+      "odnowienie_s": 18,
+      "cel": "towarzysz",
+      "opis": "Przywraca Bobowi 40 HP, gdy jest w 4 m od Any.",
+      "parametry": {
+        "zasieg_m": 4,
+        "leczenie": 40
+      }
+    },
+    "E": {
+      "nazwa": "Bob osłania",
+      "odnowienie_s": 20,
+      "cel": "towarzysz",
+      "opis": "Bob przez 4 s skupia na sobie ostrzał jednej najbliższej odkrytej wieży w 12 m.",
+      "parametry": {
+        "zasieg_m": 12,
+        "czas_s": 4,
+        "liczba_wiez": 1
+      }
+    },
+    "R": {
+      "nazwa": "Razem przez szlak",
+      "odnowienie_s": 36,
+      "cel": "towarzysz_i_sojusznicy",
+      "opis": "Bob daje 35 osłony każdemu żywemu sojusznikowi w 5 m od siebie i sobie.",
+      "parametry": {
+        "promien_m": 5,
+        "oslona": 35
+      }
+    }
+  },
+  "towarzysz": {
+    "nazwa": "Bob",
+    "hp": 150,
+    "predkosc_m_s": 3.8,
+    "atak_podstawowy": 10
+  },
+  "status_unity": "projekt"
+}

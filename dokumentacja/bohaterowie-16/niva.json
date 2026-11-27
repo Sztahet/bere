@@ -1,0 +1,58 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "niva",
+  "nazwa": "Niva",
+  "rola": "wsparcie",
+  "zywiol": "lod",
+  "statystyki": {
+    "hp": 125,
+    "predkosc_m_s": 4.7,
+    "atak_podstawowy": 10,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Mrozoodporność",
+    "odnowienie_s": 0,
+    "cel": "wlasny",
+    "opis": "Spowolnienia ruchu są o 20% słabsze.",
+    "parametry": {
+      "redukcja_spowolnienia_procent": 20
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Chłodna głowa",
+      "odnowienie_s": 18,
+      "cel": "najblizszy_sojusznik_lub_wlasny",
+      "opis": "Usuwa spowolnienie lodu i daje odporność na nie przez 2 s; jeśli pobliski sojusznik jest spowolniony, wybiera go, w przeciwnym razie siebie.",
+      "parametry": {
+        "zasieg_m": 8,
+        "czas_s": 2
+      }
+    },
+    "E": {
+      "nazwa": "Lodowy opatrunek",
+      "odnowienie_s": 16,
+      "cel": "najblizszy_sojusznik",
+      "opis": "Przywraca 25 HP rannemu sojusznikowi w 8 m.",
+      "parametry": {
+        "zasieg_m": 8,
+        "leczenie": 25
+      }
+    },
+    "R": {
+      "nazwa": "Bezpieczne przejście",
+      "odnowienie_s": 34,
+      "cel": "obszar_wokol_siebie",
+      "opis": "Usuwa spowolnienie lodu u siebie i wszystkich sojuszników w 6 m; zapewnia im odporność na lód przez 3 s.",
+      "parametry": {
+        "promien_m": 6,
+        "czas_s": 3
+      }
+    }
+  },
+  "towarzysz": null,
+  "status_unity": "Q_w_prototypie"
+}

@@ -1,0 +1,60 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "saila",
+  "nazwa": "Saila",
+  "rola": "specjalista",
+  "zywiol": "lod",
+  "statystyki": {
+    "hp": 105,
+    "predkosc_m_s": 5.2,
+    "atak_podstawowy": 20,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Zimny krok",
+    "odnowienie_s": 0,
+    "cel": "wlasny",
+    "opis": "Spowolnienia ruchu są o 15% słabsze.",
+    "parametry": {
+      "redukcja_spowolnienia_procent": 15
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Zamrożenie mechanizmu",
+      "odnowienie_s": 24,
+      "cel": "widoczna_wieza",
+      "opis": "Wyłącza odkrytą wieżę w 17,4 m na 3 s.",
+      "parametry": {
+        "zasieg_m": 17.4,
+        "wylaczenie_s": 3
+      }
+    },
+    "E": {
+      "nazwa": "Szron na lufie",
+      "odnowienie_s": 18,
+      "cel": "widoczna_wieza",
+      "opis": "Spowalnia ostrzał odkrytej wieży w 17,4 m o 35% przez 5 s.",
+      "parametry": {
+        "zasieg_m": 17.4,
+        "spowolnienie_ataku_procent": 35,
+        "czas_s": 5
+      }
+    },
+    "R": {
+      "nazwa": "Pęknięcie lodu",
+      "odnowienie_s": 36,
+      "cel": "obszar_wokol_siebie",
+      "opis": "Zadaje 35 obrażeń i wyłącza odkryte wieże w promieniu 9 m na 2 s.",
+      "parametry": {
+        "promien_m": 9,
+        "obrazenia": 35,
+        "wylaczenie_s": 2
+      }
+    }
+  },
+  "towarzysz": null,
+  "status_unity": "Q_w_prototypie"
+}

@@ -1,0 +1,61 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "liora",
+  "nazwa": "Liora",
+  "rola": "wsparcie",
+  "zywiol": "natura",
+  "statystyki": {
+    "hp": 120,
+    "predkosc_m_s": 4.8,
+    "atak_podstawowy": 10,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Troska",
+    "odnowienie_s": 0,
+    "cel": "wlasny",
+    "opis": "Leczenie Liory jest o 10% silniejsze; wartości Q/E/R poniżej zawierają tę premię.",
+    "parametry": {
+      "premia_procent": 10
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Pole życia",
+      "odnowienie_s": 20,
+      "cel": "obszar_pod_soba",
+      "opis": "Przez 5 s co sekundę przywraca 11 HP wszystkim żywym sojusznikom w promieniu 4 m.",
+      "parametry": {
+        "promien_m": 4,
+        "czas_s": 5,
+        "leczenie_na_sekunde": 11
+      }
+    },
+    "E": {
+      "nazwa": "Szybki opatrunek",
+      "odnowienie_s": 16,
+      "cel": "najblizszy_sojusznik",
+      "opis": "Przywraca 33 HP rannemu sojusznikowi w 8 m.",
+      "parametry": {
+        "zasieg_m": 8,
+        "leczenie": 33
+      }
+    },
+    "R": {
+      "nazwa": "Odnowa szlaku",
+      "odnowienie_s": 36,
+      "cel": "obszar_wokol_siebie",
+      "opis": "Natychmiast przywraca 22 HP sobie i wszystkim żywym sojusznikom w 6 m, a potem 5,5 HP/s przez 4 s.",
+      "parametry": {
+        "promien_m": 6,
+        "leczenie_poczatkowe": 22,
+        "czas_s": 4,
+        "leczenie_na_sekunde": 5.5
+      }
+    }
+  },
+  "towarzysz": null,
+  "status_unity": "Q_w_prototypie"
+}

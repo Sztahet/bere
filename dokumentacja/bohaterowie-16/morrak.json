@@ -1,0 +1,62 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "morrak",
+  "nazwa": "Morrak",
+  "rola": "tank",
+  "zywiol": "ciemnosc",
+  "statystyki": {
+    "hp": 170,
+    "predkosc_m_s": 4.2,
+    "atak_podstawowy": 14,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Oczy mroku",
+    "odnowienie_s": 0,
+    "cel": "wlasny",
+    "opis": "Efekty ograniczające widoczność trwają o 20% krócej.",
+    "parametry": {
+      "redukcja_czasu_procent": 20
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Gęsty mrok",
+      "odnowienie_s": 22,
+      "cel": "obszar_wokol_siebie",
+      "opis": "Przez 4 s pociski w promieniu 6 m poruszają się o 50% wolniej.",
+      "parametry": {
+        "czas_s": 4,
+        "promien_m": 6,
+        "spowolnienie_pociskow_procent": 50
+      }
+    },
+    "E": {
+      "nazwa": "Cień strażnika",
+      "odnowienie_s": 18,
+      "cel": "wlasny_i_najblizszy_sojusznik",
+      "opis": "Daje 55 osłony sobie i 25 najbliższemu sojusznikowi w 8 m.",
+      "parametry": {
+        "oslona_wlasna": 55,
+        "oslona_sojusznika": 25,
+        "zasieg_m": 8
+      }
+    },
+    "R": {
+      "nazwa": "Zasłona mroku",
+      "odnowienie_s": 36,
+      "cel": "obszar_wokol_siebie",
+      "opis": "Tworzy strefę 5 m na 5 s; pociski wewnątrz są o 35% wolniejsze, a sojusznicy otrzymują o 15% mniej obrażeń od pocisków.",
+      "parametry": {
+        "promien_m": 5,
+        "czas_s": 5,
+        "spowolnienie_pociskow_procent": 35,
+        "redukcja_obrazen_procent": 15
+      }
+    }
+  },
+  "towarzysz": null,
+  "status_unity": "projekt"
+}

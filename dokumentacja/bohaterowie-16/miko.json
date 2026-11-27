@@ -1,0 +1,64 @@
+{
+  "wersja": 1,
+  "status": "projekt_do_testow",
+  "id": "miko",
+  "nazwa": "Miko",
+  "rola": "specjalista",
+  "zywiol": "blyskawice",
+  "statystyki": {
+    "hp": 105,
+    "predkosc_m_s": 5.8,
+    "atak_podstawowy": 20,
+    "zasieg_ataku_m": 7.8,
+    "odnowienie_ataku_s": 1
+  },
+  "pasywna": {
+    "nazwa": "Ładunek burzy",
+    "odnowienie_s": 0,
+    "cel": "wlasny",
+    "opis": "Po trafieniu Błyskawicami losuje premię 0–50% prędkości na 4 s; kolejne trafienie losuje ponownie.",
+    "parametry": {
+      "minimum_procent": 0,
+      "maksimum_procent": 50,
+      "czas_s": 4
+    }
+  },
+  "umiejetnosci": {
+    "Q": {
+      "nazwa": "Szczęśliwy sabotaż",
+      "odnowienie_s": 20,
+      "cel": "widoczna_wieza",
+      "opis": "Losuje równą szansę: wyłączenie na 5 s, zniszczenie, 50% szansy pudła do końca rundy albo 50% szybszy ostrzał przez 5 s.",
+      "parametry": {
+        "zasieg_m": 17.4,
+        "szansa_wyniku_procent": 25,
+        "wylaczenie_s": 5,
+        "szansa_pudla_procent": 50,
+        "premia_ataku_procent": 50,
+        "czas_pecha_s": 5
+      }
+    },
+    "E": {
+      "nazwa": "Pchnięcie szpadą",
+      "odnowienie_s": 12,
+      "cel": "widoczna_wieza",
+      "opis": "Zadaje 20 obrażeń odkrytej wieży w 5 m.",
+      "parametry": {
+        "zasieg_m": 5,
+        "obrazenia": 20
+      }
+    },
+    "R": {
+      "nazwa": "Impuls z cewki",
+      "odnowienie_s": 32,
+      "cel": "obszar_wokol_siebie",
+      "opis": "Wyłącza odkryte wieże w promieniu 9 m na 2,5 s.",
+      "parametry": {
+        "promien_m": 9,
+        "wylaczenie_s": 2.5
+      }
+    }
+  },
+  "towarzysz": null,
+  "status_unity": "QER_w_prototypie"
+}
