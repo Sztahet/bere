@@ -17,7 +17,7 @@ Każdy plik zawiera identyfikator, rolę, żywioł, HP, prędkość, proponowany
 ## Różnice i decyzje do testów
 
 - `hp` i prędkości postaci już grywalnych w Unity pochodzą z `RiftorynTrial.cs`; dla pozostałych punktem wyjścia jest `hero_stats.json`. Wcześniejszy katalog zawiera inne wartości dla części postaci (np. Rian, Saila, Zet). Atak podstawowy i dane brakujących towarzyszy to wartości projektowe z katalogu; nie wszystkie mają dziś działający odpowiednik w meczu.
-- Q/E/R całej szesnastki działa w lokalnym prototypie. Pasywki Any, Lumen i Morraka pozostają w przygotowaniu; Bob i Blask mają uproszczone modele PoC i proceduralny ruch nóg, lecz nie mają pełnej animacji. Nowe zestawy częściowo wczytują parametry z tych plików; wcześniejsze wciąż wymagają migracji i dalszych testów balansu.
+- Q/E/R całej szesnastki działa w lokalnym prototypie. HP, szybkość, atak podstawowy i czas Q gra i symulacja odczytują z tych plików; część parametrów umiejętności nadal jest zapisana w kodzie i wymaga migracji. Pasywki Any, Lumen i Morraka pozostają w przygotowaniu; Bob i Blask mają uproszczone modele PoC i proceduralny ruch nóg, lecz nie mają pełnej animacji. Potrzebne są dalsze testy balansu.
 - W szczególności pełne zniszczenie wieży przez Q Miko i trwała szansa pudła mogą być zbyt mocne. Wymagają testów przeciw losowości i mapom, zanim zostaną uznane za zbalansowane.
 - Wybór najbliższego sojusznika jest obecnym uproszczeniem. Celowanie przez gracza, zachowanie AI, ikony, sygnalizacja zasięgu i stany niedostępności wymagają dalszego wdrożenia.
 - Proponowane współdziałanie przywołań, osłon, obrażeń, blokowania pocisków i wież wymaga implementacji oraz prób 5 na 5. Dokument nie rozstrzyga zmian w opowiadaniach ani biografiach.

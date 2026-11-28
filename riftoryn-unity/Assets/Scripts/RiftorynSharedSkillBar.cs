@@ -96,7 +96,7 @@ public partial class RiftorynTrial
             Rect bounds=new(left+slot*(tile+SkillTileGap),top,tile,tile);
             bool available=slot==0||IsSharedHero(player.hero);
             float remaining=slot==0?player.cooldown:available?SharedCooldownLeft(player,slot==2):0f;
-            float duration=slot==0?Cooldowns[player.hero]:slot==1?cooldowns.secondary:cooldowns.ultimate;
+            float duration=slot==0?HeroBasicCooldown(player.hero):slot==1?cooldowns.secondary:cooldowns.ultimate;
             DrawSharedSkillTile(bounds,accent,slot,remaining,duration,available);
             if(!mouseCaptured&&bounds.Contains(Event.current.mousePosition)) hovered=slot;
         }

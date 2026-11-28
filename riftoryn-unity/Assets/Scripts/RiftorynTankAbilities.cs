@@ -99,6 +99,6 @@ public partial class RiftorynTrial
     {
         if(!IsRunning(target)||amount<=0)return 0;
         if(UsesUnifiedRules&&target.hero==ThoraHero)amount*=1.15f;
-        float restored=Mathf.Min(amount,MaxHp[target.hero]-target.hp);target.hp+=restored;return restored;
+        float restored=Mathf.Min(amount,HeroMaxHp(target.hero)-target.hp);target.hp+=restored;return restored;
     }
 }

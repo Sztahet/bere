@@ -8,14 +8,26 @@ public partial class RiftorynTrial
     SimHero AdditionalHeroDesign(int hero)
     {
         if(additionalHeroDesigns.TryGetValue(hero,out var design))return design;
-        string id=hero switch {1=>"rian",4=>"niva",5=>"liora",ThoraHero=>"thora",BromHero=>"brom",MorrakHero=>"morrak",PyrraHero=>"pyrra",AnaHero=>"ana",LumenHero=>"lumen",_=>throw new System.ArgumentOutOfRangeException(nameof(hero))};
+        if(System.Array.IndexOf(MatchRoster,hero)<0)throw new System.ArgumentOutOfRangeException(nameof(hero));
+        string id=HeroNames[hero].ToLowerInvariant();
         var asset=Resources.Load<TextAsset>("HeroDesign/"+id);
         if(!asset)throw new System.InvalidOperationException("Brak danych bohatera: "+id);
         design=JsonUtility.FromJson<SimHero>(asset.text);
-        if(design?.umiejetnosci?.E?.parametry==null||design.umiejetnosci.R?.parametry==null)
+        if(design?.statystyki==null||design.statystyki.hp<=0||design.statystyki.predkosc_m_s<=0||design.statystyki.zasieg_ataku_m<=0||design.statystyki.odnowienie_ataku_s<=0
+            ||design.umiejetnosci?.Q==null||design.umiejetnosci.E?.parametry==null||design.umiejetnosci.R?.parametry==null)
             throw new System.InvalidOperationException("Niekompletne umiejętności bohatera: "+id);
         additionalHeroDesigns.Add(hero,design);return design;
     }
+
+    // The selected roster and simulation use the same design files. Older
+    // training-only characters retain their historical values as a fallback.
+    SimHero MatchHeroDesign(int hero)=>System.Array.IndexOf(MatchRoster,hero)>=0?AdditionalHeroDesign(hero):null;
+    float HeroMaxHp(int hero)=>MatchHeroDesign(hero)?.statystyki.hp??MaxHp[hero];
+    float HeroSpeed(int hero)=>MatchHeroDesign(hero)?.statystyki.predkosc_m_s??Speed[hero];
+    float HeroBasicCooldown(int hero)=>MatchHeroDesign(hero)?.umiejetnosci.Q.odnowienie_s??Cooldowns[hero];
+    float HeroAttackDamage(int hero)=>MatchHeroDesign(hero)?.statystyki.atak_podstawowy??25f;
+    float HeroAttackRange(int hero)=>MatchHeroDesign(hero)?.statystyki.zasieg_ataku_m??7.8f;
+    float HeroAttackCooldown(int hero)=>MatchHeroDesign(hero)?.statystyki.odnowienie_ataku_s??1f;
 
     (float secondary,float ultimate) NewHeroCooldowns(int hero)
     {
@@ -52,7 +64,7 @@ public partial class RiftorynTrial
         }
         if(!ultimate)
         {
-            Runner target=NearestAllyMatching(runner,p.zasieg_m,r=>r.hp<MaxHp[r.hero]);
+            Runner target=NearestAllyMatching(runner,p.zasieg_m,r=>r.hp<HeroMaxHp(r.hero));
             if(target==null)return false;
             HealAdditionalHero(target,p.leczenie);
             return true;

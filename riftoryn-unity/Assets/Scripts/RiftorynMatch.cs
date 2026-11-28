@@ -32,7 +32,7 @@ public partial class RiftorynTrial
     float MatchAiScore(int hero)
     {
         var candidate=MatchHero(hero);
-        if(candidate==null) return Speed[hero]+MaxHp[hero]*.01f;
+        if(candidate==null) return HeroSpeed(hero)+HeroMaxHp(hero)*.01f;
         int sameRole=0,sameElement=0,availableRole=0,enemyRole=0;
         foreach(int other in matchOpponents)
         {
@@ -58,7 +58,7 @@ public partial class RiftorynTrial
         float scarcity=sameRole==0&&availableRole>0?2f/availableRole:0f;
         float contest=sameRole==0&&enemyRole>0?0.5f:0f;
         float diversity=sameElement==0?1.25f:-.75f*sameElement;
-        return roleScore+scarcity+contest+diversity+Speed[hero]*.4f+MaxHp[hero]*.012f;
+        return roleScore+scarcity+contest+diversity+HeroSpeed(hero)*.4f+HeroMaxHp(hero)*.012f;
     }
 
     void MatchConfirmPick(int hero)
@@ -247,7 +247,7 @@ public partial class RiftorynTrial
         if(matchPreview>=0&&MatchAvailable(matchPreview))
         {
             var data=MatchHero(matchPreview);
-            GUI.Label(new Rect(300,645,1000,34),"Wybór: "+HeroNames[matchPreview]+(data==null?"":" · "+data.role+" · "+data.element)+$" · HP {MaxHp[matchPreview]} · {Speed[matchPreview]:F1} m/s"+(IsSharedHero(matchPreview)?" · Q / E / R":" · tylko Q (E / R w przygotowaniu)"),heading);
+            GUI.Label(new Rect(300,645,1000,34),"Wybór: "+HeroNames[matchPreview]+(data==null?"":" · "+data.role+" · "+data.element)+$" · HP {HeroMaxHp(matchPreview)} · {HeroSpeed(matchPreview):F1} m/s"+(IsSharedHero(matchPreview)?" · Q / E / R":" · tylko Q (E / R w przygotowaniu)"),heading);
         }
         else if(!string.IsNullOrEmpty(matchAiExplanation))
             GUI.Label(new Rect(300,645,1000,34),"Ostatni wybór AI: "+matchAiExplanation,heading);
@@ -304,11 +304,11 @@ public partial class RiftorynTrial
             Color old=GUI.color;GUI.color=runner.done||runner.hp<=0?Color.gray:color;
             GUI.Label(marker,(i+1).ToString(),matchMarkerStyle);GUI.color=old;
             float y=panel.y+27+i*rowHeight;
-            string state=runner.done?"META":runner.hp<=0?"POKONANY":$"{Mathf.CeilToInt(runner.hp)} / {Mathf.CeilToInt(MaxHp[runner.hero])} HP";
+            string state=runner.done?"META":runner.hp<=0?"POKONANY":$"{Mathf.CeilToInt(runner.hp)} / {Mathf.CeilToInt(HeroMaxHp(runner.hero))} HP";
             HudFill(new Rect(panel.x+10,y+2,13,13),color);
             GUI.Label(new Rect(panel.x+14,y+1,13,15),(i+1).ToString(),matchMarkerStyle);
             GUI.Label(new Rect(panel.x+28,y-1,width-35,19),HeroNames[runner.hero]+" · "+state,matchTeamStyle);
-            HealthBar(new Rect(panel.x+28,y+19,width-40,8),runner.hp,MaxHp[runner.hero],color);
+            HealthBar(new Rect(panel.x+28,y+19,width-40,8),runner.hp,HeroMaxHp(runner.hero),color);
         }
     }
 

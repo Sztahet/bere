@@ -68,7 +68,7 @@ public partial class RiftorynTrial
         GUI.Label(new Rect(x,rect.y+10,width,22),HeroNames[runner.hero].ToUpperInvariant(),defenseBattleHeading);
         string state=runner.done?(en?"REACHED EXIT":"NA MECIE"):runner.hp<=0?(en?"DEFEATED":"POKONANY"):(en?"RUNNING":"W DRODZE");
         GUI.Label(new Rect(x,rect.y+32,width,18),state,defenseBattleMuted);
-        float hp=Mathf.Max(0,runner.hp),max=MaxHp[runner.hero];
+        float hp=Mathf.Max(0,runner.hp),max=HeroMaxHp(runner.hero);
         DefenseBattleBar(new Rect(x,rect.y+57,width,9),hp,max,runner.hp<=0?DefenseMuted:accent);
         GUI.Label(new Rect(x,rect.y+70,width,18),$"{Mathf.CeilToInt(hp)} / {Mathf.CeilToInt(max)} HP",defenseBattleText);
         float progress=runner.done?1f:Mathf.Clamp01(Project(runner.obj.transform.position,out _)/total);
@@ -112,7 +112,7 @@ public partial class RiftorynTrial
         HudFill(new Rect(p.x-12,p.y-32,24,24),new Color(.035f,.03f,.05f,.94f));
         HudFill(new Rect(p.x-12,p.y-32,3,24),color);
         GUI.Label(new Rect(p.x-9,p.y-32,21,24),number.ToString(),defenseBattleNumber);
-        DefenseBattleBar(new Rect(p.x-15,p.y-5,30,4),runner.hp,MaxHp[runner.hero],color);
+        DefenseBattleBar(new Rect(p.x-15,p.y-5,30,4),runner.hp,HeroMaxHp(runner.hero),color);
     }
     void DrawDefenseRunnerCardCompact(Runner runner,int number,Rect rect,bool en)
     {
@@ -128,9 +128,9 @@ public partial class RiftorynTrial
         GUI.Label(new Rect(image.x,image.y,16,16),number.ToString(),defenseBattleNumber);
         float x=rect.x+60,width=rect.width-70;
         GUI.Label(new Rect(x,rect.y+5,width,20),HeroNames[runner.hero].ToUpperInvariant(),defenseBattleHeading);
-        string state=runner.done?(en?"REACHED EXIT":"NA MECIE"):runner.hp<=0?(en?"DEFEATED":"POKONANY"):$"{Mathf.CeilToInt(runner.hp)} / {Mathf.CeilToInt(MaxHp[runner.hero])} HP";
+        string state=runner.done?(en?"REACHED EXIT":"NA MECIE"):runner.hp<=0?(en?"DEFEATED":"POKONANY"):$"{Mathf.CeilToInt(runner.hp)} / {Mathf.CeilToInt(HeroMaxHp(runner.hero))} HP";
         GUI.Label(new Rect(x,rect.y+26,width,18),state,defenseBattleText);
-        DefenseBattleBar(new Rect(x,rect.y+49,width,6),runner.hp,MaxHp[runner.hero],color);
+        DefenseBattleBar(new Rect(x,rect.y+49,width,6),runner.hp,HeroMaxHp(runner.hero),color);
         float progress=runner.done?1f:Mathf.Clamp01(Project(runner.obj.transform.position,out _)/total);
         DefenseBattleBar(new Rect(rect.x+9,rect.y+rect.height-7,rect.width-18,3),progress,1,color);
     }
