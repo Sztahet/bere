@@ -153,7 +153,7 @@ public partial class RiftorynTrial
                 if(!IsRunning(runner)) continue;
                 Vector3 center=runner.obj.transform.position+Vector3.up;
                 if(Vector3.Distance(center,impact)<=EarthRadius&&HasLineOfSight(impact,center)) ApplyTowerHit(runner,4,strike.damage,impact);
-                var pet=runner.obj.GetComponentInChildren<RiftorynPatkaPreview>();
+                var pet=runner.obj.GetComponentInChildren<RiftorynCompanion>();
                 if(pet&&pet.IsAlive&&Vector3.Distance(pet.AimPosition,impact)<=EarthRadius&&HasLineOfSight(impact,pet.AimPosition)) pet.ReceiveHit(strike.damage);
             }
             EarthImpact(strike.position);

@@ -11,6 +11,8 @@ public sealed class RiftorynSparkFollower : MonoBehaviour
     public float distanceTravelled { get; private set; }
     public float maxGap { get; private set; }
     public int hitCount { get; private set; }
+    public Transform VisualTransform=>fox?fox.transform:null;
+    public bool companionVisible=true;
     readonly List<Vector3> trail=new();
     readonly Dictionary<Renderer,Material> colors=new();
     readonly Dictionary<Material,Color> baseColors=new();
@@ -53,7 +55,7 @@ public sealed class RiftorynSparkFollower : MonoBehaviour
     void LateUpdate()
     {
         if(!valid||!fox)return;if(!target){Destroy(gameObject);return;}
-        bool active=target.gameObject.activeInHierarchy;if(fox.activeSelf!=active)fox.SetActive(active);if(!active)return;
+        bool active=target.gameObject.activeInHierarchy&&companionVisible;if(fox.activeSelf!=active)fox.SetActive(active);if(!active)return;
         Vector3 now=target.position;float step=Vector3.Distance(now,trail[trail.Count-1]);
         if(step>5f){trail.Clear();trail.Add(now);}else if(step>.025f)trail.Add(now);
         float remaining=followDistance;Vector3 desired=trail[0],tangent=target.forward;

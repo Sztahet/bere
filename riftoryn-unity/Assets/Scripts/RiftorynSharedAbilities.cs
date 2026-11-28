@@ -12,6 +12,9 @@ public partial class RiftorynTrial
         public float secondaryReadyAt, ultimateReadyAt, wardUntil, reserveUntil, surgeUntil, dodgeBoostUntil;
         public float recallUntil, guardUntil, mikoBoostUntil, mikoSpeedBonus, regenerationRemaining, regenerationPerSecond;
         public float tankHealUntil,tankSlowResistUntil,tankDamageResistUntil,morrakSlowUntil;
+        public float summonGuardUntil,lumenAuraUntil,fireWardUntil,fireWardReadyAt;
+        public int summonGuardCharges;
+        public Runner summonGuardTarget;
         public bool rewardedRoll;
         public Runner guardedPartner;
     }
@@ -56,6 +59,7 @@ public partial class RiftorynTrial
         SailaHero=>(18f,36f),
         1 or 4 or 5=>NewHeroCooldowns(hero),
         ThoraHero or BromHero or MorrakHero=>NewHeroCooldowns(hero),
+        PyrraHero or AnaHero or LumenHero=>NewHeroCooldowns(hero),
         _=>(0f,0f)
     };
 
@@ -77,6 +81,7 @@ public partial class RiftorynTrial
             SailaHero=>UseSailaExtra(runner,ultimate,tower),
             1 or 4 or 5=>UseNewHeroAbility(runner,ultimate,tower),
             ThoraHero or BromHero or MorrakHero=>UseTankAbility(runner,ultimate),
+            PyrraHero or AnaHero or LumenHero=>UseSummonerExtra(runner,ultimate,tower),
             _=>false
         };
         if(!cast) return false;
@@ -320,11 +325,12 @@ public partial class RiftorynTrial
         return true;
     }
 
-    bool ScoutSharedTower(Runner runner,Runner partner)
+    bool ScoutSharedTower(Runner runner,Runner partner)=>RevealSharedTowerAhead(runner,partner,ScoutRange,6f);
+    bool RevealSharedTowerAhead(Runner runner,Runner partner,float range,float displayTime)
     {
         float progress=IsRunning(partner)?Mathf.Max(runner.along,partner.along):runner.along;
         Tower next=null;
-        float best=ScoutRange;
+        float best=range;
         foreach(var tower in towers)
         {
             if(tower.discovered||tower.hp<=0) continue;
@@ -336,7 +342,7 @@ public partial class RiftorynTrial
         if(next==null) return false;
         next.discovered=true;
         next.obj.SetActive(true);
-        next.rangeVisibleUntil=elapsed+6f;
+        next.rangeVisibleUntil=elapsed+displayTime;
         next.range.enabled=true;
         return true;
     }
@@ -385,6 +391,7 @@ public partial class RiftorynTrial
     {
         for(int i=heatBarriers.Count-1;i>=0;i--)if(heatBarriers[i].endsAt<=elapsed){DestroySharedBarrier(heatBarriers[i]);heatBarriers.RemoveAt(i);}
         StepTankZones();
+        StepSummonerGuards();
         Runner owner=null;
         foreach(var runner in runners)if(runner!=null&&runner.hero==KonevaHero){owner=runner;break;}
         if(!IsRunning(owner)||owner.kit.guardUntil<=0&&owner.kit.recallUntil<=elapsed) return;
@@ -483,6 +490,17 @@ public partial class RiftorynTrial
             case MorrakHero:
                 if((shotIncoming||partnerIncoming||partnerThreat!=null)&&TryUseSharedAbility(runner,true))return true;
                 return (threat!=null||shotIncoming||partnerThreat!=null)&&TryUseSharedAbility(runner,false);
+            case PyrraHero:
+                if(partnerIncoming&&TryUseSharedAbility(runner,true))return true;
+                return threat!=null&&TryUseSharedAbility(runner,false);
+            case AnaHero:
+                var companion=SummonedPet(runner);
+                if(companion&&companion.IsAlive&&companion.CurrentHp<companion.MaximumHp&&runner.cooldown<=0){Skill(runner);if(runner.cooldown>0)return true;}
+                if((shotIncoming||partnerIncoming)&&TryUseSharedAbility(runner,true))return true;
+                return threat!=null&&TryUseSharedAbility(runner,false,threat);
+            case LumenHero:
+                if((shotIncoming||partnerIncoming||threat!=null)&&TryUseSharedAbility(runner,true))return true;
+                return threat==null&&TryUseSharedAbility(runner,false);
             default:return false;
         }
     }
@@ -544,6 +562,18 @@ public partial class RiftorynTrial
         (MorrakHero,1)=>SkillText("Cień strażnika","Guardian Shadow","Daje sobie 55 osłony i pobliskiemu sojusznikowi 25.","Grants 55 shield to self and 25 to a nearby ally."),
         (MorrakHero,2)=>SkillText("Zasłona mroku","Veil of Darkness","Strefa 5 m przez 5 s spowalnia pociski o 35% i ogranicza ich obrażenia o 15%.","A 5 m zone slows projectiles by 35% and reduces projectile damage by 15% for 5 s."),
         (MorrakHero,3)=>SkillText("Oczy mroku","Eyes of Darkness","Pasywka ograniczająca utratę widoczności wymaga jeszcze systemu takich efektów.","The visibility-impairment passive needs that status system."),
+        (PyrraHero,0)=>SkillText("Iskra na pomoc","Spark to the Rescue","Iskra przez 4 s może przejąć jeden pocisk skierowany w Pyrrę.","Spark can intercept one shot aimed at Pyrra for 4 s."),
+        (PyrraHero,1)=>SkillText("Żarowy trop","Ember Trail","Strefa Iskry spowalnia ostrzał odkrytych wież o 25% przez 4 s.","Spark's zone slows revealed tower fire by 25% for 4 s."),
+        (PyrraHero,2)=>SkillText("Płomienna osłona","Flame Cover","Iskra osłania pobliskiego sojusznika i może przejąć dwa pociski przez 5 s.","Spark covers a nearby ally and can intercept two shots for 5 s."),
+        (PyrraHero,3)=>SkillText("Żar pod kontrolą","Controlled Ember","Po trafieniu Ogniem blokuje nowe podpalenie przez 3 s; odnowienie 10 s.","After a Fire hit, prevents new burns for 3 s; cooldown 10 s."),
+        (AnaHero,0)=>SkillText("Bambus dla Boba","Bamboo for Bob","Przywraca pobliskiemu Bobowi 40 HP.","Restores 40 HP to nearby Bob."),
+        (AnaHero,1)=>SkillText("Bob osłania","Bob Covers","Bob odciąga ogień najbliższej odkrytej wieży przez 4 s.","Bob draws fire from the nearest revealed tower for 4 s."),
+        (AnaHero,2)=>SkillText("Razem przez szlak","Together on the Trail","Bob i sojusznicy w jego pobliżu otrzymują 35 osłony.","Bob and nearby allies gain 35 shield."),
+        (AnaHero,3)=>SkillText("Opiekuńczy dotyk","Caring Touch","Premia do leczenia najbardziej rannego sojusznika wymaga dalszego podłączenia.","The lowest-health ally healing bonus is not yet connected."),
+        (LumenHero,0)=>SkillText("Bariera Blasku","Gleam's Barrier","Blask daje 50 osłony najbliższemu sojusznikowi w 8 m.","Gleam grants 50 shield to the nearest ally within 8 m."),
+        (LumenHero,1)=>SkillText("Świetlny zwiad","Light Scout","Odkrywa najbliższą ukrytą wieżę do 50 m przed drużyną.","Reveals the nearest hidden tower up to 50 m ahead."),
+        (LumenHero,2)=>SkillText("Droga światła","Path of Light","Sojusznicy przy Blasku zyskują prędkość i ochronę przed pociskami przez 5 s.","Allies near Gleam gain speed and projectile protection for 5 s."),
+        (LumenHero,3)=>SkillText("Uważna obserwatorka","Attentive Observer","Premia do czasu wykrycia wymaga docelowego systemu widoczności.","The detection-duration bonus needs the final visibility system."),
         _=>("","")
     };
 
@@ -564,6 +594,9 @@ public partial class RiftorynTrial
         ThoraHero=>RiftorynCodexData.Text("Utrzymuje sojuszników przy życiu i tworzy strefę ochronną.","Sustains allies and creates a protective zone."),
         BromHero=>RiftorynCodexData.Text("Zasłania drużynę i przyjmuje ostrzał.","Shields the team and absorbs tower fire."),
         MorrakHero=>RiftorynCodexData.Text("Spowalnia nadlatujące pociski i chroni sojuszników.","Slows incoming projectiles and protects allies."),
+        PyrraHero=>RiftorynCodexData.Text("Kieruje Iskrą, która osłania drużynę i osłabia wieże.","Directs Spark to protect allies and hinder towers."),
+        AnaHero=>RiftorynCodexData.Text("Opiekuje się Bobem i wykorzystuje go do osłony drużyny.","Keeps Bob healthy and uses him to cover the team."),
+        LumenHero=>RiftorynCodexData.Text("Z Blaskiem odkrywa drogę i wspiera sojuszników.","Scouts and supports allies with Gleam."),
         _=>""
     };
 

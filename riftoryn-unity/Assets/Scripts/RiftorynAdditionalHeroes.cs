@@ -8,7 +8,7 @@ public partial class RiftorynTrial
     SimHero AdditionalHeroDesign(int hero)
     {
         if(additionalHeroDesigns.TryGetValue(hero,out var design))return design;
-        string id=hero switch {1=>"rian",4=>"niva",5=>"liora",ThoraHero=>"thora",BromHero=>"brom",MorrakHero=>"morrak",_=>throw new System.ArgumentOutOfRangeException(nameof(hero))};
+        string id=hero switch {1=>"rian",4=>"niva",5=>"liora",ThoraHero=>"thora",BromHero=>"brom",MorrakHero=>"morrak",PyrraHero=>"pyrra",AnaHero=>"ana",LumenHero=>"lumen",_=>throw new System.ArgumentOutOfRangeException(nameof(hero))};
         var asset=Resources.Load<TextAsset>("HeroDesign/"+id);
         if(!asset)throw new System.InvalidOperationException("Brak danych bohatera: "+id);
         design=JsonUtility.FromJson<SimHero>(asset.text);

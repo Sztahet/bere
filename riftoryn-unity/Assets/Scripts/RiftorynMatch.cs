@@ -4,7 +4,7 @@ using UnityEngine;
 public partial class RiftorynTrial
 {
     // The prototype uses the heroes whose basic trial skills already exist.
-    static readonly int[] MatchRoster={0,1,2,3,4,5,9,10,PyrraHero,12,13,SarnaHero,ThoraHero,BromHero,MorrakHero};
+    static readonly int[] MatchRoster={0,1,2,3,4,5,10,PyrraHero,12,13,SarnaHero,ThoraHero,BromHero,MorrakHero,AnaHero,LumenHero};
     readonly List<int> matchTeam=new(), matchOpponents=new();
     readonly List<Runner> runners=new();
     int matchRound, matchOurArrivals, matchTheirArrivals, matchOurSeed, matchTheirSeed;
@@ -212,7 +212,8 @@ public partial class RiftorynTrial
         if(scale<=0) return;
         GUI.matrix=Matrix4x4.TRS(new Vector3((Screen.width-1600*scale)/2,(Screen.height-900*scale)/2,0),Quaternion.identity,Vector3.one*scale);
         GUI.Box(new Rect(15,15,1570,870),"");
-        GUI.Label(new Rect(40,30,1000,35),"MECZ 5 NA 5 · DRAFT",title);
+        string draftTitle=matchSettings.Opponent?$"MECZ {matchSettings.TeamSize} NA {matchSettings.TeamSize} · DRAFT":$"PRÓBA · DRAFT {matchSettings.TeamSize}";
+        GUI.Label(new Rect(40,30,1000,35),draftTitle,title);
         bool done=matchPickIndex>=MatchPickCount;
         bool playerTurn=!done&&MatchTeamTurn(matchPickIndex);
         string turn=done?"DRAFT ZAKOŃCZONY":playerTurn?"TERAZ WYBIERASZ TY":"TERAZ WYBIERA AI";
@@ -250,7 +251,7 @@ public partial class RiftorynTrial
         }
         else if(!string.IsNullOrEmpty(matchAiExplanation))
             GUI.Label(new Rect(300,645,1000,34),"Ostatni wybór AI: "+matchAiExplanation,heading);
-        GUI.Label(new Rect(300,690,1020,42),matchPreview==PyrraHero?"Pyrra · Q: Iskra chroni przed jednym trafieniem wieży przez 5 s. Umiejętność testowa.":matchPreview==SarnaHero?"Sarna · Q: przyspiesza Sarnę i pobliskiego sojusznika na 3 s.":"AI dobiera brakujące role, różne żywioły oraz wytrzymałość i szybkość. Pierwszym wybranym bohaterem sterujesz Ty.",small);
+        GUI.Label(new Rect(300,690,1020,42),matchPreview==PyrraHero?"Pyrra · Q: Iskra może przejąć jeden pocisk przez 4 s.":matchPreview==SarnaHero?"Sarna · Q: przyspiesza Sarnę i pobliskiego sojusznika na 3 s.":"AI dobiera brakujące role, różne żywioły oraz wytrzymałość i szybkość. Pierwszym wybranym bohaterem sterujesz Ty.",small);
         GUI.enabled=playerTurn&&matchPreview>=0&&MatchAvailable(matchPreview);
         if(GUI.Button(new Rect(300,750,300,50),"ZATWIERDŹ BOHATERA")) MatchConfirmPick(matchPreview);
         GUI.enabled=done;

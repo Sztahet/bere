@@ -16,9 +16,9 @@ public partial class RiftorynTrial : MonoBehaviour
     static readonly Vector2[] DefaultSlotMap = {new(445,205),new(405,205),new(365,205),new(275,290),new(275,350),new(355,450),new(415,450),new(475,450),new(590,360),new(590,290),new(590,220),new(510,130),new(450,130),new(390,130),new(330,130),new(200,235),new(200,320),new(200,400),new(305,525),new(385,525),new(465,525),new(545,525),new(665,450),new(665,370),new(665,290),new(665,210)};
     Vector2[] Map=DefaultMap, SlotMap=DefaultSlotMap;
     int activeArena=-1;
-    const int LucenHero = 9, SailaHero = 10, PyrraHero = 11, NeraHero = 12, MikoHero = 13, SarnaHero = 14, ThoraHero=15, BromHero=16, MorrakHero=17;
-    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten","Lucen","Saila","Pyrra","Nera","Miko","Sarna","Thora","Brom","Morrak"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
-    static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115,105,105,60,110,105,115,165,180,170}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f,5.6f,5.2f,5.2f,5.0f,5.8f,4.9f,4.1f,4f,4.2f}, Cooldowns={22,16,18,20,18,20,20,20,20,20,24,20,20,20,18,22,20,22}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
+    const int LucenHero = 9, SailaHero = 10, PyrraHero = 11, NeraHero = 12, MikoHero = 13, SarnaHero = 14, ThoraHero=15, BromHero=16, MorrakHero=17, AnaHero=18, LumenHero=19;
+    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten","Lucen","Saila","Pyrra","Nera","Miko","Sarna","Thora","Brom","Morrak","Ana","Lumen"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
+    static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115,105,105,60,110,105,115,165,180,170,60,60}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f,5.6f,5.2f,5.2f,5.0f,5.8f,4.9f,4.1f,4f,4.2f,5.1f,5.3f}, Cooldowns={22,16,18,20,18,20,20,20,20,20,24,20,20,20,18,22,20,22,18,20}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
     static readonly Color[] TowerColors={new(1f,.30f,.12f),new(.32f,.77f,1f),new(1f,.8f,.2f),new(.32f,.83f,.4f),new(.65f,.43f,.25f),new(1f,.91f,.55f),new(.55f,.28f,.75f)};
     class Runner
     {
@@ -26,13 +26,13 @@ public partial class RiftorynTrial : MonoBehaviour
         public GameObject obj;
         public Vector3 velocity, rollDirection;
         public float hp, shield, shieldMax, shieldTick, cooldown, attackCooldown, boost, exposure, fogTick, along, damage;
-        public float chillTime, rootTime, shadowTime, hitFlash, slowImmunity, rollTime, rollCooldown, progressSpeed, bestProgress, finishTime, pyrraGuardUntil, botWaitTime;
+        public float chillTime, rootTime, shadowTime, hitFlash, slowImmunity, rollTime, rollCooldown, progressSpeed, bestProgress, finishTime, botWaitTime;
         public bool done;
         public readonly SharedAbilityState kit=new();
         public readonly RiftorynPeriodicEffect burn=new(), poison=new();
     }
     class FloatingCombatText { public Transform anchor; public Vector3 position; public string text; public Color color; public float started, offset; }
-    class Tower { public int slot,type; public float hp=100,wait,disabled,overload,frostSlow,slowRateMultiplier=1f; public GameObject obj, marker; public LineRenderer range, warning; public Runner target,divertedTo; public RiftorynPatkaPreview petTarget; public float windup,divertUntil,rangeVisibleUntil; public bool discovered,iceActive,misfires; public LineRenderer[] snowflakes; }
+    class Tower { public int slot,type; public float hp=100,wait,disabled,overload,frostSlow,slowRateMultiplier=1f; public GameObject obj, marker; public LineRenderer range, warning; public Runner target,divertedTo; public RiftorynCompanion petTarget,luredCompanion; public float windup,divertUntil,rangeVisibleUntil,lureUntil; public bool discovered,iceActive,misfires; public LineRenderer[] snowflakes; }
     class Shot { public ShotVisual visual; public Vector3 origin,direction; public float remaining,damage; public Runner target; public int id,type; }
     class EarthStrike { public Vector3 position; public float remaining,damage; public int id; public GameObject marker; public LineRenderer ring; }
     readonly List<EarthStrike> earthStrikes=new();
@@ -165,7 +165,7 @@ public partial class RiftorynTrial : MonoBehaviour
         var mesh=new Mesh{name="Warstwy mgły"};mesh.SetVertices(vertices);mesh.SetUVs(0,uv);mesh.SetTriangles(triangles,0);mesh.RecalculateBounds();return mesh;
     }
     void OnDestroy(){DisposeDefenseEditor();ClearHeatBarrier();if(lan)lan.Stop();DisposeShotVisuals();if(healingRing&&healingRing.material)Destroy(healingRing.material);if(fogMesh)Destroy(fogMesh);if(fogMaterial)Destroy(fogMaterial);foreach(var material in worldMaterials.Values)if(material)Destroy(material);worldMaterials.Clear();foreach(var material in towerMaterials.Values)if(material)Destroy(material);towerMaterials.Clear();if(wallTexture)Destroy(wallTexture);if(floorTexture)Destroy(floorTexture);if(floorMaterial)Destroy(floorMaterial);}
-    Runner MakeRunner(int h,bool bot){var go=new GameObject(bot?"Sojusznik AI":"Gracz");go.transform.SetParent(runnerRoot.transform);go.transform.position=At(0)+(bot?Vector3.right*.8f:Vector3.zero);var body=GameObject.CreatePrimitive(PrimitiveType.Capsule);body.name="Bohater";body.transform.SetParent(go.transform,false);body.transform.localPosition=Vector3.up;body.transform.localScale=new Vector3(.85f,1,.85f);body.GetComponent<Renderer>().sharedMaterial=Mat(bot?new Color(.16f,.75f,.85f):new Color(.88f,.71f,.36f));body.GetComponent<Collider>().isTrigger=true;if(h==3)AttachCharacterModel(go,body,"Characters/koneva-poc",true);else if(h==SailaHero)AttachCharacterModel(go,body,"Characters/saila-poc",true);else if(h==PyrraHero){AttachCharacterModel(go,body,"Characters/pyrra-poc",true);var follower=go.AddComponent<RiftorynSparkFollower>();follower.Initialize(go.transform);}else if(!bot&&mode==TrialMode.Training&&genericModelPreview)AttachCharacterModel(go,body,"Characters/generic-prototype",false);if(h==3){body.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.22f,.12f,.28f));var prefab=Resources.Load<GameObject>("Pets/patka");if(prefab){var pet=Instantiate(prefab,go.transform);pet.name="Patka";pet.transform.localPosition=new Vector3(0,.05f,2f);pet.transform.localRotation=Quaternion.Euler(0,180,0);pet.transform.localScale=Vector3.one*.42f;var ph=pet.AddComponent<RiftorynPetHealth>();ph.petName="Patka";ph.maxHp=ph.currentHp=50;pet.AddComponent<RiftorynPatkaPreview>();}}var r=new Runner{hero=h,obj=go,hp=MaxHp[h]};return r;}
+    Runner MakeRunner(int h,bool bot){var go=new GameObject(bot?"Sojusznik AI":"Gracz");go.transform.SetParent(runnerRoot.transform);go.transform.position=At(0)+(bot?Vector3.right*.8f:Vector3.zero);var body=GameObject.CreatePrimitive(PrimitiveType.Capsule);body.name="Bohater";body.transform.SetParent(go.transform,false);body.transform.localPosition=Vector3.up;body.transform.localScale=new Vector3(.85f,1,.85f);body.GetComponent<Renderer>().sharedMaterial=Mat(bot?new Color(.16f,.75f,.85f):new Color(.88f,.71f,.36f));body.GetComponent<Collider>().isTrigger=true;if(h==3)AttachCharacterModel(go,body,"Characters/koneva-poc",true);else if(h==SailaHero)AttachCharacterModel(go,body,"Characters/saila-poc",true);else if(h==PyrraHero){AttachCharacterModel(go,body,"Characters/pyrra-poc",true);var follower=go.AddComponent<RiftorynSparkFollower>();follower.Initialize(go.transform);AttachSummonedCompanion(go,h,follower);}else if(h==AnaHero||h==LumenHero)AttachSummonedCompanion(go,h,null);else if(!bot&&mode==TrialMode.Training&&genericModelPreview)AttachCharacterModel(go,body,"Characters/generic-prototype",false);if(h==3){body.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.22f,.12f,.28f));var prefab=Resources.Load<GameObject>("Pets/patka");if(prefab){var pet=Instantiate(prefab,go.transform);pet.name="Patka";pet.transform.localPosition=new Vector3(0,.05f,2f);pet.transform.localRotation=Quaternion.Euler(0,180,0);pet.transform.localScale=Vector3.one*.42f;var ph=pet.AddComponent<RiftorynPetHealth>();ph.petName="Patka";ph.maxHp=ph.currentHp=50;pet.AddComponent<RiftorynPatkaPreview>();}}var r=new Runner{hero=h,obj=go,hp=MaxHp[h]};return r;}
     void AttachCharacterModel(GameObject runner,GameObject capsule,string resource,bool saila)
     {
         var prefab=Resources.Load<GameObject>(resource);
@@ -492,7 +492,9 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         float speed=Speed[runner.hero];
         if(runner.exposure>0) speed*=ApplySlowResistance(runner,runner.hero==4?.92f:runner.hero==SailaHero?.915f:.9f);
-        if(runner.boost>0) speed*=UsesUnifiedRules&&runner.hero==ZetHero?1.15f:1.2f;
+        float abilityBoost=runner.boost>0?(UsesUnifiedRules&&runner.hero==ZetHero?1.15f:1.2f):1f;
+        if(UsesUnifiedRules)abilityBoost=Mathf.Max(abilityBoost,LumenAuraSpeed(runner));
+        speed*=abilityBoost;
         if(runner.chillTime>0) speed*=ApplySlowResistance(runner,runner.hero==4?.88f:runner.hero==SailaHero?.8725f:.85f);
         if(runner.rootTime>0) speed*=ApplySlowResistance(runner,runner.hero==4?.84f:.8f);
         if(runner.kit.surgeUntil>elapsed) speed*=1.8f;
@@ -596,15 +598,9 @@ public partial class RiftorynTrial : MonoBehaviour
     void UseSkill(Runner r,Tower t)
     {
         if(r.cooldown>0)return;
+        if(UsesUnifiedRules&&(r.hero is PyrraHero or AnaHero or LumenHero)){UseSummonerBasic(r);return;}
         if(UsesUnifiedRules&&(r.hero is ThoraHero or BromHero or MorrakHero)){UseTankBasic(r,t);return;}
         if(r.hero==SarnaHero){BoostSarnaTeam(r);return;}
-        if(MatchMode&&r.hero==PyrraHero)
-        {
-            r.pyrraGuardUntil=elapsed+5f;
-            r.cooldown=Cooldowns[PyrraHero];r.uses++;
-            if(r==player) Notify("Iskra · ochrona przed jednym trafieniem przez 5 s");
-            return;
-        }
         if(r.hero>=6&&r.hero!=LucenHero&&r.hero!=SailaHero&&r.hero!=NeraHero&&r.hero!=MikoHero){if(r==player)Notify("Zdolność tej postaci nie jest jeszcze dostępna w próbie.");return;}
         if(r.hero==MikoHero){if(t==null){if(r==player)Notify(RiftorynCodexData.Text("Brak wieży w zasięgu.","No tower in range."));return;} SabotageMiko(r,t);return;}
         if(r.hero==NeraHero)
@@ -708,13 +704,19 @@ public partial class RiftorynTrial : MonoBehaviour
             t.frostSlow=Mathf.Max(0,t.frostSlow-dt);
             if(t.disabled>0){t.iceActive=false;t.warning.enabled=false;t.target=null;t.petTarget=null;t.windup=0;continue;}
             if(UsesUnifiedRules) RetargetSharedTower(t);
+            if(t.luredCompanion!=null)
+            {
+                if(t.lureUntil<=elapsed||!t.luredCompanion.IsAlive)t.luredCompanion=null;
+                else if(t.wait<=0&&t.petTarget!=t.luredCompanion&&Vector3.Distance(t.luredCompanion.AimPosition,Slot(t.slot))<TowerRange[t.type]&&TowerHasClearShot(t,t.luredCompanion.AimPosition))
+                {t.target=null;t.petTarget=t.luredCompanion;t.windup=TowerWindup;}
+            }
             if(t.petTarget!=null)
             {
                 var pet=t.petTarget;
                 if(!pet.IsAlive || Vector3.Distance(pet.AimPosition,Slot(t.slot))>=TowerRange[t.type] || !TowerHasClearShot(t,pet.AimPosition))
                 {t.iceActive=false;t.petTarget=null;t.windup=0;t.warning.enabled=false;continue;}
                 Vector3 aim=pet.AimPosition, start=ShotOrigin(t,aim);
-                t.warning.enabled=!t.iceActive;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);t.windup-=dt*(t.frostSlow>0?t.slowRateMultiplier:1f);
+                t.warning.enabled=!t.iceActive;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);t.windup-=dt*(UsesUnifiedRules?TowerSlowMultiplier(t):1f);
                 if(t.type==1&&t.iceActive) SetIceStream(t,true,aim);
                 if(t.windup>0)continue;
                 if(t.type==1){t.iceActive=true;t.windup=t.overload>0?.25f/1.5f:.25f;if(!t.misfires||UnityEngine.Random.value>=.5f)FireTowerShot(t,start,aim,null);SetIceStream(t,true,aim);continue;}
@@ -729,7 +731,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 Vector3 aim=PredictAim(start,center,t.target.velocity,ProjectileSpeed);
                 t.warning.enabled=!t.iceActive;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);
                 if(t.type==1&&t.iceActive) SetIceStream(t,true,center);
-                t.windup-=dt*(t.frostSlow>0?t.slowRateMultiplier:1f);
+                t.windup-=dt*(UsesUnifiedRules?TowerSlowMultiplier(t):1f);
                 if(t.windup>0)continue;
                 if(t.type==1){t.iceActive=true;t.windup=t.overload>0?.25f/1.5f:.25f;if(!t.misfires||UnityEngine.Random.value>=.5f)FireTowerShot(t,start,aim,t.target);SetIceStream(t,true,center);continue;}
                 if(!t.misfires||UnityEngine.Random.value>=.5f){if(t.type==4) StartEarthStrike(aim,TowerDamage[t.type]); else if(t.type==3) StartVinePatch(center,t.target.velocity); else FireTowerShot(t,start,aim,t.target);}
@@ -737,14 +739,14 @@ public partial class RiftorynTrial : MonoBehaviour
                 t.target=null;t.warning.enabled=false;t.wait=Mathf.Max(0,TowerRate[t.type]-TowerWindup);
                 continue;
             }
-            t.warning.enabled=false;t.wait-=dt*(t.overload>0?1.5f:1f)*(t.frostSlow>0?t.slowRateMultiplier:1f);if(t.wait>0)continue;
+            t.warning.enabled=false;t.wait-=dt*(t.overload>0?1.5f:1f)*(UsesUnifiedRules?TowerSlowMultiplier(t):1f);if(t.wait>0)continue;
             // During the maneuver the nearest flying Patka takes priority over runners.
-            RiftorynPatkaPreview lure=null;float lureDistance=TowerRange[t.type];
-            foreach(var r in AllRunners()){if(r==null||!r.obj||r.hp<=0||r.done)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsFlying)continue;float distance=Vector3.Distance(pet.AimPosition,Slot(t.slot));if(distance<lureDistance&&TowerHasClearShot(t,pet.AimPosition)){lure=pet;lureDistance=distance;}}
+            RiftorynCompanion lure=null;float lureDistance=TowerRange[t.type];
+            foreach(var r in AllRunners()){if(r==null||!r.obj||r.hp<=0||r.done)continue;var pet=r.obj.GetComponentInChildren<RiftorynCompanion>();if(!pet||!pet.IsLuring)continue;float distance=Vector3.Distance(pet.AimPosition,Slot(t.slot));if(distance<lureDistance&&TowerHasClearShot(t,pet.AimPosition)){lure=pet;lureDistance=distance;}}
             if(lure){t.petTarget=lure;t.windup=TowerWindup;continue;}
-            Runner target=null;RiftorynPatkaPreview nearestPet=null;float d=TowerRange[t.type];
+            Runner target=null;RiftorynCompanion nearestPet=null;float d=TowerRange[t.type];
             foreach(var r in AllRunners()){if(r==null||r.hp<=0||r.done)continue;float n=Vector3.Distance(r.obj.transform.position,Slot(t.slot));if(n<d&&TowerHasClearShot(t,r.obj.transform.position+Vector3.up)){d=n;target=r;}}
-            foreach(var r in AllRunners()){if(r==null||!r.obj||r.hp<=0||r.done)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsAlive)continue;float n=Vector3.Distance(pet.AimPosition,Slot(t.slot));if(n<d&&TowerHasClearShot(t,pet.AimPosition)){d=n;nearestPet=pet;}}
+            foreach(var r in AllRunners()){if(r==null||!r.obj||r.hp<=0||r.done)continue;var pet=r.obj.GetComponentInChildren<RiftorynCompanion>();if(!pet||!pet.IsAlive)continue;float n=Vector3.Distance(pet.AimPosition,Slot(t.slot));if(n<d&&TowerHasClearShot(t,pet.AimPosition)){d=n;nearestPet=pet;}}
             if(nearestPet!=null){t.petTarget=nearestPet;t.windup=TowerWindup;}
             else if(target!=null){t.target=target;t.windup=TowerWindup;}
         }
@@ -781,14 +783,8 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         if(victim.hp<=0||victim.done)return;
         if(IsDodging(victim)){MarkSharedDodge(victim);return;}
-        if(MatchMode&&victim.hero==PyrraHero&&victim.pyrraGuardUntil>elapsed)
-        {
-            victim.pyrraGuardUntil=0;
-            ShowCombatText(victim,"ISKRA · OCHRONA",new Color(1f,.65f,.2f));
-            return;
-        }
         float direct = baseDamage*(victim.shadowTime>0?1.15f:1f);
-        if(UsesUnifiedRules){direct*=ZoneDamageMultiplier(victim);if(victim.hero==BromHero)direct*=.9f;}
+        if(UsesUnifiedRules){direct*=ZoneDamageMultiplier(victim)*LumenAuraDamage(victim);if(victim.hero==BromHero)direct*=.9f;}
         if (victim.hero == 1 && type == 0) direct *= .85f;
         if (victim.hero == LucenHero && type == 2) direct *= .75f;
         Damage(victim,direct,true,true,"WIEŻA: "+TowerNames[type].ToUpperInvariant());
@@ -799,7 +795,12 @@ public partial class RiftorynTrial : MonoBehaviour
             ShowCombatText(victim,RiftorynCodexData.Text("SZYBKOŚĆ +","SPEED +")+Mathf.RoundToInt(victim.kit.mikoSpeedBonus*100f)+"%",new Color(1f,.85f,.3f));
         }
         if(victim.hp<=0||ConsumeSharedWard(victim,type))return;
-        if(type==0)victim.burn.Apply(3,3);
+        if(type==0)
+        {
+            if(UsesUnifiedRules&&victim.hero==PyrraHero&&victim.kit.fireWardReadyAt<=elapsed)
+            {var p=AdditionalHeroDesign(PyrraHero).pasywna.parametry;victim.kit.fireWardUntil=elapsed+p.czas_s;victim.kit.fireWardReadyAt=elapsed+p.odnowienie_wewnetrzne_s;}
+            if(!UsesUnifiedRules||victim.hero!=PyrraHero||victim.kit.fireWardUntil<=elapsed)victim.burn.Apply(3,3);
+        }
         else if(type==1&&victim.slowImmunity<=0)victim.chillTime=victim.hero==SarnaHero?1.5f:2f;
         else if(type==3)victim.poison.Apply(4,3);
         else if(type==6)victim.shadowTime=3f;
@@ -807,7 +808,7 @@ public partial class RiftorynTrial : MonoBehaviour
     void ResolveShot(Shot shot,Runner victim,Vector3 impact)
     {
         if(IsDodging(victim)){MarkSharedDodge(victim);return;}
-        if(UsesUnifiedRules&&PatkaGuardsShot(victim,shot)) return;
+        if(UsesUnifiedRules&&(PatkaGuardsShot(victim,shot)||TrySummonGuard(victim,shot))) return;
         if(shot.type==0)
         {
             foreach(var r in AllRunners())
@@ -849,8 +850,8 @@ public partial class RiftorynTrial : MonoBehaviour
                 float q=segment.sqrMagnitude>0?Mathf.Clamp01(Vector3.Dot(center-start,segment)/segment.sqrMagnitude):0;
                 if(Vector3.Distance(center,start+q*segment)<.8f&&q<first){first=q;victim=r;}
             }
-            RiftorynPatkaPreview petVictim=null;
-            foreach(var r in AllRunners()){if(r==null||!r.obj)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsAlive)continue;Vector3 center=pet.AimPosition;float q=segment.sqrMagnitude>0?Mathf.Clamp01(Vector3.Dot(center-start,segment)/segment.sqrMagnitude):0;if(Vector3.Distance(center,start+q*segment)<.65f&&q<first){first=q;petVictim=pet;victim=null;}}
+            RiftorynCompanion petVictim=null;
+            foreach(var r in AllRunners()){if(r==null||!r.obj)continue;var pet=r.obj.GetComponentInChildren<RiftorynCompanion>();if(!pet||!pet.IsAlive)continue;Vector3 center=pet.AimPosition;float q=segment.sqrMagnitude>0?Mathf.Clamp01(Vector3.Dot(center-start,segment)/segment.sqrMagnitude):0;if(Vector3.Distance(center,start+q*segment)<.65f&&q<first){first=q;petVictim=pet;victim=null;}}
             if(UsesUnifiedRules&&HeatBarrierBlocks(start,segment,first,out Vector3 barrierImpact))
             {
                 MoveShotVisual(s.visual,barrierImpact,s.direction,Vector3.Distance(s.origin,barrierImpact));
@@ -862,11 +863,12 @@ public partial class RiftorynTrial : MonoBehaviour
             {
                 end=start+first*segment;
                 petVictim.ReceiveHit(s.damage);
+                if(UsesUnifiedRules)ConsumePhysicalSummonGuard(petVictim,s.target);
                 if(UsesUnifiedRules&&s.target!=null)
                 {
                     Runner guard=PatkaGuardOf(s.target);
-                    if(IsRunning(guard)&&guard.hero==KonevaHero&&guard.kit.guardUntil>elapsed&&petVictim.transform.IsChildOf(guard.obj.transform))
-                        FinishPatkaGuard(guard,petVictim);
+                    if(IsRunning(guard)&&guard.hero==KonevaHero&&guard.kit.guardUntil>elapsed&&petVictim is RiftorynPatkaPreview patka&&patka.transform.IsChildOf(guard.obj.transform))
+                        FinishPatkaGuard(guard,patka);
                 }
             }
             else if(victim!=null){end=start+first*segment;ResolveShot(s,victim,end);}
@@ -1283,7 +1285,7 @@ public partial class RiftorynTrial : MonoBehaviour
 
     int PlayableHero(string id)
     {
-        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;case "niva":return 4;case "liora":return 5;case "elira":return 6;case "dara":return 7;case "nocten":return 8;case "lucen":return LucenHero;case "saila":return SailaHero;case "pyrra":return PyrraHero;case "nera":return NeraHero;case "miko":return MikoHero;case "sarna":return SarnaHero;case "thora":return ThoraHero;case "brom":return BromHero;case "morrak":return MorrakHero;default:return -1;}
+        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;case "niva":return 4;case "liora":return 5;case "elira":return 6;case "dara":return 7;case "nocten":return 8;case "lucen":return LucenHero;case "saila":return SailaHero;case "pyrra":return PyrraHero;case "nera":return NeraHero;case "miko":return MikoHero;case "sarna":return SarnaHero;case "thora":return ThoraHero;case "brom":return BromHero;case "morrak":return MorrakHero;case "ana":return AnaHero;case "lumen":return LumenHero;default:return -1;}
     }
     Texture2D DraftPortrait(string id)
     {

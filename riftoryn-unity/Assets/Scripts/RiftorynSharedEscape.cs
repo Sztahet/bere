@@ -21,7 +21,7 @@ public partial class RiftorynTrial
     RiftorynSharedScores ScoreStore => sharedScores??=new RiftorynSharedScores(
         Path.Combine(Application.persistentDataPath,RiftorynSharedScores.FileName));
 
-    static bool IsSharedHero(int hero)=>hero is KaelHero or ZetHero or KonevaHero or NeraHero or MikoHero or SarnaHero or SailaHero or 1 or 4 or 5 or ThoraHero or BromHero or MorrakHero;
+    static bool IsSharedHero(int hero)=>hero is KaelHero or ZetHero or KonevaHero or NeraHero or MikoHero or SarnaHero or SailaHero or 1 or 4 or 5 or ThoraHero or BromHero or MorrakHero or PyrraHero or AnaHero or LumenHero;
 
     public void OpenSharedEscape()
     {

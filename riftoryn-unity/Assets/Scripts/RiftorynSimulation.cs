@@ -7,12 +7,14 @@ using System.Threading;
         premia_predkosci_procent,czas_s,predkosc_procent,obrazenia,wylaczenie_s,czas_pecha_s,
         leczenie_poczatkowe,leczenie_na_sekunde,spowolnienie_ataku_procent,
         redukcja_procent,redukcja_obrazen_procent,redukcja_spowolnienia_procent,
-        szerokosc_m,wysokosc_m,maks_pociskow,spowolnienie_pociskow_procent;
+        szerokosc_m,wysokosc_m,maks_pociskow,spowolnienie_pociskow_procent,
+        zasieg_trasy_m,czas_podgladu_s,odnowienie_wewnetrzne_s;
 }
 [Serializable] public class SimAbility { public float odnowienie_s; public SimParams parametry; }
 [Serializable] public class SimSkills { public SimAbility Q,E,R; }
 [Serializable] public class SimStats { public float hp,predkosc_m_s,atak_podstawowy,zasieg_ataku_m,odnowienie_ataku_s; }
-[Serializable] public class SimHero { public string id,nazwa,rola; public SimStats statystyki; public SimSkills umiejetnosci; }
+[Serializable] public class SimPet { public string nazwa; public float hp,predkosc_m_s,atak_podstawowy; }
+[Serializable] public class SimHero { public string id,nazwa,rola; public SimStats statystyki; public SimSkills umiejetnosci; public SimAbility pasywna; public SimPet towarzysz; }
 public sealed class SimResult { public string id,name; public int contexts; public double delta,allies,self; }
 
 // Portable worker: no Unity API calls. An intentionally partial 1D model, not a Unity playthrough.

@@ -37,6 +37,9 @@ public partial class RiftorynTrial
         if(hero==ThoraHero) return slot switch { 0=>(1,2), 1=>(0,0), _=>(0,2) };
         if(hero==BromHero) return slot switch { 0=>(0,2), 1=>(0,0), _=>(1,0) };
         if(hero==MorrakHero) return slot switch { 0=>(3,1), 1=>(3,2), _=>(3,0) };
+        if(hero==PyrraHero) return slot switch { 0=>(0,0), 1=>(0,2), _=>(3,2) };
+        if(hero==AnaHero) return slot switch { 0=>(1,2), 1=>(3,1), _=>(0,0) };
+        if(hero==LumenHero) return slot switch { 0=>(1,0), 1=>(2,1), _=>(2,2) };
         if(!IsSharedHero(hero)) return hero switch
         {
             1=>(0,1), 4=>(1,0), 5=>(1,2), 9=>(1,0), 10=>(1,1), _=>(0,0)
@@ -59,6 +62,9 @@ public partial class RiftorynTrial
         ThoraHero=>new Color(.57f,.85f,.42f),
         BromHero=>new Color(.76f,.57f,.34f),
         MorrakHero=>new Color(.70f,.48f,.90f),
+        PyrraHero=>new Color(1f,.58f,.31f),
+        AnaHero=>new Color(.57f,.85f,.42f),
+        LumenHero=>new Color(1f,.90f,.58f),
         _=>new Color(.91f,.74f,.47f)
     };
 

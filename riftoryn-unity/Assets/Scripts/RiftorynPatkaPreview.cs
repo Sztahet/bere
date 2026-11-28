@@ -3,7 +3,7 @@ using UnityEngine.Animations;
 using UnityEngine.Playables;
 
 // Trial values: 2 m ahead, 6.5 m/s, 4 s flight, three circles and 75% dodge.
-public class RiftorynPatkaPreview : MonoBehaviour
+public class RiftorynPatkaPreview : RiftorynCompanion
 {
     const float FollowDistance=2f, Speed=6.5f, FlightDuration=4f, Radius=1.5f, Height=2.5f;
     PlayableGraph graph;
@@ -15,9 +15,10 @@ public class RiftorynPatkaPreview : MonoBehaviour
     Vector3 previousPosition;
     bool flying;
     public bool IsFlying => flying && health != null && health.currentHp > 0;
-    public bool IsAlive => health != null && health.currentHp > 0 && gameObject.activeInHierarchy;
+    public override bool IsAlive => health != null && health.currentHp > 0 && gameObject.activeInHierarchy;
+    public override bool IsLuring => IsFlying;
     public bool IsHurt => IsAlive && health.currentHp < health.maxHp;
-    public Vector3 AimPosition => transform.position + Vector3.up*.45f;
+    public override Vector3 AimPosition => transform.position + Vector3.up*.45f;
     public bool Fly()
     {
         if (!IsAlive || flying) return false;
@@ -39,7 +40,7 @@ public class RiftorynPatkaPreview : MonoBehaviour
     {
         if(IsAlive) health.currentHp=Mathf.Min(health.maxHp,health.currentHp+amount);
     }
-    public void ReceiveHit(float damage)
+    public override void ReceiveHit(float damage)
     {
         if (!IsAlive) return;
         if (IsFlying && Random.value < .75f) return;

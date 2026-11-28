@@ -26,14 +26,14 @@ Propozycja docelowego składu do przygotowania na potrzeby gry: po cztery postac
 ## Przywoływacze
 
 - **Koneva i Patka — Ciemność:** odciąganie ostrzału i ochrona sojusznika. Pełny zestaw Q/E/R w lokalnym prototypie.
-- **Pyrra i Iskra — Ogień:** kierunek rozwoju to przechwytywanie pocisków i strefa żaru. Obecne Q jest tymczasową ochroną Pyrry, a pełny zestaw przywołań nie jest gotowy.
-- **Ana i Bob — Natura:** kierunek rozwoju to współpraca z Bobem i opieka nad nim; konkretne zastosowania w ucieczce wymagają projektu i testów.
-- **Lumen i Blask — Światło:** kierunek rozwoju to wsparcie obronne i zwiad z udziałem jelenia; umiejętności wymagają projektu i testów.
+- **Pyrra i Iskra — Ogień:** przechwytywanie pocisków i strefa żaru; Q/E/R jest dostępne w lokalnym prototypie.
+- **Ana i Bob — Natura:** leczenie Boba, odciąganie ostrzału i osłony; Q/E/R jest dostępne, a pasywka i model wymagają dalszej pracy.
+- **Lumen i Blask — Światło:** osłony, zwiad i aura wsparcia; Q/E/R jest dostępne, a pasywka i model wymagają dalszej pracy.
 
 ## Zasady do dalszego projektu
 
 - Siedem żywiołów jest reprezentowanych: Ogień 3, Lód 2, Błyskawice 3, Natura 4, Ziemia 1, Światło 1, Ciemność 2. Nierówność jest świadomym kompromisem na rzecz różnorodności ról i zachowania istniejących postaci; nie jest jeszcze wynikiem testów balansu.
 - Przy meczu 5 na 5 wspólna pula 16 unikalnych postaci pozwala wybrać dziesięć i pozostawia sześć niewybranych. Nie narzuca to obowiązkowej liczby postaci danej roli w drużynie.
 - Każda postać docelowo potrzebuje trzech działających umiejętności Q/E/R, pasywki, indywidualnych ikon, informacji o zasięgu i odnowieniu oraz zachowań AI. Dokładne zestawy i balans trzeba osobno opracować i przetestować.
-- W obecnym Unity Q/E/R mają Kael, Nera, Zet, Koneva, Miko, Sarna, Saila, Niva, Liora, Rian, Thora, Brom i Morrak. Pozostali przywoływacze mają jedynie częściowy prototyp albo nie są jeszcze grywalni w lokalnym meczu. Istniejące koncepcje obrony nie oznaczają, że sterowanie wieżami jest gotowe.
+- W obecnym Unity cała szesnastka ma Q/E/R w lokalnym prototypie. Pasywki Any, Lumen i Morraka oraz modele Boba i Blasku wymagają dalszej pracy. Istniejące koncepcje obrony nie oznaczają, że sterowanie wieżami jest gotowe.
 - Opowiadania Broma, Miko oraz Any i Boba są oznaczone w katalogu jako szkice; nie są podstawą do przedstawiania ich jako zatwierdzonych historii.

@@ -3,7 +3,7 @@ using UnityEngine;
 
 public partial class RiftorynTrial
 {
-    sealed class TankZone { public Vector3 center; public float radius,endsAt,damageMultiplier,projectileMultiplier; public LineRenderer line; public Material material; }
+    sealed class TankZone { public Vector3 center; public float radius,endsAt,damageMultiplier,projectileMultiplier,towerMultiplier=1f; public LineRenderer line; public Material material; }
     readonly List<TankZone> tankZones=new();
 
     bool UseTankBasic(Runner runner,Tower threat)
@@ -45,18 +45,29 @@ public partial class RiftorynTrial
 
     void CreateTankZone(Runner runner,SimParams p,Color color)
     {
+        CreateTankZoneAt(runner.obj.transform.position,p,color);
+    }
+    void CreateTankZoneAt(Vector3 center,SimParams p,Color color)
+    {
         var obj=new GameObject("Strefa ochronna");obj.transform.SetParent(world.transform);
         var line=obj.AddComponent<LineRenderer>();line.useWorldSpace=true;line.loop=true;line.positionCount=48;line.startWidth=line.endWidth=.09f;
         var material=new Material(Shader.Find("Sprites/Default"));line.sharedMaterial=material;line.startColor=line.endColor=color;
-        Vector3 center=runner.obj.transform.position;
         for(int i=0;i<line.positionCount;i++){float angle=i*Mathf.PI*2/line.positionCount;line.SetPosition(i,center+new Vector3(Mathf.Cos(angle)*p.promien_m,.12f,Mathf.Sin(angle)*p.promien_m));}
         float damageReduction=p.redukcja_procent>0?p.redukcja_procent:p.redukcja_obrazen_procent;
         tankZones.Add(new TankZone{center=center,radius=p.promien_m,endsAt=elapsed+p.czas_s,
-            damageMultiplier=1-Mathf.Clamp01(damageReduction/100f),projectileMultiplier=1-Mathf.Clamp01(p.spowolnienie_pociskow_procent/100f),line=line,material=material});
+            damageMultiplier=1-Mathf.Clamp01(damageReduction/100f),projectileMultiplier=1-Mathf.Clamp01(p.spowolnienie_pociskow_procent/100f),
+            towerMultiplier=1-Mathf.Clamp01(p.spowolnienie_ataku_procent/100f),line=line,material=material});
     }
     void DestroyTankZone(TankZone zone){if(zone.line)Destroy(zone.line.gameObject);if(zone.material)Destroy(zone.material);}
     void ClearTankZones(){foreach(var zone in tankZones)DestroyTankZone(zone);tankZones.Clear();}
     void StepTankZones(){for(int i=tankZones.Count-1;i>=0;i--)if(tankZones[i].endsAt<=elapsed){DestroyTankZone(tankZones[i]);tankZones.RemoveAt(i);}}
+    float TowerSlowMultiplier(Tower tower)
+    {
+        float multiplier=tower.frostSlow>0?tower.slowRateMultiplier:1f;
+        foreach(var zone in tankZones)if(tower.discovered&&zone.endsAt>elapsed&&(Slot(tower.slot)-zone.center).sqrMagnitude<=zone.radius*zone.radius)
+            multiplier=Mathf.Min(multiplier,zone.towerMultiplier);
+        return multiplier;
+    }
     float ZoneDamageMultiplier(Runner runner)
     {
         float multiplier=1;
