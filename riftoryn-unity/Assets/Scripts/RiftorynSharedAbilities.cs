@@ -56,7 +56,7 @@ public partial class RiftorynTrial
         KonevaHero=>(18f,30f),
         MikoHero=>(12f,32f),
         SarnaHero=>(16f,32f),
-        SailaHero=>(18f,36f),
+        SailaHero=>NewHeroCooldowns(hero),
         1 or 4 or 5=>NewHeroCooldowns(hero),
         ThoraHero or BromHero or MorrakHero=>NewHeroCooldowns(hero),
         PyrraHero or AnaHero or LumenHero=>NewHeroCooldowns(hero),
@@ -97,22 +97,24 @@ public partial class RiftorynTrial
 
     bool UseSailaExtra(Runner runner,bool ultimate,Tower tower)
     {
+        var skills=AdditionalHeroDesign(SailaHero).umiejetnosci;
+        var p=(ultimate?skills.R:skills.E).parametry;
         if(ultimate)
         {
             bool affected=false;
             foreach(var candidate in towers)
             {
-                if(candidate.hp<=0||!candidate.discovered||Vector3.Distance(runner.obj.transform.position,Slot(candidate.slot))>9f
+                if(candidate.hp<=0||!candidate.discovered||Vector3.Distance(runner.obj.transform.position,Slot(candidate.slot))>p.promien_m
                     ||!TowerHasClearShot(candidate,runner.obj.transform.position+Vector3.up))continue;
-                HitTower(candidate,35f);candidate.disabled=Mathf.Max(candidate.disabled,2f);
+                HitTower(candidate,p.obrazenia);candidate.disabled=Mathf.Max(candidate.disabled,p.wylaczenie_s);
                 ShowSailaFreeze(candidate);affected=true;
             }
             return affected;
         }
-        tower??=Nearest(runner,TowerSkillRange);
+        tower??=Nearest(runner,p.zasieg_m);
         if(tower==null||!tower.discovered||tower.hp<=0||!TowerHasClearShot(tower,runner.obj.transform.position+Vector3.up))return false;
-        if(Vector3.Distance(runner.obj.transform.position,Slot(tower.slot))>=TowerSkillRange)return false;
-        ApplyTowerSlow(tower,5f,35f);ShowSailaFreeze(tower);return true;
+        if(Vector3.Distance(runner.obj.transform.position,Slot(tower.slot))>=p.zasieg_m)return false;
+        ApplyTowerSlow(tower,p.czas_s,p.spowolnienie_ataku_procent);ShowSailaFreeze(tower);return true;
     }
 
     void BoostSarnaTeam(Runner runner)
@@ -508,7 +510,16 @@ public partial class RiftorynTrial
     static (string name,string description) SkillText(string name,string englishName,string description,string englishDescription)=>
         (RiftorynCodexData.Text(name,englishName),RiftorynCodexData.Text(description,englishDescription));
 
-    static (string name,string description) SharedSkillInfo(int hero,int slot)=>(hero,slot) switch
+    (string name,string description) SailaSkillInfo(int slot)
+    {
+        var design=AdditionalHeroDesign(SailaHero);var skills=design.umiejetnosci;
+        if(slot==0){var p=skills.Q.parametry;return SkillText("Zamrożenie mechanizmu","Freeze Mechanism",$"Wyłącza odkrytą wieżę w zasięgu {p.zasieg_m:0.#} m na {p.wylaczenie_s:0.#} s.",$"Disables a discovered tower within {p.zasieg_m:0.#} m for {p.wylaczenie_s:0.#} s.");}
+        if(slot==1){var p=skills.E.parametry;return SkillText("Szron na lufie","Frosted Barrel",$"Spowalnia ostrzał odkrytej wieży o {p.spowolnienie_ataku_procent:0.#}% przez {p.czas_s:0.#} s.",$"Slows a discovered tower's fire rate by {p.spowolnienie_ataku_procent:0.#}% for {p.czas_s:0.#} s.");}
+        if(slot==2){var p=skills.R.parametry;return SkillText("Pęknięcie lodu","Ice Fracture",$"Zadaje {p.obrazenia:0.#} obrażeń i wyłącza odkryte wieże w promieniu {p.promien_m:0.#} m na {p.wylaczenie_s:0.#} s.",$"Deals {p.obrazenia:0.#} damage and disables discovered towers within {p.promien_m:0.#} m for {p.wylaczenie_s:0.#} s.");}
+        var passive=design.pasywna.parametry;return SkillText("Zimny krok","Cold Step",$"Spowolnienia działające na Sailę są o {passive.redukcja_spowolnienia_procent:0.#}% słabsze.",$"Slows affecting Saila are {passive.redukcja_spowolnienia_procent:0.#}% weaker.");
+    }
+
+    (string name,string description) SharedSkillInfo(int hero,int slot)=>hero==SailaHero?SailaSkillInfo(slot):(hero,slot) switch
     {
         (KaelHero,0)=>SkillText("Żarowa bariera","Ember Barrier","Daje 100 osłony Kael i 50 pobliskiemu partnerowi.","Gives Kael 100 shield and a nearby ally 50 shield."),
         (KaelHero,1)=>SkillText("Przejęcie ostrzału","Draw Fire","Skieruj kamerę na wieżę w zasięgu. Jej następny strzał celuje w Kael.","Face a tower in range. Its next shot targets Kael."),
@@ -534,10 +545,6 @@ public partial class RiftorynTrial
         (SarnaHero,1)=>SkillText("Żywe wiązanie","Living Binding","Przywraca do 25 HP rannemu sojusznikowi w promieniu 8 m.","Restores up to 25 HP to an injured ally within 8 m."),
         (SarnaHero,2)=>SkillText("Oddech wytchnienia","Breath of Relief","Usuwa spowolnienie od Lodu i pnączy u Sarny i sojusznika w promieniu 8 m. Przez 3 s chroni przed spowolnieniem od Lodu.","Clears Ice chill and roots on Sarna and her ally within 8 m. Prevents Ice chill for 3 s."),
         (SarnaHero,3)=>SkillText("Pewny krok","Sure Step","Spowolnienie od Lodu trwa u Sarny 1,5 s zamiast 2 s.","Ice chill lasts 1.5 s on Sarna instead of 2 s."),
-        (SailaHero,0)=>SkillText("Zamrożenie mechanizmu","Freeze Mechanism","Wyłącza odkrytą, widoczną wieżę na 3 s.","Disables a discovered tower in sight for 3 s."),
-        (SailaHero,1)=>SkillText("Szron na lufie","Frosted Barrel","Spowalnia ostrzał odkrytej, widocznej wieży o 35% przez 5 s.","Slows a discovered tower's fire rate by 35% for 5 s."),
-        (SailaHero,2)=>SkillText("Pęknięcie lodu","Ice Fracture","Zadaje 35 obrażeń i wyłącza odkryte, widoczne wieże w promieniu 9 m na 2 s.","Deals 35 damage and disables revealed towers in sight within 9 m for 2 s."),
-        (SailaHero,3)=>SkillText("Zimny krok","Cold Step","Spowolnienia działające na Sailę są o 15% słabsze.","Slows affecting Saila are 15% weaker."),
         (1,0)=>SkillText("Skupiony żar","Focused Ember","Zadaje odkrytej wieży 100 obrażeń w zasięgu 17,4 m.","Deals 100 damage to a revealed tower within 17.4 m."),
         (1,1)=>SkillText("Rozgrzany mechanizm","Heated Mechanism","Spowalnia ostrzał odkrytej wieży o 35% przez 4 s.","Slows a revealed tower's fire rate by 35% for 4 s."),
         (1,2)=>SkillText("Przeciążenie","Overload","Zadaje odkrytej wieży 70 obrażeń i wyłącza ją na 2 s.","Deals 70 damage to a revealed tower and disables it for 2 s."),

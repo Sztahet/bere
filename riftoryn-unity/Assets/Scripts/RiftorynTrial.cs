@@ -491,11 +491,11 @@ public partial class RiftorynTrial : MonoBehaviour
     float RunnerSpeed(Runner runner)
     {
         float speed=HeroSpeed(runner.hero);
-        if(runner.exposure>0) speed*=ApplySlowResistance(runner,runner.hero==4?.92f:runner.hero==SailaHero?.915f:.9f);
+        if(runner.exposure>0) speed*=ApplySlowResistance(runner,runner.hero==4?.92f:.9f);
         float abilityBoost=runner.boost>0?(UsesUnifiedRules&&runner.hero==ZetHero?1.15f:1.2f):1f;
         if(UsesUnifiedRules)abilityBoost=Mathf.Max(abilityBoost,LumenAuraSpeed(runner));
         speed*=abilityBoost;
-        if(runner.chillTime>0) speed*=ApplySlowResistance(runner,runner.hero==4?.88f:runner.hero==SailaHero?.8725f:.85f);
+        if(runner.chillTime>0) speed*=ApplySlowResistance(runner,runner.hero==4?.88f:.85f);
         if(runner.rootTime>0) speed*=ApplySlowResistance(runner,runner.hero==4?.84f:.8f);
         if(runner.kit.surgeUntil>elapsed) speed*=1.8f;
         if(runner.kit.dodgeBoostUntil>elapsed) speed*=1.2f;
@@ -589,13 +589,13 @@ public partial class RiftorynTrial : MonoBehaviour
         {
             if(tower.hp<=0) continue;
             float distance=Vector3.Distance(runner.obj.transform.position,Slot(tower.slot));
-            if(distance>=range||UsesUnifiedRules&&!CanDisableSharedTower(runner,tower)) continue;
+            if(distance>=range||UsesUnifiedRules&&!CanDisableSharedTower(runner,tower,range)) continue;
             best=tower;
             range=distance;
         }
         return best;
     }
-    void Skill(Runner runner)=>UseSkill(runner,Nearest(runner,TowerSkillRange));
+    void Skill(Runner runner)=>UseSkill(runner,Nearest(runner,runner.hero==SailaHero?AdditionalHeroDesign(SailaHero).umiejetnosci.Q.parametry.zasieg_m:TowerSkillRange));
     void UseSkill(Runner r,Tower t)
     {
         if(r.cooldown>0)return;
@@ -634,9 +634,11 @@ public partial class RiftorynTrial : MonoBehaviour
         }
         if(r.hero==SailaHero)
         {
-            t.disabled=Mathf.Max(t.disabled,3f);r.cooldown=HeroBasicCooldown(SailaHero);r.uses++;
+            var p=AdditionalHeroDesign(SailaHero).umiejetnosci.Q.parametry;
+            if(Vector3.Distance(r.obj.transform.position,Slot(t.slot))>=p.zasieg_m)return;
+            t.disabled=Mathf.Max(t.disabled,p.wylaczenie_s);r.cooldown=HeroBasicCooldown(SailaHero);r.uses++;
             var motion=r.obj.GetComponentInChildren<RiftorynSailaMotion>();if(motion)motion.Cast();
-            ShowSailaFreeze(t);if(r==player)Notify("Zamrożenie mechanizmu · 3 s");return;
+            ShowSailaFreeze(t);if(r==player)Notify(SharedSkillInfo(SailaHero,0).name);return;
         }
         if (r.hero == LucenHero)
         {
@@ -1234,7 +1236,7 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         if(selectedHero==4)return "NIVA · Q: usuwa spowolnienie u najbliższego spowolnionego sojusznika w zasięgu, w przeciwnym razie u siebie; 2 s odporności.";
         if(selectedHero==5)return "LIORA · Q: pole pod postacią leczy pobliskich sojuszników przez 5 s.";
-        if(selectedHero==SailaHero)return "SAILA · Q: zamraża najbliższą wieżę w zasięgu na 3 s. Odnowienie 24 s.";
+        if(selectedHero==SailaHero)return "SAILA · Q: "+SharedSkillInfo(SailaHero,0).description;
         if(selectedHero==NeraHero)return RiftorynCodexData.Text("NERA · Q: 35 osłony dla Ciebie i 65 dla pobliskiego sojusznika (8 m). Osłona słabnie o 10% na sekundę. Model zastępczy.","NERA · Q: 35 shield for you and 65 for a nearby ally (8 m). Shield decays by 10% per second. Placeholder model.");
         if(selectedHero==MikoHero)return RiftorynCodexData.Text("MIKO · Q: sabotaż wieży. Trafienia Błyskawicami losują premię 0–50% do szybkości na 4 s.","MIKO · Q: sabotage a tower. Lightning hits grant a random 0–50% speed bonus for 4 s.");
         if(selectedHero==SarnaHero)return "SARNA · Q: "+SharedSkillInfo(SarnaHero,0).description;

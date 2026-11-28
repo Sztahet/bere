@@ -14,7 +14,7 @@ public partial class RiftorynTrial
         if(!asset)throw new System.InvalidOperationException("Brak danych bohatera: "+id);
         design=JsonUtility.FromJson<SimHero>(asset.text);
         if(design?.statystyki==null||design.statystyki.hp<=0||design.statystyki.predkosc_m_s<=0||design.statystyki.zasieg_ataku_m<=0||design.statystyki.odnowienie_ataku_s<=0
-            ||design.umiejetnosci?.Q==null||design.umiejetnosci.E?.parametry==null||design.umiejetnosci.R?.parametry==null)
+            ||design.pasywna?.parametry==null||design.umiejetnosci?.Q?.parametry==null||design.umiejetnosci.E?.parametry==null||design.umiejetnosci.R?.parametry==null)
             throw new System.InvalidOperationException("Niekompletne umiejętności bohatera: "+id);
         additionalHeroDesigns.Add(hero,design);return design;
     }

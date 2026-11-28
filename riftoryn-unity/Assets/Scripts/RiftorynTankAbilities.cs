@@ -94,7 +94,12 @@ public partial class RiftorynTrial
         float activeTime=Mathf.Min(dt,runner.kit.tankHealUntil-elapsed);
         foreach(var ally in AllRunners())if(ally!=runner&&RunnersNear(runner,ally,p.promien_m))ApplyTeamHealing(ally,p.leczenie_na_sekunde*activeTime);
     }
-    float ApplySlowResistance(Runner runner,float factor)=>runner.kit.tankSlowResistUntil>elapsed?1-(1-factor)*.5f:factor;
+    float ApplySlowResistance(Runner runner,float factor)
+    {
+        if(runner.hero==SailaHero)factor=1-(1-factor)*(1-Mathf.Clamp01(AdditionalHeroDesign(SailaHero).pasywna.parametry.redukcja_spowolnienia_procent/100f));
+        if(runner.kit.tankSlowResistUntil>elapsed)factor=1-(1-factor)*.5f;
+        return factor;
+    }
     float ApplyTeamHealing(Runner target,float amount)
     {
         if(!IsRunning(target)||amount<=0)return 0;

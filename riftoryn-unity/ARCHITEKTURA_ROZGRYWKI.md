@@ -12,6 +12,7 @@ Faza ręcznego ustawiania korzysta z tego samego edytora pól co wcześniejszy t
 - **Stare tryby i ranking:** starsze punkty wejścia i implementacja wyników pozostają w kodzie na czas migracji, lecz nie są osobnymi grami w menu. Dotychczasowy ranking można obejrzeć jako poprzednie wyniki; nowa gra nie dopisuje do niego wyników, bo jej konfiguracje i mapy nie są porównywalne ze starym duetem.
 - Szesnaście wybranych postaci ma Q/E/R w lokalnym prototypie. Dla całej szesnastki HP, szybkość, atak podstawowy i czas odnowienia Q pochodzą z `Resources/HeroDesign`, tak jak w symulacji. Atak w grze korzysta z obrażeń, zasięgu i czasu odnowienia z plików; wcześniej wszystkim zadawał 25 obrażeń. Parametry części starszych umiejętności nadal wymagają migracji do wspólnych danych. Pasywki Any, Lumen i Morraka wymagają dalszej pracy. Ana, Bob, Sarna, Lumen i Blask mają uproszczone modele PoC. Wspólny kontrakt towarzysza obsługuje celowanie i trafienia Patki, Iskry, Boba i Blasku.
 - Pnącza Natury zatruwają także żywych towarzyszy: 4 obrażenia na sekundę przez 3 sekundy od wejścia, z pochłanianiem przez dostępną osłonę. Pozostałe efekty statusowe i spowolnienie ruchu towarzyszy wymagają odrębnej implementacji i testów.
+- Q/E/R i pasywka Saily odczytują wartości z jej pliku `HeroDesign/saila.json`; opisy umiejętności uwzględniają te same wartości. Odporność pasywna obejmuje też spowolnienie od pnączy. Reszta starszych zestawów wciąż wymaga analogicznej migracji.
 
 ## Kontrola zmian
 

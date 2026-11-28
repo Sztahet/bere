@@ -98,9 +98,9 @@ public partial class RiftorynTrial
     static bool WithinSharedDiscovery(Runner runner,Vector3 towerPosition)=>
         IsRunning(runner)&&(runner.obj.transform.position-towerPosition).sqrMagnitude<=SharedDiscoveryRange*SharedDiscoveryRange;
 
-    bool CanDisableSharedTower(Runner runner,Tower tower)=>
+    bool CanDisableSharedTower(Runner runner,Tower tower,float range=TowerSkillRange)=>
         tower.discovered&&tower.hp>0&&tower.disabled<=0
-        &&(runner.obj.transform.position-Slot(tower.slot)).sqrMagnitude<TowerSkillRange*TowerSkillRange
+        &&(runner.obj.transform.position-Slot(tower.slot)).sqrMagnitude<range*range
         &&TowerHasClearShot(tower,runner.obj.transform.position+Vector3.up);
 
     void StepSharedBot(Runner runner,float dt)
