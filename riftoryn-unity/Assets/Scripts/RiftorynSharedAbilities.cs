@@ -10,7 +10,7 @@ public partial class RiftorynTrial
     sealed class SharedAbilityState
     {
         public float secondaryReadyAt, ultimateReadyAt, wardUntil, reserveUntil, surgeUntil, dodgeBoostUntil;
-        public float recallUntil, guardUntil, mikoBoostUntil, mikoSpeedBonus;
+        public float recallUntil, guardUntil, mikoBoostUntil, mikoSpeedBonus, regenerationRemaining, regenerationPerSecond;
         public bool rewardedRoll;
         public Runner guardedPartner;
     }
@@ -44,7 +44,7 @@ public partial class RiftorynTrial
         IsRunning(first)&&IsRunning(second)
         &&(first.obj.transform.position-second.obj.transform.position).sqrMagnitude<=range*range;
 
-    static (float secondary,float ultimate) SharedAbilityCooldowns(int hero)=>hero switch
+    (float secondary,float ultimate) SharedAbilityCooldowns(int hero)=>hero switch
     {
         KaelHero=>(16f,36f),
         NeraHero=>(14f,32f),
@@ -53,6 +53,7 @@ public partial class RiftorynTrial
         MikoHero=>(12f,32f),
         SarnaHero=>(16f,32f),
         SailaHero=>(18f,36f),
+        1 or 4 or 5=>NewHeroCooldowns(hero),
         _=>(0f,0f)
     };
 
@@ -72,6 +73,7 @@ public partial class RiftorynTrial
             MikoHero=>MikoExtra(runner,ultimate,tower),
             SarnaHero=>SupportSarnaTeam(runner,partner,ultimate),
             SailaHero=>UseSailaExtra(runner,ultimate,tower),
+            1 or 4 or 5=>UseNewHeroAbility(runner,ultimate,tower),
             _=>false
         };
         if(!cast) return false;
@@ -102,7 +104,7 @@ public partial class RiftorynTrial
         tower??=Nearest(runner,TowerSkillRange);
         if(tower==null||!tower.discovered||tower.hp<=0||!TowerHasClearShot(tower,runner.obj.transform.position+Vector3.up))return false;
         if(Vector3.Distance(runner.obj.transform.position,Slot(tower.slot))>=TowerSkillRange)return false;
-        tower.frostSlow=Mathf.Max(tower.frostSlow,5f);ShowSailaFreeze(tower);return true;
+        ApplyTowerSlow(tower,5f,35f);ShowSailaFreeze(tower);return true;
     }
 
     void BoostSarnaTeam(Runner runner)
@@ -461,6 +463,15 @@ public partial class RiftorynTrial
             case SailaHero:
                 if(threat!=null&&TryUseSharedAbility(runner,true))return true;
                 return threat!=null&&threat.frostSlow<=0&&TryUseSharedAbility(runner,false,threat);
+            case 1:
+                if(threat!=null&&runner.cooldown>0&&TryUseSharedAbility(runner,true,threat))return true;
+                return threat!=null&&threat.frostSlow<=0&&TryUseSharedAbility(runner,false,threat);
+            case 4:
+                if((runner.chillTime>0||IsRunning(partner)&&partner.chillTime>0)&&TryUseSharedAbility(runner,true))return true;
+                return TryUseSharedAbility(runner,false);
+            case 5:
+                if(IsRunning(partner)&&partner.hp<MaxHp[partner.hero]*.55f&&TryUseSharedAbility(runner,true))return true;
+                return TryUseSharedAbility(runner,false);
             default:return false;
         }
     }
@@ -498,6 +509,18 @@ public partial class RiftorynTrial
         (SailaHero,1)=>SkillText("Szron na lufie","Frosted Barrel","Spowalnia ostrzał odkrytej, widocznej wieży o 35% przez 5 s.","Slows a discovered tower's fire rate by 35% for 5 s."),
         (SailaHero,2)=>SkillText("Pęknięcie lodu","Ice Fracture","Zadaje 35 obrażeń i wyłącza odkryte, widoczne wieże w promieniu 9 m na 2 s.","Deals 35 damage and disables revealed towers in sight within 9 m for 2 s."),
         (SailaHero,3)=>SkillText("Zimny krok","Cold Step","Spowolnienia działające na Sailę są o 15% słabsze.","Slows affecting Saila are 15% weaker."),
+        (1,0)=>SkillText("Skupiony żar","Focused Ember","Zadaje odkrytej wieży 100 obrażeń w zasięgu 17,4 m.","Deals 100 damage to a revealed tower within 17.4 m."),
+        (1,1)=>SkillText("Rozgrzany mechanizm","Heated Mechanism","Spowalnia ostrzał odkrytej wieży o 35% przez 4 s.","Slows a revealed tower's fire rate by 35% for 4 s."),
+        (1,2)=>SkillText("Przeciążenie","Overload","Zadaje odkrytej wieży 70 obrażeń i wyłącza ją na 2 s.","Deals 70 damage to a revealed tower and disables it for 2 s."),
+        (1,3)=>SkillText("Żaroodporność","Heat Resistance","Otrzymuje o 15% mniej obrażeń Ognia.","Takes 15% less Fire damage."),
+        (4,0)=>SkillText("Chłodna głowa","Cool Head","Usuwa spowolnienie Lodu i chroni przed nim przez 2 s.","Clears Ice slow and prevents it for 2 s."),
+        (4,1)=>SkillText("Lodowy opatrunek","Icy Dressing","Leczy najbliższego rannego sojusznika o 25 HP w zasięgu 8 m.","Heals the nearest injured ally by 25 HP within 8 m."),
+        (4,2)=>SkillText("Bezpieczne przejście","Safe Passage","Usuwa spowolnienie Lodu u drużyny w 6 m i chroni przed nim przez 3 s.","Clears Ice slow for allies within 6 m and prevents it for 3 s."),
+        (4,3)=>SkillText("Mrozoodporność","Frost Resistance","Spowolnienia ruchu działają o 20% słabiej.","Movement slows are 20% weaker."),
+        (5,0)=>SkillText("Pole życia","Field of Life","Przez 5 s leczy uczestników w polu 4 m o 11 HP co sekundę.","Heals participants in a 4 m area by 11 HP per second for 5 s."),
+        (5,1)=>SkillText("Szybki opatrunek","Quick Dressing","Leczy najbliższego rannego sojusznika o 33 HP w zasięgu 8 m.","Heals the nearest injured ally by 33 HP within 8 m."),
+        (5,2)=>SkillText("Odnowa szlaku","Trail Renewal","Leczy drużynę w 6 m o 22 HP i dodatkowo 5,5 HP/s przez 4 s.","Heals the team within 6 m by 22 HP and 5.5 HP/s for 4 s."),
+        (5,3)=>SkillText("Troska","Care","Leczenie Liory jest o 10% silniejsze; wartości zdolności uwzględniają premię.","Liora's healing is 10% stronger; ability values include the bonus."),
         _=>("","")
     };
 
@@ -512,6 +535,9 @@ public partial class RiftorynTrial
         MikoHero=>RiftorynCodexData.Text("Sabotuje wieże szpadą i wynalazkami.","Sabotages towers with his blade and inventions."),
         SarnaHero=>RiftorynCodexData.Text("Przyspiesza duet, leczy partnera i usuwa spowolnienia.","Speeds up the pair, heals her ally, and clears slows."),
         SailaHero=>RiftorynCodexData.Text("Zamraża wieże i otwiera drużynie drogę pod ostrzałem.","Freezes towers and opens a path for the team under fire."),
+        1=>RiftorynCodexData.Text("Uszkadza i osłabia wybrane wieże.","Damages and disrupts selected towers."),
+        4=>RiftorynCodexData.Text("Usuwa spowolnienia i opatruje rannych sojuszników.","Clears slows and heals injured allies."),
+        5=>RiftorynCodexData.Text("Leczy drużynę w polu i podczas ucieczki.","Heals the team in an area and on the move."),
         _=>""
     };
 

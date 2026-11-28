@@ -32,7 +32,7 @@ public partial class RiftorynTrial : MonoBehaviour
         public readonly RiftorynPeriodicEffect burn=new(), poison=new();
     }
     class FloatingCombatText { public Transform anchor; public Vector3 position; public string text; public Color color; public float started, offset; }
-    class Tower { public int slot,type; public float hp=100,wait,disabled,overload,frostSlow; public GameObject obj, marker; public LineRenderer range, warning; public Runner target,divertedTo; public RiftorynPatkaPreview petTarget; public float windup,divertUntil,rangeVisibleUntil; public bool discovered,iceActive,misfires; public LineRenderer[] snowflakes; }
+    class Tower { public int slot,type; public float hp=100,wait,disabled,overload,frostSlow,slowRateMultiplier=1f; public GameObject obj, marker; public LineRenderer range, warning; public Runner target,divertedTo; public RiftorynPatkaPreview petTarget; public float windup,divertUntil,rangeVisibleUntil; public bool discovered,iceActive,misfires; public LineRenderer[] snowflakes; }
     class Shot { public ShotVisual visual; public Vector3 origin,direction; public float remaining,damage; public Runner target; public int id,type; }
     class EarthStrike { public Vector3 position; public float remaining,damage; public int id; public GameObject marker; public LineRenderer ring; }
     readonly List<EarthStrike> earthStrikes=new();
@@ -491,10 +491,10 @@ public partial class RiftorynTrial : MonoBehaviour
     float RunnerSpeed(Runner runner)
     {
         float speed=Speed[runner.hero];
-        if(runner.exposure>0) speed*=runner.hero==SailaHero?.915f:.9f;
+        if(runner.exposure>0) speed*=runner.hero==4?.92f:runner.hero==SailaHero?.915f:.9f;
         if(runner.boost>0) speed*=UsesUnifiedRules&&runner.hero==ZetHero?1.15f:1.2f;
         if(runner.chillTime>0) speed*=runner.hero==4?.88f:runner.hero==SailaHero?.8725f:.85f;
-        if(runner.rootTime>0) speed*=.8f;
+        if(runner.rootTime>0) speed*=runner.hero==4?.84f:.8f;
         if(runner.kit.surgeUntil>elapsed) speed*=1.8f;
         if(runner.kit.dodgeBoostUntil>elapsed) speed*=1.2f;
         if(runner.kit.mikoBoostUntil>elapsed) speed*=1f+runner.kit.mikoSpeedBonus;
@@ -542,12 +542,13 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         if(!IsRunning(r)) return;
         float periodicDamage=UsesUnifiedRules&&r.hero==KaelHero?.8f:1f;
-        r.burn.Advance(dt,amount=>{if(r.hp>0) Damage(r,amount*periodicDamage,true,false,"PODPALENIE");});
+        r.burn.Advance(dt,amount=>{if(r.hp>0) Damage(r,amount*(UsesUnifiedRules&&r.hero==1?.85f:periodicDamage),true,false,"PODPALENIE");});
         r.poison.Advance(dt,amount=>{if(r.hp>0) Damage(r,amount*periodicDamage,true,false,"TRUCIZNA");});
         r.chillTime=Mathf.Max(0,r.chillTime-dt);
         r.rootTime=Mathf.Max(0,r.rootTime-dt);r.shadowTime=Mathf.Max(0,r.shadowTime-dt);
         r.slowImmunity=Mathf.Max(0,r.slowImmunity-dt);
         if(r.hp<=0) return;
+        if(UsesUnifiedRules)StepAdditionalRegeneration(r,dt);
         r.cooldown=Mathf.Max(0,r.cooldown-dt);
         r.attackCooldown=Mathf.Max(0,r.attackCooldown-dt);
         r.boost=Mathf.Max(0,r.boost-dt);
@@ -618,7 +619,7 @@ public partial class RiftorynTrial : MonoBehaviour
             if(r==player)Notify(RiftorynCodexData.Text("Iskra wsparcia · osłona","Helping Spark · shield"));
             return;
         }
-        if(r.hero==4){Runner other=PartnerOf(r);Runner target=other!=null&&other.hp>0&&!other.done&&other.chillTime>0&&Vector3.Distance(r.obj.transform.position,other.obj.transform.position)<=8?other:r;target.chillTime=0;target.slowImmunity=2;r.cooldown=18;r.uses++;return;}
+        if(r.hero==4){Runner target=UsesUnifiedRules?NearestAllyMatching(r,8f,other=>other.chillTime>0):PartnerOf(r);if(target==null||!IsRunning(target)||target.chillTime<=0||Vector3.Distance(r.obj.transform.position,target.obj.transform.position)>8f)target=r;target.chillTime=0;target.slowImmunity=2;r.cooldown=18;r.uses++;return;}
         if(r.hero==5){healingPosition=r.obj.transform.position;healingTime=5;healingTick=1;UpdateHealingRing();r.cooldown=20;r.uses++;return;}
         if(r.hero!=0&&r.hero!=3&&t==null){if(r==player)Notify("Podejdź bliżej wieży, aby użyć umiejętności.");return;}
         if(r.hero==KonevaHero)
@@ -712,7 +713,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 if(!pet.IsAlive || Vector3.Distance(pet.AimPosition,Slot(t.slot))>=TowerRange[t.type] || !TowerHasClearShot(t,pet.AimPosition))
                 {t.iceActive=false;t.petTarget=null;t.windup=0;t.warning.enabled=false;continue;}
                 Vector3 aim=pet.AimPosition, start=ShotOrigin(t,aim);
-                t.warning.enabled=!t.iceActive;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);t.windup-=dt*(t.frostSlow>0?.65f:1f);
+                t.warning.enabled=!t.iceActive;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);t.windup-=dt*(t.frostSlow>0?t.slowRateMultiplier:1f);
                 if(t.type==1&&t.iceActive) SetIceStream(t,true,aim);
                 if(t.windup>0)continue;
                 if(t.type==1){t.iceActive=true;t.windup=t.overload>0?.25f/1.5f:.25f;if(!t.misfires||UnityEngine.Random.value>=.5f)FireTowerShot(t,start,aim,null);SetIceStream(t,true,aim);continue;}
@@ -727,7 +728,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 Vector3 aim=PredictAim(start,center,t.target.velocity,ProjectileSpeed);
                 t.warning.enabled=!t.iceActive;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);
                 if(t.type==1&&t.iceActive) SetIceStream(t,true,center);
-                t.windup-=dt*(t.frostSlow>0?.65f:1f);
+                t.windup-=dt*(t.frostSlow>0?t.slowRateMultiplier:1f);
                 if(t.windup>0)continue;
                 if(t.type==1){t.iceActive=true;t.windup=t.overload>0?.25f/1.5f:.25f;if(!t.misfires||UnityEngine.Random.value>=.5f)FireTowerShot(t,start,aim,t.target);SetIceStream(t,true,center);continue;}
                 if(!t.misfires||UnityEngine.Random.value>=.5f){if(t.type==4) StartEarthStrike(aim,TowerDamage[t.type]); else if(t.type==3) StartVinePatch(center,t.target.velocity); else FireTowerShot(t,start,aim,t.target);}
@@ -735,7 +736,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 t.target=null;t.warning.enabled=false;t.wait=Mathf.Max(0,TowerRate[t.type]-TowerWindup);
                 continue;
             }
-            t.warning.enabled=false;t.wait-=dt*(t.overload>0?1.5f:1f)*(t.frostSlow>0?.65f:1f);if(t.wait>0)continue;
+            t.warning.enabled=false;t.wait-=dt*(t.overload>0?1.5f:1f)*(t.frostSlow>0?t.slowRateMultiplier:1f);if(t.wait>0)continue;
             // During the maneuver the nearest flying Patka takes priority over runners.
             RiftorynPatkaPreview lure=null;float lureDistance=TowerRange[t.type];
             foreach(var r in AllRunners()){if(r==null||!r.obj||r.hp<=0||r.done)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsFlying)continue;float distance=Vector3.Distance(pet.AimPosition,Slot(t.slot));if(distance<lureDistance&&TowerHasClearShot(t,pet.AimPosition)){lure=pet;lureDistance=distance;}}

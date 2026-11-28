@@ -10,7 +10,7 @@ Faza ręcznego ustawiania korzysta z tego samego edytora pól co wcześniejszy t
 
 - **LAN:** z ekranu ustawień nadal dostępny jest poprzedni test dwóch osób. Ma własny protokół, ekran połączenia i ograniczony zestaw synchronizowanych zdolności; nie jest jeszcze sieciową wersją nowego meczu ani nie obsługuje jego parametrów. Nie należy przedstawiać go jako pełnego wspólnego multiplayera. Ruch gościa korzysta już z tej samej funkcji ruchu co pozostałe postacie.
 - **Stare tryby i ranking:** starsze punkty wejścia i implementacja wyników pozostają w kodzie na czas migracji, lecz nie są osobnymi grami w menu. Dotychczasowy ranking można obejrzeć jako poprzednie wyniki; nowa gra nie dopisuje do niego wyników, bo jej konfiguracje i mapy nie są porównywalne ze starym duetem.
-- Siedem postaci ma zestaw Q/E/R w lokalnej grze: Kael, Nera, Zet, Koneva, Miko, Sarna i Saila. Pozostałe korzystają z dotychczas dostępnych zdolności testowych. To ograniczenie zawartości postaci, nie osobne warianty zasad dla różnej liczby graczy.
+- Dziesięć postaci ma zestaw Q/E/R w lokalnej grze: Kael, Nera, Zet, Koneva, Miko, Sarna, Saila, Niva, Liora i Rian. Nowe umiejętności Nivy, Liory i Rian korzystają z parametrów w `Resources/HeroDesign`; wcześniejsze zestawy nadal wymagają migracji do wspólnych danych. Pozostałe postacie korzystają z dotychczas dostępnych zdolności testowych albo nie są jeszcze w drafcie.
 
 ## Kontrola zmian
 

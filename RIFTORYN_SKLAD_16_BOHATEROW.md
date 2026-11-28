@@ -12,13 +12,13 @@ Propozycja docelowego składu do przygotowania na potrzeby gry: po cztery postac
 ## Wsparcie
 
 - **Nera — Błyskawice:** osłony i ochrona przed efektami trafień. Pełny zestaw Q/E/R w lokalnym prototypie.
-- **Niva — Lód:** usuwanie spowolnień i zabezpieczenie drużyny przed nimi. W prototypie ma podstawową umiejętność Q.
-- **Liora — Natura:** obszarowe leczenie i utrzymanie drużyny. W prototypie ma podstawową umiejętność Q.
+- **Niva — Lód:** usuwanie spowolnień i zabezpieczenie drużyny przed nimi. Q/E/R działa w lokalnym prototypie.
+- **Liora — Natura:** obszarowe leczenie i utrzymanie drużyny. Q/E/R działa w lokalnym prototypie.
 - **Sarna — Natura:** przyspieszenie i pomoc sojusznikowi podczas przejścia. Pełny zestaw Q/E/R w lokalnym prototypie.
 
 ## Specjaliści
 
-- **Rian — Ogień:** skoncentrowane obrażenia wybranej wieży. W prototypie ma podstawową umiejętność Q.
+- **Rian — Ogień:** skoncentrowane obrażenia wybranej wieży. Q/E/R działa w lokalnym prototypie.
 - **Saila — Lód:** czasowe wyłączanie wieży i otwieranie przejścia. Q/E/R działa w lokalnym prototypie; balans i ikony wymagają dalszego dopracowania.
 - **Zet — Błyskawice:** zwiad, wyłączanie wież i mobilność. Pełny zestaw Q/E/R w lokalnym prototypie.
 - **Miko — Błyskawice:** ryzykowny sabotaż o zmiennym wyniku. Pełny zestaw Q/E/R w lokalnym prototypie; szczegóły balansu pozostają do sprawdzenia.
@@ -35,5 +35,5 @@ Propozycja docelowego składu do przygotowania na potrzeby gry: po cztery postac
 - Siedem żywiołów jest reprezentowanych: Ogień 3, Lód 2, Błyskawice 3, Natura 4, Ziemia 1, Światło 1, Ciemność 2. Nierówność jest świadomym kompromisem na rzecz różnorodności ról i zachowania istniejących postaci; nie jest jeszcze wynikiem testów balansu.
 - Przy meczu 5 na 5 wspólna pula 16 unikalnych postaci pozwala wybrać dziesięć i pozostawia sześć niewybranych. Nie narzuca to obowiązkowej liczby postaci danej roli w drużynie.
 - Każda postać docelowo potrzebuje trzech działających umiejętności Q/E/R, pasywki, indywidualnych ikon, informacji o zasięgu i odnowieniu oraz zachowań AI. Dokładne zestawy i balans trzeba osobno opracować i przetestować.
-- W obecnym Unity Q/E/R mają Kael, Nera, Zet, Koneva, Miko, Sarna i Saila. Pozostałe wymienione postacie mają jedynie częściowy prototyp albo nie są jeszcze grywalne w lokalnym meczu. Istniejące koncepcje obrony nie oznaczają, że sterowanie wieżami jest gotowe.
+- W obecnym Unity Q/E/R mają Kael, Nera, Zet, Koneva, Miko, Sarna, Saila, Niva, Liora i Rian. Pozostałe wymienione postacie mają jedynie częściowy prototyp albo nie są jeszcze grywalne w lokalnym meczu. Istniejące koncepcje obrony nie oznaczają, że sterowanie wieżami jest gotowe.
 - Opowiadania Broma, Miko oraz Any i Boba są oznaczone w katalogu jako szkice; nie są podstawą do przedstawiania ich jako zatwierdzonych historii.

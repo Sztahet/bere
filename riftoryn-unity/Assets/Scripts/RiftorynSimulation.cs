@@ -4,7 +4,8 @@ using System.Threading;
 
 [Serializable] public class SimParams {
     public float zasieg_m,promien_m,oslona_wlasna,oslona_sojusznika,oslona,leczenie,
-        premia_predkosci_procent,czas_s,predkosc_procent,obrazenia,wylaczenie_s,czas_pecha_s;
+        premia_predkosci_procent,czas_s,predkosc_procent,obrazenia,wylaczenie_s,czas_pecha_s,
+        leczenie_poczatkowe,leczenie_na_sekunde,spowolnienie_ataku_procent;
 }
 [Serializable] public class SimAbility { public float odnowienie_s; public SimParams parametry; }
 [Serializable] public class SimSkills { public SimAbility Q,E,R; }
