@@ -10,17 +10,17 @@ public partial class RiftorynTrial
         else
         {
             pet=new GameObject(design.towarzysz.nazwa+" · model tymczasowy");pet.transform.SetParent(owner.transform,false);
-            var prefab=hero==AnaHero?Resources.Load<GameObject>("Pets/bob-poc"):null;
+            var prefab=Resources.Load<GameObject>(hero==AnaHero?"Pets/bob-poc":"Pets/blask-poc");
             if(prefab)
             {
-                var model=Instantiate(prefab,pet.transform);model.name="Bob · model PoC";
+                var model=Instantiate(prefab,pet.transform);model.name=design.towarzysz.nazwa+" · model PoC";
                 var renderers=model.GetComponentsInChildren<Renderer>();
                 if(renderers.Length>0)
                 {
                     Bounds bounds=renderers[0].bounds;foreach(var renderer in renderers)bounds.Encapsulate(renderer.bounds);
                     if(bounds.size.y>.001f)
                     {
-                        model.transform.localScale*=1f/bounds.size.y;
+                        model.transform.localScale*=(hero==AnaHero?1f:1.5f)/bounds.size.y;
                         bounds=renderers[0].bounds;foreach(var renderer in renderers)bounds.Encapsulate(renderer.bounds);
                         model.transform.position+=pet.transform.position-new Vector3(bounds.center.x,bounds.min.y,bounds.center.z);
                     }

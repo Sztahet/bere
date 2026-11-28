@@ -20,6 +20,8 @@ Arkusze do modelowania trzymamy w [assets/heroes/modeling-concepts](assets/heroe
 - [Adrien — arkusz postaci](assets/heroes/modeling-concepts/adrien-blender-reference.png). Referencja do modelowania Specjalisty Światła.
 - [Ruvan — portret](assets/heroes/portraits/ruvan-ice-specialist.png). Specjalista Lodu z Nivoren i mentor Saily. W kodeksie widnieje jako postać w przygotowaniu.
 - [Ana i Bob — arkusz koncepcyjny](assets/heroes/modeling-concepts/ana-bob.png). Grafika używa pisowni „Anna”; w GDD występuje „Ana”.
+- [Sarna — arkusz modelarski](assets/heroes/modeling-concepts/sarna.png). Zielono-kremowy warstwowy strój, długi warkocz, liściaste ozdoby i laska.
+- [Lumen i Blask — arkusz modelarski](assets/heroes/modeling-concepts/lumen-glimmer.png). Lumen nosi biało-złoty płaszcz i ciemny strój; jej towarzysz to jasny świetlisty jeleń. Grafika używa angielskiego imienia „Glimmer”; w projekcie polskie imię to Blask.
 - [Koneva i Pati — arkusz koncepcyjny](assets/heroes/modeling-concepts/koneva-pati.png). W GDD kotoperz nazywa się „Patka”; relacja nazw „Pati” i „Patka” pozostaje do ustalenia. Arkusz nazywa postacie ogólnie czarodziejką i kotoperzem.
 
 Arkusze zawierają widoki postaci, twarze, przykładowe ekspresje, kolory, wymiary, pozy i orientacyjną specyfikację. Ich widoki mogą nie być wystarczająco spójne do bezpośredniego modelowania; przed pracą należy rozstrzygnąć różnice i zatwierdzić sylwetki.
@@ -50,9 +52,9 @@ Arkusze zawierają widoki postaci, twarze, przykładowe ekspresje, kolory, wymia
 
 ## Pokrycie kart koncepcyjnych bohaterów
 
-W repozytorium są referencje modelowania 25 bohaterów: Ana, Brom, Dara, Eira, Elira, Iskar, Kael, Koneva, Liora, Miko, Morrak, Nera, Neris, Niva, Nocten, Orien, Pyrra, Rian, Saila, Solan, Taren, Thora, Zet, Adrien i Lucen. Lucen jest dodatkową alternatywą dla kombinacji Specjalista / Światło. Dodatkowo Lena ma arkusz modelarski jako postać w przygotowaniu, a Ruvan — portret. Petów nie liczymy jako bohaterów.
+W repozytorium są referencje modelowania bohaterów: Ana, Brom, Dara, Eira, Elira, Iskar, Kael, Koneva, Liora, Lumen, Miko, Morrak, Nera, Neris, Niva, Nocten, Orien, Pyrra, Rian, Saila, Sarna, Solan, Taren, Thora, Zet, Adrien i Lucen. Lucen jest dodatkową alternatywą dla kombinacji Specjalista / Światło. Dodatkowo Lena ma arkusz modelarski jako postać w przygotowaniu, a Ruvan — portret. Petów nie liczymy jako bohaterów.
 
-Brakuje kart modelowania siedmiu bohaterów: Varek, Eron, Kiran, Morven, Volt, Rokan i Lumen. Każdy ma już portret, ale sam portret nie zastępuje arkusza z widokami do modelowania. Obecność arkusza nie oznacza istnienia gotowego modelu 3D.
+Brakuje kart modelowania bohaterów: Varek, Eron, Kiran, Morven, Volt i Rokan. Portret nie zastępuje arkusza z widokami do modelowania. Obecność arkusza nie oznacza istnienia gotowego modelu 3D.
 
 ## Pyrra i Iskra / Spark — nowa referencja
 
