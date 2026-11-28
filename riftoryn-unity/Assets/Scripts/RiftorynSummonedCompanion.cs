@@ -20,14 +20,14 @@ public sealed class RiftorynSummonedCompanion : RiftorynCompanion
     public float MaximumHp=>health?health.maxHp:0;
     public float Shield=>shield;
 
-    public void Initialize(Transform ownerTransform,string petName,float maxHp,RiftorynSparkFollower foxFollower=null,bool lead=false)
+    public void Initialize(Transform ownerTransform,string petName,float maxHp,RiftorynSparkFollower foxFollower=null,bool lead=false,string gaitPrefix=null)
     {
         owner=ownerTransform;fox=foxFollower;externalMotion=foxFollower!=null;leadOwner=lead;
         health=gameObject.AddComponent<RiftorynPetHealth>();health.petName=petName;health.maxHp=health.currentHp=maxHp;
         previousOwnerPosition=owner.position;
-        if(leadOwner)
+        if(!string.IsNullOrEmpty(gaitPrefix))
         {
-            string[] names={"Bob_Przod_L","Bob_Przod_R","Bob_Tyl_L","Bob_Tyl_R"};
+            string[] names={gaitPrefix+"_Przod_L",gaitPrefix+"_Przod_R",gaitPrefix+"_Tyl_L",gaitPrefix+"_Tyl_R"};
             paws=new Transform[names.Length];pawRest=new Quaternion[names.Length];
             var transforms=GetComponentsInChildren<Transform>(true);
             for(int i=0;i<names.Length;i++)foreach(var part in transforms)if(part.name==names[i]){paws[i]=part;pawRest[i]=part.localRotation;break;}
@@ -58,7 +58,7 @@ public sealed class RiftorynSummonedCompanion : RiftorynCompanion
             if(obstacle.name=="Mur"){desired=owner.position;break;}
         transform.position=desired;
         transform.rotation=owner.rotation;
-        if(leadOwner)AnimatePaws();
+        if(paws!=null)AnimatePaws();
     }
     void AnimatePaws()
     {
