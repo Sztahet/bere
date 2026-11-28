@@ -10,9 +10,28 @@ public partial class RiftorynTrial
         else
         {
             pet=new GameObject(design.towarzysz.nazwa+" · model tymczasowy");pet.transform.SetParent(owner.transform,false);
-            var body=GameObject.CreatePrimitive(PrimitiveType.Sphere);body.name="Sylwetka towarzysza";body.transform.SetParent(pet.transform,false);
-            body.transform.localPosition=Vector3.up*.5f;body.transform.localScale=hero==AnaHero?new Vector3(.9f,.8f,1.1f):new Vector3(.55f,1f,.9f);
-            body.GetComponent<Renderer>().sharedMaterial=Mat(hero==AnaHero?new Color(.22f,.27f,.20f):new Color(.88f,.76f,.44f));Destroy(body.GetComponent<Collider>());
+            var prefab=hero==AnaHero?Resources.Load<GameObject>("Pets/bob-poc"):null;
+            if(prefab)
+            {
+                var model=Instantiate(prefab,pet.transform);model.name="Bob · model PoC";
+                var renderers=model.GetComponentsInChildren<Renderer>();
+                if(renderers.Length>0)
+                {
+                    Bounds bounds=renderers[0].bounds;foreach(var renderer in renderers)bounds.Encapsulate(renderer.bounds);
+                    if(bounds.size.y>.001f)
+                    {
+                        model.transform.localScale*=1f/bounds.size.y;
+                        bounds=renderers[0].bounds;foreach(var renderer in renderers)bounds.Encapsulate(renderer.bounds);
+                        model.transform.position+=pet.transform.position-new Vector3(bounds.center.x,bounds.min.y,bounds.center.z);
+                    }
+                }
+            }
+            else
+            {
+                var body=GameObject.CreatePrimitive(PrimitiveType.Sphere);body.name="Sylwetka towarzysza";body.transform.SetParent(pet.transform,false);
+                body.transform.localPosition=Vector3.up*.5f;body.transform.localScale=hero==AnaHero?new Vector3(.9f,.8f,1.1f):new Vector3(.55f,1f,.9f);
+                body.GetComponent<Renderer>().sharedMaterial=Mat(hero==AnaHero?new Color(.22f,.27f,.20f):new Color(.88f,.76f,.44f));Destroy(body.GetComponent<Collider>());
+            }
         }
         var companion=pet.AddComponent<RiftorynSummonedCompanion>();
         companion.Initialize(owner.transform,design.towarzysz.nazwa,design.towarzysz.hp,hasFox?follower:null);
