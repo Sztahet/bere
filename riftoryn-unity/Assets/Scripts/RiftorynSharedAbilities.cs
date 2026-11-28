@@ -11,6 +11,7 @@ public partial class RiftorynTrial
     {
         public float secondaryReadyAt, ultimateReadyAt, wardUntil, reserveUntil, surgeUntil, dodgeBoostUntil;
         public float recallUntil, guardUntil, mikoBoostUntil, mikoSpeedBonus, regenerationRemaining, regenerationPerSecond;
+        public float tankHealUntil,tankSlowResistUntil,tankDamageResistUntil,morrakSlowUntil;
         public bool rewardedRoll;
         public Runner guardedPartner;
     }
@@ -20,11 +21,11 @@ public partial class RiftorynTrial
         public LineRenderer outline;
         public Material material;
         public Vector3 center, normal, side;
-        public float endsAt;
+        public float endsAt,width,height;
         public int charges;
     }
 
-    HeatBarrier heatBarrier;
+    readonly System.Collections.Generic.List<HeatBarrier> heatBarriers=new();
 
     Runner PartnerOf(Runner runner)
     {
@@ -54,6 +55,7 @@ public partial class RiftorynTrial
         SarnaHero=>(16f,32f),
         SailaHero=>(18f,36f),
         1 or 4 or 5=>NewHeroCooldowns(hero),
+        ThoraHero or BromHero or MorrakHero=>NewHeroCooldowns(hero),
         _=>(0f,0f)
     };
 
@@ -74,6 +76,7 @@ public partial class RiftorynTrial
             SarnaHero=>SupportSarnaTeam(runner,partner,ultimate),
             SailaHero=>UseSailaExtra(runner,ultimate,tower),
             1 or 4 or 5=>UseNewHeroAbility(runner,ultimate,tower),
+            ThoraHero or BromHero or MorrakHero=>UseTankAbility(runner,ultimate),
             _=>false
         };
         if(!cast) return false;
@@ -124,8 +127,7 @@ public partial class RiftorynTrial
         if(!ultimate)
         {
             if(!near||partner.hp>=MaxHp[partner.hero]) return false;
-            float restored=Mathf.Min(25f,MaxHp[partner.hero]-partner.hp);
-            partner.hp+=restored;
+            float restored=ApplyTeamHealing(partner,25f);
             ShowCombatText(partner,$"+{Mathf.CeilToInt(restored)} HP",new Color(.57f,.85f,.42f));
             return true;
         }
@@ -229,7 +231,11 @@ public partial class RiftorynTrial
 
     bool RaiseHeatBarrier(Runner runner,Tower threat)
     {
-        if(heatBarrier!=null) return false;
+        return RaiseSharedBarrier(runner,threat,BarrierWidth,BarrierHeight,4f,3,new Color(1f,.56f,.16f));
+    }
+
+    bool RaiseSharedBarrier(Runner runner,Tower threat,float width,float height,float duration,int charges,Color color)
+    {
         threat??=Nearest(runner,TowerSkillRange);
         Vector3 origin=runner.obj.transform.position;
         Vector3 normal=threat!=null?Slot(threat.slot)-origin:runner.obj.transform.forward;
@@ -237,7 +243,7 @@ public partial class RiftorynTrial
         if(normal.sqrMagnitude<.01f) return false;
         normal.Normalize();
         Vector3 side=Vector3.Cross(Vector3.up,normal);
-        Vector3 center=origin+normal*1.6f+Vector3.up*(BarrierHeight*.5f);
+        Vector3 center=origin+normal*1.6f+Vector3.up*(height*.5f);
         var outline=new GameObject("Kurtyna żaru").AddComponent<LineRenderer>();
         outline.transform.SetParent(world.transform);
         outline.useWorldSpace=true;
@@ -246,36 +252,35 @@ public partial class RiftorynTrial
         outline.startWidth=outline.endWidth=.13f;
         var material=new Material(Shader.Find("Sprites/Default"));
         outline.sharedMaterial=material;
-        outline.startColor=outline.endColor=new Color(1f,.56f,.16f);
-        Vector3 halfWidth=side*(BarrierWidth*.5f), halfHeight=Vector3.up*(BarrierHeight*.5f);
+        outline.startColor=outline.endColor=color;
+        Vector3 halfWidth=side*(width*.5f), halfHeight=Vector3.up*(height*.5f);
         outline.SetPositions(new[]{center-halfWidth-halfHeight,center+halfWidth-halfHeight,
             center+halfWidth+halfHeight,center-halfWidth+halfHeight});
-        heatBarrier=new HeatBarrier{outline=outline,material=material,center=center,normal=normal,side=side,endsAt=elapsed+4f,charges=3};
+        heatBarriers.Add(new HeatBarrier{outline=outline,material=material,center=center,normal=normal,side=side,endsAt=elapsed+duration,charges=charges,width=width,height=height});
         return true;
     }
 
     void ClearHeatBarrier()
     {
-        if(heatBarrier==null) return;
-        if(heatBarrier.outline) Destroy(heatBarrier.outline.gameObject);
-        if(heatBarrier.material) Destroy(heatBarrier.material);
-        heatBarrier=null;
+        foreach(var barrier in heatBarriers)DestroySharedBarrier(barrier);
+        heatBarriers.Clear();ClearTankZones();
     }
+
+    void DestroySharedBarrier(HeatBarrier barrier){if(barrier.outline)Destroy(barrier.outline.gameObject);if(barrier.material)Destroy(barrier.material);}
 
     bool HeatBarrierBlocks(Vector3 start,Vector3 segment,float firstHit,out Vector3 impact)
     {
         impact=start;
-        if(heatBarrier==null) return false;
         float length=segment.magnitude;
         if(length<=0) return false;
         var ray=new Ray(start,segment/length);
-        var plane=new Plane(heatBarrier.normal,heatBarrier.center);
-        if(!plane.Raycast(ray,out float distance)||distance>length||distance>length*firstHit) return false;
-        Vector3 intercept=ray.GetPoint(distance);
-        Vector3 offset=intercept-heatBarrier.center;
-        if(Mathf.Abs(Vector3.Dot(offset,heatBarrier.side))>BarrierWidth*.5f||Mathf.Abs(offset.y)>BarrierHeight*.5f) return false;
-        impact=intercept;
-        if(--heatBarrier.charges==0) ClearHeatBarrier();
+        HeatBarrier nearest=null;float nearestDistance=length*Mathf.Min(1f,firstHit);
+        foreach(var barrier in heatBarriers){var plane=new Plane(barrier.normal,barrier.center);if(!plane.Raycast(ray,out float distance)||distance>nearestDistance)continue;
+            Vector3 offset=ray.GetPoint(distance)-barrier.center;if(Mathf.Abs(Vector3.Dot(offset,barrier.side))>barrier.width*.5f||Mathf.Abs(offset.y)>barrier.height*.5f)continue;
+            nearest=barrier;nearestDistance=distance;}
+        if(nearest==null)return false;
+        impact=ray.GetPoint(nearestDistance);
+        if(--nearest.charges==0){DestroySharedBarrier(nearest);heatBarriers.Remove(nearest);}
         return true;
     }
 
@@ -378,7 +383,8 @@ public partial class RiftorynTrial
 
     void StepSharedAbilityEffects(float dt)
     {
-        if(heatBarrier!=null&&heatBarrier.endsAt<=elapsed) ClearHeatBarrier();
+        for(int i=heatBarriers.Count-1;i>=0;i--)if(heatBarriers[i].endsAt<=elapsed){DestroySharedBarrier(heatBarriers[i]);heatBarriers.RemoveAt(i);}
+        StepTankZones();
         Runner owner=null;
         foreach(var runner in runners)if(runner!=null&&runner.hero==KonevaHero){owner=runner;break;}
         if(!IsRunning(owner)||owner.kit.guardUntil<=0&&owner.kit.recallUntil<=elapsed) return;
@@ -472,6 +478,11 @@ public partial class RiftorynTrial
             case 5:
                 if(IsRunning(partner)&&partner.hp<MaxHp[partner.hero]*.55f&&TryUseSharedAbility(runner,true))return true;
                 return TryUseSharedAbility(runner,false);
+            case ThoraHero:
+            case BromHero:
+            case MorrakHero:
+                if((shotIncoming||partnerIncoming||partnerThreat!=null)&&TryUseSharedAbility(runner,true))return true;
+                return (threat!=null||shotIncoming||partnerThreat!=null)&&TryUseSharedAbility(runner,false);
             default:return false;
         }
     }
@@ -521,6 +532,18 @@ public partial class RiftorynTrial
         (5,1)=>SkillText("Szybki opatrunek","Quick Dressing","Leczy najbliższego rannego sojusznika o 33 HP w zasięgu 8 m.","Heals the nearest injured ally by 33 HP within 8 m."),
         (5,2)=>SkillText("Odnowa szlaku","Trail Renewal","Leczy drużynę w 6 m o 22 HP i dodatkowo 5,5 HP/s przez 4 s.","Heals the team within 6 m by 22 HP and 5.5 HP/s for 4 s."),
         (5,3)=>SkillText("Troska","Care","Leczenie Liory jest o 10% silniejsze; wartości zdolności uwzględniają premię.","Liora's healing is 10% stronger; ability values include the bonus."),
+        (ThoraHero,0)=>SkillText("Żywa ostoja","Living Refuge","Leczy sojuszników w promieniu 4 m o 7 HP/s przez 5 s.","Heals allies within 4 m for 7 HP/s for 5 s."),
+        (ThoraHero,1)=>SkillText("Korzenna osłona","Root Shield","Daje 60 osłony i osłabia spowolnienia o 50% przez 4 s.","Grants 60 shield and halves slows for 4 s."),
+        (ThoraHero,2)=>SkillText("Ostoja doliny","Valley Refuge","Strefa 5 m przez 5 s zmniejsza obrażenia od pocisków o 25%.","A 5 m zone reduces projectile damage by 25% for 5 s."),
+        (ThoraHero,3)=>SkillText("Żywotne korzenie","Vital Roots","Thora otrzymuje o 15% silniejsze leczenie.","Thora receives 15% more healing."),
+        (BromHero,0)=>SkillText("Mur tarcz","Shield Wall","Tarcza przez 4 s zatrzymuje do trzech pocisków.","A shield blocks up to three shots for 4 s."),
+        (BromHero,1)=>SkillText("Mocny krok","Firm Step","Przez 4 s otrzymuje o 25% mniej obrażeń i ma o połowę słabsze spowolnienia.","For 4 s takes 25% less damage and halves slows."),
+        (BromHero,2)=>SkillText("Kamienny bastion","Stone Bastion","Daje 50 osłony sobie i sojusznikom w promieniu 5 m.","Grants 50 shield to self and allies within 5 m."),
+        (BromHero,3)=>SkillText("Kamienny pancerz","Stone Armor","Otrzymuje o 10% mniej obrażeń od bezpośrednich trafień wież.","Takes 10% less direct tower damage."),
+        (MorrakHero,0)=>SkillText("Gęsty mrok","Dense Darkness","Przez 4 s spowalnia pobliskie pociski o 50% w promieniu 6 m.","Slows projectiles within 6 m by 50% for 4 s."),
+        (MorrakHero,1)=>SkillText("Cień strażnika","Guardian Shadow","Daje sobie 55 osłony i pobliskiemu sojusznikowi 25.","Grants 55 shield to self and 25 to a nearby ally."),
+        (MorrakHero,2)=>SkillText("Zasłona mroku","Veil of Darkness","Strefa 5 m przez 5 s spowalnia pociski o 35% i ogranicza ich obrażenia o 15%.","A 5 m zone slows projectiles by 35% and reduces projectile damage by 15% for 5 s."),
+        (MorrakHero,3)=>SkillText("Oczy mroku","Eyes of Darkness","Pasywka ograniczająca utratę widoczności wymaga jeszcze systemu takich efektów.","The visibility-impairment passive needs that status system."),
         _=>("","")
     };
 
@@ -538,6 +561,9 @@ public partial class RiftorynTrial
         1=>RiftorynCodexData.Text("Uszkadza i osłabia wybrane wieże.","Damages and disrupts selected towers."),
         4=>RiftorynCodexData.Text("Usuwa spowolnienia i opatruje rannych sojuszników.","Clears slows and heals injured allies."),
         5=>RiftorynCodexData.Text("Leczy drużynę w polu i podczas ucieczki.","Heals the team in an area and on the move."),
+        ThoraHero=>RiftorynCodexData.Text("Utrzymuje sojuszników przy życiu i tworzy strefę ochronną.","Sustains allies and creates a protective zone."),
+        BromHero=>RiftorynCodexData.Text("Zasłania drużynę i przyjmuje ostrzał.","Shields the team and absorbs tower fire."),
+        MorrakHero=>RiftorynCodexData.Text("Spowalnia nadlatujące pociski i chroni sojuszników.","Slows incoming projectiles and protects allies."),
         _=>""
     };
 

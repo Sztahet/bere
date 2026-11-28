@@ -1,6 +1,6 @@
 # Bohaterowie — dane projektowe wersja 1
 
-Pliki JSON 16 wybranych bohaterów znajdują się w `riftoryn-unity/Assets/Resources/HeroDesign/`. To **specyfikacja do implementacji i testów balansu**. Czyta je symulator Python, narzędzie analizy w Unity oraz nowe E/R Nivy, Liory i Rian w lokalnej grze. Pozostałe mechaniki nie zostały jeszcze w pełni podłączone: samo dopisanie zdolności nie sprawia, że jest grywalna. Nie nadpisujemy `riftoryn-unity/Assets/Resources/hero_stats.json` ani starszych wartości kodu prototypu.
+Pliki JSON 16 wybranych bohaterów znajdują się w `riftoryn-unity/Assets/Resources/HeroDesign/`. To **specyfikacja do implementacji i testów balansu**. Czyta je symulator Python, narzędzie analizy w Unity, nowe E/R Nivy, Liory i Rian oraz zdolności trójki tanków w lokalnej grze. Pozostałe mechaniki nie zostały jeszcze w pełni podłączone: samo dopisanie zdolności nie sprawia, że jest grywalna. Nie nadpisujemy `riftoryn-unity/Assets/Resources/hero_stats.json` ani starszych wartości kodu prototypu.
 
 Każdy plik zawiera identyfikator, rolę, żywioł, HP, prędkość, proponowany atak podstawowy, pasywkę, Q/E/R, czasy odnowienia i liczbowe parametry efektów. Przywoływacze mają również dane towarzysza. `status_unity` opisuje jedynie zakres istniejącego prototypu; nie obiecuje, że każda wartość w tym pliku jest już stosowana. Teksty są po polsku; identyfikatory są stabilnymi kluczami bez polskich znaków.
 
@@ -17,7 +17,7 @@ Każdy plik zawiera identyfikator, rolę, żywioł, HP, prędkość, proponowany
 ## Różnice i decyzje do testów
 
 - `hp` i prędkości postaci już grywalnych w Unity pochodzą z `RiftorynTrial.cs`; dla pozostałych punktem wyjścia jest `hero_stats.json`. Wcześniejszy katalog zawiera inne wartości dla części postaci (np. Rian, Saila, Zet). Atak podstawowy i dane brakujących towarzyszy to wartości projektowe z katalogu; nie wszystkie mają dziś działający odpowiednik w meczu.
-- Q/E/R Kael, Nery, Zeta, Konevy, Miko, Sarny, Saily, Nivy, Liory i Rian działają w lokalnym prototypie. Nowe E/R Nivy, Liory i Rian wczytują parametry z tych plików; wcześniejsze zestawy wciąż wymagają migracji. E/R pozostałych oraz większość zachowań pozostałych towarzyszy są nowymi propozycjami. Q Pyrry w Unity jest tymczasowe i różni się od proponowanego tutaj.
+- Q/E/R Kael, Nery, Zeta, Konevy, Miko, Sarny, Saily, Nivy, Liory, Rian, Thory, Broma i Morraka działają w lokalnym prototypie. Pasywka Morraka pozostaje w przygotowaniu. Nowe zestawy częściowo wczytują parametry z tych plików; wcześniejsze wciąż wymagają migracji. Większość zachowań pozostałych towarzyszy jest propozycją. Q Pyrry w Unity jest tymczasowe i różni się od proponowanego tutaj.
 - W szczególności pełne zniszczenie wieży przez Q Miko i trwała szansa pudła mogą być zbyt mocne. Wymagają testów przeciw losowości i mapom, zanim zostaną uznane za zbalansowane.
 - Wybór najbliższego sojusznika jest obecnym uproszczeniem. Celowanie przez gracza, zachowanie AI, ikony, sygnalizacja zasięgu i stany niedostępności wymagają dalszego wdrożenia.
 - Proponowane współdziałanie przywołań, osłon, obrażeń, blokowania pocisków i wież wymaga implementacji oraz prób 5 na 5. Dokument nie rozstrzyga zmian w opowiadaniach ani biografiach.

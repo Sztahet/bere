@@ -5,9 +5,9 @@ Propozycja docelowego składu do przygotowania na potrzeby gry: po cztery postac
 ## Tanki
 
 - **Kael — Ogień:** osłony i ochrona drużyny pod ostrzałem. Pełny zestaw Q/E/R w lokalnym prototypie.
-- **Thora — Natura:** wytrzymałość i podtrzymywanie sojuszników; leczenie w jej koncepcji odróżnia ją od tanków skupionych na blokowaniu pocisków.
-- **Brom — Ziemia:** kierunkowa osłona, za którą drużyna może się schować.
-- **Morrak — Ciemność:** kontrola ostrzału przez spowalnianie pocisków, dająca czas na unik.
+- **Thora — Natura:** wytrzymałość i podtrzymywanie sojuszników; Q/E/R działa w lokalnym prototypie.
+- **Brom — Ziemia:** kierunkowa osłona, za którą drużyna może się schować; Q/E/R działa w lokalnym prototypie.
+- **Morrak — Ciemność:** spowalnianie pocisków i ochrona drużyny; Q/E/R działa, a pasywka dotycząca utraty widoczności jest w przygotowaniu.
 
 ## Wsparcie
 
@@ -35,5 +35,5 @@ Propozycja docelowego składu do przygotowania na potrzeby gry: po cztery postac
 - Siedem żywiołów jest reprezentowanych: Ogień 3, Lód 2, Błyskawice 3, Natura 4, Ziemia 1, Światło 1, Ciemność 2. Nierówność jest świadomym kompromisem na rzecz różnorodności ról i zachowania istniejących postaci; nie jest jeszcze wynikiem testów balansu.
 - Przy meczu 5 na 5 wspólna pula 16 unikalnych postaci pozwala wybrać dziesięć i pozostawia sześć niewybranych. Nie narzuca to obowiązkowej liczby postaci danej roli w drużynie.
 - Każda postać docelowo potrzebuje trzech działających umiejętności Q/E/R, pasywki, indywidualnych ikon, informacji o zasięgu i odnowieniu oraz zachowań AI. Dokładne zestawy i balans trzeba osobno opracować i przetestować.
-- W obecnym Unity Q/E/R mają Kael, Nera, Zet, Koneva, Miko, Sarna, Saila, Niva, Liora i Rian. Pozostałe wymienione postacie mają jedynie częściowy prototyp albo nie są jeszcze grywalne w lokalnym meczu. Istniejące koncepcje obrony nie oznaczają, że sterowanie wieżami jest gotowe.
+- W obecnym Unity Q/E/R mają Kael, Nera, Zet, Koneva, Miko, Sarna, Saila, Niva, Liora, Rian, Thora, Brom i Morrak. Pozostali przywoływacze mają jedynie częściowy prototyp albo nie są jeszcze grywalni w lokalnym meczu. Istniejące koncepcje obrony nie oznaczają, że sterowanie wieżami jest gotowe.
 - Opowiadania Broma, Miko oraz Any i Boba są oznaczone w katalogu jako szkice; nie są podstawą do przedstawiania ich jako zatwierdzonych historii.

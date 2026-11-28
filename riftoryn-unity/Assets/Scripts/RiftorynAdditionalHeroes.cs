@@ -8,7 +8,7 @@ public partial class RiftorynTrial
     SimHero AdditionalHeroDesign(int hero)
     {
         if(additionalHeroDesigns.TryGetValue(hero,out var design))return design;
-        string id=hero==1?"rian":hero==4?"niva":"liora";
+        string id=hero switch {1=>"rian",4=>"niva",5=>"liora",ThoraHero=>"thora",BromHero=>"brom",MorrakHero=>"morrak",_=>throw new System.ArgumentOutOfRangeException(nameof(hero))};
         var asset=Resources.Load<TextAsset>("HeroDesign/"+id);
         if(!asset)throw new System.InvalidOperationException("Brak danych bohatera: "+id);
         design=JsonUtility.FromJson<SimHero>(asset.text);
@@ -96,9 +96,8 @@ public partial class RiftorynTrial
 
     void HealAdditionalHero(Runner target,float amount)
     {
-        float restored=Mathf.Min(amount,MaxHp[target.hero]-target.hp);
+        float restored=ApplyTeamHealing(target,amount);
         if(restored<=0)return;
-        target.hp+=restored;
         ShowCombatText(target,$"+{Mathf.CeilToInt(restored)} HP",new Color(.57f,.85f,.42f));
     }
 
@@ -107,6 +106,6 @@ public partial class RiftorynTrial
         if(runner.kit.regenerationRemaining<=0)return;
         float step=Mathf.Min(dt,runner.kit.regenerationRemaining);
         runner.kit.regenerationRemaining-=step;
-        runner.hp=Mathf.Min(MaxHp[runner.hero],runner.hp+runner.kit.regenerationPerSecond*step);
+        ApplyTeamHealing(runner,runner.kit.regenerationPerSecond*step);
     }
 }

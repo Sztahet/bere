@@ -4,7 +4,7 @@ using UnityEngine;
 public partial class RiftorynTrial
 {
     // The prototype uses the heroes whose basic trial skills already exist.
-    static readonly int[] MatchRoster={0,1,2,3,4,5,9,10,PyrraHero,12,13,SarnaHero};
+    static readonly int[] MatchRoster={0,1,2,3,4,5,9,10,PyrraHero,12,13,SarnaHero,ThoraHero,BromHero,MorrakHero};
     readonly List<int> matchTeam=new(), matchOpponents=new();
     readonly List<Runner> runners=new();
     int matchRound, matchOurArrivals, matchTheirArrivals, matchOurSeed, matchTheirSeed;
@@ -16,6 +16,7 @@ public partial class RiftorynTrial
     int MatchPickCount=>matchSettings.PickCount;
     bool MatchTeamTurn(int index)=>matchSettings.IsTeamTurn(index);
     int matchPickIndex, matchPreview=-1;
+    GUIStyle matchDraftRoleStyle;
     float matchAiPickAt;
     string matchAiExplanation="";
 
@@ -225,20 +226,21 @@ public partial class RiftorynTrial
             if(matchSettings.Opponent) GUI.Label(new Rect(1355,190+i*70,190,50),i<matchOpponents.Count?HeroNames[matchOpponents[i]]:"— wolne miejsce —",heading);
         }
         GUI.Box(new Rect(280,150,1040,460),"");
+        if(matchDraftRoleStyle==null)matchDraftRoleStyle=new GUIStyle(small){fontSize=11,wordWrap=false};
         for(int i=0;i<MatchRoster.Length;i++)
         {
             int hero=MatchRoster[i];
             var data=MatchHero(hero);
-            float x=300+(i%6)*168,y=175+(i/6)*185;
+            float x=300+(i%6)*168,y=165+(i/6)*140;
             bool available=MatchAvailable(hero);
-            GUI.Box(new Rect(x,y,158,165),"");
+            GUI.Box(new Rect(x,y,158,132),"");
             var portrait=data!=null?DraftPortrait(data.id):null;
-            if(portrait) GUI.DrawTexture(new Rect(x+8,y+5,65,100),portrait,ScaleMode.ScaleAndCrop);
+            if(portrait) GUI.DrawTexture(new Rect(x+8,y+5,65,78),portrait,ScaleMode.ScaleAndCrop);
             GUI.Label(new Rect(x+78,y+10,76,45),HeroNames[hero],small);
-            if(data!=null) GUI.Label(new Rect(x+78,y+54,76,65),data.role+"\n"+data.element,small);
+            if(data!=null) GUI.Label(new Rect(x+77,y+40,80,50),data.role+"\n"+data.element,matchDraftRoleStyle);
             string button=matchTeam.Contains(hero)?"DRUŻYNA A":matchOpponents.Contains(hero)?"DRUŻYNA B":matchPreview==hero?"WYBRANY":"WYBIERZ";
             GUI.enabled=playerTurn&&available;
-            if(GUI.Button(new Rect(x+8,y+120,142,35),button)) matchPreview=hero;
+            if(GUI.Button(new Rect(x+8,y+92,142,32),button)) matchPreview=hero;
             GUI.enabled=true;
         }
         if(matchPreview>=0&&MatchAvailable(matchPreview))

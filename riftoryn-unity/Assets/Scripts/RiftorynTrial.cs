@@ -16,9 +16,9 @@ public partial class RiftorynTrial : MonoBehaviour
     static readonly Vector2[] DefaultSlotMap = {new(445,205),new(405,205),new(365,205),new(275,290),new(275,350),new(355,450),new(415,450),new(475,450),new(590,360),new(590,290),new(590,220),new(510,130),new(450,130),new(390,130),new(330,130),new(200,235),new(200,320),new(200,400),new(305,525),new(385,525),new(465,525),new(545,525),new(665,450),new(665,370),new(665,290),new(665,210)};
     Vector2[] Map=DefaultMap, SlotMap=DefaultSlotMap;
     int activeArena=-1;
-    const int LucenHero = 9, SailaHero = 10, PyrraHero = 11, NeraHero = 12, MikoHero = 13, SarnaHero = 14;
-    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten","Lucen","Saila","Pyrra","Nera","Miko","Sarna"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
-    static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115,105,105,60,110,105,115}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f,5.6f,5.2f,5.2f,5.0f,5.8f,4.9f}, Cooldowns={22,16,18,20,18,20,20,20,20,20,24,20,20,20,18}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
+    const int LucenHero = 9, SailaHero = 10, PyrraHero = 11, NeraHero = 12, MikoHero = 13, SarnaHero = 14, ThoraHero=15, BromHero=16, MorrakHero=17;
+    static readonly string[] HeroNames={"Kael","Rian","Zet","Koneva","Niva","Liora","Elira","Dara","Nocten","Lucen","Saila","Pyrra","Nera","Miko","Sarna","Thora","Brom","Morrak"}, TowerNames={"Ogień","Lód","Błyskawice","Natura","Ziemia","Światło","Ciemność"}, ResourceNames={"fire","ice","lightning","nature","earth","light","darkness"};
+    static readonly float[] MaxHp={170,110,100,60,125,120,120,125,115,105,105,60,110,105,115,165,180,170}, Speed={4.4f,5.2f,5.6f,5.3f,4.7f,4.8f,4.8f,4.7f,4.9f,5.6f,5.2f,5.2f,5.0f,5.8f,4.9f,4.1f,4f,4.2f}, Cooldowns={22,16,18,20,18,20,20,20,20,20,24,20,20,20,18,22,20,22}, TowerDamage={13,7,9,10,10,10,10}, TowerRate={1.4f,1.5f,1f,1.3f,1.3f,1.3f,1.3f}, TowerRange={13.8f,15f,13.8f,15f,15f,15f,15f};
     static readonly Color[] TowerColors={new(1f,.30f,.12f),new(.32f,.77f,1f),new(1f,.8f,.2f),new(.32f,.83f,.4f),new(.65f,.43f,.25f),new(1f,.91f,.55f),new(.55f,.28f,.75f)};
     class Runner
     {
@@ -491,10 +491,10 @@ public partial class RiftorynTrial : MonoBehaviour
     float RunnerSpeed(Runner runner)
     {
         float speed=Speed[runner.hero];
-        if(runner.exposure>0) speed*=runner.hero==4?.92f:runner.hero==SailaHero?.915f:.9f;
+        if(runner.exposure>0) speed*=ApplySlowResistance(runner,runner.hero==4?.92f:runner.hero==SailaHero?.915f:.9f);
         if(runner.boost>0) speed*=UsesUnifiedRules&&runner.hero==ZetHero?1.15f:1.2f;
-        if(runner.chillTime>0) speed*=runner.hero==4?.88f:runner.hero==SailaHero?.8725f:.85f;
-        if(runner.rootTime>0) speed*=runner.hero==4?.84f:.8f;
+        if(runner.chillTime>0) speed*=ApplySlowResistance(runner,runner.hero==4?.88f:runner.hero==SailaHero?.8725f:.85f);
+        if(runner.rootTime>0) speed*=ApplySlowResistance(runner,runner.hero==4?.84f:.8f);
         if(runner.kit.surgeUntil>elapsed) speed*=1.8f;
         if(runner.kit.dodgeBoostUntil>elapsed) speed*=1.2f;
         if(runner.kit.mikoBoostUntil>elapsed) speed*=1f+runner.kit.mikoSpeedBonus;
@@ -548,7 +548,7 @@ public partial class RiftorynTrial : MonoBehaviour
         r.rootTime=Mathf.Max(0,r.rootTime-dt);r.shadowTime=Mathf.Max(0,r.shadowTime-dt);
         r.slowImmunity=Mathf.Max(0,r.slowImmunity-dt);
         if(r.hp<=0) return;
-        if(UsesUnifiedRules)StepAdditionalRegeneration(r,dt);
+        if(UsesUnifiedRules){StepAdditionalRegeneration(r,dt);StepTankSupport(r,dt);}
         r.cooldown=Mathf.Max(0,r.cooldown-dt);
         r.attackCooldown=Mathf.Max(0,r.attackCooldown-dt);
         r.boost=Mathf.Max(0,r.boost-dt);
@@ -596,6 +596,7 @@ public partial class RiftorynTrial : MonoBehaviour
     void UseSkill(Runner r,Tower t)
     {
         if(r.cooldown>0)return;
+        if(UsesUnifiedRules&&(r.hero is ThoraHero or BromHero or MorrakHero)){UseTankBasic(r,t);return;}
         if(r.hero==SarnaHero){BoostSarnaTeam(r);return;}
         if(MatchMode&&r.hero==PyrraHero)
         {
@@ -658,7 +659,7 @@ public partial class RiftorynTrial : MonoBehaviour
     void StepHealing(float dt)
     {
         if(healingTime<=0)return;float step=Mathf.Min(dt,healingTime);healingTime-=step;healingTick-=step;
-        while(healingTick<=.0001f){foreach(var r in AllRunners())if(r!=null&&r.hp>0&&!r.done&&Vector3.Distance(r.obj.transform.position,healingPosition)<=4)r.hp=Mathf.Min(MaxHp[r.hero],r.hp+11);healingTick+=1;}UpdateHealingRing();
+        while(healingTick<=.0001f){foreach(var r in AllRunners())if(IsRunning(r)&&Vector3.Distance(r.obj.transform.position,healingPosition)<=4)ApplyTeamHealing(r,11);healingTick+=1;}UpdateHealingRing();
     }
     void UpdateHealingRing()
     {
@@ -787,6 +788,7 @@ public partial class RiftorynTrial : MonoBehaviour
             return;
         }
         float direct = baseDamage*(victim.shadowTime>0?1.15f:1f);
+        if(UsesUnifiedRules){direct*=ZoneDamageMultiplier(victim);if(victim.hero==BromHero)direct*=.9f;}
         if (victim.hero == 1 && type == 0) direct *= .85f;
         if (victim.hero == LucenHero && type == 2) direct *= .75f;
         Damage(victim,direct,true,true,"WIEŻA: "+TowerNames[type].ToUpperInvariant());
@@ -836,7 +838,7 @@ public partial class RiftorynTrial : MonoBehaviour
     {
         for(int i=shots.Count-1;i>=0;i--)
         {
-            var s=shots[i];float step=Mathf.Min(s.remaining,ProjectileSpeed*dt);Vector3 start=s.visual.root.transform.position;
+            var s=shots[i];Vector3 start=s.visual.root.transform.position;float step=Mathf.Min(s.remaining,ProjectileSpeed*dt*(UsesUnifiedRules?ShotSpeedMultiplier(start):1f));
             bool hitWall=Physics.Raycast(start,s.direction,out RaycastHit hit,step,~0,QueryTriggerInteraction.Ignore);
             Vector3 end=hitWall?hit.point:start+s.direction*step, segment=end-start;
             Runner victim=null;float first=float.PositiveInfinity;
@@ -876,6 +878,7 @@ public partial class RiftorynTrial : MonoBehaviour
     void Damage(Runner r,float amount,bool shielded,bool avoidable=true,string source="OBRAŻENIA")
     {
         if(avoidable&&shielded&&IsDodging(r)){MarkSharedDodge(r);return;}
+        if(UsesUnifiedRules&&r.kit.tankDamageResistUntil>elapsed)amount*=.75f;
         if(UsesUnifiedRules&&shielded) TryTriggerSharedReserve(r,amount);
         float absorbed=shielded?Mathf.Min(r.shield,amount):0, lost=amount-absorbed;
         r.shield-=absorbed;if(r.shield<=0){r.shield=0;r.shieldMax=0;r.shieldTick=0;}r.hp-=lost;r.damage+=lost;
@@ -1280,7 +1283,7 @@ public partial class RiftorynTrial : MonoBehaviour
 
     int PlayableHero(string id)
     {
-        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;case "niva":return 4;case "liora":return 5;case "elira":return 6;case "dara":return 7;case "nocten":return 8;case "lucen":return LucenHero;case "saila":return SailaHero;case "pyrra":return PyrraHero;case "nera":return NeraHero;case "miko":return MikoHero;case "sarna":return SarnaHero;default:return -1;}
+        switch(id){case "kael":return 0;case "rian":return 1;case "zet":return 2;case "koneva":return 3;case "niva":return 4;case "liora":return 5;case "elira":return 6;case "dara":return 7;case "nocten":return 8;case "lucen":return LucenHero;case "saila":return SailaHero;case "pyrra":return PyrraHero;case "nera":return NeraHero;case "miko":return MikoHero;case "sarna":return SarnaHero;case "thora":return ThoraHero;case "brom":return BromHero;case "morrak":return MorrakHero;default:return -1;}
     }
     Texture2D DraftPortrait(string id)
     {
