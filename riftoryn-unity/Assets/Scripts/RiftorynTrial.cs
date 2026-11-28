@@ -36,7 +36,7 @@ public partial class RiftorynTrial : MonoBehaviour
     class Shot { public ShotVisual visual; public Vector3 origin,direction; public float remaining,damage; public Runner target; public int id,type; }
     class EarthStrike { public Vector3 position; public float remaining,damage; public int id; public GameObject marker; public LineRenderer ring; }
     readonly List<EarthStrike> earthStrikes=new();
-    class VinePatch { public int id; public Vector3 position; public float remaining; public GameObject visual; public readonly HashSet<Runner> occupants=new(); }
+    class VinePatch { public int id; public Vector3 position; public float remaining; public GameObject visual; public readonly HashSet<Runner> occupants=new(); public readonly HashSet<RiftorynCompanion> petOccupants=new(); }
     readonly List<VinePatch> vinePatches=new(), lanVinePatches=new();
     enum Phase { Setup, Playing, Finished }
     enum TrialMode { Training, SharedEscape, LanTest, Defense, Match }
@@ -543,6 +543,7 @@ public partial class RiftorynTrial : MonoBehaviour
     void StepRunner(Runner r,float dt)
     {
         if(!IsRunning(r)) return;
+        var pet=r.obj.GetComponentInChildren<RiftorynCompanion>();if(pet)pet.AdvanceEffects(dt);
         float periodicDamage=UsesUnifiedRules&&r.hero==KaelHero?.8f:1f;
         r.burn.Advance(dt,amount=>{if(r.hp>0) Damage(r,amount*(UsesUnifiedRules&&r.hero==1?.85f:periodicDamage),true,false,"PODPALENIE");});
         r.poison.Advance(dt,amount=>{if(r.hp>0) Damage(r,amount*periodicDamage,true,false,"TRUCIZNA");});

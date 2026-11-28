@@ -78,6 +78,14 @@ public partial class RiftorynTrial
                     if(patch.occupants.Add(runner)&&!ConsumeSharedWard(runner,3)) runner.poison.Apply(4,3);
                 }
                 else patch.occupants.Remove(runner);
+                var pet=runner.obj?runner.obj.GetComponentInChildren<RiftorynCompanion>():null;
+                if(pet)
+                {
+                    bool petInside=IsRunning(runner)&&pet.IsAlive&&Vector3.Distance(Vector3.ProjectOnPlane(pet.AimPosition-patch.position,Vector3.up),Vector3.zero)<=VineRadius
+                        &&HasLineOfSight(patch.position+Vector3.up,pet.AimPosition);
+                    if(petInside){if(patch.petOccupants.Add(pet))pet.ApplyPoison(4,3);}
+                    else patch.petOccupants.Remove(pet);
+                }
             }
             runner.rootTime=slowed&&runner.slowImmunity<=0?.1f:0;
         }

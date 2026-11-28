@@ -11,6 +11,7 @@ Faza ręcznego ustawiania korzysta z tego samego edytora pól co wcześniejszy t
 - **LAN:** z ekranu ustawień nadal dostępny jest poprzedni test dwóch osób. Ma własny protokół, ekran połączenia i ograniczony zestaw synchronizowanych zdolności; nie jest jeszcze sieciową wersją nowego meczu ani nie obsługuje jego parametrów. Nie należy przedstawiać go jako pełnego wspólnego multiplayera. Ruch gościa korzysta już z tej samej funkcji ruchu co pozostałe postacie.
 - **Stare tryby i ranking:** starsze punkty wejścia i implementacja wyników pozostają w kodzie na czas migracji, lecz nie są osobnymi grami w menu. Dotychczasowy ranking można obejrzeć jako poprzednie wyniki; nowa gra nie dopisuje do niego wyników, bo jej konfiguracje i mapy nie są porównywalne ze starym duetem.
 - Szesnaście wybranych postaci ma Q/E/R w lokalnym prototypie. Niva, Liora, Rian, tankowie i nowi przywoływacze korzystają częściowo z parametrów w `Resources/HeroDesign`; wcześniejsze zestawy nadal wymagają migracji do wspólnych danych. Pasywki Any, Lumen i Morraka wymagają dalszej pracy. Ana i Bob mają uproszczone modele PoC, a Blask model zastępczy. Wspólny kontrakt towarzysza obsługuje celowanie i trafienia Patki, Iskry, Boba i Blasku.
+- Pnącza Natury zatruwają także żywych towarzyszy: 4 obrażenia na sekundę przez 3 sekundy od wejścia, z pochłanianiem przez dostępną osłonę. Pozostałe efekty statusowe i spowolnienie ruchu towarzyszy wymagają odrębnej implementacji i testów.
 
 ## Kontrola zmian
 

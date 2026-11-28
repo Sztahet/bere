@@ -44,6 +44,11 @@ public class RiftorynPatkaPreview : RiftorynCompanion
     {
         if (!IsAlive) return;
         if (IsFlying && Random.value < .75f) return;
+        ReceivePeriodicDamage(damage);
+    }
+    protected override void ReceivePeriodicDamage(float damage)
+    {
+        if (!IsAlive) return;
         health.currentHp=Mathf.Max(0, health.currentHp-damage);
         if (health.currentHp<=0) { flying=false; foreach(var r in GetComponentsInChildren<Renderer>()) r.enabled=false; }
     }
