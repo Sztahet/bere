@@ -34,7 +34,7 @@ public partial class RiftorynTrial
             }
         }
         var companion=pet.AddComponent<RiftorynSummonedCompanion>();
-        companion.Initialize(owner.transform,design.towarzysz.nazwa,design.towarzysz.hp,hasFox?follower:null);
+        companion.Initialize(owner.transform,design.towarzysz.nazwa,design.towarzysz.hp,hasFox?follower:null,hero==AnaHero);
     }
     RiftorynSummonedCompanion SummonedPet(Runner runner)=>runner?.obj?runner.obj.GetComponentInChildren<RiftorynSummonedCompanion>():null;
 
