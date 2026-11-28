@@ -32,7 +32,7 @@ public partial class RiftorynTrial : MonoBehaviour
         public readonly RiftorynPeriodicEffect burn=new(), poison=new();
     }
     class FloatingCombatText { public Transform anchor; public Vector3 position; public string text; public Color color; public float started, offset; }
-    class Tower { public int slot,type; public float hp=100,wait,disabled,overload; public GameObject obj, marker; public LineRenderer range, warning; public Runner target,divertedTo; public RiftorynPatkaPreview petTarget; public float windup,divertUntil,rangeVisibleUntil; public bool discovered,iceActive,misfires; public LineRenderer[] snowflakes; }
+    class Tower { public int slot,type; public float hp=100,wait,disabled,overload,frostSlow; public GameObject obj, marker; public LineRenderer range, warning; public Runner target,divertedTo; public RiftorynPatkaPreview petTarget; public float windup,divertUntil,rangeVisibleUntil; public bool discovered,iceActive,misfires; public LineRenderer[] snowflakes; }
     class Shot { public ShotVisual visual; public Vector3 origin,direction; public float remaining,damage; public Runner target; public int id,type; }
     class EarthStrike { public Vector3 position; public float remaining,damage; public int id; public GameObject marker; public LineRenderer ring; }
     readonly List<EarthStrike> earthStrikes=new();
@@ -113,13 +113,13 @@ public partial class RiftorynTrial : MonoBehaviour
       var floor=GameObject.CreatePrimitive(PrimitiveType.Cube);floor.name="Kamienna posadzka";floor.transform.SetParent(world.transform);floor.transform.position=new Vector3(3,.02f,0);floor.transform.localScale=new Vector3(130,.15f,130);floor.GetComponent<Renderer>().sharedMaterial=floorMaterial;Destroy(floor.GetComponent<Collider>());
       // Wider wall tops provide room around towers while the road clearance stays unchanged.
       wallTexture=MakeWallTexture();const float grid=1.5f;for(float x=-49.5f;x<=55.5f;x+=grid)for(float z=-49.5f;z<=55.5f;z+=grid){Vector3 pos=new(x,0,z);Project(pos,out float d);if(d>RoadHalf+1.1f&&d<RoadHalf+5f){int variant=Mathf.Abs(Mathf.RoundToInt(x/grid)*13+Mathf.RoundToInt(z/grid)*7)%3;Color stone=ArenaWallColor(variant);var wall=Cube("Mur",pos+Vector3.up*1.4f,new Vector3(grid,2.8f,grid),stone,world.transform);var wallMaterial=wall.GetComponent<Renderer>().sharedMaterial;wallMaterial.mainTexture=wallTexture;if(wallMaterial.HasProperty("_Glossiness"))wallMaterial.SetFloat("_Glossiness",0f);Cube("Korona muru",pos+Vector3.up*2.77f,new Vector3(grid-.04f,.10f,grid-.04f),ArenaTrimColor(),world.transform,false);if(activeArena>=0&&variant==0&&Mathf.Abs(Mathf.RoundToInt(x/grid)*17+Mathf.RoundToInt(z/grid)*23)%13==0)ArenaDecoration(pos);}}
-      BuildFinishGate();foreach(int segment in new[]{2,6,10})BuildLandmark(segment);BuildDirectionMarks();
+      BuildFinishGate();foreach(int segment in new[]{2,6,10})BuildLandmark(segment);BuildDirectionMarks();if(activeArena==0)BuildVarethArt();
       fogMesh=CreateFogMesh();
       fogMaterial=new Material(Resources.Load<Shader>("RiftorynFog"));
       for(float a=0;a<=total;a+=2f){var tile=new GameObject("Mgła");tile.transform.SetParent(fogRoot.transform);tile.transform.position=At(a);tile.AddComponent<MeshFilter>().sharedMesh=fogMesh;var renderer=tile.AddComponent<MeshRenderer>();renderer.sharedMaterial=fogMaterial;renderer.shadowCastingMode=UnityEngine.Rendering.ShadowCastingMode.Off;renderer.receiveShadows=false;tile.SetActive(false);fogTiles.Add(tile);fogDistances.Add(a);}
       slots=new GameObject[SlotMap.Length];for(int i=0;i<slots.Length;i++){var o=GameObject.CreatePrimitive(PrimitiveType.Cylinder);o.name="Pole "+(i+1);o.transform.SetParent(slotRoot.transform);o.transform.position=Slot(i)+Vector3.up*2.9f;o.transform.localScale=new Vector3(1.5f,.05f,1.5f);o.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.67f,.49f,.22f));o.GetComponent<Collider>().isTrigger=true;slots[i]=o;}
       var portal=GameObject.CreatePrimitive(PrimitiveType.Cylinder);portal.name="META";portal.transform.SetParent(world.transform);portal.transform.position=At(total)+Vector3.up*.15f;portal.transform.localScale=new Vector3(3,.12f,3);portal.GetComponent<Renderer>().sharedMaterial=Mat(new Color(.95f,.7f,.23f));Destroy(portal.GetComponent<Collider>());
-      var lightObj=new GameObject("Światło");lightObj.transform.SetParent(world.transform);var light=lightObj.AddComponent<Light>();light.type=LightType.Directional;light.color=new Color(1f,.95f,.88f);light.intensity=1.2f;light.shadows=LightShadows.Soft;light.shadowStrength=.65f;lightObj.transform.rotation=Quaternion.Euler(48,-35,0);RenderSettings.ambientMode=UnityEngine.Rendering.AmbientMode.Trilight;RenderSettings.ambientSkyColor=new Color(.55f,.58f,.68f);RenderSettings.ambientEquatorColor=new Color(.32f,.30f,.38f);RenderSettings.ambientGroundColor=new Color(.14f,.13f,.19f);cam=new GameObject("Kamera").AddComponent<Camera>();cam.transform.SetParent(world.transform);cam.tag="MainCamera";cam.clearFlags=CameraClearFlags.SolidColor;cam.backgroundColor=new Color(.085f,.065f,.15f);cam.gameObject.AddComponent<AudioListener>();}
+      var lightObj=new GameObject("Światło");lightObj.transform.SetParent(world.transform);var light=lightObj.AddComponent<Light>();light.type=LightType.Directional;light.color=activeArena==0?new Color(1f,.76f,.58f):new Color(1f,.95f,.88f);light.intensity=1.2f;light.shadows=LightShadows.Soft;light.shadowStrength=.65f;lightObj.transform.rotation=Quaternion.Euler(48,-35,0);RenderSettings.ambientMode=UnityEngine.Rendering.AmbientMode.Trilight;RenderSettings.ambientSkyColor=activeArena==0?new Color(.58f,.47f,.47f):new Color(.55f,.58f,.68f);RenderSettings.ambientEquatorColor=new Color(.32f,.30f,.38f);RenderSettings.ambientGroundColor=new Color(.14f,.13f,.19f);cam=new GameObject("Kamera").AddComponent<Camera>();cam.transform.SetParent(world.transform);cam.tag="MainCamera";cam.clearFlags=CameraClearFlags.SolidColor;cam.backgroundColor=activeArena==0?new Color(.11f,.07f,.11f):new Color(.085f,.065f,.15f);cam.gameObject.AddComponent<AudioListener>();}
     void BuildFinishGate(){
       Vector3 end=At(total), forward=(P(Map[Map.Length-1])-P(Map[Map.Length-2])).normalized, side=new Vector3(-forward.z,0,forward.x);
       Color stone=new(.29f,.25f,.35f), gold=new(.68f,.49f,.22f), violet=new(.48f,.24f,.72f);
@@ -205,7 +205,7 @@ public partial class RiftorynTrial : MonoBehaviour
         }
         towers.Clear();
         ReplaceRunners();
-        for(int i=0;i<visibleFogTiles;i++) fogTiles[i].SetActive(false);
+        for(int i=0;i<visibleFogTiles&&i<fogTiles.Count;i++) if(fogTiles[i]) fogTiles[i].SetActive(false);
         visibleFogTiles=0;
         ResetDefenseEditor();
         foreach(var slot in slots) slot.SetActive(CustomTrainingDefense&&!DefenseEditing);
@@ -467,7 +467,9 @@ public partial class RiftorynTrial : MonoBehaviour
     void UpdateFogVisuals()
     {
         float front=FogFront();
-        while(visibleFogTiles<fogTiles.Count&&fogDistances[visibleFogTiles]<front)
+        int count=Mathf.Min(fogTiles.Count,fogDistances.Count);
+        visibleFogTiles=Mathf.Min(visibleFogTiles,count);
+        while(visibleFogTiles<count&&fogDistances[visibleFogTiles]<front)
             fogTiles[visibleFogTiles++].SetActive(true);
         while(visibleFogTiles>0&&fogDistances[visibleFogTiles-1]>=front)
             fogTiles[--visibleFogTiles].SetActive(false);
@@ -701,6 +703,7 @@ public partial class RiftorynTrial : MonoBehaviour
             if(t.hp<=0){t.iceActive=false;t.warning.enabled=false;continue;}
             t.disabled=Mathf.Max(0,t.disabled-dt);
             t.overload=Mathf.Max(0,t.overload-dt);
+            t.frostSlow=Mathf.Max(0,t.frostSlow-dt);
             if(t.disabled>0){t.iceActive=false;t.warning.enabled=false;t.target=null;t.petTarget=null;t.windup=0;continue;}
             if(UsesUnifiedRules) RetargetSharedTower(t);
             if(t.petTarget!=null)
@@ -709,7 +712,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 if(!pet.IsAlive || Vector3.Distance(pet.AimPosition,Slot(t.slot))>=TowerRange[t.type] || !TowerHasClearShot(t,pet.AimPosition))
                 {t.iceActive=false;t.petTarget=null;t.windup=0;t.warning.enabled=false;continue;}
                 Vector3 aim=pet.AimPosition, start=ShotOrigin(t,aim);
-                t.warning.enabled=!t.iceActive;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);t.windup-=dt;
+                t.warning.enabled=!t.iceActive;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);t.windup-=dt*(t.frostSlow>0?.65f:1f);
                 if(t.type==1&&t.iceActive) SetIceStream(t,true,aim);
                 if(t.windup>0)continue;
                 if(t.type==1){t.iceActive=true;t.windup=t.overload>0?.25f/1.5f:.25f;if(!t.misfires||UnityEngine.Random.value>=.5f)FireTowerShot(t,start,aim,null);SetIceStream(t,true,aim);continue;}
@@ -724,7 +727,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 Vector3 aim=PredictAim(start,center,t.target.velocity,ProjectileSpeed);
                 t.warning.enabled=!t.iceActive;t.warning.SetPosition(0,start);t.warning.SetPosition(1,aim);
                 if(t.type==1&&t.iceActive) SetIceStream(t,true,center);
-                t.windup-=dt;
+                t.windup-=dt*(t.frostSlow>0?.65f:1f);
                 if(t.windup>0)continue;
                 if(t.type==1){t.iceActive=true;t.windup=t.overload>0?.25f/1.5f:.25f;if(!t.misfires||UnityEngine.Random.value>=.5f)FireTowerShot(t,start,aim,t.target);SetIceStream(t,true,center);continue;}
                 if(!t.misfires||UnityEngine.Random.value>=.5f){if(t.type==4) StartEarthStrike(aim,TowerDamage[t.type]); else if(t.type==3) StartVinePatch(center,t.target.velocity); else FireTowerShot(t,start,aim,t.target);}
@@ -732,7 +735,7 @@ public partial class RiftorynTrial : MonoBehaviour
                 t.target=null;t.warning.enabled=false;t.wait=Mathf.Max(0,TowerRate[t.type]-TowerWindup);
                 continue;
             }
-            t.warning.enabled=false;t.wait-=dt*(t.overload>0?1.5f:1f);if(t.wait>0)continue;
+            t.warning.enabled=false;t.wait-=dt*(t.overload>0?1.5f:1f)*(t.frostSlow>0?.65f:1f);if(t.wait>0)continue;
             // During the maneuver the nearest flying Patka takes priority over runners.
             RiftorynPatkaPreview lure=null;float lureDistance=TowerRange[t.type];
             foreach(var r in AllRunners()){if(r==null||!r.obj||r.hp<=0||r.done)continue;var pet=r.obj.GetComponentInChildren<RiftorynPatkaPreview>();if(!pet||!pet.IsFlying)continue;float distance=Vector3.Distance(pet.AimPosition,Slot(t.slot));if(distance<lureDistance&&TowerHasClearShot(t,pet.AimPosition)){lure=pet;lureDistance=distance;}}

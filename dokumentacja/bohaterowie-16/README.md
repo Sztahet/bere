@@ -17,7 +17,7 @@ Każdy plik zawiera identyfikator, rolę, żywioł, HP, prędkość, proponowany
 ## Różnice i decyzje do testów
 
 - `hp` i prędkości postaci już grywalnych w Unity pochodzą z `RiftorynTrial.cs`; dla pozostałych punktem wyjścia jest `hero_stats.json`. Wcześniejszy katalog zawiera inne wartości dla części postaci (np. Rian, Saila, Zet). Atak podstawowy i dane brakujących towarzyszy to wartości projektowe z katalogu; nie wszystkie mają dziś działający odpowiednik w meczu.
-- Q/E/R Kael, Nery, Zeta, Konevy, Miko i Sarny opisują istniejące kierunki oraz odnowienia prototypu. Niektóre szczegóły wymagają porównania podczas migracji; E/R pozostałych oraz większość zachowań pozostałych towarzyszy są nowymi propozycjami. Q Pyrry w Unity jest tymczasowe i różni się od proponowanego tutaj.
+- Q/E/R Kael, Nery, Zeta, Konevy, Miko, Sarny i Saily opisują istniejące kierunki oraz odnowienia prototypu. Niektóre szczegóły wymagają porównania podczas migracji; E/R pozostałych oraz większość zachowań pozostałych towarzyszy są nowymi propozycjami. Q Pyrry w Unity jest tymczasowe i różni się od proponowanego tutaj.
 - W szczególności pełne zniszczenie wieży przez Q Miko i trwała szansa pudła mogą być zbyt mocne. Wymagają testów przeciw losowości i mapom, zanim zostaną uznane za zbalansowane.
 - Wybór najbliższego sojusznika jest obecnym uproszczeniem. Celowanie przez gracza, zachowanie AI, ikony, sygnalizacja zasięgu i stany niedostępności wymagają dalszego wdrożenia.
 - Proponowane współdziałanie przywołań, osłon, obrażeń, blokowania pocisków i wież wymaga implementacji oraz prób 5 na 5. Dokument nie rozstrzyga zmian w opowiadaniach ani biografiach.

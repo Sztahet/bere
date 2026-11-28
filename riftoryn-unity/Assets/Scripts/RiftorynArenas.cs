@@ -15,8 +15,8 @@ public partial class RiftorynTrial
         "33231312112122323130201000010203041424253534444353524241405051616263646555564636261606",
         "33323141403020211110000102030405151424344454554535252636465666656463534342526261515060"
     };
-    static readonly Color[] ArenaWalls={new(.30f,.16f,.14f),new(.22f,.30f,.37f),new(.24f,.25f,.35f),new(.20f,.30f,.22f),new(.32f,.26f,.20f),new(.36f,.34f,.30f),new(.20f,.17f,.29f)};
-    static readonly Color[] ArenaFloors={new(.30f,.20f,.18f),new(.24f,.31f,.36f),new(.24f,.25f,.31f),new(.24f,.30f,.23f),new(.31f,.27f,.23f),new(.38f,.36f,.31f),new(.22f,.20f,.29f)};
+    static readonly Color[] ArenaWalls={new(.25f,.17f,.17f),new(.22f,.30f,.37f),new(.24f,.25f,.35f),new(.20f,.30f,.22f),new(.32f,.26f,.20f),new(.36f,.34f,.30f),new(.20f,.17f,.29f)};
+    static readonly Color[] ArenaFloors={new(.36f,.27f,.23f),new(.24f,.31f,.36f),new(.24f,.25f,.31f),new(.24f,.30f,.23f),new(.31f,.27f,.23f),new(.38f,.36f,.31f),new(.22f,.20f,.29f)};
     static readonly Color[] ArenaAccents={new(.85f,.34f,.15f),new(.52f,.82f,1f),new(.90f,.75f,.24f),new(.43f,.72f,.34f),new(.68f,.46f,.27f),new(.96f,.83f,.49f),new(.55f,.32f,.75f)};
 
     Color ArenaFloorColor()=>activeArena<0?new Color(.26f,.24f,.30f):ArenaFloors[activeArena];

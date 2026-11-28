@@ -52,6 +52,7 @@ public partial class RiftorynTrial
         KonevaHero=>(18f,30f),
         MikoHero=>(12f,32f),
         SarnaHero=>(16f,32f),
+        SailaHero=>(18f,36f),
         _=>(0f,0f)
     };
 
@@ -70,6 +71,7 @@ public partial class RiftorynTrial
             KonevaHero=>CommandPatka(runner,partner,ultimate),
             MikoHero=>MikoExtra(runner,ultimate,tower),
             SarnaHero=>SupportSarnaTeam(runner,partner,ultimate),
+            SailaHero=>UseSailaExtra(runner,ultimate,tower),
             _=>false
         };
         if(!cast) return false;
@@ -81,6 +83,26 @@ public partial class RiftorynTrial
         if(runner==player) Notify(info.name);
         else ShowCombatText(runner,info.name,new Color(.50f,.88f,1f));
         return true;
+    }
+
+    bool UseSailaExtra(Runner runner,bool ultimate,Tower tower)
+    {
+        if(ultimate)
+        {
+            bool affected=false;
+            foreach(var candidate in towers)
+            {
+                if(candidate.hp<=0||!candidate.discovered||Vector3.Distance(runner.obj.transform.position,Slot(candidate.slot))>9f
+                    ||!TowerHasClearShot(candidate,runner.obj.transform.position+Vector3.up))continue;
+                HitTower(candidate,35f);candidate.disabled=Mathf.Max(candidate.disabled,2f);
+                ShowSailaFreeze(candidate);affected=true;
+            }
+            return affected;
+        }
+        tower??=Nearest(runner,TowerSkillRange);
+        if(tower==null||!tower.discovered||tower.hp<=0||!TowerHasClearShot(tower,runner.obj.transform.position+Vector3.up))return false;
+        if(Vector3.Distance(runner.obj.transform.position,Slot(tower.slot))>=TowerSkillRange)return false;
+        tower.frostSlow=Mathf.Max(tower.frostSlow,5f);ShowSailaFreeze(tower);return true;
     }
 
     void BoostSarnaTeam(Runner runner)
@@ -436,6 +458,9 @@ public partial class RiftorynTrial
                     ||RunnersNear(runner,partner,SupportRange)&&(partner.chillTime>0||partner.rootTime>0))
                     &&TryUseSharedAbility(runner,true)) return true;
                 return IsRunning(partner)&&partner.hp<=MaxHp[partner.hero]-20f&&TryUseSharedAbility(runner,false);
+            case SailaHero:
+                if(threat!=null&&TryUseSharedAbility(runner,true))return true;
+                return threat!=null&&threat.frostSlow<=0&&TryUseSharedAbility(runner,false,threat);
             default:return false;
         }
     }
@@ -469,6 +494,10 @@ public partial class RiftorynTrial
         (SarnaHero,1)=>SkillText("Żywe wiązanie","Living Binding","Przywraca do 25 HP rannemu sojusznikowi w promieniu 8 m.","Restores up to 25 HP to an injured ally within 8 m."),
         (SarnaHero,2)=>SkillText("Oddech wytchnienia","Breath of Relief","Usuwa spowolnienie od Lodu i pnączy u Sarny i sojusznika w promieniu 8 m. Przez 3 s chroni przed spowolnieniem od Lodu.","Clears Ice chill and roots on Sarna and her ally within 8 m. Prevents Ice chill for 3 s."),
         (SarnaHero,3)=>SkillText("Pewny krok","Sure Step","Spowolnienie od Lodu trwa u Sarny 1,5 s zamiast 2 s.","Ice chill lasts 1.5 s on Sarna instead of 2 s."),
+        (SailaHero,0)=>SkillText("Zamrożenie mechanizmu","Freeze Mechanism","Wyłącza odkrytą, widoczną wieżę na 3 s.","Disables a discovered tower in sight for 3 s."),
+        (SailaHero,1)=>SkillText("Szron na lufie","Frosted Barrel","Spowalnia ostrzał odkrytej, widocznej wieży o 35% przez 5 s.","Slows a discovered tower's fire rate by 35% for 5 s."),
+        (SailaHero,2)=>SkillText("Pęknięcie lodu","Ice Fracture","Zadaje 35 obrażeń i wyłącza odkryte, widoczne wieże w promieniu 9 m na 2 s.","Deals 35 damage and disables revealed towers in sight within 9 m for 2 s."),
+        (SailaHero,3)=>SkillText("Zimny krok","Cold Step","Spowolnienia działające na Sailę są o 15% słabsze.","Slows affecting Saila are 15% weaker."),
         _=>("","")
     };
 
@@ -482,6 +511,7 @@ public partial class RiftorynTrial
         KonevaHero=>RiftorynCodexData.Text("Kieruje Patką, by osłonić duet lub odciągnąć ostrzał.","Directs Patsy to cover the pair or draw enemy fire."),
         MikoHero=>RiftorynCodexData.Text("Sabotuje wieże szpadą i wynalazkami.","Sabotages towers with his blade and inventions."),
         SarnaHero=>RiftorynCodexData.Text("Przyspiesza duet, leczy partnera i usuwa spowolnienia.","Speeds up the pair, heals her ally, and clears slows."),
+        SailaHero=>RiftorynCodexData.Text("Zamraża wieże i otwiera drużynie drogę pod ostrzałem.","Freezes towers and opens a path for the team under fire."),
         _=>""
     };
 

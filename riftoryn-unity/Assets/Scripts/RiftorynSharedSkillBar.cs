@@ -25,11 +25,12 @@ public partial class RiftorynTrial
     };
 
     // The original atlas has four complete kits. Reuse its existing symbols for
-    // the two newer kits and for the older, Q-only prototypes until they have art.
+    // newer kits and the older, Q-only prototypes until they have individual art.
     static (int row,int column) SkillIcon(int hero,int slot)
     {
         if(hero==MikoHero) return slot switch { 0=>(2,1), 1=>(0,1), _=>(2,0) };
         if(hero==SarnaHero) return slot switch { 0=>(2,2), 1=>(1,2), _=>(1,0) };
+        if(hero==SailaHero) return slot switch { 0=>(1,1), 1=>(1,0), _=>(2,0) };
         if(!IsSharedHero(hero)) return hero switch
         {
             1=>(0,1), 4=>(1,0), 5=>(1,2), 9=>(1,0), 10=>(1,1), _=>(0,0)
@@ -45,6 +46,7 @@ public partial class RiftorynTrial
         KonevaHero=>new Color(.88f,.62f,.96f),
         MikoHero=>new Color(.85f,.78f,.35f),
         SarnaHero=>new Color(.57f,.85f,.42f),
+        SailaHero=>new Color(.55f,.86f,1f),
         _=>new Color(.91f,.74f,.47f)
     };
 

@@ -10,7 +10,7 @@ Faza ręcznego ustawiania korzysta z tego samego edytora pól co wcześniejszy t
 
 - **LAN:** z ekranu ustawień nadal dostępny jest poprzedni test dwóch osób. Ma własny protokół, ekran połączenia i ograniczony zestaw synchronizowanych zdolności; nie jest jeszcze sieciową wersją nowego meczu ani nie obsługuje jego parametrów. Nie należy przedstawiać go jako pełnego wspólnego multiplayera. Ruch gościa korzysta już z tej samej funkcji ruchu co pozostałe postacie.
 - **Stare tryby i ranking:** starsze punkty wejścia i implementacja wyników pozostają w kodzie na czas migracji, lecz nie są osobnymi grami w menu. Dotychczasowy ranking można obejrzeć jako poprzednie wyniki; nowa gra nie dopisuje do niego wyników, bo jej konfiguracje i mapy nie są porównywalne ze starym duetem.
-- Sześć postaci ma pełniejszy zestaw Q/E/R ze Wspólnej ucieczki; pozostałe korzystają z dotychczas dostępnych zdolności testowych. To ograniczenie zawartości postaci, nie osobne warianty zasad dla różnej liczby graczy.
+- Siedem postaci ma zestaw Q/E/R w lokalnej grze: Kael, Nera, Zet, Koneva, Miko, Sarna i Saila. Pozostałe korzystają z dotychczas dostępnych zdolności testowych. To ograniczenie zawartości postaci, nie osobne warianty zasad dla różnej liczby graczy.
 
 ## Kontrola zmian
 
